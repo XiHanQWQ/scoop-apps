@@ -4078,7 +4078,6 @@ ting-en.json,Scoopforge/Extras-CN
 pixpin.json,Scoopforge/Extras-CN
 fishing-funds.json,Scoopforge/Extras-CN
 cajviewer_Scoopforge.json,Scoopforge/Extras-CN
-qttabbar-np-zh.json,Scoopforge/Extras-CN
 utools_Scoopforge.json,Scoopforge/Extras-CN
 wegame.json,Scoopforge/Extras-CN
 evcapture.json,Scoopforge/Extras-CN
@@ -8897,7 +8896,7 @@ recycle-bin_akirco.json,akirco/aki-apps
 pngquant_akirco.json,akirco/aki-apps
 oxipng_akirco.json,akirco/aki-apps
 wrangler_akirco.json,akirco/aki-apps
-qq-nt.json,akirco/aki-apps
+qq-nt_akirco.json,akirco/aki-apps
 xh_akirco.json,akirco/aki-apps
 qrcp_akirco.json,akirco/aki-apps
 electerm_akirco.json,akirco/aki-apps
@@ -9371,7 +9370,7 @@ bbdown-beta.json,DoveBoy/Apps
 youku.json,DoveBoy/Apps
 mpvconfigurator.json,DoveBoy/Apps
 malware-patch_DoveBoy.json,DoveBoy/Apps
-shadowsocks-qtun-plugin.json,DoveBoy/Apps
+shadowsocks-qtun-plugin_DoveBoy.json,DoveBoy/Apps
 pixeval.json,DoveBoy/Apps
 esearch_DoveBoy.json,DoveBoy/Apps
 qbittorrent-enhanced_DoveBoy.json,DoveBoy/Apps
@@ -9660,6 +9659,7 @@ fancontrol-net10.0.json,DoveBoy/Apps
 spacedrive.json,DoveBoy/Apps
 gnupg_DoveBoy.json,DoveBoy/Apps
 cloudflarespeedtest.json,DoveBoy/Apps
+ytdlp-interface.json,DoveBoy/Apps
 nanazip_DoveBoy.json,DoveBoy/Apps
 ttime.json,DoveBoy/Apps
 scrcpy_DoveBoy.json,DoveBoy/Apps
@@ -10244,7 +10244,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
@@ -12719,9 +12719,7 @@ normcap.json,Scoopforge/Extras-Plus
 scihubeva_Scoopforge.json,Scoopforge/Extras-Plus
 dorion_Scoopforge.json,Scoopforge/Extras-Plus
 file-converter.json,Scoopforge/Extras-Plus
-visual-studio-np.json,Scoopforge/Extras-Plus
 jigdo.json,Scoopforge/Extras-Plus
-cap-np.json,Scoopforge/Extras-Plus
 lrcget.json,Scoopforge/Extras-Plus
 notegen_Scoopforge.json,Scoopforge/Extras-Plus
 alexandria.json,Scoopforge/Extras-Plus
@@ -12740,7 +12738,6 @@ jupyterlab-desktop.json,Scoopforge/Extras-Plus
 netlogo.json,Scoopforge/Extras-Plus
 vmware-workstation-pro.json,Scoopforge/Extras-Plus
 ytdownloader.json,Scoopforge/Extras-Plus
-qttabbar-np_Scoopforge.json,Scoopforge/Extras-Plus
 musicat.json,Scoopforge/Extras-Plus
 rectanglewin.json,Scoopforge/Extras-Plus
 configure-defender.json,Scoopforge/Extras-Plus
@@ -12759,7 +12756,6 @@ ecopaste_Scoopforge.json,Scoopforge/Extras-Plus
 bitcomet_Scoopforge.json,Scoopforge/Extras-Plus
 defender-remover.json,Scoopforge/Extras-Plus
 tropy.json,Scoopforge/Extras-Plus
-peazip-np.json,Scoopforge/Extras-Plus
 landrop-latest.json,Scoopforge/Extras-Plus
 wisecare365_Scoopforge.json,Scoopforge/Extras-Plus
 cncnet-mental-omega.json,babo4d/scoop-xrtools
@@ -14696,6 +14692,7 @@ umlet-aoks.json,AntonOks/scoop-aoks
 ticker-aoks.json,AntonOks/scoop-aoks
 folderscanultra-aoks.json,AntonOks/scoop-aoks
 Network_Drive_Control-aoks.json,AntonOks/scoop-aoks
+openbao-aoks.json,AntonOks/scoop-aoks
 VictoriaMetrics-logs-aoks.json,AntonOks/scoop-aoks
 ftpuse-aoks.json,AntonOks/scoop-aoks
 kubectl-crossplane-aoks.json,AntonOks/scoop-aoks
