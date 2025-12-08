@@ -1,0 +1,33 @@
+{
+    "version": "8.12.0.0",
+    "description": "Pixel phone flashing GUI utility with features",
+    "homepage": "https://github.com/badabing2005/PixelFlasher",
+    "license": "GPL-3.0-or-later",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/badabing2005/PixelFlasher/releases/download/v8.12.0.0/PixelFlasher.exe",
+            "hash": "30df953fbc69deee8daf6241b9979e09b7b0ab7fa5a8bf9e24592c02814d119a"
+        }
+    },
+    "shortcuts": [
+        [
+            "PixelFlasher.exe",
+            "PixelFlasher"
+        ]
+    ],
+    "suggest": {
+        "adb": "main/adb"
+    },
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/badabing2005/PixelFlasher/releases/download/v$version/PixelFlasher.exe",
+                "hash": {
+                    "url": "$url.sha256",
+                    "find": "$sha256"
+                }
+            }
+        }
+    }
+}
