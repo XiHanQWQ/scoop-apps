@@ -5287,7 +5287,7 @@ gradle6.json,ScoopInstaller/Versions
 idea-rc.json,ScoopInstaller/Versions
 deepgit402.json,ScoopInstaller/Versions
 libreoffice-pre.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 orca3.json,ScoopInstaller/Versions
 postgresql15.json,ScoopInstaller/Versions
 qt-creator-beta.json,ScoopInstaller/Versions
@@ -9659,7 +9659,6 @@ fancontrol-net10.0.json,DoveBoy/Apps
 spacedrive.json,DoveBoy/Apps
 gnupg_DoveBoy.json,DoveBoy/Apps
 cloudflarespeedtest.json,DoveBoy/Apps
-ytdlp-interface.json,DoveBoy/Apps
 nanazip_DoveBoy.json,DoveBoy/Apps
 ttime.json,DoveBoy/Apps
 scrcpy_DoveBoy.json,DoveBoy/Apps
@@ -9929,7 +9928,7 @@ neovim_DoveBoy.json,DoveBoy/Apps
 screencapture_DoveBoy.json,DoveBoy/Apps
 iobit-unlocker_DoveBoy.json,DoveBoy/Apps
 qqmusic_DoveBoy.json,DoveBoy/Apps
-neteasemusic.json,DoveBoy/Apps
+neteasemusic_DoveBoy.json,DoveBoy/Apps
 mpv-lazy.json,DoveBoy/Apps
 clink_DoveBoy.json,DoveBoy/Apps
 pansy.json,DoveBoy/Apps
@@ -12560,7 +12559,7 @@ process-lasso.json,Small-Ku/turbo-bucket
 reshade-addon.json,Small-Ku/turbo-bucket
 yap-nightly.json,Small-Ku/turbo-bucket
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
