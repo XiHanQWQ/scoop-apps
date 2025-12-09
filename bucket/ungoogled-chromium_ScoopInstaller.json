@@ -13,6 +13,11 @@
             "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/142.0.7444.162-1.1/ungoogled-chromium_142.0.7444.162-1.1_windows_x86.zip",
             "hash": "da3ef610743c61af42cae7fd5a06aeec1d4a98c37ea7dcb7b2ba3f286594d47b",
             "extract_dir": "ungoogled-chromium_142.0.7444.162-1.1_windows_x86"
+        },
+        "arm64": {
+            "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/142.0.7444.162-1.1/ungoogled-chromium_142.0.7444.162-1.1_windows_arm64.zip",
+            "hash": "1274a76cc9328d5cb31a66fb0af8f75e1225df69aea60c7795c83bb47e146099",
+            "extract_dir": "ungoogled-chromium_142.0.7444.162-1.1_windows_arm64"
         }
     },
     "bin": [
@@ -51,6 +56,14 @@
                     "xpath": "//ul/li/a[contains(text(), \"$basename\")]/../ul/li[contains(text(), \"SHA256:\")]/code"
                 },
                 "extract_dir": "ungoogled-chromium_$version_windows_x86"
+            },
+            "arm64": {
+                "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/$version/ungoogled-chromium_$version_windows_arm64.zip",
+                "hash": {
+                    "url": "https://ungoogled-software.github.io/ungoogled-chromium-binaries/releases/windows/arm64/$matchMain",
+                    "xpath": "//ul/li/a[contains(text(), \"$basename\")]/../ul/li[contains(text(), \"SHA256:\")]/code"
+                },
+                "extract_dir": "ungoogled-chromium_$version_windows_arm64"
             }
         }
     }
