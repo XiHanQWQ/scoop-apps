@@ -8561,7 +8561,7 @@ psloggedon.json,niheaven/scoop-sysinternals
 junction.json,niheaven/scoop-sysinternals
 diskview.json,niheaven/scoop-sysinternals
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -8825,7 +8825,7 @@ figlet_akirco.json,akirco/aki-apps
 nyagos_akirco.json,akirco/aki-apps
 dingtalk_akirco.json,akirco/aki-apps
 nmap-portable.json,akirco/aki-apps
-firefox-zh-cn_akirco.json,akirco/aki-apps
+firefox-zh-cn.json,akirco/aki-apps
 audacity_akirco.json,akirco/aki-apps
 nvm_akirco.json,akirco/aki-apps
 gdrive_akirco.json,akirco/aki-apps
@@ -9729,12 +9729,12 @@ qrcp_DoveBoy.json,DoveBoy/Apps
 imagemagick_DoveBoy.json,DoveBoy/Apps
 psscripttools.json,DoveBoy/Apps
 crystaldiskinfo-shizuku-edition_DoveBoy.json,DoveBoy/Apps
-http-downloader_DoveBoy.json,DoveBoy/Apps
+http-downloader.json,DoveBoy/Apps
 runastool_DoveBoy.json,DoveBoy/Apps
 delapp_DoveBoy.json,DoveBoy/Apps
 pikatorrent.json,DoveBoy/Apps
 gh_DoveBoy.json,DoveBoy/Apps
-waveterm_DoveBoy.json,DoveBoy/Apps
+waveterm.json,DoveBoy/Apps
 pot-desktop_DoveBoy.json,DoveBoy/Apps
 one-api.json,DoveBoy/Apps
 retrieval-based-voice-conversion-webui.json,DoveBoy/Apps
@@ -11670,7 +11670,7 @@ LinkEase.json,ygguorun/scoop-bucket
 upgit.json,ygguorun/scoop-bucket
 MusicTag_ygguorun.json,ygguorun/scoop-bucket
 UniteTTC.json,ygguorun/scoop-bucket
-aDrive_ygguorun.json,ygguorun/scoop-bucket
+aDrive.json,ygguorun/scoop-bucket
 start.json,ygguorun/scoop-bucket
 EasyWindowSwitcher.json,ygguorun/scoop-bucket
 triangula_ygguorun.json,ygguorun/scoop-bucket
@@ -12848,11 +12848,12 @@ autologon_aoisummer.json,aoisummer/scoop-bucket
 crystaldiskmark-aoi.json,aoisummer/scoop-bucket
 usbtreeview_aoisummer.json,aoisummer/scoop-bucket
 snapraid_aoisummer.json,aoisummer/scoop-bucket
+exwrapper.json,aoisummer/scoop-bucket
 bbdown_aoisummer.json,aoisummer/scoop-bucket
 windowgrid_aoisummer.json,aoisummer/scoop-bucket
 crystaldiskinfo-aoi.json,aoisummer/scoop-bucket
 ddtv2.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn.json,aoisummer/scoop-bucket
 lunatranslator_aoisummer.json,aoisummer/scoop-bucket
 shadowsocks-rust-gnu.json,aoisummer/scoop-bucket
 php83-nts.json,aoisummer/scoop-bucket
@@ -14823,6 +14824,7 @@ cloneapp-aoks.json,AntonOks/scoop-aoks
 kdiff3-aoks.json,AntonOks/scoop-aoks
 geosetter-aoks.json,AntonOks/scoop-aoks
 git-ftp-aoks.json,AntonOks/scoop-aoks
+duck-aoks.json,AntonOks/scoop-aoks
 k0s-aoks.json,AntonOks/scoop-aoks
 ballerina-aoks.json,AntonOks/scoop-aoks
 helix-aoks.json,AntonOks/scoop-aoks
@@ -15008,7 +15010,7 @@ rtools44_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 emacs-mplscorwin.json,ShuguangSun/sgs-scoop-bucket
 juliamono_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 mupdf_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-super-productivity.json,ShuguangSun/sgs-scoop-bucket
+super-productivity_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 roboto.json,ShuguangSun/sgs-scoop-bucket
 Sarasa-Gothic.json,ShuguangSun/sgs-scoop-bucket
 chatbox_ce.json,ShuguangSun/sgs-scoop-bucket
