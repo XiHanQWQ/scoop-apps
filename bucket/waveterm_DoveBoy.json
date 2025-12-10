@@ -5,8 +5,12 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/wavetermdev/waveterm/releases/download/v0.13.0/Wave-win32-x64-0.13.0.zip",
-            "hash": "0acc8a13d5b3eb793c9200831b90f76fe8481939bfe772d8805f3c743469d5eb"
+            "url": "https://github.com/wavetermdev/waveterm/releases/download/v0.13.0/Wave-win32-x64-0.13.0.exe#/dl.7z",
+            "hash": "c357506f33b6eaa4519dbe1595466974915c1ba64008797d087bfefb2dd3a181",
+            "pre_install": [
+                "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
+                "Remove-Item \"$dir\\`$*\", \"$dir\\Unintall*\" -Recurse"
+            ]
         }
     },
     "shortcuts": [
@@ -21,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/wavetermdev/waveterm/releases/download/v$version/Wave-win32-x64-$version.zip"
+                "url": "https://github.com/wavetermdev/waveterm/releases/download/v$version/Wave-win32-x64-$version.exe#/dl.7z"
             }
         }
     }

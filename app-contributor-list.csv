@@ -1117,6 +1117,7 @@ netch.json,ScoopInstaller/Extras
 drawpen.json,ScoopInstaller/Extras
 context-menu-manager.json,ScoopInstaller/Extras
 dxwnd.json,ScoopInstaller/Extras
+jarkviewer.json,ScoopInstaller/Extras
 kdenlive.json,ScoopInstaller/Extras
 neoaxis-engine.json,ScoopInstaller/Extras
 mellowplayer.json,ScoopInstaller/Extras
@@ -2328,7 +2329,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -5287,7 +5288,7 @@ gradle6.json,ScoopInstaller/Versions
 idea-rc.json,ScoopInstaller/Versions
 deepgit402.json,ScoopInstaller/Versions
 libreoffice-pre.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 orca3.json,ScoopInstaller/Versions
 postgresql15.json,ScoopInstaller/Versions
 qt-creator-beta.json,ScoopInstaller/Versions
@@ -8290,7 +8291,7 @@ DelAge.json,dodorz/scoop
 Metapad.json,dodorz/scoop
 jsdb.json,dodorz/scoop
 Kimi.json,dodorz/scoop
-jarkViewer.json,dodorz/scoop
+jarkViewer_dodorz.json,dodorz/scoop
 FeiQ.json,dodorz/scoop
 Feep.json,dodorz/scoop
 NetSpeed.json,dodorz/scoop
@@ -8825,7 +8826,7 @@ figlet_akirco.json,akirco/aki-apps
 nyagos_akirco.json,akirco/aki-apps
 dingtalk_akirco.json,akirco/aki-apps
 nmap-portable.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 audacity_akirco.json,akirco/aki-apps
 nvm_akirco.json,akirco/aki-apps
 gdrive_akirco.json,akirco/aki-apps
@@ -8940,7 +8941,6 @@ mdbook_akirco.json,akirco/aki-apps
 tup_akirco.json,akirco/aki-apps
 say_akirco.json,akirco/aki-apps
 telegram_akirco.json,akirco/aki-apps
-bilibili-livehime.json,akirco/aki-apps
 wechatdevtools_akirco.json,akirco/aki-apps
 pseverything.json,akirco/aki-apps
 biyi_akirco.json,akirco/aki-apps
@@ -9729,12 +9729,12 @@ qrcp_DoveBoy.json,DoveBoy/Apps
 imagemagick_DoveBoy.json,DoveBoy/Apps
 psscripttools.json,DoveBoy/Apps
 crystaldiskinfo-shizuku-edition_DoveBoy.json,DoveBoy/Apps
-http-downloader.json,DoveBoy/Apps
+http-downloader_DoveBoy.json,DoveBoy/Apps
 runastool_DoveBoy.json,DoveBoy/Apps
 delapp_DoveBoy.json,DoveBoy/Apps
 pikatorrent.json,DoveBoy/Apps
 gh_DoveBoy.json,DoveBoy/Apps
-waveterm.json,DoveBoy/Apps
+waveterm_DoveBoy.json,DoveBoy/Apps
 pot-desktop_DoveBoy.json,DoveBoy/Apps
 one-api.json,DoveBoy/Apps
 retrieval-based-voice-conversion-webui.json,DoveBoy/Apps
@@ -10836,6 +10836,7 @@ mitec-icon-explorer.json,naderi/scoop-bucket
 dev-cpp-no-compiler.json,naderi/scoop-bucket
 authenticator.json,naderi/scoop-bucket
 teamlink.json,naderi/scoop-bucket
+duck_naderi.json,naderi/scoop-bucket
 winusb.json,naderi/scoop-bucket
 universal-viewer-free.json,naderi/scoop-bucket
 firefox-beta-de.json,naderi/scoop-bucket
@@ -11492,7 +11493,7 @@ oxker.json,aliesbelik/poldi
 waitforit.json,aliesbelik/poldi
 dry.json,aliesbelik/poldi
 dirx.json,aliesbelik/poldi
-jvms.json,aliesbelik/poldi
+jvms_aliesbelik.json,aliesbelik/poldi
 curli.json,aliesbelik/poldi
 meteor.json,aliesbelik/poldi
 filebrowser_aliesbelik.json,aliesbelik/poldi
@@ -12853,7 +12854,7 @@ bbdown_aoisummer.json,aoisummer/scoop-bucket
 windowgrid_aoisummer.json,aoisummer/scoop-bucket
 crystaldiskinfo-aoi.json,aoisummer/scoop-bucket
 ddtv2.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 lunatranslator_aoisummer.json,aoisummer/scoop-bucket
 shadowsocks-rust-gnu.json,aoisummer/scoop-bucket
 php83-nts.json,aoisummer/scoop-bucket
@@ -14824,7 +14825,6 @@ cloneapp-aoks.json,AntonOks/scoop-aoks
 kdiff3-aoks.json,AntonOks/scoop-aoks
 geosetter-aoks.json,AntonOks/scoop-aoks
 git-ftp-aoks.json,AntonOks/scoop-aoks
-duck-aoks.json,AntonOks/scoop-aoks
 k0s-aoks.json,AntonOks/scoop-aoks
 ballerina-aoks.json,AntonOks/scoop-aoks
 helix-aoks.json,AntonOks/scoop-aoks
@@ -15111,7 +15111,6 @@ gotify-tray.json,windedge/ladle-bucket
 zen-browser_windedge.json,windedge/ladle-bucket
 ollama-ipex-llm.json,windedge/ladle-bucket
 godot3-kotlin-jvm.json,windedge/ladle-bucket
-jvms_windedge.json,windedge/ladle-bucket
 tiny-rdm.json,windedge/ladle-bucket
 kotlin-language-server.json,windedge/ladle-bucket
 friction.json,windedge/ladle-bucket
