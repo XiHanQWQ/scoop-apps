@@ -8167,7 +8167,7 @@ CoverYourTracks.json,dodorz/scoop
 AnyTXTSearcher-OCR-np.json,dodorz/scoop
 CutyCapt.json,dodorz/scoop
 czkawka_dodorz.json,dodorz/scoop
-FastCopy.json,dodorz/scoop
+FastCopy_dodorz.json,dodorz/scoop
 DownKyi_dodorz.json,dodorz/scoop
 SetWallpaper.json,dodorz/scoop
 biyi.json,dodorz/scoop
@@ -8768,6 +8768,7 @@ ollama_akirco.json,akirco/aki-apps
 x264_akirco.json,akirco/aki-apps
 mysql_akirco.json,akirco/aki-apps
 notion_akirco.json,akirco/aki-apps
+cursor.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
 ima-copilot.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
@@ -8792,7 +8793,7 @@ xsv_akirco.json,akirco/aki-apps
 mvndaemon_akirco.json,akirco/aki-apps
 httpstat_akirco.json,akirco/aki-apps
 vcredist2015.json,akirco/aki-apps
-officetoolplus_akirco.json,akirco/aki-apps
+officetoolplus.json,akirco/aki-apps
 simple-live.json,akirco/aki-apps
 fiddler_akirco.json,akirco/aki-apps
 shellcheck_akirco.json,akirco/aki-apps
@@ -8872,7 +8873,7 @@ prs_akirco.json,akirco/aki-apps
 spotube_akirco.json,akirco/aki-apps
 rustdesk_akirco.json,akirco/aki-apps
 bob.json,akirco/aki-apps
-vscode_akirco.json,akirco/aki-apps
+vscode.json,akirco/aki-apps
 scrcpy_akirco.json,akirco/aki-apps
 empty-recycle-bin_akirco.json,akirco/aki-apps
 easywsl.json,akirco/aki-apps
@@ -9473,7 +9474,7 @@ videofusion.json,DoveBoy/Apps
 yasocut.json,DoveBoy/Apps
 wechatrealfriends.json,DoveBoy/Apps
 tai.json,DoveBoy/Apps
-officetoolplus.json,DoveBoy/Apps
+officetoolplus_DoveBoy.json,DoveBoy/Apps
 syncthing-beta.json,DoveBoy/Apps
 tageditor-qt5.json,DoveBoy/Apps
 study-xxqg-sjkhsl.json,DoveBoy/Apps
@@ -9896,7 +9897,6 @@ rubick_DoveBoy.json,DoveBoy/Apps
 vidbee.json,DoveBoy/Apps
 crystaldiskmark_DoveBoy.json,DoveBoy/Apps
 flyoobe.json,DoveBoy/Apps
-fastcopy_DoveBoy.json,DoveBoy/Apps
 opensearcher-win7.json,DoveBoy/Apps
 go-drive.json,DoveBoy/Apps
 waifu2x-converter-cpp_DoveBoy.json,DoveBoy/Apps
@@ -10020,7 +10020,7 @@ pandoc_DoveBoy.json,DoveBoy/Apps
 resizem.json,DoveBoy/Apps
 autoruns_DoveBoy.json,DoveBoy/Apps
 algermusicplayer.json,DoveBoy/Apps
-quicklook.json,DoveBoy/Apps
+quicklook_DoveBoy.json,DoveBoy/Apps
 fx_DoveBoy.json,DoveBoy/Apps
 nssm_DoveBoy.json,DoveBoy/Apps
 alisthelper_DoveBoy.json,DoveBoy/Apps
@@ -10166,7 +10166,7 @@ wnr_zhoujin7.json,zhoujin7/tomato
 Nacos.json,zhoujin7/tomato
 AdiIRC_zhoujin7.json,zhoujin7/tomato
 CCleaner540.json,zhoujin7/tomato
-Q-Dir_zhoujin7.json,zhoujin7/tomato
+Q-Dir.json,zhoujin7/tomato
 OracleJDK11.json,zhoujin7/tomato
 HBuilderX_zhoujin7.json,zhoujin7/tomato
 soar.json,zhoujin7/tomato
@@ -10246,7 +10246,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
@@ -12477,7 +12477,7 @@ fiddler-everywhere.json,seumsc/scoop-seu
 video2x_seumsc.json,seumsc/scoop-seu
 foobar2000-preview.json,seumsc/scoop-seu
 renpy-translator.json,seumsc/scoop-seu
-kook_seumsc.json,seumsc/scoop-seu
+kook.json,seumsc/scoop-seu
 autowikibrowser.json,seumsc/scoop-seu
 eduvpn.json,seumsc/scoop-seu
 librescore.json,seumsc/scoop-seu
@@ -12528,7 +12528,7 @@ v2rayn-core_seumsc.json,seumsc/scoop-seu
 clash-dotnet.json,seumsc/scoop-seu
 sdr-cleaner_seumsc.json,seumsc/scoop-seu
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
@@ -12813,7 +12813,7 @@ bbdown_aoisummer.json,aoisummer/scoop-bucket
 windowgrid_aoisummer.json,aoisummer/scoop-bucket
 crystaldiskinfo-aoi.json,aoisummer/scoop-bucket
 ddtv2.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn.json,aoisummer/scoop-bucket
 lunatranslator_aoisummer.json,aoisummer/scoop-bucket
 shadowsocks-rust-gnu.json,aoisummer/scoop-bucket
 php83-nts.json,aoisummer/scoop-bucket
