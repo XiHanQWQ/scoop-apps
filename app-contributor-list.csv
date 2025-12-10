@@ -2329,7 +2329,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -7594,7 +7594,7 @@ model-b.json,hermanjustnu/scoop-emulators
 ppsspp-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin-beta.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
-steam-rom-manager_hermanjustnu.json,hermanjustnu/scoop-emulators
+steam-rom-manager.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
 mgba-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 sameboy_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -8361,7 +8361,7 @@ ditaa.json,dodorz/scoop
 edge-TTS-record.json,dodorz/scoop
 yaml2json.json,dodorz/scoop
 win32pad.json,dodorz/scoop
-Goose_dodorz.json,dodorz/scoop
+Goose.json,dodorz/scoop
 goawk.json,dodorz/scoop
 ShortcutsSearchAndReplace.json,dodorz/scoop
 Gammadyne-CLI.json,dodorz/scoop
