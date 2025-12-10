@@ -7594,9 +7594,9 @@ model-b.json,hermanjustnu/scoop-emulators
 ppsspp-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin-beta.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
-steam-rom-manager.json,hermanjustnu/scoop-emulators
+steam-rom-manager_hermanjustnu.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
-mgba-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+mgba-dev.json,hermanjustnu/scoop-emulators
 sameboy_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 cemuhook.json,hermanjustnu/scoop-emulators
@@ -8361,7 +8361,7 @@ ditaa.json,dodorz/scoop
 edge-TTS-record.json,dodorz/scoop
 yaml2json.json,dodorz/scoop
 win32pad.json,dodorz/scoop
-Goose.json,dodorz/scoop
+Goose_dodorz.json,dodorz/scoop
 goawk.json,dodorz/scoop
 ShortcutsSearchAndReplace.json,dodorz/scoop
 Gammadyne-CLI.json,dodorz/scoop
@@ -8597,7 +8597,7 @@ visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 spaghettikart.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
-xemu_borger.json,borger/scoop-emulators
+xemu.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
@@ -9686,6 +9686,7 @@ experimental-clash.json,DoveBoy/Apps
 typora-dev_DoveBoy.json,DoveBoy/Apps
 clip-share-server.json,DoveBoy/Apps
 mihomo-compatible.json,DoveBoy/Apps
+crosspaste.json,DoveBoy/Apps
 bestsub.json,DoveBoy/Apps
 sumatrapdf-installer_DoveBoy.json,DoveBoy/Apps
 tldr_DoveBoy.json,DoveBoy/Apps
@@ -12650,7 +12651,7 @@ fiddler-everywhere.json,seumsc/scoop-seu
 video2x_seumsc.json,seumsc/scoop-seu
 foobar2000-preview.json,seumsc/scoop-seu
 renpy-translator.json,seumsc/scoop-seu
-kook_seumsc.json,seumsc/scoop-seu
+kook.json,seumsc/scoop-seu
 autowikibrowser.json,seumsc/scoop-seu
 eduvpn.json,seumsc/scoop-seu
 librescore.json,seumsc/scoop-seu
@@ -13121,7 +13122,7 @@ JMComic-qt.json,cc713/ownscoop
 aegisub-arch.json,cc713/ownscoop
 qimgv_cc713.json,cc713/ownscoop
 nomacs.json,cc713/ownscoop
-thunderbird-zh-cn_cc713.json,cc713/ownscoop
+thunderbird-zh-cn.json,cc713/ownscoop
 kiwix-tools.json,cc713/ownscoop
 qimgv-dev.json,cc713/ownscoop
 palworld-save-pal.json,cc713/ownscoop
@@ -15173,7 +15174,6 @@ uivonim_younger-1.json,younger-1/scoop-it
 epick.json,younger-1/scoop-it
 sqlite3dll.json,younger-1/scoop-it
 selene_younger-1.json,younger-1/scoop-it
-vlang_younger-1.json,younger-1/scoop-it
 im-select.json,younger-1/scoop-it
 stylua_younger-1.json,younger-1/scoop-it
 hello.json,younger-1/scoop-it
