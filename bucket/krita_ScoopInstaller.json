@@ -9,7 +9,7 @@
             "hash": "092297c5e6391e4528cc611f3b91fb4abcb73b91e978251a97825eaca4ffeb5f"
         }
     },
-    "pre_install": "Remove-Item \"$dir\\`$*\", \"$dir\\uninstall.exe.nsis\" -Recurse -Force",
+    "pre_install": "Remove-Item \"$dir\\`$*\" -Recurse -Force",
     "bin": [
         "bin\\krita.exe",
         "bin\\kritarunner.exe"

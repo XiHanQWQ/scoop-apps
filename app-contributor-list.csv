@@ -7770,6 +7770,7 @@ Encrypto.json,dodorz/scoop
 tattoy.json,dodorz/scoop
 CSVed.json,dodorz/scoop
 Wait.json,dodorz/scoop
+pdftk-java.json,dodorz/scoop
 DirectoryCompare.json,dodorz/scoop
 gofx.json,dodorz/scoop
 PDF-XChange-Viewer.json,dodorz/scoop
@@ -8591,7 +8592,7 @@ scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 2ship2harkinian_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
-snes9x-dev.json,borger/scoop-emulators
+snes9x-dev_borger.json,borger/scoop-emulators
 gopher64.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 spaghettikart.json,borger/scoop-emulators
@@ -8722,7 +8723,7 @@ emeditor_ViCrack.json,ViCrack/scoop-bucket
 rubick.json,ViCrack/scoop-bucket
 webshell_generate_ViCrack.json,ViCrack/scoop-bucket
 gowitness.json,ViCrack/scoop-bucket
-apifox.json,ViCrack/scoop-bucket
+apifox_ViCrack.json,ViCrack/scoop-bucket
 edx.json,ViCrack/scoop-bucket
 newfiletime_ViCrack.json,ViCrack/scoop-bucket
 rad_ViCrack.json,ViCrack/scoop-bucket
@@ -8867,7 +8868,7 @@ ncspot_akirco.json,akirco/aki-apps
 win32-openssh.json,akirco/aki-apps
 scrcpy-gui_akirco.json,akirco/aki-apps
 dart_akirco.json,akirco/aki-apps
-googlechrome.json,akirco/aki-apps
+googlechrome_akirco.json,akirco/aki-apps
 prs_akirco.json,akirco/aki-apps
 spotube_akirco.json,akirco/aki-apps
 rustdesk_akirco.json,akirco/aki-apps
@@ -9483,7 +9484,7 @@ pdfarranger_DoveBoy.json,DoveBoy/Apps
 lux_DoveBoy.json,DoveBoy/Apps
 clashn.json,DoveBoy/Apps
 ungoogled-chromium_DoveBoy.json,DoveBoy/Apps
-krita_DoveBoy.json,DoveBoy/Apps
+krita.json,DoveBoy/Apps
 upx_DoveBoy.json,DoveBoy/Apps
 chatall_DoveBoy.json,DoveBoy/Apps
 gpg_DoveBoy.json,DoveBoy/Apps
@@ -12527,7 +12528,7 @@ v2rayn-core_seumsc.json,seumsc/scoop-seu
 clash-dotnet.json,seumsc/scoop-seu
 sdr-cleaner_seumsc.json,seumsc/scoop-seu
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
@@ -12621,7 +12622,7 @@ YogaDNS.json,Darkatse/Scoop-Darkatse
 TestMem5_Darkatse.json,Darkatse/Scoop-Darkatse
 JHenTai.json,Darkatse/Scoop-Darkatse
 Netch_Darkatse.json,Darkatse/Scoop-Darkatse
-Termius.json,Darkatse/Scoop-Darkatse
+Termius_Darkatse.json,Darkatse/Scoop-Darkatse
 memtest.json,Darkatse/Scoop-Darkatse
 Brook-GUI.json,Darkatse/Scoop-Darkatse
 ZenTimings.json,Darkatse/Scoop-Darkatse
