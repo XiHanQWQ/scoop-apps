@@ -8591,7 +8591,7 @@ scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 2ship2harkinian_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
-snes9x-dev_borger.json,borger/scoop-emulators
+snes9x-dev.json,borger/scoop-emulators
 gopher64.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 spaghettikart.json,borger/scoop-emulators
@@ -8768,7 +8768,6 @@ ollama_akirco.json,akirco/aki-apps
 x264_akirco.json,akirco/aki-apps
 mysql_akirco.json,akirco/aki-apps
 notion_akirco.json,akirco/aki-apps
-cursor.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
 ima-copilot.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
@@ -8868,7 +8867,7 @@ ncspot_akirco.json,akirco/aki-apps
 win32-openssh.json,akirco/aki-apps
 scrcpy-gui_akirco.json,akirco/aki-apps
 dart_akirco.json,akirco/aki-apps
-googlechrome_akirco.json,akirco/aki-apps
+googlechrome.json,akirco/aki-apps
 prs_akirco.json,akirco/aki-apps
 spotube_akirco.json,akirco/aki-apps
 rustdesk_akirco.json,akirco/aki-apps
@@ -11612,7 +11611,7 @@ sideloadly.json,WinApps-share/WinApps-bucket
 whynot-win11.json,WinApps-share/WinApps-bucket
 xiaowan_WinApps-share.json,WinApps-share/WinApps-bucket
 flipIt.json,WinApps-share/WinApps-bucket
-pixpin_WinApps-share.json,WinApps-share/WinApps-bucket
+pixpin.json,WinApps-share/WinApps-bucket
 winscp_WinApps-share.json,WinApps-share/WinApps-bucket
 ditto-np.json,WinApps-share/WinApps-bucket
 proxypin-np.json,WinApps-share/WinApps-bucket
@@ -12622,7 +12621,7 @@ YogaDNS.json,Darkatse/Scoop-Darkatse
 TestMem5_Darkatse.json,Darkatse/Scoop-Darkatse
 JHenTai.json,Darkatse/Scoop-Darkatse
 Netch_Darkatse.json,Darkatse/Scoop-Darkatse
-Termius_Darkatse.json,Darkatse/Scoop-Darkatse
+Termius.json,Darkatse/Scoop-Darkatse
 memtest.json,Darkatse/Scoop-Darkatse
 Brook-GUI.json,Darkatse/Scoop-Darkatse
 ZenTimings.json,Darkatse/Scoop-Darkatse
