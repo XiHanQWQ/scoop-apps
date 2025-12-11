@@ -5368,6 +5368,7 @@ mingw-winlibs-llvm-ucrt.json,ScoopInstaller/Versions
 love10.json,ScoopInstaller/Versions
 graphicsmagick-q16.json,ScoopInstaller/Versions
 megatools-beta.json,ScoopInstaller/Versions
+php84-xdebug.json,ScoopInstaller/Versions
 llama.cpp-hip-gfx1030.json,ScoopInstaller/Versions
 rustdesk-nightly.json,ScoopInstaller/Versions
 ffmpeg-shared-4.4.1.json,ScoopInstaller/Versions
@@ -8563,7 +8564,7 @@ psloggedon.json,niheaven/scoop-sysinternals
 junction.json,niheaven/scoop-sysinternals
 diskview.json,niheaven/scoop-sysinternals
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -10246,7 +10247,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
