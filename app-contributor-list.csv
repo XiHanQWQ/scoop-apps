@@ -8722,7 +8722,7 @@ emeditor_ViCrack.json,ViCrack/scoop-bucket
 rubick.json,ViCrack/scoop-bucket
 webshell_generate_ViCrack.json,ViCrack/scoop-bucket
 gowitness.json,ViCrack/scoop-bucket
-apifox_ViCrack.json,ViCrack/scoop-bucket
+apifox.json,ViCrack/scoop-bucket
 edx.json,ViCrack/scoop-bucket
 newfiletime_ViCrack.json,ViCrack/scoop-bucket
 rad_ViCrack.json,ViCrack/scoop-bucket
@@ -8768,6 +8768,7 @@ ollama_akirco.json,akirco/aki-apps
 x264_akirco.json,akirco/aki-apps
 mysql_akirco.json,akirco/aki-apps
 notion_akirco.json,akirco/aki-apps
+cursor.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
 ima-copilot.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
@@ -11576,7 +11577,6 @@ rufus-portable_WinApps-share.json,WinApps-share/WinApps-bucket
 jianying.json,WinApps-share/WinApps-bucket
 vmware.json,WinApps-share/WinApps-bucket
 itunes-old.json,WinApps-share/WinApps-bucket
-autodarkmode-setup.json,WinApps-share/WinApps-bucket
 musicfree-np.json,WinApps-share/WinApps-bucket
 steam.json,WinApps-share/WinApps-bucket
 tai_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -11646,6 +11646,7 @@ rapidefi.json,WinApps-share/WinApps-bucket
 clean-my-wechat.json,WinApps-share/WinApps-bucket
 handbrake_WinApps-share.json,WinApps-share/WinApps-bucket
 twinkle-tray_WinApps-share.json,WinApps-share/WinApps-bucket
+autodarkmode-np.json,WinApps-share/WinApps-bucket
 weasel_WinApps-share.json,WinApps-share/WinApps-bucket
 motrix_WinApps-share.json,WinApps-share/WinApps-bucket
 lx-music_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -11698,7 +11699,6 @@ geek-uninstaller.json,WinApps-share/WinApps-bucket
 everything-toolbar_WinApps-share.json,WinApps-share/WinApps-bucket
 wiztree_WinApps-share.json,WinApps-share/WinApps-bucket
 bandizip_WinApps-share.json,WinApps-share/WinApps-bucket
-openai-translator_WinApps-share.json,WinApps-share/WinApps-bucket
 ecopaste.json,WinApps-share/WinApps-bucket
 office-tool-plus_WinApps-share.json,WinApps-share/WinApps-bucket
 sharex-setup.json,WinApps-share/WinApps-bucket
@@ -11706,6 +11706,7 @@ wepe_WinApps-share.json,WinApps-share/WinApps-bucket
 notepad3_WinApps-share.json,WinApps-share/WinApps-bucket
 todesk_WinApps-share.json,WinApps-share/WinApps-bucket
 ppduck3.json,WinApps-share/WinApps-bucket
+nextai-translator_WinApps-share.json,WinApps-share/WinApps-bucket
 directx-repair.json,WinApps-share/WinApps-bucket
 bandizip-np.json,WinApps-share/WinApps-bucket
 quicklook_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -12527,7 +12528,7 @@ v2rayn-core_seumsc.json,seumsc/scoop-seu
 clash-dotnet.json,seumsc/scoop-seu
 sdr-cleaner_seumsc.json,seumsc/scoop-seu
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
