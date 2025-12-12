@@ -7810,6 +7810,7 @@ SpeedCrunch_dodorz.json,dodorz/scoop
 XpdfReader.json,dodorz/scoop
 ExifPilot.json,dodorz/scoop
 ClipX.json,dodorz/scoop
+AutoGLM.json,dodorz/scoop
 Comate.json,dodorz/scoop
 MarkEditor.json,dodorz/scoop
 CMDFocus.json,dodorz/scoop
@@ -7917,7 +7918,6 @@ rg-gui.json,dodorz/scoop
 Fotor.json,dodorz/scoop
 DataLab.json,dodorz/scoop
 OpenHashTab.json,dodorz/scoop
-PDFGear_dodorz.json,dodorz/scoop
 PictureCollageMaker.json,dodorz/scoop
 Mendeley_dodorz.json,dodorz/scoop
 SocksCap64.json,dodorz/scoop
@@ -9529,7 +9529,7 @@ lky-officetools_DoveBoy.json,DoveBoy/Apps
 mapdownload.json,DoveBoy/Apps
 chsrc_DoveBoy.json,DoveBoy/Apps
 compactgui-beta.json,DoveBoy/Apps
-flclash_DoveBoy.json,DoveBoy/Apps
+flclash.json,DoveBoy/Apps
 animeko-pre.json,DoveBoy/Apps
 vocal-separate.json,DoveBoy/Apps
 watttoolkit-beta.json,DoveBoy/Apps
@@ -9706,7 +9706,6 @@ bilibili_DoveBoy.json,DoveBoy/Apps
 wpsoffice-cn.json,DoveBoy/Apps
 restart-explorer_DoveBoy.json,DoveBoy/Apps
 optimizer_DoveBoy.json,DoveBoy/Apps
-chromium.json,DoveBoy/Apps
 nekoray_DoveBoy.json,DoveBoy/Apps
 pnpm-tab-completion.json,DoveBoy/Apps
 kando_DoveBoy.json,DoveBoy/Apps
@@ -11397,6 +11396,7 @@ ddosify_aliesbelik.json,aliesbelik/poldi
 walk_aliesbelik.json,aliesbelik/poldi
 tcping_aliesbelik.json,aliesbelik/poldi
 gut_aliesbelik.json,aliesbelik/poldi
+ttdl_aliesbelik.json,aliesbelik/poldi
 taplo_aliesbelik.json,aliesbelik/poldi
 jc_aliesbelik.json,aliesbelik/poldi
 oha_aliesbelik.json,aliesbelik/poldi
@@ -12783,6 +12783,7 @@ musicat.json,Scoopforge/Extras-Plus
 rectanglewin.json,Scoopforge/Extras-Plus
 configure-defender.json,Scoopforge/Extras-Plus
 autodarkmode_Scoopforge.json,Scoopforge/Extras-Plus
+stirlingpdf.json,Scoopforge/Extras-Plus
 mogan_Scoopforge.json,Scoopforge/Extras-Plus
 filecentipede.json,Scoopforge/Extras-Plus
 dbgate.json,Scoopforge/Extras-Plus
@@ -12992,7 +12993,7 @@ ImDiskToolkit.json,cc713/ownscoop
 Irfanview_cc713.json,cc713/ownscoop
 gitextensions_cc713.json,cc713/ownscoop
 gimagereader_cc713.json,cc713/ownscoop
-LunaTranslator.json,cc713/ownscoop
+LunaTranslator_cc713.json,cc713/ownscoop
 ghostscript_cc713.json,cc713/ownscoop
 firefox-zh-CN_cc713.json,cc713/ownscoop
 foobox-cn.json,cc713/ownscoop
