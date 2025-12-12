@@ -8564,7 +8564,7 @@ psloggedon.json,niheaven/scoop-sysinternals
 junction.json,niheaven/scoop-sysinternals
 diskview.json,niheaven/scoop-sysinternals
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -8770,6 +8770,7 @@ ollama_akirco.json,akirco/aki-apps
 x264_akirco.json,akirco/aki-apps
 mysql_akirco.json,akirco/aki-apps
 notion_akirco.json,akirco/aki-apps
+cursor_akirco.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
 ima-copilot.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
@@ -8894,6 +8895,7 @@ bilibili_akirco.json,akirco/aki-apps
 aliyundrive.json,akirco/aki-apps
 zola_akirco.json,akirco/aki-apps
 miniconda3_akirco.json,akirco/aki-apps
+chromium_akirco.json,akirco/aki-apps
 python_akirco.json,akirco/aki-apps
 recycle-bin_akirco.json,akirco/aki-apps
 pngquant_akirco.json,akirco/aki-apps
@@ -9557,6 +9559,7 @@ clashsinicizationtool.json,DoveBoy/Apps
 idcard-generator.json,DoveBoy/Apps
 jq_DoveBoy.json,DoveBoy/Apps
 bbdown_DoveBoy.json,DoveBoy/Apps
+audacity_DoveBoy.json,DoveBoy/Apps
 nping.json,DoveBoy/Apps
 v2raya-unstable.json,DoveBoy/Apps
 scrcpy-mask.json,DoveBoy/Apps
@@ -12478,7 +12481,7 @@ fiddler-everywhere.json,seumsc/scoop-seu
 video2x_seumsc.json,seumsc/scoop-seu
 foobar2000-preview.json,seumsc/scoop-seu
 renpy-translator.json,seumsc/scoop-seu
-kook.json,seumsc/scoop-seu
+kook_seumsc.json,seumsc/scoop-seu
 autowikibrowser.json,seumsc/scoop-seu
 eduvpn.json,seumsc/scoop-seu
 librescore.json,seumsc/scoop-seu
@@ -12529,7 +12532,7 @@ v2rayn-core_seumsc.json,seumsc/scoop-seu
 clash-dotnet.json,seumsc/scoop-seu
 sdr-cleaner_seumsc.json,seumsc/scoop-seu
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
@@ -15013,6 +15016,7 @@ xpipe-aoks.json,AntonOks/scoop-aoks
 osquery-aoks.json,AntonOks/scoop-aoks
 xinorbis-aoks.json,AntonOks/scoop-aoks
 WixEdit-aoks.json,AntonOks/scoop-aoks
+xournalpp-aoks.json,AntonOks/scoop-aoks
 marktext-aoks.json,AntonOks/scoop-aoks
 laverna-aoks.json,AntonOks/scoop-aoks
 cudatext-aoks.json,AntonOks/scoop-aoks
