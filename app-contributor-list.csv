@@ -6269,6 +6269,7 @@ stevedore-np.json,ScoopInstaller/Nonportable
 everything-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 textpad-np.json,ScoopInstaller/Nonportable
 mullvadvpn-np.json,ScoopInstaller/Nonportable
+veyon-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 fman-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 lantern-np.json,ScoopInstaller/Nonportable
 anki-np.json,ScoopInstaller/Nonportable
@@ -7810,7 +7811,6 @@ SpeedCrunch_dodorz.json,dodorz/scoop
 XpdfReader.json,dodorz/scoop
 ExifPilot.json,dodorz/scoop
 ClipX.json,dodorz/scoop
-AutoGLM.json,dodorz/scoop
 Comate.json,dodorz/scoop
 MarkEditor.json,dodorz/scoop
 CMDFocus.json,dodorz/scoop
@@ -8151,6 +8151,7 @@ Iridium.json,dodorz/scoop
 gImageReader-Qt.json,dodorz/scoop
 Halite.json,dodorz/scoop
 KillEmAllMini.json,dodorz/scoop
+AutoTyper.json,dodorz/scoop
 TarTool.json,dodorz/scoop
 AlephNote.json,dodorz/scoop
 WebCatalog.json,dodorz/scoop
@@ -8755,7 +8756,7 @@ java-echo-generator-release.json,ViCrack/scoop-bucket
 java-memshell-generator.json,ViCrack/scoop-bucket
 ja.json,ViCrack/scoop-bucket
 siyuan.json,ViCrack/scoop-bucket
-yakit_ViCrack.json,ViCrack/scoop-bucket
+yakit.json,ViCrack/scoop-bucket
 treesize_ViCrack.json,ViCrack/scoop-bucket
 jianyingpro_akirco.json,akirco/aki-apps
 monolith_akirco.json,akirco/aki-apps
@@ -8770,6 +8771,7 @@ ollama_akirco.json,akirco/aki-apps
 x264_akirco.json,akirco/aki-apps
 mysql_akirco.json,akirco/aki-apps
 notion_akirco.json,akirco/aki-apps
+cursor_akirco.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
 ima-copilot.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
@@ -9529,7 +9531,7 @@ lky-officetools_DoveBoy.json,DoveBoy/Apps
 mapdownload.json,DoveBoy/Apps
 chsrc_DoveBoy.json,DoveBoy/Apps
 compactgui-beta.json,DoveBoy/Apps
-flclash.json,DoveBoy/Apps
+flclash_DoveBoy.json,DoveBoy/Apps
 animeko-pre.json,DoveBoy/Apps
 vocal-separate.json,DoveBoy/Apps
 watttoolkit-beta.json,DoveBoy/Apps
@@ -10840,7 +10842,6 @@ mitec-icon-explorer.json,naderi/scoop-bucket
 dev-cpp-no-compiler.json,naderi/scoop-bucket
 authenticator.json,naderi/scoop-bucket
 teamlink.json,naderi/scoop-bucket
-duck_naderi.json,naderi/scoop-bucket
 winusb.json,naderi/scoop-bucket
 universal-viewer-free.json,naderi/scoop-bucket
 firefox-beta-de.json,naderi/scoop-bucket
@@ -14672,7 +14673,7 @@ r-4.1.json,ShuguangSun/sgs-scoop-bucket
 pandoc-crossref_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 positron-user.json,ShuguangSun/sgs-scoop-bucket
 rtools42_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-cherry-studio_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+cherry-studio.json,ShuguangSun/sgs-scoop-bucket
 r-4.3.2.json,ShuguangSun/sgs-scoop-bucket
 vscodium_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 qpdf_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
