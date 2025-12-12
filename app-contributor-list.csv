@@ -8770,7 +8770,6 @@ ollama_akirco.json,akirco/aki-apps
 x264_akirco.json,akirco/aki-apps
 mysql_akirco.json,akirco/aki-apps
 notion_akirco.json,akirco/aki-apps
-cursor_akirco.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
 ima-copilot.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
@@ -9559,7 +9558,6 @@ clashsinicizationtool.json,DoveBoy/Apps
 idcard-generator.json,DoveBoy/Apps
 jq_DoveBoy.json,DoveBoy/Apps
 bbdown_DoveBoy.json,DoveBoy/Apps
-audacity_DoveBoy.json,DoveBoy/Apps
 nping.json,DoveBoy/Apps
 v2raya-unstable.json,DoveBoy/Apps
 scrcpy-mask.json,DoveBoy/Apps
@@ -9708,6 +9706,7 @@ bilibili_DoveBoy.json,DoveBoy/Apps
 wpsoffice-cn.json,DoveBoy/Apps
 restart-explorer_DoveBoy.json,DoveBoy/Apps
 optimizer_DoveBoy.json,DoveBoy/Apps
+chromium.json,DoveBoy/Apps
 nekoray_DoveBoy.json,DoveBoy/Apps
 pnpm-tab-completion.json,DoveBoy/Apps
 kando_DoveBoy.json,DoveBoy/Apps
@@ -10250,7 +10249,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
@@ -12532,7 +12531,7 @@ v2rayn-core_seumsc.json,seumsc/scoop-seu
 clash-dotnet.json,seumsc/scoop-seu
 sdr-cleaner_seumsc.json,seumsc/scoop-seu
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
@@ -12993,7 +12992,7 @@ ImDiskToolkit.json,cc713/ownscoop
 Irfanview_cc713.json,cc713/ownscoop
 gitextensions_cc713.json,cc713/ownscoop
 gimagereader_cc713.json,cc713/ownscoop
-LunaTranslator_cc713.json,cc713/ownscoop
+LunaTranslator.json,cc713/ownscoop
 ghostscript_cc713.json,cc713/ownscoop
 firefox-zh-CN_cc713.json,cc713/ownscoop
 foobox-cn.json,cc713/ownscoop
@@ -15016,7 +15015,6 @@ xpipe-aoks.json,AntonOks/scoop-aoks
 osquery-aoks.json,AntonOks/scoop-aoks
 xinorbis-aoks.json,AntonOks/scoop-aoks
 WixEdit-aoks.json,AntonOks/scoop-aoks
-xournalpp-aoks.json,AntonOks/scoop-aoks
 marktext-aoks.json,AntonOks/scoop-aoks
 laverna-aoks.json,AntonOks/scoop-aoks
 cudatext-aoks.json,AntonOks/scoop-aoks
