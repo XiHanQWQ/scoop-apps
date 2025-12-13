@@ -9609,7 +9609,7 @@ upscayl_DoveBoy.json,DoveBoy/Apps
 lx-music-desktop-win7.json,DoveBoy/Apps
 czkawka-gui_DoveBoy.json,DoveBoy/Apps
 clash-nyanpasu_DoveBoy.json,DoveBoy/Apps
-imageglass_DoveBoy.json,DoveBoy/Apps
+imageglass.json,DoveBoy/Apps
 winsw_DoveBoy.json,DoveBoy/Apps
 throne_DoveBoy.json,DoveBoy/Apps
 vimtutor_DoveBoy.json,DoveBoy/Apps
@@ -10249,7 +10249,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
@@ -11406,7 +11406,6 @@ ddosify_aliesbelik.json,aliesbelik/poldi
 walk_aliesbelik.json,aliesbelik/poldi
 tcping_aliesbelik.json,aliesbelik/poldi
 gut_aliesbelik.json,aliesbelik/poldi
-ttdl_aliesbelik.json,aliesbelik/poldi
 taplo_aliesbelik.json,aliesbelik/poldi
 jc_aliesbelik.json,aliesbelik/poldi
 oha_aliesbelik.json,aliesbelik/poldi
