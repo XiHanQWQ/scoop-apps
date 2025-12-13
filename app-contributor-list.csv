@@ -1709,6 +1709,7 @@ spacescape.json,ScoopInstaller/Extras
 lunarvim.json,ScoopInstaller/Extras
 angr-management.json,ScoopInstaller/Extras
 flashplayer-sa.json,ScoopInstaller/Extras
+any-code.json,ScoopInstaller/Extras
 beebeep.json,ScoopInstaller/Extras
 okular.json,ScoopInstaller/Extras
 gimp.json,ScoopInstaller/Extras
@@ -8565,7 +8566,7 @@ psloggedon.json,niheaven/scoop-sysinternals
 junction.json,niheaven/scoop-sysinternals
 diskview.json,niheaven/scoop-sysinternals
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -11637,7 +11638,7 @@ zotero-np.json,WinApps-share/WinApps-bucket
 centbrowser_WinApps-share.json,WinApps-share/WinApps-bucket
 equalizer-apo.json,WinApps-share/WinApps-bucket
 xterminal_WinApps-share.json,WinApps-share/WinApps-bucket
-vscode.json,WinApps-share/WinApps-bucket
+vscode_WinApps-share.json,WinApps-share/WinApps-bucket
 nanazip_WinApps-share.json,WinApps-share/WinApps-bucket
 utools_WinApps-share.json,WinApps-share/WinApps-bucket
 snipaste_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -13002,7 +13003,7 @@ ImDiskToolkit.json,cc713/ownscoop
 Irfanview_cc713.json,cc713/ownscoop
 gitextensions_cc713.json,cc713/ownscoop
 gimagereader_cc713.json,cc713/ownscoop
-LunaTranslator.json,cc713/ownscoop
+LunaTranslator_cc713.json,cc713/ownscoop
 ghostscript_cc713.json,cc713/ownscoop
 firefox-zh-CN_cc713.json,cc713/ownscoop
 foobox-cn.json,cc713/ownscoop
@@ -14765,6 +14766,7 @@ boostnote_next-aoks.json,AntonOks/scoop-aoks
 logbert-aoks.json,AntonOks/scoop-aoks
 exifsorter-aoks.json,AntonOks/scoop-aoks
 iobit-unlocker-aoks.json,AntonOks/scoop-aoks
+IntelliJIDEA.Community-aoks.json,AntonOks/scoop-aoks
 projectlibre-aoks.json,AntonOks/scoop-aoks
 chorus-aoks.json,AntonOks/scoop-aoks
 setacl_studio-aoks.json,AntonOks/scoop-aoks
@@ -14885,7 +14887,6 @@ librewolf-aoks.json,AntonOks/scoop-aoks
 fastcopy-aoks.json,AntonOks/scoop-aoks
 modern7z-aoks.json,AntonOks/scoop-aoks
 ghidra-aoks.json,AntonOks/scoop-aoks
-JetBrains.IntelliJIDEA.Community-aoks.json,AntonOks/scoop-aoks
 guiscrcpy_younger-1.json,younger-1/scoop-it
 luvi.json,younger-1/scoop-it
 Memocast.json,younger-1/scoop-it
