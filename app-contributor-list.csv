@@ -9609,7 +9609,7 @@ upscayl_DoveBoy.json,DoveBoy/Apps
 lx-music-desktop-win7.json,DoveBoy/Apps
 czkawka-gui_DoveBoy.json,DoveBoy/Apps
 clash-nyanpasu_DoveBoy.json,DoveBoy/Apps
-imageglass.json,DoveBoy/Apps
+imageglass_DoveBoy.json,DoveBoy/Apps
 winsw_DoveBoy.json,DoveBoy/Apps
 throne_DoveBoy.json,DoveBoy/Apps
 vimtutor_DoveBoy.json,DoveBoy/Apps
@@ -12525,7 +12525,7 @@ zluda5.json,Small-Ku/turbo-bucket
 stardb-exporter.json,Small-Ku/turbo-bucket
 source-han-sans-vf-ttc.json,Small-Ku/turbo-bucket
 sarasa-super-ttc.json,Small-Ku/turbo-bucket
-ruffle_Small-Ku.json,Small-Ku/turbo-bucket
+ruffle.json,Small-Ku/turbo-bucket
 mort.json,Small-Ku/turbo-bucket
 natural-voice-sapi-adapter.json,Small-Ku/turbo-bucket
 hoyo-gacha.json,Small-Ku/turbo-bucket
@@ -12540,7 +12540,7 @@ process-lasso.json,Small-Ku/turbo-bucket
 reshade-addon.json,Small-Ku/turbo-bucket
 yap-nightly.json,Small-Ku/turbo-bucket
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
