@@ -8568,7 +8568,7 @@ psloggedon.json,niheaven/scoop-sysinternals
 junction.json,niheaven/scoop-sysinternals
 diskview.json,niheaven/scoop-sysinternals
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -8619,7 +8619,7 @@ ares_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 desmume_borger.json,borger/scoop-emulators
 ryujinx_borger.json,borger/scoop-emulators
-xenia_borger.json,borger/scoop-emulators
+xenia.json,borger/scoop-emulators
 mednafen_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
@@ -9471,7 +9471,7 @@ regjump_DoveBoy.json,DoveBoy/Apps
 screenbroadcaster-net481.json,DoveBoy/Apps
 gui-for-singbox.json,DoveBoy/Apps
 ghostdownloader3.json,DoveBoy/Apps
-saber.json,DoveBoy/Apps
+saber_DoveBoy.json,DoveBoy/Apps
 trafficmonitor-lite_DoveBoy.json,DoveBoy/Apps
 watttoolkit.json,DoveBoy/Apps
 fancontrol-net10.0-portable.json,DoveBoy/Apps
@@ -9729,7 +9729,7 @@ compactgui.json,DoveBoy/Apps
 qq-nt_DoveBoy.json,DoveBoy/Apps
 navidrome_DoveBoy.json,DoveBoy/Apps
 motrix_DoveBoy.json,DoveBoy/Apps
-telegram-downloader_DoveBoy.json,DoveBoy/Apps
+telegram-downloader.json,DoveBoy/Apps
 kazumi.json,DoveBoy/Apps
 ytsage.json,DoveBoy/Apps
 video-srt-windows-with-ffmpeg.json,DoveBoy/Apps
