@@ -9679,6 +9679,7 @@ nali_DoveBoy.json,DoveBoy/Apps
 ofgb-with-runtime.json,DoveBoy/Apps
 openssh_DoveBoy.json,DoveBoy/Apps
 folo_DoveBoy.json,DoveBoy/Apps
+snipaste.json,DoveBoy/Apps
 escrcpy-portable.json,DoveBoy/Apps
 mpv-git_DoveBoy.json,DoveBoy/Apps
 joinersplitter.json,DoveBoy/Apps
@@ -9830,7 +9831,7 @@ jo_DoveBoy.json,DoveBoy/Apps
 clashxw.json,DoveBoy/Apps
 clink-flex-prompt_DoveBoy.json,DoveBoy/Apps
 so-novel-beta.json,DoveBoy/Apps
-autodarkmode.json,DoveBoy/Apps
+autodarkmode_DoveBoy.json,DoveBoy/Apps
 mpv.net-beta_DoveBoy.json,DoveBoy/Apps
 czkawka_DoveBoy.json,DoveBoy/Apps
 musicbee_DoveBoy.json,DoveBoy/Apps
@@ -12519,7 +12520,7 @@ process-lasso.json,Small-Ku/turbo-bucket
 reshade-addon.json,Small-Ku/turbo-bucket
 yap-nightly.json,Small-Ku/turbo-bucket
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
