@@ -8422,6 +8422,7 @@ Brief.json,dodorz/scoop
 HandBrake_dodorz.json,dodorz/scoop
 Mindbox.json,dodorz/scoop
 FileTime.json,dodorz/scoop
+FreePic2Pdf.json,dodorz/scoop
 DumpTrash.json,dodorz/scoop
 lunar.json,dodorz/scoop
 Arturo.json,dodorz/scoop
@@ -8749,7 +8750,7 @@ fvuln_ViCrack.json,ViCrack/scoop-bucket
 decrypttools.json,ViCrack/scoop-bucket
 proguard_ViCrack.json,ViCrack/scoop-bucket
 nuclei_ViCrack.json,ViCrack/scoop-bucket
-feishurevokemsgpatcher_ViCrack.json,ViCrack/scoop-bucket
+feishurevokemsgpatcher.json,ViCrack/scoop-bucket
 reality.json,ViCrack/scoop-bucket
 windynamicdesktop_ViCrack.json,ViCrack/scoop-bucket
 anew.json,ViCrack/scoop-bucket
@@ -9481,6 +9482,7 @@ videofusion.json,DoveBoy/Apps
 yasocut.json,DoveBoy/Apps
 wechatrealfriends.json,DoveBoy/Apps
 tai.json,DoveBoy/Apps
+beyondcompare_DoveBoy.json,DoveBoy/Apps
 officetoolplus_DoveBoy.json,DoveBoy/Apps
 syncthing-beta.json,DoveBoy/Apps
 tageditor-qt5.json,DoveBoy/Apps
@@ -10078,7 +10080,7 @@ shadowsocksr-hmbsbige_DoveBoy.json,DoveBoy/Apps
 pwsh_DoveBoy.json,DoveBoy/Apps
 chfs-tab-completion.json,DoveBoy/Apps
 openlist_DoveBoy.json,DoveBoy/Apps
-neteaseuu_DoveBoy.json,DoveBoy/Apps
+neteaseuu.json,DoveBoy/Apps
 officetoolplus-with-runtime.json,DoveBoy/Apps
 psreadline_DoveBoy.json,DoveBoy/Apps
 easymusic.json,DoveBoy/Apps
@@ -11756,7 +11758,7 @@ copy-translator-rust.json,ygguorun/scoop-bucket
 CopyTranslator_ygguorun.json,ygguorun/scoop-bucket
 PDFPatcher_ygguorun.json,ygguorun/scoop-bucket
 gluttonyFLIF.json,ygguorun/scoop-bucket
-BaiduNetdisk_ygguorun.json,ygguorun/scoop-bucket
+BaiduNetdisk.json,ygguorun/scoop-bucket
 MajsoulPlus.json,ygguorun/scoop-bucket
 jpfont-nds.json,ygguorun/scoop-bucket
 CloudflareSpeedTest_ygguorun.json,ygguorun/scoop-bucket
@@ -15149,7 +15151,7 @@ silver.todo.json,younger-1/scoop-it
 diskonaut.todo.json,younger-1/scoop-it
 PowerShell_maboloshi.json,maboloshi/scoop-private
 notepad4_maboloshi.json,maboloshi/scoop-private
-ima-copilot.json,maboloshi/scoop-private
+ima-copilot_maboloshi.json,maboloshi/scoop-private
 microsoftedge-beta_maboloshi.json,maboloshi/scoop-private
 ffmpeg-N_m3u8DL-CLI.json,maboloshi/scoop-private
 sarasa-gothic-sc-excerpt.json,maboloshi/scoop-private
