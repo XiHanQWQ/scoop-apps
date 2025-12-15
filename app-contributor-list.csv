@@ -8619,7 +8619,7 @@ ares_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 desmume_borger.json,borger/scoop-emulators
 ryujinx_borger.json,borger/scoop-emulators
-xenia.json,borger/scoop-emulators
+xenia_borger.json,borger/scoop-emulators
 mednafen_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
@@ -9729,7 +9729,7 @@ compactgui.json,DoveBoy/Apps
 qq-nt_DoveBoy.json,DoveBoy/Apps
 navidrome_DoveBoy.json,DoveBoy/Apps
 motrix_DoveBoy.json,DoveBoy/Apps
-telegram-downloader.json,DoveBoy/Apps
+telegram-downloader_DoveBoy.json,DoveBoy/Apps
 kazumi.json,DoveBoy/Apps
 ytsage.json,DoveBoy/Apps
 video-srt-windows-with-ffmpeg.json,DoveBoy/Apps
@@ -11512,7 +11512,7 @@ oxker.json,aliesbelik/poldi
 waitforit.json,aliesbelik/poldi
 dry.json,aliesbelik/poldi
 dirx.json,aliesbelik/poldi
-jvms.json,aliesbelik/poldi
+jvms_aliesbelik.json,aliesbelik/poldi
 curli.json,aliesbelik/poldi
 meteor.json,aliesbelik/poldi
 filebrowser_aliesbelik.json,aliesbelik/poldi
@@ -12527,7 +12527,7 @@ ct.json,iquiw/scoop-bucket
 proxify_iquiw.json,iquiw/scoop-bucket
 logcli.json,iquiw/scoop-bucket
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
@@ -15093,7 +15093,6 @@ gotify-tray.json,windedge/ladle-bucket
 zen-browser_windedge.json,windedge/ladle-bucket
 ollama-ipex-llm.json,windedge/ladle-bucket
 godot3-kotlin-jvm.json,windedge/ladle-bucket
-jvms_windedge.json,windedge/ladle-bucket
 tiny-rdm.json,windedge/ladle-bucket
 kotlin-language-server.json,windedge/ladle-bucket
 friction.json,windedge/ladle-bucket
