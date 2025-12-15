@@ -8750,7 +8750,7 @@ fvuln_ViCrack.json,ViCrack/scoop-bucket
 decrypttools.json,ViCrack/scoop-bucket
 proguard_ViCrack.json,ViCrack/scoop-bucket
 nuclei_ViCrack.json,ViCrack/scoop-bucket
-feishurevokemsgpatcher.json,ViCrack/scoop-bucket
+feishurevokemsgpatcher_ViCrack.json,ViCrack/scoop-bucket
 reality.json,ViCrack/scoop-bucket
 windynamicdesktop_ViCrack.json,ViCrack/scoop-bucket
 anew.json,ViCrack/scoop-bucket
@@ -14746,6 +14746,7 @@ jello-aoks.json,AntonOks/scoop-aoks
 arangodb-aoks.json,AntonOks/scoop-aoks
 podman-aoks.json,AntonOks/scoop-aoks
 miniserve-aoks.json,AntonOks/scoop-aoks
+notetask-aoks.json,AntonOks/scoop-aoks
 syft-aoks.json,AntonOks/scoop-aoks
 git-toolbelt-aoks.json,AntonOks/scoop-aoks
 hck-aoks.json,AntonOks/scoop-aoks
