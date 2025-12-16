@@ -7911,6 +7911,7 @@ Boom.json,dodorz/scoop
 StrokeIt.json,dodorz/scoop
 Sizer.json,dodorz/scoop
 GPTCraft.json,dodorz/scoop
+QianWen.json,dodorz/scoop
 ClipText.json,dodorz/scoop
 ArcThemALL.json,dodorz/scoop
 wxHexEditor.json,dodorz/scoop
@@ -8127,6 +8128,7 @@ Soulseek.json,dodorz/scoop
 OpenJFX.json,dodorz/scoop
 scoop-completion_dodorz.json,dodorz/scoop
 basalt.json,dodorz/scoop
+goose-CLI.json,dodorz/scoop
 Yabasic.json,dodorz/scoop
 Kiro.json,dodorz/scoop
 DarkRoom.json,dodorz/scoop
@@ -8367,7 +8369,6 @@ ditaa.json,dodorz/scoop
 edge-TTS-record.json,dodorz/scoop
 yaml2json.json,dodorz/scoop
 win32pad.json,dodorz/scoop
-Goose_dodorz.json,dodorz/scoop
 goawk.json,dodorz/scoop
 ShortcutsSearchAndReplace.json,dodorz/scoop
 Gammadyne-CLI.json,dodorz/scoop
@@ -8456,6 +8457,7 @@ Rem-Empty-Dir.json,dodorz/scoop
 MiKTeX_dodorz.json,dodorz/scoop
 Story-writer.json,dodorz/scoop
 DrJava.json,dodorz/scoop
+Vibe.json,dodorz/scoop
 Trout.json,dodorz/scoop
 DeleteProfiles.json,dodorz/scoop
 WavePad.json,dodorz/scoop
@@ -8569,7 +8571,7 @@ psloggedon.json,niheaven/scoop-sysinternals
 junction.json,niheaven/scoop-sysinternals
 diskview.json,niheaven/scoop-sysinternals
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -8931,7 +8933,7 @@ fzf_akirco.json,akirco/aki-apps
 hbuilderx_akirco.json,akirco/aki-apps
 memo.json,akirco/aki-apps
 unzip_akirco.json,akirco/aki-apps
-doubao.json,akirco/aki-apps
+doubao_akirco.json,akirco/aki-apps
 powertoys_akirco.json,akirco/aki-apps
 gitomatic_akirco.json,akirco/aki-apps
 wechat_akirco.json,akirco/aki-apps
@@ -8949,7 +8951,7 @@ msys2_akirco.json,akirco/aki-apps
 mdbook_akirco.json,akirco/aki-apps
 tup_akirco.json,akirco/aki-apps
 say_akirco.json,akirco/aki-apps
-telegram.json,akirco/aki-apps
+telegram_akirco.json,akirco/aki-apps
 wechatdevtools_akirco.json,akirco/aki-apps
 pseverything.json,akirco/aki-apps
 biyi_akirco.json,akirco/aki-apps
@@ -9493,7 +9495,7 @@ showkeyboard-node.json,DoveBoy/Apps
 pdfarranger_DoveBoy.json,DoveBoy/Apps
 lux_DoveBoy.json,DoveBoy/Apps
 clashn.json,DoveBoy/Apps
-ungoogled-chromium_DoveBoy.json,DoveBoy/Apps
+ungoogled-chromium.json,DoveBoy/Apps
 krita_DoveBoy.json,DoveBoy/Apps
 upx_DoveBoy.json,DoveBoy/Apps
 chatall_DoveBoy.json,DoveBoy/Apps
@@ -9635,6 +9637,7 @@ pixiv-omina.json,DoveBoy/Apps
 dreamscene2.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
 pscompletions_DoveBoy.json,DoveBoy/Apps
+cudatext.json,DoveBoy/Apps
 forkgram_DoveBoy.json,DoveBoy/Apps
 varia-portable.json,DoveBoy/Apps
 everything-beta_DoveBoy.json,DoveBoy/Apps
@@ -9900,7 +9903,7 @@ mobilecontrolguru.json,DoveBoy/Apps
 urlfinder.json,DoveBoy/Apps
 hydrogen-music.json,DoveBoy/Apps
 clash-rev.json,DoveBoy/Apps
-64gram.json,DoveBoy/Apps
+64gram_DoveBoy.json,DoveBoy/Apps
 innounp_DoveBoy.json,DoveBoy/Apps
 wiliwili_DoveBoy.json,DoveBoy/Apps
 snappy-driver-installer-origin_DoveBoy.json,DoveBoy/Apps
@@ -10279,7 +10282,7 @@ scoop-hook.json,amorphobia/siku
 clash-verge_amorphobia.json,amorphobia/siku
 plain-craft-launcher_amorphobia.json,amorphobia/siku
 ipatool.json,amorphobia/siku
-voidimageviewer_amorphobia.json,amorphobia/siku
+voidimageviewer.json,amorphobia/siku
 posh-cd.json,amorphobia/siku
 portable-build-tools.json,amorphobia/siku
 tautulli.json,amorphobia/siku
@@ -12459,6 +12462,7 @@ kook_seumsc.json,seumsc/scoop-seu
 autowikibrowser.json,seumsc/scoop-seu
 eduvpn.json,seumsc/scoop-seu
 librescore.json,seumsc/scoop-seu
+npcap_seumsc.json,seumsc/scoop-seu
 proxifyre.json,seumsc/scoop-seu
 hmcl-dev.json,seumsc/scoop-seu
 coca.json,seumsc/scoop-seu
@@ -12908,7 +12912,7 @@ buzz.json,Scoopforge/Extras-Plus
 navicat-premium-lite_Scoopforge.json,Scoopforge/Extras-Plus
 pdf4qt.json,Scoopforge/Extras-Plus
 flying-carpet.json,Scoopforge/Extras-Plus
-vibe.json,Scoopforge/Extras-Plus
+vibe_Scoopforge.json,Scoopforge/Extras-Plus
 ecopaste_Scoopforge.json,Scoopforge/Extras-Plus
 bitcomet_Scoopforge.json,Scoopforge/Extras-Plus
 defender-remover.json,Scoopforge/Extras-Plus
@@ -14943,7 +14947,7 @@ r-4.1.json,ShuguangSun/sgs-scoop-bucket
 pandoc-crossref_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 positron-user.json,ShuguangSun/sgs-scoop-bucket
 rtools42_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-cherry-studio_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+cherry-studio.json,ShuguangSun/sgs-scoop-bucket
 r-4.3.2.json,ShuguangSun/sgs-scoop-bucket
 vscodium_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 qpdf_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
