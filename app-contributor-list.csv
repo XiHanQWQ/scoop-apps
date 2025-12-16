@@ -2231,7 +2231,7 @@ commandbox.json,ScoopInstaller/Extras
 neohtop.json,ScoopInstaller/Extras
 treesheets.json,ScoopInstaller/Extras
 vesktop.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 fontforge.json,ScoopInstaller/Extras
 baretail.json,ScoopInstaller/Extras
 vcredist2013.json,ScoopInstaller/Extras
@@ -4066,7 +4066,7 @@ lyx-cn.json,Scoopforge/Extras-CN
 lky-officetools.json,Scoopforge/Extras-CN
 m3u8-downloader.json,Scoopforge/Extras-CN
 dingtalk.json,Scoopforge/Extras-CN
-baidunetdisk.json,Scoopforge/Extras-CN
+baidunetdisk_Scoopforge.json,Scoopforge/Extras-CN
 i4tools.json,Scoopforge/Extras-CN
 eshelper.json,Scoopforge/Extras-CN
 adrive.json,Scoopforge/Extras-CN
@@ -9634,7 +9634,7 @@ pixiv-omina.json,DoveBoy/Apps
 dreamscene2.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
 pscompletions_DoveBoy.json,DoveBoy/Apps
-forkgram_DoveBoy.json,DoveBoy/Apps
+forkgram.json,DoveBoy/Apps
 varia-portable.json,DoveBoy/Apps
 everything-beta_DoveBoy.json,DoveBoy/Apps
 nilesoft-shell_DoveBoy.json,DoveBoy/Apps
@@ -11414,7 +11414,6 @@ ddosify_aliesbelik.json,aliesbelik/poldi
 walk_aliesbelik.json,aliesbelik/poldi
 tcping_aliesbelik.json,aliesbelik/poldi
 gut_aliesbelik.json,aliesbelik/poldi
-ttdl_aliesbelik.json,aliesbelik/poldi
 taplo_aliesbelik.json,aliesbelik/poldi
 jc_aliesbelik.json,aliesbelik/poldi
 oha_aliesbelik.json,aliesbelik/poldi
