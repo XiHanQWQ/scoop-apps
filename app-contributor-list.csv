@@ -8571,7 +8571,7 @@ psloggedon.json,niheaven/scoop-sysinternals
 junction.json,niheaven/scoop-sysinternals
 diskview.json,niheaven/scoop-sysinternals
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -9394,7 +9394,7 @@ douyu.json,DoveBoy/Apps
 crystaldiskinfo-kureikei.json,DoveBoy/Apps
 pwsh-beta_DoveBoy.json,DoveBoy/Apps
 context-menu-manager_DoveBoy.json,DoveBoy/Apps
-jarkviewer.json,DoveBoy/Apps
+jarkviewer_DoveBoy.json,DoveBoy/Apps
 audio-share-gui.json,DoveBoy/Apps
 w64devkit_DoveBoy.json,DoveBoy/Apps
 sharpthief.json,DoveBoy/Apps
