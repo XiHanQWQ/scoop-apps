@@ -8754,6 +8754,7 @@ feishurevokemsgpatcher_ViCrack.json,ViCrack/scoop-bucket
 reality.json,ViCrack/scoop-bucket
 windynamicdesktop_ViCrack.json,ViCrack/scoop-bucket
 anew.json,ViCrack/scoop-bucket
+sublinkpro.json,ViCrack/scoop-bucket
 interactsh_ViCrack.json,ViCrack/scoop-bucket
 java-echo-generator-release.json,ViCrack/scoop-bucket
 1remote.json,ViCrack/scoop-bucket
@@ -9634,7 +9635,7 @@ pixiv-omina.json,DoveBoy/Apps
 dreamscene2.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
 pscompletions_DoveBoy.json,DoveBoy/Apps
-forkgram.json,DoveBoy/Apps
+forkgram_DoveBoy.json,DoveBoy/Apps
 varia-portable.json,DoveBoy/Apps
 everything-beta_DoveBoy.json,DoveBoy/Apps
 nilesoft-shell_DoveBoy.json,DoveBoy/Apps
@@ -9813,6 +9814,7 @@ wechat_DoveBoy.json,DoveBoy/Apps
 7zip_DoveBoy.json,DoveBoy/Apps
 computerlock.json,DoveBoy/Apps
 nvm-tab-completion.json,DoveBoy/Apps
+serialterminalforwindowsterminal.json,DoveBoy/Apps
 gnupg-np_DoveBoy.json,DoveBoy/Apps
 wechatdownload.json,DoveBoy/Apps
 cloudreve-beta.json,DoveBoy/Apps
@@ -9898,7 +9900,7 @@ mobilecontrolguru.json,DoveBoy/Apps
 urlfinder.json,DoveBoy/Apps
 hydrogen-music.json,DoveBoy/Apps
 clash-rev.json,DoveBoy/Apps
-64gram_DoveBoy.json,DoveBoy/Apps
+64gram.json,DoveBoy/Apps
 innounp_DoveBoy.json,DoveBoy/Apps
 wiliwili_DoveBoy.json,DoveBoy/Apps
 snappy-driver-installer-origin_DoveBoy.json,DoveBoy/Apps
@@ -12583,7 +12585,7 @@ ct.json,iquiw/scoop-bucket
 proxify_iquiw.json,iquiw/scoop-bucket
 logcli.json,iquiw/scoop-bucket
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
@@ -15177,7 +15179,6 @@ uivonim_younger-1.json,younger-1/scoop-it
 epick.json,younger-1/scoop-it
 sqlite3dll.json,younger-1/scoop-it
 selene_younger-1.json,younger-1/scoop-it
-vlang_younger-1.json,younger-1/scoop-it
 im-select.json,younger-1/scoop-it
 stylua_younger-1.json,younger-1/scoop-it
 hello.json,younger-1/scoop-it
