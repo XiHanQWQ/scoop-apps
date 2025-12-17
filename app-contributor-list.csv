@@ -2330,7 +2330,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -7426,7 +7426,7 @@ rstudio-2022.12.json,cderv/r-bucket
 rstudio-2023.03.json,cderv/r-bucket
 tree.json,cderv/r-bucket
 r-release.json,cderv/r-bucket
-rstudio-daily_cderv.json,cderv/r-bucket
+rstudio-daily.json,cderv/r-bucket
 qvm.json,cderv/r-bucket
 positron-daily.json,cderv/r-bucket
 rig.json,cderv/r-bucket
@@ -11787,7 +11787,7 @@ zotero-np.json,WinApps-share/WinApps-bucket
 centbrowser_WinApps-share.json,WinApps-share/WinApps-bucket
 equalizer-apo.json,WinApps-share/WinApps-bucket
 xterminal_WinApps-share.json,WinApps-share/WinApps-bucket
-vscode_WinApps-share.json,WinApps-share/WinApps-bucket
+vscode.json,WinApps-share/WinApps-bucket
 nanazip_WinApps-share.json,WinApps-share/WinApps-bucket
 utools_WinApps-share.json,WinApps-share/WinApps-bucket
 snipaste_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -12553,7 +12553,7 @@ process-lasso.json,Small-Ku/turbo-bucket
 reshade-addon.json,Small-Ku/turbo-bucket
 yap-nightly.json,Small-Ku/turbo-bucket
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
@@ -13069,7 +13069,7 @@ alt-ime-ahk.json,mo-san/scoop-bucket
 zoomit_mo-san.json,mo-san/scoop-bucket
 logonsessions_mo-san.json,mo-san/scoop-bucket
 font-migmix-1p.json,mo-san/scoop-bucket
-coreinfo_mo-san.json,mo-san/scoop-bucket
+coreinfo.json,mo-san/scoop-bucket
 registry-usage.json,mo-san/scoop-bucket
 font-migu-1p.json,mo-san/scoop-bucket
 stepk.json,mo-san/scoop-bucket
@@ -13132,14 +13132,14 @@ pssuspend_mo-san.json,mo-san/scoop-bucket
 mp4tools_mo-san.json,mo-san/scoop-bucket
 efsdump_mo-san.json,mo-san/scoop-bucket
 firefox-jp.json,mo-san/scoop-bucket
-notmyfault_mo-san.json,mo-san/scoop-bucket
+notmyfault.json,mo-san/scoop-bucket
 sync_mo-san.json,mo-san/scoop-bucket
 pskill_mo-san.json,mo-san/scoop-bucket
 tcpview_mo-san.json,mo-san/scoop-bucket
 streams_mo-san.json,mo-san/scoop-bucket
 bluescreen.json,mo-san/scoop-bucket
 cassava_mo-san.json,mo-san/scoop-bucket
-process-explorer_mo-san.json,mo-san/scoop-bucket
+process-explorer.json,mo-san/scoop-bucket
 mousegesturel-ahk.json,mo-san/scoop-bucket
 cacheset_mo-san.json,mo-san/scoop-bucket
 minitool-partition-wizard-free.json,mo-san/scoop-bucket
@@ -15166,7 +15166,7 @@ godsvg.json,windedge/ladle-bucket
 mdview_windedge.json,windedge/ladle-bucket
 enve.json,windedge/ladle-bucket
 anytype_windedge.json,windedge/ladle-bucket
-dyad_windedge.json,windedge/ladle-bucket
+dyad.json,windedge/ladle-bucket
 pdf4teachers.json,windedge/ladle-bucket
 llama-cpp-ipex-llm.json,windedge/ladle-bucket
 itext-rups.json,windedge/ladle-bucket
