@@ -7805,7 +7805,7 @@ PyScripter.json,dodorz/scoop
 Marp-deprecated.json,dodorz/scoop
 JabRef_dodorz.json,dodorz/scoop
 SoftMakerFreeOffice.json,dodorz/scoop
-Wave-Terminal_dodorz.json,dodorz/scoop
+Wave-Terminal.json,dodorz/scoop
 kpcli_dodorz.json,dodorz/scoop
 Undelete360.json,dodorz/scoop
 GOMPlayer.json,dodorz/scoop
@@ -8777,7 +8777,7 @@ aria2_akirco.json,akirco/aki-apps
 ollama_akirco.json,akirco/aki-apps
 x264_akirco.json,akirco/aki-apps
 mysql_akirco.json,akirco/aki-apps
-notion_akirco.json,akirco/aki-apps
+notion.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
 ima-copilot.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
@@ -9716,7 +9716,6 @@ bilibili_DoveBoy.json,DoveBoy/Apps
 wpsoffice-cn.json,DoveBoy/Apps
 restart-explorer_DoveBoy.json,DoveBoy/Apps
 optimizer_DoveBoy.json,DoveBoy/Apps
-chromium.json,DoveBoy/Apps
 nekoray_DoveBoy.json,DoveBoy/Apps
 pnpm-tab-completion.json,DoveBoy/Apps
 kando_DoveBoy.json,DoveBoy/Apps
@@ -9749,7 +9748,7 @@ runastool_DoveBoy.json,DoveBoy/Apps
 delapp_DoveBoy.json,DoveBoy/Apps
 pikatorrent.json,DoveBoy/Apps
 gh_DoveBoy.json,DoveBoy/Apps
-waveterm_DoveBoy.json,DoveBoy/Apps
+waveterm.json,DoveBoy/Apps
 pot-desktop_DoveBoy.json,DoveBoy/Apps
 one-api.json,DoveBoy/Apps
 retrieval-based-voice-conversion-webui.json,DoveBoy/Apps
@@ -9814,7 +9813,7 @@ umi-ocr-paddle_DoveBoy.json,DoveBoy/Apps
 ani.json,DoveBoy/Apps
 tidyos.json,DoveBoy/Apps
 jenny.json,DoveBoy/Apps
-wechat.json,DoveBoy/Apps
+wechat_DoveBoy.json,DoveBoy/Apps
 7zip_DoveBoy.json,DoveBoy/Apps
 computerlock.json,DoveBoy/Apps
 nvm-tab-completion.json,DoveBoy/Apps
@@ -10263,7 +10262,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
@@ -12884,7 +12883,7 @@ bbdown_aoisummer.json,aoisummer/scoop-bucket
 windowgrid_aoisummer.json,aoisummer/scoop-bucket
 crystaldiskinfo-aoi.json,aoisummer/scoop-bucket
 ddtv2.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn.json,aoisummer/scoop-bucket
 lunatranslator_aoisummer.json,aoisummer/scoop-bucket
 shadowsocks-rust-gnu.json,aoisummer/scoop-bucket
 php83-nts.json,aoisummer/scoop-bucket
@@ -13138,7 +13137,7 @@ JMComic-qt.json,cc713/ownscoop
 aegisub-arch.json,cc713/ownscoop
 qimgv_cc713.json,cc713/ownscoop
 nomacs.json,cc713/ownscoop
-thunderbird-zh-cn_cc713.json,cc713/ownscoop
+thunderbird-zh-cn.json,cc713/ownscoop
 kiwix-tools.json,cc713/ownscoop
 qimgv-dev.json,cc713/ownscoop
 palworld-save-pal.json,cc713/ownscoop
