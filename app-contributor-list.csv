@@ -2330,7 +2330,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -7426,7 +7426,7 @@ rstudio-2022.12.json,cderv/r-bucket
 rstudio-2023.03.json,cderv/r-bucket
 tree.json,cderv/r-bucket
 r-release.json,cderv/r-bucket
-rstudio-daily.json,cderv/r-bucket
+rstudio-daily_cderv.json,cderv/r-bucket
 qvm.json,cderv/r-bucket
 positron-daily.json,cderv/r-bucket
 rig.json,cderv/r-bucket
@@ -8543,7 +8543,7 @@ sync.json,niheaven/scoop-sysinternals
 pskill.json,niheaven/scoop-sysinternals
 tcpview.json,niheaven/scoop-sysinternals
 streams.json,niheaven/scoop-sysinternals
-process-explorer_niheaven.json,niheaven/scoop-sysinternals
+process-explorer.json,niheaven/scoop-sysinternals
 cacheset.json,niheaven/scoop-sysinternals
 findlinks.json,niheaven/scoop-sysinternals
 desktops.json,niheaven/scoop-sysinternals
@@ -8571,7 +8571,7 @@ psloggedon.json,niheaven/scoop-sysinternals
 junction.json,niheaven/scoop-sysinternals
 diskview.json,niheaven/scoop-sysinternals
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -8952,6 +8952,7 @@ mdbook_akirco.json,akirco/aki-apps
 tup_akirco.json,akirco/aki-apps
 say_akirco.json,akirco/aki-apps
 telegram_akirco.json,akirco/aki-apps
+bilibili-livehime.json,akirco/aki-apps
 wechatdevtools_akirco.json,akirco/aki-apps
 pseverything.json,akirco/aki-apps
 biyi_akirco.json,akirco/aki-apps
@@ -10261,7 +10262,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
@@ -12553,7 +12554,7 @@ process-lasso.json,Small-Ku/turbo-bucket
 reshade-addon.json,Small-Ku/turbo-bucket
 yap-nightly.json,Small-Ku/turbo-bucket
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
@@ -13069,7 +13070,7 @@ alt-ime-ahk.json,mo-san/scoop-bucket
 zoomit_mo-san.json,mo-san/scoop-bucket
 logonsessions_mo-san.json,mo-san/scoop-bucket
 font-migmix-1p.json,mo-san/scoop-bucket
-coreinfo.json,mo-san/scoop-bucket
+coreinfo_mo-san.json,mo-san/scoop-bucket
 registry-usage.json,mo-san/scoop-bucket
 font-migu-1p.json,mo-san/scoop-bucket
 stepk.json,mo-san/scoop-bucket
@@ -13132,14 +13133,14 @@ pssuspend_mo-san.json,mo-san/scoop-bucket
 mp4tools_mo-san.json,mo-san/scoop-bucket
 efsdump_mo-san.json,mo-san/scoop-bucket
 firefox-jp.json,mo-san/scoop-bucket
-notmyfault.json,mo-san/scoop-bucket
+notmyfault_mo-san.json,mo-san/scoop-bucket
 sync_mo-san.json,mo-san/scoop-bucket
 pskill_mo-san.json,mo-san/scoop-bucket
 tcpview_mo-san.json,mo-san/scoop-bucket
 streams_mo-san.json,mo-san/scoop-bucket
 bluescreen.json,mo-san/scoop-bucket
 cassava_mo-san.json,mo-san/scoop-bucket
-process-explorer.json,mo-san/scoop-bucket
+process-explorer_mo-san.json,mo-san/scoop-bucket
 mousegesturel-ahk.json,mo-san/scoop-bucket
 cacheset_mo-san.json,mo-san/scoop-bucket
 minitool-partition-wizard-free.json,mo-san/scoop-bucket
@@ -15166,7 +15167,7 @@ godsvg.json,windedge/ladle-bucket
 mdview_windedge.json,windedge/ladle-bucket
 enve.json,windedge/ladle-bucket
 anytype_windedge.json,windedge/ladle-bucket
-dyad.json,windedge/ladle-bucket
+dyad_windedge.json,windedge/ladle-bucket
 pdf4teachers.json,windedge/ladle-bucket
 llama-cpp-ipex-llm.json,windedge/ladle-bucket
 itext-rups.json,windedge/ladle-bucket
