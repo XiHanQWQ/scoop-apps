@@ -8243,7 +8243,7 @@ ExitWindows.json,dodorz/scoop
 CLCL.json,dodorz/scoop
 MyHash_dodorz.json,dodorz/scoop
 KShutdown.json,dodorz/scoop
-ChatWise_dodorz.json,dodorz/scoop
+ChatWise.json,dodorz/scoop
 KeepNote.json,dodorz/scoop
 ResophNotes.json,dodorz/scoop
 CJK-character-count.json,dodorz/scoop
@@ -8573,7 +8573,7 @@ ezshare.json,couleur-tweak-tips/utils
 discordcompressor.json,couleur-tweak-tips/utils
 mouse-tester.json,couleur-tweak-tips/utils
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -8838,7 +8838,7 @@ figlet_akirco.json,akirco/aki-apps
 nyagos_akirco.json,akirco/aki-apps
 dingtalk_akirco.json,akirco/aki-apps
 nmap-portable.json,akirco/aki-apps
-firefox-zh-cn_akirco.json,akirco/aki-apps
+firefox-zh-cn.json,akirco/aki-apps
 audacity_akirco.json,akirco/aki-apps
 nvm_akirco.json,akirco/aki-apps
 gdrive_akirco.json,akirco/aki-apps
@@ -8954,7 +8954,7 @@ mdbook_akirco.json,akirco/aki-apps
 tup_akirco.json,akirco/aki-apps
 say_akirco.json,akirco/aki-apps
 telegram_akirco.json,akirco/aki-apps
-wechatdevtools_akirco.json,akirco/aki-apps
+wechatdevtools.json,akirco/aki-apps
 pseverything.json,akirco/aki-apps
 biyi_akirco.json,akirco/aki-apps
 jetbrains-toolbox_akirco.json,akirco/aki-apps
@@ -9487,7 +9487,7 @@ videofusion.json,DoveBoy/Apps
 yasocut.json,DoveBoy/Apps
 wechatrealfriends.json,DoveBoy/Apps
 tai.json,DoveBoy/Apps
-beyondcompare_DoveBoy.json,DoveBoy/Apps
+beyondcompare.json,DoveBoy/Apps
 officetoolplus_DoveBoy.json,DoveBoy/Apps
 syncthing-beta.json,DoveBoy/Apps
 tageditor-qt5.json,DoveBoy/Apps
@@ -11615,6 +11615,7 @@ bili.copilot.json,WinApps-share/WinApps-bucket
 dismplus.json,WinApps-share/WinApps-bucket
 lanzouyun-disk_WinApps-share.json,WinApps-share/WinApps-bucket
 sharex_WinApps-share.json,WinApps-share/WinApps-bucket
+flclash_WinApps-share.json,WinApps-share/WinApps-bucket
 bypass_WinApps-share.json,WinApps-share/WinApps-bucket
 spleeter-gui.json,WinApps-share/WinApps-bucket
 trollrestore.json,WinApps-share/WinApps-bucket
@@ -12590,7 +12591,7 @@ process-lasso.json,Small-Ku/turbo-bucket
 reshade-addon.json,Small-Ku/turbo-bucket
 yap-nightly.json,Small-Ku/turbo-bucket
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
@@ -12704,7 +12705,7 @@ YogaDNS.json,Darkatse/Scoop-Darkatse
 TestMem5_Darkatse.json,Darkatse/Scoop-Darkatse
 JHenTai.json,Darkatse/Scoop-Darkatse
 Netch_Darkatse.json,Darkatse/Scoop-Darkatse
-Termius_Darkatse.json,Darkatse/Scoop-Darkatse
+Termius.json,Darkatse/Scoop-Darkatse
 memtest.json,Darkatse/Scoop-Darkatse
 Brook-GUI.json,Darkatse/Scoop-Darkatse
 ZenTimings.json,Darkatse/Scoop-Darkatse
@@ -14930,7 +14931,7 @@ r-4.1.json,ShuguangSun/sgs-scoop-bucket
 pandoc-crossref_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 positron-user.json,ShuguangSun/sgs-scoop-bucket
 rtools42_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-cherry-studio.json,ShuguangSun/sgs-scoop-bucket
+cherry-studio_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 r-4.3.2.json,ShuguangSun/sgs-scoop-bucket
 vscodium_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 qpdf_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
