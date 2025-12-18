@@ -1,0 +1,47 @@
+{
+    "version": "1.7.5",
+    "description": "A desktop client that supports for multiple LLM providers.",
+    "homepage": "https://cherry-ai.com",
+    "license": "Apache-2.0",
+    "suggest": {
+        "vcredist": "extras/vcredist2022"
+    },
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.5/Cherry-Studio-1.7.5-x64-portable.exe#/cherry-studio.exe",
+            "hash": "b1f425720a9fc8e5e629ed926e8225c59931dc96d79942ffc58305a1e0be5150"
+        },
+        "arm64": {
+            "url": "https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.5/Cherry-Studio-1.7.5-arm64-portable.exe#/cherry-studio.exe",
+            "hash": "e9fb11739a7b97c2d0a84ad1c7e45c730f1fa4d4b0cdf2abd5fe073ae21e232a"
+        }
+    },
+    "pre_install": [
+        "if (-not (Test-Path \"$persist_dir\\data\") -and (Test-Path \"$env:APPDATA\\CherryStudio\")) {",
+        "    ensure \"$persist_dir\\data\" | Out-Null",
+        "    info '[Portable Mode] Copying user data...'",
+        "    Move-Item \"$env:APPDATA\\CherryStudio\\*\" \"$persist_dir\\data\"",
+        "    Remove-Item \"$env:APPDATA\\CherryStudio\" -Recurse -Force",
+        "}"
+    ],
+    "shortcuts": [
+        [
+            "cherry-studio.exe",
+            "Cherry Studio"
+        ]
+    ],
+    "persist": "data",
+    "checkver": {
+        "github": "https://github.com/CherryHQ/cherry-studio"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/CherryHQ/cherry-studio/releases/download/v$version/Cherry-Studio-$version-x64-portable.exe#/cherry-studio.exe"
+            },
+            "arm64": {
+                "url": "https://github.com/CherryHQ/cherry-studio/releases/download/v$version/Cherry-Studio-$version-arm64-portable.exe#/cherry-studio.exe"
+            }
+        }
+    }
+}
