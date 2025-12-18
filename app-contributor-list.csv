@@ -6192,7 +6192,7 @@ nodejs-np.json,ScoopInstaller/Nonportable
 xampp-np.json,ScoopInstaller/Nonportable
 glasswire-lite-np.json,ScoopInstaller/Nonportable
 teracopy-np_ScoopInstaller.json,ScoopInstaller/Nonportable
-darktable-np.json,ScoopInstaller/Nonportable
+darktable-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 sandboxie-classic-np.json,ScoopInstaller/Nonportable
 ivpn-client-np.json,ScoopInstaller/Nonportable
 textpad8-np.json,ScoopInstaller/Nonportable
@@ -8586,7 +8586,7 @@ bsnes-hd-beta_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 citron.json,borger/scoop-emulators
-ryujinx-canary_borger.json,borger/scoop-emulators
+ryujinx-canary.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
@@ -8780,6 +8780,7 @@ ollama_akirco.json,akirco/aki-apps
 x264_akirco.json,akirco/aki-apps
 mysql_akirco.json,akirco/aki-apps
 notion_akirco.json,akirco/aki-apps
+cursor_akirco.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
 ima-copilot.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
@@ -9814,7 +9815,7 @@ umi-ocr-paddle_DoveBoy.json,DoveBoy/Apps
 ani.json,DoveBoy/Apps
 tidyos.json,DoveBoy/Apps
 jenny.json,DoveBoy/Apps
-wechat.json,DoveBoy/Apps
+wechat_DoveBoy.json,DoveBoy/Apps
 7zip_DoveBoy.json,DoveBoy/Apps
 computerlock.json,DoveBoy/Apps
 nvm-tab-completion.json,DoveBoy/Apps
