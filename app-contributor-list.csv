@@ -8733,7 +8733,7 @@ emeditor_ViCrack.json,ViCrack/scoop-bucket
 rubick.json,ViCrack/scoop-bucket
 webshell_generate_ViCrack.json,ViCrack/scoop-bucket
 gowitness.json,ViCrack/scoop-bucket
-apifox.json,ViCrack/scoop-bucket
+apifox_ViCrack.json,ViCrack/scoop-bucket
 edx.json,ViCrack/scoop-bucket
 newfiletime_ViCrack.json,ViCrack/scoop-bucket
 rad_ViCrack.json,ViCrack/scoop-bucket
@@ -9814,7 +9814,7 @@ umi-ocr-paddle_DoveBoy.json,DoveBoy/Apps
 ani.json,DoveBoy/Apps
 tidyos.json,DoveBoy/Apps
 jenny.json,DoveBoy/Apps
-wechat_DoveBoy.json,DoveBoy/Apps
+wechat.json,DoveBoy/Apps
 7zip_DoveBoy.json,DoveBoy/Apps
 computerlock.json,DoveBoy/Apps
 nvm-tab-completion.json,DoveBoy/Apps
@@ -15087,7 +15087,7 @@ ffmpeg-N_m3u8DL-CLI.json,maboloshi/scoop-private
 sarasa-gothic-sc-excerpt.json,maboloshi/scoop-private
 monitorian.json,maboloshi/scoop-private
 dingtalk.json,maboloshi/scoop-private
-sublime-merge.json,maboloshi/scoop-private
+sublime-merge_maboloshi.json,maboloshi/scoop-private
 regworkshop.json,maboloshi/scoop-private
 clash-for-windows-cn_maboloshi.json,maboloshi/scoop-private
 win-theme-toggle-mini.json,maboloshi/scoop-private
