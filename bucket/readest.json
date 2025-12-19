@@ -1,21 +1,32 @@
 {
-    "version": "0.9.95",
-    "description": "An open-source ebook reader designed for immersive and deep reading experiences",
+    "version": "0.9.96",
+    "description": "Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.",
     "homepage": "https://readest.com/",
     "license": {
-        "identifier": "AGPL-3.0-or-later",
-        "url": "https://github.com/readest/readest/blob/main/LICENSE"
+        "identifier": "AGPL-3.0 license",
+        "url": "https://github.com/readest/readest#AGPL-3.0-1-ov-file"
     },
-    "architecture": {
-        "64bit": {
-            "url": "https://github.com/readest/readest/releases/download/v0.9.95/Readest_0.9.95_x64-portable.exe#/Readest.exe",
-            "hash": "a9aeb50c13f6fef12dddb8a1ebdb04b5e200442649fc90e1ab481ff119bf4bea"
-        },
-        "arm64": {
-            "url": "https://github.com/readest/readest/releases/download/v0.9.95/Readest_0.9.95_arm64-portable.exe#/Readest.exe",
-            "hash": "d20753d712027ee4c28810a2aaeeb2992aa560b9e2bd5d96eb37c02265e2278d"
-        }
+    "url": "https://github.com/readest/readest/releases/download/v0.9.96/Readest_0.9.96_x64-setup.exe#/dl.7z",
+    "hash": "a4c5c1691320bdc4bab6232fa49f6422b65caf457cae68e6a7f128a47e483b8b",
+    "pre_install": "Remove-Item \"$dir\\`$*\", \"$dir\\uninst*\" -Force -Recurse",
+    "installer": {
+        "script": [
+            "# handle runtime cache",
+            "Import-Module $(Join-Path $(Find-BucketDirectory -Root -Name apps) scripts/AppsUtils.psm1)",
+            "Mount-ExternalRuntimeData -Source \"$persist_dir\\appdata\" -Target \"$env:LOCALAPPDATA\\com.bilingify.readest\"",
+            "Mount-ExternalRuntimeData -Source \"$persist_dir\\userdata\" -Target \"$env:APPDATA\\com.bilingify.readest\"",
+            "Remove-Module -Name AppsUtils"
+        ]
     },
+    "uninstaller": {
+        "script": [
+            "Import-Module $(Join-Path $(Find-BucketDirectory -Root -Name apps) scripts/AppsUtils.psm1)",
+            "Dismount-ExternalRuntimeData -Target \"$env:LOCALAPPDATA\\com.bilingify.readest\"",
+            "Dismount-ExternalRuntimeData -Target \"$env:APPDATA\\com.bilingify.readest\"",
+            "Remove-Module -Name AppsUtils"
+        ]
+    },
+    "bin": "Readest.exe",
     "shortcuts": [
         [
             "Readest.exe",
@@ -23,16 +34,11 @@
         ]
     ],
     "checkver": {
-        "github": "https://github.com/readest/readest"
+        "url": "https://api.github.com/repos/readest/readest/releases/latest",
+        "jp": ".assets[*].browser_download_url",
+        "regex": "/releases/download/v([\\d.]+)/(?<file>Readest_([\\d.]+)_x64-setup.*?\\.exe)"
     },
     "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": "https://github.com/readest/readest/releases/download/v$version/Readest_$version_x64-portable.exe#/Readest.exe"
-            },
-            "arm64": {
-                "url": "https://github.com/readest/readest/releases/download/v$version/Readest_$version_arm64-portable.exe#/Readest.exe"
-            }
-        }
+        "url": "https://github.com/readest/readest/releases/download/v$version/$matchFile#/dl.7z"
     }
 }
