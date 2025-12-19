@@ -7623,7 +7623,7 @@ simple64_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 winuae.json,hermanjustnu/scoop-emulators
 retroarch_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary.json,hermanjustnu/scoop-emulators
@@ -8249,7 +8249,7 @@ ExitWindows.json,dodorz/scoop
 CLCL.json,dodorz/scoop
 MyHash_dodorz.json,dodorz/scoop
 KShutdown.json,dodorz/scoop
-ChatWise_dodorz.json,dodorz/scoop
+ChatWise.json,dodorz/scoop
 KeepNote.json,dodorz/scoop
 ResophNotes.json,dodorz/scoop
 CJK-character-count.json,dodorz/scoop
@@ -8700,7 +8700,7 @@ cyberapi.json,ViCrack/scoop-bucket
 dddd_ViCrack.json,ViCrack/scoop-bucket
 PowerRun.json,ViCrack/scoop-bucket
 java-chains.json,ViCrack/scoop-bucket
-subfinder_ViCrack.json,ViCrack/scoop-bucket
+subfinder.json,ViCrack/scoop-bucket
 certimate.json,ViCrack/scoop-bucket
 ksubdomain_ViCrack.json,ViCrack/scoop-bucket
 BowPad.json,ViCrack/scoop-bucket
@@ -8787,6 +8787,7 @@ ollama_akirco.json,akirco/aki-apps
 x264_akirco.json,akirco/aki-apps
 mysql_akirco.json,akirco/aki-apps
 notion_akirco.json,akirco/aki-apps
+cursor.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
 ima-copilot.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
@@ -9442,7 +9443,7 @@ voice-pro.json,DoveBoy/Apps
 freerenamer.json,DoveBoy/Apps
 gopeed_DoveBoy.json,DoveBoy/Apps
 libreoffice.json,DoveBoy/Apps
-abdownloadmanager_DoveBoy.json,DoveBoy/Apps
+abdownloadmanager.json,DoveBoy/Apps
 typora-plugin.json,DoveBoy/Apps
 7zip-beta_DoveBoy.json,DoveBoy/Apps
 windterm_DoveBoy.json,DoveBoy/Apps
@@ -10273,7 +10274,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
