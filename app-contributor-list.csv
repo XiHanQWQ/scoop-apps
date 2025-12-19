@@ -7630,6 +7630,7 @@ citra-canary.json,hermanjustnu/scoop-emulators
 Unison-GUI.json,dodorz/scoop
 Random.json,dodorz/scoop
 MicroEmacs.json,dodorz/scoop
+sqlite-gui.json,dodorz/scoop
 CADReader.json,dodorz/scoop
 VenetaViewer.json,dodorz/scoop
 Lattics.json,dodorz/scoop
@@ -7811,6 +7812,7 @@ PyScripter.json,dodorz/scoop
 Marp-deprecated.json,dodorz/scoop
 JabRef_dodorz.json,dodorz/scoop
 SoftMakerFreeOffice.json,dodorz/scoop
+AureliusMultitool.json,dodorz/scoop
 Wave-Terminal_dodorz.json,dodorz/scoop
 kpcli_dodorz.json,dodorz/scoop
 Undelete360.json,dodorz/scoop
@@ -7942,7 +7944,6 @@ ShowMyPC.json,dodorz/scoop
 QtPass_dodorz.json,dodorz/scoop
 json.bash.json,dodorz/scoop
 EditPadLite.json,dodorz/scoop
-AureliusMultitool.json,dodorz/scoop
 WinMount.json,dodorz/scoop
 TeXnicCenter.json,dodorz/scoop
 aacDECdrop.json,dodorz/scoop
@@ -7956,7 +7957,6 @@ PolarisOffice.json,dodorz/scoop
 FreeRARPasswordRecovery.json,dodorz/scoop
 FreeFileSync.json,dodorz/scoop
 Plume.json,dodorz/scoop
-ShutterEncoder.json,dodorz/scoop
 OracleJDK11.json,dodorz/scoop
 PDFSplitandMerge.json,dodorz/scoop
 PyNGWallpaper.json,dodorz/scoop
@@ -8034,6 +8034,7 @@ OSFMount.json,dodorz/scoop
 Shimmy.json,dodorz/scoop
 epr.json,dodorz/scoop
 Npackd.json,dodorz/scoop
+ShutterEncoder.json,dodorz/scoop
 Yudit.json,dodorz/scoop
 llamafile_dodorz.json,dodorz/scoop
 Craft.json,dodorz/scoop
@@ -8464,6 +8465,7 @@ MiKTeX_dodorz.json,dodorz/scoop
 Story-writer.json,dodorz/scoop
 DrJava.json,dodorz/scoop
 Vibe.json,dodorz/scoop
+sqlite-gui-no-ciphers.json,dodorz/scoop
 Trout.json,dodorz/scoop
 DeleteProfiles.json,dodorz/scoop
 WavePad.json,dodorz/scoop
@@ -8737,7 +8739,7 @@ emeditor_ViCrack.json,ViCrack/scoop-bucket
 rubick.json,ViCrack/scoop-bucket
 webshell_generate_ViCrack.json,ViCrack/scoop-bucket
 gowitness.json,ViCrack/scoop-bucket
-apifox.json,ViCrack/scoop-bucket
+apifox_ViCrack.json,ViCrack/scoop-bucket
 edx.json,ViCrack/scoop-bucket
 newfiletime_ViCrack.json,ViCrack/scoop-bucket
 rad_ViCrack.json,ViCrack/scoop-bucket
@@ -9721,6 +9723,7 @@ bilibili_DoveBoy.json,DoveBoy/Apps
 wpsoffice-cn.json,DoveBoy/Apps
 restart-explorer_DoveBoy.json,DoveBoy/Apps
 optimizer_DoveBoy.json,DoveBoy/Apps
+text-grab.json,DoveBoy/Apps
 nekoray_DoveBoy.json,DoveBoy/Apps
 pnpm-tab-completion.json,DoveBoy/Apps
 kando_DoveBoy.json,DoveBoy/Apps
@@ -9884,7 +9887,7 @@ res-downloader.json,DoveBoy/Apps
 apprhyme.json,DoveBoy/Apps
 fileconverter.json,DoveBoy/Apps
 pscalendar.json,DoveBoy/Apps
-readest.json,DoveBoy/Apps
+readest_DoveBoy.json,DoveBoy/Apps
 vhs_DoveBoy.json,DoveBoy/Apps
 iobit-undelete_DoveBoy.json,DoveBoy/Apps
 flyoobe-classic.json,DoveBoy/Apps
@@ -10010,7 +10013,7 @@ iris.json,DoveBoy/Apps
 clashwarden.json,DoveBoy/Apps
 flclash-portable.json,DoveBoy/Apps
 varia.json,DoveBoy/Apps
-freefilesync.json,DoveBoy/Apps
+freefilesync_DoveBoy.json,DoveBoy/Apps
 waifu2x-snowshell_DoveBoy.json,DoveBoy/Apps
 hiddify-next.json,DoveBoy/Apps
 lx-music-desktop.json,DoveBoy/Apps
@@ -10684,7 +10687,7 @@ gostv3.json,NyaMisty/scoop_bucket_misty
 jclasslib.json,NyaMisty/scoop_bucket_misty
 EasyLPAC.json,NyaMisty/scoop_bucket_misty
 ghidramod-nightly.json,NyaMisty/scoop_bucket_misty
-sqlite-gui.json,naderi/scoop-bucket
+sqlite-gui_naderi.json,naderi/scoop-bucket
 qbittorrent-enhanced_naderi.json,naderi/scoop-bucket
 appget_naderi.json,naderi/scoop-bucket
 winshell.json,naderi/scoop-bucket
@@ -12241,7 +12244,7 @@ bitcomet_batkiz.json,batkiz/backit
 datastation.json,batkiz/backit
 mdcat_batkiz.json,batkiz/backit
 hck.json,batkiz/backit
-beekeeper-studio.json,batkiz/backit
+beekeeper-studio_batkiz.json,batkiz/backit
 deno_batkiz.json,batkiz/backit
 redli.json,batkiz/backit
 httpie-go_batkiz.json,batkiz/backit
@@ -12793,6 +12796,7 @@ flying-carpet.json,Scoopforge/Extras-Plus
 vibe_Scoopforge.json,Scoopforge/Extras-Plus
 ecopaste_Scoopforge.json,Scoopforge/Extras-Plus
 bitcomet_Scoopforge.json,Scoopforge/Extras-Plus
+wox-beta_Scoopforge.json,Scoopforge/Extras-Plus
 defender-remover.json,Scoopforge/Extras-Plus
 tropy.json,Scoopforge/Extras-Plus
 landrop-latest.json,Scoopforge/Extras-Plus
