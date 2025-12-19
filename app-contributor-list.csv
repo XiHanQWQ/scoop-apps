@@ -1465,6 +1465,7 @@ workspaceutilities.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 baregrep.json,ScoopInstaller/Extras
 dosbox-staging.json,ScoopInstaller/Extras
+hemmelig.json,ScoopInstaller/Extras
 vscodium.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 josm.json,ScoopInstaller/Extras
@@ -2505,7 +2506,7 @@ dn-tool-container.json,ScoopInstaller/Extras
 jackett.json,ScoopInstaller/Extras
 openelement.json,ScoopInstaller/Extras
 fadetop.json,ScoopInstaller/Extras
-jetbrains-toolbox.json,ScoopInstaller/Extras
+jetbrains-toolbox_ScoopInstaller.json,ScoopInstaller/Extras
 cnping.json,ScoopInstaller/Extras
 eiskaltdcpp.json,ScoopInstaller/Extras
 stellarium.json,ScoopInstaller/Extras
@@ -3037,6 +3038,7 @@ freecad.json,ScoopInstaller/Extras
 expresso.json,ScoopInstaller/Extras
 micmute.json,ScoopInstaller/Extras
 sc1.json,ScoopInstaller/Extras
+altsendme.json,ScoopInstaller/Extras
 varia.json,ScoopInstaller/Extras
 eclipse-jee.json,ScoopInstaller/Extras
 bpgconv.json,ScoopInstaller/Extras
@@ -3259,6 +3261,7 @@ rabbitmq.json,ScoopInstaller/Extras
 pwtech.json,ScoopInstaller/Extras
 tikzit.json,ScoopInstaller/Extras
 popcorn-time.json,ScoopInstaller/Extras
+regclient.json,ScoopInstaller/Extras
 openvpn.json,ScoopInstaller/Extras
 soundnode.json,ScoopInstaller/Extras
 springboot.json,ScoopInstaller/Extras
@@ -4103,6 +4106,7 @@ feeluown.json,Scoopforge/Extras-CN
 miniforge-cn.json,Scoopforge/Extras-CN
 kicad-cn.json,Scoopforge/Extras-CN
 ting-es.json,Scoopforge/Extras-CN
+wechatdevtools_Scoopforge.json,Scoopforge/Extras-CN
 navicat-premium-lite-cn.json,Scoopforge/Extras-CN
 videocaptioner.json,Scoopforge/Extras-CN
 gimp-cn.json,Scoopforge/Extras-CN
@@ -8243,7 +8247,7 @@ ExitWindows.json,dodorz/scoop
 CLCL.json,dodorz/scoop
 MyHash_dodorz.json,dodorz/scoop
 KShutdown.json,dodorz/scoop
-ChatWise.json,dodorz/scoop
+ChatWise_dodorz.json,dodorz/scoop
 KeepNote.json,dodorz/scoop
 ResophNotes.json,dodorz/scoop
 CJK-character-count.json,dodorz/scoop
@@ -8838,7 +8842,7 @@ figlet_akirco.json,akirco/aki-apps
 nyagos_akirco.json,akirco/aki-apps
 dingtalk_akirco.json,akirco/aki-apps
 nmap-portable.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 audacity_akirco.json,akirco/aki-apps
 nvm_akirco.json,akirco/aki-apps
 gdrive_akirco.json,akirco/aki-apps
@@ -8954,7 +8958,7 @@ mdbook_akirco.json,akirco/aki-apps
 tup_akirco.json,akirco/aki-apps
 say_akirco.json,akirco/aki-apps
 telegram_akirco.json,akirco/aki-apps
-wechatdevtools.json,akirco/aki-apps
+wechatdevtools_akirco.json,akirco/aki-apps
 pseverything.json,akirco/aki-apps
 biyi_akirco.json,akirco/aki-apps
 jetbrains-toolbox_akirco.json,akirco/aki-apps
@@ -9487,7 +9491,6 @@ videofusion.json,DoveBoy/Apps
 yasocut.json,DoveBoy/Apps
 wechatrealfriends.json,DoveBoy/Apps
 tai.json,DoveBoy/Apps
-beyondcompare.json,DoveBoy/Apps
 officetoolplus_DoveBoy.json,DoveBoy/Apps
 syncthing-beta.json,DoveBoy/Apps
 tageditor-qt5.json,DoveBoy/Apps
@@ -9593,6 +9596,7 @@ volta-tab-completion.json,DoveBoy/Apps
 ani-beta.json,DoveBoy/Apps
 ipinfo.json,DoveBoy/Apps
 quasar_DoveBoy.json,DoveBoy/Apps
+mrrss.json,DoveBoy/Apps
 pikapika.json,DoveBoy/Apps
 python-tab-completion.json,DoveBoy/Apps
 coco.json,DoveBoy/Apps
@@ -9905,6 +9909,7 @@ urlfinder.json,DoveBoy/Apps
 hydrogen-music.json,DoveBoy/Apps
 clash-rev.json,DoveBoy/Apps
 64gram_DoveBoy.json,DoveBoy/Apps
+vget.json,DoveBoy/Apps
 innounp_DoveBoy.json,DoveBoy/Apps
 wiliwili_DoveBoy.json,DoveBoy/Apps
 snappy-driver-installer-origin_DoveBoy.json,DoveBoy/Apps
@@ -9921,6 +9926,7 @@ splayer.json,DoveBoy/Apps
 final2x.json,DoveBoy/Apps
 n_m3u8dl-re.json,DoveBoy/Apps
 r3playx.json,DoveBoy/Apps
+mrrss-portable.json,DoveBoy/Apps
 handbrake-cli_DoveBoy.json,DoveBoy/Apps
 fnm_DoveBoy.json,DoveBoy/Apps
 cloudflared_DoveBoy.json,DoveBoy/Apps
@@ -10263,7 +10269,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
@@ -12574,6 +12580,7 @@ orbolay.json,Small-Ku/turbo-bucket
 kondo_Small-Ku.json,Small-Ku/turbo-bucket
 zluda5.json,Small-Ku/turbo-bucket
 stardb-exporter.json,Small-Ku/turbo-bucket
+gemini-cli.json,Small-Ku/turbo-bucket
 source-han-sans-vf-ttc.json,Small-Ku/turbo-bucket
 sarasa-super-ttc.json,Small-Ku/turbo-bucket
 ruffle_Small-Ku.json,Small-Ku/turbo-bucket
@@ -12591,7 +12598,7 @@ process-lasso.json,Small-Ku/turbo-bucket
 reshade-addon.json,Small-Ku/turbo-bucket
 yap-nightly.json,Small-Ku/turbo-bucket
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
@@ -12705,7 +12712,7 @@ YogaDNS.json,Darkatse/Scoop-Darkatse
 TestMem5_Darkatse.json,Darkatse/Scoop-Darkatse
 JHenTai.json,Darkatse/Scoop-Darkatse
 Netch_Darkatse.json,Darkatse/Scoop-Darkatse
-Termius.json,Darkatse/Scoop-Darkatse
+Termius_Darkatse.json,Darkatse/Scoop-Darkatse
 memtest.json,Darkatse/Scoop-Darkatse
 Brook-GUI.json,Darkatse/Scoop-Darkatse
 ZenTimings.json,Darkatse/Scoop-Darkatse
@@ -14789,6 +14796,7 @@ projectlibre-aoks.json,AntonOks/scoop-aoks
 chorus-aoks.json,AntonOks/scoop-aoks
 setacl_studio-aoks.json,AntonOks/scoop-aoks
 privatezilla-aoks.json,AntonOks/scoop-aoks
+IntelliJIDEA-aoks.json,AntonOks/scoop-aoks
 portfolio-performance-aoks.json,AntonOks/scoop-aoks
 ntttcp-aoks.json,AntonOks/scoop-aoks
 ffmpeg-aoks.json,AntonOks/scoop-aoks
