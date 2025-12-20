@@ -1258,6 +1258,7 @@ keepassxc.json,ScoopInstaller/Extras
 fluidsynth.json,ScoopInstaller/Extras
 sfsu.json,ScoopInstaller/Extras
 gridplayer.json,ScoopInstaller/Extras
+sshfs-win-manager.json,ScoopInstaller/Extras
 meinplatz.json,ScoopInstaller/Extras
 openvpn-connect.json,ScoopInstaller/Extras
 oripa.json,ScoopInstaller/Extras
@@ -3623,7 +3624,7 @@ clash-verge_chawyehsu.json,chawyehsu/dorado
 aegisub-nightly.json,chawyehsu/dorado
 openethereum.json,chawyehsu/dorado
 wpsoffice-zh-cn.json,chawyehsu/dorado
-hfs.json,chawyehsu/dorado
+hfs_chawyehsu.json,chawyehsu/dorado
 koodo-reader_chawyehsu.json,chawyehsu/dorado
 clashn.json,chawyehsu/dorado
 umi-ocr_chawyehsu.json,chawyehsu/dorado
@@ -8580,7 +8581,7 @@ ezshare.json,couleur-tweak-tips/utils
 discordcompressor.json,couleur-tweak-tips/utils
 mouse-tester.json,couleur-tweak-tips/utils
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -12513,6 +12514,7 @@ mort.json,Small-Ku/turbo-bucket
 natural-voice-sapi-adapter.json,Small-Ku/turbo-bucket
 hoyo-gacha.json,Small-Ku/turbo-bucket
 pso2-tweaker_Small-Ku.json,Small-Ku/turbo-bucket
+claude-code.json,Small-Ku/turbo-bucket
 vencord-installer_Small-Ku.json,Small-Ku/turbo-bucket
 stuntman.json,Small-Ku/turbo-bucket
 gpu-z-portable.json,Small-Ku/turbo-bucket
