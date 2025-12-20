@@ -1344,6 +1344,7 @@ matterbridge.json,ScoopInstaller/Extras
 fsresizer.json,ScoopInstaller/Extras
 vysor.json,ScoopInstaller/Extras
 focus-editor.json,ScoopInstaller/Extras
+gui-for-singbox.json,ScoopInstaller/Extras
 resource-tuner.json,ScoopInstaller/Extras
 butterflow-ui.json,ScoopInstaller/Extras
 winmerge.json,ScoopInstaller/Extras
@@ -5297,7 +5298,7 @@ gradle6.json,ScoopInstaller/Versions
 idea-rc.json,ScoopInstaller/Versions
 deepgit402.json,ScoopInstaller/Versions
 libreoffice-pre.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 orca3.json,ScoopInstaller/Versions
 postgresql15.json,ScoopInstaller/Versions
 qt-creator-beta.json,ScoopInstaller/Versions
@@ -8919,7 +8920,7 @@ wrangler_akirco.json,akirco/aki-apps
 qq-nt_akirco.json,akirco/aki-apps
 xh_akirco.json,akirco/aki-apps
 qrcp_akirco.json,akirco/aki-apps
-electerm_akirco.json,akirco/aki-apps
+electerm.json,akirco/aki-apps
 gh_akirco.json,akirco/aki-apps
 vcredist2013_akirco.json,akirco/aki-apps
 lwc_akirco.json,akirco/aki-apps
@@ -9460,7 +9461,7 @@ termscp_DoveBoy.json,DoveBoy/Apps
 zyplayer.json,DoveBoy/Apps
 youtube-dl_DoveBoy.json,DoveBoy/Apps
 spotx.json,DoveBoy/Apps
-v2rayn_DoveBoy.json,DoveBoy/Apps
+v2rayn.json,DoveBoy/Apps
 windows11-classic-context-menu_DoveBoy.json,DoveBoy/Apps
 posh-git_DoveBoy.json,DoveBoy/Apps
 crystaldiskmark-shizuku-edition_DoveBoy.json,DoveBoy/Apps
@@ -9481,7 +9482,7 @@ lemonpush.json,DoveBoy/Apps
 clashmi.json,DoveBoy/Apps
 regjump_DoveBoy.json,DoveBoy/Apps
 screenbroadcaster-net481.json,DoveBoy/Apps
-gui-for-singbox.json,DoveBoy/Apps
+gui-for-singbox_DoveBoy.json,DoveBoy/Apps
 ghostdownloader3.json,DoveBoy/Apps
 saber_DoveBoy.json,DoveBoy/Apps
 trafficmonitor-lite_DoveBoy.json,DoveBoy/Apps
@@ -9640,11 +9641,11 @@ reduce-memory_DoveBoy.json,DoveBoy/Apps
 yarn-completion.json,DoveBoy/Apps
 nhentai-cross.json,DoveBoy/Apps
 mpv.net_DoveBoy.json,DoveBoy/Apps
-v2rayn-SelfContained_DoveBoy.json,DoveBoy/Apps
+v2rayn-SelfContained.json,DoveBoy/Apps
 pixiv-omina.json,DoveBoy/Apps
 dreamscene2.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
-pscompletions.json,DoveBoy/Apps
+pscompletions_DoveBoy.json,DoveBoy/Apps
 forkgram_DoveBoy.json,DoveBoy/Apps
 varia-portable.json,DoveBoy/Apps
 everything-beta_DoveBoy.json,DoveBoy/Apps
@@ -9724,7 +9725,6 @@ bilibili_DoveBoy.json,DoveBoy/Apps
 wpsoffice-cn.json,DoveBoy/Apps
 restart-explorer_DoveBoy.json,DoveBoy/Apps
 optimizer_DoveBoy.json,DoveBoy/Apps
-chromium.json,DoveBoy/Apps
 nekoray_DoveBoy.json,DoveBoy/Apps
 pnpm-tab-completion.json,DoveBoy/Apps
 kando_DoveBoy.json,DoveBoy/Apps
@@ -9756,6 +9756,7 @@ http-downloader_DoveBoy.json,DoveBoy/Apps
 runastool_DoveBoy.json,DoveBoy/Apps
 delapp_DoveBoy.json,DoveBoy/Apps
 pikatorrent.json,DoveBoy/Apps
+electerm_DoveBoy.json,DoveBoy/Apps
 gh_DoveBoy.json,DoveBoy/Apps
 waveterm_DoveBoy.json,DoveBoy/Apps
 pot-desktop_DoveBoy.json,DoveBoy/Apps
@@ -11423,7 +11424,7 @@ flamelens_aliesbelik.json,aliesbelik/poldi
 vegeta_aliesbelik.json,aliesbelik/poldi
 termscp_aliesbelik.json,aliesbelik/poldi
 atac_aliesbelik.json,aliesbelik/poldi
-lazysql.json,aliesbelik/poldi
+lazysql_aliesbelik.json,aliesbelik/poldi
 bandwhich_aliesbelik.json,aliesbelik/poldi
 mqtt-cli_aliesbelik.json,aliesbelik/poldi
 ddosify_aliesbelik.json,aliesbelik/poldi
