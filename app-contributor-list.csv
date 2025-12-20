@@ -2233,7 +2233,7 @@ commandbox.json,ScoopInstaller/Extras
 neohtop.json,ScoopInstaller/Extras
 treesheets.json,ScoopInstaller/Extras
 vesktop.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 fontforge.json,ScoopInstaller/Extras
 baretail.json,ScoopInstaller/Extras
 vcredist2013.json,ScoopInstaller/Extras
@@ -8642,7 +8642,7 @@ dnsx_ViCrack.json,ViCrack/scoop-bucket
 fastgithub.json,ViCrack/scoop-bucket
 httpx_ViCrack.json,ViCrack/scoop-bucket
 kscan_ViCrack.json,ViCrack/scoop-bucket
-ddns-go_ViCrack.json,ViCrack/scoop-bucket
+ddns-go.json,ViCrack/scoop-bucket
 chmac.json,ViCrack/scoop-bucket
 notepad--_ViCrack.json,ViCrack/scoop-bucket
 katana_ViCrack.json,ViCrack/scoop-bucket
@@ -8920,7 +8920,7 @@ wrangler_akirco.json,akirco/aki-apps
 qq-nt_akirco.json,akirco/aki-apps
 xh_akirco.json,akirco/aki-apps
 qrcp_akirco.json,akirco/aki-apps
-electerm.json,akirco/aki-apps
+electerm_akirco.json,akirco/aki-apps
 gh_akirco.json,akirco/aki-apps
 vcredist2013_akirco.json,akirco/aki-apps
 lwc_akirco.json,akirco/aki-apps
@@ -9418,7 +9418,7 @@ downkyi_DoveBoy.json,DoveBoy/Apps
 cmder-full_DoveBoy.json,DoveBoy/Apps
 cloc_DoveBoy.json,DoveBoy/Apps
 shadowsocks-rust_DoveBoy.json,DoveBoy/Apps
-biu.json,DoveBoy/Apps
+biu_DoveBoy.json,DoveBoy/Apps
 ugrep_DoveBoy.json,DoveBoy/Apps
 aria2_DoveBoy.json,DoveBoy/Apps
 webcam-on-off_DoveBoy.json,DoveBoy/Apps
@@ -9756,7 +9756,6 @@ http-downloader_DoveBoy.json,DoveBoy/Apps
 runastool_DoveBoy.json,DoveBoy/Apps
 delapp_DoveBoy.json,DoveBoy/Apps
 pikatorrent.json,DoveBoy/Apps
-electerm_DoveBoy.json,DoveBoy/Apps
 gh_DoveBoy.json,DoveBoy/Apps
 waveterm_DoveBoy.json,DoveBoy/Apps
 pot-desktop_DoveBoy.json,DoveBoy/Apps
