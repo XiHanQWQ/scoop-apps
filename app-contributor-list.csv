@@ -5298,7 +5298,7 @@ gradle6.json,ScoopInstaller/Versions
 idea-rc.json,ScoopInstaller/Versions
 deepgit402.json,ScoopInstaller/Versions
 libreoffice-pre.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 orca3.json,ScoopInstaller/Versions
 postgresql15.json,ScoopInstaller/Versions
 qt-creator-beta.json,ScoopInstaller/Versions
@@ -6201,6 +6201,7 @@ sandboxie-classic-np.json,ScoopInstaller/Nonportable
 ivpn-client-np.json,ScoopInstaller/Nonportable
 textpad8-np.json,ScoopInstaller/Nonportable
 notepads-np.json,ScoopInstaller/Nonportable
+k-lite-codec-pack-standard-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 innosetup-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 file-converter-np.json,ScoopInstaller/Nonportable
 workman-p-uk-np_ScoopInstaller.json,ScoopInstaller/Nonportable
@@ -6241,6 +6242,8 @@ burp-suite-pro-np.json,ScoopInstaller/Nonportable
 nvidia-display-driver-np.json,ScoopInstaller/Nonportable
 lavfilters-np.json,ScoopInstaller/Nonportable
 xysubfilter-np.json,ScoopInstaller/Nonportable
+k-lite-codec-pack-basic-np_ScoopInstaller.json,ScoopInstaller/Nonportable
+k-lite-codec-pack-full-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 dshidmini-np.json,ScoopInstaller/Nonportable
 everything-beta-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 portmaster-np.json,ScoopInstaller/Nonportable
@@ -6255,6 +6258,7 @@ spotx-np.json,ScoopInstaller/Nonportable
 winfsp-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 8gadgetpack-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 vokoscreenng-np.json,ScoopInstaller/Nonportable
+k-lite-codec-pack-mega-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 voicemeeter-banana-np.json,ScoopInstaller/Nonportable
 open-shell-np.json,ScoopInstaller/Nonportable
 google-japanese-input-np_ScoopInstaller.json,ScoopInstaller/Nonportable
@@ -7623,7 +7627,7 @@ simple64_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 winuae.json,hermanjustnu/scoop-emulators
 retroarch_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary.json,hermanjustnu/scoop-emulators
@@ -8249,7 +8253,7 @@ ExitWindows.json,dodorz/scoop
 CLCL.json,dodorz/scoop
 MyHash_dodorz.json,dodorz/scoop
 KShutdown.json,dodorz/scoop
-ChatWise.json,dodorz/scoop
+ChatWise_dodorz.json,dodorz/scoop
 KeepNote.json,dodorz/scoop
 ResophNotes.json,dodorz/scoop
 CJK-character-count.json,dodorz/scoop
@@ -8700,7 +8704,7 @@ cyberapi.json,ViCrack/scoop-bucket
 dddd_ViCrack.json,ViCrack/scoop-bucket
 PowerRun.json,ViCrack/scoop-bucket
 java-chains.json,ViCrack/scoop-bucket
-subfinder.json,ViCrack/scoop-bucket
+subfinder_ViCrack.json,ViCrack/scoop-bucket
 certimate.json,ViCrack/scoop-bucket
 ksubdomain_ViCrack.json,ViCrack/scoop-bucket
 BowPad.json,ViCrack/scoop-bucket
@@ -8787,7 +8791,6 @@ ollama_akirco.json,akirco/aki-apps
 x264_akirco.json,akirco/aki-apps
 mysql_akirco.json,akirco/aki-apps
 notion_akirco.json,akirco/aki-apps
-cursor.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
 ima-copilot.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
@@ -9443,7 +9446,7 @@ voice-pro.json,DoveBoy/Apps
 freerenamer.json,DoveBoy/Apps
 gopeed_DoveBoy.json,DoveBoy/Apps
 libreoffice.json,DoveBoy/Apps
-abdownloadmanager.json,DoveBoy/Apps
+abdownloadmanager_DoveBoy.json,DoveBoy/Apps
 typora-plugin.json,DoveBoy/Apps
 7zip-beta_DoveBoy.json,DoveBoy/Apps
 windterm_DoveBoy.json,DoveBoy/Apps
@@ -9835,7 +9838,7 @@ littletips.json,DoveBoy/Apps
 maple-file.json,DoveBoy/Apps
 imfile-portable.json,DoveBoy/Apps
 mediago.json,DoveBoy/Apps
-dandanplay.json,DoveBoy/Apps
+dandanplay_DoveBoy.json,DoveBoy/Apps
 ipcalc_DoveBoy.json,DoveBoy/Apps
 everything-lite_DoveBoy.json,DoveBoy/Apps
 xcmusic.json,DoveBoy/Apps
@@ -9957,7 +9960,7 @@ neovim_DoveBoy.json,DoveBoy/Apps
 screencapture_DoveBoy.json,DoveBoy/Apps
 iobit-unlocker_DoveBoy.json,DoveBoy/Apps
 qqmusic_DoveBoy.json,DoveBoy/Apps
-neteasemusic.json,DoveBoy/Apps
+neteasemusic_DoveBoy.json,DoveBoy/Apps
 mpv-lazy.json,DoveBoy/Apps
 clink_DoveBoy.json,DoveBoy/Apps
 pansy.json,DoveBoy/Apps
@@ -12489,7 +12492,7 @@ fiddler-everywhere.json,seumsc/scoop-seu
 video2x_seumsc.json,seumsc/scoop-seu
 foobar2000-preview.json,seumsc/scoop-seu
 renpy-translator.json,seumsc/scoop-seu
-kook.json,seumsc/scoop-seu
+kook_seumsc.json,seumsc/scoop-seu
 autowikibrowser.json,seumsc/scoop-seu
 eduvpn.json,seumsc/scoop-seu
 librescore.json,seumsc/scoop-seu
