@@ -4106,7 +4106,6 @@ feeluown.json,Scoopforge/Extras-CN
 miniforge-cn.json,Scoopforge/Extras-CN
 kicad-cn.json,Scoopforge/Extras-CN
 ting-es.json,Scoopforge/Extras-CN
-wechatdevtools_Scoopforge.json,Scoopforge/Extras-CN
 navicat-premium-lite-cn.json,Scoopforge/Extras-CN
 videocaptioner.json,Scoopforge/Extras-CN
 gimp-cn.json,Scoopforge/Extras-CN
@@ -6201,7 +6200,6 @@ sandboxie-classic-np.json,ScoopInstaller/Nonportable
 ivpn-client-np.json,ScoopInstaller/Nonportable
 textpad8-np.json,ScoopInstaller/Nonportable
 notepads-np.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-standard-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 innosetup-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 file-converter-np.json,ScoopInstaller/Nonportable
 workman-p-uk-np_ScoopInstaller.json,ScoopInstaller/Nonportable
@@ -6242,8 +6240,6 @@ burp-suite-pro-np.json,ScoopInstaller/Nonportable
 nvidia-display-driver-np.json,ScoopInstaller/Nonportable
 lavfilters-np.json,ScoopInstaller/Nonportable
 xysubfilter-np.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-basic-np_ScoopInstaller.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-full-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 dshidmini-np.json,ScoopInstaller/Nonportable
 everything-beta-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 portmaster-np.json,ScoopInstaller/Nonportable
@@ -6258,7 +6254,6 @@ spotx-np.json,ScoopInstaller/Nonportable
 winfsp-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 8gadgetpack-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 vokoscreenng-np.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-mega-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 voicemeeter-banana-np.json,ScoopInstaller/Nonportable
 open-shell-np.json,ScoopInstaller/Nonportable
 google-japanese-input-np_ScoopInstaller.json,ScoopInstaller/Nonportable
@@ -9649,7 +9644,7 @@ v2rayn-SelfContained_DoveBoy.json,DoveBoy/Apps
 pixiv-omina.json,DoveBoy/Apps
 dreamscene2.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
-pscompletions_DoveBoy.json,DoveBoy/Apps
+pscompletions.json,DoveBoy/Apps
 forkgram_DoveBoy.json,DoveBoy/Apps
 varia-portable.json,DoveBoy/Apps
 everything-beta_DoveBoy.json,DoveBoy/Apps
@@ -9729,6 +9724,7 @@ bilibili_DoveBoy.json,DoveBoy/Apps
 wpsoffice-cn.json,DoveBoy/Apps
 restart-explorer_DoveBoy.json,DoveBoy/Apps
 optimizer_DoveBoy.json,DoveBoy/Apps
+chromium.json,DoveBoy/Apps
 nekoray_DoveBoy.json,DoveBoy/Apps
 pnpm-tab-completion.json,DoveBoy/Apps
 kando_DoveBoy.json,DoveBoy/Apps
@@ -10277,7 +10273,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
@@ -11427,7 +11423,7 @@ flamelens_aliesbelik.json,aliesbelik/poldi
 vegeta_aliesbelik.json,aliesbelik/poldi
 termscp_aliesbelik.json,aliesbelik/poldi
 atac_aliesbelik.json,aliesbelik/poldi
-lazysql_aliesbelik.json,aliesbelik/poldi
+lazysql.json,aliesbelik/poldi
 bandwhich_aliesbelik.json,aliesbelik/poldi
 mqtt-cli_aliesbelik.json,aliesbelik/poldi
 ddosify_aliesbelik.json,aliesbelik/poldi
