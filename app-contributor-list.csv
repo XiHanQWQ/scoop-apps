@@ -6199,7 +6199,7 @@ nodejs-np.json,ScoopInstaller/Nonportable
 xampp-np.json,ScoopInstaller/Nonportable
 glasswire-lite-np.json,ScoopInstaller/Nonportable
 teracopy-np_ScoopInstaller.json,ScoopInstaller/Nonportable
-darktable-np_ScoopInstaller.json,ScoopInstaller/Nonportable
+darktable-np.json,ScoopInstaller/Nonportable
 sandboxie-classic-np.json,ScoopInstaller/Nonportable
 ivpn-client-np.json,ScoopInstaller/Nonportable
 textpad8-np.json,ScoopInstaller/Nonportable
@@ -8583,7 +8583,7 @@ ezshare.json,couleur-tweak-tips/utils
 discordcompressor.json,couleur-tweak-tips/utils
 mouse-tester.json,couleur-tweak-tips/utils
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -9436,7 +9436,7 @@ sandboxie-classic-np.json,DoveBoy/Apps
 clash-verge_DoveBoy.json,DoveBoy/Apps
 hgrep.json,DoveBoy/Apps
 clashmi-portable.json,DoveBoy/Apps
-ventoy.json,DoveBoy/Apps
+ventoy_DoveBoy.json,DoveBoy/Apps
 video-subtitle-extractor-cpu.json,DoveBoy/Apps
 godmode.json,DoveBoy/Apps
 powerping_DoveBoy.json,DoveBoy/Apps
