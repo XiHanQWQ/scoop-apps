@@ -2568,6 +2568,7 @@ natscli.json,ScoopInstaller/Extras
 shiba.json,ScoopInstaller/Extras
 networkminer.json,ScoopInstaller/Extras
 firefox-eme-free.json,ScoopInstaller/Extras
+cake-wallet.json,ScoopInstaller/Extras
 gink.json,ScoopInstaller/Extras
 koboldcpp.json,ScoopInstaller/Extras
 github.json,ScoopInstaller/Extras
@@ -2998,6 +2999,7 @@ folge.json,ScoopInstaller/Extras
 android-line-transfer.json,ScoopInstaller/Extras
 hex-editor-neo.json,ScoopInstaller/Extras
 gitextensions.json,ScoopInstaller/Extras
+sophia-script.json,ScoopInstaller/Extras
 buildcache.json,ScoopInstaller/Extras
 assume-role.json,ScoopInstaller/Extras
 renpy.json,ScoopInstaller/Extras
@@ -5299,7 +5301,7 @@ gradle6.json,ScoopInstaller/Versions
 idea-rc.json,ScoopInstaller/Versions
 deepgit402.json,ScoopInstaller/Versions
 libreoffice-pre.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 orca3.json,ScoopInstaller/Versions
 postgresql15.json,ScoopInstaller/Versions
 qt-creator-beta.json,ScoopInstaller/Versions
@@ -9646,7 +9648,7 @@ v2rayn-SelfContained.json,DoveBoy/Apps
 pixiv-omina.json,DoveBoy/Apps
 dreamscene2.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
-pscompletions.json,DoveBoy/Apps
+pscompletions_DoveBoy.json,DoveBoy/Apps
 forkgram_DoveBoy.json,DoveBoy/Apps
 varia-portable.json,DoveBoy/Apps
 everything-beta_DoveBoy.json,DoveBoy/Apps
@@ -12526,7 +12528,7 @@ process-lasso.json,Small-Ku/turbo-bucket
 reshade-addon.json,Small-Ku/turbo-bucket
 yap-nightly.json,Small-Ku/turbo-bucket
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
