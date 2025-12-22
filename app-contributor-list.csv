@@ -4464,6 +4464,7 @@ playit.json,Calinou/scoop-games
 nbtexplorer_Calinou.json,Calinou/scoop-games
 bugdom-2.json,Calinou/scoop-games
 playback.json,Calinou/scoop-games
+atlauncher.json,Calinou/scoop-games
 pyfa.json,Calinou/scoop-games
 rimpy-pre-release.json,Calinou/scoop-games
 battlenet.json,Calinou/scoop-games
@@ -8744,7 +8745,7 @@ emeditor_ViCrack.json,ViCrack/scoop-bucket
 rubick.json,ViCrack/scoop-bucket
 webshell_generate_ViCrack.json,ViCrack/scoop-bucket
 gowitness.json,ViCrack/scoop-bucket
-apifox_ViCrack.json,ViCrack/scoop-bucket
+apifox.json,ViCrack/scoop-bucket
 edx.json,ViCrack/scoop-bucket
 newfiletime_ViCrack.json,ViCrack/scoop-bucket
 rad_ViCrack.json,ViCrack/scoop-bucket
@@ -11644,7 +11645,7 @@ pixpin_ygguorun.json,ygguorun/scoop-bucket
 Macast_ygguorun.json,ygguorun/scoop-bucket
 officebox.json,ygguorun/scoop-bucket
 pic2meme.json,ygguorun/scoop-bucket
-TMSpeech_ygguorun.json,ygguorun/scoop-bucket
+TMSpeech.json,ygguorun/scoop-bucket
 CloudCompare.json,ygguorun/scoop-bucket
 fishing-funds.json,ygguorun/scoop-bucket
 dragon.json,ygguorun/scoop-bucket
@@ -11774,7 +11775,7 @@ spleeter-gui.json,WinApps-share/WinApps-bucket
 trollrestore.json,WinApps-share/WinApps-bucket
 google-chrome.json,WinApps-share/WinApps-bucket
 cherry-studio-np.json,WinApps-share/WinApps-bucket
-edge.json,WinApps-share/WinApps-bucket
+edge_WinApps-share.json,WinApps-share/WinApps-bucket
 bbdown_WinApps-share.json,WinApps-share/WinApps-bucket
 autohotkey_WinApps-share.json,WinApps-share/WinApps-bucket
 reqable_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -12629,7 +12630,7 @@ Shanaencoder_Darkatse.json,Darkatse/Scoop-Darkatse
 MaaX.json,Darkatse/Scoop-Darkatse
 vesta_Darkatse.json,Darkatse/Scoop-Darkatse
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
@@ -14889,7 +14890,6 @@ xpipe-aoks.json,AntonOks/scoop-aoks
 osquery-aoks.json,AntonOks/scoop-aoks
 xinorbis-aoks.json,AntonOks/scoop-aoks
 WixEdit-aoks.json,AntonOks/scoop-aoks
-xournalpp-aoks.json,AntonOks/scoop-aoks
 marktext-aoks.json,AntonOks/scoop-aoks
 laverna-aoks.json,AntonOks/scoop-aoks
 cudatext-aoks.json,AntonOks/scoop-aoks
@@ -15216,7 +15216,7 @@ amidst_The-Simples.json,The-Simples/scoop-minecraft
 pacmc_The-Simples.json,The-Simples/scoop-minecraft
 nbtexplorer_The-Simples.json,The-Simples/scoop-minecraft
 open-note-block-studio.json,The-Simples/scoop-minecraft
-atlauncher.json,The-Simples/scoop-minecraft
+atlauncher_The-Simples.json,The-Simples/scoop-minecraft
 multimc_The-Simples.json,The-Simples/scoop-minecraft
 modmanager.json,The-Simples/scoop-minecraft
 guiscrcpy_younger-1.json,younger-1/scoop-it
