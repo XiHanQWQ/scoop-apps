@@ -5301,7 +5301,7 @@ gradle6.json,ScoopInstaller/Versions
 idea-rc.json,ScoopInstaller/Versions
 deepgit402.json,ScoopInstaller/Versions
 libreoffice-pre.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 orca3.json,ScoopInstaller/Versions
 postgresql15.json,ScoopInstaller/Versions
 qt-creator-beta.json,ScoopInstaller/Versions
@@ -8583,7 +8583,7 @@ ezshare.json,couleur-tweak-tips/utils
 discordcompressor.json,couleur-tweak-tips/utils
 mouse-tester.json,couleur-tweak-tips/utils
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -9839,7 +9839,7 @@ littletips.json,DoveBoy/Apps
 maple-file.json,DoveBoy/Apps
 imfile-portable.json,DoveBoy/Apps
 mediago.json,DoveBoy/Apps
-dandanplay.json,DoveBoy/Apps
+dandanplay_DoveBoy.json,DoveBoy/Apps
 ipcalc_DoveBoy.json,DoveBoy/Apps
 everything-lite_DoveBoy.json,DoveBoy/Apps
 xcmusic.json,DoveBoy/Apps
@@ -12516,7 +12516,7 @@ leanify.json,seumsc/scoop-seu
 mahjong-helper_seumsc.json,seumsc/scoop-seu
 resxtranslator.json,seumsc/scoop-seu
 7ztm_seumsc.json,seumsc/scoop-seu
-hmcl.json,seumsc/scoop-seu
+hmcl_seumsc.json,seumsc/scoop-seu
 nusmv.json,seumsc/scoop-seu
 kindlegen_seumsc.json,seumsc/scoop-seu
 subconverter_seumsc.json,seumsc/scoop-seu
@@ -14889,6 +14889,7 @@ xpipe-aoks.json,AntonOks/scoop-aoks
 osquery-aoks.json,AntonOks/scoop-aoks
 xinorbis-aoks.json,AntonOks/scoop-aoks
 WixEdit-aoks.json,AntonOks/scoop-aoks
+xournalpp-aoks.json,AntonOks/scoop-aoks
 marktext-aoks.json,AntonOks/scoop-aoks
 laverna-aoks.json,AntonOks/scoop-aoks
 cudatext-aoks.json,AntonOks/scoop-aoks
