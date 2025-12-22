@@ -8585,7 +8585,7 @@ ezshare.json,couleur-tweak-tips/utils
 discordcompressor.json,couleur-tweak-tips/utils
 mouse-tester.json,couleur-tweak-tips/utils
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -10280,7 +10280,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
@@ -12064,6 +12064,7 @@ raddebugger_brian6932.json,brian6932/dank-scoop
 chroot_brian6932.json,brian6932/dank-scoop
 fsrcnnx.json,brian6932/dank-scoop
 comicrack.json,brian6932/dank-scoop
+dysk.json,brian6932/dank-scoop
 hagoromo.json,brian6932/dank-scoop
 luminous-ttv.json,brian6932/dank-scoop
 simple-image-compare.json,brian6932/dank-scoop
@@ -12512,7 +12513,7 @@ orbolay.json,Small-Ku/turbo-bucket
 kondo_Small-Ku.json,Small-Ku/turbo-bucket
 zluda5.json,Small-Ku/turbo-bucket
 stardb-exporter.json,Small-Ku/turbo-bucket
-gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
+gemini-cli.json,Small-Ku/turbo-bucket
 source-han-sans-vf-ttc.json,Small-Ku/turbo-bucket
 sarasa-super-ttc.json,Small-Ku/turbo-bucket
 ruffle_Small-Ku.json,Small-Ku/turbo-bucket
@@ -12526,6 +12527,7 @@ stuntman.json,Small-Ku/turbo-bucket
 gpu-z-portable.json,Small-Ku/turbo-bucket
 lapce-nightly_Small-Ku.json,Small-Ku/turbo-bucket
 untrunc.json,Small-Ku/turbo-bucket
+liteloader-qqnt.json,Small-Ku/turbo-bucket
 multimc.json,Small-Ku/turbo-bucket
 process-lasso.json,Small-Ku/turbo-bucket
 reshade-addon.json,Small-Ku/turbo-bucket
@@ -12569,7 +12571,7 @@ Shanaencoder_Darkatse.json,Darkatse/Scoop-Darkatse
 MaaX.json,Darkatse/Scoop-Darkatse
 vesta_Darkatse.json,Darkatse/Scoop-Darkatse
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
