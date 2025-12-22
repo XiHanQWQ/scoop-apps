@@ -5302,7 +5302,7 @@ gradle6.json,ScoopInstaller/Versions
 idea-rc.json,ScoopInstaller/Versions
 deepgit402.json,ScoopInstaller/Versions
 libreoffice-pre.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 orca3.json,ScoopInstaller/Versions
 postgresql15.json,ScoopInstaller/Versions
 qt-creator-beta.json,ScoopInstaller/Versions
@@ -7611,7 +7611,7 @@ dolphin-beta.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 steam-rom-manager_hermanjustnu.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
-mgba-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+mgba-dev.json,hermanjustnu/scoop-emulators
 sameboy_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 cemuhook.json,hermanjustnu/scoop-emulators
@@ -7627,7 +7627,7 @@ simple64_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 winuae.json,hermanjustnu/scoop-emulators
 retroarch_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary.json,hermanjustnu/scoop-emulators
@@ -8166,6 +8166,7 @@ Nomad.NET.json,dodorz/scoop
 XVI32.json,dodorz/scoop
 Iridium.json,dodorz/scoop
 gImageReader-Qt.json,dodorz/scoop
+PythonStudio.json,dodorz/scoop
 Halite.json,dodorz/scoop
 KillEmAllMini.json,dodorz/scoop
 AutoTyper.json,dodorz/scoop
@@ -12630,7 +12631,7 @@ Shanaencoder_Darkatse.json,Darkatse/Scoop-Darkatse
 MaaX.json,Darkatse/Scoop-Darkatse
 vesta_Darkatse.json,Darkatse/Scoop-Darkatse
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
