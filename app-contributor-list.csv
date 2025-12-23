@@ -8632,7 +8632,7 @@ mgba-dev_borger.json,borger/scoop-emulators
 shipwright_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
-ares_borger.json,borger/scoop-emulators
+ares.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 desmume_borger.json,borger/scoop-emulators
 ryujinx_borger.json,borger/scoop-emulators
@@ -12573,7 +12573,7 @@ Shanaencoder_Darkatse.json,Darkatse/Scoop-Darkatse
 MaaX.json,Darkatse/Scoop-Darkatse
 vesta_Darkatse.json,Darkatse/Scoop-Darkatse
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
@@ -14793,6 +14793,7 @@ agebox-aoks.json,AntonOks/scoop-aoks
 kopia-aoks.json,AntonOks/scoop-aoks
 tortoisegit-aoks.json,AntonOks/scoop-aoks
 notepadplusplus-aoks.json,AntonOks/scoop-aoks
+s3browser-aoks.json,AntonOks/scoop-aoks
 acorn-aoks.json,AntonOks/scoop-aoks
 xcp_ng-center-aoks.json,AntonOks/scoop-aoks
 shadowmaker-free-aoks.json,AntonOks/scoop-aoks
