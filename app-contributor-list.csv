@@ -8586,7 +8586,7 @@ ezshare.json,couleur-tweak-tips/utils
 discordcompressor.json,couleur-tweak-tips/utils
 mouse-tester.json,couleur-tweak-tips/utils
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -9450,7 +9450,7 @@ voice-pro.json,DoveBoy/Apps
 freerenamer.json,DoveBoy/Apps
 gopeed_DoveBoy.json,DoveBoy/Apps
 libreoffice.json,DoveBoy/Apps
-abdownloadmanager.json,DoveBoy/Apps
+abdownloadmanager_DoveBoy.json,DoveBoy/Apps
 typora-plugin.json,DoveBoy/Apps
 7zip-beta_DoveBoy.json,DoveBoy/Apps
 windterm_DoveBoy.json,DoveBoy/Apps
@@ -9469,7 +9469,7 @@ termscp_DoveBoy.json,DoveBoy/Apps
 zyplayer.json,DoveBoy/Apps
 youtube-dl_DoveBoy.json,DoveBoy/Apps
 spotx.json,DoveBoy/Apps
-v2rayn.json,DoveBoy/Apps
+v2rayn_DoveBoy.json,DoveBoy/Apps
 windows11-classic-context-menu_DoveBoy.json,DoveBoy/Apps
 posh-git_DoveBoy.json,DoveBoy/Apps
 crystaldiskmark-shizuku-edition_DoveBoy.json,DoveBoy/Apps
@@ -11289,6 +11289,7 @@ jianying.json,WinApps-share/WinApps-bucket
 vmware.json,WinApps-share/WinApps-bucket
 itunes-old.json,WinApps-share/WinApps-bucket
 musicfree-np.json,WinApps-share/WinApps-bucket
+gui-for-singbox_WinApps-share.json,WinApps-share/WinApps-bucket
 steam.json,WinApps-share/WinApps-bucket
 tai_WinApps-share.json,WinApps-share/WinApps-bucket
 cherry-studio_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -11305,6 +11306,7 @@ bypass_WinApps-share.json,WinApps-share/WinApps-bucket
 spleeter-gui.json,WinApps-share/WinApps-bucket
 trollrestore.json,WinApps-share/WinApps-bucket
 google-chrome.json,WinApps-share/WinApps-bucket
+flclash-np.json,WinApps-share/WinApps-bucket
 cherry-studio-np.json,WinApps-share/WinApps-bucket
 edge_WinApps-share.json,WinApps-share/WinApps-bucket
 bbdown_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -12559,6 +12561,7 @@ dorion.json,Small-Ku/turbo-bucket
 better-genshin-impact.json,Small-Ku/turbo-bucket
 yap.json,Small-Ku/turbo-bucket
 reshade-dll.json,Small-Ku/turbo-bucket
+letta-code.json,Small-Ku/turbo-bucket
 magpie-preview.json,Small-Ku/turbo-bucket
 zluda3-lshqqytiger.json,Small-Ku/turbo-bucket
 wintun.json,Small-Ku/turbo-bucket
@@ -12598,7 +12601,7 @@ process-lasso.json,Small-Ku/turbo-bucket
 reshade-addon.json,Small-Ku/turbo-bucket
 yap-nightly.json,Small-Ku/turbo-bucket
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
