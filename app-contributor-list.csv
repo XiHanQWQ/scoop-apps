@@ -2182,7 +2182,6 @@ squirrel-sql.json,ScoopInstaller/Extras
 picard.json,ScoopInstaller/Extras
 schismtracker.json,ScoopInstaller/Extras
 macintosh.js.json,ScoopInstaller/Extras
-b1.json,ScoopInstaller/Extras
 sdl2.json,ScoopInstaller/Extras
 komorebi.json,ScoopInstaller/Extras
 compactgui_ScoopInstaller.json,ScoopInstaller/Extras
@@ -2333,7 +2332,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -3335,6 +3334,7 @@ winrar-helper.json,ScoopInstaller/Extras
 libreoffice-fresh.json,ScoopInstaller/Extras
 lightcord.json,ScoopInstaller/Extras
 nekoray.json,ScoopInstaller/Extras
+b1.json,ScoopInstaller/Extras
 notepad2-zufuliu.json,ScoopInstaller/Extras
 fmedia.json,ScoopInstaller/Extras
 appium.json,ScoopInstaller/Extras
@@ -10280,7 +10280,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
@@ -11594,6 +11594,7 @@ ddosify_aliesbelik.json,aliesbelik/poldi
 walk_aliesbelik.json,aliesbelik/poldi
 tcping_aliesbelik.json,aliesbelik/poldi
 gut_aliesbelik.json,aliesbelik/poldi
+ttdl.json,aliesbelik/poldi
 taplo_aliesbelik.json,aliesbelik/poldi
 jc_aliesbelik.json,aliesbelik/poldi
 oha_aliesbelik.json,aliesbelik/poldi
@@ -12571,7 +12572,7 @@ Shanaencoder_Darkatse.json,Darkatse/Scoop-Darkatse
 MaaX.json,Darkatse/Scoop-Darkatse
 vesta_Darkatse.json,Darkatse/Scoop-Darkatse
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
