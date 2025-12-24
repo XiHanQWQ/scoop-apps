@@ -8917,7 +8917,7 @@ gsudo_akirco.json,akirco/aki-apps
 bilibili_akirco.json,akirco/aki-apps
 aliyundrive.json,akirco/aki-apps
 zola_akirco.json,akirco/aki-apps
-miniconda3.json,akirco/aki-apps
+miniconda3_akirco.json,akirco/aki-apps
 chromium_akirco.json,akirco/aki-apps
 python_akirco.json,akirco/aki-apps
 recycle-bin_akirco.json,akirco/aki-apps
@@ -9656,7 +9656,7 @@ pixiv-omina.json,DoveBoy/Apps
 dreamscene2.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
 pscompletions_DoveBoy.json,DoveBoy/Apps
-forkgram.json,DoveBoy/Apps
+forkgram_DoveBoy.json,DoveBoy/Apps
 varia-portable.json,DoveBoy/Apps
 everything-beta_DoveBoy.json,DoveBoy/Apps
 nilesoft-shell_DoveBoy.json,DoveBoy/Apps
