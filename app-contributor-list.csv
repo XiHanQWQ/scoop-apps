@@ -5302,7 +5302,7 @@ gradle6.json,ScoopInstaller/Versions
 idea-rc.json,ScoopInstaller/Versions
 deepgit402.json,ScoopInstaller/Versions
 libreoffice-pre.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 orca3.json,ScoopInstaller/Versions
 postgresql15.json,ScoopInstaller/Versions
 qt-creator-beta.json,ScoopInstaller/Versions
@@ -8968,7 +8968,6 @@ mdbook_akirco.json,akirco/aki-apps
 tup_akirco.json,akirco/aki-apps
 say_akirco.json,akirco/aki-apps
 telegram_akirco.json,akirco/aki-apps
-bilibili-livehime.json,akirco/aki-apps
 wechatdevtools_akirco.json,akirco/aki-apps
 pseverything.json,akirco/aki-apps
 biyi_akirco.json,akirco/aki-apps
@@ -14745,6 +14744,7 @@ skopeo-aoks.json,AntonOks/scoop-aoks
 hog-aoks.json,AntonOks/scoop-aoks
 filelist-aoks.json,AntonOks/scoop-aoks
 edit-aoks.json,AntonOks/scoop-aoks
+urbstat-aoks.json,AntonOks/scoop-aoks
 topaz-aoks.json,AntonOks/scoop-aoks
 dokany-aoks.json,AntonOks/scoop-aoks
 sandboxie-plus-aoks.json,AntonOks/scoop-aoks
@@ -14931,6 +14931,7 @@ uncrustify-aoks.json,AntonOks/scoop-aoks
 gitty-aoks.json,AntonOks/scoop-aoks
 mIRC-aoks.json,AntonOks/scoop-aoks
 strelaysrv-aoks.json,AntonOks/scoop-aoks
+stratoshark-aoks.json,AntonOks/scoop-aoks
 vs_community-aoks.json,AntonOks/scoop-aoks
 digdag-aoks.json,AntonOks/scoop-aoks
 VictoriaMetrics-utils-aoks.json,AntonOks/scoop-aoks
