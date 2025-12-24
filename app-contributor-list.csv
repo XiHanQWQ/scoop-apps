@@ -8650,7 +8650,7 @@ httpx_ViCrack.json,ViCrack/scoop-bucket
 kscan_ViCrack.json,ViCrack/scoop-bucket
 ddns-go_ViCrack.json,ViCrack/scoop-bucket
 chmac.json,ViCrack/scoop-bucket
-notepad--_ViCrack.json,ViCrack/scoop-bucket
+notepad--.json,ViCrack/scoop-bucket
 katana_ViCrack.json,ViCrack/scoop-bucket
 easy-context-menu_ViCrack.json,ViCrack/scoop-bucket
 reqstress.json,ViCrack/scoop-bucket
@@ -9424,6 +9424,7 @@ wx-channels-download.json,DoveBoy/Apps
 downkyi_DoveBoy.json,DoveBoy/Apps
 cmder-full_DoveBoy.json,DoveBoy/Apps
 cloc_DoveBoy.json,DoveBoy/Apps
+cyrenemusic.json,DoveBoy/Apps
 shadowsocks-rust_DoveBoy.json,DoveBoy/Apps
 biu.json,DoveBoy/Apps
 ugrep_DoveBoy.json,DoveBoy/Apps
@@ -9632,6 +9633,7 @@ tcping_DoveBoy.json,DoveBoy/Apps
 pnpm_DoveBoy.json,DoveBoy/Apps
 host-editor_DoveBoy.json,DoveBoy/Apps
 upscayl_DoveBoy.json,DoveBoy/Apps
+any-listen-desktop-win7.json,DoveBoy/Apps
 lx-music-desktop-win7.json,DoveBoy/Apps
 czkawka-gui_DoveBoy.json,DoveBoy/Apps
 clash-nyanpasu_DoveBoy.json,DoveBoy/Apps
@@ -9904,6 +9906,7 @@ flyoobe-classic.json,DoveBoy/Apps
 openbbterminal.json,DoveBoy/Apps
 ntrace-v1.json,DoveBoy/Apps
 thunder-https.json,DoveBoy/Apps
+any-listen-desktop.json,DoveBoy/Apps
 cnnettool.json,DoveBoy/Apps
 translumo.json,DoveBoy/Apps
 clash-rev-cgo.json,DoveBoy/Apps
@@ -11278,7 +11281,7 @@ wps_WinApps-share.json,WinApps-share/WinApps-bucket
 watt-toolkit_WinApps-share.json,WinApps-share/WinApps-bucket
 ditto_WinApps-share.json,WinApps-share/WinApps-bucket
 ollama_WinApps-share.json,WinApps-share/WinApps-bucket
-notepad--.json,WinApps-share/WinApps-bucket
+notepad--_WinApps-share.json,WinApps-share/WinApps-bucket
 cursor_WinApps-share.json,WinApps-share/WinApps-bucket
 firefox_WinApps-share.json,WinApps-share/WinApps-bucket
 ventoy_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -12600,7 +12603,7 @@ process-lasso.json,Small-Ku/turbo-bucket
 reshade-addon.json,Small-Ku/turbo-bucket
 yap-nightly.json,Small-Ku/turbo-bucket
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
