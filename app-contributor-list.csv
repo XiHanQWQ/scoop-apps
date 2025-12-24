@@ -8917,7 +8917,7 @@ gsudo_akirco.json,akirco/aki-apps
 bilibili_akirco.json,akirco/aki-apps
 aliyundrive.json,akirco/aki-apps
 zola_akirco.json,akirco/aki-apps
-miniconda3.json,akirco/aki-apps
+miniconda3_akirco.json,akirco/aki-apps
 chromium_akirco.json,akirco/aki-apps
 python_akirco.json,akirco/aki-apps
 recycle-bin_akirco.json,akirco/aki-apps
@@ -9571,7 +9571,7 @@ sniffnet_DoveBoy.json,DoveBoy/Apps
 miniserve_DoveBoy.json,DoveBoy/Apps
 irfanview-lean_DoveBoy.json,DoveBoy/Apps
 sing-box_DoveBoy.json,DoveBoy/Apps
-opentrace.json,DoveBoy/Apps
+opentrace_DoveBoy.json,DoveBoy/Apps
 etcher_DoveBoy.json,DoveBoy/Apps
 crossdesk.json,DoveBoy/Apps
 pandaocrpro_DoveBoy.json,DoveBoy/Apps
@@ -9595,7 +9595,7 @@ alist_DoveBoy.json,DoveBoy/Apps
 ssrr-windows.json,DoveBoy/Apps
 nvm_DoveBoy.json,DoveBoy/Apps
 xx-net-win7.json,DoveBoy/Apps
-reqable.json,DoveBoy/Apps
+reqable_DoveBoy.json,DoveBoy/Apps
 daisy.json,DoveBoy/Apps
 winfetch_DoveBoy.json,DoveBoy/Apps
 gns3.json,DoveBoy/Apps
@@ -12606,7 +12606,7 @@ process-lasso.json,Small-Ku/turbo-bucket
 reshade-addon.json,Small-Ku/turbo-bucket
 yap-nightly.json,Small-Ku/turbo-bucket
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
