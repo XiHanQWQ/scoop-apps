@@ -5302,7 +5302,7 @@ gradle6.json,ScoopInstaller/Versions
 idea-rc.json,ScoopInstaller/Versions
 deepgit402.json,ScoopInstaller/Versions
 libreoffice-pre.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 orca3.json,ScoopInstaller/Versions
 postgresql15.json,ScoopInstaller/Versions
 qt-creator-beta.json,ScoopInstaller/Versions
@@ -8917,7 +8917,7 @@ gsudo_akirco.json,akirco/aki-apps
 bilibili_akirco.json,akirco/aki-apps
 aliyundrive.json,akirco/aki-apps
 zola_akirco.json,akirco/aki-apps
-miniconda3_akirco.json,akirco/aki-apps
+miniconda3.json,akirco/aki-apps
 chromium_akirco.json,akirco/aki-apps
 python_akirco.json,akirco/aki-apps
 recycle-bin_akirco.json,akirco/aki-apps
@@ -9656,7 +9656,7 @@ pixiv-omina.json,DoveBoy/Apps
 dreamscene2.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
 pscompletions_DoveBoy.json,DoveBoy/Apps
-forkgram_DoveBoy.json,DoveBoy/Apps
+forkgram.json,DoveBoy/Apps
 varia-portable.json,DoveBoy/Apps
 everything-beta_DoveBoy.json,DoveBoy/Apps
 nilesoft-shell_DoveBoy.json,DoveBoy/Apps
@@ -11344,6 +11344,7 @@ xterminal_WinApps-share.json,WinApps-share/WinApps-bucket
 vscode_WinApps-share.json,WinApps-share/WinApps-bucket
 nanazip_WinApps-share.json,WinApps-share/WinApps-bucket
 utools_WinApps-share.json,WinApps-share/WinApps-bucket
+bcuninstaller.json,WinApps-share/WinApps-bucket
 snipaste_WinApps-share.json,WinApps-share/WinApps-bucket
 everything_WinApps-share.json,WinApps-share/WinApps-bucket
 mocreak-np.json,WinApps-share/WinApps-bucket
@@ -11419,6 +11420,7 @@ ecopaste.json,WinApps-share/WinApps-bucket
 office-tool-plus_WinApps-share.json,WinApps-share/WinApps-bucket
 sharex-setup.json,WinApps-share/WinApps-bucket
 wepe_WinApps-share.json,WinApps-share/WinApps-bucket
+bcuninstaller-np.json,WinApps-share/WinApps-bucket
 notepad3_WinApps-share.json,WinApps-share/WinApps-bucket
 todesk_WinApps-share.json,WinApps-share/WinApps-bucket
 ppduck3.json,WinApps-share/WinApps-bucket
@@ -12603,7 +12605,7 @@ process-lasso.json,Small-Ku/turbo-bucket
 reshade-addon.json,Small-Ku/turbo-bucket
 yap-nightly.json,Small-Ku/turbo-bucket
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
