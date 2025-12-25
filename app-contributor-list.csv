@@ -9750,7 +9750,7 @@ video-srt-windows.json,DoveBoy/Apps
 calctus.json,DoveBoy/Apps
 handbrake_DoveBoy.json,DoveBoy/Apps
 emeditor-random-keygen.json,DoveBoy/Apps
-twinkle-tray.json,DoveBoy/Apps
+twinkle-tray_DoveBoy.json,DoveBoy/Apps
 xmusicdownloader.json,DoveBoy/Apps
 delta_DoveBoy.json,DoveBoy/Apps
 compactgui.json,DoveBoy/Apps
@@ -12586,7 +12586,7 @@ Shanaencoder_Darkatse.json,Darkatse/Scoop-Darkatse
 MaaX.json,Darkatse/Scoop-Darkatse
 vesta_Darkatse.json,Darkatse/Scoop-Darkatse
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
@@ -14172,6 +14172,7 @@ mpg123_littleli.json,littleli/Scoop-littleli
 difftastic_littleli.json,littleli/Scoop-littleli
 clib_littleli.json,littleli/Scoop-littleli
 netmet.json,littleli/Scoop-littleli
+fresh-editor.json,littleli/Scoop-littleli
 nak.json,littleli/Scoop-littleli
 mpd_littleli.json,littleli/Scoop-littleli
 immuclient.json,littleli/Scoop-littleli
