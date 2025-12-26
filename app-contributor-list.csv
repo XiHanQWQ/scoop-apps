@@ -9847,7 +9847,7 @@ littletips.json,DoveBoy/Apps
 maple-file.json,DoveBoy/Apps
 imfile-portable.json,DoveBoy/Apps
 mediago.json,DoveBoy/Apps
-dandanplay_DoveBoy.json,DoveBoy/Apps
+dandanplay.json,DoveBoy/Apps
 ipcalc_DoveBoy.json,DoveBoy/Apps
 everything-lite_DoveBoy.json,DoveBoy/Apps
 xcmusic.json,DoveBoy/Apps
@@ -11555,7 +11555,6 @@ openpomodoro.json,aliesbelik/poldi
 ali_aliesbelik.json,aliesbelik/poldi
 g.json,aliesbelik/poldi
 lazyssh.json,aliesbelik/poldi
-dyff_aliesbelik.json,aliesbelik/poldi
 xq.json,aliesbelik/poldi
 hq.json,aliesbelik/poldi
 tfsort.json,aliesbelik/poldi
@@ -11601,6 +11600,7 @@ flamelens_aliesbelik.json,aliesbelik/poldi
 vegeta_aliesbelik.json,aliesbelik/poldi
 termscp_aliesbelik.json,aliesbelik/poldi
 atac_aliesbelik.json,aliesbelik/poldi
+dyff_aliesbelik.json,aliesbelik/poldi
 lazysql_aliesbelik.json,aliesbelik/poldi
 bandwhich_aliesbelik.json,aliesbelik/poldi
 mqtt-cli_aliesbelik.json,aliesbelik/poldi
@@ -11657,6 +11657,7 @@ ftdv.json,aliesbelik/poldi
 fast.json,aliesbelik/poldi
 tgpt_aliesbelik.json,aliesbelik/poldi
 dijo.json,aliesbelik/poldi
+doh.json,aliesbelik/poldi
 gobench.json,aliesbelik/poldi
 resterm.json,aliesbelik/poldi
 binjr.json,aliesbelik/poldi
@@ -12586,7 +12587,7 @@ Shanaencoder_Darkatse.json,Darkatse/Scoop-Darkatse
 MaaX.json,Darkatse/Scoop-Darkatse
 vesta_Darkatse.json,Darkatse/Scoop-Darkatse
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
