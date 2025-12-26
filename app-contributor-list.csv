@@ -8781,7 +8781,7 @@ java-echo-generator-release.json,ViCrack/scoop-bucket
 java-memshell-generator.json,ViCrack/scoop-bucket
 ja.json,ViCrack/scoop-bucket
 siyuan.json,ViCrack/scoop-bucket
-yakit_ViCrack.json,ViCrack/scoop-bucket
+yakit.json,ViCrack/scoop-bucket
 treesize_ViCrack.json,ViCrack/scoop-bucket
 jianyingpro_akirco.json,akirco/aki-apps
 monolith_akirco.json,akirco/aki-apps
@@ -10112,7 +10112,7 @@ shadowsocksr-hmbsbige_DoveBoy.json,DoveBoy/Apps
 pwsh_DoveBoy.json,DoveBoy/Apps
 chfs-tab-completion.json,DoveBoy/Apps
 openlist_DoveBoy.json,DoveBoy/Apps
-neteaseuu_DoveBoy.json,DoveBoy/Apps
+neteaseuu.json,DoveBoy/Apps
 officetoolplus-with-runtime.json,DoveBoy/Apps
 psreadline_DoveBoy.json,DoveBoy/Apps
 easymusic.json,DoveBoy/Apps
