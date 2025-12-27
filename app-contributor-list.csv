@@ -4074,7 +4074,7 @@ lyx-cn.json,Scoopforge/Extras-CN
 lky-officetools.json,Scoopforge/Extras-CN
 m3u8-downloader.json,Scoopforge/Extras-CN
 dingtalk.json,Scoopforge/Extras-CN
-baidunetdisk_Scoopforge.json,Scoopforge/Extras-CN
+baidunetdisk.json,Scoopforge/Extras-CN
 i4tools.json,Scoopforge/Extras-CN
 eshelper.json,Scoopforge/Extras-CN
 adrive.json,Scoopforge/Extras-CN
@@ -5173,6 +5173,7 @@ winpython37cod.json,ScoopInstaller/Versions
 obs-studio28.json,ScoopInstaller/Versions
 kdenlive-nightly.json,ScoopInstaller/Versions
 ruffle-nightly.json,ScoopInstaller/Versions
+gallery-dl-nightly.json,ScoopInstaller/Versions
 scribus-dev.json,ScoopInstaller/Versions
 git-flow-next-pre.json,ScoopInstaller/Versions
 stunnel-beta.json,ScoopInstaller/Versions
@@ -5246,6 +5247,7 @@ ruby25.json,ScoopInstaller/Versions
 kotatogram-beta.json,ScoopInstaller/Versions
 posh-git-beta.json,ScoopInstaller/Versions
 ferdium-nightly.json,ScoopInstaller/Versions
+rubymine-latest.json,ScoopInstaller/Versions
 ffmpeg-shared-nightly.json,ScoopInstaller/Versions
 kdeconnect-nightly.json,ScoopInstaller/Versions
 git19.json,ScoopInstaller/Versions
@@ -5331,6 +5333,7 @@ miniconda3-py38.json,ScoopInstaller/Versions
 calibre-normal5.json,ScoopInstaller/Versions
 ant19.json,ScoopInstaller/Versions
 joplin-pre.json,ScoopInstaller/Versions
+tor-browser-alpha.json,ScoopInstaller/Versions
 spotify-qt-nightly.json,ScoopInstaller/Versions
 tesseract3.json,ScoopInstaller/Versions
 atom-ng.json,ScoopInstaller/Versions
@@ -12200,7 +12203,6 @@ dino-rss.json,batkiz/backit
 jqp_batkiz.json,batkiz/backit
 fscan_batkiz.json,batkiz/backit
 teal.json,batkiz/backit
-kreya.json,batkiz/backit
 git-stack.json,batkiz/backit
 autocorrect_batkiz.json,batkiz/backit
 ptex-ng.json,batkiz/backit
@@ -12213,10 +12215,8 @@ raven-reader_batkiz.json,batkiz/backit
 xq_batkiz.json,batkiz/backit
 Icalingua-plus-plus.json,batkiz/backit
 linqpad_batkiz.json,batkiz/backit
-lychee_batkiz.json,batkiz/backit
 switchfin.json,batkiz/backit
 redis-viewer.json,batkiz/backit
-dotnet-core-uninstall_batkiz.json,batkiz/backit
 llvm_batkiz.json,batkiz/backit
 fsql_batkiz.json,batkiz/backit
 bloomrpc.json,batkiz/backit
@@ -12297,7 +12297,6 @@ tectonic_batkiz.json,batkiz/backit
 office-tool-plus-with-runtime.json,batkiz/backit
 gping_batkiz.json,batkiz/backit
 dasel_batkiz.json,batkiz/backit
-micro_batkiz.json,batkiz/backit
 curlie_batkiz.json,batkiz/backit
 git-who.json,batkiz/backit
 fselect_batkiz.json,batkiz/backit
@@ -12306,13 +12305,11 @@ glow_batkiz.json,batkiz/backit
 git-branch-stash.json,batkiz/backit
 fnm_batkiz.json,batkiz/backit
 pdm.json,batkiz/backit
-dotnet-sdk-preview_batkiz.json,batkiz/backit
 wayback_batkiz.json,batkiz/backit
 legendary_batkiz.json,batkiz/backit
 forcebindip_batkiz.json,batkiz/backit
 cowyo.json,batkiz/backit
 cpufetch_batkiz.json,batkiz/backit
-vivaldi-snapshot_batkiz.json,batkiz/backit
 animeko_batkiz.json,batkiz/backit
 eza_batkiz.json,batkiz/backit
 bitcomet_batkiz.json,batkiz/backit
@@ -12343,15 +12340,21 @@ golangci-lint_batkiz.json,batkiz/backit
 schema.json,batkiz/backit
 pixeval_batkiz.json,batkiz/backit
 delete-self-poc.json,batkiz/backit
+kreya.json,batkiz/backit
+lychee_batkiz.json,batkiz/backit
+dotnet-core-uninstall_batkiz.json,batkiz/backit
 wiznotelite_batkiz.json,batkiz/backit
 antsword_batkiz.json,batkiz/backit
 wrangler_batkiz.json,batkiz/backit
 swiftlatex.json,batkiz/backit
 apple-music-electron.json,batkiz/backit
 ungoogled-chromium-portable.json,batkiz/backit
+micro_batkiz.json,batkiz/backit
 pathman.json,batkiz/backit
+dotnet-sdk-preview_batkiz.json,batkiz/backit
 yu-writer_batkiz.json,batkiz/backit
 gotip.json,batkiz/backit
+vivaldi-snapshot_batkiz.json,batkiz/backit
 arc_batkiz.json,batkiz/backit
 miflash.json,batkiz/backit
 bitvise-ssh-client_batkiz.json,batkiz/backit
