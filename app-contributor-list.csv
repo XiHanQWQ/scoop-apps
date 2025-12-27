@@ -1337,6 +1337,7 @@ lightbulb.json,ScoopInstaller/Extras
 carotdav.json,ScoopInstaller/Extras
 vuplayer.json,ScoopInstaller/Extras
 komac.json,ScoopInstaller/Extras
+lintalist.json,ScoopInstaller/Extras
 beaker.json,ScoopInstaller/Extras
 streamlink.json,ScoopInstaller/Extras
 cpkeeper.json,ScoopInstaller/Extras
@@ -1988,6 +1989,7 @@ rclone-ui.json,ScoopInstaller/Extras
 sts.json,ScoopInstaller/Extras
 vscode_ScoopInstaller.json,ScoopInstaller/Extras
 inky.json,ScoopInstaller/Extras
+audiobookconverter.json,ScoopInstaller/Extras
 alldup.json,ScoopInstaller/Extras
 ytdlp-interface.json,ScoopInstaller/Extras
 symphytum.json,ScoopInstaller/Extras
@@ -4074,6 +4076,7 @@ edrawmax8.json,Scoopforge/Extras-CN
 tim.json,Scoopforge/Extras-CN
 revoke-msg-patcher.json,Scoopforge/Extras-CN
 lyx-cn.json,Scoopforge/Extras-CN
+lceda.json,Scoopforge/Extras-CN
 lky-officetools.json,Scoopforge/Extras-CN
 m3u8-downloader.json,Scoopforge/Extras-CN
 dingtalk.json,Scoopforge/Extras-CN
@@ -7634,7 +7637,7 @@ simple64_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 winuae.json,hermanjustnu/scoop-emulators
 retroarch_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary.json,hermanjustnu/scoop-emulators
@@ -10569,6 +10572,7 @@ mpv-handler.json,hu3rror/scoop-muggle
 neovim_hu3rror.json,hu3rror/scoop-muggle
 mosdns_hu3rror.json,hu3rror/scoop-muggle
 mpv-lazy_hu3rror.json,hu3rror/scoop-muggle
+musicplayer2_hu3rror.json,hu3rror/scoop-muggle
 limitpng.json,hu3rror/scoop-muggle
 simpread-synchelper.json,hu3rror/scoop-muggle
 baidupcs-go_hu3rror.json,hu3rror/scoop-muggle
@@ -11804,7 +11808,7 @@ copy-translator-rust.json,ygguorun/scoop-bucket
 CopyTranslator_ygguorun.json,ygguorun/scoop-bucket
 PDFPatcher_ygguorun.json,ygguorun/scoop-bucket
 gluttonyFLIF.json,ygguorun/scoop-bucket
-BaiduNetdisk_ygguorun.json,ygguorun/scoop-bucket
+BaiduNetdisk.json,ygguorun/scoop-bucket
 MajsoulPlus.json,ygguorun/scoop-bucket
 jpfont-nds.json,ygguorun/scoop-bucket
 CloudflareSpeedTest_ygguorun.json,ygguorun/scoop-bucket
@@ -12592,7 +12596,7 @@ ct.json,iquiw/scoop-bucket
 proxify_iquiw.json,iquiw/scoop-bucket
 logcli.json,iquiw/scoop-bucket
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
