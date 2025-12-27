@@ -7633,7 +7633,7 @@ simple64_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 winuae.json,hermanjustnu/scoop-emulators
 retroarch_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary.json,hermanjustnu/scoop-emulators
@@ -9853,7 +9853,7 @@ littletips.json,DoveBoy/Apps
 maple-file.json,DoveBoy/Apps
 imfile-portable.json,DoveBoy/Apps
 mediago.json,DoveBoy/Apps
-dandanplay_DoveBoy.json,DoveBoy/Apps
+dandanplay.json,DoveBoy/Apps
 ipcalc_DoveBoy.json,DoveBoy/Apps
 everything-lite_DoveBoy.json,DoveBoy/Apps
 xcmusic.json,DoveBoy/Apps
@@ -9868,7 +9868,6 @@ so-novel-beta.json,DoveBoy/Apps
 autodarkmode_DoveBoy.json,DoveBoy/Apps
 mpv.net-beta_DoveBoy.json,DoveBoy/Apps
 czkawka_DoveBoy.json,DoveBoy/Apps
-mpv-easy-player.json,DoveBoy/Apps
 musicbee_DoveBoy.json,DoveBoy/Apps
 video-subtitle-extractor-gpu.json,DoveBoy/Apps
 telegram_DoveBoy.json,DoveBoy/Apps
@@ -11353,7 +11352,7 @@ centbrowser_WinApps-share.json,WinApps-share/WinApps-bucket
 equalizer-apo.json,WinApps-share/WinApps-bucket
 rustdesk_WinApps-share.json,WinApps-share/WinApps-bucket
 xterminal_WinApps-share.json,WinApps-share/WinApps-bucket
-vscode_WinApps-share.json,WinApps-share/WinApps-bucket
+vscode.json,WinApps-share/WinApps-bucket
 nanazip_WinApps-share.json,WinApps-share/WinApps-bucket
 utools_WinApps-share.json,WinApps-share/WinApps-bucket
 bcuninstaller.json,WinApps-share/WinApps-bucket
@@ -11500,7 +11499,6 @@ gopherus.json,kengwang/scoop-ctftools-bucket
 MDUT_kengwang.json,kengwang/scoop-ctftools-bucket
 JSFinder.json,kengwang/scoop-ctftools-bucket
 EtherGhost.json,kengwang/scoop-ctftools-bucket
-CTFCrackTools.json,kengwang/scoop-ctftools-bucket
 Webshell_Generate_kengwang.json,kengwang/scoop-ctftools-bucket
 gogo_kengwang.json,kengwang/scoop-ctftools-bucket
 ffuf_kengwang.json,kengwang/scoop-ctftools-bucket
@@ -11979,13 +11977,12 @@ jxl-winthumb.json,Small-Ku/turbo-bucket
 psst.json,Small-Ku/turbo-bucket
 ffmpeg-shared-svt-av1-hdr.json,Small-Ku/turbo-bucket
 atlassian-cli.json,Small-Ku/turbo-bucket
-starward_Small-Ku.json,Small-Ku/turbo-bucket
+starward.json,Small-Ku/turbo-bucket
 orbolay.json,Small-Ku/turbo-bucket
 ddu.json,Small-Ku/turbo-bucket
 kondo_Small-Ku.json,Small-Ku/turbo-bucket
-zluda5.json,Small-Ku/turbo-bucket
 stardb-exporter.json,Small-Ku/turbo-bucket
-gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
+gemini-cli.json,Small-Ku/turbo-bucket
 source-han-sans-vf-ttc.json,Small-Ku/turbo-bucket
 sarasa-super-ttc.json,Small-Ku/turbo-bucket
 antigravity-manager.json,Small-Ku/turbo-bucket
@@ -12000,6 +11997,7 @@ stuntman.json,Small-Ku/turbo-bucket
 gpu-z-portable.json,Small-Ku/turbo-bucket
 lapce-nightly_Small-Ku.json,Small-Ku/turbo-bucket
 untrunc.json,Small-Ku/turbo-bucket
+zluda.json,Small-Ku/turbo-bucket
 liteloader-qqnt.json,Small-Ku/turbo-bucket
 multimc.json,Small-Ku/turbo-bucket
 process-lasso.json,Small-Ku/turbo-bucket
@@ -12620,7 +12618,7 @@ v2rayn-core_seumsc.json,seumsc/scoop-seu
 clash-dotnet.json,seumsc/scoop-seu
 sdr-cleaner_seumsc.json,seumsc/scoop-seu
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
