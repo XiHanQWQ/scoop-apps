@@ -2201,6 +2201,7 @@ gcc-arm-none-linux-gnueabihf.json,ScoopInstaller/Extras
 blender-benchmark-cli.json,ScoopInstaller/Extras
 neovide.json,ScoopInstaller/Extras
 easytier.json,ScoopInstaller/Extras
+resizer2.json,ScoopInstaller/Extras
 chromas.json,ScoopInstaller/Extras
 integerscaler.json,ScoopInstaller/Extras
 yed.json,ScoopInstaller/Extras
@@ -3140,6 +3141,7 @@ soapui.json,ScoopInstaller/Extras
 scantailor-advanced.json,ScoopInstaller/Extras
 nmkoder.json,ScoopInstaller/Extras
 ssd-z.json,ScoopInstaller/Extras
+copy-dialog-lunar-lander.json,ScoopInstaller/Extras
 ocauxiliarytools.json,ScoopInstaller/Extras
 wizmouse.json,ScoopInstaller/Extras
 switcheroo.json,ScoopInstaller/Extras
@@ -5305,7 +5307,7 @@ gradle6.json,ScoopInstaller/Versions
 idea-rc.json,ScoopInstaller/Versions
 deepgit402.json,ScoopInstaller/Versions
 libreoffice-pre.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 orca3.json,ScoopInstaller/Versions
 postgresql15.json,ScoopInstaller/Versions
 qt-creator-beta.json,ScoopInstaller/Versions
@@ -9866,6 +9868,7 @@ so-novel-beta.json,DoveBoy/Apps
 autodarkmode_DoveBoy.json,DoveBoy/Apps
 mpv.net-beta_DoveBoy.json,DoveBoy/Apps
 czkawka_DoveBoy.json,DoveBoy/Apps
+mpv-easy-player.json,DoveBoy/Apps
 musicbee_DoveBoy.json,DoveBoy/Apps
 video-subtitle-extractor-gpu.json,DoveBoy/Apps
 telegram_DoveBoy.json,DoveBoy/Apps
@@ -12617,7 +12620,7 @@ v2rayn-core_seumsc.json,seumsc/scoop-seu
 clash-dotnet.json,seumsc/scoop-seu
 sdr-cleaner_seumsc.json,seumsc/scoop-seu
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
@@ -15268,6 +15271,7 @@ googlechrome-beta_maboloshi.json,maboloshi/scoop-private
 weixin.json,maboloshi/scoop-private
 todesk_maboloshi.json,maboloshi/scoop-private
 beyondcompare5-zh.json,maboloshi/scoop-private
+clip.json,maboloshi/scoop-private
 directoryopus-cn.json,maboloshi/scoop-private
 minepkg.json,The-Simples/scoop-minecraft
 minutor_The-Simples.json,The-Simples/scoop-minecraft
