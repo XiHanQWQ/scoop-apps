@@ -7622,7 +7622,7 @@ dolphin-beta.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 steam-rom-manager_hermanjustnu.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
-mgba-dev.json,hermanjustnu/scoop-emulators
+mgba-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 sameboy_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 cemuhook.json,hermanjustnu/scoop-emulators
@@ -8633,7 +8633,7 @@ visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 spaghettikart.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
-xemu.json,borger/scoop-emulators
+xemu_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
@@ -9413,7 +9413,7 @@ mpvconfigurator.json,DoveBoy/Apps
 malware-patch_DoveBoy.json,DoveBoy/Apps
 shadowsocks-qtun-plugin_DoveBoy.json,DoveBoy/Apps
 pixeval.json,DoveBoy/Apps
-esearch_DoveBoy.json,DoveBoy/Apps
+esearch.json,DoveBoy/Apps
 qbittorrent-enhanced_DoveBoy.json,DoveBoy/Apps
 pls.json,DoveBoy/Apps
 winget_DoveBoy.json,DoveBoy/Apps
@@ -9482,7 +9482,7 @@ termscp_DoveBoy.json,DoveBoy/Apps
 zyplayer.json,DoveBoy/Apps
 youtube-dl_DoveBoy.json,DoveBoy/Apps
 spotx.json,DoveBoy/Apps
-v2rayn.json,DoveBoy/Apps
+v2rayn_DoveBoy.json,DoveBoy/Apps
 windows11-classic-context-menu_DoveBoy.json,DoveBoy/Apps
 posh-git_DoveBoy.json,DoveBoy/Apps
 crystaldiskmark-shizuku-edition_DoveBoy.json,DoveBoy/Apps
@@ -9664,7 +9664,7 @@ reduce-memory_DoveBoy.json,DoveBoy/Apps
 yarn-completion.json,DoveBoy/Apps
 nhentai-cross.json,DoveBoy/Apps
 mpv.net_DoveBoy.json,DoveBoy/Apps
-v2rayn-SelfContained.json,DoveBoy/Apps
+v2rayn-SelfContained_DoveBoy.json,DoveBoy/Apps
 pixiv-omina.json,DoveBoy/Apps
 dreamscene2.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
@@ -12597,7 +12597,7 @@ ct.json,iquiw/scoop-bucket
 proxify_iquiw.json,iquiw/scoop-bucket
 logcli.json,iquiw/scoop-bucket
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
@@ -15006,7 +15006,7 @@ r-4.1.json,ShuguangSun/sgs-scoop-bucket
 pandoc-crossref_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 positron-user.json,ShuguangSun/sgs-scoop-bucket
 rtools42_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-cherry-studio_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+cherry-studio.json,ShuguangSun/sgs-scoop-bucket
 r-4.3.2.json,ShuguangSun/sgs-scoop-bucket
 vscodium_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 qpdf_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
