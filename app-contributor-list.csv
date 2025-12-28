@@ -2237,7 +2237,7 @@ commandbox.json,ScoopInstaller/Extras
 neohtop.json,ScoopInstaller/Extras
 treesheets.json,ScoopInstaller/Extras
 vesktop.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 fontforge.json,ScoopInstaller/Extras
 baretail.json,ScoopInstaller/Extras
 vcredist2013.json,ScoopInstaller/Extras
@@ -4080,7 +4080,7 @@ lceda.json,Scoopforge/Extras-CN
 lky-officetools.json,Scoopforge/Extras-CN
 m3u8-downloader.json,Scoopforge/Extras-CN
 dingtalk.json,Scoopforge/Extras-CN
-baidunetdisk.json,Scoopforge/Extras-CN
+baidunetdisk_Scoopforge.json,Scoopforge/Extras-CN
 i4tools.json,Scoopforge/Extras-CN
 eshelper.json,Scoopforge/Extras-CN
 adrive.json,Scoopforge/Extras-CN
@@ -6158,6 +6158,7 @@ eql-cli.json,littleli/scoop-clojure
 neil.json,littleli/scoop-clojure
 cq.json,littleli/scoop-clojure
 clj-deps.json,littleli/scoop-clojure
+cljfmt.json,littleli/scoop-clojure
 hiccup-cli.json,littleli/scoop-clojure
 bb-web.json,littleli/scoop-clojure
 bb-http-server.json,littleli/scoop-clojure
@@ -9779,7 +9780,6 @@ http-downloader_DoveBoy.json,DoveBoy/Apps
 runastool_DoveBoy.json,DoveBoy/Apps
 delapp_DoveBoy.json,DoveBoy/Apps
 pikatorrent.json,DoveBoy/Apps
-electerm_DoveBoy.json,DoveBoy/Apps
 gh_DoveBoy.json,DoveBoy/Apps
 waveterm_DoveBoy.json,DoveBoy/Apps
 pot-desktop_DoveBoy.json,DoveBoy/Apps
@@ -10298,7 +10298,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
@@ -11809,7 +11809,7 @@ copy-translator-rust.json,ygguorun/scoop-bucket
 CopyTranslator_ygguorun.json,ygguorun/scoop-bucket
 PDFPatcher_ygguorun.json,ygguorun/scoop-bucket
 gluttonyFLIF.json,ygguorun/scoop-bucket
-BaiduNetdisk.json,ygguorun/scoop-bucket
+BaiduNetdisk_ygguorun.json,ygguorun/scoop-bucket
 MajsoulPlus.json,ygguorun/scoop-bucket
 jpfont-nds.json,ygguorun/scoop-bucket
 CloudflareSpeedTest_ygguorun.json,ygguorun/scoop-bucket
@@ -14780,6 +14780,7 @@ Network_Drive_Control-aoks.json,AntonOks/scoop-aoks
 openbao-aoks.json,AntonOks/scoop-aoks
 VictoriaMetrics-logs-aoks.json,AntonOks/scoop-aoks
 ftpuse-aoks.json,AntonOks/scoop-aoks
+qtemu-aoks.json,AntonOks/scoop-aoks
 kubectl-crossplane-aoks.json,AntonOks/scoop-aoks
 goreleaser-aoks.json,AntonOks/scoop-aoks
 woodpecker-agent-aoks.json,AntonOks/scoop-aoks
