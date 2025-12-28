@@ -5311,7 +5311,7 @@ gradle6.json,ScoopInstaller/Versions
 idea-rc.json,ScoopInstaller/Versions
 deepgit402.json,ScoopInstaller/Versions
 libreoffice-pre.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 orca3.json,ScoopInstaller/Versions
 postgresql15.json,ScoopInstaller/Versions
 qt-creator-beta.json,ScoopInstaller/Versions
@@ -9779,6 +9779,7 @@ http-downloader_DoveBoy.json,DoveBoy/Apps
 runastool_DoveBoy.json,DoveBoy/Apps
 delapp_DoveBoy.json,DoveBoy/Apps
 pikatorrent.json,DoveBoy/Apps
+electerm_DoveBoy.json,DoveBoy/Apps
 gh_DoveBoy.json,DoveBoy/Apps
 waveterm_DoveBoy.json,DoveBoy/Apps
 pot-desktop_DoveBoy.json,DoveBoy/Apps
@@ -9857,7 +9858,7 @@ littletips.json,DoveBoy/Apps
 maple-file.json,DoveBoy/Apps
 imfile-portable.json,DoveBoy/Apps
 mediago.json,DoveBoy/Apps
-dandanplay.json,DoveBoy/Apps
+dandanplay_DoveBoy.json,DoveBoy/Apps
 ipcalc_DoveBoy.json,DoveBoy/Apps
 everything-lite_DoveBoy.json,DoveBoy/Apps
 xcmusic.json,DoveBoy/Apps
@@ -10297,7 +10298,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
