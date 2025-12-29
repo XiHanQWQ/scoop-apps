@@ -8759,7 +8759,7 @@ emeditor_ViCrack.json,ViCrack/scoop-bucket
 rubick.json,ViCrack/scoop-bucket
 webshell_generate_ViCrack.json,ViCrack/scoop-bucket
 gowitness.json,ViCrack/scoop-bucket
-apifox_ViCrack.json,ViCrack/scoop-bucket
+apifox.json,ViCrack/scoop-bucket
 edx.json,ViCrack/scoop-bucket
 newfiletime_ViCrack.json,ViCrack/scoop-bucket
 rad_ViCrack.json,ViCrack/scoop-bucket
@@ -12196,7 +12196,7 @@ process-lasso.json,Small-Ku/turbo-bucket
 reshade-addon.json,Small-Ku/turbo-bucket
 yap-nightly.json,Small-Ku/turbo-bucket
 scc_batkiz.json,batkiz/backit
-sq.json,batkiz/backit
+sq_batkiz.json,batkiz/backit
 ghdl_batkiz.json,batkiz/backit
 obs-cli.json,batkiz/backit
 hoyo.gacha_batkiz.json,batkiz/backit
