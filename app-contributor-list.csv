@@ -6301,7 +6301,6 @@ lantern-np.json,ScoopInstaller/Nonportable
 anki-np.json,ScoopInstaller/Nonportable
 vpnc-front-end-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 powertoys-np_ScoopInstaller.json,ScoopInstaller/Nonportable
-gpg-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 cppcryptfs-np.json,ScoopInstaller/Nonportable
 hp-support-assistant-np.json,ScoopInstaller/Nonportable
 sandboxie-plus-np.json,ScoopInstaller/Nonportable
@@ -15146,7 +15145,7 @@ phantomjs_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 emacs-nonnative.json,ShuguangSun/sgs-scoop-bucket
 r-4.4.3.json,ShuguangSun/sgs-scoop-bucket
 r-4.1.2.json,ShuguangSun/sgs-scoop-bucket
-foobar2000_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+foobar2000.json,ShuguangSun/sgs-scoop-bucket
 mambaforge_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 openjdk22_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 tree-sitter_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
