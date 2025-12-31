@@ -7624,7 +7624,7 @@ dolphin-beta.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 steam-rom-manager_hermanjustnu.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
-mgba-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+mgba-dev.json,hermanjustnu/scoop-emulators
 sameboy_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 cemuhook.json,hermanjustnu/scoop-emulators
@@ -9720,7 +9720,6 @@ nali_DoveBoy.json,DoveBoy/Apps
 ofgb-with-runtime.json,DoveBoy/Apps
 openssh_DoveBoy.json,DoveBoy/Apps
 folo_DoveBoy.json,DoveBoy/Apps
-ddu_DoveBoy.json,DoveBoy/Apps
 escrcpy-portable.json,DoveBoy/Apps
 mpv-git_DoveBoy.json,DoveBoy/Apps
 joinersplitter.json,DoveBoy/Apps
@@ -10197,7 +10196,7 @@ OracleJDK8.json,zhoujin7/tomato
 QtDesigner.json,zhoujin7/tomato
 RegistryWorkshop.json,zhoujin7/tomato
 fastgithub_zhoujin7.json,zhoujin7/tomato
-Quicker_zhoujin7.json,zhoujin7/tomato
+Quicker.json,zhoujin7/tomato
 notepad--_zhoujin7.json,zhoujin7/tomato
 maven_zhoujin7.json,zhoujin7/tomato
 PhotoFiltre7.json,zhoujin7/tomato
@@ -11243,7 +11242,7 @@ telegram_WinApps-share.json,WinApps-share/WinApps-bucket
 localsend_WinApps-share.json,WinApps-share/WinApps-bucket
 gui-for-clash_WinApps-share.json,WinApps-share/WinApps-bucket
 dbeaver_WinApps-share.json,WinApps-share/WinApps-bucket
-quicker.json,WinApps-share/WinApps-bucket
+quicker_WinApps-share.json,WinApps-share/WinApps-bucket
 vscode-np.json,WinApps-share/WinApps-bucket
 screentogif_WinApps-share.json,WinApps-share/WinApps-bucket
 res-downloader_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -12177,6 +12176,7 @@ starward.json,Small-Ku/turbo-bucket
 orbolay.json,Small-Ku/turbo-bucket
 ddu_Small-Ku.json,Small-Ku/turbo-bucket
 kondo_Small-Ku.json,Small-Ku/turbo-bucket
+mcpls.json,Small-Ku/turbo-bucket
 stardb-exporter.json,Small-Ku/turbo-bucket
 gemini-cli.json,Small-Ku/turbo-bucket
 source-han-sans-vf-ttc.json,Small-Ku/turbo-bucket
@@ -12192,6 +12192,7 @@ vencord-installer_Small-Ku.json,Small-Ku/turbo-bucket
 stuntman.json,Small-Ku/turbo-bucket
 gpu-z-portable.json,Small-Ku/turbo-bucket
 lapce-nightly_Small-Ku.json,Small-Ku/turbo-bucket
+otfcc_Small-Ku.json,Small-Ku/turbo-bucket
 untrunc.json,Small-Ku/turbo-bucket
 zluda.json,Small-Ku/turbo-bucket
 liteloader-qqnt.json,Small-Ku/turbo-bucket
