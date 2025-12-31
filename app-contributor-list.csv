@@ -4094,7 +4094,7 @@ ting-en.json,Scoopforge/Extras-CN
 pixpin.json,Scoopforge/Extras-CN
 fishing-funds.json,Scoopforge/Extras-CN
 cajviewer_Scoopforge.json,Scoopforge/Extras-CN
-utools.json,Scoopforge/Extras-CN
+utools_Scoopforge.json,Scoopforge/Extras-CN
 wegame.json,Scoopforge/Extras-CN
 evcapture.json,Scoopforge/Extras-CN
 wpsoffice-cn.json,Scoopforge/Extras-CN
@@ -4125,7 +4125,7 @@ vlc-cn.json,Scoopforge/Extras-CN
 msys2-cn_Scoopforge.json,Scoopforge/Extras-CN
 freetex.json,Scoopforge/Extras-CN
 qqmusic.json,Scoopforge/Extras-CN
-neteasemusic.json,Scoopforge/Extras-CN
+neteasemusic_Scoopforge.json,Scoopforge/Extras-CN
 aboboo-full.json,Scoopforge/Extras-CN
 baidupcs-go.json,Scoopforge/Extras-CN
 libreoffice-cn.json,Scoopforge/Extras-CN
@@ -5313,7 +5313,7 @@ gradle6.json,ScoopInstaller/Versions
 idea-rc.json,ScoopInstaller/Versions
 deepgit402.json,ScoopInstaller/Versions
 libreoffice-pre.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 orca3.json,ScoopInstaller/Versions
 postgresql15.json,ScoopInstaller/Versions
 qt-creator-beta.json,ScoopInstaller/Versions
@@ -8984,7 +8984,6 @@ mdbook_akirco.json,akirco/aki-apps
 tup_akirco.json,akirco/aki-apps
 say_akirco.json,akirco/aki-apps
 telegram_akirco.json,akirco/aki-apps
-bilibili-livehime.json,akirco/aki-apps
 wechatdevtools_akirco.json,akirco/aki-apps
 pseverything.json,akirco/aki-apps
 biyi_akirco.json,akirco/aki-apps
@@ -9856,7 +9855,7 @@ wechat_DoveBoy.json,DoveBoy/Apps
 computerlock.json,DoveBoy/Apps
 nvm-tab-completion.json,DoveBoy/Apps
 serialterminalforwindowsterminal.json,DoveBoy/Apps
-gnupg-np.json,DoveBoy/Apps
+gnupg-np_DoveBoy.json,DoveBoy/Apps
 wechatdownload.json,DoveBoy/Apps
 cloudreve-beta.json,DoveBoy/Apps
 littletips.json,DoveBoy/Apps
@@ -9994,6 +9993,7 @@ ultimatevocalremovergui.json,DoveBoy/Apps
 superrdp.json,DoveBoy/Apps
 gnirehtet_DoveBoy.json,DoveBoy/Apps
 idm.json,DoveBoy/Apps
+shotcut_DoveBoy.json,DoveBoy/Apps
 baidupcs-go_DoveBoy.json,DoveBoy/Apps
 windows-update-disabler.json,DoveBoy/Apps
 droppoint.json,DoveBoy/Apps
@@ -15145,7 +15145,7 @@ phantomjs_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 emacs-nonnative.json,ShuguangSun/sgs-scoop-bucket
 r-4.4.3.json,ShuguangSun/sgs-scoop-bucket
 r-4.1.2.json,ShuguangSun/sgs-scoop-bucket
-foobar2000.json,ShuguangSun/sgs-scoop-bucket
+foobar2000_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 mambaforge_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 openjdk22_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 tree-sitter_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
