@@ -7624,7 +7624,7 @@ dolphin-beta.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 steam-rom-manager_hermanjustnu.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
-mgba-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+mgba-dev.json,hermanjustnu/scoop-emulators
 sameboy_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 cemuhook.json,hermanjustnu/scoop-emulators
@@ -8768,7 +8768,7 @@ edx.json,ViCrack/scoop-bucket
 newfiletime_ViCrack.json,ViCrack/scoop-bucket
 rad_ViCrack.json,ViCrack/scoop-bucket
 woodpecker_ViCrack.json,ViCrack/scoop-bucket
-jyso_ViCrack.json,ViCrack/scoop-bucket
+jyso.json,ViCrack/scoop-bucket
 rebuild-shell-icon-cache.json,ViCrack/scoop-bucket
 xjavafxtool.json,ViCrack/scoop-bucket
 dudesuite_ViCrack.json,ViCrack/scoop-bucket
@@ -9935,6 +9935,7 @@ quickclipboard.json,DoveBoy/Apps
 gitalias.json,DoveBoy/Apps
 bat_DoveBoy.json,DoveBoy/Apps
 nomeiryoui_DoveBoy.json,DoveBoy/Apps
+emeditor.json,DoveBoy/Apps
 winupdateminitool.json,DoveBoy/Apps
 openoffice_DoveBoy.json,DoveBoy/Apps
 mobilecontrolguru.json,DoveBoy/Apps
@@ -9993,7 +9994,6 @@ ultimatevocalremovergui.json,DoveBoy/Apps
 superrdp.json,DoveBoy/Apps
 gnirehtet_DoveBoy.json,DoveBoy/Apps
 idm.json,DoveBoy/Apps
-shotcut_DoveBoy.json,DoveBoy/Apps
 baidupcs-go_DoveBoy.json,DoveBoy/Apps
 windows-update-disabler.json,DoveBoy/Apps
 droppoint.json,DoveBoy/Apps
