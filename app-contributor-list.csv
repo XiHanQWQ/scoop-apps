@@ -4912,6 +4912,7 @@ obs-studio-pre.json,ScoopInstaller/Versions
 clion-latest.json,ScoopInstaller/Versions
 chromedriver-beta.json,ScoopInstaller/Versions
 cuda10.0.json,ScoopInstaller/Versions
+ruby34.json,ScoopInstaller/Versions
 zeebe1.3.json,ScoopInstaller/Versions
 winpython38ps2.json,ScoopInstaller/Versions
 slack-beta.json,ScoopInstaller/Versions
@@ -4995,11 +4996,13 @@ oracle-instant-client21.json,ScoopInstaller/Versions
 ffmpeg-gyan-nightly.json,ScoopInstaller/Versions
 elasticsearch1.json,ScoopInstaller/Versions
 clion-eap.json,ScoopInstaller/Versions
+ruby33.json,ScoopInstaller/Versions
 vim-nightly.json,ScoopInstaller/Versions
 love7.json,ScoopInstaller/Versions
 biber-prev.json,ScoopInstaller/Versions
 xournalpp-nightly.json,ScoopInstaller/Versions
 python36.json,ScoopInstaller/Versions
+ruby32.json,ScoopInstaller/Versions
 php72-xdebug.json,ScoopInstaller/Versions
 cuda9.1.json,ScoopInstaller/Versions
 nanazip-beta.json,ScoopInstaller/Versions
@@ -5428,6 +5431,7 @@ cuda11.7.json,ScoopInstaller/Versions
 php71-xdebug.json,ScoopInstaller/Versions
 snipaste-beta_ScoopInstaller.json,ScoopInstaller/Versions
 sfsu-beta.json,ScoopInstaller/Versions
+ruby31.json,ScoopInstaller/Versions
 php54.json,ScoopInstaller/Versions
 r41.json,ScoopInstaller/Versions
 camunda-operate1.3.json,ScoopInstaller/Versions
@@ -7624,7 +7628,7 @@ dolphin-beta.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 steam-rom-manager_hermanjustnu.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
-mgba-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+mgba-dev.json,hermanjustnu/scoop-emulators
 sameboy_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 cemuhook.json,hermanjustnu/scoop-emulators
@@ -8763,7 +8767,7 @@ emeditor_ViCrack.json,ViCrack/scoop-bucket
 rubick.json,ViCrack/scoop-bucket
 webshell_generate_ViCrack.json,ViCrack/scoop-bucket
 gowitness.json,ViCrack/scoop-bucket
-apifox.json,ViCrack/scoop-bucket
+apifox_ViCrack.json,ViCrack/scoop-bucket
 edx.json,ViCrack/scoop-bucket
 newfiletime_ViCrack.json,ViCrack/scoop-bucket
 rad_ViCrack.json,ViCrack/scoop-bucket
@@ -9587,7 +9591,7 @@ sniffnet_DoveBoy.json,DoveBoy/Apps
 miniserve_DoveBoy.json,DoveBoy/Apps
 irfanview-lean_DoveBoy.json,DoveBoy/Apps
 sing-box_DoveBoy.json,DoveBoy/Apps
-opentrace.json,DoveBoy/Apps
+opentrace_DoveBoy.json,DoveBoy/Apps
 etcher_DoveBoy.json,DoveBoy/Apps
 crossdesk.json,DoveBoy/Apps
 pandaocrpro_DoveBoy.json,DoveBoy/Apps
@@ -9672,7 +9676,7 @@ v2rayn-SelfContained_DoveBoy.json,DoveBoy/Apps
 pixiv-omina.json,DoveBoy/Apps
 dreamscene2.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
-pscompletions_DoveBoy.json,DoveBoy/Apps
+pscompletions.json,DoveBoy/Apps
 forkgram_DoveBoy.json,DoveBoy/Apps
 varia-portable.json,DoveBoy/Apps
 everything-beta_DoveBoy.json,DoveBoy/Apps
