@@ -1,0 +1,73 @@
+{
+    "version": "8937-20260101",
+    "description": "Nintendo Game Boy Advance emulator",
+    "homepage": "https://mgba.io/",
+    "license": {
+        "url": "https://github.com/mgba-emu/mgba/blob/master/LICENSE",
+        "identifier": "MPL-2.0"
+    },
+    "architecture": {
+        "64bit": {
+            "url": "https://s3.amazonaws.com/mgba/build/mGBA-build-2026-01-01-win64-8937-3690a6d54b611b430b8f3192a3e216d1ec2bb1fb.7z",
+            "hash": "d70fdcd8a8d24ad65f5176c32436ebc2ed7f0a0c678759669f110949e961336f",
+            "extract_dir": "mGBA-build-2026-01-01-win64-8937-3690a6d54b611b430b8f3192a3e216d1ec2bb1fb"
+        },
+        "32bit": {
+            "url": "https://s3.amazonaws.com/mgba/build/mGBA-build-2026-01-01-win32-8937-3690a6d54b611b430b8f3192a3e216d1ec2bb1fb.7z",
+            "hash": "3d8fb69ccd34ca02d977166f6b81383569fdce6786d1428fb3a7fd56f89a9835",
+            "extract_dir": "mGBA-build-2026-01-01-win32-8937-3690a6d54b611b430b8f3192a3e216d1ec2bb1fb"
+        }
+    },
+    "pre_install": [
+        "if (!(Test-Path \"$persist_dir\\qt.ini\")) {",
+        "   New-Item \"$dir\\qt.ini\" -Type File | Out-Null",
+        "}",
+        "if (!(Test-Path \"$persist_dir\\config.ini\")) {",
+        "   New-Item \"$dir\\config.ini\" -Type File | Out-Null",
+        "}"
+    ],
+    "bin": [
+        [
+            "mGBA.exe",
+            "mgba-dev"
+        ],
+        [
+            "mgba-sdl.exe",
+            "mgba-sdl-dev"
+        ]
+    ],
+    "shortcuts": [
+        [
+            "mGBA.exe",
+            "mGBA (dev)"
+        ]
+    ],
+    "persist": [
+        "cheats",
+        "patch",
+        "savegame",
+        "savestate",
+        "screenshot",
+        "shaders",
+        "qt.ini",
+        "config.ini",
+        "portable.ini"
+    ],
+    "checkver": {
+        "url": "https://mgba.io/builds/1/",
+        "regex": "build-(?<year>20\\d{2})-(?<month>\\d{2})-(?<day>\\d{2})-win32-(?<ver>[\\d]+)-(?<git>\\w{40})\\.7z",
+        "replace": "$4-$1$2$3"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://s3.amazonaws.com/mgba/build/mGBA-build-$matchYear-$matchMonth-$matchDay-win64-$matchVer-$matchGit.7z",
+                "extract_dir": "mGBA-build-$matchYear-$matchMonth-$matchDay-win64-$matchVer-$matchGit"
+            },
+            "32bit": {
+                "url": "https://s3.amazonaws.com/mgba/build/mGBA-build-$matchYear-$matchMonth-$matchDay-win32-$matchVer-$matchGit.7z",
+                "extract_dir": "mGBA-build-$matchYear-$matchMonth-$matchDay-win32-$matchVer-$matchGit"
+            }
+        }
+    }
+}
