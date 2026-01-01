@@ -2336,7 +2336,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -3498,6 +3498,7 @@ swift-snapshot.json,chawyehsu/dorado
 winlibs-mingw-ucrt.json,chawyehsu/dorado
 miniconda.json,chawyehsu/dorado
 winlibs-mingw-ucrt-snapshot.json,chawyehsu/dorado
+alma.json,chawyehsu/dorado
 wasm-tools.json,chawyehsu/dorado
 helmsman.json,chawyehsu/dorado
 justcolorpicker.json,chawyehsu/dorado
@@ -9761,7 +9762,6 @@ lsx.json,DoveBoy/Apps
 explorerpatcher.json,DoveBoy/Apps
 video-srt-windows.json,DoveBoy/Apps
 calctus.json,DoveBoy/Apps
-ayugram_DoveBoy.json,DoveBoy/Apps
 handbrake_DoveBoy.json,DoveBoy/Apps
 emeditor-random-keygen.json,DoveBoy/Apps
 twinkle-tray_DoveBoy.json,DoveBoy/Apps
