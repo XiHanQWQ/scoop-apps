@@ -4112,7 +4112,7 @@ obs-studio-cn.json,Scoopforge/Extras-CN
 gimp-cn-dev.json,Scoopforge/Extras-CN
 hbuilderx.json,Scoopforge/Extras-CN
 misakatranslator.json,Scoopforge/Extras-CN
-feishu.json,Scoopforge/Extras-CN
+feishu_Scoopforge.json,Scoopforge/Extras-CN
 feeluown.json,Scoopforge/Extras-CN
 miniforge-cn.json,Scoopforge/Extras-CN
 kicad-cn.json,Scoopforge/Extras-CN
@@ -5312,7 +5312,7 @@ gradle6.json,ScoopInstaller/Versions
 idea-rc.json,ScoopInstaller/Versions
 deepgit402.json,ScoopInstaller/Versions
 libreoffice-pre.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 orca3.json,ScoopInstaller/Versions
 postgresql15.json,ScoopInstaller/Versions
 qt-creator-beta.json,ScoopInstaller/Versions
@@ -9761,6 +9761,7 @@ lsx.json,DoveBoy/Apps
 explorerpatcher.json,DoveBoy/Apps
 video-srt-windows.json,DoveBoy/Apps
 calctus.json,DoveBoy/Apps
+ayugram_DoveBoy.json,DoveBoy/Apps
 handbrake_DoveBoy.json,DoveBoy/Apps
 emeditor-random-keygen.json,DoveBoy/Apps
 twinkle-tray_DoveBoy.json,DoveBoy/Apps
