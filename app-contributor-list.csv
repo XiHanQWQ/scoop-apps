@@ -1180,6 +1180,7 @@ windirstat.json,ScoopInstaller/Extras
 testcentric.json,ScoopInstaller/Extras
 notion-enhanced.json,ScoopInstaller/Extras
 linqpadless.json,ScoopInstaller/Extras
+curd.json,ScoopInstaller/Extras
 wslgit.json,ScoopInstaller/Extras
 mkvmergebatcher.json,ScoopInstaller/Extras
 puttie.json,ScoopInstaller/Extras
@@ -7645,7 +7646,7 @@ simple64_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 winuae.json,hermanjustnu/scoop-emulators
 retroarch_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary.json,hermanjustnu/scoop-emulators
@@ -9678,6 +9679,7 @@ pixiv-omina.json,DoveBoy/Apps
 dreamscene2.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
 pscompletions_DoveBoy.json,DoveBoy/Apps
+cudatext.json,DoveBoy/Apps
 forkgram_DoveBoy.json,DoveBoy/Apps
 varia-portable.json,DoveBoy/Apps
 everything-beta_DoveBoy.json,DoveBoy/Apps
