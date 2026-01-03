@@ -3090,7 +3090,7 @@ media-downloader.json,ScoopInstaller/Extras
 vcredist-aio.json,ScoopInstaller/Extras
 gedit.json,ScoopInstaller/Extras
 station.json,ScoopInstaller/Extras
-waifu2x-extension-gui.json,ScoopInstaller/Extras
+waifu2x-extension-gui_ScoopInstaller.json,ScoopInstaller/Extras
 netbeans.json,ScoopInstaller/Extras
 opera-gx.json,ScoopInstaller/Extras
 dxirc.json,ScoopInstaller/Extras
@@ -5316,7 +5316,7 @@ gradle6.json,ScoopInstaller/Versions
 idea-rc.json,ScoopInstaller/Versions
 deepgit402.json,ScoopInstaller/Versions
 libreoffice-pre.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 orca3.json,ScoopInstaller/Versions
 postgresql15.json,ScoopInstaller/Versions
 qt-creator-beta.json,ScoopInstaller/Versions
@@ -8645,7 +8645,7 @@ cxbx-reloaded_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -9631,7 +9631,7 @@ volta-tab-completion.json,DoveBoy/Apps
 ani-beta.json,DoveBoy/Apps
 ipinfo.json,DoveBoy/Apps
 quasar_DoveBoy.json,DoveBoy/Apps
-mrrss.json,DoveBoy/Apps
+mrrss_DoveBoy.json,DoveBoy/Apps
 pikapika.json,DoveBoy/Apps
 python-tab-completion.json,DoveBoy/Apps
 coco.json,DoveBoy/Apps
@@ -12647,7 +12647,7 @@ Shanaencoder_Darkatse.json,Darkatse/Scoop-Darkatse
 MaaX.json,Darkatse/Scoop-Darkatse
 vesta_Darkatse.json,Darkatse/Scoop-Darkatse
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
