@@ -2884,7 +2884,6 @@ supermium.json,ScoopInstaller/Extras
 waterfox.json,ScoopInstaller/Extras
 imhex.json,ScoopInstaller/Extras
 activaid.json,ScoopInstaller/Extras
-jaspersoft-studio.json,ScoopInstaller/Extras
 bulk-rename-utility.json,ScoopInstaller/Extras
 shotcut.json,ScoopInstaller/Extras
 space.json,ScoopInstaller/Extras
@@ -3352,6 +3351,7 @@ oh-my-posh_ScoopInstaller.json,ScoopInstaller/Extras
 toggl.json,ScoopInstaller/Extras
 p4merge.json,ScoopInstaller/Extras
 cider.json,ScoopInstaller/Extras
+jaspersoft-studio.json,ScoopInstaller/Extras
 paperwork.json,ScoopInstaller/Extras
 android-sdk.json,ScoopInstaller/Extras
 dumo.json,ScoopInstaller/Extras
@@ -9788,6 +9788,7 @@ http-downloader_DoveBoy.json,DoveBoy/Apps
 runastool_DoveBoy.json,DoveBoy/Apps
 delapp_DoveBoy.json,DoveBoy/Apps
 pikatorrent.json,DoveBoy/Apps
+electerm.json,DoveBoy/Apps
 gh_DoveBoy.json,DoveBoy/Apps
 waveterm_DoveBoy.json,DoveBoy/Apps
 pot-desktop_DoveBoy.json,DoveBoy/Apps
@@ -9969,7 +9970,7 @@ fnm_DoveBoy.json,DoveBoy/Apps
 cloudflared_DoveBoy.json,DoveBoy/Apps
 go-musicfox.json,DoveBoy/Apps
 naiveproxy_DoveBoy.json,DoveBoy/Apps
-buzz.json,DoveBoy/Apps
+buzz_DoveBoy.json,DoveBoy/Apps
 syncclipboard-beta.json,DoveBoy/Apps
 backup-start-menu-layout_DoveBoy.json,DoveBoy/Apps
 fix-print-spooler_DoveBoy.json,DoveBoy/Apps
@@ -10422,7 +10423,7 @@ sonarr.json,amorphobia/siku
 arturo_amorphobia.json,amorphobia/siku
 dvm_amorphobia.json,amorphobia/siku
 yakc.json,amorphobia/siku
-filebrowser_amorphobia.json,amorphobia/siku
+filebrowser.json,amorphobia/siku
 radarr_amorphobia.json,amorphobia/siku
 pcl2-ce.json,amorphobia/siku
 arturo-nightly.json,amorphobia/siku
@@ -12646,7 +12647,7 @@ Shanaencoder_Darkatse.json,Darkatse/Scoop-Darkatse
 MaaX.json,Darkatse/Scoop-Darkatse
 vesta_Darkatse.json,Darkatse/Scoop-Darkatse
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
