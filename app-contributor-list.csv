@@ -8609,7 +8609,7 @@ ezshare.json,couleur-tweak-tips/utils
 discordcompressor.json,couleur-tweak-tips/utils
 mouse-tester.json,couleur-tweak-tips/utils
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -10318,7 +10318,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
@@ -11835,11 +11835,12 @@ AxGlyph.json,ygguorun/scoop-bucket
 rustclock.json,ygguorun/scoop-bucket
 youdaodict.json,ygguorun/scoop-bucket
 DotNetVersions.json,ygguorun/scoop-bucket
+IME-Indicator.json,ygguorun/scoop-bucket
 pixpin_ygguorun.json,ygguorun/scoop-bucket
 Macast_ygguorun.json,ygguorun/scoop-bucket
 officebox.json,ygguorun/scoop-bucket
 pic2meme.json,ygguorun/scoop-bucket
-TMSpeech.json,ygguorun/scoop-bucket
+TMSpeech_ygguorun.json,ygguorun/scoop-bucket
 CloudCompare.json,ygguorun/scoop-bucket
 fishing-funds.json,ygguorun/scoop-bucket
 dragon.json,ygguorun/scoop-bucket
@@ -12614,7 +12615,7 @@ Shanaencoder_Darkatse.json,Darkatse/Scoop-Darkatse
 MaaX.json,Darkatse/Scoop-Darkatse
 vesta_Darkatse.json,Darkatse/Scoop-Darkatse
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
@@ -13609,6 +13610,7 @@ gh@0.6.4.json,rivy/scoop-bucket
 python_rivy.json,rivy/scoop-bucket
 sapling_rivy.json,rivy/scoop-bucket
 cygpath.json,rivy/scoop-bucket
+oscdimg@2.56.json,rivy/scoop-bucket
 git@2.29.2.2.json,rivy/scoop-bucket
 embcc@10.2.json,rivy/scoop-bucket
 file_rivy.json,rivy/scoop-bucket
@@ -13668,6 +13670,7 @@ fzf_rivy.json,rivy/scoop-bucket
 perl@5.20.1.1+hidden-gcc.json,rivy/scoop-bucket
 wasmer@v4.2.0.json,rivy/scoop-bucket
 ziglang.json,rivy/scoop-bucket
+qemu_rivy.json,rivy/scoop-bucket
 ldc@1.32.2-multilib.json,rivy/scoop-bucket
 openssh@7.7p1.json,rivy/scoop-bucket
 vagrant@1.8.1.json,rivy/scoop-bucket
@@ -13744,6 +13747,7 @@ tar_rivy.json,rivy/scoop-bucket
 gpg@2.2.5+gui.json,rivy/scoop-bucket
 elixir@1.14.5-otp-25.json,rivy/scoop-bucket
 innounp_rivy.json,rivy/scoop-bucket
+oscdimg_rivy.json,rivy/scoop-bucket
 nim@1.0.4.json,rivy/scoop-bucket
 gcc@8.1.0-multilib+x32.json,rivy/scoop-bucket
 flutter@3.7.12.json,rivy/scoop-bucket
