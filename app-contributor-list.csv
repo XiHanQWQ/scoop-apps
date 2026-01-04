@@ -308,6 +308,7 @@ biliup-app.json,Weidows-projects/scoop-3rd
 64Gram-tdesktop-fork.json,Weidows-projects/scoop-3rd
 UmamusumeResponseAnalyzer.json,Weidows-projects/scoop-3rd
 Dependency-Walker.json,Weidows-projects/scoop-3rd
+SD-LoRA-Manager.json,Weidows-projects/scoop-3rd
 He3.json,Weidows-projects/scoop-3rd
 UmaAi.json,Weidows-projects/scoop-3rd
 animation-garden-desktop.json,Weidows-projects/scoop-3rd
@@ -2237,7 +2238,7 @@ commandbox.json,ScoopInstaller/Extras
 neohtop.json,ScoopInstaller/Extras
 treesheets.json,ScoopInstaller/Extras
 vesktop.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 fontforge.json,ScoopInstaller/Extras
 baretail.json,ScoopInstaller/Extras
 vcredist2013.json,ScoopInstaller/Extras
@@ -9890,7 +9891,7 @@ quardcrt.json,DoveBoy/Apps
 quarkpantool.json,DoveBoy/Apps
 fd_DoveBoy.json,DoveBoy/Apps
 jasmine.json,DoveBoy/Apps
-sandboxie-plus.json,DoveBoy/Apps
+sandboxie-plus_DoveBoy.json,DoveBoy/Apps
 convert.net_DoveBoy.json,DoveBoy/Apps
 flut-renamer.json,DoveBoy/Apps
 dust_DoveBoy.json,DoveBoy/Apps
@@ -10317,7 +10318,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
