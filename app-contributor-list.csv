@@ -2337,7 +2337,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -8609,7 +8609,7 @@ ezshare.json,couleur-tweak-tips/utils
 discordcompressor.json,couleur-tweak-tips/utils
 mouse-tester.json,couleur-tweak-tips/utils
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -8627,7 +8627,7 @@ cemu_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
-pcsx2_borger.json,borger/scoop-emulators
+pcsx2.json,borger/scoop-emulators
 visualboyadvance-m.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 duckstation-preview_borger.json,borger/scoop-emulators
@@ -8647,7 +8647,7 @@ cxbx-reloaded_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -8660,7 +8660,7 @@ ares_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 desmume_borger.json,borger/scoop-emulators
 ryujinx_borger.json,borger/scoop-emulators
-xenia.json,borger/scoop-emulators
+xenia_borger.json,borger/scoop-emulators
 mednafen_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
@@ -9681,7 +9681,7 @@ pixiv-omina.json,DoveBoy/Apps
 dreamscene2.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
 pscompletions_DoveBoy.json,DoveBoy/Apps
-forkgram_DoveBoy.json,DoveBoy/Apps
+forkgram.json,DoveBoy/Apps
 varia-portable.json,DoveBoy/Apps
 everything-beta_DoveBoy.json,DoveBoy/Apps
 nilesoft-shell_DoveBoy.json,DoveBoy/Apps
@@ -9949,7 +9949,7 @@ mobilecontrolguru.json,DoveBoy/Apps
 urlfinder.json,DoveBoy/Apps
 hydrogen-music.json,DoveBoy/Apps
 clash-rev.json,DoveBoy/Apps
-64gram_DoveBoy.json,DoveBoy/Apps
+64gram.json,DoveBoy/Apps
 vget.json,DoveBoy/Apps
 innounp_DoveBoy.json,DoveBoy/Apps
 wiliwili_DoveBoy.json,DoveBoy/Apps
@@ -10230,7 +10230,7 @@ wnr_zhoujin7.json,zhoujin7/tomato
 Nacos.json,zhoujin7/tomato
 AdiIRC_zhoujin7.json,zhoujin7/tomato
 CCleaner540.json,zhoujin7/tomato
-Q-Dir.json,zhoujin7/tomato
+Q-Dir_zhoujin7.json,zhoujin7/tomato
 OracleJDK11.json,zhoujin7/tomato
 HBuilderX_zhoujin7.json,zhoujin7/tomato
 soar.json,zhoujin7/tomato
@@ -14498,7 +14498,7 @@ mariokart-64-ultraship.json,Deide/deide-bucket
 epicgames_Deide.json,Deide/deide-bucket
 duckstation_Deide.json,Deide/deide-bucket
 bs-manager.json,Deide/deide-bucket
-pcsx2.json,Deide/deide-bucket
+pcsx2_Deide.json,Deide/deide-bucket
 visualboyadvance-m_Deide.json,Deide/deide-bucket
 lunarips.json,Deide/deide-bucket
 prismlauncher_Deide.json,Deide/deide-bucket
