@@ -7631,7 +7631,7 @@ dolphin-beta.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 steam-rom-manager_hermanjustnu.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
-mgba-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+mgba-dev.json,hermanjustnu/scoop-emulators
 sameboy_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 cemuhook.json,hermanjustnu/scoop-emulators
@@ -7802,6 +7802,7 @@ Clash-for-Windows_dodorz.json,dodorz/scoop
 GetWindowText.json,dodorz/scoop
 TuxPaint.json,dodorz/scoop
 FillDisk.json,dodorz/scoop
+DeltaCopy.json,dodorz/scoop
 CodeBuddyCN.json,dodorz/scoop
 Encrypto.json,dodorz/scoop
 tattoy.json,dodorz/scoop
@@ -8648,7 +8649,7 @@ cxbx-reloaded_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -9176,7 +9177,6 @@ gptgen.json,wangzq/scoop-bucket
 HideVolumeOSD.json,wangzq/scoop-bucket
 psrun.json,wangzq/scoop-bucket
 fart.json,wangzq/scoop-bucket
-DeltaCopy.json,wangzq/scoop-bucket
 geckodriver_wangzq.json,wangzq/scoop-bucket
 siggen.json,wangzq/scoop-bucket
 AsmSpy.json,wangzq/scoop-bucket
@@ -9621,7 +9621,7 @@ alist_DoveBoy.json,DoveBoy/Apps
 ssrr-windows.json,DoveBoy/Apps
 nvm_DoveBoy.json,DoveBoy/Apps
 xx-net-win7.json,DoveBoy/Apps
-reqable_DoveBoy.json,DoveBoy/Apps
+reqable.json,DoveBoy/Apps
 daisy.json,DoveBoy/Apps
 winfetch_DoveBoy.json,DoveBoy/Apps
 gns3.json,DoveBoy/Apps
@@ -10135,7 +10135,7 @@ shadowsocksr-hmbsbige_DoveBoy.json,DoveBoy/Apps
 pwsh_DoveBoy.json,DoveBoy/Apps
 chfs-tab-completion.json,DoveBoy/Apps
 openlist_DoveBoy.json,DoveBoy/Apps
-neteaseuu_DoveBoy.json,DoveBoy/Apps
+neteaseuu.json,DoveBoy/Apps
 officetoolplus-with-runtime.json,DoveBoy/Apps
 psreadline_DoveBoy.json,DoveBoy/Apps
 easymusic.json,DoveBoy/Apps
@@ -15264,6 +15264,7 @@ uivonim_younger-1.json,younger-1/scoop-it
 epick.json,younger-1/scoop-it
 sqlite3dll.json,younger-1/scoop-it
 selene_younger-1.json,younger-1/scoop-it
+vlang_younger-1.json,younger-1/scoop-it
 im-select.json,younger-1/scoop-it
 stylua_younger-1.json,younger-1/scoop-it
 hello.json,younger-1/scoop-it
