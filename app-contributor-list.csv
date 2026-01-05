@@ -2337,7 +2337,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -8225,6 +8225,7 @@ CodeBuddy.json,dodorz/scoop
 Void.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 TopMost2.json,dodorz/scoop
+TextGO.json,dodorz/scoop
 RisohEditor.json,dodorz/scoop
 CleanUp.json,dodorz/scoop
 CopyHandler.json,dodorz/scoop
@@ -12676,7 +12677,7 @@ ct.json,iquiw/scoop-bucket
 proxify_iquiw.json,iquiw/scoop-bucket
 logcli.json,iquiw/scoop-bucket
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
