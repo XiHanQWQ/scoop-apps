@@ -6514,7 +6514,7 @@ isobuster.json,rasa/scoops
 path-set.json,rasa/scoops
 exetype.json,rasa/scoops
 nirlauncher_rasa.json,rasa/scoops
-brave_rasa.json,rasa/scoops
+brave.json,rasa/scoops
 usbdlm.json,rasa/scoops
 wfc.json,rasa/scoops
 diskspd_rasa.json,rasa/scoops
@@ -8627,7 +8627,7 @@ cemu_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
-pcsx2.json,borger/scoop-emulators
+pcsx2_borger.json,borger/scoop-emulators
 visualboyadvance-m.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 duckstation-preview_borger.json,borger/scoop-emulators
@@ -9681,7 +9681,7 @@ pixiv-omina.json,DoveBoy/Apps
 dreamscene2.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
 pscompletions_DoveBoy.json,DoveBoy/Apps
-forkgram.json,DoveBoy/Apps
+forkgram_DoveBoy.json,DoveBoy/Apps
 varia-portable.json,DoveBoy/Apps
 everything-beta_DoveBoy.json,DoveBoy/Apps
 nilesoft-shell_DoveBoy.json,DoveBoy/Apps
@@ -9949,7 +9949,7 @@ mobilecontrolguru.json,DoveBoy/Apps
 urlfinder.json,DoveBoy/Apps
 hydrogen-music.json,DoveBoy/Apps
 clash-rev.json,DoveBoy/Apps
-64gram.json,DoveBoy/Apps
+64gram_DoveBoy.json,DoveBoy/Apps
 vget.json,DoveBoy/Apps
 innounp_DoveBoy.json,DoveBoy/Apps
 wiliwili_DoveBoy.json,DoveBoy/Apps
@@ -12612,7 +12612,7 @@ leanify.json,seumsc/scoop-seu
 mahjong-helper_seumsc.json,seumsc/scoop-seu
 resxtranslator.json,seumsc/scoop-seu
 7ztm_seumsc.json,seumsc/scoop-seu
-hmcl.json,seumsc/scoop-seu
+hmcl_seumsc.json,seumsc/scoop-seu
 nusmv.json,seumsc/scoop-seu
 kindlegen_seumsc.json,seumsc/scoop-seu
 subconverter_seumsc.json,seumsc/scoop-seu
@@ -12676,7 +12676,7 @@ ct.json,iquiw/scoop-bucket
 proxify_iquiw.json,iquiw/scoop-bucket
 logcli.json,iquiw/scoop-bucket
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
@@ -15177,7 +15177,7 @@ rtools44_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 emacs-mplscorwin.json,ShuguangSun/sgs-scoop-bucket
 juliamono_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 mupdf_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-super-productivity.json,ShuguangSun/sgs-scoop-bucket
+super-productivity_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 roboto.json,ShuguangSun/sgs-scoop-bucket
 Sarasa-Gothic.json,ShuguangSun/sgs-scoop-bucket
 chatbox_ce.json,ShuguangSun/sgs-scoop-bucket
