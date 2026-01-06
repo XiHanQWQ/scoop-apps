@@ -8638,7 +8638,7 @@ cemu-dev_borger.json,borger/scoop-emulators
 azahar_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
-2ship2harkinian.json,borger/scoop-emulators
+2ship2harkinian_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
 gopher64.json,borger/scoop-emulators
@@ -8782,7 +8782,7 @@ jyso_ViCrack.json,ViCrack/scoop-bucket
 rebuild-shell-icon-cache.json,ViCrack/scoop-bucket
 xjavafxtool.json,ViCrack/scoop-bucket
 dudesuite_ViCrack.json,ViCrack/scoop-bucket
-jar-analyzer.json,ViCrack/scoop-bucket
+jar-analyzer_ViCrack.json,ViCrack/scoop-bucket
 rakshasa.json,ViCrack/scoop-bucket
 suo5_ViCrack.json,ViCrack/scoop-bucket
 struts2vulsscantools.json,ViCrack/scoop-bucket
@@ -9516,7 +9516,7 @@ lemonpush.json,DoveBoy/Apps
 clashmi.json,DoveBoy/Apps
 regjump_DoveBoy.json,DoveBoy/Apps
 screenbroadcaster-net481.json,DoveBoy/Apps
-gui-for-singbox.json,DoveBoy/Apps
+gui-for-singbox_DoveBoy.json,DoveBoy/Apps
 ghostdownloader3.json,DoveBoy/Apps
 saber_DoveBoy.json,DoveBoy/Apps
 trafficmonitor-lite_DoveBoy.json,DoveBoy/Apps
@@ -9899,7 +9899,7 @@ flut-renamer.json,DoveBoy/Apps
 dust_DoveBoy.json,DoveBoy/Apps
 bbk-cli_DoveBoy.json,DoveBoy/Apps
 localsend_DoveBoy.json,DoveBoy/Apps
-gui-for-clash.json,DoveBoy/Apps
+gui-for-clash_DoveBoy.json,DoveBoy/Apps
 clash-party-portable.json,DoveBoy/Apps
 sendto-menu-editor_DoveBoy.json,DoveBoy/Apps
 screenbroadcaster-net8.json,DoveBoy/Apps
@@ -15288,7 +15288,7 @@ godsvg.json,windedge/ladle-bucket
 mdview_windedge.json,windedge/ladle-bucket
 enve.json,windedge/ladle-bucket
 anytype_windedge.json,windedge/ladle-bucket
-dyad_windedge.json,windedge/ladle-bucket
+dyad.json,windedge/ladle-bucket
 pdf4teachers.json,windedge/ladle-bucket
 llama-cpp-ipex-llm.json,windedge/ladle-bucket
 itext-rups.json,windedge/ladle-bucket
