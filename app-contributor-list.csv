@@ -7419,7 +7419,7 @@ wsl-fedora.json,KNOXDEV/wsl
 wsl-ubuntu1804-arm.json,KNOXDEV/wsl
 wsl-ubuntu1604.json,KNOXDEV/wsl
 wsl-ubuntu2204.json,KNOXDEV/wsl
-rstudio-preview_cderv.json,cderv/r-bucket
+rstudio-preview.json,cderv/r-bucket
 ollama_cderv.json,cderv/r-bucket
 rstudio-pro-release.json,cderv/r-bucket
 quarto_cderv.json,cderv/r-bucket
@@ -7643,7 +7643,7 @@ fceux-dev.json,hermanjustnu/scoop-emulators
 vice-sdl2.json,hermanjustnu/scoop-emulators
 desmume.json,hermanjustnu/scoop-emulators
 ryujinx_hermanjustnu.json,hermanjustnu/scoop-emulators
-xenia_hermanjustnu.json,hermanjustnu/scoop-emulators
+xenia.json,hermanjustnu/scoop-emulators
 simple64_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -8663,7 +8663,7 @@ ares_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 desmume_borger.json,borger/scoop-emulators
 ryujinx_borger.json,borger/scoop-emulators
-xenia.json,borger/scoop-emulators
+xenia_borger.json,borger/scoop-emulators
 mednafen_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
@@ -9852,7 +9852,7 @@ whynotwin11_DoveBoy.json,DoveBoy/Apps
 clash-mini.json,DoveBoy/Apps
 windows-manage-tool.json,DoveBoy/Apps
 hummingbird.json,DoveBoy/Apps
-winget-preview_DoveBoy.json,DoveBoy/Apps
+winget-preview.json,DoveBoy/Apps
 tinypng.json,DoveBoy/Apps
 psreadlineviextension.json,DoveBoy/Apps
 cheat-engine_DoveBoy.json,DoveBoy/Apps
@@ -9918,7 +9918,7 @@ ofd2pdf.json,DoveBoy/Apps
 dark_DoveBoy.json,DoveBoy/Apps
 sniproxy.json,DoveBoy/Apps
 nvm-completion.json,DoveBoy/Apps
-iptvnator.json,DoveBoy/Apps
+iptvnator_DoveBoy.json,DoveBoy/Apps
 wechatvideosniffer.json,DoveBoy/Apps
 gping_DoveBoy.json,DoveBoy/Apps
 littletips-portable.json,DoveBoy/Apps
