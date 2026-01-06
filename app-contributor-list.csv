@@ -9859,7 +9859,7 @@ umi-ocr-paddle_DoveBoy.json,DoveBoy/Apps
 ani.json,DoveBoy/Apps
 tidyos.json,DoveBoy/Apps
 jenny.json,DoveBoy/Apps
-wechat_DoveBoy.json,DoveBoy/Apps
+wechat.json,DoveBoy/Apps
 7zip_DoveBoy.json,DoveBoy/Apps
 computerlock.json,DoveBoy/Apps
 nvm-tab-completion.json,DoveBoy/Apps
@@ -9871,7 +9871,7 @@ littletips.json,DoveBoy/Apps
 maple-file.json,DoveBoy/Apps
 imfile-portable.json,DoveBoy/Apps
 mediago.json,DoveBoy/Apps
-dandanplay_DoveBoy.json,DoveBoy/Apps
+dandanplay.json,DoveBoy/Apps
 ipcalc_DoveBoy.json,DoveBoy/Apps
 everything-lite_DoveBoy.json,DoveBoy/Apps
 xcmusic.json,DoveBoy/Apps
@@ -10283,7 +10283,7 @@ phpmyadmin.json,wzv5/ScoopBucket
 regex-tool.json,wzv5/ScoopBucket
 evernote.json,wzv5/ScoopBucket
 aliyundrive_wzv5.json,wzv5/ScoopBucket
-inno-setup_wzv5.json,wzv5/ScoopBucket
+inno-setup.json,wzv5/ScoopBucket
 python_wzv5.json,wzv5/ScoopBucket
 winobjex64.json,wzv5/ScoopBucket
 python-doc-zh-cn.json,wzv5/ScoopBucket
@@ -10566,7 +10566,7 @@ nanarun_hu3rror.json,hu3rror/scoop-muggle
 sizer_hu3rror.json,hu3rror/scoop-muggle
 wmpu-cli.json,hu3rror/scoop-muggle
 tsftool.json,hu3rror/scoop-muggle
-heynote_hu3rror.json,hu3rror/scoop-muggle
+heynote.json,hu3rror/scoop-muggle
 mobaxterm-sp.json,hu3rror/scoop-muggle
 desktopnaotu_hu3rror.json,hu3rror/scoop-muggle
 NsEmuTools.json,hu3rror/scoop-muggle
