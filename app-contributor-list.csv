@@ -7885,6 +7885,7 @@ py_dodorz.json,dodorz/scoop
 WeChat_dodorz.json,dodorz/scoop
 tagLyst.json,dodorz/scoop
 CyberShredder.json,dodorz/scoop
+Fresh.json,dodorz/scoop
 FARR.json,dodorz/scoop
 OpenProj.json,dodorz/scoop
 MemCheck.json,dodorz/scoop
@@ -8017,7 +8018,6 @@ MSMathematics.json,dodorz/scoop
 BitKeeper.json,dodorz/scoop
 EverythingToolbar_dodorz.json,dodorz/scoop
 aTunes.json,dodorz/scoop
-TkDiff.json,dodorz/scoop
 NitroShare.json,dodorz/scoop
 wcurl_dodorz.json,dodorz/scoop
 PhotoScissors.json,dodorz/scoop
@@ -8366,7 +8366,7 @@ pho.json,dodorz/scoop
 Echosync.json,dodorz/scoop
 Dexpot.json,dodorz/scoop
 CuteMarkEd.json,dodorz/scoop
-tkdiff_dodorz.json,dodorz/scoop
+tkdiff.json,dodorz/scoop
 MadEdit-mod.json,dodorz/scoop
 adobe-source-han-sans-tw-fonts.json,dodorz/scoop
 AESCrypt.json,dodorz/scoop
@@ -8651,7 +8651,7 @@ cxbx-reloaded_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -8689,7 +8689,7 @@ quake_rs_ViCrack.json,ViCrack/scoop-bucket
 filezilla_ViCrack.json,ViCrack/scoop-bucket
 winmemorycleaner_ViCrack.json,ViCrack/scoop-bucket
 godzilla_ekp.json,ViCrack/scoop-bucket
-cherry-studio_ViCrack.json,ViCrack/scoop-bucket
+cherry-studio.json,ViCrack/scoop-bucket
 codescan.json,ViCrack/scoop-bucket
 verycapture.json,ViCrack/scoop-bucket
 observerward_ViCrack.json,ViCrack/scoop-bucket
@@ -12362,7 +12362,7 @@ ddu_Small-Ku.json,Small-Ku/turbo-bucket
 kondo_Small-Ku.json,Small-Ku/turbo-bucket
 mcpls.json,Small-Ku/turbo-bucket
 stardb-exporter.json,Small-Ku/turbo-bucket
-gemini-cli.json,Small-Ku/turbo-bucket
+gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
 source-han-sans-vf-ttc.json,Small-Ku/turbo-bucket
 sarasa-super-ttc.json,Small-Ku/turbo-bucket
 antigravity-manager.json,Small-Ku/turbo-bucket
