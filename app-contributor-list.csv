@@ -2036,6 +2036,7 @@ sourcetrail.json,ScoopInstaller/Extras
 iconview.json,ScoopInstaller/Extras
 lunatranslator.json,ScoopInstaller/Extras
 spyder.json,ScoopInstaller/Extras
+plakar.json,ScoopInstaller/Extras
 folo.json,ScoopInstaller/Extras
 rehex.json,ScoopInstaller/Extras
 shadered.json,ScoopInstaller/Extras
@@ -2813,7 +2814,7 @@ npiperelay.json,ScoopInstaller/Extras
 caret.json,ScoopInstaller/Extras
 vibrance-gui.json,ScoopInstaller/Extras
 wox.json,ScoopInstaller/Extras
-g-helper.json,ScoopInstaller/Extras
+g-helper_ScoopInstaller.json,ScoopInstaller/Extras
 thunderbird-esr.json,ScoopInstaller/Extras
 outlook-window-hook.json,ScoopInstaller/Extras
 visualc.json,ScoopInstaller/Extras
@@ -7419,7 +7420,7 @@ wsl-fedora.json,KNOXDEV/wsl
 wsl-ubuntu1804-arm.json,KNOXDEV/wsl
 wsl-ubuntu1604.json,KNOXDEV/wsl
 wsl-ubuntu2204.json,KNOXDEV/wsl
-rstudio-preview.json,cderv/r-bucket
+rstudio-preview_cderv.json,cderv/r-bucket
 ollama_cderv.json,cderv/r-bucket
 rstudio-pro-release.json,cderv/r-bucket
 quarto_cderv.json,cderv/r-bucket
@@ -7643,7 +7644,7 @@ fceux-dev.json,hermanjustnu/scoop-emulators
 vice-sdl2.json,hermanjustnu/scoop-emulators
 desmume.json,hermanjustnu/scoop-emulators
 ryujinx_hermanjustnu.json,hermanjustnu/scoop-emulators
-xenia.json,hermanjustnu/scoop-emulators
+xenia_hermanjustnu.json,hermanjustnu/scoop-emulators
 simple64_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -8612,7 +8613,7 @@ ezshare.json,couleur-tweak-tips/utils
 discordcompressor.json,couleur-tweak-tips/utils
 mouse-tester.json,couleur-tweak-tips/utils
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -8995,7 +8996,6 @@ mdbook_akirco.json,akirco/aki-apps
 tup_akirco.json,akirco/aki-apps
 say_akirco.json,akirco/aki-apps
 telegram_akirco.json,akirco/aki-apps
-bilibili-livehime.json,akirco/aki-apps
 wechatdevtools_akirco.json,akirco/aki-apps
 pseverything.json,akirco/aki-apps
 biyi_akirco.json,akirco/aki-apps
@@ -9077,7 +9077,7 @@ fx_akirco.json,akirco/aki-apps
 pypy2_akirco.json,akirco/aki-apps
 yarn_akirco.json,akirco/aki-apps
 restic_akirco.json,akirco/aki-apps
-trae-cn.json,akirco/aki-apps
+trae-cn_akirco.json,akirco/aki-apps
 obs-studio_akirco.json,akirco/aki-apps
 draw.io_akirco.json,akirco/aki-apps
 geekuninstaller_akirco.json,akirco/aki-apps
@@ -9852,7 +9852,7 @@ whynotwin11_DoveBoy.json,DoveBoy/Apps
 clash-mini.json,DoveBoy/Apps
 windows-manage-tool.json,DoveBoy/Apps
 hummingbird.json,DoveBoy/Apps
-winget-preview.json,DoveBoy/Apps
+winget-preview_DoveBoy.json,DoveBoy/Apps
 tinypng.json,DoveBoy/Apps
 psreadlineviextension.json,DoveBoy/Apps
 cheat-engine_DoveBoy.json,DoveBoy/Apps
@@ -9872,7 +9872,7 @@ littletips.json,DoveBoy/Apps
 maple-file.json,DoveBoy/Apps
 imfile-portable.json,DoveBoy/Apps
 mediago.json,DoveBoy/Apps
-dandanplay.json,DoveBoy/Apps
+dandanplay_DoveBoy.json,DoveBoy/Apps
 ipcalc_DoveBoy.json,DoveBoy/Apps
 everything-lite_DoveBoy.json,DoveBoy/Apps
 xcmusic.json,DoveBoy/Apps
@@ -10137,7 +10137,7 @@ shadowsocksr-hmbsbige_DoveBoy.json,DoveBoy/Apps
 pwsh_DoveBoy.json,DoveBoy/Apps
 chfs-tab-completion.json,DoveBoy/Apps
 openlist_DoveBoy.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 officetoolplus-with-runtime.json,DoveBoy/Apps
 psreadline_DoveBoy.json,DoveBoy/Apps
 easymusic.json,DoveBoy/Apps
@@ -15201,7 +15201,7 @@ r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 PowerShell_maboloshi.json,maboloshi/scoop-private
 notepad4_maboloshi.json,maboloshi/scoop-private
 ima-copilot_maboloshi.json,maboloshi/scoop-private
-microsoftedge-beta.json,maboloshi/scoop-private
+microsoftedge-beta_maboloshi.json,maboloshi/scoop-private
 ffmpeg-N_m3u8DL-CLI.json,maboloshi/scoop-private
 sarasa-gothic-sc-excerpt.json,maboloshi/scoop-private
 monitorian.json,maboloshi/scoop-private
