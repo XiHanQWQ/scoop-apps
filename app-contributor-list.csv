@@ -7459,7 +7459,7 @@ rstudio-2022.12.json,cderv/r-bucket
 rstudio-2023.03.json,cderv/r-bucket
 tree.json,cderv/r-bucket
 r-release.json,cderv/r-bucket
-rstudio-daily_cderv.json,cderv/r-bucket
+rstudio-daily.json,cderv/r-bucket
 qvm.json,cderv/r-bucket
 positron-daily.json,cderv/r-bucket
 rig.json,cderv/r-bucket
@@ -8614,7 +8614,7 @@ ezshare.json,couleur-tweak-tips/utils
 discordcompressor.json,couleur-tweak-tips/utils
 mouse-tester.json,couleur-tweak-tips/utils
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -8652,7 +8652,7 @@ cxbx-reloaded_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
-vita3k_borger.json,borger/scoop-emulators
+vita3k.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -8972,7 +8972,6 @@ rclone-browser_akirco.json,akirco/aki-apps
 helix_akirco.json,akirco/aki-apps
 diskgenius_akirco.json,akirco/aki-apps
 x265_akirco.json,akirco/aki-apps
-cpu-z_akirco.json,akirco/aki-apps
 scoop-completion_akirco.json,akirco/aki-apps
 fzf_akirco.json,akirco/aki-apps
 hbuilderx_akirco.json,akirco/aki-apps
@@ -9744,6 +9743,7 @@ mihomo_DoveBoy.json,DoveBoy/Apps
 chatbox_DoveBoy.json,DoveBoy/Apps
 experimental-clash.json,DoveBoy/Apps
 typora-dev_DoveBoy.json,DoveBoy/Apps
+qbittorrent_DoveBoy.json,DoveBoy/Apps
 clip-share-server.json,DoveBoy/Apps
 mihomo-compatible.json,DoveBoy/Apps
 crosspaste.json,DoveBoy/Apps
@@ -9763,7 +9763,6 @@ bilibili_DoveBoy.json,DoveBoy/Apps
 wpsoffice-cn.json,DoveBoy/Apps
 restart-explorer_DoveBoy.json,DoveBoy/Apps
 optimizer_DoveBoy.json,DoveBoy/Apps
-chromium.json,DoveBoy/Apps
 text-grab_DoveBoy.json,DoveBoy/Apps
 nekoray_DoveBoy.json,DoveBoy/Apps
 pnpm-tab-completion.json,DoveBoy/Apps
@@ -10593,6 +10592,7 @@ firefox-eme-free-zh-cn.json,amorphobia/siku
 bilimini.json,amorphobia/siku
 pixpin_amorphobia.json,amorphobia/siku
 scoop-find.json,amorphobia/siku
+cpu-z-zh-cn.json,amorphobia/siku
 rains_amorphobia.json,amorphobia/siku
 bind-lean.json,amorphobia/siku
 dgmpgdec.json,amorphobia/siku
@@ -12898,7 +12898,7 @@ windowgrid_aoisummer.json,aoisummer/scoop-bucket
 crystaldiskinfo-aoi.json,aoisummer/scoop-bucket
 ddtv2.json,aoisummer/scoop-bucket
 firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
-lunatranslator_aoisummer.json,aoisummer/scoop-bucket
+lunatranslator.json,aoisummer/scoop-bucket
 shadowsocks-rust-gnu.json,aoisummer/scoop-bucket
 php83-nts.json,aoisummer/scoop-bucket
 winscp-chs.json,aoisummer/scoop-bucket
