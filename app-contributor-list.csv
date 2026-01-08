@@ -2339,7 +2339,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -8652,7 +8652,7 @@ cxbx-reloaded_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
-vita3k_borger.json,borger/scoop-emulators
+vita3k.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -8774,7 +8774,6 @@ ztasker.json,ViCrack/scoop-bucket
 simple-dnscrypt.json,ViCrack/scoop-bucket
 emeditor_ViCrack.json,ViCrack/scoop-bucket
 rubick.json,ViCrack/scoop-bucket
-webshell_generate_ViCrack.json,ViCrack/scoop-bucket
 gowitness.json,ViCrack/scoop-bucket
 apifox_ViCrack.json,ViCrack/scoop-bucket
 edx.json,ViCrack/scoop-bucket
@@ -10592,7 +10591,6 @@ firefox-eme-free-zh-cn.json,amorphobia/siku
 bilimini.json,amorphobia/siku
 pixpin_amorphobia.json,amorphobia/siku
 scoop-find.json,amorphobia/siku
-cpu-z-zh-cn.json,amorphobia/siku
 rains_amorphobia.json,amorphobia/siku
 bind-lean.json,amorphobia/siku
 dgmpgdec.json,amorphobia/siku
@@ -11189,7 +11187,6 @@ gopherus.json,kengwang/scoop-ctftools-bucket
 MDUT_kengwang.json,kengwang/scoop-ctftools-bucket
 JSFinder.json,kengwang/scoop-ctftools-bucket
 EtherGhost.json,kengwang/scoop-ctftools-bucket
-Webshell_Generate_kengwang.json,kengwang/scoop-ctftools-bucket
 gogo_kengwang.json,kengwang/scoop-ctftools-bucket
 ffuf_kengwang.json,kengwang/scoop-ctftools-bucket
 StegSolve.json,kengwang/scoop-ctftools-bucket
@@ -12863,7 +12860,7 @@ musicat.json,Scoopforge/Extras-Plus
 configure-defender.json,Scoopforge/Extras-Plus
 autodarkmode_Scoopforge.json,Scoopforge/Extras-Plus
 stirlingpdf.json,Scoopforge/Extras-Plus
-mogan.json,Scoopforge/Extras-Plus
+mogan_Scoopforge.json,Scoopforge/Extras-Plus
 filecentipede.json,Scoopforge/Extras-Plus
 dbgate.json,Scoopforge/Extras-Plus
 voov-meeting.json,Scoopforge/Extras-Plus
