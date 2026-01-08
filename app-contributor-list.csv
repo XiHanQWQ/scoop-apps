@@ -9421,7 +9421,6 @@ qv2ray-plugin-command_Qv2ray.json,Qv2ray/mochi
 qv2ray-plugin-trojan-go_Qv2ray.json,Qv2ray/mochi
 qv2ray-plugin-ssr_Qv2ray.json,Qv2ray/mochi
 karing.json,DoveBoy/Apps
-bbdown-beta.json,DoveBoy/Apps
 youku.json,DoveBoy/Apps
 mpvconfigurator.json,DoveBoy/Apps
 malware-patch_DoveBoy.json,DoveBoy/Apps
@@ -9614,7 +9613,6 @@ idcard-generator.json,DoveBoy/Apps
 jq_DoveBoy.json,DoveBoy/Apps
 bbdown_DoveBoy.json,DoveBoy/Apps
 nping.json,DoveBoy/Apps
-v2raya-unstable.json,DoveBoy/Apps
 scrcpy-mask.json,DoveBoy/Apps
 microsoft-activation-scripts.json,DoveBoy/Apps
 procs_DoveBoy.json,DoveBoy/Apps
@@ -9742,7 +9740,6 @@ mihomo_DoveBoy.json,DoveBoy/Apps
 chatbox_DoveBoy.json,DoveBoy/Apps
 experimental-clash.json,DoveBoy/Apps
 typora-dev_DoveBoy.json,DoveBoy/Apps
-qbittorrent_DoveBoy.json,DoveBoy/Apps
 clip-share-server.json,DoveBoy/Apps
 mihomo-compatible.json,DoveBoy/Apps
 crosspaste.json,DoveBoy/Apps
@@ -10145,6 +10142,7 @@ gotop_DoveBoy.json,DoveBoy/Apps
 hashcat_DoveBoy.json,DoveBoy/Apps
 jmcomic-downloader.json,DoveBoy/Apps
 treesize_DoveBoy.json,DoveBoy/Apps
+bbdown-beta.json,DoveBoy/Apps
 wtv.json,DoveBoy/Apps
 reqable-beta.json,DoveBoy/Apps
 flyoobe-mediakit.json,DoveBoy/Apps
@@ -10164,6 +10162,7 @@ kcleaner_DoveBoy.json,DoveBoy/Apps
 book-searcher-desktop.json,DoveBoy/Apps
 fideo-live-record.json,DoveBoy/Apps
 deskreen-portable.json,DoveBoy/Apps
+v2raya-unstable.json,DoveBoy/Apps
 vivetool-gui.json,DoveBoy/Apps
 v2raya-git.json,DoveBoy/Apps
 wechatdownload-qiye45.json,DoveBoy/Apps
