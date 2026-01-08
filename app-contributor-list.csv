@@ -8690,7 +8690,7 @@ quake_rs_ViCrack.json,ViCrack/scoop-bucket
 filezilla_ViCrack.json,ViCrack/scoop-bucket
 winmemorycleaner_ViCrack.json,ViCrack/scoop-bucket
 godzilla_ekp.json,ViCrack/scoop-bucket
-cherry-studio_ViCrack.json,ViCrack/scoop-bucket
+cherry-studio.json,ViCrack/scoop-bucket
 codescan.json,ViCrack/scoop-bucket
 verycapture.json,ViCrack/scoop-bucket
 observerward_ViCrack.json,ViCrack/scoop-bucket
@@ -9791,6 +9791,7 @@ http-downloader_DoveBoy.json,DoveBoy/Apps
 runastool_DoveBoy.json,DoveBoy/Apps
 delapp_DoveBoy.json,DoveBoy/Apps
 pikatorrent.json,DoveBoy/Apps
+electerm.json,DoveBoy/Apps
 gh_DoveBoy.json,DoveBoy/Apps
 waveterm_DoveBoy.json,DoveBoy/Apps
 pot-desktop_DoveBoy.json,DoveBoy/Apps
@@ -12673,7 +12674,7 @@ zyplayer_TianXiaTech.json,TianXiaTech/scoop-txt
 NoFWL.json,TianXiaTech/scoop-txt
 cherry-studio_TianXiaTech.json,TianXiaTech/scoop-txt
 winsw-alpha.json,TianXiaTech/scoop-txt
-cc-switch_TianXiaTech.json,TianXiaTech/scoop-txt
+cc-switch.json,TianXiaTech/scoop-txt
 baidunetdisk_TianXiaTech.json,TianXiaTech/scoop-txt
 yuque_TianXiaTech.json,TianXiaTech/scoop-txt
 mgtv_TianXiaTech.json,TianXiaTech/scoop-txt
