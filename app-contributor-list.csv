@@ -1327,6 +1327,7 @@ lantern-client.json,ScoopInstaller/Extras
 bomi.json,ScoopInstaller/Extras
 ab-av1.json,ScoopInstaller/Extras
 opentoonz.json,ScoopInstaller/Extras
+quicksfv.json,ScoopInstaller/Extras
 cabal.json,ScoopInstaller/Extras
 chipmunk.json,ScoopInstaller/Extras
 eclipse-javascript.json,ScoopInstaller/Extras
@@ -1745,6 +1746,7 @@ mpc.json,ScoopInstaller/Extras
 network-profile-name-changer.json,ScoopInstaller/Extras
 traymond.json,ScoopInstaller/Extras
 panwriter.json,ScoopInstaller/Extras
+browseros.json,ScoopInstaller/Extras
 winmerge2011.json,ScoopInstaller/Extras
 papercut.json,ScoopInstaller/Extras
 pragtical.json,ScoopInstaller/Extras
@@ -3271,6 +3273,7 @@ tuxguitar.json,ScoopInstaller/Extras
 rabbitmq.json,ScoopInstaller/Extras
 pwtech.json,ScoopInstaller/Extras
 tikzit.json,ScoopInstaller/Extras
+chatboxai.json,ScoopInstaller/Extras
 popcorn-time.json,ScoopInstaller/Extras
 regclient.json,ScoopInstaller/Extras
 openvpn.json,ScoopInstaller/Extras
@@ -8697,7 +8700,7 @@ quake_rs_ViCrack.json,ViCrack/scoop-bucket
 filezilla_ViCrack.json,ViCrack/scoop-bucket
 winmemorycleaner_ViCrack.json,ViCrack/scoop-bucket
 godzilla_ekp.json,ViCrack/scoop-bucket
-cherry-studio.json,ViCrack/scoop-bucket
+cherry-studio_ViCrack.json,ViCrack/scoop-bucket
 codescan.json,ViCrack/scoop-bucket
 verycapture.json,ViCrack/scoop-bucket
 observerward_ViCrack.json,ViCrack/scoop-bucket
@@ -12003,6 +12006,7 @@ mpv-sub-select.json,brian6932/dank-scoop
 thumbfast-fork.json,brian6932/dank-scoop
 video2x.json,brian6932/dank-scoop
 wordle.json,brian6932/dank-scoop
+leenfetch.json,brian6932/dank-scoop
 artroom-stable-diffusion.json,brian6932/dank-scoop
 mu.json,brian6932/dank-scoop
 testmem5-advanced.json,brian6932/dank-scoop
