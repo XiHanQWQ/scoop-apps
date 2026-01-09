@@ -1539,6 +1539,7 @@ cookiecutter.json,ScoopInstaller/Extras
 plugdata.json,ScoopInstaller/Extras
 teamspeak3.json,ScoopInstaller/Extras
 eclipse-rust.json,ScoopInstaller/Extras
+lrcget.json,ScoopInstaller/Extras
 fontbase.json,ScoopInstaller/Extras
 transmission.json,ScoopInstaller/Extras
 stone-soup.json,ScoopInstaller/Extras
@@ -5326,7 +5327,7 @@ gradle6.json,ScoopInstaller/Versions
 idea-rc.json,ScoopInstaller/Versions
 deepgit402.json,ScoopInstaller/Versions
 libreoffice-pre.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 orca3.json,ScoopInstaller/Versions
 postgresql15.json,ScoopInstaller/Versions
 qt-creator-beta.json,ScoopInstaller/Versions
@@ -8976,6 +8977,7 @@ rclone-browser_akirco.json,akirco/aki-apps
 helix_akirco.json,akirco/aki-apps
 diskgenius_akirco.json,akirco/aki-apps
 x265_akirco.json,akirco/aki-apps
+cpu-z_akirco.json,akirco/aki-apps
 scoop-completion_akirco.json,akirco/aki-apps
 fzf_akirco.json,akirco/aki-apps
 hbuilderx_akirco.json,akirco/aki-apps
@@ -9795,6 +9797,7 @@ http-downloader_DoveBoy.json,DoveBoy/Apps
 runastool_DoveBoy.json,DoveBoy/Apps
 delapp_DoveBoy.json,DoveBoy/Apps
 pikatorrent.json,DoveBoy/Apps
+electerm_DoveBoy.json,DoveBoy/Apps
 gh_DoveBoy.json,DoveBoy/Apps
 waveterm_DoveBoy.json,DoveBoy/Apps
 pot-desktop_DoveBoy.json,DoveBoy/Apps
@@ -10054,7 +10057,7 @@ keymap.json,DoveBoy/Apps
 iris.json,DoveBoy/Apps
 clashwarden.json,DoveBoy/Apps
 flclash-portable.json,DoveBoy/Apps
-varia.json,DoveBoy/Apps
+varia_DoveBoy.json,DoveBoy/Apps
 freefilesync_DoveBoy.json,DoveBoy/Apps
 waifu2x-snowshell_DoveBoy.json,DoveBoy/Apps
 hiddify-next.json,DoveBoy/Apps
@@ -13010,7 +13013,6 @@ scihubeva_Scoopforge.json,Scoopforge/Extras-Plus
 dorion_Scoopforge.json,Scoopforge/Extras-Plus
 file-converter.json,Scoopforge/Extras-Plus
 jigdo.json,Scoopforge/Extras-Plus
-lrcget.json,Scoopforge/Extras-Plus
 notegen_Scoopforge.json,Scoopforge/Extras-Plus
 alexandria.json,Scoopforge/Extras-Plus
 linkandroid_Scoopforge.json,Scoopforge/Extras-Plus
@@ -15148,7 +15150,7 @@ universal-ctags-nightly.json,ShuguangSun/sgs-scoop-bucket
 ghostscript_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 MicrosoftYaHeiMono_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 ganttproject.json,ShuguangSun/sgs-scoop-bucket
-micromamba.json,ShuguangSun/sgs-scoop-bucket
+micromamba_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 openjdk16_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 pandoc_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 graphviz_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
