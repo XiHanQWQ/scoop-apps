@@ -5327,7 +5327,7 @@ gradle6.json,ScoopInstaller/Versions
 idea-rc.json,ScoopInstaller/Versions
 deepgit402.json,ScoopInstaller/Versions
 libreoffice-pre.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 orca3.json,ScoopInstaller/Versions
 postgresql15.json,ScoopInstaller/Versions
 qt-creator-beta.json,ScoopInstaller/Versions
@@ -8621,7 +8621,7 @@ ezshare.json,couleur-tweak-tips/utils
 discordcompressor.json,couleur-tweak-tips/utils
 mouse-tester.json,couleur-tweak-tips/utils
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -8645,7 +8645,7 @@ flycast_borger.json,borger/scoop-emulators
 duckstation-preview_borger.json,borger/scoop-emulators
 bsnes-nightly.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
-azahar.json,borger/scoop-emulators
+azahar_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 2ship2harkinian_borger.json,borger/scoop-emulators
@@ -8931,7 +8931,7 @@ dart_akirco.json,akirco/aki-apps
 googlechrome_akirco.json,akirco/aki-apps
 prs_akirco.json,akirco/aki-apps
 spotube_akirco.json,akirco/aki-apps
-rustdesk_akirco.json,akirco/aki-apps
+rustdesk.json,akirco/aki-apps
 bob.json,akirco/aki-apps
 vscode_akirco.json,akirco/aki-apps
 scrcpy_akirco.json,akirco/aki-apps
@@ -9798,7 +9798,6 @@ http-downloader_DoveBoy.json,DoveBoy/Apps
 runastool_DoveBoy.json,DoveBoy/Apps
 delapp_DoveBoy.json,DoveBoy/Apps
 pikatorrent.json,DoveBoy/Apps
-electerm_DoveBoy.json,DoveBoy/Apps
 gh_DoveBoy.json,DoveBoy/Apps
 waveterm_DoveBoy.json,DoveBoy/Apps
 pot-desktop_DoveBoy.json,DoveBoy/Apps
@@ -11236,6 +11235,7 @@ rufus-portable_WinApps-share.json,WinApps-share/WinApps-bucket
 jianying.json,WinApps-share/WinApps-bucket
 vmware.json,WinApps-share/WinApps-bucket
 itunes-old.json,WinApps-share/WinApps-bucket
+windows-terminal_WinApps-share.json,WinApps-share/WinApps-bucket
 musicfree-np.json,WinApps-share/WinApps-bucket
 gui-for-singbox_WinApps-share.json,WinApps-share/WinApps-bucket
 steam.json,WinApps-share/WinApps-bucket
@@ -11993,6 +11993,7 @@ gif2apng-cli.json,brian6932/dank-scoop
 dandere2x.json,brian6932/dank-scoop
 remnant-save-manager.json,brian6932/dank-scoop
 mpv-persist-properties.json,brian6932/dank-scoop
+linpack-xtreme.json,brian6932/dank-scoop
 minify-js.json,brian6932/dank-scoop
 ddu-lean.json,brian6932/dank-scoop
 rusty-twinkle-tray.json,brian6932/dank-scoop
@@ -12372,7 +12373,7 @@ gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
 source-han-sans-vf-ttc.json,Small-Ku/turbo-bucket
 sarasa-super-ttc.json,Small-Ku/turbo-bucket
 antigravity-manager.json,Small-Ku/turbo-bucket
-ruffle.json,Small-Ku/turbo-bucket
+ruffle_Small-Ku.json,Small-Ku/turbo-bucket
 mort.json,Small-Ku/turbo-bucket
 qwen-code.json,Small-Ku/turbo-bucket
 natural-voice-sapi-adapter.json,Small-Ku/turbo-bucket
@@ -13013,6 +13014,7 @@ normcap.json,Scoopforge/Extras-Plus
 scihubeva_Scoopforge.json,Scoopforge/Extras-Plus
 dorion_Scoopforge.json,Scoopforge/Extras-Plus
 file-converter.json,Scoopforge/Extras-Plus
+winhance.json,Scoopforge/Extras-Plus
 jigdo.json,Scoopforge/Extras-Plus
 notegen_Scoopforge.json,Scoopforge/Extras-Plus
 alexandria.json,Scoopforge/Extras-Plus
