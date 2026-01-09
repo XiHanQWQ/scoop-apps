@@ -8931,7 +8931,7 @@ dart_akirco.json,akirco/aki-apps
 googlechrome_akirco.json,akirco/aki-apps
 prs_akirco.json,akirco/aki-apps
 spotube_akirco.json,akirco/aki-apps
-rustdesk.json,akirco/aki-apps
+rustdesk_akirco.json,akirco/aki-apps
 bob.json,akirco/aki-apps
 vscode_akirco.json,akirco/aki-apps
 scrcpy_akirco.json,akirco/aki-apps
@@ -9503,7 +9503,7 @@ termscp_DoveBoy.json,DoveBoy/Apps
 zyplayer.json,DoveBoy/Apps
 youtube-dl_DoveBoy.json,DoveBoy/Apps
 spotx.json,DoveBoy/Apps
-v2rayn_DoveBoy.json,DoveBoy/Apps
+v2rayn.json,DoveBoy/Apps
 windows11-classic-context-menu_DoveBoy.json,DoveBoy/Apps
 posh-git_DoveBoy.json,DoveBoy/Apps
 crystaldiskmark-shizuku-edition_DoveBoy.json,DoveBoy/Apps
@@ -9684,7 +9684,7 @@ reduce-memory_DoveBoy.json,DoveBoy/Apps
 yarn-completion.json,DoveBoy/Apps
 nhentai-cross.json,DoveBoy/Apps
 mpv.net_DoveBoy.json,DoveBoy/Apps
-v2rayn-SelfContained_DoveBoy.json,DoveBoy/Apps
+v2rayn-SelfContained.json,DoveBoy/Apps
 pixiv-omina.json,DoveBoy/Apps
 dreamscene2.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
@@ -10102,7 +10102,7 @@ bilibili-backup_DoveBoy.json,DoveBoy/Apps
 so-novel.json,DoveBoy/Apps
 localsqueeze.json,DoveBoy/Apps
 obs-studio_DoveBoy.json,DoveBoy/Apps
-draw.io_DoveBoy.json,DoveBoy/Apps
+draw.io.json,DoveBoy/Apps
 kopia-cli.json,DoveBoy/Apps
 hydrogen-music-portable.json,DoveBoy/Apps
 syncthing_DoveBoy.json,DoveBoy/Apps
