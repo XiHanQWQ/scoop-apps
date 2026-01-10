@@ -7660,7 +7660,7 @@ simple64_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 winuae.json,hermanjustnu/scoop-emulators
 retroarch_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary.json,hermanjustnu/scoop-emulators
@@ -9955,6 +9955,7 @@ quickclipboard.json,DoveBoy/Apps
 gitalias.json,DoveBoy/Apps
 bat_DoveBoy.json,DoveBoy/Apps
 nomeiryoui_DoveBoy.json,DoveBoy/Apps
+emeditor.json,DoveBoy/Apps
 winupdateminitool.json,DoveBoy/Apps
 openoffice_DoveBoy.json,DoveBoy/Apps
 mobilecontrolguru.json,DoveBoy/Apps
@@ -11261,7 +11262,7 @@ trollrestore.json,WinApps-share/WinApps-bucket
 google-chrome.json,WinApps-share/WinApps-bucket
 flclash-np.json,WinApps-share/WinApps-bucket
 cherry-studio-np.json,WinApps-share/WinApps-bucket
-edge_WinApps-share.json,WinApps-share/WinApps-bucket
+edge.json,WinApps-share/WinApps-bucket
 bbdown_WinApps-share.json,WinApps-share/WinApps-bucket
 autohotkey_WinApps-share.json,WinApps-share/WinApps-bucket
 reqable_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -13031,7 +13032,6 @@ kindle.json,Scoopforge/Extras-Plus
 alist-helper.json,Scoopforge/Extras-Plus
 fancywm.json,Scoopforge/Extras-Plus
 itunes_Scoopforge.json,Scoopforge/Extras-Plus
-chatbox_Scoopforge.json,Scoopforge/Extras-Plus
 comfyui.json,Scoopforge/Extras-Plus
 texlive_Scoopforge.json,Scoopforge/Extras-Plus
 jupyterlab-desktop.json,Scoopforge/Extras-Plus
@@ -15359,7 +15359,7 @@ handle2.json,Locietta/sniffer
 xanmod-WSL2-lts-skylake.json,Locietta/sniffer
 miniforge_Locietta.json,Locietta/sniffer
 pasteex_Locietta.json,Locietta/sniffer
-emeditor.json,Locietta/sniffer
+emeditor_Locietta.json,Locietta/sniffer
 xanmod-WSL2-addons-zen3.json,Locietta/sniffer
 xanmod-WSL2-lts-x64v2.json,Locietta/sniffer
 foxmail.json,Locietta/sniffer
