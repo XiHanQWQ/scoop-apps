@@ -4098,11 +4098,12 @@ adrive.json,Scoopforge/Extras-CN
 aboboo.json,Scoopforge/Extras-CN
 edrawmax.json,Scoopforge/Extras-CN
 julia-cn.json,Scoopforge/Extras-CN
-git-cn.json,Scoopforge/Extras-CN
 yuque_Scoopforge.json,Scoopforge/Extras-CN
 ting-de.json,Scoopforge/Extras-CN
 ting-en.json,Scoopforge/Extras-CN
 pixpin.json,Scoopforge/Extras-CN
+dbeaver-cn.json,Scoopforge/Extras-CN
+mogan-cn.json,Scoopforge/Extras-CN
 fishing-funds.json,Scoopforge/Extras-CN
 cajviewer_Scoopforge.json,Scoopforge/Extras-CN
 utools_Scoopforge.json,Scoopforge/Extras-CN
@@ -4128,6 +4129,7 @@ feeluown.json,Scoopforge/Extras-CN
 miniforge-cn.json,Scoopforge/Extras-CN
 kicad-cn.json,Scoopforge/Extras-CN
 ting-es.json,Scoopforge/Extras-CN
+wechatdevtools_Scoopforge.json,Scoopforge/Extras-CN
 navicat-premium-lite-cn.json,Scoopforge/Extras-CN
 videocaptioner.json,Scoopforge/Extras-CN
 gimp-cn.json,Scoopforge/Extras-CN
@@ -7660,7 +7662,7 @@ simple64_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 winuae.json,hermanjustnu/scoop-emulators
 retroarch_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary.json,hermanjustnu/scoop-emulators
@@ -8663,7 +8665,7 @@ cxbx-reloaded_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
-vita3k_borger.json,borger/scoop-emulators
+vita3k.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -8837,7 +8839,7 @@ maven_akirco.json,akirco/aki-apps
 ima-copilot.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
 kodi_akirco.json,akirco/aki-apps
-Qoder.json,akirco/aki-apps
+Qoder_akirco.json,akirco/aki-apps
 cmake_akirco.json,akirco/aki-apps
 whisper.json,akirco/aki-apps
 termscp_akirco.json,akirco/aki-apps
@@ -9955,7 +9957,6 @@ quickclipboard.json,DoveBoy/Apps
 gitalias.json,DoveBoy/Apps
 bat_DoveBoy.json,DoveBoy/Apps
 nomeiryoui_DoveBoy.json,DoveBoy/Apps
-emeditor.json,DoveBoy/Apps
 winupdateminitool.json,DoveBoy/Apps
 openoffice_DoveBoy.json,DoveBoy/Apps
 mobilecontrolguru.json,DoveBoy/Apps
