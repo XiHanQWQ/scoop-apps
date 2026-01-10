@@ -2037,6 +2037,7 @@ roughgrep.json,ScoopInstaller/Extras
 wumgr.json,ScoopInstaller/Extras
 fluent-reader.json,ScoopInstaller/Extras
 sourcetrail.json,ScoopInstaller/Extras
+cpu-z-arm64.json,ScoopInstaller/Extras
 iconview.json,ScoopInstaller/Extras
 lunatranslator.json,ScoopInstaller/Extras
 spyder.json,ScoopInstaller/Extras
@@ -2219,6 +2220,7 @@ shaderglass.json,ScoopInstaller/Extras
 logbert.json,ScoopInstaller/Extras
 lazygit.json,ScoopInstaller/Extras
 telegram-downloader_ScoopInstaller.json,ScoopInstaller/Extras
+stack-wallet.json,ScoopInstaller/Extras
 zeal.json,ScoopInstaller/Extras
 textadept.json,ScoopInstaller/Extras
 mockoon.json,ScoopInstaller/Extras
@@ -2554,6 +2556,7 @@ ultravnc.json,ScoopInstaller/Extras
 onecommander.json,ScoopInstaller/Extras
 localsend.json,ScoopInstaller/Extras
 pixitracker-1bit.json,ScoopInstaller/Extras
+leetsolv.json,ScoopInstaller/Extras
 tinynvidiaupdatechecker.json,ScoopInstaller/Extras
 qimgv.json,ScoopInstaller/Extras
 rbtray.json,ScoopInstaller/Extras
@@ -7622,7 +7625,7 @@ stella_hermanjustnu.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2_hermanjustnu.json,hermanjustnu/scoop-emulators
 visualboyadvance-m_hermanjustnu.json,hermanjustnu/scoop-emulators
-flycast_hermanjustnu.json,hermanjustnu/scoop-emulators
+flycast.json,hermanjustnu/scoop-emulators
 duckstation-preview_hermanjustnu.json,hermanjustnu/scoop-emulators
 betterjoy_hermanjustnu.json,hermanjustnu/scoop-emulators
 bsnes-nightly.json,hermanjustnu/scoop-emulators
@@ -8630,7 +8633,7 @@ ezshare.json,couleur-tweak-tips/utils
 discordcompressor.json,couleur-tweak-tips/utils
 mouse-tester.json,couleur-tweak-tips/utils
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -8668,7 +8671,7 @@ cxbx-reloaded_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -9533,7 +9536,7 @@ lemonpush.json,DoveBoy/Apps
 clashmi.json,DoveBoy/Apps
 regjump_DoveBoy.json,DoveBoy/Apps
 screenbroadcaster-net481.json,DoveBoy/Apps
-gui-for-singbox.json,DoveBoy/Apps
+gui-for-singbox_DoveBoy.json,DoveBoy/Apps
 ghostdownloader3.json,DoveBoy/Apps
 saber_DoveBoy.json,DoveBoy/Apps
 trafficmonitor-lite_DoveBoy.json,DoveBoy/Apps
@@ -9651,7 +9654,7 @@ volta-tab-completion.json,DoveBoy/Apps
 ani-beta.json,DoveBoy/Apps
 ipinfo.json,DoveBoy/Apps
 quasar_DoveBoy.json,DoveBoy/Apps
-mrrss_DoveBoy.json,DoveBoy/Apps
+mrrss.json,DoveBoy/Apps
 pikapika.json,DoveBoy/Apps
 python-tab-completion.json,DoveBoy/Apps
 coco.json,DoveBoy/Apps
@@ -9915,7 +9918,7 @@ flut-renamer.json,DoveBoy/Apps
 dust_DoveBoy.json,DoveBoy/Apps
 bbk-cli_DoveBoy.json,DoveBoy/Apps
 localsend_DoveBoy.json,DoveBoy/Apps
-gui-for-clash.json,DoveBoy/Apps
+gui-for-clash_DoveBoy.json,DoveBoy/Apps
 clash-party-portable.json,DoveBoy/Apps
 sendto-menu-editor_DoveBoy.json,DoveBoy/Apps
 screenbroadcaster-net8.json,DoveBoy/Apps
@@ -9940,7 +9943,7 @@ res-downloader.json,DoveBoy/Apps
 apprhyme.json,DoveBoy/Apps
 fileconverter.json,DoveBoy/Apps
 pscalendar.json,DoveBoy/Apps
-readest.json,DoveBoy/Apps
+readest_DoveBoy.json,DoveBoy/Apps
 vhs_DoveBoy.json,DoveBoy/Apps
 repairbadtweaks.json,DoveBoy/Apps
 iobit-undelete_DoveBoy.json,DoveBoy/Apps
@@ -11271,7 +11274,7 @@ telegram_WinApps-share.json,WinApps-share/WinApps-bucket
 localsend_WinApps-share.json,WinApps-share/WinApps-bucket
 gui-for-clash_WinApps-share.json,WinApps-share/WinApps-bucket
 dbeaver_WinApps-share.json,WinApps-share/WinApps-bucket
-quicker_WinApps-share.json,WinApps-share/WinApps-bucket
+quicker.json,WinApps-share/WinApps-bucket
 vscode-np.json,WinApps-share/WinApps-bucket
 screentogif_WinApps-share.json,WinApps-share/WinApps-bucket
 res-downloader_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -13060,7 +13063,6 @@ bitcomet_Scoopforge.json,Scoopforge/Extras-Plus
 defender-remover.json,Scoopforge/Extras-Plus
 tropy.json,Scoopforge/Extras-Plus
 landrop-latest.json,Scoopforge/Extras-Plus
-xshell-np.json,Scoopforge/Extras-Plus
 wisecare365_Scoopforge.json,Scoopforge/Extras-Plus
 gamesave-manager_starise.json,starise/Scoop-Gaming
 directx.json,starise/Scoop-Gaming
@@ -13272,7 +13274,7 @@ ImDiskToolkit.json,cc713/ownscoop
 Irfanview_cc713.json,cc713/ownscoop
 gitextensions_cc713.json,cc713/ownscoop
 gimagereader_cc713.json,cc713/ownscoop
-LunaTranslator_cc713.json,cc713/ownscoop
+LunaTranslator.json,cc713/ownscoop
 ghostscript_cc713.json,cc713/ownscoop
 firefox-zh-CN_cc713.json,cc713/ownscoop
 foobox-cn.json,cc713/ownscoop
@@ -14519,7 +14521,7 @@ mariokart-64-ultraship.json,Deide/deide-bucket
 epicgames_Deide.json,Deide/deide-bucket
 duckstation_Deide.json,Deide/deide-bucket
 bs-manager.json,Deide/deide-bucket
-pcsx2_Deide.json,Deide/deide-bucket
+pcsx2.json,Deide/deide-bucket
 visualboyadvance-m_Deide.json,Deide/deide-bucket
 lunarips.json,Deide/deide-bucket
 prismlauncher_Deide.json,Deide/deide-bucket
@@ -14531,7 +14533,7 @@ athenas-ass-mh4U.json,Deide/deide-bucket
 mgba_Deide.json,Deide/deide-bucket
 ripcord_Deide.json,Deide/deide-bucket
 qtox_Deide.json,Deide/deide-bucket
-rpcs3_Deide.json,Deide/deide-bucket
+rpcs3.json,Deide/deide-bucket
 aegisub_Deide.json,Deide/deide-bucket
 pidgin_Deide.json,Deide/deide-bucket
 freepascal_Deide.json,Deide/deide-bucket
