@@ -2882,6 +2882,7 @@ moonscript.json,ScoopInstaller/Extras
 pixie.json,ScoopInstaller/Extras
 omenmon.json,ScoopInstaller/Extras
 pure-data.json,ScoopInstaller/Extras
+virgo.json,ScoopInstaller/Extras
 switchhosts.json,ScoopInstaller/Extras
 tribler.json,ScoopInstaller/Extras
 avidemux.json,ScoopInstaller/Extras
@@ -3011,6 +3012,7 @@ gitextensions.json,ScoopInstaller/Extras
 sophia-script.json,ScoopInstaller/Extras
 buildcache.json,ScoopInstaller/Extras
 assume-role.json,ScoopInstaller/Extras
+altbacktick.json,ScoopInstaller/Extras
 renpy.json,ScoopInstaller/Extras
 wsl-ssh-agent.json,ScoopInstaller/Extras
 tinymediamanager_ScoopInstaller.json,ScoopInstaller/Extras
@@ -3587,7 +3589,7 @@ wix.json,chawyehsu/dorado
 neteasemusic.json,chawyehsu/dorado
 wayback.json,chawyehsu/dorado
 swift-nightly.json,chawyehsu/dorado
-virgo.json,chawyehsu/dorado
+virgo_chawyehsu.json,chawyehsu/dorado
 bamboo.json,chawyehsu/dorado
 fu.json,chawyehsu/dorado
 winlibs-mingw-msvcrt.json,chawyehsu/dorado
@@ -5333,7 +5335,7 @@ gradle6.json,ScoopInstaller/Versions
 idea-rc.json,ScoopInstaller/Versions
 deepgit402.json,ScoopInstaller/Versions
 libreoffice-pre.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 orca3.json,ScoopInstaller/Versions
 postgresql15.json,ScoopInstaller/Versions
 qt-creator-beta.json,ScoopInstaller/Versions
@@ -13054,6 +13056,7 @@ flying-carpet.json,Scoopforge/Extras-Plus
 vibe_Scoopforge.json,Scoopforge/Extras-Plus
 ecopaste_Scoopforge.json,Scoopforge/Extras-Plus
 bitcomet_Scoopforge.json,Scoopforge/Extras-Plus
+wox-beta_Scoopforge.json,Scoopforge/Extras-Plus
 defender-remover.json,Scoopforge/Extras-Plus
 tropy.json,Scoopforge/Extras-Plus
 landrop-latest.json,Scoopforge/Extras-Plus
