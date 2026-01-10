@@ -4385,6 +4385,7 @@ katrain.json,Calinou/scoop-games
 bsnes-mt.json,Calinou/scoop-games
 freedoom.json,Calinou/scoop-games
 snes9x-dev.json,Calinou/scoop-games
+gopher64.json,Calinou/scoop-games
 freeorion.json,Calinou/scoop-games
 angband.json,Calinou/scoop-games
 divamodmanager.json,Calinou/scoop-games
@@ -5330,7 +5331,7 @@ gradle6.json,ScoopInstaller/Versions
 idea-rc.json,ScoopInstaller/Versions
 deepgit402.json,ScoopInstaller/Versions
 libreoffice-pre.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 orca3.json,ScoopInstaller/Versions
 postgresql15.json,ScoopInstaller/Versions
 qt-creator-beta.json,ScoopInstaller/Versions
@@ -8654,7 +8655,7 @@ retroarch-nightly_borger.json,borger/scoop-emulators
 2ship2harkinian_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
-gopher64.json,borger/scoop-emulators
+gopher64_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 spaghettikart.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
@@ -8662,7 +8663,7 @@ cxbx-reloaded_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -10955,7 +10956,7 @@ fixwin-11.json,naderi/scoop-bucket
 teamviewer-portable.json,naderi/scoop-bucket
 ucalendar-portable.json,naderi/scoop-bucket
 winauth-portable.json,naderi/scoop-bucket
-justcolorpicker.json,naderi/scoop-bucket
+justcolorpicker_naderi.json,naderi/scoop-bucket
 java-editor_naderi.json,naderi/scoop-bucket
 dm2_naderi.json,naderi/scoop-bucket
 yaak_naderi.json,naderi/scoop-bucket
@@ -13193,6 +13194,7 @@ pico.json,mo-san/scoop-bucket
 diskview_mo-san.json,mo-san/scoop-bucket
 gamesave-manager_starise.json,starise/Scoop-Gaming
 directx.json,starise/Scoop-Gaming
+dlss-swapper_starise.json,starise/Scoop-Gaming
 steamless.json,starise/Scoop-Gaming
 idlemaster-extended_starise.json,starise/Scoop-Gaming
 flawless-widescreen.json,starise/Scoop-Gaming
@@ -15357,7 +15359,7 @@ handle2.json,Locietta/sniffer
 xanmod-WSL2-lts-skylake.json,Locietta/sniffer
 miniforge_Locietta.json,Locietta/sniffer
 pasteex_Locietta.json,Locietta/sniffer
-emeditor_Locietta.json,Locietta/sniffer
+emeditor.json,Locietta/sniffer
 xanmod-WSL2-addons-zen3.json,Locietta/sniffer
 xanmod-WSL2-lts-x64v2.json,Locietta/sniffer
 foxmail.json,Locietta/sniffer
