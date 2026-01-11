@@ -1518,6 +1518,7 @@ spacesniffer.json,ScoopInstaller/Extras
 gcc-aarch64-none-elf.json,ScoopInstaller/Extras
 dangerzone.json,ScoopInstaller/Extras
 lazysql.json,ScoopInstaller/Extras
+hotkey-detective.json,ScoopInstaller/Extras
 tomboy-ng.json,ScoopInstaller/Extras
 keepass-plugin-keeanywhere.json,ScoopInstaller/Extras
 dont-sleep.json,ScoopInstaller/Extras
@@ -8633,7 +8634,7 @@ ezshare.json,couleur-tweak-tips/utils
 discordcompressor.json,couleur-tweak-tips/utils
 mouse-tester.json,couleur-tweak-tips/utils
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -8671,7 +8672,7 @@ cxbx-reloaded_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -8721,6 +8722,7 @@ mootool.json,ViCrack/scoop-bucket
 tls_proxy.json,ViCrack/scoop-bucket
 filemenutools.json,ViCrack/scoop-bucket
 winasar.json,ViCrack/scoop-bucket
+wx_channels_download.json,ViCrack/scoop-bucket
 fab.json,ViCrack/scoop-bucket
 another-redis-desktop-manager_ViCrack.json,ViCrack/scoop-bucket
 toolsfx_ViCrack.json,ViCrack/scoop-bucket
@@ -12758,7 +12760,7 @@ ledger.json,iquiw/scoop-bucket
 password.json,iquiw/scoop-bucket
 ct.json,iquiw/scoop-bucket
 proxify_iquiw.json,iquiw/scoop-bucket
-logcli.json,iquiw/scoop-bucket
+logcli_iquiw.json,iquiw/scoop-bucket
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
 youku_TianXiaTech.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
@@ -14690,7 +14692,7 @@ tuba-tool.json,ChinLong/scoop-customize
 wnmp.json,ChinLong/scoop-customize
 translucent-tb.json,ChinLong/scoop-customize
 s3browser_ChinLong.json,ChinLong/scoop-customize
-utools_ChinLong.json,ChinLong/scoop-customize
+utools.json,ChinLong/scoop-customize
 ediary_ChinLong.json,ChinLong/scoop-customize
 ja-netfilter.json,ChinLong/scoop-customize
 robomongo.json,ChinLong/scoop-customize
