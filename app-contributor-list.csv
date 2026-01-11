@@ -5475,7 +5475,7 @@ winget1.5.json,ScoopInstaller/Versions
 spicetify-cli_TheRandomLabs.json,TheRandomLabs/Scoop-Spotify
 spotify-with-blockthespot.json,TheRandomLabs/Scoop-Spotify
 google-spicetify.json,TheRandomLabs/Scoop-Spotify
-spicetify-themes_TheRandomLabs.json,TheRandomLabs/Scoop-Spotify
+spicetify-themes.json,TheRandomLabs/Scoop-Spotify
 genius-spicetify.json,TheRandomLabs/Scoop-Spotify
 spotify-latest.json,TheRandomLabs/Scoop-Spotify
 spotify-tui_TheRandomLabs.json,TheRandomLabs/Scoop-Spotify
@@ -8662,7 +8662,7 @@ scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 2ship2harkinian_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
-snes9x-dev.json,borger/scoop-emulators
+snes9x-dev_borger.json,borger/scoop-emulators
 gopher64_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 spaghettikart.json,borger/scoop-emulators
@@ -9052,7 +9052,6 @@ ollama_akirco.json,akirco/aki-apps
 x264_akirco.json,akirco/aki-apps
 mysql_akirco.json,akirco/aki-apps
 notion_akirco.json,akirco/aki-apps
-cursor_akirco.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
 ima-copilot.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
@@ -15325,7 +15324,6 @@ gotify-tray.json,windedge/ladle-bucket
 zen-browser_windedge.json,windedge/ladle-bucket
 ollama-ipex-llm.json,windedge/ladle-bucket
 godot3-kotlin-jvm.json,windedge/ladle-bucket
-jvms_windedge.json,windedge/ladle-bucket
 tiny-rdm.json,windedge/ladle-bucket
 kotlin-language-server.json,windedge/ladle-bucket
 friction.json,windedge/ladle-bucket
