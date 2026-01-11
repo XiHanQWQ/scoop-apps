@@ -8635,7 +8635,7 @@ ezshare.json,couleur-tweak-tips/utils
 discordcompressor.json,couleur-tweak-tips/utils
 mouse-tester.json,couleur-tweak-tips/utils
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -9909,7 +9909,7 @@ mpv.net-beta_DoveBoy.json,DoveBoy/Apps
 czkawka_DoveBoy.json,DoveBoy/Apps
 musicbee_DoveBoy.json,DoveBoy/Apps
 video-subtitle-extractor-gpu.json,DoveBoy/Apps
-telegram_DoveBoy.json,DoveBoy/Apps
+telegram.json,DoveBoy/Apps
 psgithub_DoveBoy.json,DoveBoy/Apps
 quardcrt.json,DoveBoy/Apps
 quarkpantool.json,DoveBoy/Apps
@@ -14823,6 +14823,7 @@ umlet-aoks.json,AntonOks/scoop-aoks
 ticker-aoks.json,AntonOks/scoop-aoks
 folderscanultra-aoks.json,AntonOks/scoop-aoks
 Network_Drive_Control-aoks.json,AntonOks/scoop-aoks
+minigit-aoks.json,AntonOks/scoop-aoks
 openbao-aoks.json,AntonOks/scoop-aoks
 VictoriaMetrics-logs-aoks.json,AntonOks/scoop-aoks
 ftpuse-aoks.json,AntonOks/scoop-aoks
@@ -14831,9 +14832,11 @@ kubectl-crossplane-aoks.json,AntonOks/scoop-aoks
 goreleaser-aoks.json,AntonOks/scoop-aoks
 woodpecker-agent-aoks.json,AntonOks/scoop-aoks
 woodpecker-server-aoks.json,AntonOks/scoop-aoks
+railpack-aoks.json,AntonOks/scoop-aoks
 rakubrew-aoks.json,AntonOks/scoop-aoks
 berrybrew-aoks.json,AntonOks/scoop-aoks
 gitextensions-aoks.json,AntonOks/scoop-aoks
+wcurl-aoks.json,AntonOks/scoop-aoks
 rakudo-moar-aoks.json,AntonOks/scoop-aoks
 talosctl-aoks.json,AntonOks/scoop-aoks
 vscodium-aoks.json,AntonOks/scoop-aoks
@@ -14918,6 +14921,7 @@ lauschangriff-aoks.json,AntonOks/scoop-aoks
 swagger-codegen-aoks.json,AntonOks/scoop-aoks
 podlite-aoks.json,AntonOks/scoop-aoks
 vcluster-aoks.json,AntonOks/scoop-aoks
+choose-aoks.json,AntonOks/scoop-aoks
 semaphore-aoks.json,AntonOks/scoop-aoks
 thingsboard-aoks.json,AntonOks/scoop-aoks
 cygwin-aoks.json,AntonOks/scoop-aoks
@@ -14931,6 +14935,7 @@ linux-reader-aoks.json,AntonOks/scoop-aoks
 open-hardware-monitor-aoks.json,AntonOks/scoop-aoks
 lazarus-aoks.json,AntonOks/scoop-aoks
 dotnet-desktop-runtime-aoks.json,AntonOks/scoop-aoks
+nsq-aoks.json,AntonOks/scoop-aoks
 grindstone-aoks.json,AntonOks/scoop-aoks
 scoop-search-aoks.json,AntonOks/scoop-aoks
 hjson-cli-aoks.json,AntonOks/scoop-aoks
@@ -14990,6 +14995,7 @@ vcpkg-aoks.json,AntonOks/scoop-aoks
 deepgit-aoks.json,AntonOks/scoop-aoks
 dstep-aoks.json,AntonOks/scoop-aoks
 rakudo-star-aoks.json,AntonOks/scoop-aoks
+html2markdown-aoks.json,AntonOks/scoop-aoks
 bashbrew-aoks.json,AntonOks/scoop-aoks
 taskctl-aoks.json,AntonOks/scoop-aoks
 regln-aoks.json,AntonOks/scoop-aoks
