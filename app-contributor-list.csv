@@ -5339,7 +5339,7 @@ gradle6.json,ScoopInstaller/Versions
 idea-rc.json,ScoopInstaller/Versions
 deepgit402.json,ScoopInstaller/Versions
 libreoffice-pre.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 orca3.json,ScoopInstaller/Versions
 postgresql15.json,ScoopInstaller/Versions
 qt-creator-beta.json,ScoopInstaller/Versions
@@ -7625,7 +7625,7 @@ stella_hermanjustnu.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2_hermanjustnu.json,hermanjustnu/scoop-emulators
 visualboyadvance-m_hermanjustnu.json,hermanjustnu/scoop-emulators
-flycast.json,hermanjustnu/scoop-emulators
+flycast_hermanjustnu.json,hermanjustnu/scoop-emulators
 duckstation-preview_hermanjustnu.json,hermanjustnu/scoop-emulators
 betterjoy_hermanjustnu.json,hermanjustnu/scoop-emulators
 bsnes-nightly.json,hermanjustnu/scoop-emulators
@@ -8633,7 +8633,7 @@ ezshare.json,couleur-tweak-tips/utils
 discordcompressor.json,couleur-tweak-tips/utils
 mouse-tester.json,couleur-tweak-tips/utils
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -8662,7 +8662,7 @@ scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 2ship2harkinian_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
-snes9x-dev_borger.json,borger/scoop-emulators
+snes9x-dev.json,borger/scoop-emulators
 gopher64_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 spaghettikart.json,borger/scoop-emulators
@@ -9052,6 +9052,7 @@ ollama_akirco.json,akirco/aki-apps
 x264_akirco.json,akirco/aki-apps
 mysql_akirco.json,akirco/aki-apps
 notion_akirco.json,akirco/aki-apps
+cursor_akirco.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
 ima-copilot.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
@@ -9312,7 +9313,7 @@ obs-studio_akirco.json,akirco/aki-apps
 draw.io_akirco.json,akirco/aki-apps
 geekuninstaller_akirco.json,akirco/aki-apps
 topgrade_akirco.json,akirco/aki-apps
-innounpacker.json,akirco/aki-apps
+innounpacker_akirco.json,akirco/aki-apps
 windows-application-driver_akirco.json,akirco/aki-apps
 fastbootEnhance.json,akirco/aki-apps
 composer_akirco.json,akirco/aki-apps
@@ -9654,7 +9655,7 @@ volta-tab-completion.json,DoveBoy/Apps
 ani-beta.json,DoveBoy/Apps
 ipinfo.json,DoveBoy/Apps
 quasar_DoveBoy.json,DoveBoy/Apps
-mrrss.json,DoveBoy/Apps
+mrrss_DoveBoy.json,DoveBoy/Apps
 pikapika.json,DoveBoy/Apps
 python-tab-completion.json,DoveBoy/Apps
 coco.json,DoveBoy/Apps
@@ -10154,7 +10155,7 @@ shadowsocksr-hmbsbige_DoveBoy.json,DoveBoy/Apps
 pwsh_DoveBoy.json,DoveBoy/Apps
 chfs-tab-completion.json,DoveBoy/Apps
 openlist_DoveBoy.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 officetoolplus-with-runtime.json,DoveBoy/Apps
 psreadline_DoveBoy.json,DoveBoy/Apps
 easymusic.json,DoveBoy/Apps
@@ -10448,7 +10449,7 @@ sonarr.json,amorphobia/siku
 arturo_amorphobia.json,amorphobia/siku
 dvm_amorphobia.json,amorphobia/siku
 yakc.json,amorphobia/siku
-filebrowser.json,amorphobia/siku
+filebrowser_amorphobia.json,amorphobia/siku
 radarr_amorphobia.json,amorphobia/siku
 pcl2-ce.json,amorphobia/siku
 arturo-nightly.json,amorphobia/siku
@@ -13274,7 +13275,7 @@ ImDiskToolkit.json,cc713/ownscoop
 Irfanview_cc713.json,cc713/ownscoop
 gitextensions_cc713.json,cc713/ownscoop
 gimagereader_cc713.json,cc713/ownscoop
-LunaTranslator.json,cc713/ownscoop
+LunaTranslator_cc713.json,cc713/ownscoop
 ghostscript_cc713.json,cc713/ownscoop
 firefox-zh-CN_cc713.json,cc713/ownscoop
 foobox-cn.json,cc713/ownscoop
@@ -14533,7 +14534,7 @@ athenas-ass-mh4U.json,Deide/deide-bucket
 mgba_Deide.json,Deide/deide-bucket
 ripcord_Deide.json,Deide/deide-bucket
 qtox_Deide.json,Deide/deide-bucket
-rpcs3.json,Deide/deide-bucket
+rpcs3_Deide.json,Deide/deide-bucket
 aegisub_Deide.json,Deide/deide-bucket
 pidgin_Deide.json,Deide/deide-bucket
 freepascal_Deide.json,Deide/deide-bucket
@@ -15324,6 +15325,7 @@ gotify-tray.json,windedge/ladle-bucket
 zen-browser_windedge.json,windedge/ladle-bucket
 ollama-ipex-llm.json,windedge/ladle-bucket
 godot3-kotlin-jvm.json,windedge/ladle-bucket
+jvms_windedge.json,windedge/ladle-bucket
 tiny-rdm.json,windedge/ladle-bucket
 kotlin-language-server.json,windedge/ladle-bucket
 friction.json,windedge/ladle-bucket
