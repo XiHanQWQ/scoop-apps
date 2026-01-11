@@ -5475,7 +5475,7 @@ winget1.5.json,ScoopInstaller/Versions
 spicetify-cli_TheRandomLabs.json,TheRandomLabs/Scoop-Spotify
 spotify-with-blockthespot.json,TheRandomLabs/Scoop-Spotify
 google-spicetify.json,TheRandomLabs/Scoop-Spotify
-spicetify-themes.json,TheRandomLabs/Scoop-Spotify
+spicetify-themes_TheRandomLabs.json,TheRandomLabs/Scoop-Spotify
 genius-spicetify.json,TheRandomLabs/Scoop-Spotify
 spotify-latest.json,TheRandomLabs/Scoop-Spotify
 spotify-tui_TheRandomLabs.json,TheRandomLabs/Scoop-Spotify
@@ -8671,7 +8671,7 @@ cxbx-reloaded_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
-vita3k_borger.json,borger/scoop-emulators
+vita3k.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
