@@ -8635,7 +8635,7 @@ ezshare.json,couleur-tweak-tips/utils
 discordcompressor.json,couleur-tweak-tips/utils
 mouse-tester.json,couleur-tweak-tips/utils
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -8673,7 +8673,7 @@ cxbx-reloaded_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
-vita3k_borger.json,borger/scoop-emulators
+vita3k.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -8699,7 +8699,7 @@ httpx_ViCrack.json,ViCrack/scoop-bucket
 kscan_ViCrack.json,ViCrack/scoop-bucket
 ddns-go_ViCrack.json,ViCrack/scoop-bucket
 chmac.json,ViCrack/scoop-bucket
-notepad--.json,ViCrack/scoop-bucket
+notepad--_ViCrack.json,ViCrack/scoop-bucket
 katana_ViCrack.json,ViCrack/scoop-bucket
 easy-context-menu_ViCrack.json,ViCrack/scoop-bucket
 reqstress.json,ViCrack/scoop-bucket
@@ -11161,7 +11161,7 @@ wps_WinApps-share.json,WinApps-share/WinApps-bucket
 watt-toolkit_WinApps-share.json,WinApps-share/WinApps-bucket
 ditto_WinApps-share.json,WinApps-share/WinApps-bucket
 ollama_WinApps-share.json,WinApps-share/WinApps-bucket
-notepad--_WinApps-share.json,WinApps-share/WinApps-bucket
+notepad--.json,WinApps-share/WinApps-bucket
 cursor_WinApps-share.json,WinApps-share/WinApps-bucket
 firefox_WinApps-share.json,WinApps-share/WinApps-bucket
 ventoy_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -12607,7 +12607,7 @@ tesseract-languages_SayCV.json,SayCV/scoop-cvp
 tbls.json,iquiw/scoop-bucket
 cinc-auditor.json,iquiw/scoop-bucket
 smtprelay.json,iquiw/scoop-bucket
-tombi.json,iquiw/scoop-bucket
+tombi_iquiw.json,iquiw/scoop-bucket
 kubectl-klock.json,iquiw/scoop-bucket
 buildkit_iquiw.json,iquiw/scoop-bucket
 zigmod.json,iquiw/scoop-bucket
