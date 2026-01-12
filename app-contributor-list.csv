@@ -8535,7 +8535,7 @@ simple64_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 winuae.json,hermanjustnu/scoop-emulators
 retroarch_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary.json,hermanjustnu/scoop-emulators
@@ -9579,7 +9579,7 @@ ffmpeg_DoveBoy.json,DoveBoy/Apps
 scoop-search-chriscp.json,DoveBoy/Apps
 eartrumpet_DoveBoy.json,DoveBoy/Apps
 croc_DoveBoy.json,DoveBoy/Apps
-joplin.json,DoveBoy/Apps
+joplin_DoveBoy.json,DoveBoy/Apps
 mootool_DoveBoy.json,DoveBoy/Apps
 realesrgan-gui.json,DoveBoy/Apps
 p1soda.json,DoveBoy/Apps
@@ -10228,7 +10228,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
@@ -11349,7 +11349,7 @@ sideloadly.json,WinApps-share/WinApps-bucket
 whynot-win11.json,WinApps-share/WinApps-bucket
 xiaowan_WinApps-share.json,WinApps-share/WinApps-bucket
 flipIt.json,WinApps-share/WinApps-bucket
-pixpin_WinApps-share.json,WinApps-share/WinApps-bucket
+pixpin.json,WinApps-share/WinApps-bucket
 winscp_WinApps-share.json,WinApps-share/WinApps-bucket
 bongocat_WinApps-share.json,WinApps-share/WinApps-bucket
 ditto-np.json,WinApps-share/WinApps-bucket
