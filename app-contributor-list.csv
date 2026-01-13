@@ -6247,6 +6247,7 @@ darktable-np.json,ScoopInstaller/Nonportable
 sandboxie-classic-np.json,ScoopInstaller/Nonportable
 ivpn-client-np.json,ScoopInstaller/Nonportable
 textpad8-np.json,ScoopInstaller/Nonportable
+ti-connect-ce-software-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 notepads-np.json,ScoopInstaller/Nonportable
 innosetup-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 file-converter-np.json,ScoopInstaller/Nonportable
@@ -6256,7 +6257,6 @@ icaros-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 protonvpn-np.json,ScoopInstaller/Nonportable
 equalizer-apo-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 shelltools-np.json,ScoopInstaller/Nonportable
-calibre-np.json,ScoopInstaller/Nonportable
 scilab-np.json,ScoopInstaller/Nonportable
 glazewm-np.json,ScoopInstaller/Nonportable
 openhashtab-np.json,ScoopInstaller/Nonportable
@@ -6348,6 +6348,7 @@ files-np.json,ScoopInstaller/Nonportable
 vmware-horizon-client-np.json,ScoopInstaller/Nonportable
 flash-drive-tester-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 dokany-np_ScoopInstaller.json,ScoopInstaller/Nonportable
+calibre-np.json,ScoopInstaller/Nonportable
 dnsx.json,tldro/scoop-security
 EquationToolsGUI.json,tldro/scoop-security
 httpx.json,tldro/scoop-security
@@ -9055,6 +9056,7 @@ ollama_akirco.json,akirco/aki-apps
 x264_akirco.json,akirco/aki-apps
 mysql_akirco.json,akirco/aki-apps
 notion_akirco.json,akirco/aki-apps
+cursor.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
 ima-copilot.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
@@ -9113,7 +9115,7 @@ figlet_akirco.json,akirco/aki-apps
 nyagos_akirco.json,akirco/aki-apps
 dingtalk_akirco.json,akirco/aki-apps
 nmap-portable.json,akirco/aki-apps
-firefox-zh-cn_akirco.json,akirco/aki-apps
+firefox-zh-cn.json,akirco/aki-apps
 audacity_akirco.json,akirco/aki-apps
 nvm_akirco.json,akirco/aki-apps
 gdrive_akirco.json,akirco/aki-apps
@@ -9616,7 +9618,7 @@ registry-key-jumper_DoveBoy.json,DoveBoy/Apps
 wget_DoveBoy.json,DoveBoy/Apps
 xhs-downloader.json,DoveBoy/Apps
 cloudreve.json,DoveBoy/Apps
-github-beta_DoveBoy.json,DoveBoy/Apps
+github-beta.json,DoveBoy/Apps
 sniffnet_DoveBoy.json,DoveBoy/Apps
 miniserve_DoveBoy.json,DoveBoy/Apps
 irfanview-lean_DoveBoy.json,DoveBoy/Apps
@@ -9711,7 +9713,7 @@ nilesoft-shell_DoveBoy.json,DoveBoy/Apps
 picturecleaner.json,DoveBoy/Apps
 ofgb.json,DoveBoy/Apps
 kando-portable.json,DoveBoy/Apps
-zettlr_DoveBoy.json,DoveBoy/Apps
+zettlr.json,DoveBoy/Apps
 anyportal.json,DoveBoy/Apps
 npm-completion_DoveBoy.json,DoveBoy/Apps
 iwck.json,DoveBoy/Apps
@@ -12953,7 +12955,7 @@ bbdown_aoisummer.json,aoisummer/scoop-bucket
 windowgrid_aoisummer.json,aoisummer/scoop-bucket
 crystaldiskinfo-aoi.json,aoisummer/scoop-bucket
 ddtv2.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn.json,aoisummer/scoop-bucket
 lunatranslator_aoisummer.json,aoisummer/scoop-bucket
 shadowsocks-rust-gnu.json,aoisummer/scoop-bucket
 php83-nts.json,aoisummer/scoop-bucket
