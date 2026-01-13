@@ -8505,7 +8505,7 @@ snes9x-dev.json,hermanjustnu/scoop-emulators
 visualboyadvance-m-nightly_hermanjustnu.json,hermanjustnu/scoop-emulators
 rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
 cxbx-reloaded_hermanjustnu.json,hermanjustnu/scoop-emulators
-xemu.json,hermanjustnu/scoop-emulators
+xemu_hermanjustnu.json,hermanjustnu/scoop-emulators
 vice-gtk3-snapshot.json,hermanjustnu/scoop-emulators
 mednafen-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 b-em.json,hermanjustnu/scoop-emulators
@@ -10162,6 +10162,7 @@ easymusic.json,DoveBoy/Apps
 gotop_DoveBoy.json,DoveBoy/Apps
 hashcat_DoveBoy.json,DoveBoy/Apps
 jmcomic-downloader.json,DoveBoy/Apps
+logi-options-plus-mini.json,DoveBoy/Apps
 treesize_DoveBoy.json,DoveBoy/Apps
 bbdown-beta.json,DoveBoy/Apps
 wtv.json,DoveBoy/Apps
@@ -10228,7 +10229,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
@@ -13312,7 +13313,7 @@ mkbrr.json,natecohen/scoop-av
 avsmeter.json,natecohen/scoop-av
 tsmuxer.json,natecohen/scoop-av
 avspmod_natecohen.json,natecohen/scoop-av
-ffmetrics_natecohen.json,natecohen/scoop-av
+ffmetrics.json,natecohen/scoop-av
 fdkaac.json,natecohen/scoop-av
 pingo.json,natecohen/scoop-av
 dgmpgdec_natecohen.json,natecohen/scoop-av
