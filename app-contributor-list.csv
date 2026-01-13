@@ -5341,7 +5341,7 @@ gradle6.json,ScoopInstaller/Versions
 idea-rc.json,ScoopInstaller/Versions
 deepgit402.json,ScoopInstaller/Versions
 libreoffice-pre.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 orca3.json,ScoopInstaller/Versions
 postgresql15.json,ScoopInstaller/Versions
 qt-creator-beta.json,ScoopInstaller/Versions
@@ -8635,7 +8635,7 @@ ezshare.json,couleur-tweak-tips/utils
 discordcompressor.json,couleur-tweak-tips/utils
 mouse-tester.json,couleur-tweak-tips/utils
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -8673,7 +8673,7 @@ cxbx-reloaded_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -9973,7 +9973,7 @@ clash-rev.json,DoveBoy/Apps
 vget.json,DoveBoy/Apps
 innounp_DoveBoy.json,DoveBoy/Apps
 wiliwili_DoveBoy.json,DoveBoy/Apps
-snappy-driver-installer-origin.json,DoveBoy/Apps
+snappy-driver-installer-origin_DoveBoy.json,DoveBoy/Apps
 rubick_DoveBoy.json,DoveBoy/Apps
 vidbee.json,DoveBoy/Apps
 crystaldiskmark_DoveBoy.json,DoveBoy/Apps
@@ -15199,7 +15199,7 @@ HandyOutliner.json,ShuguangSun/sgs-scoop-bucket
 docsim.json,ShuguangSun/sgs-scoop-bucket
 openjdk19_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 unrar_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-chatbox_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+chatbox.json,ShuguangSun/sgs-scoop-bucket
 texlive_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 jabref.json,ShuguangSun/sgs-scoop-bucket
 JetBrainsMono_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
@@ -15394,6 +15394,7 @@ uivonim_younger-1.json,younger-1/scoop-it
 epick.json,younger-1/scoop-it
 sqlite3dll.json,younger-1/scoop-it
 selene_younger-1.json,younger-1/scoop-it
+vlang_younger-1.json,younger-1/scoop-it
 im-select.json,younger-1/scoop-it
 stylua_younger-1.json,younger-1/scoop-it
 hello.json,younger-1/scoop-it
