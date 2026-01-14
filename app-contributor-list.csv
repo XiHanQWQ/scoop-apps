@@ -4146,7 +4146,7 @@ vlc-cn.json,Scoopforge/Extras-CN
 msys2-cn_Scoopforge.json,Scoopforge/Extras-CN
 freetex.json,Scoopforge/Extras-CN
 qqmusic.json,Scoopforge/Extras-CN
-neteasemusic_Scoopforge.json,Scoopforge/Extras-CN
+neteasemusic.json,Scoopforge/Extras-CN
 aboboo-full.json,Scoopforge/Extras-CN
 baidupcs-go.json,Scoopforge/Extras-CN
 libreoffice-cn.json,Scoopforge/Extras-CN
@@ -10232,7 +10232,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
