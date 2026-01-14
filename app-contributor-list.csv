@@ -5342,7 +5342,7 @@ gradle6.json,ScoopInstaller/Versions
 idea-rc.json,ScoopInstaller/Versions
 deepgit402.json,ScoopInstaller/Versions
 libreoffice-pre.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 orca3.json,ScoopInstaller/Versions
 postgresql15.json,ScoopInstaller/Versions
 qt-creator-beta.json,ScoopInstaller/Versions
@@ -7481,7 +7481,7 @@ rstudio-2022.12.json,cderv/r-bucket
 rstudio-2023.03.json,cderv/r-bucket
 tree.json,cderv/r-bucket
 r-release.json,cderv/r-bucket
-rstudio-daily_cderv.json,cderv/r-bucket
+rstudio-daily.json,cderv/r-bucket
 qvm.json,cderv/r-bucket
 positron-daily.json,cderv/r-bucket
 rig.json,cderv/r-bucket
@@ -9231,6 +9231,7 @@ mdbook_akirco.json,akirco/aki-apps
 tup_akirco.json,akirco/aki-apps
 say_akirco.json,akirco/aki-apps
 telegram_akirco.json,akirco/aki-apps
+bilibili-livehime.json,akirco/aki-apps
 wechatdevtools_akirco.json,akirco/aki-apps
 pseverything.json,akirco/aki-apps
 biyi_akirco.json,akirco/aki-apps
@@ -9571,7 +9572,7 @@ chatall_DoveBoy.json,DoveBoy/Apps
 gpg_DoveBoy.json,DoveBoy/Apps
 energystarx.json,DoveBoy/Apps
 ss.json,DoveBoy/Apps
-tabby_DoveBoy.json,DoveBoy/Apps
+tabby.json,DoveBoy/Apps
 r3nzskin.json,DoveBoy/Apps
 syncclipboard.json,DoveBoy/Apps
 github-hosts.json,DoveBoy/Apps
@@ -10000,7 +10001,7 @@ syncclipboard-beta.json,DoveBoy/Apps
 backup-start-menu-layout_DoveBoy.json,DoveBoy/Apps
 fix-print-spooler_DoveBoy.json,DoveBoy/Apps
 ttime-portable.json,DoveBoy/Apps
-serverbox_DoveBoy.json,DoveBoy/Apps
+serverbox.json,DoveBoy/Apps
 escrcpy_DoveBoy.json,DoveBoy/Apps
 sed_DoveBoy.json,DoveBoy/Apps
 energystar.json,DoveBoy/Apps
@@ -12619,7 +12620,7 @@ fiddler-everywhere.json,seumsc/scoop-seu
 video2x_seumsc.json,seumsc/scoop-seu
 foobar2000-preview.json,seumsc/scoop-seu
 renpy-translator.json,seumsc/scoop-seu
-kook_seumsc.json,seumsc/scoop-seu
+kook.json,seumsc/scoop-seu
 autowikibrowser.json,seumsc/scoop-seu
 eduvpn.json,seumsc/scoop-seu
 librescore.json,seumsc/scoop-seu
@@ -12820,7 +12821,7 @@ YogaDNS.json,Darkatse/Scoop-Darkatse
 TestMem5_Darkatse.json,Darkatse/Scoop-Darkatse
 JHenTai.json,Darkatse/Scoop-Darkatse
 Netch_Darkatse.json,Darkatse/Scoop-Darkatse
-Termius_Darkatse.json,Darkatse/Scoop-Darkatse
+Termius.json,Darkatse/Scoop-Darkatse
 memtest.json,Darkatse/Scoop-Darkatse
 Brook-GUI.json,Darkatse/Scoop-Darkatse
 ZenTimings.json,Darkatse/Scoop-Darkatse
