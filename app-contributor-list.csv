@@ -4114,7 +4114,7 @@ dbeaver-cn.json,Scoopforge/Extras-CN
 mogan-cn.json,Scoopforge/Extras-CN
 fishing-funds.json,Scoopforge/Extras-CN
 cajviewer_Scoopforge.json,Scoopforge/Extras-CN
-utools.json,Scoopforge/Extras-CN
+utools_Scoopforge.json,Scoopforge/Extras-CN
 wegame.json,Scoopforge/Extras-CN
 evcapture.json,Scoopforge/Extras-CN
 wpsoffice-cn.json,Scoopforge/Extras-CN
@@ -4499,6 +4499,7 @@ playit.json,Calinou/scoop-games
 nbtexplorer_Calinou.json,Calinou/scoop-games
 bugdom-2.json,Calinou/scoop-games
 playback.json,Calinou/scoop-games
+nugget-doom.json,Calinou/scoop-games
 atlauncher.json,Calinou/scoop-games
 pyfa.json,Calinou/scoop-games
 rimpy-pre-release.json,Calinou/scoop-games
@@ -5341,7 +5342,7 @@ gradle6.json,ScoopInstaller/Versions
 idea-rc.json,ScoopInstaller/Versions
 deepgit402.json,ScoopInstaller/Versions
 libreoffice-pre.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 orca3.json,ScoopInstaller/Versions
 postgresql15.json,ScoopInstaller/Versions
 qt-creator-beta.json,ScoopInstaller/Versions
@@ -9056,7 +9057,6 @@ ollama_akirco.json,akirco/aki-apps
 x264_akirco.json,akirco/aki-apps
 mysql_akirco.json,akirco/aki-apps
 notion_akirco.json,akirco/aki-apps
-cursor.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
 ima-copilot.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
@@ -9115,7 +9115,7 @@ figlet_akirco.json,akirco/aki-apps
 nyagos_akirco.json,akirco/aki-apps
 dingtalk_akirco.json,akirco/aki-apps
 nmap-portable.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 audacity_akirco.json,akirco/aki-apps
 nvm_akirco.json,akirco/aki-apps
 gdrive_akirco.json,akirco/aki-apps
@@ -9618,7 +9618,7 @@ registry-key-jumper_DoveBoy.json,DoveBoy/Apps
 wget_DoveBoy.json,DoveBoy/Apps
 xhs-downloader.json,DoveBoy/Apps
 cloudreve.json,DoveBoy/Apps
-github-beta.json,DoveBoy/Apps
+github-beta_DoveBoy.json,DoveBoy/Apps
 sniffnet_DoveBoy.json,DoveBoy/Apps
 miniserve_DoveBoy.json,DoveBoy/Apps
 irfanview-lean_DoveBoy.json,DoveBoy/Apps
@@ -9713,7 +9713,7 @@ nilesoft-shell_DoveBoy.json,DoveBoy/Apps
 picturecleaner.json,DoveBoy/Apps
 ofgb.json,DoveBoy/Apps
 kando-portable.json,DoveBoy/Apps
-zettlr.json,DoveBoy/Apps
+zettlr_DoveBoy.json,DoveBoy/Apps
 anyportal.json,DoveBoy/Apps
 npm-completion_DoveBoy.json,DoveBoy/Apps
 iwck.json,DoveBoy/Apps
@@ -10232,7 +10232,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
@@ -12955,7 +12955,7 @@ bbdown_aoisummer.json,aoisummer/scoop-bucket
 windowgrid_aoisummer.json,aoisummer/scoop-bucket
 crystaldiskinfo-aoi.json,aoisummer/scoop-bucket
 ddtv2.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 lunatranslator_aoisummer.json,aoisummer/scoop-bucket
 shadowsocks-rust-gnu.json,aoisummer/scoop-bucket
 php83-nts.json,aoisummer/scoop-bucket
