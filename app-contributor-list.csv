@@ -2053,6 +2053,7 @@ ddu.json,ScoopInstaller/Extras
 snipaste.json,ScoopInstaller/Extras
 util-linux-ng.json,ScoopInstaller/Extras
 session.json,ScoopInstaller/Extras
+claude.json,ScoopInstaller/Extras
 deskflow_ScoopInstaller.json,ScoopInstaller/Extras
 networkmanager.json,ScoopInstaller/Extras
 vott.json,ScoopInstaller/Extras
@@ -6444,7 +6445,6 @@ xysubfilter-libass-np.json,ScoopInstaller/Nonportable
 stevedore-np.json,ScoopInstaller/Nonportable
 10x-np.json,ScoopInstaller/Nonportable
 everything-np_ScoopInstaller.json,ScoopInstaller/Nonportable
-textpad-np.json,ScoopInstaller/Nonportable
 mullvadvpn-np.json,ScoopInstaller/Nonportable
 fman-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 lantern-np.json,ScoopInstaller/Nonportable
@@ -6469,6 +6469,7 @@ vmware-horizon-client-np.json,ScoopInstaller/Nonportable
 flash-drive-tester-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 dokany-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 calibre-np.json,ScoopInstaller/Nonportable
+textpad-np.json,ScoopInstaller/Nonportable
 WinSW_kkzzhizhou.json,kkzzhizhou/scoop-zapps
 nmap_kkzzhizhou.json,kkzzhizhou/scoop-zapps
 subconverter_kkzzhizhou.json,kkzzhizhou/scoop-zapps
@@ -8537,7 +8538,7 @@ simple64_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 winuae.json,hermanjustnu/scoop-emulators
 retroarch_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary.json,hermanjustnu/scoop-emulators
@@ -9289,12 +9290,12 @@ vcredist2019.json,akirco/aki-apps
 vcredist2008.json,akirco/aki-apps
 tesseract_akirco.json,akirco/aki-apps
 xidel_akirco.json,akirco/aki-apps
-flutter_akirco.json,akirco/aki-apps
+flutter.json,akirco/aki-apps
 mdcat_akirco.json,akirco/aki-apps
 clashrauto.json,akirco/aki-apps
 deno_akirco.json,akirco/aki-apps
 s_akirco.json,akirco/aki-apps
-windsurf_akirco.json,akirco/aki-apps
+windsurf.json,akirco/aki-apps
 ysyy.json,akirco/aki-apps
 android-sdk_akirco.json,akirco/aki-apps
 time_akirco.json,akirco/aki-apps
@@ -9938,7 +9939,7 @@ ofd2pdf.json,DoveBoy/Apps
 dark_DoveBoy.json,DoveBoy/Apps
 sniproxy.json,DoveBoy/Apps
 nvm-completion.json,DoveBoy/Apps
-iptvnator_DoveBoy.json,DoveBoy/Apps
+iptvnator.json,DoveBoy/Apps
 wechatvideosniffer.json,DoveBoy/Apps
 gping_DoveBoy.json,DoveBoy/Apps
 littletips-portable.json,DoveBoy/Apps
@@ -10002,7 +10003,7 @@ backup-start-menu-layout_DoveBoy.json,DoveBoy/Apps
 fix-print-spooler_DoveBoy.json,DoveBoy/Apps
 ttime-portable.json,DoveBoy/Apps
 serverbox_DoveBoy.json,DoveBoy/Apps
-escrcpy_DoveBoy.json,DoveBoy/Apps
+escrcpy.json,DoveBoy/Apps
 sed_DoveBoy.json,DoveBoy/Apps
 energystar.json,DoveBoy/Apps
 anyburn_DoveBoy.json,DoveBoy/Apps
@@ -10911,7 +10912,7 @@ capcut_naderi.json,naderi/scoop-bucket
 iconview_naderi.json,naderi/scoop-bucket
 adblink.json,naderi/scoop-bucket
 snipaste_naderi.json,naderi/scoop-bucket
-claude.json,naderi/scoop-bucket
+claude_naderi.json,naderi/scoop-bucket
 cppcryptfs.json,naderi/scoop-bucket
 bat-to-exe-converter.json,naderi/scoop-bucket
 blisk-portable.json,naderi/scoop-bucket
@@ -12676,7 +12677,7 @@ leanify.json,seumsc/scoop-seu
 mahjong-helper_seumsc.json,seumsc/scoop-seu
 resxtranslator.json,seumsc/scoop-seu
 7ztm_seumsc.json,seumsc/scoop-seu
-hmcl_seumsc.json,seumsc/scoop-seu
+hmcl.json,seumsc/scoop-seu
 nusmv.json,seumsc/scoop-seu
 kindlegen_seumsc.json,seumsc/scoop-seu
 subconverter_seumsc.json,seumsc/scoop-seu
@@ -12991,7 +12992,7 @@ bbdown_aoisummer.json,aoisummer/scoop-bucket
 windowgrid_aoisummer.json,aoisummer/scoop-bucket
 crystaldiskinfo-aoi.json,aoisummer/scoop-bucket
 ddtv2.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn.json,aoisummer/scoop-bucket
 lunatranslator_aoisummer.json,aoisummer/scoop-bucket
 shadowsocks-rust-gnu.json,aoisummer/scoop-bucket
 php83-nts.json,aoisummer/scoop-bucket
