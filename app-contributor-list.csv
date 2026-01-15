@@ -5479,7 +5479,7 @@ winget1.5.json,ScoopInstaller/Versions
 spicetify-cli_TheRandomLabs.json,TheRandomLabs/Scoop-Spotify
 spotify-with-blockthespot.json,TheRandomLabs/Scoop-Spotify
 google-spicetify.json,TheRandomLabs/Scoop-Spotify
-spicetify-themes.json,TheRandomLabs/Scoop-Spotify
+spicetify-themes_TheRandomLabs.json,TheRandomLabs/Scoop-Spotify
 genius-spicetify.json,TheRandomLabs/Scoop-Spotify
 spotify-latest.json,TheRandomLabs/Scoop-Spotify
 spotify-tui_TheRandomLabs.json,TheRandomLabs/Scoop-Spotify
@@ -8536,7 +8536,7 @@ fceux-dev.json,hermanjustnu/scoop-emulators
 vice-sdl2.json,hermanjustnu/scoop-emulators
 desmume.json,hermanjustnu/scoop-emulators
 ryujinx_hermanjustnu.json,hermanjustnu/scoop-emulators
-xenia_hermanjustnu.json,hermanjustnu/scoop-emulators
+xenia.json,hermanjustnu/scoop-emulators
 simple64_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -8665,7 +8665,7 @@ flycast_borger.json,borger/scoop-emulators
 duckstation-preview_borger.json,borger/scoop-emulators
 bsnes-nightly.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
-azahar.json,borger/scoop-emulators
+azahar_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 2ship2harkinian_borger.json,borger/scoop-emulators
@@ -9334,6 +9334,7 @@ bun_akirco.json,akirco/aki-apps
 nano_akirco.json,akirco/aki-apps
 vcredist2017.json,akirco/aki-apps
 pwsh_akirco.json,akirco/aki-apps
+go-cn.json,akirco/aki-apps
 pngcrush_akirco.json,akirco/aki-apps
 crow-translate_akirco.json,akirco/aki-apps
 you-get_akirco.json,akirco/aki-apps
@@ -9847,7 +9848,7 @@ picacomic-downloader-portable.json,DoveBoy/Apps
 everything-alpha_DoveBoy.json,DoveBoy/Apps
 v2raya.json,DoveBoy/Apps
 revokemsgpatcher-nightly.json,DoveBoy/Apps
-clash-party_DoveBoy.json,DoveBoy/Apps
+clash-party.json,DoveBoy/Apps
 magpie_DoveBoy.json,DoveBoy/Apps
 karing-portable.json,DoveBoy/Apps
 ruffle.json,DoveBoy/Apps
@@ -15087,7 +15088,7 @@ diff-pdf_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 vale_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 rtools45.json,ShuguangSun/sgs-scoop-bucket
 sioyek_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-foobar2000-encoders.json,ShuguangSun/sgs-scoop-bucket
+foobar2000-encoders_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 r-4.5.1.json,ShuguangSun/sgs-scoop-bucket
 micromamba-cn-2.2.0.json,ShuguangSun/sgs-scoop-bucket
 chatbox-1.15.2.json,ShuguangSun/sgs-scoop-bucket
