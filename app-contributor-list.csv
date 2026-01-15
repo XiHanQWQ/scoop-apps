@@ -2249,7 +2249,7 @@ commandbox.json,ScoopInstaller/Extras
 neohtop.json,ScoopInstaller/Extras
 treesheets.json,ScoopInstaller/Extras
 vesktop.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 fontforge.json,ScoopInstaller/Extras
 baretail.json,ScoopInstaller/Extras
 vcredist2013.json,ScoopInstaller/Extras
@@ -8065,10 +8065,12 @@ Java-Editor.json,dodorz/scoop
 Pinta_dodorz.json,dodorz/scoop
 Glint.json,dodorz/scoop
 PandaOCR.json,dodorz/scoop
+Ferrite.json,dodorz/scoop
 LibgenDesktop.json,dodorz/scoop
 mpg123-dynamic.json,dodorz/scoop
 ssed.json,dodorz/scoop
 FluentSearch.json,dodorz/scoop
+dawn.json,dodorz/scoop
 Umi-OCR1-DLC-Language.json,dodorz/scoop
 Chord.json,dodorz/scoop
 AnyTXTSearcher-np.json,dodorz/scoop
@@ -9815,6 +9817,7 @@ http-downloader_DoveBoy.json,DoveBoy/Apps
 runastool_DoveBoy.json,DoveBoy/Apps
 delapp_DoveBoy.json,DoveBoy/Apps
 pikatorrent.json,DoveBoy/Apps
+electerm_DoveBoy.json,DoveBoy/Apps
 gh_DoveBoy.json,DoveBoy/Apps
 waveterm_DoveBoy.json,DoveBoy/Apps
 pot-desktop_DoveBoy.json,DoveBoy/Apps
@@ -10564,7 +10567,7 @@ nhse.json,hu3rror/scoop-muggle
 q_hu3rror.json,hu3rror/scoop-muggle
 get-childitemcolor.json,hu3rror/scoop-muggle
 chromium_hu3rror.json,hu3rror/scoop-muggle
-picgo.json,hu3rror/scoop-muggle
+picgo_hu3rror.json,hu3rror/scoop-muggle
 usbeam-consoles-dns.json,hu3rror/scoop-muggle
 acttools.json,hu3rror/scoop-muggle
 ImTip.json,hu3rror/scoop-muggle
@@ -11196,7 +11199,7 @@ trollrestore.json,WinApps-share/WinApps-bucket
 google-chrome.json,WinApps-share/WinApps-bucket
 flclash-np.json,WinApps-share/WinApps-bucket
 cherry-studio-np.json,WinApps-share/WinApps-bucket
-edge.json,WinApps-share/WinApps-bucket
+edge_WinApps-share.json,WinApps-share/WinApps-bucket
 bbdown_WinApps-share.json,WinApps-share/WinApps-bucket
 autohotkey_WinApps-share.json,WinApps-share/WinApps-bucket
 reqable_WinApps-share.json,WinApps-share/WinApps-bucket
