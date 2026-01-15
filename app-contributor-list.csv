@@ -6227,7 +6227,7 @@ unity3d.json,scoopcn/scoopcn
 wechat-devtools.json,scoopcn/scoopcn
 neo4jbrowser.json,scoopcn/scoopcn
 wechat_scoopcn.json,scoopcn/scoopcn
-feishu_scoopcn.json,scoopcn/scoopcn
+feishu.json,scoopcn/scoopcn
 ade.json,scoopcn/scoopcn
 xt800agent.json,scoopcn/scoopcn
 wxwork.json,scoopcn/scoopcn
@@ -6387,7 +6387,7 @@ sshfs-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 bluestacks4-hyperv-np.json,ScoopInstaller/Nonportable
 freelan-np.json,ScoopInstaller/Nonportable
 winrar-np.json,ScoopInstaller/Nonportable
-lav-filters-megamix-np_ScoopInstaller.json,ScoopInstaller/Nonportable
+lav-filters-megamix-np.json,ScoopInstaller/Nonportable
 workman-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 fluent-terminal-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 nvidia-display-driver-dch-np.json,ScoopInstaller/Nonportable
@@ -8536,7 +8536,7 @@ fceux-dev.json,hermanjustnu/scoop-emulators
 vice-sdl2.json,hermanjustnu/scoop-emulators
 desmume.json,hermanjustnu/scoop-emulators
 ryujinx_hermanjustnu.json,hermanjustnu/scoop-emulators
-xenia_hermanjustnu.json,hermanjustnu/scoop-emulators
+xenia.json,hermanjustnu/scoop-emulators
 simple64_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -9847,7 +9847,7 @@ picacomic-downloader-portable.json,DoveBoy/Apps
 everything-alpha_DoveBoy.json,DoveBoy/Apps
 v2raya.json,DoveBoy/Apps
 revokemsgpatcher-nightly.json,DoveBoy/Apps
-clash-party.json,DoveBoy/Apps
+clash-party_DoveBoy.json,DoveBoy/Apps
 magpie_DoveBoy.json,DoveBoy/Apps
 karing-portable.json,DoveBoy/Apps
 ruffle.json,DoveBoy/Apps
@@ -9959,6 +9959,7 @@ ntrace-v1.json,DoveBoy/Apps
 thunder-https.json,DoveBoy/Apps
 any-listen-desktop.json,DoveBoy/Apps
 cnnettool.json,DoveBoy/Apps
+potplayer_DoveBoy.json,DoveBoy/Apps
 translumo.json,DoveBoy/Apps
 clash-rev-cgo.json,DoveBoy/Apps
 clash-verge-rev_DoveBoy.json,DoveBoy/Apps
@@ -10844,7 +10845,7 @@ opentrace_naderi.json,naderi/scoop-bucket
 picard-portable.json,naderi/scoop-bucket
 gyroflow_naderi.json,naderi/scoop-bucket
 converter-now.json,naderi/scoop-bucket
-kiro_naderi.json,naderi/scoop-bucket
+kiro.json,naderi/scoop-bucket
 hibernate.json,naderi/scoop-bucket
 xpdf-reader.json,naderi/scoop-bucket
 programmers-notepad.json,naderi/scoop-bucket
@@ -11091,7 +11092,7 @@ comet.json,naderi/scoop-bucket
 paste-ex.json,naderi/scoop-bucket
 open-xrechnung-toolbox.json,naderi/scoop-bucket
 phiola.json,naderi/scoop-bucket
-innounpacker_naderi.json,naderi/scoop-bucket
+innounpacker.json,naderi/scoop-bucket
 leomoon-jalalitray.json,naderi/scoop-bucket
 font-gandom.json,naderi/scoop-bucket
 leomoon-parsinegar.json,naderi/scoop-bucket
@@ -12271,7 +12272,7 @@ ddu_Small-Ku.json,Small-Ku/turbo-bucket
 kondo_Small-Ku.json,Small-Ku/turbo-bucket
 mcpls.json,Small-Ku/turbo-bucket
 stardb-exporter.json,Small-Ku/turbo-bucket
-gemini-cli.json,Small-Ku/turbo-bucket
+gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
 source-han-sans-vf-ttc.json,Small-Ku/turbo-bucket
 sarasa-super-ttc.json,Small-Ku/turbo-bucket
 antigravity-manager.json,Small-Ku/turbo-bucket
