@@ -6382,6 +6382,7 @@ scilab-np.json,ScoopInstaller/Nonportable
 glazewm-np.json,ScoopInstaller/Nonportable
 openhashtab-np.json,ScoopInstaller/Nonportable
 encodegui-np.json,ScoopInstaller/Nonportable
+tortoisegit-np.json,ScoopInstaller/Nonportable
 sshfs-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 bluestacks4-hyperv-np.json,ScoopInstaller/Nonportable
 freelan-np.json,ScoopInstaller/Nonportable
@@ -6462,7 +6463,7 @@ resilio-sync-np.json,ScoopInstaller/Nonportable
 musicbee-np.json,ScoopInstaller/Nonportable
 pdf24-creator-np.json,ScoopInstaller/Nonportable
 teamviewer-np.json,ScoopInstaller/Nonportable
-mactype-np.json,ScoopInstaller/Nonportable
+mactype-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 nsis-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 files-np.json,ScoopInstaller/Nonportable
 vmware-horizon-client-np.json,ScoopInstaller/Nonportable
@@ -9817,7 +9818,6 @@ http-downloader_DoveBoy.json,DoveBoy/Apps
 runastool_DoveBoy.json,DoveBoy/Apps
 delapp_DoveBoy.json,DoveBoy/Apps
 pikatorrent.json,DoveBoy/Apps
-electerm_DoveBoy.json,DoveBoy/Apps
 gh_DoveBoy.json,DoveBoy/Apps
 waveterm_DoveBoy.json,DoveBoy/Apps
 pot-desktop_DoveBoy.json,DoveBoy/Apps
@@ -9847,7 +9847,7 @@ picacomic-downloader-portable.json,DoveBoy/Apps
 everything-alpha_DoveBoy.json,DoveBoy/Apps
 v2raya.json,DoveBoy/Apps
 revokemsgpatcher-nightly.json,DoveBoy/Apps
-clash-party_DoveBoy.json,DoveBoy/Apps
+clash-party.json,DoveBoy/Apps
 magpie_DoveBoy.json,DoveBoy/Apps
 karing-portable.json,DoveBoy/Apps
 ruffle.json,DoveBoy/Apps
@@ -12656,7 +12656,7 @@ fiddler-everywhere.json,seumsc/scoop-seu
 video2x_seumsc.json,seumsc/scoop-seu
 foobar2000-preview.json,seumsc/scoop-seu
 renpy-translator.json,seumsc/scoop-seu
-kook_seumsc.json,seumsc/scoop-seu
+kook.json,seumsc/scoop-seu
 autowikibrowser.json,seumsc/scoop-seu
 eduvpn.json,seumsc/scoop-seu
 librescore.json,seumsc/scoop-seu
