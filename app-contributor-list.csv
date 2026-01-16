@@ -7449,7 +7449,7 @@ wsl-ubuntu2204.json,KNOXDEV/wsl
 rstudio-preview_cderv.json,cderv/r-bucket
 ollama_cderv.json,cderv/r-bucket
 rstudio-pro-release.json,cderv/r-bucket
-quarto_cderv.json,cderv/r-bucket
+quarto.json,cderv/r-bucket
 rstudio-daily-electron.json,cderv/r-bucket
 rstudio-pro-daily.json,cderv/r-bucket
 jarl.json,cderv/r-bucket
@@ -7621,6 +7621,7 @@ manpages-zh.json,dodorz/scoop
 jpico-static.json,dodorz/scoop
 Regshot.json,dodorz/scoop
 TorchBrowser.json,dodorz/scoop
+Whisper-cpp-blas.json,dodorz/scoop
 Umi-OCR1-All-Language.json,dodorz/scoop
 RenameMaster.json,dodorz/scoop
 neofetch_dodorz.json,dodorz/scoop
@@ -8836,7 +8837,7 @@ java-echo-generator-release.json,ViCrack/scoop-bucket
 java-memshell-generator.json,ViCrack/scoop-bucket
 ja.json,ViCrack/scoop-bucket
 siyuan.json,ViCrack/scoop-bucket
-yakit_ViCrack.json,ViCrack/scoop-bucket
+yakit.json,ViCrack/scoop-bucket
 treesize_ViCrack.json,ViCrack/scoop-bucket
 MsbuildLog.json,wangzq/scoop-bucket
 vim8.json,wangzq/scoop-bucket
@@ -9651,7 +9652,7 @@ alist_DoveBoy.json,DoveBoy/Apps
 ssrr-windows.json,DoveBoy/Apps
 nvm_DoveBoy.json,DoveBoy/Apps
 xx-net-win7.json,DoveBoy/Apps
-reqable_DoveBoy.json,DoveBoy/Apps
+reqable.json,DoveBoy/Apps
 daisy.json,DoveBoy/Apps
 winfetch_DoveBoy.json,DoveBoy/Apps
 gns3.json,DoveBoy/Apps
@@ -9896,7 +9897,7 @@ littletips.json,DoveBoy/Apps
 maple-file.json,DoveBoy/Apps
 imfile-portable.json,DoveBoy/Apps
 mediago.json,DoveBoy/Apps
-dandanplay_DoveBoy.json,DoveBoy/Apps
+dandanplay.json,DoveBoy/Apps
 ipcalc_DoveBoy.json,DoveBoy/Apps
 everything-lite_DoveBoy.json,DoveBoy/Apps
 xcmusic.json,DoveBoy/Apps
@@ -10221,7 +10222,7 @@ openotp.json,DoveBoy/Apps
 clash.meta-alpha.json,DoveBoy/Apps
 typoracracker-code.json,DoveBoy/Apps
 pdf-guru.json,DoveBoy/Apps
-whisper-cpp-blas.json,DoveBoy/Apps
+whisper-cpp-blas_DoveBoy.json,DoveBoy/Apps
 dart-simple-live.json,DoveBoy/Apps
 study-xxqg-beta.json,DoveBoy/Apps
 clash-chinese-patch.json,DoveBoy/Apps
@@ -15110,7 +15111,7 @@ HandyOutliner.json,ShuguangSun/sgs-scoop-bucket
 docsim.json,ShuguangSun/sgs-scoop-bucket
 openjdk19_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 unrar_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-chatbox_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+chatbox.json,ShuguangSun/sgs-scoop-bucket
 texlive_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 jabref.json,ShuguangSun/sgs-scoop-bucket
 JetBrainsMono_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
