@@ -9121,7 +9121,7 @@ figlet_akirco.json,akirco/aki-apps
 nyagos_akirco.json,akirco/aki-apps
 dingtalk_akirco.json,akirco/aki-apps
 nmap-portable.json,akirco/aki-apps
-firefox-zh-cn_akirco.json,akirco/aki-apps
+firefox-zh-cn.json,akirco/aki-apps
 audacity_akirco.json,akirco/aki-apps
 nvm_akirco.json,akirco/aki-apps
 gdrive_akirco.json,akirco/aki-apps
@@ -9548,7 +9548,7 @@ lemonpush.json,DoveBoy/Apps
 clashmi.json,DoveBoy/Apps
 regjump_DoveBoy.json,DoveBoy/Apps
 screenbroadcaster-net481.json,DoveBoy/Apps
-gui-for-singbox_DoveBoy.json,DoveBoy/Apps
+gui-for-singbox.json,DoveBoy/Apps
 ghostdownloader3.json,DoveBoy/Apps
 saber_DoveBoy.json,DoveBoy/Apps
 trafficmonitor-lite_DoveBoy.json,DoveBoy/Apps
@@ -9839,6 +9839,7 @@ etcher-portable.json,DoveBoy/Apps
 clumsy_DoveBoy.json,DoveBoy/Apps
 anxreader-portable.json,DoveBoy/Apps
 vcpkg_DoveBoy.json,DoveBoy/Apps
+mobaxterm_DoveBoy.json,DoveBoy/Apps
 bilibilidown-with-jre.json,DoveBoy/Apps
 musicfreedesktop.json,DoveBoy/Apps
 unigetui_DoveBoy.json,DoveBoy/Apps
@@ -9926,7 +9927,7 @@ flut-renamer.json,DoveBoy/Apps
 dust_DoveBoy.json,DoveBoy/Apps
 bbk-cli_DoveBoy.json,DoveBoy/Apps
 localsend_DoveBoy.json,DoveBoy/Apps
-gui-for-clash_DoveBoy.json,DoveBoy/Apps
+gui-for-clash.json,DoveBoy/Apps
 clash-party-portable.json,DoveBoy/Apps
 sendto-menu-editor_DoveBoy.json,DoveBoy/Apps
 screenbroadcaster-net8.json,DoveBoy/Apps
@@ -11392,7 +11393,7 @@ ditto_WinApps-share.json,WinApps-share/WinApps-bucket
 ollama_WinApps-share.json,WinApps-share/WinApps-bucket
 notepad--.json,WinApps-share/WinApps-bucket
 cursor_WinApps-share.json,WinApps-share/WinApps-bucket
-firefox_WinApps-share.json,WinApps-share/WinApps-bucket
+firefox.json,WinApps-share/WinApps-bucket
 ventoy_WinApps-share.json,WinApps-share/WinApps-bucket
 ab-download-manager-np.json,WinApps-share/WinApps-bucket
 rufus-portable_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -12963,7 +12964,7 @@ bbdown_aoisummer.json,aoisummer/scoop-bucket
 windowgrid_aoisummer.json,aoisummer/scoop-bucket
 crystaldiskinfo-aoi.json,aoisummer/scoop-bucket
 ddtv2.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn.json,aoisummer/scoop-bucket
 lunatranslator_aoisummer.json,aoisummer/scoop-bucket
 shadowsocks-rust-gnu.json,aoisummer/scoop-bucket
 php83-nts.json,aoisummer/scoop-bucket
