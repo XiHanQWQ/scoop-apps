@@ -15298,6 +15298,7 @@ wireguard-np_Locietta.json,Locietta/sniffer
 slang_Locietta.json,Locietta/sniffer
 xanmod-WSL2-zen3.json,Locietta/sniffer
 ygomaster.json,Locietta/sniffer
+sparkle.json,Locietta/sniffer
 hmcl_Locietta.json,Locietta/sniffer
 handle2.json,Locietta/sniffer
 xanmod-WSL2-lts-skylake.json,Locietta/sniffer
@@ -15404,7 +15405,6 @@ uivonim_younger-1.json,younger-1/scoop-it
 epick.json,younger-1/scoop-it
 sqlite3dll.json,younger-1/scoop-it
 selene_younger-1.json,younger-1/scoop-it
-vlang_younger-1.json,younger-1/scoop-it
 im-select.json,younger-1/scoop-it
 stylua_younger-1.json,younger-1/scoop-it
 hello.json,younger-1/scoop-it
