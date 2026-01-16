@@ -1742,7 +1742,7 @@ ssh-agent-wsl.json,ScoopInstaller/Extras
 foobar2000-encoders.json,ScoopInstaller/Extras
 dolphin.json,ScoopInstaller/Extras
 tortoisemerge.json,ScoopInstaller/Extras
-sourcetree.json,ScoopInstaller/Extras
+sourcetree_ScoopInstaller.json,ScoopInstaller/Extras
 sfk.json,ScoopInstaller/Extras
 mpc.json,ScoopInstaller/Extras
 network-profile-name-changer.json,ScoopInstaller/Extras
@@ -2348,7 +2348,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -4133,7 +4133,7 @@ obs-studio-cn.json,Scoopforge/Extras-CN
 gimp-cn-dev.json,Scoopforge/Extras-CN
 hbuilderx.json,Scoopforge/Extras-CN
 misakatranslator.json,Scoopforge/Extras-CN
-feishu.json,Scoopforge/Extras-CN
+feishu_Scoopforge.json,Scoopforge/Extras-CN
 feeluown.json,Scoopforge/Extras-CN
 miniforge-cn.json,Scoopforge/Extras-CN
 kicad-cn.json,Scoopforge/Extras-CN
@@ -5343,7 +5343,7 @@ gradle6.json,ScoopInstaller/Versions
 idea-rc.json,ScoopInstaller/Versions
 deepgit402.json,ScoopInstaller/Versions
 libreoffice-pre.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 orca3.json,ScoopInstaller/Versions
 postgresql15.json,ScoopInstaller/Versions
 qt-creator-beta.json,ScoopInstaller/Versions
@@ -8536,7 +8536,7 @@ fceux-dev.json,hermanjustnu/scoop-emulators
 vice-sdl2.json,hermanjustnu/scoop-emulators
 desmume.json,hermanjustnu/scoop-emulators
 ryujinx_hermanjustnu.json,hermanjustnu/scoop-emulators
-xenia.json,hermanjustnu/scoop-emulators
+xenia_hermanjustnu.json,hermanjustnu/scoop-emulators
 simple64_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -9334,7 +9334,6 @@ bun_akirco.json,akirco/aki-apps
 nano_akirco.json,akirco/aki-apps
 vcredist2017.json,akirco/aki-apps
 pwsh_akirco.json,akirco/aki-apps
-go-cn.json,akirco/aki-apps
 pngcrush_akirco.json,akirco/aki-apps
 crow-translate_akirco.json,akirco/aki-apps
 you-get_akirco.json,akirco/aki-apps
@@ -9848,7 +9847,7 @@ picacomic-downloader-portable.json,DoveBoy/Apps
 everything-alpha_DoveBoy.json,DoveBoy/Apps
 v2raya.json,DoveBoy/Apps
 revokemsgpatcher-nightly.json,DoveBoy/Apps
-clash-party.json,DoveBoy/Apps
+clash-party_DoveBoy.json,DoveBoy/Apps
 magpie_DoveBoy.json,DoveBoy/Apps
 karing-portable.json,DoveBoy/Apps
 ruffle.json,DoveBoy/Apps
@@ -9896,7 +9895,7 @@ littletips.json,DoveBoy/Apps
 maple-file.json,DoveBoy/Apps
 imfile-portable.json,DoveBoy/Apps
 mediago.json,DoveBoy/Apps
-dandanplay.json,DoveBoy/Apps
+dandanplay_DoveBoy.json,DoveBoy/Apps
 ipcalc_DoveBoy.json,DoveBoy/Apps
 everything-lite_DoveBoy.json,DoveBoy/Apps
 xcmusic.json,DoveBoy/Apps
@@ -12626,7 +12625,7 @@ fiddler-everywhere.json,seumsc/scoop-seu
 video2x_seumsc.json,seumsc/scoop-seu
 foobar2000-preview.json,seumsc/scoop-seu
 renpy-translator.json,seumsc/scoop-seu
-kook.json,seumsc/scoop-seu
+kook_seumsc.json,seumsc/scoop-seu
 autowikibrowser.json,seumsc/scoop-seu
 eduvpn.json,seumsc/scoop-seu
 librescore.json,seumsc/scoop-seu
@@ -15347,7 +15346,7 @@ ferium_The-Simples.json,The-Simples/scoop-minecraft
 pax.json,The-Simples/scoop-minecraft
 xmcl_The-Simples.json,The-Simples/scoop-minecraft
 prism.json,The-Simples/scoop-minecraft
-amulet-map-editor_The-Simples.json,The-Simples/scoop-minecraft
+amulet-map-editor.json,The-Simples/scoop-minecraft
 packsquash.json,The-Simples/scoop-minecraft
 amidst_The-Simples.json,The-Simples/scoop-minecraft
 pacmc_The-Simples.json,The-Simples/scoop-minecraft
