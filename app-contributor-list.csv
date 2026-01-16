@@ -2249,7 +2249,7 @@ commandbox.json,ScoopInstaller/Extras
 neohtop.json,ScoopInstaller/Extras
 treesheets.json,ScoopInstaller/Extras
 vesktop.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 fontforge.json,ScoopInstaller/Extras
 baretail.json,ScoopInstaller/Extras
 vcredist2013.json,ScoopInstaller/Extras
@@ -2348,7 +2348,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -4140,6 +4140,7 @@ kicad-cn.json,Scoopforge/Extras-CN
 ting-es.json,Scoopforge/Extras-CN
 wechatdevtools_Scoopforge.json,Scoopforge/Extras-CN
 navicat-premium-lite-cn.json,Scoopforge/Extras-CN
+clash-mi.json,Scoopforge/Extras-CN
 videocaptioner.json,Scoopforge/Extras-CN
 gimp-cn.json,Scoopforge/Extras-CN
 mpv.net-cm.json,Scoopforge/Extras-CN
