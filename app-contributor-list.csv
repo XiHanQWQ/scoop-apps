@@ -6260,6 +6260,7 @@ icaros-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 protonvpn-np.json,ScoopInstaller/Nonportable
 equalizer-apo-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 shelltools-np.json,ScoopInstaller/Nonportable
+calibre-np.json,ScoopInstaller/Nonportable
 scilab-np.json,ScoopInstaller/Nonportable
 glazewm-np.json,ScoopInstaller/Nonportable
 openhashtab-np.json,ScoopInstaller/Nonportable
@@ -6351,7 +6352,6 @@ files-np.json,ScoopInstaller/Nonportable
 vmware-horizon-client-np.json,ScoopInstaller/Nonportable
 flash-drive-tester-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 dokany-np_ScoopInstaller.json,ScoopInstaller/Nonportable
-calibre-np.json,ScoopInstaller/Nonportable
 textpad-np.json,ScoopInstaller/Nonportable
 dnsx.json,tldro/scoop-security
 EquationToolsGUI.json,tldro/scoop-security
@@ -8526,7 +8526,7 @@ dolphin-beta.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 steam-rom-manager_hermanjustnu.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
-mgba-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+mgba-dev.json,hermanjustnu/scoop-emulators
 sameboy_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 cemuhook.json,hermanjustnu/scoop-emulators
@@ -13011,6 +13011,7 @@ smplayer_jfut.json,jfut/scoop-jfut
 fitwin.json,jfut/scoop-jfut
 firefox.ja.json,jfut/scoop-jfut
 putty-gdi-pfwd.json,jfut/scoop-jfut
+verethragna.json,jfut/scoop-jfut
 cubepdf-utility.json,jfut/scoop-jfut
 becky.json,jfut/scoop-jfut
 ffftp.json,jfut/scoop-jfut
