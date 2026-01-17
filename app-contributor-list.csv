@@ -7940,7 +7940,6 @@ PDFSplitandMerge.json,dodorz/scoop
 PyNGWallpaper.json,dodorz/scoop
 GPT4All.json,dodorz/scoop
 Vuze.json,dodorz/scoop
-NetPWAge.json,dodorz/scoop
 TEncoder.json,dodorz/scoop
 Acme-SAC.json,dodorz/scoop
 OpenSearcher.json,dodorz/scoop
@@ -8062,7 +8061,7 @@ FotoSketcher.json,dodorz/scoop
 IcecreamPDFConverter.json,dodorz/scoop
 WindowsManager.json,dodorz/scoop
 imgcat.json,dodorz/scoop
-NetPWAge_dodorz.json,dodorz/scoop
+NetPWAge.json,dodorz/scoop
 Spread32.json,dodorz/scoop
 Java-Editor.json,dodorz/scoop
 Pinta_dodorz.json,dodorz/scoop
@@ -10164,7 +10163,7 @@ shadowsocksr-hmbsbige_DoveBoy.json,DoveBoy/Apps
 pwsh_DoveBoy.json,DoveBoy/Apps
 chfs-tab-completion.json,DoveBoy/Apps
 openlist_DoveBoy.json,DoveBoy/Apps
-neteaseuu_DoveBoy.json,DoveBoy/Apps
+neteaseuu.json,DoveBoy/Apps
 officetoolplus-with-runtime.json,DoveBoy/Apps
 psreadline_DoveBoy.json,DoveBoy/Apps
 easymusic.json,DoveBoy/Apps
@@ -15098,6 +15097,7 @@ xanmod-WSL2-addons-lts-skylake.json,Locietta/sniffer
 xanmod-WSL2-x64v2.json,Locietta/sniffer
 multi-frp.json,Locietta/sniffer
 xanmod-WSL2-addons-skylake.json,Locietta/sniffer
+frp_Locietta.json,Locietta/sniffer
 xanmod-WSL2-x64v3.json,Locietta/sniffer
 wireguard-np_Locietta.json,Locietta/sniffer
 slang_Locietta.json,Locietta/sniffer
