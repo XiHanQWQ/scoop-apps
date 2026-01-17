@@ -2348,7 +2348,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -9588,7 +9588,7 @@ ffmpeg_DoveBoy.json,DoveBoy/Apps
 scoop-search-chriscp.json,DoveBoy/Apps
 eartrumpet_DoveBoy.json,DoveBoy/Apps
 croc_DoveBoy.json,DoveBoy/Apps
-joplin.json,DoveBoy/Apps
+joplin_DoveBoy.json,DoveBoy/Apps
 mootool_DoveBoy.json,DoveBoy/Apps
 realesrgan-gui.json,DoveBoy/Apps
 p1soda.json,DoveBoy/Apps
@@ -10056,7 +10056,7 @@ ecopaste.json,DoveBoy/Apps
 xiaochao.json,DoveBoy/Apps
 biliup-rs.json,DoveBoy/Apps
 lan-mouse_DoveBoy.json,DoveBoy/Apps
-joplin-pre.json,DoveBoy/Apps
+joplin-pre_DoveBoy.json,DoveBoy/Apps
 kobi.json,DoveBoy/Apps
 remove-ms-edge.json,DoveBoy/Apps
 freecontrol.json,DoveBoy/Apps
@@ -12780,7 +12780,7 @@ imewlconverter_TianXiaTech.json,TianXiaTech/scoop-txt
 neohtop_TianXiaTech.json,TianXiaTech/scoop-txt
 cntv_TianXiaTech.json,TianXiaTech/scoop-txt
 miru-app.json,TianXiaTech/scoop-txt
-ffmpegFreeUI_TianXiaTech.json,TianXiaTech/scoop-txt
+ffmpegFreeUI.json,TianXiaTech/scoop-txt
 huya.json,TianXiaTech/scoop-txt
 qqmusic_TianXiaTech.json,TianXiaTech/scoop-txt
 Noi_TianXiaTech.json,TianXiaTech/scoop-txt
