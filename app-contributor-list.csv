@@ -2211,6 +2211,7 @@ win-vind.json,ScoopInstaller/Extras
 mp3tag.json,ScoopInstaller/Extras
 gcc-arm-none-linux-gnueabihf.json,ScoopInstaller/Extras
 blender-benchmark-cli.json,ScoopInstaller/Extras
+kelivo.json,ScoopInstaller/Extras
 neovide.json,ScoopInstaller/Extras
 easytier.json,ScoopInstaller/Extras
 resizer2.json,ScoopInstaller/Extras
@@ -2519,6 +2520,7 @@ aegisub.json,ScoopInstaller/Extras
 everythingtoolbar.json,ScoopInstaller/Extras
 bioedit.json,ScoopInstaller/Extras
 kapow-punch-clock.json,ScoopInstaller/Extras
+opencode-desktop.json,ScoopInstaller/Extras
 xc.json,ScoopInstaller/Extras
 dn-tool-container.json,ScoopInstaller/Extras
 jackett.json,ScoopInstaller/Extras
@@ -8543,7 +8545,7 @@ simple64_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 winuae.json,hermanjustnu/scoop-emulators
 retroarch_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary.json,hermanjustnu/scoop-emulators
@@ -9757,6 +9759,7 @@ nali_DoveBoy.json,DoveBoy/Apps
 ofgb-with-runtime.json,DoveBoy/Apps
 openssh_DoveBoy.json,DoveBoy/Apps
 folo_DoveBoy.json,DoveBoy/Apps
+snipaste.json,DoveBoy/Apps
 escrcpy-portable.json,DoveBoy/Apps
 mpv-git_DoveBoy.json,DoveBoy/Apps
 joinersplitter.json,DoveBoy/Apps
@@ -10239,7 +10242,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
@@ -10460,7 +10463,7 @@ sonarr.json,amorphobia/siku
 arturo_amorphobia.json,amorphobia/siku
 dvm_amorphobia.json,amorphobia/siku
 yakc.json,amorphobia/siku
-filebrowser_amorphobia.json,amorphobia/siku
+filebrowser.json,amorphobia/siku
 radarr_amorphobia.json,amorphobia/siku
 pcl2-ce.json,amorphobia/siku
 arturo-nightly.json,amorphobia/siku
