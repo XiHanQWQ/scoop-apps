@@ -2348,7 +2348,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -10618,7 +10618,7 @@ newrain-duplicate-photo-finder.json,hu3rror/scoop-muggle
 prtscr.json,hu3rror/scoop-muggle
 mpv-handler.json,hu3rror/scoop-muggle
 neovim_hu3rror.json,hu3rror/scoop-muggle
-mosdns_hu3rror.json,hu3rror/scoop-muggle
+mosdns.json,hu3rror/scoop-muggle
 mpv-lazy_hu3rror.json,hu3rror/scoop-muggle
 musicplayer2_hu3rror.json,hu3rror/scoop-muggle
 limitpng.json,hu3rror/scoop-muggle
@@ -12780,7 +12780,7 @@ imewlconverter_TianXiaTech.json,TianXiaTech/scoop-txt
 neohtop_TianXiaTech.json,TianXiaTech/scoop-txt
 cntv_TianXiaTech.json,TianXiaTech/scoop-txt
 miru-app.json,TianXiaTech/scoop-txt
-ffmpegFreeUI.json,TianXiaTech/scoop-txt
+ffmpegFreeUI_TianXiaTech.json,TianXiaTech/scoop-txt
 huya.json,TianXiaTech/scoop-txt
 qqmusic_TianXiaTech.json,TianXiaTech/scoop-txt
 Noi_TianXiaTech.json,TianXiaTech/scoop-txt
