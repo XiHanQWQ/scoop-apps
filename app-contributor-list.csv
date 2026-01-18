@@ -2357,7 +2357,7 @@ mpv.json,ScoopInstaller/Extras
 autoclicker.json,ScoopInstaller/Extras
 win-portacle.json,ScoopInstaller/Extras
 deepgit.json,ScoopInstaller/Extras
-opencode.json,ScoopInstaller/Extras
+opencode_ScoopInstaller.json,ScoopInstaller/Extras
 manictime.json,ScoopInstaller/Extras
 executor.json,ScoopInstaller/Extras
 apache-tinkerpop-gremlin-console.json,ScoopInstaller/Extras
@@ -8543,7 +8543,7 @@ simple64_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 winuae.json,hermanjustnu/scoop-emulators
 retroarch_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary.json,hermanjustnu/scoop-emulators
@@ -9839,7 +9839,6 @@ etcher-portable.json,DoveBoy/Apps
 clumsy_DoveBoy.json,DoveBoy/Apps
 anxreader-portable.json,DoveBoy/Apps
 vcpkg_DoveBoy.json,DoveBoy/Apps
-mobaxterm_DoveBoy.json,DoveBoy/Apps
 bilibilidown-with-jre.json,DoveBoy/Apps
 musicfreedesktop.json,DoveBoy/Apps
 unigetui_DoveBoy.json,DoveBoy/Apps
