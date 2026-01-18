@@ -3076,6 +3076,7 @@ windowsspyblocker.json,ScoopInstaller/Extras
 fwup.json,ScoopInstaller/Extras
 hwp-converter.json,ScoopInstaller/Extras
 featherwallet.json,ScoopInstaller/Extras
+zedis.json,ScoopInstaller/Extras
 zerobrane-studio.json,ScoopInstaller/Extras
 musikcube.json,ScoopInstaller/Extras
 playnite.json,ScoopInstaller/Extras
@@ -8540,12 +8541,12 @@ fceux-dev.json,hermanjustnu/scoop-emulators
 vice-sdl2.json,hermanjustnu/scoop-emulators
 desmume.json,hermanjustnu/scoop-emulators
 ryujinx_hermanjustnu.json,hermanjustnu/scoop-emulators
-xenia.json,hermanjustnu/scoop-emulators
+xenia_hermanjustnu.json,hermanjustnu/scoop-emulators
 simple64_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 winuae.json,hermanjustnu/scoop-emulators
 retroarch_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary.json,hermanjustnu/scoop-emulators
@@ -8645,7 +8646,7 @@ ezshare.json,couleur-tweak-tips/utils
 discordcompressor.json,couleur-tweak-tips/utils
 mouse-tester.json,couleur-tweak-tips/utils
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -10057,7 +10058,7 @@ ecopaste.json,DoveBoy/Apps
 xiaochao.json,DoveBoy/Apps
 biliup-rs.json,DoveBoy/Apps
 lan-mouse_DoveBoy.json,DoveBoy/Apps
-joplin-pre_DoveBoy.json,DoveBoy/Apps
+joplin-pre.json,DoveBoy/Apps
 kobi.json,DoveBoy/Apps
 remove-ms-edge.json,DoveBoy/Apps
 freecontrol.json,DoveBoy/Apps
