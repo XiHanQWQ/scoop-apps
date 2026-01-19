@@ -7470,6 +7470,7 @@ chrome-headless-shell.json,cderv/r-bucket
 tinytex-extra.json,cderv/r-bucket
 fq_cderv.json,cderv/r-bucket
 beads.json,cderv/r-bucket
+beans.json,cderv/r-bucket
 tinytex.json,cderv/r-bucket
 rstudio-2022.07.json,cderv/r-bucket
 ark.json,cderv/r-bucket
@@ -7477,6 +7478,7 @@ tinytex-min.json,cderv/r-bucket
 rsvg-convert.json,cderv/r-bucket
 py.exe.json,cderv/r-bucket
 rstudio-2024.04.json,cderv/r-bucket
+roborev.json,cderv/r-bucket
 rstudio-2023.09.json,cderv/r-bucket
 rstudio-2023.12.json,cderv/r-bucket
 rstudio-2022.02.json,cderv/r-bucket
@@ -8812,6 +8814,7 @@ gowitness.json,ViCrack/scoop-bucket
 apifox_ViCrack.json,ViCrack/scoop-bucket
 edx.json,ViCrack/scoop-bucket
 newfiletime_ViCrack.json,ViCrack/scoop-bucket
+weflow.json,ViCrack/scoop-bucket
 rad_ViCrack.json,ViCrack/scoop-bucket
 woodpecker_ViCrack.json,ViCrack/scoop-bucket
 jyso_ViCrack.json,ViCrack/scoop-bucket
@@ -8820,6 +8823,7 @@ xjavafxtool.json,ViCrack/scoop-bucket
 dudesuite_ViCrack.json,ViCrack/scoop-bucket
 jar-analyzer_ViCrack.json,ViCrack/scoop-bucket
 rakshasa.json,ViCrack/scoop-bucket
+chatlab.json,ViCrack/scoop-bucket
 suo5_ViCrack.json,ViCrack/scoop-bucket
 struts2vulsscantools.json,ViCrack/scoop-bucket
 behinder_ViCrack.json,ViCrack/scoop-bucket
@@ -11201,7 +11205,7 @@ dismplus.json,WinApps-share/WinApps-bucket
 lanzouyun-disk_WinApps-share.json,WinApps-share/WinApps-bucket
 sharex_WinApps-share.json,WinApps-share/WinApps-bucket
 flclash_WinApps-share.json,WinApps-share/WinApps-bucket
-bypass_WinApps-share.json,WinApps-share/WinApps-bucket
+bypass.json,WinApps-share/WinApps-bucket
 spleeter-gui.json,WinApps-share/WinApps-bucket
 trollrestore.json,WinApps-share/WinApps-bucket
 google-chrome.json,WinApps-share/WinApps-bucket
@@ -11210,7 +11214,7 @@ cherry-studio-np.json,WinApps-share/WinApps-bucket
 edge.json,WinApps-share/WinApps-bucket
 bbdown_WinApps-share.json,WinApps-share/WinApps-bucket
 autohotkey_WinApps-share.json,WinApps-share/WinApps-bucket
-reqable_WinApps-share.json,WinApps-share/WinApps-bucket
+reqable.json,WinApps-share/WinApps-bucket
 pdf24-creator.json,WinApps-share/WinApps-bucket
 peazip_WinApps-share.json,WinApps-share/WinApps-bucket
 clash-verge-rev-np.json,WinApps-share/WinApps-bucket
