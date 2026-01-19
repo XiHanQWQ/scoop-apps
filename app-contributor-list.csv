@@ -8551,7 +8551,7 @@ mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 winuae.json,hermanjustnu/scoop-emulators
-retroarch.json,hermanjustnu/scoop-emulators
+retroarch_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary.json,hermanjustnu/scoop-emulators
 blur.json,couleur-tweak-tips/utils
 MediaDownloader.json,couleur-tweak-tips/utils
@@ -8649,7 +8649,7 @@ psloggedon.json,niheaven/scoop-sysinternals
 junction.json,niheaven/scoop-sysinternals
 diskview.json,niheaven/scoop-sysinternals
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -8700,10 +8700,11 @@ ares_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 desmume_borger.json,borger/scoop-emulators
 ryujinx_borger.json,borger/scoop-emulators
-xenia_borger.json,borger/scoop-emulators
+xenia.json,borger/scoop-emulators
 mednafen_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
+retroarch_borger.json,borger/scoop-emulators
 postcat.json,ViCrack/scoop-bucket
 igdm_ViCrack.json,ViCrack/scoop-bucket
 maye.json,ViCrack/scoop-bucket
@@ -9722,7 +9723,6 @@ irfanview_DoveBoy.json,DoveBoy/Apps
 pscompletions_DoveBoy.json,DoveBoy/Apps
 forkgram_DoveBoy.json,DoveBoy/Apps
 varia-portable.json,DoveBoy/Apps
-qalculate.json,DoveBoy/Apps
 everything-beta_DoveBoy.json,DoveBoy/Apps
 nilesoft-shell_DoveBoy.json,DoveBoy/Apps
 picturecleaner.json,DoveBoy/Apps
@@ -11450,7 +11450,7 @@ sideloadly.json,WinApps-share/WinApps-bucket
 whynot-win11.json,WinApps-share/WinApps-bucket
 xiaowan_WinApps-share.json,WinApps-share/WinApps-bucket
 flipIt.json,WinApps-share/WinApps-bucket
-pixpin_WinApps-share.json,WinApps-share/WinApps-bucket
+pixpin.json,WinApps-share/WinApps-bucket
 winscp_WinApps-share.json,WinApps-share/WinApps-bucket
 bongocat_WinApps-share.json,WinApps-share/WinApps-bucket
 ditto-np.json,WinApps-share/WinApps-bucket
@@ -13297,7 +13297,7 @@ ImDiskToolkit.json,cc713/ownscoop
 Irfanview_cc713.json,cc713/ownscoop
 gitextensions_cc713.json,cc713/ownscoop
 gimagereader_cc713.json,cc713/ownscoop
-LunaTranslator.json,cc713/ownscoop
+LunaTranslator_cc713.json,cc713/ownscoop
 ghostscript_cc713.json,cc713/ownscoop
 firefox-zh-CN_cc713.json,cc713/ownscoop
 foobox-cn.json,cc713/ownscoop
