@@ -3424,7 +3424,7 @@ flowus.json,chawyehsu/dorado
 chatbox-ce.json,chawyehsu/dorado
 wechatwork_chawyehsu.json,chawyehsu/dorado
 kt-connect.json,chawyehsu/dorado
-bypass.json,chawyehsu/dorado
+bypass_chawyehsu.json,chawyehsu/dorado
 rustup-np.json,chawyehsu/dorado
 pstools.json,chawyehsu/dorado
 opentrace_chawyehsu.json,chawyehsu/dorado
@@ -11206,7 +11206,7 @@ trollrestore.json,WinApps-share/WinApps-bucket
 google-chrome.json,WinApps-share/WinApps-bucket
 flclash-np.json,WinApps-share/WinApps-bucket
 cherry-studio-np.json,WinApps-share/WinApps-bucket
-edge_WinApps-share.json,WinApps-share/WinApps-bucket
+edge.json,WinApps-share/WinApps-bucket
 bbdown_WinApps-share.json,WinApps-share/WinApps-bucket
 autohotkey_WinApps-share.json,WinApps-share/WinApps-bucket
 reqable_WinApps-share.json,WinApps-share/WinApps-bucket
