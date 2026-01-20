@@ -2350,7 +2350,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -3425,7 +3425,7 @@ flowus.json,chawyehsu/dorado
 chatbox-ce.json,chawyehsu/dorado
 wechatwork_chawyehsu.json,chawyehsu/dorado
 kt-connect.json,chawyehsu/dorado
-bypass_chawyehsu.json,chawyehsu/dorado
+bypass.json,chawyehsu/dorado
 rustup-np.json,chawyehsu/dorado
 pstools.json,chawyehsu/dorado
 opentrace_chawyehsu.json,chawyehsu/dorado
@@ -4188,6 +4188,7 @@ supermodel.json,Calinou/scoop-games
 mudlet.json,Calinou/scoop-games
 opentyrian2000.json,Calinou/scoop-games
 kindandfair.json,Calinou/scoop-games
+hytale.json,Calinou/scoop-games
 blockbench.json,Calinou/scoop-games
 wemod.json,Calinou/scoop-games
 umod.json,Calinou/scoop-games
@@ -5348,7 +5349,7 @@ gradle6.json,ScoopInstaller/Versions
 idea-rc.json,ScoopInstaller/Versions
 deepgit402.json,ScoopInstaller/Versions
 libreoffice-pre.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 orca3.json,ScoopInstaller/Versions
 postgresql15.json,ScoopInstaller/Versions
 qt-creator-beta.json,ScoopInstaller/Versions
@@ -8700,7 +8701,7 @@ ares_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 desmume_borger.json,borger/scoop-emulators
 ryujinx_borger.json,borger/scoop-emulators
-xenia.json,borger/scoop-emulators
+xenia_borger.json,borger/scoop-emulators
 mednafen_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
@@ -11028,7 +11029,7 @@ potplayer-portable_naderi.json,naderi/scoop-bucket
 firefox-nightly-portable.json,naderi/scoop-bucket
 wavepad_naderi.json,naderi/scoop-bucket
 chrome-portable.json,naderi/scoop-bucket
-claude-code.json,naderi/scoop-bucket
+claude-code_naderi.json,naderi/scoop-bucket
 capture2text-persian.json,naderi/scoop-bucket
 radarr_naderi.json,naderi/scoop-bucket
 firefox-esr-portable.json,naderi/scoop-bucket
@@ -11425,7 +11426,7 @@ dismplus.json,WinApps-share/WinApps-bucket
 lanzouyun-disk_WinApps-share.json,WinApps-share/WinApps-bucket
 sharex_WinApps-share.json,WinApps-share/WinApps-bucket
 flclash_WinApps-share.json,WinApps-share/WinApps-bucket
-bypass.json,WinApps-share/WinApps-bucket
+bypass_WinApps-share.json,WinApps-share/WinApps-bucket
 spleeter-gui.json,WinApps-share/WinApps-bucket
 trollrestore.json,WinApps-share/WinApps-bucket
 google-chrome.json,WinApps-share/WinApps-bucket
@@ -11914,6 +11915,7 @@ phraze.json,aliesbelik/poldi
 mcat.json,aliesbelik/poldi
 byedpi.json,aliesbelik/poldi
 query-json.json,aliesbelik/poldi
+fresh.json,aliesbelik/poldi
 oxker.json,aliesbelik/poldi
 waitforit.json,aliesbelik/poldi
 dry.json,aliesbelik/poldi
@@ -12285,7 +12287,7 @@ ddu_Small-Ku.json,Small-Ku/turbo-bucket
 kondo_Small-Ku.json,Small-Ku/turbo-bucket
 mcpls.json,Small-Ku/turbo-bucket
 stardb-exporter.json,Small-Ku/turbo-bucket
-gemini-cli.json,Small-Ku/turbo-bucket
+gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
 source-han-sans-vf-ttc.json,Small-Ku/turbo-bucket
 sarasa-super-ttc.json,Small-Ku/turbo-bucket
 antigravity-manager.json,Small-Ku/turbo-bucket
@@ -12295,7 +12297,7 @@ qwen-code.json,Small-Ku/turbo-bucket
 natural-voice-sapi-adapter.json,Small-Ku/turbo-bucket
 hoyo-gacha.json,Small-Ku/turbo-bucket
 pso2-tweaker_Small-Ku.json,Small-Ku/turbo-bucket
-claude-code.json,Small-Ku/turbo-bucket
+claude-code_Small-Ku.json,Small-Ku/turbo-bucket
 vencord-installer_Small-Ku.json,Small-Ku/turbo-bucket
 stuntman.json,Small-Ku/turbo-bucket
 gpu-z-portable.json,Small-Ku/turbo-bucket
@@ -15025,6 +15027,7 @@ cloneapp-aoks.json,AntonOks/scoop-aoks
 kdiff3-aoks.json,AntonOks/scoop-aoks
 geosetter-aoks.json,AntonOks/scoop-aoks
 git-ftp-aoks.json,AntonOks/scoop-aoks
+ofgb-aoks.json,AntonOks/scoop-aoks
 k0s-aoks.json,AntonOks/scoop-aoks
 ballerina-aoks.json,AntonOks/scoop-aoks
 helix-aoks.json,AntonOks/scoop-aoks
