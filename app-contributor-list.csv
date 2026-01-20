@@ -2350,7 +2350,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -3425,7 +3425,7 @@ flowus.json,chawyehsu/dorado
 chatbox-ce.json,chawyehsu/dorado
 wechatwork_chawyehsu.json,chawyehsu/dorado
 kt-connect.json,chawyehsu/dorado
-bypass.json,chawyehsu/dorado
+bypass_chawyehsu.json,chawyehsu/dorado
 rustup-np.json,chawyehsu/dorado
 pstools.json,chawyehsu/dorado
 opentrace_chawyehsu.json,chawyehsu/dorado
@@ -4104,7 +4104,7 @@ lceda.json,Scoopforge/Extras-CN
 lky-officetools.json,Scoopforge/Extras-CN
 m3u8-downloader.json,Scoopforge/Extras-CN
 dingtalk.json,Scoopforge/Extras-CN
-baidunetdisk.json,Scoopforge/Extras-CN
+baidunetdisk_Scoopforge.json,Scoopforge/Extras-CN
 i4tools.json,Scoopforge/Extras-CN
 eshelper.json,Scoopforge/Extras-CN
 adrive.json,Scoopforge/Extras-CN
@@ -9390,7 +9390,6 @@ ryusak.json,kiennq/scoop-misc
 cascadiacode-pl.json,kiennq/scoop-misc
 emax64.json,kiennq/scoop-misc
 joyshockmapper.json,kiennq/scoop-misc
-emacs-kl.json,kiennq/scoop-misc
 win32yank_kiennq.json,kiennq/scoop-misc
 sak_kiennq.json,kiennq/scoop-misc
 cemuhook-webgyro.json,kiennq/scoop-misc
@@ -11451,7 +11450,7 @@ sideloadly.json,WinApps-share/WinApps-bucket
 whynot-win11.json,WinApps-share/WinApps-bucket
 xiaowan_WinApps-share.json,WinApps-share/WinApps-bucket
 flipIt.json,WinApps-share/WinApps-bucket
-pixpin.json,WinApps-share/WinApps-bucket
+pixpin_WinApps-share.json,WinApps-share/WinApps-bucket
 winscp_WinApps-share.json,WinApps-share/WinApps-bucket
 bongocat_WinApps-share.json,WinApps-share/WinApps-bucket
 ditto-np.json,WinApps-share/WinApps-bucket
@@ -11761,7 +11760,7 @@ bartib.json,aliesbelik/poldi
 ente-cli.json,aliesbelik/poldi
 srgn.json,aliesbelik/poldi
 openpomodoro.json,aliesbelik/poldi
-ali_aliesbelik.json,aliesbelik/poldi
+ali.json,aliesbelik/poldi
 g.json,aliesbelik/poldi
 lazyssh.json,aliesbelik/poldi
 xq.json,aliesbelik/poldi
