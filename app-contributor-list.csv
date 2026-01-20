@@ -9888,7 +9888,7 @@ whynotwin11_DoveBoy.json,DoveBoy/Apps
 clash-mini.json,DoveBoy/Apps
 windows-manage-tool.json,DoveBoy/Apps
 hummingbird.json,DoveBoy/Apps
-winget-preview_DoveBoy.json,DoveBoy/Apps
+winget-preview.json,DoveBoy/Apps
 tinypng.json,DoveBoy/Apps
 psreadlineviextension.json,DoveBoy/Apps
 cheat-engine_DoveBoy.json,DoveBoy/Apps
@@ -15256,7 +15256,7 @@ Font-Awesome_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 PowerShell_maboloshi.json,maboloshi/scoop-private
 notepad4_maboloshi.json,maboloshi/scoop-private
-ima-copilot.json,maboloshi/scoop-private
+ima-copilot_maboloshi.json,maboloshi/scoop-private
 microsoftedge-beta_maboloshi.json,maboloshi/scoop-private
 ffmpeg-N_m3u8DL-CLI.json,maboloshi/scoop-private
 sarasa-gothic-sc-excerpt.json,maboloshi/scoop-private
