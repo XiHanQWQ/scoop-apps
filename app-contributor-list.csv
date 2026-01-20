@@ -8674,7 +8674,7 @@ flycast_borger.json,borger/scoop-emulators
 duckstation-preview_borger.json,borger/scoop-emulators
 bsnes-nightly.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
-azahar_borger.json,borger/scoop-emulators
+azahar.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 2ship2harkinian_borger.json,borger/scoop-emulators
@@ -8701,7 +8701,7 @@ ares_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 desmume_borger.json,borger/scoop-emulators
 ryujinx_borger.json,borger/scoop-emulators
-xenia_borger.json,borger/scoop-emulators
+xenia.json,borger/scoop-emulators
 mednafen_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
@@ -9633,7 +9633,7 @@ registry-key-jumper_DoveBoy.json,DoveBoy/Apps
 wget_DoveBoy.json,DoveBoy/Apps
 xhs-downloader.json,DoveBoy/Apps
 cloudreve.json,DoveBoy/Apps
-github-beta_DoveBoy.json,DoveBoy/Apps
+github-beta.json,DoveBoy/Apps
 sniffnet_DoveBoy.json,DoveBoy/Apps
 miniserve_DoveBoy.json,DoveBoy/Apps
 irfanview-lean_DoveBoy.json,DoveBoy/Apps
@@ -9661,7 +9661,7 @@ alist_DoveBoy.json,DoveBoy/Apps
 ssrr-windows.json,DoveBoy/Apps
 nvm_DoveBoy.json,DoveBoy/Apps
 xx-net-win7.json,DoveBoy/Apps
-reqable_DoveBoy.json,DoveBoy/Apps
+reqable.json,DoveBoy/Apps
 daisy.json,DoveBoy/Apps
 winfetch_DoveBoy.json,DoveBoy/Apps
 gns3.json,DoveBoy/Apps
@@ -12286,7 +12286,7 @@ ddu_Small-Ku.json,Small-Ku/turbo-bucket
 kondo_Small-Ku.json,Small-Ku/turbo-bucket
 mcpls.json,Small-Ku/turbo-bucket
 stardb-exporter.json,Small-Ku/turbo-bucket
-gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
+gemini-cli.json,Small-Ku/turbo-bucket
 source-han-sans-vf-ttc.json,Small-Ku/turbo-bucket
 sarasa-super-ttc.json,Small-Ku/turbo-bucket
 antigravity-manager.json,Small-Ku/turbo-bucket
@@ -12673,7 +12673,7 @@ YogaDNS.json,Darkatse/Scoop-Darkatse
 TestMem5_Darkatse.json,Darkatse/Scoop-Darkatse
 JHenTai.json,Darkatse/Scoop-Darkatse
 Netch_Darkatse.json,Darkatse/Scoop-Darkatse
-Termius.json,Darkatse/Scoop-Darkatse
+Termius_Darkatse.json,Darkatse/Scoop-Darkatse
 memtest.json,Darkatse/Scoop-Darkatse
 Brook-GUI.json,Darkatse/Scoop-Darkatse
 ZenTimings.json,Darkatse/Scoop-Darkatse
@@ -12713,7 +12713,7 @@ cherry-studio_TianXiaTech.json,TianXiaTech/scoop-txt
 winsw-alpha.json,TianXiaTech/scoop-txt
 cc-switch_TianXiaTech.json,TianXiaTech/scoop-txt
 baidunetdisk_TianXiaTech.json,TianXiaTech/scoop-txt
-yuque_TianXiaTech.json,TianXiaTech/scoop-txt
+yuque.json,TianXiaTech/scoop-txt
 mgtv_TianXiaTech.json,TianXiaTech/scoop-txt
 winsw_TianXiaTech.json,TianXiaTech/scoop-txt
 piclist_TianXiaTech.json,TianXiaTech/scoop-txt
