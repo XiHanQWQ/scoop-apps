@@ -3426,7 +3426,7 @@ flowus.json,chawyehsu/dorado
 chatbox-ce.json,chawyehsu/dorado
 wechatwork_chawyehsu.json,chawyehsu/dorado
 kt-connect.json,chawyehsu/dorado
-bypass_chawyehsu.json,chawyehsu/dorado
+bypass.json,chawyehsu/dorado
 rustup-np.json,chawyehsu/dorado
 pstools.json,chawyehsu/dorado
 opentrace_chawyehsu.json,chawyehsu/dorado
@@ -4112,7 +4112,7 @@ adrive.json,Scoopforge/Extras-CN
 aboboo.json,Scoopforge/Extras-CN
 edrawmax.json,Scoopforge/Extras-CN
 julia-cn.json,Scoopforge/Extras-CN
-yuque.json,Scoopforge/Extras-CN
+yuque_Scoopforge.json,Scoopforge/Extras-CN
 ting-de.json,Scoopforge/Extras-CN
 ting-en.json,Scoopforge/Extras-CN
 pixpin.json,Scoopforge/Extras-CN
@@ -5350,7 +5350,7 @@ gradle6.json,ScoopInstaller/Versions
 idea-rc.json,ScoopInstaller/Versions
 deepgit402.json,ScoopInstaller/Versions
 libreoffice-pre.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 orca3.json,ScoopInstaller/Versions
 postgresql15.json,ScoopInstaller/Versions
 qt-creator-beta.json,ScoopInstaller/Versions
@@ -9248,7 +9248,6 @@ mdbook_akirco.json,akirco/aki-apps
 tup_akirco.json,akirco/aki-apps
 say_akirco.json,akirco/aki-apps
 telegram_akirco.json,akirco/aki-apps
-bilibili-livehime.json,akirco/aki-apps
 wechatdevtools_akirco.json,akirco/aki-apps
 pseverything.json,akirco/aki-apps
 biyi_akirco.json,akirco/aki-apps
@@ -9888,7 +9887,7 @@ whynotwin11_DoveBoy.json,DoveBoy/Apps
 clash-mini.json,DoveBoy/Apps
 windows-manage-tool.json,DoveBoy/Apps
 hummingbird.json,DoveBoy/Apps
-winget-preview.json,DoveBoy/Apps
+winget-preview_DoveBoy.json,DoveBoy/Apps
 tinypng.json,DoveBoy/Apps
 psreadlineviextension.json,DoveBoy/Apps
 cheat-engine_DoveBoy.json,DoveBoy/Apps
@@ -11209,7 +11208,7 @@ dismplus.json,WinApps-share/WinApps-bucket
 lanzouyun-disk_WinApps-share.json,WinApps-share/WinApps-bucket
 sharex_WinApps-share.json,WinApps-share/WinApps-bucket
 flclash_WinApps-share.json,WinApps-share/WinApps-bucket
-bypass.json,WinApps-share/WinApps-bucket
+bypass_WinApps-share.json,WinApps-share/WinApps-bucket
 spleeter-gui.json,WinApps-share/WinApps-bucket
 trollrestore.json,WinApps-share/WinApps-bucket
 google-chrome.json,WinApps-share/WinApps-bucket
@@ -15310,7 +15309,7 @@ pdf4teachers.json,windedge/ladle-bucket
 llama-cpp-ipex-llm.json,windedge/ladle-bucket
 itext-rups.json,windedge/ladle-bucket
 godot3_windedge.json,windedge/ladle-bucket
-5ire_windedge.json,windedge/ladle-bucket
+5ire.json,windedge/ladle-bucket
 tahoma2d_windedge.json,windedge/ladle-bucket
 markflowy_windedge.json,windedge/ladle-bucket
 temurin20-jdk_windedge.json,windedge/ladle-bucket
