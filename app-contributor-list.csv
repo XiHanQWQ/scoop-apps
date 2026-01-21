@@ -4308,7 +4308,7 @@ collapse-launcher.json,Calinou/scoop-games
 sudachi.json,Calinou/scoop-games
 golly.json,Calinou/scoop-games
 chunker-cli.json,Calinou/scoop-games
-starward_Calinou.json,Calinou/scoop-games
+starward.json,Calinou/scoop-games
 mindustry-server.json,Calinou/scoop-games
 witchblast.json,Calinou/scoop-games
 racelab.json,Calinou/scoop-games
@@ -8690,7 +8690,7 @@ cxbx-reloaded_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -8818,6 +8818,7 @@ apifox_ViCrack.json,ViCrack/scoop-bucket
 edx.json,ViCrack/scoop-bucket
 newfiletime_ViCrack.json,ViCrack/scoop-bucket
 weflow.json,ViCrack/scoop-bucket
+z0scan.json,ViCrack/scoop-bucket
 rad_ViCrack.json,ViCrack/scoop-bucket
 woodpecker_ViCrack.json,ViCrack/scoop-bucket
 jyso_ViCrack.json,ViCrack/scoop-bucket
@@ -10090,7 +10091,7 @@ iris.json,DoveBoy/Apps
 clashwarden.json,DoveBoy/Apps
 flclash-portable.json,DoveBoy/Apps
 varia_DoveBoy.json,DoveBoy/Apps
-freefilesync_DoveBoy.json,DoveBoy/Apps
+freefilesync.json,DoveBoy/Apps
 waifu2x-snowshell_DoveBoy.json,DoveBoy/Apps
 hiddify-next.json,DoveBoy/Apps
 lx-music-desktop.json,DoveBoy/Apps
@@ -13300,7 +13301,7 @@ ImDiskToolkit.json,cc713/ownscoop
 Irfanview_cc713.json,cc713/ownscoop
 gitextensions_cc713.json,cc713/ownscoop
 gimagereader_cc713.json,cc713/ownscoop
-LunaTranslator.json,cc713/ownscoop
+LunaTranslator_cc713.json,cc713/ownscoop
 ghostscript_cc713.json,cc713/ownscoop
 firefox-zh-CN_cc713.json,cc713/ownscoop
 foobox-cn.json,cc713/ownscoop
