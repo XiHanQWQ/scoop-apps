@@ -7469,6 +7469,7 @@ github-mcp-server.json,cderv/r-bucket
 dashlane-cli.json,cderv/r-bucket
 sass-migrator.json,cderv/r-bucket
 chrome-headless-shell.json,cderv/r-bucket
+beads-rust.json,cderv/r-bucket
 tinytex-extra.json,cderv/r-bucket
 fq_cderv.json,cderv/r-bucket
 beads.json,cderv/r-bucket
@@ -8651,7 +8652,7 @@ psloggedon.json,niheaven/scoop-sysinternals
 junction.json,niheaven/scoop-sysinternals
 diskview.json,niheaven/scoop-sysinternals
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -11207,7 +11208,7 @@ dismplus.json,WinApps-share/WinApps-bucket
 lanzouyun-disk_WinApps-share.json,WinApps-share/WinApps-bucket
 sharex_WinApps-share.json,WinApps-share/WinApps-bucket
 flclash_WinApps-share.json,WinApps-share/WinApps-bucket
-bypass_WinApps-share.json,WinApps-share/WinApps-bucket
+bypass.json,WinApps-share/WinApps-bucket
 spleeter-gui.json,WinApps-share/WinApps-bucket
 trollrestore.json,WinApps-share/WinApps-bucket
 google-chrome.json,WinApps-share/WinApps-bucket
