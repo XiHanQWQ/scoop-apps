@@ -3426,7 +3426,7 @@ flowus.json,chawyehsu/dorado
 chatbox-ce.json,chawyehsu/dorado
 wechatwork_chawyehsu.json,chawyehsu/dorado
 kt-connect.json,chawyehsu/dorado
-bypass.json,chawyehsu/dorado
+bypass_chawyehsu.json,chawyehsu/dorado
 rustup-np.json,chawyehsu/dorado
 pstools.json,chawyehsu/dorado
 opentrace_chawyehsu.json,chawyehsu/dorado
@@ -8706,7 +8706,6 @@ xenia_borger.json,borger/scoop-emulators
 mednafen_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
-retroarch_borger.json,borger/scoop-emulators
 postcat.json,ViCrack/scoop-bucket
 igdm_ViCrack.json,ViCrack/scoop-bucket
 maye.json,ViCrack/scoop-bucket
@@ -10032,7 +10031,7 @@ neovim_DoveBoy.json,DoveBoy/Apps
 screencapture_DoveBoy.json,DoveBoy/Apps
 iobit-unlocker_DoveBoy.json,DoveBoy/Apps
 qqmusic_DoveBoy.json,DoveBoy/Apps
-neteasemusic_DoveBoy.json,DoveBoy/Apps
+neteasemusic.json,DoveBoy/Apps
 mpv-lazy.json,DoveBoy/Apps
 clink_DoveBoy.json,DoveBoy/Apps
 pansy.json,DoveBoy/Apps
@@ -11915,7 +11914,7 @@ phraze.json,aliesbelik/poldi
 mcat.json,aliesbelik/poldi
 byedpi.json,aliesbelik/poldi
 query-json.json,aliesbelik/poldi
-fresh_aliesbelik.json,aliesbelik/poldi
+fresh.json,aliesbelik/poldi
 oxker.json,aliesbelik/poldi
 waitforit.json,aliesbelik/poldi
 dry.json,aliesbelik/poldi
