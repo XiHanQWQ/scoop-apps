@@ -8682,7 +8682,7 @@ retroarch-nightly_borger.json,borger/scoop-emulators
 2ship2harkinian_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
-gopher64_borger.json,borger/scoop-emulators
+gopher64.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 spaghettikart.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
@@ -8705,7 +8705,7 @@ desmume_borger.json,borger/scoop-emulators
 ryujinx_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
 mednafen_borger.json,borger/scoop-emulators
-ppsspp_borger.json,borger/scoop-emulators
+ppsspp.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
 postcat.json,ViCrack/scoop-bucket
 igdm_ViCrack.json,ViCrack/scoop-bucket
@@ -9666,7 +9666,7 @@ ssrr-windows.json,DoveBoy/Apps
 nvm_DoveBoy.json,DoveBoy/Apps
 xx-net-win7.json,DoveBoy/Apps
 ytdownloader-portable.json,DoveBoy/Apps
-reqable.json,DoveBoy/Apps
+reqable_DoveBoy.json,DoveBoy/Apps
 daisy.json,DoveBoy/Apps
 winfetch_DoveBoy.json,DoveBoy/Apps
 gns3.json,DoveBoy/Apps
@@ -11044,6 +11044,7 @@ alt-app-switcher.json,naderi/scoop-bucket
 api-monitor_naderi.json,naderi/scoop-bucket
 2faguard.json,naderi/scoop-bucket
 sublime-text-4.json,naderi/scoop-bucket
+buzz.json,naderi/scoop-bucket
 fontviewok.json,naderi/scoop-bucket
 halite_naderi.json,naderi/scoop-bucket
 caret-beta_naderi.json,naderi/scoop-bucket
@@ -11134,7 +11135,6 @@ firefox-developer-de.json,naderi/scoop-bucket
 codeblocks-portable.json,naderi/scoop-bucket
 dont-sleep-portable.json,naderi/scoop-bucket
 wox-portable.json,naderi/scoop-bucket
-subtitle-edit.json,naderi/scoop-bucket
 totalcommander-beta-portable.json,naderi/scoop-bucket
 flashpad_naderi.json,naderi/scoop-bucket
 vivetool-gui_naderi.json,naderi/scoop-bucket
@@ -11948,6 +11948,7 @@ keep-alive.json,aliesbelik/poldi
 kail.json,aliesbelik/poldi
 hitt.json,aliesbelik/poldi
 grpc-client-cli.json,aliesbelik/poldi
+taws.json,aliesbelik/poldi
 tdu.json,aliesbelik/poldi
 mani.json,aliesbelik/poldi
 ck-cli.json,aliesbelik/poldi
@@ -12464,7 +12465,7 @@ ddu_Small-Ku.json,Small-Ku/turbo-bucket
 kondo_Small-Ku.json,Small-Ku/turbo-bucket
 mcpls.json,Small-Ku/turbo-bucket
 stardb-exporter.json,Small-Ku/turbo-bucket
-gemini-cli.json,Small-Ku/turbo-bucket
+gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
 source-han-sans-vf-ttc.json,Small-Ku/turbo-bucket
 sarasa-super-ttc.json,Small-Ku/turbo-bucket
 antigravity-manager.json,Small-Ku/turbo-bucket
