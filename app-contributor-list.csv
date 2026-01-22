@@ -2351,7 +2351,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -3426,7 +3426,7 @@ flowus.json,chawyehsu/dorado
 chatbox-ce.json,chawyehsu/dorado
 wechatwork_chawyehsu.json,chawyehsu/dorado
 kt-connect.json,chawyehsu/dorado
-bypass_chawyehsu.json,chawyehsu/dorado
+bypass.json,chawyehsu/dorado
 rustup-np.json,chawyehsu/dorado
 pstools.json,chawyehsu/dorado
 opentrace_chawyehsu.json,chawyehsu/dorado
@@ -4153,7 +4153,7 @@ vlc-cn.json,Scoopforge/Extras-CN
 msys2-cn_Scoopforge.json,Scoopforge/Extras-CN
 freetex.json,Scoopforge/Extras-CN
 qqmusic.json,Scoopforge/Extras-CN
-neteasemusic.json,Scoopforge/Extras-CN
+neteasemusic_Scoopforge.json,Scoopforge/Extras-CN
 aboboo-full.json,Scoopforge/Extras-CN
 baidupcs-go.json,Scoopforge/Extras-CN
 libreoffice-cn.json,Scoopforge/Extras-CN
@@ -4308,7 +4308,7 @@ collapse-launcher.json,Calinou/scoop-games
 sudachi.json,Calinou/scoop-games
 golly.json,Calinou/scoop-games
 chunker-cli.json,Calinou/scoop-games
-starward.json,Calinou/scoop-games
+starward_Calinou.json,Calinou/scoop-games
 mindustry-server.json,Calinou/scoop-games
 witchblast.json,Calinou/scoop-games
 racelab.json,Calinou/scoop-games
@@ -5350,7 +5350,7 @@ gradle6.json,ScoopInstaller/Versions
 idea-rc.json,ScoopInstaller/Versions
 deepgit402.json,ScoopInstaller/Versions
 libreoffice-pre.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 orca3.json,ScoopInstaller/Versions
 postgresql15.json,ScoopInstaller/Versions
 qt-creator-beta.json,ScoopInstaller/Versions
@@ -10317,7 +10317,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
@@ -11348,7 +11348,7 @@ dismplus.json,WinApps-share/WinApps-bucket
 lanzouyun-disk_WinApps-share.json,WinApps-share/WinApps-bucket
 sharex_WinApps-share.json,WinApps-share/WinApps-bucket
 flclash_WinApps-share.json,WinApps-share/WinApps-bucket
-bypass.json,WinApps-share/WinApps-bucket
+bypass_WinApps-share.json,WinApps-share/WinApps-bucket
 spleeter-gui.json,WinApps-share/WinApps-bucket
 trollrestore.json,WinApps-share/WinApps-bucket
 google-chrome.json,WinApps-share/WinApps-bucket
@@ -12472,7 +12472,7 @@ claude-code_Small-Ku.json,Small-Ku/turbo-bucket
 vencord-installer_Small-Ku.json,Small-Ku/turbo-bucket
 stuntman.json,Small-Ku/turbo-bucket
 gpu-z-portable.json,Small-Ku/turbo-bucket
-lapce-nightly_Small-Ku.json,Small-Ku/turbo-bucket
+lapce-nightly.json,Small-Ku/turbo-bucket
 otfcc_Small-Ku.json,Small-Ku/turbo-bucket
 untrunc.json,Small-Ku/turbo-bucket
 zluda.json,Small-Ku/turbo-bucket
@@ -15403,6 +15403,7 @@ uivonim_younger-1.json,younger-1/scoop-it
 epick.json,younger-1/scoop-it
 sqlite3dll.json,younger-1/scoop-it
 selene_younger-1.json,younger-1/scoop-it
+vlang_younger-1.json,younger-1/scoop-it
 im-select.json,younger-1/scoop-it
 stylua_younger-1.json,younger-1/scoop-it
 hello.json,younger-1/scoop-it
