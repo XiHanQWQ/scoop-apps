@@ -5350,7 +5350,7 @@ gradle6.json,ScoopInstaller/Versions
 idea-rc.json,ScoopInstaller/Versions
 deepgit402.json,ScoopInstaller/Versions
 libreoffice-pre.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 orca3.json,ScoopInstaller/Versions
 postgresql15.json,ScoopInstaller/Versions
 qt-creator-beta.json,ScoopInstaller/Versions
@@ -9664,6 +9664,7 @@ alist_DoveBoy.json,DoveBoy/Apps
 ssrr-windows.json,DoveBoy/Apps
 nvm_DoveBoy.json,DoveBoy/Apps
 xx-net-win7.json,DoveBoy/Apps
+ytdownloader-portable.json,DoveBoy/Apps
 reqable_DoveBoy.json,DoveBoy/Apps
 daisy.json,DoveBoy/Apps
 winfetch_DoveBoy.json,DoveBoy/Apps
@@ -9726,7 +9727,7 @@ irfanview_DoveBoy.json,DoveBoy/Apps
 pscompletions_DoveBoy.json,DoveBoy/Apps
 forkgram_DoveBoy.json,DoveBoy/Apps
 varia-portable.json,DoveBoy/Apps
-everything-beta.json,DoveBoy/Apps
+everything-beta_DoveBoy.json,DoveBoy/Apps
 nilesoft-shell_DoveBoy.json,DoveBoy/Apps
 picturecleaner.json,DoveBoy/Apps
 ofgb.json,DoveBoy/Apps
@@ -9800,6 +9801,7 @@ bilibili_DoveBoy.json,DoveBoy/Apps
 wpsoffice-cn.json,DoveBoy/Apps
 restart-explorer_DoveBoy.json,DoveBoy/Apps
 optimizer_DoveBoy.json,DoveBoy/Apps
+letrecovery.json,DoveBoy/Apps
 text-grab_DoveBoy.json,DoveBoy/Apps
 nekoray_DoveBoy.json,DoveBoy/Apps
 pnpm-tab-completion.json,DoveBoy/Apps
@@ -9846,6 +9848,7 @@ linuxdoc.json,DoveBoy/Apps
 inputshare.json,DoveBoy/Apps
 wxdatviewerautoexportrust.json,DoveBoy/Apps
 everything-cli_DoveBoy.json,DoveBoy/Apps
+ytdownloader.json,DoveBoy/Apps
 clashcross.json,DoveBoy/Apps
 etcher-portable.json,DoveBoy/Apps
 clumsy_DoveBoy.json,DoveBoy/Apps
@@ -10029,7 +10032,6 @@ john-the-ripper.json,DoveBoy/Apps
 doc-downloader.json,DoveBoy/Apps
 music-you.json,DoveBoy/Apps
 clash-rev-compatible.json,DoveBoy/Apps
-everything-np_DoveBoy.json,DoveBoy/Apps
 firewallappblocker_DoveBoy.json,DoveBoy/Apps
 neovim_DoveBoy.json,DoveBoy/Apps
 screencapture_DoveBoy.json,DoveBoy/Apps
@@ -10176,7 +10178,7 @@ shadowsocksr-hmbsbige_DoveBoy.json,DoveBoy/Apps
 pwsh_DoveBoy.json,DoveBoy/Apps
 chfs-tab-completion.json,DoveBoy/Apps
 openlist_DoveBoy.json,DoveBoy/Apps
-neteaseuu_DoveBoy.json,DoveBoy/Apps
+neteaseuu.json,DoveBoy/Apps
 officetoolplus-with-runtime.json,DoveBoy/Apps
 psreadline_DoveBoy.json,DoveBoy/Apps
 easymusic.json,DoveBoy/Apps
@@ -13072,7 +13074,7 @@ comfyui.json,Scoopforge/Extras-Plus
 texlive_Scoopforge.json,Scoopforge/Extras-Plus
 jupyterlab-desktop.json,Scoopforge/Extras-Plus
 netlogo.json,Scoopforge/Extras-Plus
-ytdownloader.json,Scoopforge/Extras-Plus
+ytdownloader_Scoopforge.json,Scoopforge/Extras-Plus
 musicat.json,Scoopforge/Extras-Plus
 configure-defender.json,Scoopforge/Extras-Plus
 autodarkmode_Scoopforge.json,Scoopforge/Extras-Plus
@@ -15406,7 +15408,6 @@ uivonim_younger-1.json,younger-1/scoop-it
 epick.json,younger-1/scoop-it
 sqlite3dll.json,younger-1/scoop-it
 selene_younger-1.json,younger-1/scoop-it
-vlang_younger-1.json,younger-1/scoop-it
 im-select.json,younger-1/scoop-it
 stylua_younger-1.json,younger-1/scoop-it
 hello.json,younger-1/scoop-it
