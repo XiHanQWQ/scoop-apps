@@ -8536,7 +8536,7 @@ dolphin-beta.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 steam-rom-manager_hermanjustnu.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
-mgba-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+mgba-dev.json,hermanjustnu/scoop-emulators
 sameboy_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 cemuhook.json,hermanjustnu/scoop-emulators
@@ -8712,7 +8712,7 @@ igdm_ViCrack.json,ViCrack/scoop-bucket
 maye.json,ViCrack/scoop-bucket
 dnsx_ViCrack.json,ViCrack/scoop-bucket
 fastgithub.json,ViCrack/scoop-bucket
-httpx_ViCrack.json,ViCrack/scoop-bucket
+httpx.json,ViCrack/scoop-bucket
 kscan_ViCrack.json,ViCrack/scoop-bucket
 ddns-go_ViCrack.json,ViCrack/scoop-bucket
 chmac.json,ViCrack/scoop-bucket
@@ -8801,6 +8801,7 @@ fapro.json,ViCrack/scoop-bucket
 cpuz-cn.json,ViCrack/scoop-bucket
 ffuf_ViCrack.json,ViCrack/scoop-bucket
 extremedumper.json,ViCrack/scoop-bucket
+shiroexploit.json,ViCrack/scoop-bucket
 confuserex-gui.json,ViCrack/scoop-bucket
 mdut_ViCrack.json,ViCrack/scoop-bucket
 pidkey.json,ViCrack/scoop-bucket
@@ -10023,7 +10024,7 @@ backup-start-menu-layout_DoveBoy.json,DoveBoy/Apps
 fix-print-spooler_DoveBoy.json,DoveBoy/Apps
 ttime-portable.json,DoveBoy/Apps
 serverbox_DoveBoy.json,DoveBoy/Apps
-escrcpy_DoveBoy.json,DoveBoy/Apps
+escrcpy.json,DoveBoy/Apps
 sed_DoveBoy.json,DoveBoy/Apps
 energystar.json,DoveBoy/Apps
 anyburn_DoveBoy.json,DoveBoy/Apps
