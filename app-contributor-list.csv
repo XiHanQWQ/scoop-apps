@@ -9078,7 +9078,6 @@ ollama_akirco.json,akirco/aki-apps
 x264_akirco.json,akirco/aki-apps
 mysql_akirco.json,akirco/aki-apps
 notion_akirco.json,akirco/aki-apps
-cursor_akirco.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
 ima-copilot.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
@@ -9730,7 +9729,7 @@ irfanview_DoveBoy.json,DoveBoy/Apps
 pscompletions_DoveBoy.json,DoveBoy/Apps
 forkgram_DoveBoy.json,DoveBoy/Apps
 varia-portable.json,DoveBoy/Apps
-everything-beta_DoveBoy.json,DoveBoy/Apps
+everything-beta.json,DoveBoy/Apps
 nilesoft-shell_DoveBoy.json,DoveBoy/Apps
 picturecleaner.json,DoveBoy/Apps
 ofgb.json,DoveBoy/Apps
@@ -10451,7 +10450,7 @@ opentrace_hu3rror.json,hu3rror/scoop-muggle
 bg3-mod-manager.json,hu3rror/scoop-muggle
 manhuagui-downloader.json,hu3rror/scoop-muggle
 neeview_hu3rror.json,hu3rror/scoop-muggle
-witsy_hu3rror.json,hu3rror/scoop-muggle
+witsy.json,hu3rror/scoop-muggle
 mosdns-cn_hu3rror.json,hu3rror/scoop-muggle
 nsudo.json,hu3rror/scoop-muggle
 wonderpen_hu3rror.json,hu3rror/scoop-muggle
@@ -11923,7 +11922,7 @@ phraze.json,aliesbelik/poldi
 mcat.json,aliesbelik/poldi
 byedpi.json,aliesbelik/poldi
 query-json.json,aliesbelik/poldi
-fresh_aliesbelik.json,aliesbelik/poldi
+fresh.json,aliesbelik/poldi
 oxker.json,aliesbelik/poldi
 waitforit.json,aliesbelik/poldi
 dry.json,aliesbelik/poldi
