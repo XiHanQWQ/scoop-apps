@@ -8231,7 +8231,7 @@ YankNote.json,dodorz/scoop
 MarkdownPad.json,dodorz/scoop
 ZYPlayer.json,dodorz/scoop
 AdguardHome.json,dodorz/scoop
-Everything_dodorz.json,dodorz/scoop
+Everything.json,dodorz/scoop
 GitNote.json,dodorz/scoop
 SquirrelShell.json,dodorz/scoop
 iJianJi.json,dodorz/scoop
@@ -8654,7 +8654,7 @@ junction.json,niheaven/scoop-sysinternals
 diskview.json,niheaven/scoop-sysinternals
 mupen64plus.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
-rmg_borger.json,borger/scoop-emulators
+rmg.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
 starship_borger.json,borger/scoop-emulators
@@ -9729,7 +9729,7 @@ irfanview_DoveBoy.json,DoveBoy/Apps
 pscompletions_DoveBoy.json,DoveBoy/Apps
 forkgram_DoveBoy.json,DoveBoy/Apps
 varia-portable.json,DoveBoy/Apps
-everything-beta.json,DoveBoy/Apps
+everything-beta_DoveBoy.json,DoveBoy/Apps
 nilesoft-shell_DoveBoy.json,DoveBoy/Apps
 picturecleaner.json,DoveBoy/Apps
 ofgb.json,DoveBoy/Apps
@@ -9916,7 +9916,7 @@ imfile-portable.json,DoveBoy/Apps
 mediago.json,DoveBoy/Apps
 dandanplay_DoveBoy.json,DoveBoy/Apps
 ipcalc_DoveBoy.json,DoveBoy/Apps
-everything-lite_DoveBoy.json,DoveBoy/Apps
+everything-lite.json,DoveBoy/Apps
 xcmusic.json,DoveBoy/Apps
 perl_DoveBoy.json,DoveBoy/Apps
 b23downloader-win7.json,DoveBoy/Apps
@@ -10450,7 +10450,7 @@ opentrace_hu3rror.json,hu3rror/scoop-muggle
 bg3-mod-manager.json,hu3rror/scoop-muggle
 manhuagui-downloader.json,hu3rror/scoop-muggle
 neeview_hu3rror.json,hu3rror/scoop-muggle
-witsy.json,hu3rror/scoop-muggle
+witsy_hu3rror.json,hu3rror/scoop-muggle
 mosdns-cn_hu3rror.json,hu3rror/scoop-muggle
 nsudo.json,hu3rror/scoop-muggle
 wonderpen_hu3rror.json,hu3rror/scoop-muggle
@@ -11922,7 +11922,7 @@ phraze.json,aliesbelik/poldi
 mcat.json,aliesbelik/poldi
 byedpi.json,aliesbelik/poldi
 query-json.json,aliesbelik/poldi
-fresh.json,aliesbelik/poldi
+fresh_aliesbelik.json,aliesbelik/poldi
 oxker.json,aliesbelik/poldi
 waitforit.json,aliesbelik/poldi
 dry.json,aliesbelik/poldi
