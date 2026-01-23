@@ -8547,7 +8547,7 @@ dolphin-beta.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 steam-rom-manager_hermanjustnu.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
-mgba-dev.json,hermanjustnu/scoop-emulators
+mgba-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 sameboy_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 cemuhook.json,hermanjustnu/scoop-emulators
@@ -9553,6 +9553,7 @@ youtube-dl_DoveBoy.json,DoveBoy/Apps
 spotx.json,DoveBoy/Apps
 v2rayn.json,DoveBoy/Apps
 windows11-classic-context-menu_DoveBoy.json,DoveBoy/Apps
+hwinfo_DoveBoy.json,DoveBoy/Apps
 posh-git_DoveBoy.json,DoveBoy/Apps
 crystaldiskmark-shizuku-edition_DoveBoy.json,DoveBoy/Apps
 batterymode-portable.json,DoveBoy/Apps
@@ -9691,7 +9692,7 @@ volta-tab-completion.json,DoveBoy/Apps
 ani-beta.json,DoveBoy/Apps
 ipinfo.json,DoveBoy/Apps
 quasar_DoveBoy.json,DoveBoy/Apps
-mrrss_DoveBoy.json,DoveBoy/Apps
+mrrss.json,DoveBoy/Apps
 pikapika.json,DoveBoy/Apps
 python-tab-completion.json,DoveBoy/Apps
 coco.json,DoveBoy/Apps
@@ -9736,7 +9737,7 @@ v2rayn-SelfContained.json,DoveBoy/Apps
 pixiv-omina.json,DoveBoy/Apps
 dreamscene2.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
-pscompletions.json,DoveBoy/Apps
+pscompletions_DoveBoy.json,DoveBoy/Apps
 forkgram_DoveBoy.json,DoveBoy/Apps
 varia-portable.json,DoveBoy/Apps
 everything-beta_DoveBoy.json,DoveBoy/Apps
@@ -10882,7 +10883,7 @@ programmers-notepad.json,naderi/scoop-bucket
 xdm_naderi.json,naderi/scoop-bucket
 coinomi.json,naderi/scoop-bucket
 super-msconfig.json,naderi/scoop-bucket
-pympress.json,naderi/scoop-bucket
+pympress_naderi.json,naderi/scoop-bucket
 texniccenter_naderi.json,naderi/scoop-bucket
 unsplash-wallpapers.json,naderi/scoop-bucket
 mediathekview.json,naderi/scoop-bucket
@@ -12998,7 +12999,7 @@ bbdown_aoisummer.json,aoisummer/scoop-bucket
 windowgrid_aoisummer.json,aoisummer/scoop-bucket
 crystaldiskinfo-aoi.json,aoisummer/scoop-bucket
 ddtv2.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn.json,aoisummer/scoop-bucket
 lunatranslator_aoisummer.json,aoisummer/scoop-bucket
 shadowsocks-rust-gnu.json,aoisummer/scoop-bucket
 php83-nts.json,aoisummer/scoop-bucket
