@@ -8231,7 +8231,7 @@ YankNote.json,dodorz/scoop
 MarkdownPad.json,dodorz/scoop
 ZYPlayer.json,dodorz/scoop
 AdguardHome.json,dodorz/scoop
-Everything.json,dodorz/scoop
+Everything_dodorz.json,dodorz/scoop
 GitNote.json,dodorz/scoop
 SquirrelShell.json,dodorz/scoop
 iJianJi.json,dodorz/scoop
@@ -8653,8 +8653,8 @@ psloggedon.json,niheaven/scoop-sysinternals
 junction.json,niheaven/scoop-sysinternals
 diskview.json,niheaven/scoop-sysinternals
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
-rmg.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
+rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
 starship_borger.json,borger/scoop-emulators
@@ -8756,7 +8756,7 @@ w3cschool.json,ViCrack/scoop-bucket
 cudatext-cn.json,ViCrack/scoop-bucket
 contextmenumanager_ViCrack.json,ViCrack/scoop-bucket
 dev-sidecar.json,ViCrack/scoop-bucket
-afrog_ViCrack.json,ViCrack/scoop-bucket
+afrog.json,ViCrack/scoop-bucket
 siyuan-ce.json,ViCrack/scoop-bucket
 wub.json,ViCrack/scoop-bucket
 pixpin_ViCrack.json,ViCrack/scoop-bucket
@@ -8852,7 +8852,7 @@ java-echo-generator-release.json,ViCrack/scoop-bucket
 java-memshell-generator.json,ViCrack/scoop-bucket
 ja.json,ViCrack/scoop-bucket
 siyuan.json,ViCrack/scoop-bucket
-yakit_ViCrack.json,ViCrack/scoop-bucket
+yakit.json,ViCrack/scoop-bucket
 treesize_ViCrack.json,ViCrack/scoop-bucket
 MsbuildLog.json,wangzq/scoop-bucket
 vim8.json,wangzq/scoop-bucket
@@ -9916,7 +9916,7 @@ imfile-portable.json,DoveBoy/Apps
 mediago.json,DoveBoy/Apps
 dandanplay_DoveBoy.json,DoveBoy/Apps
 ipcalc_DoveBoy.json,DoveBoy/Apps
-everything-lite.json,DoveBoy/Apps
+everything-lite_DoveBoy.json,DoveBoy/Apps
 xcmusic.json,DoveBoy/Apps
 perl_DoveBoy.json,DoveBoy/Apps
 b23downloader-win7.json,DoveBoy/Apps
@@ -10899,6 +10899,7 @@ ganjoor.json,naderi/scoop-bucket
 cwtch.json,naderi/scoop-bucket
 clipx_naderi.json,naderi/scoop-bucket
 famistudio_naderi.json,naderi/scoop-bucket
+faster-whisper-xxl.json,naderi/scoop-bucket
 smart-svg-viewer.json,naderi/scoop-bucket
 wealthfolio_naderi.json,naderi/scoop-bucket
 cmder-powerline-prompt.json,naderi/scoop-bucket
@@ -10992,6 +10993,7 @@ scoop-completion_naderi.json,naderi/scoop-bucket
 proton-pass.json,naderi/scoop-bucket
 fixwin-11.json,naderi/scoop-bucket
 teamviewer-portable.json,naderi/scoop-bucket
+faster-whisper-standalone.json,naderi/scoop-bucket
 ucalendar-portable.json,naderi/scoop-bucket
 winauth-portable.json,naderi/scoop-bucket
 justcolorpicker_naderi.json,naderi/scoop-bucket
@@ -12466,7 +12468,7 @@ ddu_Small-Ku.json,Small-Ku/turbo-bucket
 kondo_Small-Ku.json,Small-Ku/turbo-bucket
 mcpls.json,Small-Ku/turbo-bucket
 stardb-exporter.json,Small-Ku/turbo-bucket
-gemini-cli.json,Small-Ku/turbo-bucket
+gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
 source-han-sans-vf-ttc.json,Small-Ku/turbo-bucket
 sarasa-super-ttc.json,Small-Ku/turbo-bucket
 antigravity-manager.json,Small-Ku/turbo-bucket
