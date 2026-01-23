@@ -1,21 +1,21 @@
 {
-    "version": "2026-01-23-aea9d20",
-    "description": "Nintendo Game Boy Advance emulator",
+    "version": "8957-20260123",
+    "description": "A fast, accurate, and portable GBA emulator (development version)",
     "homepage": "https://mgba.io/",
     "license": {
         "identifier": "MPL-2.0",
         "url": "https://github.com/mgba-emu/mgba/blob/master/LICENSE"
     },
     "architecture": {
-        "64bit": {
-            "url": "https://s3.amazonaws.com/mgba/build/mGBA-build-2026-01-23-win64-8958-aea9d20eff2c42aa8a802c1364b23b7f78524111.7z",
-            "hash": "ae7264266cfd916c8eebe6b18fd1710ecf587cdf5cac7fc1baec6e45044d3685",
-            "extract_dir": "mGBA-build-2026-01-23-win64-8958-aea9d20eff2c42aa8a802c1364b23b7f78524111"
-        },
         "32bit": {
-            "url": "https://s3.amazonaws.com/mgba/build/mGBA-build-2026-01-23-win32-8958-aea9d20eff2c42aa8a802c1364b23b7f78524111.7z",
-            "hash": "78c16519727a00654fc616a47012150ad25a5743ae10456d8a824769a07ec7e8",
-            "extract_dir": "mGBA-build-2026-01-23-win32-8958-aea9d20eff2c42aa8a802c1364b23b7f78524111"
+            "url": "https://s3.amazonaws.com/mgba/build/mGBA-build-2026-01-23-win32-8957-54e50bd488f75ff2c4ed87d4c862a433c37c4729.7z",
+            "hash": "e57e785949dff3eb3ad5708a1a2913b7469a4df59ff2624e20d27b61d36fec83",
+            "extract_dir": "mGBA-build-2026-01-23-win32-8957-54e50bd488f75ff2c4ed87d4c862a433c37c4729"
+        },
+        "64bit": {
+            "url": "https://s3.amazonaws.com/mgba/build/mGBA-build-2026-01-23-win64-8957-54e50bd488f75ff2c4ed87d4c862a433c37c4729.7z",
+            "hash": "a4be5a64f7676018f999d72240a09333f0e0ad980c66c76660bafde22680d027",
+            "extract_dir": "mGBA-build-2026-01-23-win64-8957-54e50bd488f75ff2c4ed87d4c862a433c37c4729"
         }
     },
     "pre_install": [
@@ -49,7 +49,7 @@
     "shortcuts": [
         [
             "mGBA.exe",
-            "Nintendo Gane Boy Advance [gba][mgba] (dev)"
+            "mGBA (dev)"
         ]
     ],
     "persist": [
@@ -66,18 +66,18 @@
     ],
     "checkver": {
         "url": "https://mgba.io/builds/1/",
-        "regex": "build-(?<year>20\\d{2})-(?<month>\\d{2})-(?<day>\\d{2})-win32-(?<ver>[\\d]+)-(?<git>(?<shortgit>\\w{7})\\w{33})\\.7z",
-        "replace": "${year}-${month}-${day}-${shortgit}"
+        "regex": "build-(?<year>20\\d{2})-(?<month>\\d{2})-(?<day>\\d{2})-win32-(?<ver>[\\d]+)-(?<git>\\w{40})\\.7z",
+        "replace": "$4-$1$2$3"
     },
     "autoupdate": {
         "architecture": {
-            "64bit": {
-                "url": "https://s3.amazonaws.com/mgba/build/mGBA-build-$matchYear-$matchMonth-$matchDay-win64-$matchVer-$matchGit.7z",
-                "extract_dir": "mGBA-build-$matchYear-$matchMonth-$matchDay-win64-$matchVer-$matchGit"
-            },
             "32bit": {
                 "url": "https://s3.amazonaws.com/mgba/build/mGBA-build-$matchYear-$matchMonth-$matchDay-win32-$matchVer-$matchGit.7z",
                 "extract_dir": "mGBA-build-$matchYear-$matchMonth-$matchDay-win32-$matchVer-$matchGit"
+            },
+            "64bit": {
+                "url": "https://s3.amazonaws.com/mgba/build/mGBA-build-$matchYear-$matchMonth-$matchDay-win64-$matchVer-$matchGit.7z",
+                "extract_dir": "mGBA-build-$matchYear-$matchMonth-$matchDay-win64-$matchVer-$matchGit"
             }
         }
     }

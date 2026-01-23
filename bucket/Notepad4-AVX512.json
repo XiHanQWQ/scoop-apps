@@ -5,8 +5,8 @@
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/zufuliu/notepad4/releases/download/v26.01r5986/Notepad4_i18n_x64_v26.01r5986.zip",
-            "hash": "ba41ccee8cc1bb58d8826bb2fbe65f21f4e906bf097c3206a95628848ca655e3"
+            "url": "https://github.com/zufuliu/notepad4/releases/download/v26.01r5986/Notepad4_i18n_AVX512_v26.01r5986.zip",
+            "hash": "3636cb302656d8bd43454847c4140157545ca3419bbaf4ea57e20221031148fa"
         },
         "32bit": {
             "url": "https://github.com/zufuliu/notepad4/releases/download/v26.01r5986/Notepad4_i18n_Win32_v26.01r5986.zip",
@@ -39,7 +39,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/zufuliu/notepad4/releases/download/v$version/Notepad4_i18n_x64_v$version.zip"
+                "url": "https://github.com/zufuliu/notepad4/releases/download/v$version/Notepad4_i18n_AVX512_v$version.zip"
             },
             "32bit": {
                 "url": "https://github.com/zufuliu/notepad4/releases/download/v$version/Notepad4_i18n_Win32_v$version.zip"
