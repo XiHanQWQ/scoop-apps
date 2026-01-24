@@ -8663,7 +8663,7 @@ psloggedon.json,niheaven/scoop-sysinternals
 junction.json,niheaven/scoop-sysinternals
 diskview.json,niheaven/scoop-sysinternals
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -10490,7 +10490,7 @@ sonarr.json,amorphobia/siku
 arturo_amorphobia.json,amorphobia/siku
 dvm_amorphobia.json,amorphobia/siku
 yakc.json,amorphobia/siku
-filebrowser_amorphobia.json,amorphobia/siku
+filebrowser.json,amorphobia/siku
 radarr_amorphobia.json,amorphobia/siku
 pcl2-ce.json,amorphobia/siku
 arturo-nightly.json,amorphobia/siku
