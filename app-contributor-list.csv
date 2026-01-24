@@ -9739,6 +9739,7 @@ pixiv-omina.json,DoveBoy/Apps
 dreamscene2.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
 pscompletions_DoveBoy.json,DoveBoy/Apps
+cudatext.json,DoveBoy/Apps
 forkgram_DoveBoy.json,DoveBoy/Apps
 varia-portable.json,DoveBoy/Apps
 everything-beta_DoveBoy.json,DoveBoy/Apps
@@ -15016,7 +15017,7 @@ r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 PowerShell_maboloshi.json,maboloshi/scoop-private
 notepad4_maboloshi.json,maboloshi/scoop-private
 ima-copilot_maboloshi.json,maboloshi/scoop-private
-microsoftedge-beta_maboloshi.json,maboloshi/scoop-private
+microsoftedge-beta.json,maboloshi/scoop-private
 ffmpeg-N_m3u8DL-CLI.json,maboloshi/scoop-private
 sarasa-gothic-sc-excerpt.json,maboloshi/scoop-private
 monitorian.json,maboloshi/scoop-private
