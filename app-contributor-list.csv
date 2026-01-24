@@ -2351,7 +2351,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -6295,7 +6295,7 @@ devtoys-np.json,ScoopInstaller/Nonportable
 workman-p-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 office-365-apps-minimal-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 burp-suite-community-np.json,ScoopInstaller/Nonportable
-virtualbox-np_ScoopInstaller.json,ScoopInstaller/Nonportable
+virtualbox-np.json,ScoopInstaller/Nonportable
 burp-suite-pro-np.json,ScoopInstaller/Nonportable
 nvidia-display-driver-np.json,ScoopInstaller/Nonportable
 lavfilters-np.json,ScoopInstaller/Nonportable
@@ -6307,7 +6307,7 @@ portmaster-np.json,ScoopInstaller/Nonportable
 vmware-workstation-player-np.json,ScoopInstaller/Nonportable
 wireguard-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 qttabbar-np.json,ScoopInstaller/Nonportable
-virtualbox-with-extension-pack-np_ScoopInstaller.json,ScoopInstaller/Nonportable
+virtualbox-with-extension-pack-np.json,ScoopInstaller/Nonportable
 bluestacks-np.json,ScoopInstaller/Nonportable
 nvidia-display-driver-with-3d-vision-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 zadig-np.json,ScoopInstaller/Nonportable
@@ -9408,6 +9408,7 @@ joyshockmapper.json,kiennq/scoop-misc
 win32yank_kiennq.json,kiennq/scoop-misc
 sak_kiennq.json,kiennq/scoop-misc
 cemuhook-webgyro.json,kiennq/scoop-misc
+opencode-x.json,kiennq/scoop-misc
 emacs-lsp-booster.json,kiennq/scoop-misc
 sourcedepot.json,kiennq/scoop-misc
 golang.json,kiennq/scoop-misc
@@ -9692,7 +9693,7 @@ volta-tab-completion.json,DoveBoy/Apps
 ani-beta.json,DoveBoy/Apps
 ipinfo.json,DoveBoy/Apps
 quasar_DoveBoy.json,DoveBoy/Apps
-mrrss.json,DoveBoy/Apps
+mrrss_DoveBoy.json,DoveBoy/Apps
 pikapika.json,DoveBoy/Apps
 python-tab-completion.json,DoveBoy/Apps
 coco.json,DoveBoy/Apps
@@ -9925,7 +9926,7 @@ littletips.json,DoveBoy/Apps
 maple-file.json,DoveBoy/Apps
 imfile-portable.json,DoveBoy/Apps
 mediago.json,DoveBoy/Apps
-dandanplay.json,DoveBoy/Apps
+dandanplay_DoveBoy.json,DoveBoy/Apps
 ipcalc_DoveBoy.json,DoveBoy/Apps
 everything-lite_DoveBoy.json,DoveBoy/Apps
 xcmusic.json,DoveBoy/Apps
@@ -10334,7 +10335,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
@@ -12999,7 +13000,7 @@ bbdown_aoisummer.json,aoisummer/scoop-bucket
 windowgrid_aoisummer.json,aoisummer/scoop-bucket
 crystaldiskinfo-aoi.json,aoisummer/scoop-bucket
 ddtv2.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 lunatranslator_aoisummer.json,aoisummer/scoop-bucket
 shadowsocks-rust-gnu.json,aoisummer/scoop-bucket
 php83-nts.json,aoisummer/scoop-bucket
