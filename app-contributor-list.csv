@@ -8547,7 +8547,7 @@ dolphin-beta.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 steam-rom-manager_hermanjustnu.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
-mgba-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+mgba-dev.json,hermanjustnu/scoop-emulators
 sameboy_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 cemuhook.json,hermanjustnu/scoop-emulators
@@ -9221,7 +9221,7 @@ wrangler_akirco.json,akirco/aki-apps
 qq-nt_akirco.json,akirco/aki-apps
 xh_akirco.json,akirco/aki-apps
 qrcp_akirco.json,akirco/aki-apps
-electerm_akirco.json,akirco/aki-apps
+electerm.json,akirco/aki-apps
 gh_akirco.json,akirco/aki-apps
 vcredist2013_akirco.json,akirco/aki-apps
 lwc_akirco.json,akirco/aki-apps
@@ -9848,6 +9848,7 @@ http-downloader_DoveBoy.json,DoveBoy/Apps
 runastool_DoveBoy.json,DoveBoy/Apps
 delapp_DoveBoy.json,DoveBoy/Apps
 pikatorrent.json,DoveBoy/Apps
+electerm_DoveBoy.json,DoveBoy/Apps
 gh_DoveBoy.json,DoveBoy/Apps
 waveterm_DoveBoy.json,DoveBoy/Apps
 pot-desktop_DoveBoy.json,DoveBoy/Apps
@@ -9993,7 +9994,7 @@ cnnettool.json,DoveBoy/Apps
 potplayer_DoveBoy.json,DoveBoy/Apps
 translumo.json,DoveBoy/Apps
 clash-rev-cgo.json,DoveBoy/Apps
-clash-verge-rev_DoveBoy.json,DoveBoy/Apps
+clash-verge-rev.json,DoveBoy/Apps
 b23downloader_DoveBoy.json,DoveBoy/Apps
 glow_DoveBoy.json,DoveBoy/Apps
 windowscleaner.json,DoveBoy/Apps
@@ -10554,7 +10555,6 @@ PicaComic.json,hu3rror/scoop-muggle
 spek-X.json,hu3rror/scoop-muggle
 wpd.json,hu3rror/scoop-muggle
 defender-control_hu3rror.json,hu3rror/scoop-muggle
-163MusicLyrics-pro.json,hu3rror/scoop-muggle
 betterjoy-lts.json,hu3rror/scoop-muggle
 cdnlookup.json,hu3rror/scoop-muggle
 geminicommit-cli.json,hu3rror/scoop-muggle
@@ -10614,13 +10614,13 @@ dopamine-legacy.json,hu3rror/scoop-muggle
 simpread-sync.json,hu3rror/scoop-muggle
 FFRename-pro.json,hu3rror/scoop-muggle
 RyuSAK_hu3rror.json,hu3rror/scoop-muggle
+163MusicLyrics-pro-6.5.json,hu3rror/scoop-muggle
 smartzip.json,hu3rror/scoop-muggle
 md5checker.json,hu3rror/scoop-muggle
 cheat-engine_hu3rror.json,hu3rror/scoop-muggle
 umi-ocr-paddle_hu3rror.json,hu3rror/scoop-muggle
 lapce_hu3rror.json,hu3rror/scoop-muggle
 caesium_hu3rror.json,hu3rror/scoop-muggle
-163MusicLyrics-lite.json,hu3rror/scoop-muggle
 uup-download-wizard-converter.json,hu3rror/scoop-muggle
 briss.json,hu3rror/scoop-muggle
 emby_carnival.json,hu3rror/scoop-muggle
@@ -10634,6 +10634,7 @@ desktopnaotu_hu3rror.json,hu3rror/scoop-muggle
 NsEmuTools.json,hu3rror/scoop-muggle
 greenluma-gui.json,hu3rror/scoop-muggle
 JumpToFolder.json,hu3rror/scoop-muggle
+163MusicLyrics-lite-6.5.json,hu3rror/scoop-muggle
 yomikiru.json,hu3rror/scoop-muggle
 DocBox.json,hu3rror/scoop-muggle
 roadkil-disk-image.json,hu3rror/scoop-muggle
@@ -10657,6 +10658,7 @@ pdfpatcher_hu3rror.json,hu3rror/scoop-muggle
 animeko_hu3rror.json,hu3rror/scoop-muggle
 eza_hu3rror.json,hu3rror/scoop-muggle
 tianruoocr_hu3rror.json,hu3rror/scoop-muggle
+163MusicLyrics_hu3rror.json,hu3rror/scoop-muggle
 umi-ocr-rapid_hu3rror.json,hu3rror/scoop-muggle
 animeko-alpha.json,hu3rror/scoop-muggle
 notepad3_hu3rror.json,hu3rror/scoop-muggle
@@ -15139,6 +15141,7 @@ IBMPlexOT.json,ShuguangSun/sgs-scoop-bucket
 cmake_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 rtools_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 file-converter_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+openwork.json,ShuguangSun/sgs-scoop-bucket
 SarasaGothic-ttc_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 r-4.1.1.json,ShuguangSun/sgs-scoop-bucket
 nodejs_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
