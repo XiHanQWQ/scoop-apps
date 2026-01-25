@@ -2818,7 +2818,7 @@ nextcloud.json,ScoopInstaller/Extras
 wxformbuilder.json,ScoopInstaller/Extras
 claws-mail.json,ScoopInstaller/Extras
 vt-uploader.json,ScoopInstaller/Extras
-registry-finder.json,ScoopInstaller/Extras
+registry-finder_ScoopInstaller.json,ScoopInstaller/Extras
 oranda.json,ScoopInstaller/Extras
 lagrange.json,ScoopInstaller/Extras
 jmkvpropedit.json,ScoopInstaller/Extras
@@ -8828,7 +8828,7 @@ rubick.json,ViCrack/scoop-bucket
 gowitness.json,ViCrack/scoop-bucket
 apifox_ViCrack.json,ViCrack/scoop-bucket
 edx.json,ViCrack/scoop-bucket
-newfiletime_ViCrack.json,ViCrack/scoop-bucket
+newfiletime.json,ViCrack/scoop-bucket
 weflow.json,ViCrack/scoop-bucket
 z0scan.json,ViCrack/scoop-bucket
 rad_ViCrack.json,ViCrack/scoop-bucket
