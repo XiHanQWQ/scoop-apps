@@ -2818,7 +2818,7 @@ nextcloud.json,ScoopInstaller/Extras
 wxformbuilder.json,ScoopInstaller/Extras
 claws-mail.json,ScoopInstaller/Extras
 vt-uploader.json,ScoopInstaller/Extras
-registry-finder_ScoopInstaller.json,ScoopInstaller/Extras
+registry-finder.json,ScoopInstaller/Extras
 oranda.json,ScoopInstaller/Extras
 lagrange.json,ScoopInstaller/Extras
 jmkvpropedit.json,ScoopInstaller/Extras
@@ -8663,7 +8663,7 @@ psloggedon.json,niheaven/scoop-sysinternals
 junction.json,niheaven/scoop-sysinternals
 diskview.json,niheaven/scoop-sysinternals
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -10490,7 +10490,7 @@ sonarr.json,amorphobia/siku
 arturo_amorphobia.json,amorphobia/siku
 dvm_amorphobia.json,amorphobia/siku
 yakc.json,amorphobia/siku
-filebrowser.json,amorphobia/siku
+filebrowser_amorphobia.json,amorphobia/siku
 radarr_amorphobia.json,amorphobia/siku
 pcl2-ce.json,amorphobia/siku
 arturo-nightly.json,amorphobia/siku
@@ -15281,7 +15281,7 @@ r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 PowerShell_maboloshi.json,maboloshi/scoop-private
 notepad4_maboloshi.json,maboloshi/scoop-private
 ima-copilot_maboloshi.json,maboloshi/scoop-private
-microsoftedge-beta.json,maboloshi/scoop-private
+microsoftedge-beta_maboloshi.json,maboloshi/scoop-private
 ffmpeg-N_m3u8DL-CLI.json,maboloshi/scoop-private
 sarasa-gothic-sc-excerpt.json,maboloshi/scoop-private
 monitorian.json,maboloshi/scoop-private
