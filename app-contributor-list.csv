@@ -7647,6 +7647,7 @@ Win32Spy.json,dodorz/scoop
 PuttyTray.json,dodorz/scoop
 PartAssistCmd.json,dodorz/scoop
 VDM.json,dodorz/scoop
+LLVM-MinGW-UCRT.json,dodorz/scoop
 md5sums.json,dodorz/scoop
 AtlassianCLI.json,dodorz/scoop
 wxMEdit.json,dodorz/scoop
@@ -9582,7 +9583,7 @@ watttoolkit.json,DoveBoy/Apps
 fancontrol-net10.0-portable.json,DoveBoy/Apps
 refreshenv_DoveBoy.json,DoveBoy/Apps
 min_DoveBoy.json,DoveBoy/Apps
-cromite_DoveBoy.json,DoveBoy/Apps
+cromite.json,DoveBoy/Apps
 videofusion.json,DoveBoy/Apps
 yasocut.json,DoveBoy/Apps
 wechatrealfriends.json,DoveBoy/Apps
@@ -10061,6 +10062,7 @@ gnirehtet_DoveBoy.json,DoveBoy/Apps
 idm.json,DoveBoy/Apps
 baidupcs-go_DoveBoy.json,DoveBoy/Apps
 windows-update-disabler.json,DoveBoy/Apps
+ciyue.json,DoveBoy/Apps
 droppoint.json,DoveBoy/Apps
 cacert_DoveBoy.json,DoveBoy/Apps
 clickrun.json,DoveBoy/Apps
@@ -12952,6 +12954,7 @@ openra-romanovs-vengeance.json,babo4d/scoop-xrtools
 tonsavemanager.json,babo4d/scoop-xrtools
 cncnet-ts-client.json,babo4d/scoop-xrtools
 revive.json,babo4d/scoop-xrtools
+n64recomp-launcher.json,babo4d/scoop-xrtools
 openvr-desktop-display-portal.json,babo4d/scoop-xrtools
 doomlauncher.json,babo4d/scoop-xrtools
 openra-combined-arms.json,babo4d/scoop-xrtools
