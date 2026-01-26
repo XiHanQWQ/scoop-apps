@@ -8664,7 +8664,7 @@ psloggedon.json,niheaven/scoop-sysinternals
 junction.json,niheaven/scoop-sysinternals
 diskview.json,niheaven/scoop-sysinternals
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -9583,7 +9583,7 @@ watttoolkit.json,DoveBoy/Apps
 fancontrol-net10.0-portable.json,DoveBoy/Apps
 refreshenv_DoveBoy.json,DoveBoy/Apps
 min_DoveBoy.json,DoveBoy/Apps
-cromite.json,DoveBoy/Apps
+cromite_DoveBoy.json,DoveBoy/Apps
 videofusion.json,DoveBoy/Apps
 yasocut.json,DoveBoy/Apps
 wechatrealfriends.json,DoveBoy/Apps
@@ -15194,6 +15194,7 @@ uivonim_younger-1.json,younger-1/scoop-it
 epick.json,younger-1/scoop-it
 sqlite3dll.json,younger-1/scoop-it
 selene_younger-1.json,younger-1/scoop-it
+vlang_younger-1.json,younger-1/scoop-it
 im-select.json,younger-1/scoop-it
 stylua_younger-1.json,younger-1/scoop-it
 hello.json,younger-1/scoop-it
