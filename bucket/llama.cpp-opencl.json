@@ -1,0 +1,43 @@
+{
+    "version": "b7837",
+    "description": "Inference of LLaMA model in pure C/C++ (OpenCL for Adreno GPUs)",
+    "homepage": "https://github.com/ggml-org/llama.cpp",
+    "license": "MIT",
+    "architecture": {
+        "arm64": {
+            "url": "https://github.com/ggml-org/llama.cpp/releases/download/b7837/llama-b7837-bin-win-opencl-adreno-arm64.zip",
+            "hash": "b0c92db30329d50b23a6f598fd26db0dcb41f1ce383e0b501a911bcf32e7bd66"
+        }
+    },
+    "bin": [
+        "llama-batched-bench.exe",
+        "llama-bench.exe",
+        "llama-cli.exe",
+        "llama-completion.exe",
+        "llama-fit-params.exe",
+        "llama-gemma3-cli.exe",
+        "llama-gguf-split.exe",
+        "llama-imatrix.exe",
+        "llama-llava-cli.exe",
+        "llama-minicpmv-cli.exe",
+        "llama-mtmd-cli.exe",
+        "llama-perplexity.exe",
+        "llama-quantize.exe",
+        "llama-qwen2vl-cli.exe",
+        "llama-server.exe",
+        "llama-tokenize.exe",
+        "llama-tts.exe"
+    ],
+    "persist": "models",
+    "checkver": {
+        "github": "https://github.com/ggml-org/llama.cpp",
+        "regex": "/releases/tag/(b[\\d]+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "arm64": {
+                "url": "https://github.com/ggml-org/llama.cpp/releases/download/$version/llama-$version-bin-win-opencl-adreno-arm64.zip"
+            }
+        }
+    }
+}
