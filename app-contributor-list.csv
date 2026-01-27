@@ -3421,6 +3421,7 @@ whois.json,chawyehsu/dorado
 axure.json,chawyehsu/dorado
 texlive-full.json,chawyehsu/dorado
 ledger-live.json,chawyehsu/dorado
+docker-compose_chawyehsu.json,chawyehsu/dorado
 pixitracker_chawyehsu.json,chawyehsu/dorado
 flowus.json,chawyehsu/dorado
 chatbox-ce.json,chawyehsu/dorado
@@ -8566,7 +8567,7 @@ simple64_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 winuae.json,hermanjustnu/scoop-emulators
 retroarch_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary.json,hermanjustnu/scoop-emulators
@@ -8666,7 +8667,7 @@ psloggedon.json,niheaven/scoop-sysinternals
 junction.json,niheaven/scoop-sysinternals
 diskview.json,niheaven/scoop-sysinternals
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -9090,7 +9091,7 @@ aria2_akirco.json,akirco/aki-apps
 ollama_akirco.json,akirco/aki-apps
 x264_akirco.json,akirco/aki-apps
 mysql_akirco.json,akirco/aki-apps
-notion.json,akirco/aki-apps
+notion_akirco.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
 ima-copilot.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
@@ -9327,7 +9328,7 @@ mdcat_akirco.json,akirco/aki-apps
 clashrauto.json,akirco/aki-apps
 deno_akirco.json,akirco/aki-apps
 s_akirco.json,akirco/aki-apps
-windsurf.json,akirco/aki-apps
+windsurf_akirco.json,akirco/aki-apps
 ysyy.json,akirco/aki-apps
 android-sdk_akirco.json,akirco/aki-apps
 time_akirco.json,akirco/aki-apps
@@ -9555,7 +9556,7 @@ winhance.json,DoveBoy/Apps
 zyplayer.json,DoveBoy/Apps
 youtube-dl_DoveBoy.json,DoveBoy/Apps
 spotx.json,DoveBoy/Apps
-v2rayn.json,DoveBoy/Apps
+v2rayn_DoveBoy.json,DoveBoy/Apps
 windows11-classic-context-menu_DoveBoy.json,DoveBoy/Apps
 hwinfo_DoveBoy.json,DoveBoy/Apps
 posh-git_DoveBoy.json,DoveBoy/Apps
@@ -9737,7 +9738,7 @@ pixivbiu.json,DoveBoy/Apps
 reduce-memory_DoveBoy.json,DoveBoy/Apps
 yarn-completion.json,DoveBoy/Apps
 nhentai-cross.json,DoveBoy/Apps
-v2rayn-SelfContained.json,DoveBoy/Apps
+v2rayn-SelfContained_DoveBoy.json,DoveBoy/Apps
 pixiv-omina.json,DoveBoy/Apps
 dreamscene2.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
@@ -9787,6 +9788,7 @@ nali_DoveBoy.json,DoveBoy/Apps
 ofgb-with-runtime.json,DoveBoy/Apps
 openssh_DoveBoy.json,DoveBoy/Apps
 folo_DoveBoy.json,DoveBoy/Apps
+ddu_DoveBoy.json,DoveBoy/Apps
 escrcpy-portable.json,DoveBoy/Apps
 mpv-git_DoveBoy.json,DoveBoy/Apps
 joinersplitter.json,DoveBoy/Apps
@@ -9814,7 +9816,7 @@ deeplx_DoveBoy.json,DoveBoy/Apps
 bili-cli-rs.json,DoveBoy/Apps
 alisthelper-portable.json,DoveBoy/Apps
 ftpserver.json,DoveBoy/Apps
-bilibili_DoveBoy.json,DoveBoy/Apps
+bilibili.json,DoveBoy/Apps
 wpsoffice-cn.json,DoveBoy/Apps
 restart-explorer_DoveBoy.json,DoveBoy/Apps
 optimizer_DoveBoy.json,DoveBoy/Apps
@@ -10040,7 +10042,7 @@ backup-start-menu-layout_DoveBoy.json,DoveBoy/Apps
 fix-print-spooler_DoveBoy.json,DoveBoy/Apps
 ttime-portable.json,DoveBoy/Apps
 serverbox_DoveBoy.json,DoveBoy/Apps
-escrcpy_DoveBoy.json,DoveBoy/Apps
+escrcpy.json,DoveBoy/Apps
 sed_DoveBoy.json,DoveBoy/Apps
 energystar.json,DoveBoy/Apps
 anyburn_DoveBoy.json,DoveBoy/Apps
@@ -15373,7 +15375,7 @@ silver.todo.json,younger-1/scoop-it
 diskonaut.todo.json,younger-1/scoop-it
 PowerShell_maboloshi.json,maboloshi/scoop-private
 notepad4_maboloshi.json,maboloshi/scoop-private
-ima-copilot_maboloshi.json,maboloshi/scoop-private
+ima-copilot.json,maboloshi/scoop-private
 microsoftedge-beta_maboloshi.json,maboloshi/scoop-private
 ffmpeg-N_m3u8DL-CLI.json,maboloshi/scoop-private
 sarasa-gothic-sc-excerpt.json,maboloshi/scoop-private
