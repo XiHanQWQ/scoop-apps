@@ -6262,7 +6262,6 @@ ivpn-client-np.json,ScoopInstaller/Nonportable
 textpad8-np.json,ScoopInstaller/Nonportable
 ti-connect-ce-software-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 notepads-np.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-standard-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 innosetup-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 file-converter-np.json,ScoopInstaller/Nonportable
 workman-p-uk-np_ScoopInstaller.json,ScoopInstaller/Nonportable
@@ -6270,6 +6269,7 @@ bluestacks4-np.json,ScoopInstaller/Nonportable
 icaros-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 protonvpn-np.json,ScoopInstaller/Nonportable
 equalizer-apo-np_ScoopInstaller.json,ScoopInstaller/Nonportable
+tunnelbear-np.json,ScoopInstaller/Nonportable
 shelltools-np.json,ScoopInstaller/Nonportable
 calibre-np.json,ScoopInstaller/Nonportable
 scilab-np.json,ScoopInstaller/Nonportable
@@ -6304,8 +6304,6 @@ burp-suite-pro-np.json,ScoopInstaller/Nonportable
 nvidia-display-driver-np.json,ScoopInstaller/Nonportable
 lavfilters-np.json,ScoopInstaller/Nonportable
 xysubfilter-np.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-basic-np_ScoopInstaller.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-full-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 nelson-np.json,ScoopInstaller/Nonportable
 dshidmini-np.json,ScoopInstaller/Nonportable
 everything-beta-np_ScoopInstaller.json,ScoopInstaller/Nonportable
@@ -6321,7 +6319,6 @@ spotx-np.json,ScoopInstaller/Nonportable
 winfsp-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 8gadgetpack-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 vokoscreenng-np.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-mega-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 voicemeeter-banana-np.json,ScoopInstaller/Nonportable
 open-shell-np.json,ScoopInstaller/Nonportable
 google-japanese-input-np_ScoopInstaller.json,ScoopInstaller/Nonportable
@@ -6338,7 +6335,7 @@ goodsync-np.json,ScoopInstaller/Nonportable
 qttabbar-indiff-np.json,ScoopInstaller/Nonportable
 winbtrfs-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 lightscribe-system-software-np_ScoopInstaller.json,ScoopInstaller/Nonportable
-biglybt-np_ScoopInstaller.json,ScoopInstaller/Nonportable
+biglybt-np.json,ScoopInstaller/Nonportable
 lockhunter-np.json,ScoopInstaller/Nonportable
 xysubfilter-libass-np.json,ScoopInstaller/Nonportable
 stevedore-np.json,ScoopInstaller/Nonportable
@@ -6350,7 +6347,6 @@ lantern-np.json,ScoopInstaller/Nonportable
 anki-np.json,ScoopInstaller/Nonportable
 vpnc-front-end-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 powertoys-np_ScoopInstaller.json,ScoopInstaller/Nonportable
-gpg-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 cppcryptfs-np.json,ScoopInstaller/Nonportable
 hp-support-assistant-np.json,ScoopInstaller/Nonportable
 sandboxie-plus-np.json,ScoopInstaller/Nonportable
@@ -8867,7 +8863,7 @@ reality.json,ViCrack/scoop-bucket
 windynamicdesktop_ViCrack.json,ViCrack/scoop-bucket
 anew.json,ViCrack/scoop-bucket
 sublinkpro.json,ViCrack/scoop-bucket
-interactsh.json,ViCrack/scoop-bucket
+interactsh_ViCrack.json,ViCrack/scoop-bucket
 java-echo-generator-release.json,ViCrack/scoop-bucket
 1remote.json,ViCrack/scoop-bucket
 java-memshell-generator.json,ViCrack/scoop-bucket
@@ -9123,7 +9119,7 @@ xsv_akirco.json,akirco/aki-apps
 mvndaemon_akirco.json,akirco/aki-apps
 httpstat_akirco.json,akirco/aki-apps
 vcredist2015_akirco.json,akirco/aki-apps
-officetoolplus_akirco.json,akirco/aki-apps
+officetoolplus.json,akirco/aki-apps
 simple-live.json,akirco/aki-apps
 fiddler_akirco.json,akirco/aki-apps
 shellcheck_akirco.json,akirco/aki-apps
@@ -9157,7 +9153,7 @@ figlet_akirco.json,akirco/aki-apps
 nyagos_akirco.json,akirco/aki-apps
 dingtalk_akirco.json,akirco/aki-apps
 nmap-portable.json,akirco/aki-apps
-firefox-zh-cn_akirco.json,akirco/aki-apps
+firefox-zh-cn.json,akirco/aki-apps
 audacity_akirco.json,akirco/aki-apps
 nvm_akirco.json,akirco/aki-apps
 gdrive_akirco.json,akirco/aki-apps
@@ -9331,7 +9327,7 @@ vcredist2019.json,akirco/aki-apps
 vcredist2008.json,akirco/aki-apps
 tesseract_akirco.json,akirco/aki-apps
 xidel_akirco.json,akirco/aki-apps
-flutter_akirco.json,akirco/aki-apps
+flutter.json,akirco/aki-apps
 mdcat_akirco.json,akirco/aki-apps
 clashrauto.json,akirco/aki-apps
 deno_akirco.json,akirco/aki-apps
@@ -9355,7 +9351,7 @@ fx_akirco.json,akirco/aki-apps
 pypy2_akirco.json,akirco/aki-apps
 yarn_akirco.json,akirco/aki-apps
 restic_akirco.json,akirco/aki-apps
-trae-cn_akirco.json,akirco/aki-apps
+trae-cn.json,akirco/aki-apps
 obs-studio_akirco.json,akirco/aki-apps
 draw.io_akirco.json,akirco/aki-apps
 geekuninstaller_akirco.json,akirco/aki-apps
@@ -9599,7 +9595,7 @@ videofusion.json,DoveBoy/Apps
 yasocut.json,DoveBoy/Apps
 wechatrealfriends.json,DoveBoy/Apps
 tai.json,DoveBoy/Apps
-officetoolplus.json,DoveBoy/Apps
+officetoolplus_DoveBoy.json,DoveBoy/Apps
 syncthing-beta.json,DoveBoy/Apps
 tageditor-qt5.json,DoveBoy/Apps
 study-xxqg-sjkhsl.json,DoveBoy/Apps
@@ -9750,7 +9746,7 @@ v2rayn-SelfContained_DoveBoy.json,DoveBoy/Apps
 pixiv-omina.json,DoveBoy/Apps
 dreamscene2.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
-pscompletions.json,DoveBoy/Apps
+pscompletions_DoveBoy.json,DoveBoy/Apps
 forkgram_DoveBoy.json,DoveBoy/Apps
 varia-portable.json,DoveBoy/Apps
 everything-beta_DoveBoy.json,DoveBoy/Apps
@@ -9932,7 +9928,7 @@ wechat_DoveBoy.json,DoveBoy/Apps
 computerlock.json,DoveBoy/Apps
 nvm-tab-completion.json,DoveBoy/Apps
 serialterminalforwindowsterminal.json,DoveBoy/Apps
-gnupg-np_DoveBoy.json,DoveBoy/Apps
+gnupg-np.json,DoveBoy/Apps
 wechatdownload.json,DoveBoy/Apps
 cloudreve-beta.json,DoveBoy/Apps
 littletips.json,DoveBoy/Apps
@@ -10282,7 +10278,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
@@ -11575,11 +11571,11 @@ listen1.json,WinApps-share/WinApps-bucket
 g-helper_WinApps-share.json,WinApps-share/WinApps-bucket
 brave_WinApps-share.json,WinApps-share/WinApps-bucket
 geek-uninstaller.json,WinApps-share/WinApps-bucket
-everything-toolbar.json,WinApps-share/WinApps-bucket
+everything-toolbar_WinApps-share.json,WinApps-share/WinApps-bucket
 wiztree_WinApps-share.json,WinApps-share/WinApps-bucket
 bandizip_WinApps-share.json,WinApps-share/WinApps-bucket
 ecopaste.json,WinApps-share/WinApps-bucket
-office-tool-plus.json,WinApps-share/WinApps-bucket
+office-tool-plus_WinApps-share.json,WinApps-share/WinApps-bucket
 sharex-setup.json,WinApps-share/WinApps-bucket
 wepe_WinApps-share.json,WinApps-share/WinApps-bucket
 bcuninstaller-np.json,WinApps-share/WinApps-bucket
@@ -12327,7 +12323,7 @@ ddu_Small-Ku.json,Small-Ku/turbo-bucket
 kondo_Small-Ku.json,Small-Ku/turbo-bucket
 mcpls.json,Small-Ku/turbo-bucket
 stardb-exporter.json,Small-Ku/turbo-bucket
-gemini-cli.json,Small-Ku/turbo-bucket
+gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
 source-han-sans-vf-ttc.json,Small-Ku/turbo-bucket
 sarasa-super-ttc.json,Small-Ku/turbo-bucket
 antigravity-manager.json,Small-Ku/turbo-bucket
@@ -13019,6 +13015,7 @@ crystaldiskinfo-aoi.json,aoisummer/scoop-bucket
 ddtv2.json,aoisummer/scoop-bucket
 firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 lunatranslator_aoisummer.json,aoisummer/scoop-bucket
+cinebench23.json,aoisummer/scoop-bucket
 shadowsocks-rust-gnu.json,aoisummer/scoop-bucket
 php83-nts.json,aoisummer/scoop-bucket
 winscp-chs.json,aoisummer/scoop-bucket
@@ -13040,18 +13037,19 @@ crystaldiskmark-shizuku.json,aoisummer/scoop-bucket
 thunderbird-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 php74-nts.json,aoisummer/scoop-bucket
 veracrypt-np.json,aoisummer/scoop-bucket
+smartmontools_aoisummer.json,aoisummer/scoop-bucket
 autoruns_aoisummer.json,aoisummer/scoop-bucket
 rest-server.json,aoisummer/scoop-bucket
 clash-for-windows_aoisummer.json,aoisummer/scoop-bucket
 lz4_aoisummer.json,aoisummer/scoop-bucket
 rssowlnix.json,aoisummer/scoop-bucket
 veracrypt-legacy-np.json,aoisummer/scoop-bucket
+cinebench2024_aoisummer.json,aoisummer/scoop-bucket
 you-get_aoisummer.json,aoisummer/scoop-bucket
 tracetcp.json,aoisummer/scoop-bucket
 aliwangwang_aoisummer.json,aoisummer/scoop-bucket
 cinebench15.json,aoisummer/scoop-bucket
 cinebench20.json,aoisummer/scoop-bucket
-cinebench23.json,aoisummer/scoop-bucket
 cdnget.json,aoisummer/scoop-bucket
 cotton.json,jfut/scoop-jfut
 autopsy-python-plugins.json,jfut/scoop-jfut
