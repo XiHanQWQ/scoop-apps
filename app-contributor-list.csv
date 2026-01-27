@@ -2351,7 +2351,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -3515,7 +3515,7 @@ crystaldiskinfo-shizuku-edition.json,chawyehsu/dorado
 duck.json,chawyehsu/dorado
 electerm_chawyehsu.json,chawyehsu/dorado
 altserver.json,chawyehsu/dorado
-podman-desktop.json,chawyehsu/dorado
+podman-desktop_chawyehsu.json,chawyehsu/dorado
 cpu-z-arm.json,chawyehsu/dorado
 activitywatch_chawyehsu.json,chawyehsu/dorado
 moul.json,chawyehsu/dorado
@@ -9929,7 +9929,7 @@ littletips.json,DoveBoy/Apps
 maple-file.json,DoveBoy/Apps
 imfile-portable.json,DoveBoy/Apps
 mediago.json,DoveBoy/Apps
-dandanplay.json,DoveBoy/Apps
+dandanplay_DoveBoy.json,DoveBoy/Apps
 ipcalc_DoveBoy.json,DoveBoy/Apps
 everything-lite_DoveBoy.json,DoveBoy/Apps
 xcmusic.json,DoveBoy/Apps
@@ -11950,6 +11950,7 @@ dirx.json,aliesbelik/poldi
 jvms_aliesbelik.json,aliesbelik/poldi
 curli.json,aliesbelik/poldi
 meteor.json,aliesbelik/poldi
+lazyworktree.json,aliesbelik/poldi
 filebrowser_aliesbelik.json,aliesbelik/poldi
 blast.json,aliesbelik/poldi
 changie.json,aliesbelik/poldi
@@ -13006,7 +13007,7 @@ bbdown_aoisummer.json,aoisummer/scoop-bucket
 windowgrid_aoisummer.json,aoisummer/scoop-bucket
 crystaldiskinfo-aoi.json,aoisummer/scoop-bucket
 ddtv2.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 lunatranslator_aoisummer.json,aoisummer/scoop-bucket
 shadowsocks-rust-gnu.json,aoisummer/scoop-bucket
 php83-nts.json,aoisummer/scoop-bucket
@@ -15197,7 +15198,7 @@ naotu.json,ShuguangSun/sgs-scoop-bucket
 sasjs.json,ShuguangSun/sgs-scoop-bucket
 duck_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 latex_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-ark.json,ShuguangSun/sgs-scoop-bucket
+ark_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 LXGWFasmartGothic.json,ShuguangSun/sgs-scoop-bucket
 r-4.3.3.json,ShuguangSun/sgs-scoop-bucket
 defineEditor.json,ShuguangSun/sgs-scoop-bucket
@@ -15473,7 +15474,7 @@ godsvg.json,windedge/ladle-bucket
 mdview_windedge.json,windedge/ladle-bucket
 enve.json,windedge/ladle-bucket
 anytype_windedge.json,windedge/ladle-bucket
-dyad_windedge.json,windedge/ladle-bucket
+dyad.json,windedge/ladle-bucket
 pdf4teachers.json,windedge/ladle-bucket
 llama-cpp-ipex-llm.json,windedge/ladle-bucket
 itext-rups.json,windedge/ladle-bucket
