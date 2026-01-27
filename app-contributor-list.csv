@@ -2351,7 +2351,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -9755,7 +9755,7 @@ npm-completion_DoveBoy.json,DoveBoy/Apps
 iwck.json,DoveBoy/Apps
 unblockneteasemusic.json,DoveBoy/Apps
 auto-unlocker.json,DoveBoy/Apps
-keyviz_DoveBoy.json,DoveBoy/Apps
+keyviz.json,DoveBoy/Apps
 binggpt.json,DoveBoy/Apps
 lively_DoveBoy.json,DoveBoy/Apps
 pdfqfz.json,DoveBoy/Apps
@@ -11265,7 +11265,7 @@ bongocat_WinApps-share.json,WinApps-share/WinApps-bucket
 ditto-np.json,WinApps-share/WinApps-bucket
 proxypin-np.json,WinApps-share/WinApps-bucket
 piclist.json,WinApps-share/WinApps-bucket
-keyviz.json,WinApps-share/WinApps-bucket
+keyviz_WinApps-share.json,WinApps-share/WinApps-bucket
 obs.json,WinApps-share/WinApps-bucket
 lively_WinApps-share.json,WinApps-share/WinApps-bucket
 pdfqfz_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -11788,7 +11788,7 @@ bartib.json,aliesbelik/poldi
 ente-cli.json,aliesbelik/poldi
 srgn.json,aliesbelik/poldi
 openpomodoro.json,aliesbelik/poldi
-ali.json,aliesbelik/poldi
+ali_aliesbelik.json,aliesbelik/poldi
 g.json,aliesbelik/poldi
 lazyssh.json,aliesbelik/poldi
 xq.json,aliesbelik/poldi
@@ -11942,7 +11942,7 @@ phraze.json,aliesbelik/poldi
 mcat.json,aliesbelik/poldi
 byedpi.json,aliesbelik/poldi
 query-json.json,aliesbelik/poldi
-fresh_aliesbelik.json,aliesbelik/poldi
+fresh.json,aliesbelik/poldi
 oxker.json,aliesbelik/poldi
 waitforit.json,aliesbelik/poldi
 dry.json,aliesbelik/poldi
@@ -14607,7 +14607,7 @@ gog-comet.json,Deide/deide-bucket
 rahasher.json,Deide/deide-bucket
 alacritty_Deide.json,Deide/deide-bucket
 kaxaml_Deide.json,Deide/deide-bucket
-eden.json,Deide/deide-bucket
+eden_Deide.json,Deide/deide-bucket
 jcf-pascal-format.json,Deide/deide-bucket
 flips.json,Deide/deide-bucket
 winamp_Deide.json,Deide/deide-bucket
@@ -15474,7 +15474,7 @@ godsvg.json,windedge/ladle-bucket
 mdview_windedge.json,windedge/ladle-bucket
 enve.json,windedge/ladle-bucket
 anytype_windedge.json,windedge/ladle-bucket
-dyad.json,windedge/ladle-bucket
+dyad_windedge.json,windedge/ladle-bucket
 pdf4teachers.json,windedge/ladle-bucket
 llama-cpp-ipex-llm.json,windedge/ladle-bucket
 itext-rups.json,windedge/ladle-bucket
