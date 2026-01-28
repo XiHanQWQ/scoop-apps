@@ -2351,7 +2351,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -2818,7 +2818,7 @@ nextcloud.json,ScoopInstaller/Extras
 wxformbuilder.json,ScoopInstaller/Extras
 claws-mail.json,ScoopInstaller/Extras
 vt-uploader.json,ScoopInstaller/Extras
-registry-finder.json,ScoopInstaller/Extras
+registry-finder_ScoopInstaller.json,ScoopInstaller/Extras
 oranda.json,ScoopInstaller/Extras
 lagrange.json,ScoopInstaller/Extras
 jmkvpropedit.json,ScoopInstaller/Extras
@@ -9635,12 +9635,12 @@ droppoint-portable_DoveBoy.json,DoveBoy/Apps
 tiny11builder.json,DoveBoy/Apps
 m3u8d-ui.json,DoveBoy/Apps
 ps-guicompletion.json,DoveBoy/Apps
+sharex.json,DoveBoy/Apps
 scoop-sd_DoveBoy.json,DoveBoy/Apps
 sudo_DoveBoy.json,DoveBoy/Apps
 anto.json,DoveBoy/Apps
 openspeedy.json,DoveBoy/Apps
 moekoemusic.json,DoveBoy/Apps
-transmission_DoveBoy.json,DoveBoy/Apps
 qtunblockneteasemusic.json,DoveBoy/Apps
 drive-icon-manager.json,DoveBoy/Apps
 youtube-dl-gui_DoveBoy.json,DoveBoy/Apps
@@ -9915,7 +9915,7 @@ whynotwin11_DoveBoy.json,DoveBoy/Apps
 clash-mini.json,DoveBoy/Apps
 windows-manage-tool.json,DoveBoy/Apps
 hummingbird.json,DoveBoy/Apps
-winget-preview.json,DoveBoy/Apps
+winget-preview_DoveBoy.json,DoveBoy/Apps
 tinypng.json,DoveBoy/Apps
 psreadlineviextension.json,DoveBoy/Apps
 cheat-engine_DoveBoy.json,DoveBoy/Apps
@@ -11786,7 +11786,7 @@ cleed.json,aliesbelik/poldi
 reqstress_aliesbelik.json,aliesbelik/poldi
 termframe.json,aliesbelik/poldi
 hf.json,aliesbelik/poldi
-sql-studio_aliesbelik.json,aliesbelik/poldi
+sql-studio.json,aliesbelik/poldi
 chiko.json,aliesbelik/poldi
 pict.json,aliesbelik/poldi
 sttr.json,aliesbelik/poldi
@@ -12324,7 +12324,7 @@ ddu_Small-Ku.json,Small-Ku/turbo-bucket
 kondo_Small-Ku.json,Small-Ku/turbo-bucket
 mcpls.json,Small-Ku/turbo-bucket
 stardb-exporter.json,Small-Ku/turbo-bucket
-gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
+gemini-cli.json,Small-Ku/turbo-bucket
 source-han-sans-vf-ttc.json,Small-Ku/turbo-bucket
 sarasa-super-ttc.json,Small-Ku/turbo-bucket
 antigravity-manager.json,Small-Ku/turbo-bucket
