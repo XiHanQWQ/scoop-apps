@@ -4199,6 +4199,7 @@ umod.json,Calinou/scoop-games
 scummvm.json,Calinou/scoop-games
 woof.json,Calinou/scoop-games
 doukutsu-rs.json,Calinou/scoop-games
+primehack.json,Calinou/scoop-games
 raine.json,Calinou/scoop-games
 evemaptool.json,Calinou/scoop-games
 tesseract-game.json,Calinou/scoop-games
@@ -4311,6 +4312,7 @@ collapse-launcher.json,Calinou/scoop-games
 sudachi.json,Calinou/scoop-games
 golly.json,Calinou/scoop-games
 chunker-cli.json,Calinou/scoop-games
+banjo-recompiled.json,Calinou/scoop-games
 starward_Calinou.json,Calinou/scoop-games
 mindustry-server.json,Calinou/scoop-games
 witchblast.json,Calinou/scoop-games
@@ -4535,6 +4537,7 @@ project64.json,Calinou/scoop-games
 xebra.json,Calinou/scoop-games
 advanced-combat-tracker.json,Calinou/scoop-games
 mednafen_Calinou.json,Calinou/scoop-games
+starfox64-recompiled.json,Calinou/scoop-games
 ppsspp.json,Calinou/scoop-games
 awakened-poe-trade.json,Calinou/scoop-games
 prismlauncher-qt5.json,Calinou/scoop-games
@@ -8670,7 +8673,7 @@ psloggedon.json,niheaven/scoop-sysinternals
 junction.json,niheaven/scoop-sysinternals
 diskview.json,niheaven/scoop-sysinternals
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -8688,7 +8691,7 @@ cemu_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
-pcsx2_borger.json,borger/scoop-emulators
+pcsx2.json,borger/scoop-emulators
 visualboyadvance-m.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 duckstation-preview_borger.json,borger/scoop-emulators
@@ -10454,7 +10457,7 @@ dota2_realblood.json,hu3rror/scoop-muggle
 m4acut.json,hu3rror/scoop-muggle
 run-hidden-console.json,hu3rror/scoop-muggle
 neat-converter.json,hu3rror/scoop-muggle
-cyberchef_hu3rror.json,hu3rror/scoop-muggle
+cyberchef.json,hu3rror/scoop-muggle
 pixivbiu_hu3rror.json,hu3rror/scoop-muggle
 dlss-swapper.json,hu3rror/scoop-muggle
 bootice_hu3rror.json,hu3rror/scoop-muggle
@@ -13050,7 +13053,7 @@ bbdown_aoisummer.json,aoisummer/scoop-bucket
 windowgrid_aoisummer.json,aoisummer/scoop-bucket
 crystaldiskinfo-aoi.json,aoisummer/scoop-bucket
 ddtv2.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn.json,aoisummer/scoop-bucket
 lunatranslator_aoisummer.json,aoisummer/scoop-bucket
 cinebench23.json,aoisummer/scoop-bucket
 shadowsocks-rust-gnu.json,aoisummer/scoop-bucket
