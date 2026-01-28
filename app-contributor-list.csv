@@ -8554,7 +8554,7 @@ dolphin-beta.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 steam-rom-manager_hermanjustnu.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
-mgba-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+mgba-dev.json,hermanjustnu/scoop-emulators
 sameboy_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 cemuhook.json,hermanjustnu/scoop-emulators
@@ -8683,7 +8683,7 @@ bsnes-hd-beta_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 citron.json,borger/scoop-emulators
-ryujinx-canary_borger.json,borger/scoop-emulators
+ryujinx-canary.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
@@ -9417,6 +9417,7 @@ sak_kiennq.json,kiennq/scoop-misc
 cemuhook-webgyro.json,kiennq/scoop-misc
 opencode-x.json,kiennq/scoop-misc
 emacs-lsp-booster.json,kiennq/scoop-misc
+vscode-x.json,kiennq/scoop-misc
 sourcedepot.json,kiennq/scoop-misc
 golang.json,kiennq/scoop-misc
 neovim-dev.json,TheRandomLabs/Scoop-Bucket
@@ -9635,7 +9636,6 @@ droppoint-portable_DoveBoy.json,DoveBoy/Apps
 tiny11builder.json,DoveBoy/Apps
 m3u8d-ui.json,DoveBoy/Apps
 ps-guicompletion.json,DoveBoy/Apps
-sharex.json,DoveBoy/Apps
 scoop-sd_DoveBoy.json,DoveBoy/Apps
 sudo_DoveBoy.json,DoveBoy/Apps
 anto.json,DoveBoy/Apps
@@ -10103,7 +10103,7 @@ picotorrent_DoveBoy.json,DoveBoy/Apps
 onlyoffice-desktopeditors_DoveBoy.json,DoveBoy/Apps
 easyserviceoptimizer_DoveBoy.json,DoveBoy/Apps
 mame_DoveBoy.json,DoveBoy/Apps
-powertoys-np_DoveBoy.json,DoveBoy/Apps
+powertoys-np.json,DoveBoy/Apps
 baidupanfilestransfers_DoveBoy.json,DoveBoy/Apps
 gitextensions_DoveBoy.json,DoveBoy/Apps
 cmwtat-digital-edition.json,DoveBoy/Apps
@@ -11291,7 +11291,6 @@ singbox-ui.json,noql-net/scoop
 winscppwd.json,ygguorun/scoop-bucket
 PingFangSC.json,ygguorun/scoop-bucket
 gluttonyPNG_ygguorun.json,ygguorun/scoop-bucket
-Effidit.json,ygguorun/scoop-bucket
 NegativeEncoder.json,ygguorun/scoop-bucket
 ShadowExplorer_ygguorun.json,ygguorun/scoop-bucket
 bookhunter.json,ygguorun/scoop-bucket
@@ -11407,6 +11406,7 @@ triangula_ygguorun.json,ygguorun/scoop-bucket
 PingFang.json,ygguorun/scoop-bucket
 Legendary_ygguorun.json,ygguorun/scoop-bucket
 rimage_ygguorun.json,ygguorun/scoop-bucket
+Effidit.json,ygguorun/scoop-bucket
 doggo_ygguorun.json,ygguorun/scoop-bucket
 ClashDotNetFramework.json,ygguorun/scoop-bucket
 TeambitionProjectWeb.json,ygguorun/scoop-bucket
@@ -15503,7 +15503,6 @@ uivonim_younger-1.json,younger-1/scoop-it
 epick.json,younger-1/scoop-it
 sqlite3dll.json,younger-1/scoop-it
 selene_younger-1.json,younger-1/scoop-it
-vlang_younger-1.json,younger-1/scoop-it
 im-select.json,younger-1/scoop-it
 stylua_younger-1.json,younger-1/scoop-it
 hello.json,younger-1/scoop-it
