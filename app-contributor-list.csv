@@ -6238,7 +6238,7 @@ unity3d.json,scoopcn/scoopcn
 wechat-devtools.json,scoopcn/scoopcn
 neo4jbrowser.json,scoopcn/scoopcn
 wechat_scoopcn.json,scoopcn/scoopcn
-feishu_scoopcn.json,scoopcn/scoopcn
+feishu.json,scoopcn/scoopcn
 ade.json,scoopcn/scoopcn
 xt800agent.json,scoopcn/scoopcn
 wxwork.json,scoopcn/scoopcn
@@ -8554,7 +8554,7 @@ dolphin-beta.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 steam-rom-manager_hermanjustnu.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
-mgba-dev.json,hermanjustnu/scoop-emulators
+mgba-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 sameboy_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 cemuhook.json,hermanjustnu/scoop-emulators
@@ -8683,7 +8683,7 @@ bsnes-hd-beta_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 citron.json,borger/scoop-emulators
-ryujinx-canary.json,borger/scoop-emulators
+ryujinx-canary_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
@@ -9605,7 +9605,7 @@ pdfarranger_DoveBoy.json,DoveBoy/Apps
 lux_DoveBoy.json,DoveBoy/Apps
 clashn.json,DoveBoy/Apps
 ungoogled-chromium_DoveBoy.json,DoveBoy/Apps
-krita_DoveBoy.json,DoveBoy/Apps
+krita.json,DoveBoy/Apps
 upx_DoveBoy.json,DoveBoy/Apps
 chatall_DoveBoy.json,DoveBoy/Apps
 gpg_DoveBoy.json,DoveBoy/Apps
@@ -9918,12 +9918,13 @@ hummingbird.json,DoveBoy/Apps
 winget-preview_DoveBoy.json,DoveBoy/Apps
 tinypng.json,DoveBoy/Apps
 psreadlineviextension.json,DoveBoy/Apps
+powertoys.json,DoveBoy/Apps
 cheat-engine_DoveBoy.json,DoveBoy/Apps
 umi-ocr-paddle_DoveBoy.json,DoveBoy/Apps
 ani.json,DoveBoy/Apps
 tidyos.json,DoveBoy/Apps
 jenny.json,DoveBoy/Apps
-wechat_DoveBoy.json,DoveBoy/Apps
+wechat.json,DoveBoy/Apps
 7zip_DoveBoy.json,DoveBoy/Apps
 computerlock.json,DoveBoy/Apps
 nvm-tab-completion.json,DoveBoy/Apps
@@ -10103,7 +10104,7 @@ picotorrent_DoveBoy.json,DoveBoy/Apps
 onlyoffice-desktopeditors_DoveBoy.json,DoveBoy/Apps
 easyserviceoptimizer_DoveBoy.json,DoveBoy/Apps
 mame_DoveBoy.json,DoveBoy/Apps
-powertoys-np.json,DoveBoy/Apps
+powertoys-np_DoveBoy.json,DoveBoy/Apps
 baidupanfilestransfers_DoveBoy.json,DoveBoy/Apps
 gitextensions_DoveBoy.json,DoveBoy/Apps
 cmwtat-digital-edition.json,DoveBoy/Apps
@@ -12805,7 +12806,7 @@ NoFWL.json,TianXiaTech/scoop-txt
 cherry-studio_TianXiaTech.json,TianXiaTech/scoop-txt
 winsw-alpha.json,TianXiaTech/scoop-txt
 cc-switch_TianXiaTech.json,TianXiaTech/scoop-txt
-baidunetdisk_TianXiaTech.json,TianXiaTech/scoop-txt
+baidunetdisk.json,TianXiaTech/scoop-txt
 yuque_TianXiaTech.json,TianXiaTech/scoop-txt
 mgtv_TianXiaTech.json,TianXiaTech/scoop-txt
 winsw_TianXiaTech.json,TianXiaTech/scoop-txt
