@@ -2351,7 +2351,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -8066,6 +8066,7 @@ oculante_dodorz.json,dodorz/scoop
 TextLocator.json,dodorz/scoop
 DiagramDesigner.json,dodorz/scoop
 LaunchyQt.json,dodorz/scoop
+tuios.json,dodorz/scoop
 ElevatedStartup.json,dodorz/scoop
 SpeQ.json,dodorz/scoop
 UGit.json,dodorz/scoop
@@ -8097,6 +8098,7 @@ Glint.json,dodorz/scoop
 PandaOCR.json,dodorz/scoop
 Ferrite.json,dodorz/scoop
 LibgenDesktop.json,dodorz/scoop
+tuios-web.json,dodorz/scoop
 mpg123-dynamic.json,dodorz/scoop
 ssed.json,dodorz/scoop
 FluentSearch.json,dodorz/scoop
