@@ -2351,7 +2351,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -4141,7 +4141,7 @@ obs-studio-cn.json,Scoopforge/Extras-CN
 gimp-cn-dev.json,Scoopforge/Extras-CN
 hbuilderx.json,Scoopforge/Extras-CN
 misakatranslator.json,Scoopforge/Extras-CN
-feishu.json,Scoopforge/Extras-CN
+feishu_Scoopforge.json,Scoopforge/Extras-CN
 feeluown.json,Scoopforge/Extras-CN
 miniforge-cn.json,Scoopforge/Extras-CN
 kicad-cn.json,Scoopforge/Extras-CN
@@ -4706,7 +4706,6 @@ zulu21-jre.json,ScoopInstaller/Java
 liberica25-full-lts-jre.json,ScoopInstaller/Java
 corretto18-jdk.json,ScoopInstaller/Java
 liberica-full-lts-jre.json,ScoopInstaller/Java
-microsoft21-jdk.json,ScoopInstaller/Java
 sapmachine15-jre.json,ScoopInstaller/Java
 zulufx11-jre.json,ScoopInstaller/Java
 liberica16-full-jre.json,ScoopInstaller/Java
@@ -7481,6 +7480,7 @@ beads-rust.json,cderv/r-bucket
 tinytex-extra.json,cderv/r-bucket
 fq_cderv.json,cderv/r-bucket
 beads.json,cderv/r-bucket
+arf.json,cderv/r-bucket
 beans.json,cderv/r-bucket
 tinytex.json,cderv/r-bucket
 rstudio-2022.07.json,cderv/r-bucket
@@ -8673,7 +8673,7 @@ psloggedon.json,niheaven/scoop-sysinternals
 junction.json,niheaven/scoop-sysinternals
 diskview.json,niheaven/scoop-sysinternals
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -8691,7 +8691,7 @@ cemu_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
-pcsx2.json,borger/scoop-emulators
+pcsx2_borger.json,borger/scoop-emulators
 visualboyadvance-m.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 duckstation-preview_borger.json,borger/scoop-emulators
@@ -10457,7 +10457,7 @@ dota2_realblood.json,hu3rror/scoop-muggle
 m4acut.json,hu3rror/scoop-muggle
 run-hidden-console.json,hu3rror/scoop-muggle
 neat-converter.json,hu3rror/scoop-muggle
-cyberchef.json,hu3rror/scoop-muggle
+cyberchef_hu3rror.json,hu3rror/scoop-muggle
 pixivbiu_hu3rror.json,hu3rror/scoop-muggle
 dlss-swapper.json,hu3rror/scoop-muggle
 bootice_hu3rror.json,hu3rror/scoop-muggle
@@ -13053,7 +13053,7 @@ bbdown_aoisummer.json,aoisummer/scoop-bucket
 windowgrid_aoisummer.json,aoisummer/scoop-bucket
 crystaldiskinfo-aoi.json,aoisummer/scoop-bucket
 ddtv2.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 lunatranslator_aoisummer.json,aoisummer/scoop-bucket
 cinebench23.json,aoisummer/scoop-bucket
 shadowsocks-rust-gnu.json,aoisummer/scoop-bucket
