@@ -4143,6 +4143,7 @@ hbuilderx.json,Scoopforge/Extras-CN
 misakatranslator.json,Scoopforge/Extras-CN
 feishu_Scoopforge.json,Scoopforge/Extras-CN
 feeluown.json,Scoopforge/Extras-CN
+quickbib.json,Scoopforge/Extras-CN
 miniforge-cn.json,Scoopforge/Extras-CN
 kicad-cn.json,Scoopforge/Extras-CN
 ting-es.json,Scoopforge/Extras-CN
@@ -8688,7 +8689,7 @@ bsnes-hd-beta_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 citron.json,borger/scoop-emulators
-ryujinx-canary_borger.json,borger/scoop-emulators
+ryujinx-canary.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
@@ -8724,6 +8725,7 @@ sameboy_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
+mame.json,borger/scoop-emulators
 desmume_borger.json,borger/scoop-emulators
 ryujinx_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
@@ -8853,7 +8855,7 @@ ling.json,ViCrack/scoop-bucket
 jar-analyzer_ViCrack.json,ViCrack/scoop-bucket
 rakshasa.json,ViCrack/scoop-bucket
 chatlab.json,ViCrack/scoop-bucket
-suo5.json,ViCrack/scoop-bucket
+suo5_ViCrack.json,ViCrack/scoop-bucket
 struts2vulsscantools.json,ViCrack/scoop-bucket
 behinder_ViCrack.json,ViCrack/scoop-bucket
 transfer.json,ViCrack/scoop-bucket
@@ -9100,6 +9102,7 @@ ollama_akirco.json,akirco/aki-apps
 x264_akirco.json,akirco/aki-apps
 mysql_akirco.json,akirco/aki-apps
 notion_akirco.json,akirco/aki-apps
+cursor_akirco.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
 ima-copilot.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
@@ -9224,7 +9227,7 @@ bilibili.json,akirco/aki-apps
 aliyundrive.json,akirco/aki-apps
 zola_akirco.json,akirco/aki-apps
 miniconda3_akirco.json,akirco/aki-apps
-chromium.json,akirco/aki-apps
+chromium_akirco.json,akirco/aki-apps
 python_akirco.json,akirco/aki-apps
 recycle-bin_akirco.json,akirco/aki-apps
 pngquant_akirco.json,akirco/aki-apps
@@ -9331,7 +9334,7 @@ vcredist2019.json,akirco/aki-apps
 vcredist2008.json,akirco/aki-apps
 tesseract_akirco.json,akirco/aki-apps
 xidel_akirco.json,akirco/aki-apps
-flutter_akirco.json,akirco/aki-apps
+flutter.json,akirco/aki-apps
 mdcat_akirco.json,akirco/aki-apps
 clashrauto.json,akirco/aki-apps
 deno_akirco.json,akirco/aki-apps
@@ -9524,6 +9527,7 @@ shadowsocks-rust_DoveBoy.json,DoveBoy/Apps
 biu.json,DoveBoy/Apps
 ugrep_DoveBoy.json,DoveBoy/Apps
 aria2_DoveBoy.json,DoveBoy/Apps
+losslesscut.json,DoveBoy/Apps
 webcam-on-off_DoveBoy.json,DoveBoy/Apps
 googletranslateipcheck.json,DoveBoy/Apps
 windirstat_DoveBoy.json,DoveBoy/Apps
@@ -9829,7 +9833,6 @@ bilibili_DoveBoy.json,DoveBoy/Apps
 wpsoffice-cn.json,DoveBoy/Apps
 restart-explorer_DoveBoy.json,DoveBoy/Apps
 optimizer_DoveBoy.json,DoveBoy/Apps
-chromium_DoveBoy.json,DoveBoy/Apps
 letrecovery.json,DoveBoy/Apps
 text-grab_DoveBoy.json,DoveBoy/Apps
 nekoray_DoveBoy.json,DoveBoy/Apps
@@ -15250,7 +15253,7 @@ rtools44_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 emacs-mplscorwin.json,ShuguangSun/sgs-scoop-bucket
 juliamono_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 mupdf_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-super-productivity_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+super-productivity.json,ShuguangSun/sgs-scoop-bucket
 roboto.json,ShuguangSun/sgs-scoop-bucket
 Sarasa-Gothic.json,ShuguangSun/sgs-scoop-bucket
 chatbox_ce.json,ShuguangSun/sgs-scoop-bucket
