@@ -8677,7 +8677,7 @@ psloggedon.json,niheaven/scoop-sysinternals
 junction.json,niheaven/scoop-sysinternals
 diskview.json,niheaven/scoop-sysinternals
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -8704,7 +8704,7 @@ cemu-dev_borger.json,borger/scoop-emulators
 azahar_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
-2ship2harkinian.json,borger/scoop-emulators
+2ship2harkinian_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
 gopher64_borger.json,borger/scoop-emulators
@@ -9753,7 +9753,8 @@ v2rayn-SelfContained.json,DoveBoy/Apps
 pixiv-omina.json,DoveBoy/Apps
 dreamscene2.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
-pscompletions.json,DoveBoy/Apps
+pscompletions_DoveBoy.json,DoveBoy/Apps
+cudatext.json,DoveBoy/Apps
 forkgram_DoveBoy.json,DoveBoy/Apps
 varia-portable.json,DoveBoy/Apps
 everything-beta_DoveBoy.json,DoveBoy/Apps
@@ -9809,7 +9810,6 @@ everything_DoveBoy.json,DoveBoy/Apps
 cleanmywechat.json,DoveBoy/Apps
 sshwifty.json,DoveBoy/Apps
 mihomo_DoveBoy.json,DoveBoy/Apps
-rufus.json,DoveBoy/Apps
 chatbox_DoveBoy.json,DoveBoy/Apps
 experimental-clash.json,DoveBoy/Apps
 typora-dev_DoveBoy.json,DoveBoy/Apps
@@ -12307,7 +12307,7 @@ chatterino7-qt5.json,brian6932/dank-scoop
 vmware-workstation-pro-np.json,brian6932/dank-scoop
 gimagereader.json,brian6932/dank-scoop
 scc_batkiz.json,batkiz/backit
-sq_batkiz.json,batkiz/backit
+sq.json,batkiz/backit
 ghdl_batkiz.json,batkiz/backit
 obs-cli.json,batkiz/backit
 hoyo.gacha.json,batkiz/backit
