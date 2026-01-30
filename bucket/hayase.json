@@ -1,0 +1,25 @@
+{
+    "version": "6.4.51",
+    "description": "Formerly Miru. Torrent streaming made simple. Watch anime torrents, real-time with no waiting for downloads.",
+    "homepage": "https://hayase.watch/",
+    "license": "BUSL-1.1",
+    "url": "https://api.hayase.watch/files/win-hayase-6.4.51-installer.exe#/dl.7z",
+    "hash": "3bfdfaeadbad748ff3ae533f2d04a0fefb30799302878a8bba80f75063fad93d",
+    "pre_install": [
+        "Expand-7zipArchive -Path \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
+        "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\`$R0\" -Recurse -Force"
+    ],
+    "shortcuts": [
+        [
+            "Hayase.exe",
+            "Hayase"
+        ]
+    ],
+    "checkver": {
+        "url": "https://api.hayase.watch/files/latest.yml",
+        "regex": "version: (.*)"
+    },
+    "autoupdate": {
+        "url": "https://api.hayase.watch/files/win-hayase-$version-installer.exe#/dl.7z"
+    }
+}

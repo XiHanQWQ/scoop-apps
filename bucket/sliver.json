@@ -1,0 +1,40 @@
+{
+    "version": "1.6.9",
+    "description": "Adversary Emulation Framework",
+    "homepage": "https://github.com/BishopFox/sliver",
+    "license": "GPL-3.0-or-later",
+    "notes": "https://github.com/ViCrack/scoop-bucket/blob/master/bucket/sliver.json",
+    "architecture": {
+        "64bit": {
+            "url": [
+                "https://github.com/BishopFox/sliver/releases/download/v1.6.9/sliver-client_windows-amd64.exe",
+                "https://github.com/BishopFox/sliver/releases/download/v1.6.9/sliver-server_windows-amd64.exe"
+            ],
+            "hash": [
+                "7682acce27c068d8c2ec861782a2997b950e3d75cb304c7ac86c39501bf4248d",
+                "0f87005aa8c905180d1dbf6f83f9edc2d6326ac82ff59af0c9e91d8eef1b21bb"
+            ]
+        }
+    },
+    "bin": [
+        [
+            "sliver-client_windows-amd64.exe",
+            "sliver-client"
+        ],
+        [
+            "sliver-server_windows-amd64.exe",
+            "sliver-server"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": [
+                    "https://github.com/BishopFox/sliver/releases/download/v$version/sliver-client_windows-amd64.exe",
+                    "https://github.com/BishopFox/sliver/releases/download/v$version/sliver-server_windows-amd64.exe"
+                ]
+            }
+        }
+    }
+}
