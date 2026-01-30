@@ -171,6 +171,7 @@ CorelDraw.json,kkzzhizhou/scoop-zapps
 chrome-with-flash.json,kkzzhizhou/scoop-zapps
 Edge-Webdriver-Stable.json,Weidows-projects/scoop-3rd
 audius.json,Weidows-projects/scoop-3rd
+LunaBox.json,Weidows-projects/scoop-3rd
 ZipCracker.json,Weidows-projects/scoop-3rd
 SamToki-pack.json,Weidows-projects/scoop-3rd
 sigma-file-manager.json,Weidows-projects/scoop-3rd
@@ -8560,7 +8561,7 @@ dolphin-beta.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 steam-rom-manager_hermanjustnu.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
-mgba-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+mgba-dev.json,hermanjustnu/scoop-emulators
 sameboy_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 cemuhook.json,hermanjustnu/scoop-emulators
