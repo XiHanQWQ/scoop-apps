@@ -8513,7 +8513,6 @@ mameui_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux-qt-interim.json,hermanjustnu/scoop-emulators
 fceux.json,hermanjustnu/scoop-emulators
 vice-sdl2-snapshot.json,hermanjustnu/scoop-emulators
-beebem.json,hermanjustnu/scoop-emulators
 fceux-interim.json,hermanjustnu/scoop-emulators
 mednaffe_hermanjustnu.json,hermanjustnu/scoop-emulators
 handy.json,hermanjustnu/scoop-emulators
@@ -8680,7 +8679,7 @@ diskview.json,niheaven/scoop-sysinternals
 mupen64plus.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
-scummvm_borger.json,borger/scoop-emulators
+scummvm.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
 starship_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
@@ -8691,7 +8690,7 @@ bsnes-hd-beta_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 citron.json,borger/scoop-emulators
-ryujinx-canary_borger.json,borger/scoop-emulators
+ryujinx-canary.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
@@ -8842,7 +8841,7 @@ emeditor_ViCrack.json,ViCrack/scoop-bucket
 rubick.json,ViCrack/scoop-bucket
 gowitness.json,ViCrack/scoop-bucket
 apifox_ViCrack.json,ViCrack/scoop-bucket
-edx.json,ViCrack/scoop-bucket
+edx_ViCrack.json,ViCrack/scoop-bucket
 newfiletime_ViCrack.json,ViCrack/scoop-bucket
 weflow.json,ViCrack/scoop-bucket
 z0scan.json,ViCrack/scoop-bucket
@@ -10302,7 +10301,7 @@ OracleJDK8.json,zhoujin7/tomato
 QtDesigner.json,zhoujin7/tomato
 RegistryWorkshop.json,zhoujin7/tomato
 fastgithub_zhoujin7.json,zhoujin7/tomato
-Quicker.json,zhoujin7/tomato
+Quicker_zhoujin7.json,zhoujin7/tomato
 notepad--_zhoujin7.json,zhoujin7/tomato
 maven_zhoujin7.json,zhoujin7/tomato
 PhotoFiltre7.json,zhoujin7/tomato
