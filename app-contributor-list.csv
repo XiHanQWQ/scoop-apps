@@ -2352,7 +2352,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -7839,7 +7839,7 @@ Python-embed.json,dodorz/scoop
 FullSync.json,dodorz/scoop
 Notepad4_zh-Hans-AVX512.json,dodorz/scoop
 ExplorerXP.json,dodorz/scoop
-wimlib.json,dodorz/scoop
+wimlib_dodorz.json,dodorz/scoop
 MonkeysAudio.json,dodorz/scoop
 cht.sh.json,dodorz/scoop
 ChezScheme_dodorz.json,dodorz/scoop
@@ -9754,7 +9754,6 @@ pixiv-omina.json,DoveBoy/Apps
 dreamscene2.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
 pscompletions_DoveBoy.json,DoveBoy/Apps
-cudatext_DoveBoy.json,DoveBoy/Apps
 forkgram_DoveBoy.json,DoveBoy/Apps
 varia-portable.json,DoveBoy/Apps
 everything-beta_DoveBoy.json,DoveBoy/Apps
@@ -12307,7 +12306,7 @@ chatterino7-qt5.json,brian6932/dank-scoop
 vmware-workstation-pro-np.json,brian6932/dank-scoop
 gimagereader.json,brian6932/dank-scoop
 scc_batkiz.json,batkiz/backit
-sq.json,batkiz/backit
+sq_batkiz.json,batkiz/backit
 ghdl_batkiz.json,batkiz/backit
 obs-cli.json,batkiz/backit
 hoyo.gacha.json,batkiz/backit
