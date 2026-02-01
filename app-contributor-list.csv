@@ -10359,7 +10359,7 @@ googlechrome_EFLKumo.json,EFLKumo/jam
 pot_EFLKumo.json,EFLKumo/jam
 siyuan-unlock.json,EFLKumo/jam
 readest_EFLKumo.json,EFLKumo/jam
-keyguard_EFLKumo.json,EFLKumo/jam
+keyguard.json,EFLKumo/jam
 void_EFLKumo.json,EFLKumo/jam
 weylus_hu3rror.json,hu3rror/scoop-muggle
 steamplusplus-legacy.json,hu3rror/scoop-muggle
@@ -10653,7 +10653,7 @@ sonarr.json,amorphobia/siku
 arturo_amorphobia.json,amorphobia/siku
 dvm_amorphobia.json,amorphobia/siku
 yakc.json,amorphobia/siku
-filebrowser_amorphobia.json,amorphobia/siku
+filebrowser.json,amorphobia/siku
 radarr_amorphobia.json,amorphobia/siku
 pcl2-ce.json,amorphobia/siku
 arturo-nightly.json,amorphobia/siku
