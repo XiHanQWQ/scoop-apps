@@ -91,8 +91,6 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - kiennq/scoop-misc
 - cmontage/scoopbucket-third
 - TheRandomLabs/Scoop-Bucket
-- everyx/scoop-bucket
-- Qv2ray/mochi
 - DoveBoy/Apps
 - charmbracelet/scoop-bucket
 - zhoujin7/tomato
@@ -101,14 +99,12 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - TheRandomLabs/Scoop-Python
 - hu3rror/scoop-muggle
 - amorphobia/siku
-- jonz94/scoop-sarasa-nerd-fonts
 - NyaMisty/scoop_bucket_misty
 - naderi/scoop-bucket
 - kengwang/scoop-ctftools-bucket
 - noql-net/scoop
 - WinApps-share/WinApps-bucket
 - ygguorun/scoop-bucket
-- abgox/abgo_bucket
 - aliesbelik/poldi
 - asimov-platform/scoop-bucket
 - liaoya/scoop-bucket
@@ -117,9 +113,6 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - Small-Ku/turbo-bucket
 - Weidows-projects/scoop-3rd
 - Velgus/Scoop-Portapps
-- ChungZH/peach
-- AStupidBear/scoop-bear
-- SayCV/scoop-cvp
 - starise/Scoop-Confetti
 - seumsc/scoop-seu
 - TianXiaTech/scoop-txt
@@ -136,7 +129,6 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - rivy/scoop-bucket
 - natecohen/scoop-av
 - AkariiinMKII/Scoop4kariiin
-- Toddli468/Pentest-Scoop-Bucket
 - HUMORCE/nuke
 - littleli/Scoop-littleli
 - Deide/deide-bucket
@@ -146,10 +138,6 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - BenjaminMichaelis/Config
 - ChinLong/scoop-customize
 - littleli/Scoop-AtariEmulators
-- jingyu9575/scoop-jingyu9575
-- Darkatse/Scoop-KanColle
-- yuusakuri/scoop-bucket
-- MCOfficer/scoop-bucket
 - Locietta/sniffer
 - ShuguangSun/sgs-scoop-bucket
 - Rinkerbel/scooped
@@ -160,6 +148,3 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - younger-1/scoop-it
 - windedge/ladle-bucket
 - milnak/scoop-bucket
-- p8rdev/scoop-portableapps
-- WiiDatabase/scoop-bucket
-- yuanying1199/scoopbucket
