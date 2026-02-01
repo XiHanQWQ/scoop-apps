@@ -8690,7 +8690,7 @@ bsnes-hd-beta_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 citron.json,borger/scoop-emulators
-ryujinx-canary.json,borger/scoop-emulators
+ryujinx-canary_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
@@ -8856,6 +8856,7 @@ jar-analyzer_ViCrack.json,ViCrack/scoop-bucket
 rakshasa.json,ViCrack/scoop-bucket
 chatlab.json,ViCrack/scoop-bucket
 suo5_ViCrack.json,ViCrack/scoop-bucket
+hyacinth.json,ViCrack/scoop-bucket
 struts2vulsscantools.json,ViCrack/scoop-bucket
 behinder_ViCrack.json,ViCrack/scoop-bucket
 transfer.json,ViCrack/scoop-bucket
@@ -9557,7 +9558,7 @@ tageditor-qt5.json,DoveBoy/Apps
 study-xxqg-sjkhsl.json,DoveBoy/Apps
 ali.json,DoveBoy/Apps
 showkeyboard-node.json,DoveBoy/Apps
-pdfarranger.json,DoveBoy/Apps
+pdfarranger_DoveBoy.json,DoveBoy/Apps
 lux_DoveBoy.json,DoveBoy/Apps
 clashn.json,DoveBoy/Apps
 ungoogled-chromium_DoveBoy.json,DoveBoy/Apps
@@ -10460,7 +10461,7 @@ nhse.json,hu3rror/scoop-muggle
 q_hu3rror.json,hu3rror/scoop-muggle
 get-childitemcolor.json,hu3rror/scoop-muggle
 chromium_hu3rror.json,hu3rror/scoop-muggle
-picgo.json,hu3rror/scoop-muggle
+picgo_hu3rror.json,hu3rror/scoop-muggle
 usbeam-consoles-dns.json,hu3rror/scoop-muggle
 acttools.json,hu3rror/scoop-muggle
 ImTip.json,hu3rror/scoop-muggle
@@ -11235,7 +11236,7 @@ trollrestore.json,WinApps-share/WinApps-bucket
 google-chrome.json,WinApps-share/WinApps-bucket
 flclash-np.json,WinApps-share/WinApps-bucket
 cherry-studio-np.json,WinApps-share/WinApps-bucket
-edge.json,WinApps-share/WinApps-bucket
+edge_WinApps-share.json,WinApps-share/WinApps-bucket
 bbdown_WinApps-share.json,WinApps-share/WinApps-bucket
 autohotkey_WinApps-share.json,WinApps-share/WinApps-bucket
 picview_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -11309,6 +11310,8 @@ unigetui_WinApps-share.json,WinApps-share/WinApps-bucket
 motrix-np.json,WinApps-share/WinApps-bucket
 diskgenius_WinApps-share.json,WinApps-share/WinApps-bucket
 git-np.json,WinApps-share/WinApps-bucket
+snowshot-np.json,WinApps-share/WinApps-bucket
+snowshot.json,WinApps-share/WinApps-bucket
 softcnkiller.json,WinApps-share/WinApps-bucket
 powertoys_WinApps-share.json,WinApps-share/WinApps-bucket
 wechat_WinApps-share.json,WinApps-share/WinApps-bucket
