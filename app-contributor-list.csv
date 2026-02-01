@@ -8690,7 +8690,7 @@ bsnes-hd-beta_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 citron.json,borger/scoop-emulators
-ryujinx-canary_borger.json,borger/scoop-emulators
+ryujinx-canary.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
@@ -9557,7 +9557,7 @@ tageditor-qt5.json,DoveBoy/Apps
 study-xxqg-sjkhsl.json,DoveBoy/Apps
 ali.json,DoveBoy/Apps
 showkeyboard-node.json,DoveBoy/Apps
-pdfarranger_DoveBoy.json,DoveBoy/Apps
+pdfarranger.json,DoveBoy/Apps
 lux_DoveBoy.json,DoveBoy/Apps
 clashn.json,DoveBoy/Apps
 ungoogled-chromium_DoveBoy.json,DoveBoy/Apps
