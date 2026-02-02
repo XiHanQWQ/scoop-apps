@@ -2253,7 +2253,7 @@ commandbox.json,ScoopInstaller/Extras
 neohtop.json,ScoopInstaller/Extras
 treesheets.json,ScoopInstaller/Extras
 vesktop.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 fontforge.json,ScoopInstaller/Extras
 baretail.json,ScoopInstaller/Extras
 vcredist2013.json,ScoopInstaller/Extras
@@ -2352,7 +2352,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -9517,7 +9517,7 @@ winhance.json,DoveBoy/Apps
 zyplayer.json,DoveBoy/Apps
 youtube-dl_DoveBoy.json,DoveBoy/Apps
 spotx.json,DoveBoy/Apps
-v2rayn.json,DoveBoy/Apps
+v2rayn_DoveBoy.json,DoveBoy/Apps
 windows11-classic-context-menu_DoveBoy.json,DoveBoy/Apps
 hwinfo_DoveBoy.json,DoveBoy/Apps
 posh-git_DoveBoy.json,DoveBoy/Apps
@@ -9699,7 +9699,7 @@ pixivbiu.json,DoveBoy/Apps
 reduce-memory_DoveBoy.json,DoveBoy/Apps
 yarn-completion.json,DoveBoy/Apps
 nhentai-cross.json,DoveBoy/Apps
-v2rayn-SelfContained.json,DoveBoy/Apps
+v2rayn-SelfContained_DoveBoy.json,DoveBoy/Apps
 pixiv-omina.json,DoveBoy/Apps
 dreamscene2.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
@@ -9814,7 +9814,6 @@ http-downloader_DoveBoy.json,DoveBoy/Apps
 runastool_DoveBoy.json,DoveBoy/Apps
 delapp_DoveBoy.json,DoveBoy/Apps
 pikatorrent.json,DoveBoy/Apps
-electerm_DoveBoy.json,DoveBoy/Apps
 gh_DoveBoy.json,DoveBoy/Apps
 waveterm_DoveBoy.json,DoveBoy/Apps
 pot-desktop_DoveBoy.json,DoveBoy/Apps
@@ -11257,7 +11256,7 @@ sideloadly.json,WinApps-share/WinApps-bucket
 whynot-win11.json,WinApps-share/WinApps-bucket
 xiaowan_WinApps-share.json,WinApps-share/WinApps-bucket
 flipIt.json,WinApps-share/WinApps-bucket
-pixpin.json,WinApps-share/WinApps-bucket
+pixpin_WinApps-share.json,WinApps-share/WinApps-bucket
 winscp_WinApps-share.json,WinApps-share/WinApps-bucket
 bongocat_WinApps-share.json,WinApps-share/WinApps-bucket
 ditto-np_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -14731,7 +14730,7 @@ IBMPlexTT.json,ShuguangSun/sgs-scoop-bucket
 ydict.json,ShuguangSun/sgs-scoop-bucket
 Maple-Mono-otf_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 Font-Awesome_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+r-devel.json,ShuguangSun/sgs-scoop-bucket
 glaxnimate.json,windedge/ladle-bucket
 pdfbox-debugger.json,windedge/ladle-bucket
 mkeditor.json,windedge/ladle-bucket
