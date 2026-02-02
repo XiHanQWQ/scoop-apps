@@ -2830,7 +2830,7 @@ npiperelay.json,ScoopInstaller/Extras
 caret.json,ScoopInstaller/Extras
 vibrance-gui.json,ScoopInstaller/Extras
 wox.json,ScoopInstaller/Extras
-g-helper_ScoopInstaller.json,ScoopInstaller/Extras
+g-helper.json,ScoopInstaller/Extras
 thunderbird-esr.json,ScoopInstaller/Extras
 outlook-window-hook.json,ScoopInstaller/Extras
 visualc.json,ScoopInstaller/Extras
@@ -10160,7 +10160,7 @@ shadowsocksr-hmbsbige_DoveBoy.json,DoveBoy/Apps
 pwsh_DoveBoy.json,DoveBoy/Apps
 chfs-tab-completion.json,DoveBoy/Apps
 openlist_DoveBoy.json,DoveBoy/Apps
-neteaseuu_DoveBoy.json,DoveBoy/Apps
+neteaseuu.json,DoveBoy/Apps
 officetoolplus-with-runtime.json,DoveBoy/Apps
 psreadline_DoveBoy.json,DoveBoy/Apps
 easymusic.json,DoveBoy/Apps
@@ -14270,6 +14270,7 @@ steamtokendumper.json,Rinkerbel/scooped
 sharex-hdr.json,Rinkerbel/scooped
 zenshin.json,Rinkerbel/scooped
 syncyomi.json,Rinkerbel/scooped
+mangayomi.json,Rinkerbel/scooped
 toru.json,Rinkerbel/scooped
 anymex.json,Rinkerbel/scooped
 shokoserver.json,Rinkerbel/scooped
