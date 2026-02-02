@@ -2253,7 +2253,7 @@ commandbox.json,ScoopInstaller/Extras
 neohtop.json,ScoopInstaller/Extras
 treesheets.json,ScoopInstaller/Extras
 vesktop.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 fontforge.json,ScoopInstaller/Extras
 baretail.json,ScoopInstaller/Extras
 vcredist2013.json,ScoopInstaller/Extras
@@ -2352,7 +2352,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -9533,7 +9533,7 @@ bookget.json,DoveBoy/Apps
 nu_DoveBoy.json,DoveBoy/Apps
 liveautorecord.json,DoveBoy/Apps
 dwarfs.json,DoveBoy/Apps
-wingetui.json,DoveBoy/Apps
+wingetui_DoveBoy.json,DoveBoy/Apps
 final2x-portable.json,DoveBoy/Apps
 lemonpush.json,DoveBoy/Apps
 clashmi.json,DoveBoy/Apps
@@ -9814,6 +9814,7 @@ http-downloader_DoveBoy.json,DoveBoy/Apps
 runastool_DoveBoy.json,DoveBoy/Apps
 delapp_DoveBoy.json,DoveBoy/Apps
 pikatorrent.json,DoveBoy/Apps
+electerm_DoveBoy.json,DoveBoy/Apps
 gh_DoveBoy.json,DoveBoy/Apps
 waveterm_DoveBoy.json,DoveBoy/Apps
 pot-desktop_DoveBoy.json,DoveBoy/Apps
@@ -10359,7 +10360,7 @@ googlechrome_EFLKumo.json,EFLKumo/jam
 pot_EFLKumo.json,EFLKumo/jam
 siyuan-unlock.json,EFLKumo/jam
 readest_EFLKumo.json,EFLKumo/jam
-keyguard.json,EFLKumo/jam
+keyguard_EFLKumo.json,EFLKumo/jam
 void_EFLKumo.json,EFLKumo/jam
 weylus_hu3rror.json,hu3rror/scoop-muggle
 steamplusplus-legacy.json,hu3rror/scoop-muggle
@@ -10653,7 +10654,7 @@ sonarr.json,amorphobia/siku
 arturo_amorphobia.json,amorphobia/siku
 dvm_amorphobia.json,amorphobia/siku
 yakc.json,amorphobia/siku
-filebrowser.json,amorphobia/siku
+filebrowser_amorphobia.json,amorphobia/siku
 radarr_amorphobia.json,amorphobia/siku
 pcl2-ce.json,amorphobia/siku
 arturo-nightly.json,amorphobia/siku
@@ -11930,7 +11931,7 @@ mpv-git_brian6932.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 glorious-core.json,brian6932/dank-scoop
 streamsave-dev.json,brian6932/dank-scoop
-tgpt.json,brian6932/dank-scoop
+tgpt_brian6932.json,brian6932/dank-scoop
 clima.json,brian6932/dank-scoop
 twitch-hls-client-uri-protocol.json,brian6932/dank-scoop
 pwsh-man-highlighting.json,brian6932/dank-scoop
