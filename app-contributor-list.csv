@@ -8545,7 +8545,7 @@ retroarch-nightly.json,hermanjustnu/scoop-emulators
 hoxs64.json,hermanjustnu/scoop-emulators
 vice-gtk3.json,hermanjustnu/scoop-emulators
 mgba_hermanjustnu.json,hermanjustnu/scoop-emulators
-snes9x-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+snes9x-dev.json,hermanjustnu/scoop-emulators
 visualboyadvance-m-nightly_hermanjustnu.json,hermanjustnu/scoop-emulators
 rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
 cxbx-reloaded_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -9724,7 +9724,7 @@ keyviz.json,DoveBoy/Apps
 binggpt.json,DoveBoy/Apps
 lively_DoveBoy.json,DoveBoy/Apps
 pdfqfz.json,DoveBoy/Apps
-googlechrome_DoveBoy.json,DoveBoy/Apps
+googlechrome.json,DoveBoy/Apps
 tiktokdownloader.json,DoveBoy/Apps
 oneanime.json,DoveBoy/Apps
 lanzou-gui.json,DoveBoy/Apps
@@ -10241,7 +10241,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
@@ -14631,7 +14631,7 @@ r-4.5.1.json,ShuguangSun/sgs-scoop-bucket
 micromamba-cn-2.2.0.json,ShuguangSun/sgs-scoop-bucket
 chatbox-1.15.2.json,ShuguangSun/sgs-scoop-bucket
 Maple-Mono-NF-CN_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-python314_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+python314.json,ShuguangSun/sgs-scoop-bucket
 r-4.3.0.json,ShuguangSun/sgs-scoop-bucket
 miktex_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 xpdf-tools_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
