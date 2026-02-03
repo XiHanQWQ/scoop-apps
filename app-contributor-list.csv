@@ -9278,6 +9278,7 @@ mdbook_akirco.json,akirco/aki-apps
 tup_akirco.json,akirco/aki-apps
 say_akirco.json,akirco/aki-apps
 telegram_akirco.json,akirco/aki-apps
+bilibili-livehime.json,akirco/aki-apps
 wechatdevtools_akirco.json,akirco/aki-apps
 pseverything.json,akirco/aki-apps
 biyi_akirco.json,akirco/aki-apps
@@ -9893,7 +9894,7 @@ littletips.json,DoveBoy/Apps
 maple-file.json,DoveBoy/Apps
 imfile-portable.json,DoveBoy/Apps
 mediago.json,DoveBoy/Apps
-dandanplay_DoveBoy.json,DoveBoy/Apps
+dandanplay.json,DoveBoy/Apps
 ipcalc_DoveBoy.json,DoveBoy/Apps
 everything-lite_DoveBoy.json,DoveBoy/Apps
 xcmusic.json,DoveBoy/Apps
@@ -10166,6 +10167,7 @@ officetoolplus-with-runtime.json,DoveBoy/Apps
 psreadline_DoveBoy.json,DoveBoy/Apps
 easymusic.json,DoveBoy/Apps
 gotop_DoveBoy.json,DoveBoy/Apps
+github-store.json,DoveBoy/Apps
 hashcat_DoveBoy.json,DoveBoy/Apps
 jmcomic-downloader.json,DoveBoy/Apps
 logi-options-plus-mini.json,DoveBoy/Apps
@@ -12378,7 +12380,7 @@ fiddler-everywhere.json,seumsc/scoop-seu
 video2x_seumsc.json,seumsc/scoop-seu
 foobar2000-preview.json,seumsc/scoop-seu
 renpy-translator.json,seumsc/scoop-seu
-kook_seumsc.json,seumsc/scoop-seu
+kook.json,seumsc/scoop-seu
 autowikibrowser.json,seumsc/scoop-seu
 eduvpn.json,seumsc/scoop-seu
 librescore.json,seumsc/scoop-seu
