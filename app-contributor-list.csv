@@ -2830,7 +2830,7 @@ npiperelay.json,ScoopInstaller/Extras
 caret.json,ScoopInstaller/Extras
 vibrance-gui.json,ScoopInstaller/Extras
 wox.json,ScoopInstaller/Extras
-g-helper.json,ScoopInstaller/Extras
+g-helper_ScoopInstaller.json,ScoopInstaller/Extras
 thunderbird-esr.json,ScoopInstaller/Extras
 outlook-window-hook.json,ScoopInstaller/Extras
 visualc.json,ScoopInstaller/Extras
@@ -3111,7 +3111,7 @@ media-downloader.json,ScoopInstaller/Extras
 vcredist-aio.json,ScoopInstaller/Extras
 gedit.json,ScoopInstaller/Extras
 station.json,ScoopInstaller/Extras
-waifu2x-extension-gui.json,ScoopInstaller/Extras
+waifu2x-extension-gui_ScoopInstaller.json,ScoopInstaller/Extras
 netbeans.json,ScoopInstaller/Extras
 opera-gx.json,ScoopInstaller/Extras
 dxirc.json,ScoopInstaller/Extras
@@ -8544,10 +8544,10 @@ retroarch-nightly.json,hermanjustnu/scoop-emulators
 hoxs64.json,hermanjustnu/scoop-emulators
 vice-gtk3.json,hermanjustnu/scoop-emulators
 mgba_hermanjustnu.json,hermanjustnu/scoop-emulators
-snes9x-dev.json,hermanjustnu/scoop-emulators
+snes9x-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 visualboyadvance-m-nightly_hermanjustnu.json,hermanjustnu/scoop-emulators
 rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
-cxbx-reloaded.json,hermanjustnu/scoop-emulators
+cxbx-reloaded_hermanjustnu.json,hermanjustnu/scoop-emulators
 xemu_hermanjustnu.json,hermanjustnu/scoop-emulators
 vice-gtk3-snapshot.json,hermanjustnu/scoop-emulators
 mednafen-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -10161,7 +10161,7 @@ shadowsocksr-hmbsbige_DoveBoy.json,DoveBoy/Apps
 pwsh_DoveBoy.json,DoveBoy/Apps
 chfs-tab-completion.json,DoveBoy/Apps
 openlist_DoveBoy.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 officetoolplus-with-runtime.json,DoveBoy/Apps
 psreadline_DoveBoy.json,DoveBoy/Apps
 easymusic.json,DoveBoy/Apps
@@ -10238,7 +10238,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
@@ -12378,7 +12378,7 @@ fiddler-everywhere.json,seumsc/scoop-seu
 video2x_seumsc.json,seumsc/scoop-seu
 foobar2000-preview.json,seumsc/scoop-seu
 renpy-translator.json,seumsc/scoop-seu
-kook_seumsc.json,seumsc/scoop-seu
+kook.json,seumsc/scoop-seu
 autowikibrowser.json,seumsc/scoop-seu
 eduvpn.json,seumsc/scoop-seu
 librescore.json,seumsc/scoop-seu
@@ -12401,7 +12401,7 @@ leanify.json,seumsc/scoop-seu
 mahjong-helper_seumsc.json,seumsc/scoop-seu
 resxtranslator.json,seumsc/scoop-seu
 7ztm_seumsc.json,seumsc/scoop-seu
-hmcl.json,seumsc/scoop-seu
+hmcl_seumsc.json,seumsc/scoop-seu
 nusmv.json,seumsc/scoop-seu
 kindlegen_seumsc.json,seumsc/scoop-seu
 subconverter_seumsc.json,seumsc/scoop-seu
