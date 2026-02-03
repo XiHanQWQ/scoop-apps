@@ -2253,7 +2253,7 @@ commandbox.json,ScoopInstaller/Extras
 neohtop.json,ScoopInstaller/Extras
 treesheets.json,ScoopInstaller/Extras
 vesktop.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 fontforge.json,ScoopInstaller/Extras
 baretail.json,ScoopInstaller/Extras
 vcredist2013.json,ScoopInstaller/Extras
@@ -8544,7 +8544,7 @@ retroarch-nightly.json,hermanjustnu/scoop-emulators
 hoxs64.json,hermanjustnu/scoop-emulators
 vice-gtk3.json,hermanjustnu/scoop-emulators
 mgba_hermanjustnu.json,hermanjustnu/scoop-emulators
-snes9x-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+snes9x-dev.json,hermanjustnu/scoop-emulators
 visualboyadvance-m-nightly_hermanjustnu.json,hermanjustnu/scoop-emulators
 rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
 cxbx-reloaded_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -12378,7 +12378,7 @@ fiddler-everywhere.json,seumsc/scoop-seu
 video2x_seumsc.json,seumsc/scoop-seu
 foobar2000-preview.json,seumsc/scoop-seu
 renpy-translator.json,seumsc/scoop-seu
-kook.json,seumsc/scoop-seu
+kook_seumsc.json,seumsc/scoop-seu
 autowikibrowser.json,seumsc/scoop-seu
 eduvpn.json,seumsc/scoop-seu
 librescore.json,seumsc/scoop-seu
