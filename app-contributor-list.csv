@@ -7858,7 +7858,7 @@ py_dodorz.json,dodorz/scoop
 WeChat_dodorz.json,dodorz/scoop
 tagLyst.json,dodorz/scoop
 CyberShredder.json,dodorz/scoop
-Fresh.json,dodorz/scoop
+Fresh_dodorz.json,dodorz/scoop
 FARR.json,dodorz/scoop
 OpenProj.json,dodorz/scoop
 MemCheck.json,dodorz/scoop
@@ -8241,7 +8241,7 @@ Notepad4_zh-Hans-AVX2.json,dodorz/scoop
 Iron.json,dodorz/scoop
 UltraCopier.json,dodorz/scoop
 YoudaoDict.json,dodorz/scoop
-html-to-markdown.json,dodorz/scoop
+html-to-markdown_dodorz.json,dodorz/scoop
 DelAge.json,dodorz/scoop
 Metapad.json,dodorz/scoop
 jsdb.json,dodorz/scoop
@@ -8719,7 +8719,7 @@ cxbx-reloaded_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
-vita3k_borger.json,borger/scoop-emulators
+vita3k.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -9165,7 +9165,7 @@ figlet_akirco.json,akirco/aki-apps
 nyagos_akirco.json,akirco/aki-apps
 dingtalk_akirco.json,akirco/aki-apps
 nmap-portable.json,akirco/aki-apps
-firefox-zh-cn_akirco.json,akirco/aki-apps
+firefox-zh-cn.json,akirco/aki-apps
 audacity_akirco.json,akirco/aki-apps
 nvm_akirco.json,akirco/aki-apps
 gdrive_akirco.json,akirco/aki-apps
@@ -9211,7 +9211,7 @@ prs_akirco.json,akirco/aki-apps
 spotube_akirco.json,akirco/aki-apps
 rustdesk_akirco.json,akirco/aki-apps
 bob.json,akirco/aki-apps
-vscode_akirco.json,akirco/aki-apps
+vscode.json,akirco/aki-apps
 scrcpy_akirco.json,akirco/aki-apps
 empty-recycle-bin_akirco.json,akirco/aki-apps
 easywsl.json,akirco/aki-apps
@@ -9380,6 +9380,7 @@ bun_akirco.json,akirco/aki-apps
 nano_akirco.json,akirco/aki-apps
 vcredist2017.json,akirco/aki-apps
 pwsh_akirco.json,akirco/aki-apps
+go-cn.json,akirco/aki-apps
 pngcrush_akirco.json,akirco/aki-apps
 crow-translate_akirco.json,akirco/aki-apps
 you-get_akirco.json,akirco/aki-apps
