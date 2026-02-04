@@ -2504,7 +2504,6 @@ scidavis.json,ScoopInstaller/Extras
 lazpaint.json,ScoopInstaller/Extras
 qtox.json,ScoopInstaller/Extras
 wasabi-wallet.json,ScoopInstaller/Extras
-moar.json,ScoopInstaller/Extras
 dia.json,ScoopInstaller/Extras
 speedcrunch.json,ScoopInstaller/Extras
 mpv-easy-player.json,ScoopInstaller/Extras
@@ -3367,6 +3366,7 @@ fmedia.json,ScoopInstaller/Extras
 appium.json,ScoopInstaller/Extras
 pandownload.json,ScoopInstaller/Extras
 veonim.json,ScoopInstaller/Extras
+moar.json,ScoopInstaller/Extras
 kindlegen.json,ScoopInstaller/Extras
 kicad-lite.json,ScoopInstaller/Extras
 webcamoid.json,ScoopInstaller/Extras
@@ -8545,7 +8545,7 @@ retroarch-nightly.json,hermanjustnu/scoop-emulators
 hoxs64.json,hermanjustnu/scoop-emulators
 vice-gtk3.json,hermanjustnu/scoop-emulators
 mgba_hermanjustnu.json,hermanjustnu/scoop-emulators
-snes9x-dev.json,hermanjustnu/scoop-emulators
+snes9x-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 visualboyadvance-m-nightly_hermanjustnu.json,hermanjustnu/scoop-emulators
 rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
 cxbx-reloaded_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -9279,7 +9279,6 @@ mdbook_akirco.json,akirco/aki-apps
 tup_akirco.json,akirco/aki-apps
 say_akirco.json,akirco/aki-apps
 telegram_akirco.json,akirco/aki-apps
-bilibili-livehime.json,akirco/aki-apps
 wechatdevtools_akirco.json,akirco/aki-apps
 pseverything.json,akirco/aki-apps
 biyi_akirco.json,akirco/aki-apps
@@ -9724,7 +9723,7 @@ keyviz.json,DoveBoy/Apps
 binggpt.json,DoveBoy/Apps
 lively_DoveBoy.json,DoveBoy/Apps
 pdfqfz.json,DoveBoy/Apps
-googlechrome.json,DoveBoy/Apps
+googlechrome_DoveBoy.json,DoveBoy/Apps
 tiktokdownloader.json,DoveBoy/Apps
 oneanime.json,DoveBoy/Apps
 lanzou-gui.json,DoveBoy/Apps
@@ -9895,7 +9894,7 @@ littletips.json,DoveBoy/Apps
 maple-file.json,DoveBoy/Apps
 imfile-portable.json,DoveBoy/Apps
 mediago.json,DoveBoy/Apps
-dandanplay.json,DoveBoy/Apps
+dandanplay_DoveBoy.json,DoveBoy/Apps
 ipcalc_DoveBoy.json,DoveBoy/Apps
 everything-lite_DoveBoy.json,DoveBoy/Apps
 xcmusic.json,DoveBoy/Apps
@@ -11575,7 +11574,6 @@ naabu_aliesbelik.json,aliesbelik/poldi
 freeze_aliesbelik.json,aliesbelik/poldi
 gickup.json,aliesbelik/poldi
 kubestr.json,aliesbelik/poldi
-nping_aliesbelik.json,aliesbelik/poldi
 atlas-ce.json,aliesbelik/poldi
 dcv.json,aliesbelik/poldi
 lstr.json,aliesbelik/poldi
@@ -11667,6 +11665,7 @@ multicurl.json,aliesbelik/poldi
 jnv_aliesbelik.json,aliesbelik/poldi
 kubewall.json,aliesbelik/poldi
 tuifeed.json,aliesbelik/poldi
+dawn_aliesbelik.json,aliesbelik/poldi
 resto.json,aliesbelik/poldi
 klog.json,aliesbelik/poldi
 updo.json,aliesbelik/poldi
@@ -11680,6 +11679,7 @@ ntttcp.json,aliesbelik/poldi
 grpcui.json,aliesbelik/poldi
 cloudlens.json,aliesbelik/poldi
 sou.json,aliesbelik/poldi
+nbping.json,aliesbelik/poldi
 kdash.json,aliesbelik/poldi
 kubedump.json,aliesbelik/poldi
 helmsman_aliesbelik.json,aliesbelik/poldi
@@ -12348,7 +12348,7 @@ fiddler-everywhere.json,seumsc/scoop-seu
 video2x_seumsc.json,seumsc/scoop-seu
 foobar2000-preview.json,seumsc/scoop-seu
 renpy-translator.json,seumsc/scoop-seu
-kook.json,seumsc/scoop-seu
+kook_seumsc.json,seumsc/scoop-seu
 autowikibrowser.json,seumsc/scoop-seu
 eduvpn.json,seumsc/scoop-seu
 librescore.json,seumsc/scoop-seu
@@ -14631,7 +14631,7 @@ r-4.5.1.json,ShuguangSun/sgs-scoop-bucket
 micromamba-cn-2.2.0.json,ShuguangSun/sgs-scoop-bucket
 chatbox-1.15.2.json,ShuguangSun/sgs-scoop-bucket
 Maple-Mono-NF-CN_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-python314.json,ShuguangSun/sgs-scoop-bucket
+python314_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 r-4.3.0.json,ShuguangSun/sgs-scoop-bucket
 miktex_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 xpdf-tools_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
