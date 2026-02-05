@@ -8187,7 +8187,7 @@ Chocolatey.json,dodorz/scoop
 YankNote.json,dodorz/scoop
 MarkdownPad.json,dodorz/scoop
 ZYPlayer.json,dodorz/scoop
-AdguardHome.json,dodorz/scoop
+AdguardHome_dodorz.json,dodorz/scoop
 Everything_dodorz.json,dodorz/scoop
 GitNote.json,dodorz/scoop
 SquirrelShell.json,dodorz/scoop
@@ -8719,7 +8719,7 @@ cxbx-reloaded_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -9165,7 +9165,7 @@ figlet_akirco.json,akirco/aki-apps
 nyagos_akirco.json,akirco/aki-apps
 dingtalk_akirco.json,akirco/aki-apps
 nmap-portable.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 audacity_akirco.json,akirco/aki-apps
 nvm_akirco.json,akirco/aki-apps
 gdrive_akirco.json,akirco/aki-apps
@@ -9211,7 +9211,7 @@ prs_akirco.json,akirco/aki-apps
 spotube_akirco.json,akirco/aki-apps
 rustdesk_akirco.json,akirco/aki-apps
 bob.json,akirco/aki-apps
-vscode.json,akirco/aki-apps
+vscode_akirco.json,akirco/aki-apps
 scrcpy_akirco.json,akirco/aki-apps
 empty-recycle-bin_akirco.json,akirco/aki-apps
 easywsl.json,akirco/aki-apps
@@ -9380,7 +9380,6 @@ bun_akirco.json,akirco/aki-apps
 nano_akirco.json,akirco/aki-apps
 vcredist2017.json,akirco/aki-apps
 pwsh_akirco.json,akirco/aki-apps
-go-cn.json,akirco/aki-apps
 pngcrush_akirco.json,akirco/aki-apps
 crow-translate_akirco.json,akirco/aki-apps
 you-get_akirco.json,akirco/aki-apps
@@ -10088,7 +10087,7 @@ lx-music-desktop.json,DoveBoy/Apps
 game-cheats-manager_DoveBoy.json,DoveBoy/Apps
 zyperwinoptimize.json,DoveBoy/Apps
 streamcap.json,DoveBoy/Apps
-blockthespot_DoveBoy.json,DoveBoy/Apps
+blockthespot.json,DoveBoy/Apps
 fetch-github-hosts_DoveBoy.json,DoveBoy/Apps
 memreduct_DoveBoy.json,DoveBoy/Apps
 vcredist-aio_DoveBoy.json,DoveBoy/Apps
@@ -10165,7 +10164,7 @@ shadowsocksr-hmbsbige_DoveBoy.json,DoveBoy/Apps
 pwsh_DoveBoy.json,DoveBoy/Apps
 chfs-tab-completion.json,DoveBoy/Apps
 openlist_DoveBoy.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 officetoolplus-with-runtime.json,DoveBoy/Apps
 psreadline_DoveBoy.json,DoveBoy/Apps
 easymusic.json,DoveBoy/Apps
@@ -11644,6 +11643,7 @@ bepass_aliesbelik.json,aliesbelik/poldi
 clobbr-cli.json,aliesbelik/poldi
 cdntest.json,aliesbelik/poldi
 wombat.json,aliesbelik/poldi
+lnko.json,aliesbelik/poldi
 ktor-cli.json,aliesbelik/poldi
 pingu.json,aliesbelik/poldi
 trdsql.json,aliesbelik/poldi
@@ -14547,7 +14547,7 @@ handle2.json,Locietta/sniffer
 xanmod-WSL2-lts-skylake.json,Locietta/sniffer
 miniforge_Locietta.json,Locietta/sniffer
 pasteex_Locietta.json,Locietta/sniffer
-emeditor_Locietta.json,Locietta/sniffer
+emeditor.json,Locietta/sniffer
 xanmod-WSL2-addons-zen3.json,Locietta/sniffer
 xanmod-WSL2-lts-x64v2.json,Locietta/sniffer
 foxmail.json,Locietta/sniffer
