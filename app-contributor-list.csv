@@ -8844,7 +8844,7 @@ simple-dnscrypt.json,ViCrack/scoop-bucket
 emeditor_ViCrack.json,ViCrack/scoop-bucket
 rubick.json,ViCrack/scoop-bucket
 gowitness.json,ViCrack/scoop-bucket
-apifox.json,ViCrack/scoop-bucket
+apifox_ViCrack.json,ViCrack/scoop-bucket
 edx_ViCrack.json,ViCrack/scoop-bucket
 newfiletime_ViCrack.json,ViCrack/scoop-bucket
 weflow.json,ViCrack/scoop-bucket
@@ -9106,7 +9106,8 @@ aria2_akirco.json,akirco/aki-apps
 ollama_akirco.json,akirco/aki-apps
 x264_akirco.json,akirco/aki-apps
 mysql_akirco.json,akirco/aki-apps
-notion_akirco.json,akirco/aki-apps
+notion.json,akirco/aki-apps
+cursor_akirco.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
 ima-copilot.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
@@ -9143,6 +9144,7 @@ highlight_akirco.json,akirco/aki-apps
 unxutils_akirco.json,akirco/aki-apps
 adb_akirco.json,akirco/aki-apps
 ffmpeg_akirco.json,akirco/aki-apps
+electron-fiddle_akirco.json,akirco/aki-apps
 qpdf_akirco.json,akirco/aki-apps
 poppler_akirco.json,akirco/aki-apps
 123pan.json,akirco/aki-apps
@@ -10641,6 +10643,7 @@ massigra.json,amorphobia/siku
 sound-keeper.json,amorphobia/siku
 hfsexplorer.json,amorphobia/siku
 unlock-music-cli.json,amorphobia/siku
+webdav.json,amorphobia/siku
 posh-cargo.json,amorphobia/siku
 spim.json,amorphobia/siku
 winrar-zh-cn.json,amorphobia/siku
@@ -14673,7 +14676,7 @@ docsim.json,ShuguangSun/sgs-scoop-bucket
 openjdk19_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 unrar_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 chatbox_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-texlive_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+texlive.json,ShuguangSun/sgs-scoop-bucket
 jabref.json,ShuguangSun/sgs-scoop-bucket
 JetBrainsMono_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 rtools43_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
