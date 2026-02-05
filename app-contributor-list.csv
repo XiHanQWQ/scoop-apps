@@ -9106,8 +9106,7 @@ aria2_akirco.json,akirco/aki-apps
 ollama_akirco.json,akirco/aki-apps
 x264_akirco.json,akirco/aki-apps
 mysql_akirco.json,akirco/aki-apps
-notion.json,akirco/aki-apps
-cursor_akirco.json,akirco/aki-apps
+notion_akirco.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
 ima-copilot.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
@@ -9144,7 +9143,6 @@ highlight_akirco.json,akirco/aki-apps
 unxutils_akirco.json,akirco/aki-apps
 adb_akirco.json,akirco/aki-apps
 ffmpeg_akirco.json,akirco/aki-apps
-electron-fiddle_akirco.json,akirco/aki-apps
 qpdf_akirco.json,akirco/aki-apps
 poppler_akirco.json,akirco/aki-apps
 123pan.json,akirco/aki-apps
@@ -9705,7 +9703,6 @@ pixivbiu.json,DoveBoy/Apps
 reduce-memory_DoveBoy.json,DoveBoy/Apps
 yarn-completion.json,DoveBoy/Apps
 nhentai-cross.json,DoveBoy/Apps
-v2rayn-SelfContained_DoveBoy.json,DoveBoy/Apps
 pixiv-omina.json,DoveBoy/Apps
 dreamscene2.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
@@ -10203,6 +10200,7 @@ wechatdownload-qiye45.json,DoveBoy/Apps
 clash-multiplatform-runtime.json,DoveBoy/Apps
 betterncm.json,DoveBoy/Apps
 clash-for-windows-np_DoveBoy.json,DoveBoy/Apps
+v2rayn-SelfContained_DoveBoy.json,DoveBoy/Apps
 whisper-cpp_DoveBoy.json,DoveBoy/Apps
 wechatmoments.json,DoveBoy/Apps
 book-searcher.json,DoveBoy/Apps
@@ -14550,7 +14548,7 @@ handle2.json,Locietta/sniffer
 xanmod-WSL2-lts-skylake.json,Locietta/sniffer
 miniforge_Locietta.json,Locietta/sniffer
 pasteex_Locietta.json,Locietta/sniffer
-emeditor.json,Locietta/sniffer
+emeditor_Locietta.json,Locietta/sniffer
 xanmod-WSL2-addons-zen3.json,Locietta/sniffer
 xanmod-WSL2-lts-x64v2.json,Locietta/sniffer
 foxmail.json,Locietta/sniffer
