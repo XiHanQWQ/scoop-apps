@@ -9736,6 +9736,7 @@ iobit-uninstaller.json,DoveBoy/Apps
 dua_DoveBoy.json,DoveBoy/Apps
 min-portable.json,DoveBoy/Apps
 rustdesk_DoveBoy.json,DoveBoy/Apps
+darktable.json,DoveBoy/Apps
 v2ray_DoveBoy.json,DoveBoy/Apps
 fancontrol-net10.0.json,DoveBoy/Apps
 spacedrive.json,DoveBoy/Apps
@@ -10243,7 +10244,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
@@ -11656,7 +11657,7 @@ tgpt_aliesbelik.json,aliesbelik/poldi
 dijo.json,aliesbelik/poldi
 doh.json,aliesbelik/poldi
 gobench.json,aliesbelik/poldi
-resterm.json,aliesbelik/poldi
+resterm_aliesbelik.json,aliesbelik/poldi
 binjr.json,aliesbelik/poldi
 got.json,aliesbelik/poldi
 s3scanner.json,aliesbelik/poldi
