@@ -8584,7 +8584,7 @@ simple64_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 winuae.json,hermanjustnu/scoop-emulators
 retroarch_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary.json,hermanjustnu/scoop-emulators
@@ -9841,6 +9841,7 @@ etcher-portable.json,DoveBoy/Apps
 clumsy_DoveBoy.json,DoveBoy/Apps
 anxreader-portable.json,DoveBoy/Apps
 vcpkg_DoveBoy.json,DoveBoy/Apps
+mobaxterm.json,DoveBoy/Apps
 bilibilidown-with-jre.json,DoveBoy/Apps
 musicfreedesktop.json,DoveBoy/Apps
 unigetui_DoveBoy.json,DoveBoy/Apps
@@ -9953,7 +9954,7 @@ res-downloader.json,DoveBoy/Apps
 apprhyme.json,DoveBoy/Apps
 fileconverter.json,DoveBoy/Apps
 pscalendar.json,DoveBoy/Apps
-readest_DoveBoy.json,DoveBoy/Apps
+readest.json,DoveBoy/Apps
 vhs_DoveBoy.json,DoveBoy/Apps
 repairbadtweaks.json,DoveBoy/Apps
 iobit-undelete_DoveBoy.json,DoveBoy/Apps
@@ -12724,7 +12725,7 @@ bbdown_aoisummer.json,aoisummer/scoop-bucket
 windowgrid_aoisummer.json,aoisummer/scoop-bucket
 crystaldiskinfo-aoi.json,aoisummer/scoop-bucket
 ddtv2.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn.json,aoisummer/scoop-bucket
 lunatranslator_aoisummer.json,aoisummer/scoop-bucket
 cinebench23.json,aoisummer/scoop-bucket
 shadowsocks-rust-gnu.json,aoisummer/scoop-bucket
