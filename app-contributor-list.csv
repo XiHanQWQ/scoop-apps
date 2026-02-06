@@ -9241,7 +9241,7 @@ wrangler_akirco.json,akirco/aki-apps
 qq-nt_akirco.json,akirco/aki-apps
 xh_akirco.json,akirco/aki-apps
 qrcp_akirco.json,akirco/aki-apps
-electerm_akirco.json,akirco/aki-apps
+electerm.json,akirco/aki-apps
 gh_akirco.json,akirco/aki-apps
 vcredist2013_akirco.json,akirco/aki-apps
 lwc_akirco.json,akirco/aki-apps
@@ -9797,7 +9797,6 @@ lsx.json,DoveBoy/Apps
 explorerpatcher.json,DoveBoy/Apps
 video-srt-windows.json,DoveBoy/Apps
 calctus.json,DoveBoy/Apps
-calibre-normal_DoveBoy.json,DoveBoy/Apps
 handbrake_DoveBoy.json,DoveBoy/Apps
 emeditor-random-keygen.json,DoveBoy/Apps
 twinkle-tray_DoveBoy.json,DoveBoy/Apps
@@ -9819,6 +9818,7 @@ http-downloader_DoveBoy.json,DoveBoy/Apps
 runastool_DoveBoy.json,DoveBoy/Apps
 delapp_DoveBoy.json,DoveBoy/Apps
 pikatorrent.json,DoveBoy/Apps
+electerm_DoveBoy.json,DoveBoy/Apps
 gh_DoveBoy.json,DoveBoy/Apps
 waveterm_DoveBoy.json,DoveBoy/Apps
 pot-desktop_DoveBoy.json,DoveBoy/Apps
@@ -10022,7 +10022,7 @@ neovim_DoveBoy.json,DoveBoy/Apps
 screencapture_DoveBoy.json,DoveBoy/Apps
 iobit-unlocker_DoveBoy.json,DoveBoy/Apps
 qqmusic_DoveBoy.json,DoveBoy/Apps
-neteasemusic_DoveBoy.json,DoveBoy/Apps
+neteasemusic.json,DoveBoy/Apps
 mpv-lazy.json,DoveBoy/Apps
 clink_DoveBoy.json,DoveBoy/Apps
 pansy.json,DoveBoy/Apps
@@ -10039,7 +10039,6 @@ clickrun.json,DoveBoy/Apps
 sox_DoveBoy.json,DoveBoy/Apps
 dtv.json,DoveBoy/Apps
 pdfpatcher_DoveBoy.json,DoveBoy/Apps
-calibre_DoveBoy.json,DoveBoy/Apps
 lanzou-cmd.json,DoveBoy/Apps
 aictionary.json,DoveBoy/Apps
 act_DoveBoy.json,DoveBoy/Apps
@@ -10940,7 +10939,7 @@ faster-whisper-standalone.json,naderi/scoop-bucket
 ucalendar-portable.json,naderi/scoop-bucket
 winauth-portable.json,naderi/scoop-bucket
 justcolorpicker_naderi.json,naderi/scoop-bucket
-java-editor_naderi.json,naderi/scoop-bucket
+java-editor.json,naderi/scoop-bucket
 dm2_naderi.json,naderi/scoop-bucket
 yaak_naderi.json,naderi/scoop-bucket
 gvim-portable.json,naderi/scoop-bucket
@@ -12083,7 +12082,7 @@ ddu_Small-Ku.json,Small-Ku/turbo-bucket
 kondo_Small-Ku.json,Small-Ku/turbo-bucket
 mcpls.json,Small-Ku/turbo-bucket
 stardb-exporter.json,Small-Ku/turbo-bucket
-gemini-cli.json,Small-Ku/turbo-bucket
+gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
 source-han-sans-vf-ttc.json,Small-Ku/turbo-bucket
 sarasa-super-ttc.json,Small-Ku/turbo-bucket
 antigravity-manager.json,Small-Ku/turbo-bucket
@@ -13260,7 +13259,6 @@ gcc_rivy.json,rivy/scoop-bucket
 gitui@0.24.3.json,rivy/scoop-bucket
 msvc.json,rivy/scoop-bucket
 gpg@2.2.23.json,rivy/scoop-bucket
-python@mini.json,rivy/scoop-bucket
 git@2.10.0.json,rivy/scoop-bucket
 cmake@3.21.3.json,rivy/scoop-bucket
 zig@0.9.1.json,rivy/scoop-bucket
@@ -13394,6 +13392,7 @@ fnm@1.31.0.json,rivy/scoop-bucket
 premake_rivy.json,rivy/scoop-bucket
 duplicati-client.json,rivy/scoop-bucket
 pnpm@8.15.4.json,rivy/scoop-bucket
+python@mini-3.13.11.json,rivy/scoop-bucket
 git@2.18.0.1.json,rivy/scoop-bucket
 gh_rivy.json,rivy/scoop-bucket
 dotnet@latest.json,rivy/scoop-bucket
@@ -13419,6 +13418,7 @@ uutils-coreutils@0.0.18-lean.json,rivy/scoop-bucket
 msys2@2019-05-24.json,rivy/scoop-bucket
 premake5@5.0.0-alpha8.json,rivy/scoop-bucket
 watcom.json,rivy/scoop-bucket
+python@mini-3.12.1.json,rivy/scoop-bucket
 erlang@25.0.4.json,rivy/scoop-bucket
 busybox@1.36.0+links.json,rivy/scoop-bucket
 screenToGIF_rivy.json,rivy/scoop-bucket
@@ -13501,6 +13501,7 @@ djgpp@2.8-gcc-7.2.0.json,rivy/scoop-bucket
 dmd@2.100.0.json,rivy/scoop-bucket
 glow_rivy.json,rivy/scoop-bucket
 gh@2.5.1.json,rivy/scoop-bucket
+python@3.json,rivy/scoop-bucket
 clang@17.0.6.json,rivy/scoop-bucket
 watchman_rivy.json,rivy/scoop-bucket
 dotnet@6.0.402.json,rivy/scoop-bucket
