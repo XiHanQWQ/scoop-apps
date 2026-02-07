@@ -4160,7 +4160,7 @@ vlc-cn.json,Scoopforge/Extras-CN
 msys2-cn_Scoopforge.json,Scoopforge/Extras-CN
 freetex.json,Scoopforge/Extras-CN
 qqmusic.json,Scoopforge/Extras-CN
-neteasemusic.json,Scoopforge/Extras-CN
+neteasemusic_Scoopforge.json,Scoopforge/Extras-CN
 aboboo-full.json,Scoopforge/Extras-CN
 baidupcs-go.json,Scoopforge/Extras-CN
 libreoffice-cn.json,Scoopforge/Extras-CN
@@ -8584,7 +8584,7 @@ simple64_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 winuae.json,hermanjustnu/scoop-emulators
 retroarch_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary.json,hermanjustnu/scoop-emulators
@@ -9841,7 +9841,6 @@ etcher-portable.json,DoveBoy/Apps
 clumsy_DoveBoy.json,DoveBoy/Apps
 anxreader-portable.json,DoveBoy/Apps
 vcpkg_DoveBoy.json,DoveBoy/Apps
-mobaxterm.json,DoveBoy/Apps
 bilibilidown-with-jre.json,DoveBoy/Apps
 musicfreedesktop.json,DoveBoy/Apps
 unigetui_DoveBoy.json,DoveBoy/Apps
@@ -9954,7 +9953,7 @@ res-downloader.json,DoveBoy/Apps
 apprhyme.json,DoveBoy/Apps
 fileconverter.json,DoveBoy/Apps
 pscalendar.json,DoveBoy/Apps
-readest.json,DoveBoy/Apps
+readest_DoveBoy.json,DoveBoy/Apps
 vhs_DoveBoy.json,DoveBoy/Apps
 repairbadtweaks.json,DoveBoy/Apps
 iobit-undelete_DoveBoy.json,DoveBoy/Apps
@@ -10168,7 +10167,7 @@ shadowsocksr-hmbsbige_DoveBoy.json,DoveBoy/Apps
 pwsh_DoveBoy.json,DoveBoy/Apps
 chfs-tab-completion.json,DoveBoy/Apps
 openlist_DoveBoy.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 officetoolplus-with-runtime.json,DoveBoy/Apps
 psreadline_DoveBoy.json,DoveBoy/Apps
 easymusic.json,DoveBoy/Apps
@@ -12256,7 +12255,7 @@ ddu_Small-Ku.json,Small-Ku/turbo-bucket
 kondo_Small-Ku.json,Small-Ku/turbo-bucket
 mcpls.json,Small-Ku/turbo-bucket
 stardb-exporter.json,Small-Ku/turbo-bucket
-gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
+gemini-cli.json,Small-Ku/turbo-bucket
 source-han-sans-vf-ttc.json,Small-Ku/turbo-bucket
 sarasa-super-ttc.json,Small-Ku/turbo-bucket
 antigravity-manager.json,Small-Ku/turbo-bucket
@@ -12618,7 +12617,7 @@ emuvr.json,babo4d/scoop-xrtools
 oyasumivr.json,babo4d/scoop-xrtools
 openra-cameo.json,babo4d/scoop-xrtools
 openra-fractured-realms.json,babo4d/scoop-xrtools
-citron_babo4d.json,babo4d/scoop-xrtools
+citron.json,babo4d/scoop-xrtools
 cncnet-cncreloaded.json,babo4d/scoop-xrtools
 adgobye.json,babo4d/scoop-xrtools
 opencomposite.json,babo4d/scoop-xrtools
@@ -12725,7 +12724,7 @@ bbdown_aoisummer.json,aoisummer/scoop-bucket
 windowgrid_aoisummer.json,aoisummer/scoop-bucket
 crystaldiskinfo-aoi.json,aoisummer/scoop-bucket
 ddtv2.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 lunatranslator_aoisummer.json,aoisummer/scoop-bucket
 cinebench23.json,aoisummer/scoop-bucket
 shadowsocks-rust-gnu.json,aoisummer/scoop-bucket
@@ -13979,6 +13978,7 @@ r2modman_Deide.json,Deide/deide-bucket
 playnite_Deide.json,Deide/deide-bucket
 hunterpie.json,Deide/deide-bucket
 desmume.json,Deide/deide-bucket
+cava.json,Deide/deide-bucket
 epsxe.json,Deide/deide-bucket
 ryujinx_Deide.json,Deide/deide-bucket
 xenia_Deide.json,Deide/deide-bucket
