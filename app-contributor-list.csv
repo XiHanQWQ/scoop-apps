@@ -8685,7 +8685,7 @@ ezshare.json,couleur-tweak-tips/utils
 discordcompressor.json,couleur-tweak-tips/utils
 mouse-tester.json,couleur-tweak-tips/utils
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -9570,7 +9570,7 @@ showkeyboard-node.json,DoveBoy/Apps
 pdfarranger_DoveBoy.json,DoveBoy/Apps
 lux_DoveBoy.json,DoveBoy/Apps
 clashn.json,DoveBoy/Apps
-ungoogled-chromium_DoveBoy.json,DoveBoy/Apps
+ungoogled-chromium.json,DoveBoy/Apps
 krita_DoveBoy.json,DoveBoy/Apps
 upx_DoveBoy.json,DoveBoy/Apps
 chatall_DoveBoy.json,DoveBoy/Apps
@@ -9662,7 +9662,6 @@ tssh_DoveBoy.json,DoveBoy/Apps
 scoop-shim_DoveBoy.json,DoveBoy/Apps
 batterymode.json,DoveBoy/Apps
 q-dns_DoveBoy.json,DoveBoy/Apps
-gimp.json,DoveBoy/Apps
 trippy_DoveBoy.json,DoveBoy/Apps
 volta-tab-completion.json,DoveBoy/Apps
 ani-beta.json,DoveBoy/Apps
@@ -9713,7 +9712,6 @@ pixiv-omina.json,DoveBoy/Apps
 dreamscene2.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
 pscompletions_DoveBoy.json,DoveBoy/Apps
-cudatext.json,DoveBoy/Apps
 forkgram_DoveBoy.json,DoveBoy/Apps
 varia-portable.json,DoveBoy/Apps
 everything-beta_DoveBoy.json,DoveBoy/Apps
@@ -10052,7 +10050,7 @@ ntrace-core.json,DoveBoy/Apps
 binggpt-portable.json,DoveBoy/Apps
 aria2manager.json,DoveBoy/Apps
 flybird-downloader.json,DoveBoy/Apps
-animeko_DoveBoy.json,DoveBoy/Apps
+animeko.json,DoveBoy/Apps
 fancontrol-net4.8-portable.json,DoveBoy/Apps
 gallery-dl_DoveBoy.json,DoveBoy/Apps
 text-generation-webui.json,DoveBoy/Apps
@@ -10504,7 +10502,7 @@ limitpng.json,hu3rror/scoop-muggle
 simpread-synchelper.json,hu3rror/scoop-muggle
 baidupcs-go_hu3rror.json,hu3rror/scoop-muggle
 pdfpatcher_hu3rror.json,hu3rror/scoop-muggle
-animeko.json,hu3rror/scoop-muggle
+animeko_hu3rror.json,hu3rror/scoop-muggle
 eza_hu3rror.json,hu3rror/scoop-muggle
 tianruoocr_hu3rror.json,hu3rror/scoop-muggle
 163MusicLyrics_hu3rror.json,hu3rror/scoop-muggle
@@ -12068,6 +12066,7 @@ dorion.json,Small-Ku/turbo-bucket
 better-genshin-impact.json,Small-Ku/turbo-bucket
 yap.json,Small-Ku/turbo-bucket
 reshade-dll.json,Small-Ku/turbo-bucket
+exiftool_Small-Ku.json,Small-Ku/turbo-bucket
 letta-code.json,Small-Ku/turbo-bucket
 llama-cpp-rocm-gfx110x.json,Small-Ku/turbo-bucket
 magpie-preview.json,Small-Ku/turbo-bucket
@@ -12970,7 +12969,6 @@ cpu-z-cn.json,cc713/ownscoop
 manuskript_cc713.json,cc713/ownscoop
 git-cola_cc713.json,cc713/ownscoop
 Weasel_cc713.json,cc713/ownscoop
-zyfun.json,cc713/ownscoop
 qpdf_cc713.json,cc713/ownscoop
 qview_cc713.json,cc713/ownscoop
 AnyTXT.json,cc713/ownscoop
