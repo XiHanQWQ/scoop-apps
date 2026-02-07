@@ -2253,7 +2253,7 @@ commandbox.json,ScoopInstaller/Extras
 neohtop.json,ScoopInstaller/Extras
 treesheets.json,ScoopInstaller/Extras
 vesktop.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 fontforge.json,ScoopInstaller/Extras
 baretail.json,ScoopInstaller/Extras
 vcredist2013.json,ScoopInstaller/Extras
@@ -11247,7 +11247,7 @@ trollrestore.json,WinApps-share/WinApps-bucket
 google-chrome.json,WinApps-share/WinApps-bucket
 flclash-np.json,WinApps-share/WinApps-bucket
 cherry-studio-np.json,WinApps-share/WinApps-bucket
-edge_WinApps-share.json,WinApps-share/WinApps-bucket
+edge.json,WinApps-share/WinApps-bucket
 bbdown_WinApps-share.json,WinApps-share/WinApps-bucket
 autohotkey_WinApps-share.json,WinApps-share/WinApps-bucket
 picview_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -11607,7 +11607,6 @@ ddosify_aliesbelik.json,aliesbelik/poldi
 walk_aliesbelik.json,aliesbelik/poldi
 tcping_aliesbelik.json,aliesbelik/poldi
 gut_aliesbelik.json,aliesbelik/poldi
-ttdl_aliesbelik.json,aliesbelik/poldi
 taplo_aliesbelik.json,aliesbelik/poldi
 jc_aliesbelik.json,aliesbelik/poldi
 oha_aliesbelik.json,aliesbelik/poldi
