@@ -10666,7 +10666,7 @@ sonarr.json,amorphobia/siku
 arturo_amorphobia.json,amorphobia/siku
 dvm_amorphobia.json,amorphobia/siku
 yakc.json,amorphobia/siku
-filebrowser_amorphobia.json,amorphobia/siku
+filebrowser.json,amorphobia/siku
 radarr_amorphobia.json,amorphobia/siku
 pcl2-ce.json,amorphobia/siku
 arturo-nightly.json,amorphobia/siku
@@ -14558,7 +14558,7 @@ handle2.json,Locietta/sniffer
 xanmod-WSL2-lts-skylake.json,Locietta/sniffer
 miniforge_Locietta.json,Locietta/sniffer
 pasteex_Locietta.json,Locietta/sniffer
-emeditor_Locietta.json,Locietta/sniffer
+emeditor.json,Locietta/sniffer
 xanmod-WSL2-addons-zen3.json,Locietta/sniffer
 xanmod-WSL2-lts-x64v2.json,Locietta/sniffer
 foxmail_Locietta.json,Locietta/sniffer
