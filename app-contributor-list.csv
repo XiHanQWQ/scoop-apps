@@ -9570,7 +9570,7 @@ showkeyboard-node.json,DoveBoy/Apps
 pdfarranger_DoveBoy.json,DoveBoy/Apps
 lux_DoveBoy.json,DoveBoy/Apps
 clashn.json,DoveBoy/Apps
-ungoogled-chromium.json,DoveBoy/Apps
+ungoogled-chromium_DoveBoy.json,DoveBoy/Apps
 krita_DoveBoy.json,DoveBoy/Apps
 upx_DoveBoy.json,DoveBoy/Apps
 chatall_DoveBoy.json,DoveBoy/Apps
@@ -9662,6 +9662,7 @@ tssh_DoveBoy.json,DoveBoy/Apps
 scoop-shim_DoveBoy.json,DoveBoy/Apps
 batterymode.json,DoveBoy/Apps
 q-dns_DoveBoy.json,DoveBoy/Apps
+gimp_DoveBoy.json,DoveBoy/Apps
 trippy_DoveBoy.json,DoveBoy/Apps
 volta-tab-completion.json,DoveBoy/Apps
 ani-beta.json,DoveBoy/Apps
@@ -9712,6 +9713,7 @@ pixiv-omina.json,DoveBoy/Apps
 dreamscene2.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
 pscompletions_DoveBoy.json,DoveBoy/Apps
+cudatext_DoveBoy.json,DoveBoy/Apps
 forkgram_DoveBoy.json,DoveBoy/Apps
 varia-portable.json,DoveBoy/Apps
 everything-beta_DoveBoy.json,DoveBoy/Apps
@@ -10050,7 +10052,7 @@ ntrace-core.json,DoveBoy/Apps
 binggpt-portable.json,DoveBoy/Apps
 aria2manager.json,DoveBoy/Apps
 flybird-downloader.json,DoveBoy/Apps
-animeko.json,DoveBoy/Apps
+animeko_DoveBoy.json,DoveBoy/Apps
 fancontrol-net4.8-portable.json,DoveBoy/Apps
 gallery-dl_DoveBoy.json,DoveBoy/Apps
 text-generation-webui.json,DoveBoy/Apps
@@ -12969,6 +12971,7 @@ cpu-z-cn.json,cc713/ownscoop
 manuskript_cc713.json,cc713/ownscoop
 git-cola_cc713.json,cc713/ownscoop
 Weasel_cc713.json,cc713/ownscoop
+zyfun.json,cc713/ownscoop
 qpdf_cc713.json,cc713/ownscoop
 qview_cc713.json,cc713/ownscoop
 AnyTXT.json,cc713/ownscoop
@@ -14682,7 +14685,7 @@ vde-dataset-viewer.json,ShuguangSun/sgs-scoop-bucket
 robotoslab.json,ShuguangSun/sgs-scoop-bucket
 emacs-kiennq-ucrt-mps.json,ShuguangSun/sgs-scoop-bucket
 cherry-studio-1.0.6.json,ShuguangSun/sgs-scoop-bucket
-gimp-cn_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+gimp-cn.json,ShuguangSun/sgs-scoop-bucket
 busybox64u.json,ShuguangSun/sgs-scoop-bucket
 r_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 openjdk20_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
