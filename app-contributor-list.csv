@@ -9662,7 +9662,6 @@ tssh_DoveBoy.json,DoveBoy/Apps
 scoop-shim_DoveBoy.json,DoveBoy/Apps
 batterymode.json,DoveBoy/Apps
 q-dns_DoveBoy.json,DoveBoy/Apps
-gimp_DoveBoy.json,DoveBoy/Apps
 trippy_DoveBoy.json,DoveBoy/Apps
 volta-tab-completion.json,DoveBoy/Apps
 ani-beta.json,DoveBoy/Apps
@@ -9713,7 +9712,6 @@ pixiv-omina.json,DoveBoy/Apps
 dreamscene2.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
 pscompletions_DoveBoy.json,DoveBoy/Apps
-cudatext_DoveBoy.json,DoveBoy/Apps
 forkgram_DoveBoy.json,DoveBoy/Apps
 varia-portable.json,DoveBoy/Apps
 everything-beta_DoveBoy.json,DoveBoy/Apps
@@ -12971,7 +12969,6 @@ cpu-z-cn.json,cc713/ownscoop
 manuskript_cc713.json,cc713/ownscoop
 git-cola_cc713.json,cc713/ownscoop
 Weasel_cc713.json,cc713/ownscoop
-zyfun.json,cc713/ownscoop
 qpdf_cc713.json,cc713/ownscoop
 qview_cc713.json,cc713/ownscoop
 AnyTXT.json,cc713/ownscoop
@@ -14685,7 +14682,7 @@ vde-dataset-viewer.json,ShuguangSun/sgs-scoop-bucket
 robotoslab.json,ShuguangSun/sgs-scoop-bucket
 emacs-kiennq-ucrt-mps.json,ShuguangSun/sgs-scoop-bucket
 cherry-studio-1.0.6.json,ShuguangSun/sgs-scoop-bucket
-gimp-cn.json,ShuguangSun/sgs-scoop-bucket
+gimp-cn_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 busybox64u.json,ShuguangSun/sgs-scoop-bucket
 r_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 openjdk20_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
