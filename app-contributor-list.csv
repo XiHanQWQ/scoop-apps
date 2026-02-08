@@ -6276,7 +6276,7 @@ workman-p-uk-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 bluestacks4-np.json,ScoopInstaller/Nonportable
 icaros-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 protonvpn-np.json,ScoopInstaller/Nonportable
-equalizer-apo-np_ScoopInstaller.json,ScoopInstaller/Nonportable
+equalizer-apo-np.json,ScoopInstaller/Nonportable
 tunnelbear-np.json,ScoopInstaller/Nonportable
 shelltools-np.json,ScoopInstaller/Nonportable
 calibre-np.json,ScoopInstaller/Nonportable
@@ -8686,7 +8686,7 @@ ezshare.json,couleur-tweak-tips/utils
 discordcompressor.json,couleur-tweak-tips/utils
 mouse-tester.json,couleur-tweak-tips/utils
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -9977,6 +9977,7 @@ quickclipboard.json,DoveBoy/Apps
 gitalias.json,DoveBoy/Apps
 bat_DoveBoy.json,DoveBoy/Apps
 nomeiryoui_DoveBoy.json,DoveBoy/Apps
+emeditor.json,DoveBoy/Apps
 winupdateminitool.json,DoveBoy/Apps
 openoffice_DoveBoy.json,DoveBoy/Apps
 mobilecontrolguru.json,DoveBoy/Apps
@@ -10731,7 +10732,7 @@ qbittorrent-enhanced_naderi.json,naderi/scoop-bucket
 appget_naderi.json,naderi/scoop-bucket
 winshell.json,naderi/scoop-bucket
 ccenhancer_naderi.json,naderi/scoop-bucket
-regcool_naderi.json,naderi/scoop-bucket
+regcool.json,naderi/scoop-bucket
 gimp-portable_naderi.json,naderi/scoop-bucket
 antidupl.json,naderi/scoop-bucket
 netsetman.json,naderi/scoop-bucket
@@ -10813,7 +10814,7 @@ opentrace_naderi.json,naderi/scoop-bucket
 picard-portable.json,naderi/scoop-bucket
 gyroflow_naderi.json,naderi/scoop-bucket
 converter-now.json,naderi/scoop-bucket
-kiro_naderi.json,naderi/scoop-bucket
+kiro.json,naderi/scoop-bucket
 hibernate.json,naderi/scoop-bucket
 xpdf-reader.json,naderi/scoop-bucket
 programmers-notepad.json,naderi/scoop-bucket
@@ -12260,7 +12261,7 @@ ddu_Small-Ku.json,Small-Ku/turbo-bucket
 kondo_Small-Ku.json,Small-Ku/turbo-bucket
 mcpls.json,Small-Ku/turbo-bucket
 stardb-exporter.json,Small-Ku/turbo-bucket
-gemini-cli.json,Small-Ku/turbo-bucket
+gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
 source-han-sans-vf-ttc.json,Small-Ku/turbo-bucket
 sarasa-super-ttc.json,Small-Ku/turbo-bucket
 antigravity-manager.json,Small-Ku/turbo-bucket
@@ -14559,7 +14560,7 @@ handle2.json,Locietta/sniffer
 xanmod-WSL2-lts-skylake.json,Locietta/sniffer
 miniforge_Locietta.json,Locietta/sniffer
 pasteex_Locietta.json,Locietta/sniffer
-emeditor.json,Locietta/sniffer
+emeditor_Locietta.json,Locietta/sniffer
 xanmod-WSL2-addons-zen3.json,Locietta/sniffer
 xanmod-WSL2-lts-x64v2.json,Locietta/sniffer
 foxmail_Locietta.json,Locietta/sniffer
