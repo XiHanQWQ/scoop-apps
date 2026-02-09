@@ -9977,7 +9977,6 @@ quickclipboard.json,DoveBoy/Apps
 gitalias.json,DoveBoy/Apps
 bat_DoveBoy.json,DoveBoy/Apps
 nomeiryoui_DoveBoy.json,DoveBoy/Apps
-emeditor.json,DoveBoy/Apps
 winupdateminitool.json,DoveBoy/Apps
 openoffice_DoveBoy.json,DoveBoy/Apps
 mobilecontrolguru.json,DoveBoy/Apps
@@ -10668,7 +10667,7 @@ sonarr.json,amorphobia/siku
 arturo_amorphobia.json,amorphobia/siku
 dvm_amorphobia.json,amorphobia/siku
 yakc.json,amorphobia/siku
-filebrowser.json,amorphobia/siku
+filebrowser_amorphobia.json,amorphobia/siku
 radarr_amorphobia.json,amorphobia/siku
 pcl2-ce.json,amorphobia/siku
 arturo-nightly.json,amorphobia/siku
@@ -14694,7 +14693,7 @@ rtools44_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 emacs-mplscorwin.json,ShuguangSun/sgs-scoop-bucket
 juliamono_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 mupdf_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-super-productivity.json,ShuguangSun/sgs-scoop-bucket
+super-productivity_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 roboto.json,ShuguangSun/sgs-scoop-bucket
 Sarasa-Gothic.json,ShuguangSun/sgs-scoop-bucket
 chatbox_ce.json,ShuguangSun/sgs-scoop-bucket
