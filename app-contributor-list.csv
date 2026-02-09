@@ -7473,6 +7473,7 @@ rstudio-pro-release.json,cderv/r-bucket
 quarto_cderv.json,cderv/r-bucket
 rstudio-daily-electron.json,cderv/r-bucket
 rstudio-pro-daily.json,cderv/r-bucket
+mq-dbg.json,cderv/r-bucket
 jarl.json,cderv/r-bucket
 rstudio-release.json,cderv/r-bucket
 rstudio-1.3.json,cderv/r-bucket
@@ -7489,6 +7490,7 @@ tinytex-extra.json,cderv/r-bucket
 fq_cderv.json,cderv/r-bucket
 beads.json,cderv/r-bucket
 arf.json,cderv/r-bucket
+mq-lsp.json,cderv/r-bucket
 beans.json,cderv/r-bucket
 tinytex.json,cderv/r-bucket
 rstudio-2022.07.json,cderv/r-bucket
@@ -7505,6 +7507,7 @@ chezmoi-modify-manager.json,cderv/r-bucket
 rstudio-pro-preview.json,cderv/r-bucket
 rv.json,cderv/r-bucket
 quarto-prerelease.json,cderv/r-bucket
+mq.json,cderv/r-bucket
 octarine.json,cderv/r-bucket
 rstudio-2022.12.json,cderv/r-bucket
 rstudio-2023.03.json,cderv/r-bucket
@@ -7512,6 +7515,7 @@ tree.json,cderv/r-bucket
 r-release.json,cderv/r-bucket
 rstudio-daily_cderv.json,cderv/r-bucket
 qvm.json,cderv/r-bucket
+mqcr.json,cderv/r-bucket
 positron-daily.json,cderv/r-bucket
 rig.json,cderv/r-bucket
 rstudio-1.4.json,cderv/r-bucket
@@ -11921,7 +11925,7 @@ cidr.json,aliesbelik/poldi
 kcli.json,aliesbelik/poldi
 spoofdpi.json,aliesbelik/poldi
 httprobe.json,aliesbelik/poldi
-mq.json,aliesbelik/poldi
+mq_aliesbelik.json,aliesbelik/poldi
 hwatch.json,aliesbelik/poldi
 jlv.json,aliesbelik/poldi
 xurls.json,aliesbelik/poldi
@@ -14827,7 +14831,7 @@ nekoray2.json,windedge/ladle-bucket
 ki.json,windedge/ladle-bucket
 PowerShell_maboloshi.json,maboloshi/scoop-private
 notepad4_maboloshi.json,maboloshi/scoop-private
-ima-copilot.json,maboloshi/scoop-private
+ima-copilot_maboloshi.json,maboloshi/scoop-private
 microsoftedge-beta_maboloshi.json,maboloshi/scoop-private
 ffmpeg-N_m3u8DL-CLI.json,maboloshi/scoop-private
 sarasa-gothic-sc-excerpt.json,maboloshi/scoop-private
@@ -14893,6 +14897,7 @@ uivonim_younger-1.json,younger-1/scoop-it
 epick.json,younger-1/scoop-it
 sqlite3dll.json,younger-1/scoop-it
 selene_younger-1.json,younger-1/scoop-it
+vlang_younger-1.json,younger-1/scoop-it
 im-select.json,younger-1/scoop-it
 stylua_younger-1.json,younger-1/scoop-it
 hello.json,younger-1/scoop-it
