@@ -1652,7 +1652,7 @@ kcc.json,ScoopInstaller/Extras
 avspmod.json,ScoopInstaller/Extras
 filebot.json,ScoopInstaller/Extras
 rider.json,ScoopInstaller/Extras
-autohotkey_ScoopInstaller.json,ScoopInstaller/Extras
+autohotkey.json,ScoopInstaller/Extras
 audacious.json,ScoopInstaller/Extras
 sbom-tool.json,ScoopInstaller/Extras
 octant.json,ScoopInstaller/Extras
@@ -8789,7 +8789,7 @@ w3cschool.json,ViCrack/scoop-bucket
 cudatext-cn.json,ViCrack/scoop-bucket
 contextmenumanager_ViCrack.json,ViCrack/scoop-bucket
 dev-sidecar.json,ViCrack/scoop-bucket
-afrog.json,ViCrack/scoop-bucket
+afrog_ViCrack.json,ViCrack/scoop-bucket
 siyuan-ce.json,ViCrack/scoop-bucket
 wub.json,ViCrack/scoop-bucket
 pixpin_ViCrack.json,ViCrack/scoop-bucket
@@ -14827,7 +14827,7 @@ nekoray2.json,windedge/ladle-bucket
 ki.json,windedge/ladle-bucket
 PowerShell_maboloshi.json,maboloshi/scoop-private
 notepad4_maboloshi.json,maboloshi/scoop-private
-ima-copilot_maboloshi.json,maboloshi/scoop-private
+ima-copilot.json,maboloshi/scoop-private
 microsoftedge-beta_maboloshi.json,maboloshi/scoop-private
 ffmpeg-N_m3u8DL-CLI.json,maboloshi/scoop-private
 sarasa-gothic-sc-excerpt.json,maboloshi/scoop-private
