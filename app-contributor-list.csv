@@ -1652,7 +1652,7 @@ kcc.json,ScoopInstaller/Extras
 avspmod.json,ScoopInstaller/Extras
 filebot.json,ScoopInstaller/Extras
 rider.json,ScoopInstaller/Extras
-autohotkey.json,ScoopInstaller/Extras
+autohotkey_ScoopInstaller.json,ScoopInstaller/Extras
 audacious.json,ScoopInstaller/Extras
 sbom-tool.json,ScoopInstaller/Extras
 octant.json,ScoopInstaller/Extras
@@ -14730,7 +14730,7 @@ IBMPlexTT.json,ShuguangSun/sgs-scoop-bucket
 ydict.json,ShuguangSun/sgs-scoop-bucket
 Maple-Mono-otf_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 Font-Awesome_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+r-devel.json,ShuguangSun/sgs-scoop-bucket
 normcap_jcwillox.json,jcwillox/scoop-bucket
 ytmdesktop-portable.json,jcwillox/scoop-bucket
 ghidra_jcwillox.json,jcwillox/scoop-bucket
