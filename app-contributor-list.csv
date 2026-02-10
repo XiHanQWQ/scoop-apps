@@ -7480,6 +7480,7 @@ rstudio-1.3.json,cderv/r-bucket
 rsvg-convert-miyako.json,cderv/r-bucket
 rstudio-1.2.json,cderv/r-bucket
 positron-prerelease.json,cderv/r-bucket
+mq-tui.json,cderv/r-bucket
 github-mcp-server.json,cderv/r-bucket
 dashlane-cli.json,cderv/r-bucket
 sass-migrator.json,cderv/r-bucket
@@ -10452,7 +10453,7 @@ nhse.json,hu3rror/scoop-muggle
 q_hu3rror.json,hu3rror/scoop-muggle
 get-childitemcolor.json,hu3rror/scoop-muggle
 chromium_hu3rror.json,hu3rror/scoop-muggle
-picgo_hu3rror.json,hu3rror/scoop-muggle
+picgo.json,hu3rror/scoop-muggle
 usbeam-consoles-dns.json,hu3rror/scoop-muggle
 acttools.json,hu3rror/scoop-muggle
 ImTip.json,hu3rror/scoop-muggle
@@ -11633,6 +11634,7 @@ dankerino-portable.json,brian6932/dank-scoop
 pandoc-templates.json,brian6932/dank-scoop
 memo.json,brian6932/dank-scoop
 apng2gif-cli.json,brian6932/dank-scoop
+exiftool-pl.json,brian6932/dank-scoop
 chatterino7-portable.json,brian6932/dank-scoop
 gameboosthd_brian6932.json,brian6932/dank-scoop
 fort.json,brian6932/dank-scoop
