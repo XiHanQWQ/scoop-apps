@@ -1652,7 +1652,7 @@ kcc.json,ScoopInstaller/Extras
 avspmod.json,ScoopInstaller/Extras
 filebot.json,ScoopInstaller/Extras
 rider.json,ScoopInstaller/Extras
-autohotkey.json,ScoopInstaller/Extras
+autohotkey_ScoopInstaller.json,ScoopInstaller/Extras
 audacious.json,ScoopInstaller/Extras
 sbom-tool.json,ScoopInstaller/Extras
 octant.json,ScoopInstaller/Extras
@@ -2353,7 +2353,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -3428,7 +3428,7 @@ docker-compose_chawyehsu.json,chawyehsu/dorado
 pixitracker_chawyehsu.json,chawyehsu/dorado
 flowus.json,chawyehsu/dorado
 chatbox-ce.json,chawyehsu/dorado
-wechatwork.json,chawyehsu/dorado
+wechatwork_chawyehsu.json,chawyehsu/dorado
 kt-connect.json,chawyehsu/dorado
 bypass_chawyehsu.json,chawyehsu/dorado
 rustup-np.json,chawyehsu/dorado
@@ -11429,7 +11429,7 @@ centbrowser_WinApps-share.json,WinApps-share/WinApps-bucket
 equalizer-apo.json,WinApps-share/WinApps-bucket
 rustdesk_WinApps-share.json,WinApps-share/WinApps-bucket
 xterminal_WinApps-share.json,WinApps-share/WinApps-bucket
-vscode_WinApps-share.json,WinApps-share/WinApps-bucket
+vscode.json,WinApps-share/WinApps-bucket
 nanazip_WinApps-share.json,WinApps-share/WinApps-bucket
 utools_WinApps-share.json,WinApps-share/WinApps-bucket
 bcuninstaller.json,WinApps-share/WinApps-bucket
