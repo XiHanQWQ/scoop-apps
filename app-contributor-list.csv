@@ -2353,7 +2353,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -3428,7 +3428,7 @@ docker-compose_chawyehsu.json,chawyehsu/dorado
 pixitracker_chawyehsu.json,chawyehsu/dorado
 flowus.json,chawyehsu/dorado
 chatbox-ce.json,chawyehsu/dorado
-wechatwork_chawyehsu.json,chawyehsu/dorado
+wechatwork.json,chawyehsu/dorado
 kt-connect.json,chawyehsu/dorado
 bypass_chawyehsu.json,chawyehsu/dorado
 rustup-np.json,chawyehsu/dorado
@@ -10253,7 +10253,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
@@ -14800,7 +14800,7 @@ godsvg.json,windedge/ladle-bucket
 mdview_windedge.json,windedge/ladle-bucket
 enve.json,windedge/ladle-bucket
 anytype_windedge.json,windedge/ladle-bucket
-dyad_windedge.json,windedge/ladle-bucket
+dyad.json,windedge/ladle-bucket
 pdf4teachers.json,windedge/ladle-bucket
 llama-cpp-ipex-llm.json,windedge/ladle-bucket
 itext-rups.json,windedge/ladle-bucket
@@ -14953,7 +14953,6 @@ winspy-m417z.json,milnak/scoop-bucket
 romcenter.json,milnak/scoop-bucket
 gargoyle.json,milnak/scoop-bucket
 cemu_milnak.json,milnak/scoop-bucket
-mpc-hc-clsid2.json,milnak/scoop-bucket
 ctrlr.json,milnak/scoop-bucket
 midi-ox.json,milnak/scoop-bucket
 notepad4-avx2_milnak.json,milnak/scoop-bucket
