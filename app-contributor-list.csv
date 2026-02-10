@@ -9313,6 +9313,7 @@ mdbook_akirco.json,akirco/aki-apps
 tup_akirco.json,akirco/aki-apps
 say_akirco.json,akirco/aki-apps
 telegram_akirco.json,akirco/aki-apps
+bilibili-livehime.json,akirco/aki-apps
 wechatdevtools_akirco.json,akirco/aki-apps
 pseverything.json,akirco/aki-apps
 biyi_akirco.json,akirco/aki-apps
@@ -9533,7 +9534,6 @@ youtube-dl_DoveBoy.json,DoveBoy/Apps
 spotx.json,DoveBoy/Apps
 v2rayn.json,DoveBoy/Apps
 windows11-classic-context-menu_DoveBoy.json,DoveBoy/Apps
-hwinfo_DoveBoy.json,DoveBoy/Apps
 posh-git_DoveBoy.json,DoveBoy/Apps
 crystaldiskmark-shizuku-edition_DoveBoy.json,DoveBoy/Apps
 batterymode-portable.json,DoveBoy/Apps
@@ -10253,7 +10253,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
@@ -11429,7 +11429,7 @@ centbrowser_WinApps-share.json,WinApps-share/WinApps-bucket
 equalizer-apo.json,WinApps-share/WinApps-bucket
 rustdesk_WinApps-share.json,WinApps-share/WinApps-bucket
 xterminal_WinApps-share.json,WinApps-share/WinApps-bucket
-vscode.json,WinApps-share/WinApps-bucket
+vscode_WinApps-share.json,WinApps-share/WinApps-bucket
 nanazip_WinApps-share.json,WinApps-share/WinApps-bucket
 utools_WinApps-share.json,WinApps-share/WinApps-bucket
 bcuninstaller.json,WinApps-share/WinApps-bucket
@@ -14800,7 +14800,7 @@ godsvg.json,windedge/ladle-bucket
 mdview_windedge.json,windedge/ladle-bucket
 enve.json,windedge/ladle-bucket
 anytype_windedge.json,windedge/ladle-bucket
-dyad.json,windedge/ladle-bucket
+dyad_windedge.json,windedge/ladle-bucket
 pdf4teachers.json,windedge/ladle-bucket
 llama-cpp-ipex-llm.json,windedge/ladle-bucket
 itext-rups.json,windedge/ladle-bucket
@@ -14897,7 +14897,6 @@ uivonim_younger-1.json,younger-1/scoop-it
 epick.json,younger-1/scoop-it
 sqlite3dll.json,younger-1/scoop-it
 selene_younger-1.json,younger-1/scoop-it
-vlang_younger-1.json,younger-1/scoop-it
 im-select.json,younger-1/scoop-it
 stylua_younger-1.json,younger-1/scoop-it
 hello.json,younger-1/scoop-it
