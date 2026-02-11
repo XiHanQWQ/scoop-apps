@@ -6249,7 +6249,7 @@ unity3d.json,scoopcn/scoopcn
 wechat-devtools.json,scoopcn/scoopcn
 neo4jbrowser.json,scoopcn/scoopcn
 wechat_scoopcn.json,scoopcn/scoopcn
-feishu_scoopcn.json,scoopcn/scoopcn
+feishu.json,scoopcn/scoopcn
 ade.json,scoopcn/scoopcn
 xt800agent.json,scoopcn/scoopcn
 wxwork.json,scoopcn/scoopcn
@@ -9777,7 +9777,7 @@ sshwifty.json,DoveBoy/Apps
 mihomo_DoveBoy.json,DoveBoy/Apps
 chatbox_DoveBoy.json,DoveBoy/Apps
 experimental-clash.json,DoveBoy/Apps
-typora-dev.json,DoveBoy/Apps
+typora-dev_DoveBoy.json,DoveBoy/Apps
 clip-share-server.json,DoveBoy/Apps
 mihomo-compatible.json,DoveBoy/Apps
 crosspaste.json,DoveBoy/Apps
@@ -10981,6 +10981,7 @@ xion-audio-player.json,naderi/scoop-bucket
 lingoes_naderi.json,naderi/scoop-bucket
 windirstat-portable.json,naderi/scoop-bucket
 vlc-portable_naderi.json,naderi/scoop-bucket
+encrypto_naderi.json,naderi/scoop-bucket
 minitool-partition-wizard.json,naderi/scoop-bucket
 netpad.json,naderi/scoop-bucket
 qilin.json,naderi/scoop-bucket
@@ -12479,7 +12480,7 @@ v2rayn-core_seumsc.json,seumsc/scoop-seu
 clash-dotnet.json,seumsc/scoop-seu
 sdr-cleaner_seumsc.json,seumsc/scoop-seu
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
@@ -13057,12 +13058,14 @@ work-crawler.json,cc713/ownscoop
 CrystalDiskInfo-KureiKei_AkariiinMKII.json,AkariiinMKII/Scoop4kariiin
 yuzu_AkariiinMKII.json,AkariiinMKII/Scoop4kariiin
 TwinkleTray.json,AkariiinMKII/Scoop4kariiin
+Cinebench-2024.json,AkariiinMKII/Scoop4kariiin
 PixPin_AkariiinMKII.json,AkariiinMKII/Scoop4kariiin
 Scoop4kariiinUtils.json,AkariiinMKII/Scoop4kariiin
 wolai.json,AkariiinMKII/Scoop4kariiin
 Cinebench-R15.json,AkariiinMKII/Scoop4kariiin
 ClashforWindows.json,AkariiinMKII/Scoop4kariiin
 youtube-dl-gui_AkariiinMKII.json,AkariiinMKII/Scoop4kariiin
+Cinebench-2026.json,AkariiinMKII/Scoop4kariiin
 winbox-beta.json,AkariiinMKII/Scoop4kariiin
 Cinebench-R20.json,AkariiinMKII/Scoop4kariiin
 yuzu-pineapple.json,AkariiinMKII/Scoop4kariiin
