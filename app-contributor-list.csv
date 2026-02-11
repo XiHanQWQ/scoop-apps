@@ -1105,6 +1105,7 @@ kscript.json,ScoopInstaller/Extras
 cascadeur.json,ScoopInstaller/Extras
 live777.json,ScoopInstaller/Extras
 activate-linux.json,ScoopInstaller/Extras
+fylepad.json,ScoopInstaller/Extras
 virt-viewer.json,ScoopInstaller/Extras
 hiddify.json,ScoopInstaller/Extras
 orcaslicer.json,ScoopInstaller/Extras
@@ -2569,6 +2570,7 @@ leetsolv.json,ScoopInstaller/Extras
 tinynvidiaupdatechecker.json,ScoopInstaller/Extras
 qimgv.json,ScoopInstaller/Extras
 rbtray.json,ScoopInstaller/Extras
+gdscript-formatter.json,ScoopInstaller/Extras
 aptakube.json,ScoopInstaller/Extras
 gui-for-clash.json,ScoopInstaller/Extras
 houdoku.json,ScoopInstaller/Extras
@@ -9775,7 +9777,7 @@ sshwifty.json,DoveBoy/Apps
 mihomo_DoveBoy.json,DoveBoy/Apps
 chatbox_DoveBoy.json,DoveBoy/Apps
 experimental-clash.json,DoveBoy/Apps
-typora-dev_DoveBoy.json,DoveBoy/Apps
+typora-dev.json,DoveBoy/Apps
 clip-share-server.json,DoveBoy/Apps
 mihomo-compatible.json,DoveBoy/Apps
 crosspaste.json,DoveBoy/Apps
@@ -11236,7 +11238,7 @@ virtualbox.json,WinApps-share/WinApps-bucket
 itunes-old.json,WinApps-share/WinApps-bucket
 windows-terminal_WinApps-share.json,WinApps-share/WinApps-bucket
 musicfree-np.json,WinApps-share/WinApps-bucket
-gui-for-singbox.json,WinApps-share/WinApps-bucket
+gui-for-singbox_WinApps-share.json,WinApps-share/WinApps-bucket
 steam.json,WinApps-share/WinApps-bucket
 tai_WinApps-share.json,WinApps-share/WinApps-bucket
 cherry-studio_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -11412,7 +11414,7 @@ copy-translator-rust.json,ygguorun/scoop-bucket
 CopyTranslator_ygguorun.json,ygguorun/scoop-bucket
 PDFPatcher_ygguorun.json,ygguorun/scoop-bucket
 gluttonyFLIF.json,ygguorun/scoop-bucket
-BaiduNetdisk_ygguorun.json,ygguorun/scoop-bucket
+BaiduNetdisk.json,ygguorun/scoop-bucket
 MajsoulPlus.json,ygguorun/scoop-bucket
 jpfont-nds.json,ygguorun/scoop-bucket
 CloudflareSpeedTest_ygguorun.json,ygguorun/scoop-bucket
@@ -12266,7 +12268,7 @@ ddu_Small-Ku.json,Small-Ku/turbo-bucket
 kondo_Small-Ku.json,Small-Ku/turbo-bucket
 mcpls.json,Small-Ku/turbo-bucket
 stardb-exporter.json,Small-Ku/turbo-bucket
-gemini-cli.json,Small-Ku/turbo-bucket
+gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
 source-han-sans-vf-ttc.json,Small-Ku/turbo-bucket
 sarasa-super-ttc.json,Small-Ku/turbo-bucket
 antigravity-manager.json,Small-Ku/turbo-bucket
@@ -14776,7 +14778,7 @@ IBMPlexTT.json,ShuguangSun/sgs-scoop-bucket
 ydict.json,ShuguangSun/sgs-scoop-bucket
 Maple-Mono-otf_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 Font-Awesome_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-r-devel.json,ShuguangSun/sgs-scoop-bucket
+r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 normcap_jcwillox.json,jcwillox/scoop-bucket
 ytmdesktop-portable.json,jcwillox/scoop-bucket
 ghidra_jcwillox.json,jcwillox/scoop-bucket
