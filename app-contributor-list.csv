@@ -1999,7 +1999,7 @@ universal-android-debloater.json,ScoopInstaller/Extras
 homebank.json,ScoopInstaller/Extras
 rclone-ui.json,ScoopInstaller/Extras
 sts.json,ScoopInstaller/Extras
-vscode.json,ScoopInstaller/Extras
+vscode_ScoopInstaller.json,ScoopInstaller/Extras
 inky.json,ScoopInstaller/Extras
 audiobookconverter.json,ScoopInstaller/Extras
 alldup.json,ScoopInstaller/Extras
@@ -2255,7 +2255,7 @@ commandbox.json,ScoopInstaller/Extras
 neohtop.json,ScoopInstaller/Extras
 treesheets.json,ScoopInstaller/Extras
 vesktop.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 fontforge.json,ScoopInstaller/Extras
 baretail.json,ScoopInstaller/Extras
 vcredist2013.json,ScoopInstaller/Extras
@@ -8558,7 +8558,7 @@ retroarch-nightly.json,hermanjustnu/scoop-emulators
 hoxs64.json,hermanjustnu/scoop-emulators
 vice-gtk3.json,hermanjustnu/scoop-emulators
 mgba_hermanjustnu.json,hermanjustnu/scoop-emulators
-snes9x-dev.json,hermanjustnu/scoop-emulators
+snes9x-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 visualboyadvance-m-nightly_hermanjustnu.json,hermanjustnu/scoop-emulators
 rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
 cxbx-reloaded_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -8698,7 +8698,7 @@ scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
 starship_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
-shadps4_borger.json,borger/scoop-emulators
+shadps4.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
@@ -9315,7 +9315,6 @@ mdbook_akirco.json,akirco/aki-apps
 tup_akirco.json,akirco/aki-apps
 say_akirco.json,akirco/aki-apps
 telegram_akirco.json,akirco/aki-apps
-bilibili-livehime.json,akirco/aki-apps
 wechatdevtools_akirco.json,akirco/aki-apps
 pseverything.json,akirco/aki-apps
 biyi_akirco.json,akirco/aki-apps
@@ -9416,6 +9415,7 @@ bun_akirco.json,akirco/aki-apps
 nano_akirco.json,akirco/aki-apps
 vcredist2017.json,akirco/aki-apps
 pwsh_akirco.json,akirco/aki-apps
+go-cn_akirco.json,akirco/aki-apps
 pngcrush_akirco.json,akirco/aki-apps
 crow-translate_akirco.json,akirco/aki-apps
 you-get_akirco.json,akirco/aki-apps
@@ -9830,6 +9830,7 @@ runastool_DoveBoy.json,DoveBoy/Apps
 delapp_DoveBoy.json,DoveBoy/Apps
 pikatorrent.json,DoveBoy/Apps
 ccleaner_DoveBoy.json,DoveBoy/Apps
+electerm_DoveBoy.json,DoveBoy/Apps
 gh_DoveBoy.json,DoveBoy/Apps
 waveterm_DoveBoy.json,DoveBoy/Apps
 pot-desktop_DoveBoy.json,DoveBoy/Apps
@@ -12267,7 +12268,7 @@ ddu_Small-Ku.json,Small-Ku/turbo-bucket
 kondo_Small-Ku.json,Small-Ku/turbo-bucket
 mcpls.json,Small-Ku/turbo-bucket
 stardb-exporter.json,Small-Ku/turbo-bucket
-gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
+gemini-cli.json,Small-Ku/turbo-bucket
 source-han-sans-vf-ttc.json,Small-Ku/turbo-bucket
 sarasa-super-ttc.json,Small-Ku/turbo-bucket
 antigravity-manager.json,Small-Ku/turbo-bucket
