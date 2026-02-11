@@ -3293,7 +3293,6 @@ rabbitmq.json,ScoopInstaller/Extras
 pwtech.json,ScoopInstaller/Extras
 tikzit.json,ScoopInstaller/Extras
 chatboxai.json,ScoopInstaller/Extras
-popcorn-time.json,ScoopInstaller/Extras
 regclient.json,ScoopInstaller/Extras
 openvpn.json,ScoopInstaller/Extras
 soundnode.json,ScoopInstaller/Extras
@@ -3388,6 +3387,7 @@ chefdk.json,ScoopInstaller/Extras
 triliumnext.json,ScoopInstaller/Extras
 terminus.json,ScoopInstaller/Extras
 processhacker.json,ScoopInstaller/Extras
+popcorn-time.json,ScoopInstaller/Extras
 jianyingpro.json,chawyehsu/dorado
 archisteamfarm_chawyehsu.json,chawyehsu/dorado
 downkyi.json,chawyehsu/dorado
@@ -8733,7 +8733,7 @@ cxbx-reloaded_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
-vita3k_borger.json,borger/scoop-emulators
+vita3k.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -9168,7 +9168,7 @@ xsv_akirco.json,akirco/aki-apps
 mvndaemon_akirco.json,akirco/aki-apps
 httpstat_akirco.json,akirco/aki-apps
 vcredist2015_akirco.json,akirco/aki-apps
-officetoolplus_akirco.json,akirco/aki-apps
+officetoolplus.json,akirco/aki-apps
 simple-live.json,akirco/aki-apps
 fiddler_akirco.json,akirco/aki-apps
 shellcheck_akirco.json,akirco/aki-apps
@@ -9268,7 +9268,7 @@ bilibili_akirco.json,akirco/aki-apps
 aliyundrive.json,akirco/aki-apps
 zola_akirco.json,akirco/aki-apps
 miniconda3_akirco.json,akirco/aki-apps
-chromium_akirco.json,akirco/aki-apps
+chromium.json,akirco/aki-apps
 python_akirco.json,akirco/aki-apps
 recycle-bin_akirco.json,akirco/aki-apps
 pngquant_akirco.json,akirco/aki-apps
@@ -9375,7 +9375,7 @@ vcredist2019.json,akirco/aki-apps
 vcredist2008.json,akirco/aki-apps
 tesseract_akirco.json,akirco/aki-apps
 xidel_akirco.json,akirco/aki-apps
-flutter_akirco.json,akirco/aki-apps
+flutter.json,akirco/aki-apps
 mdcat_akirco.json,akirco/aki-apps
 clashrauto.json,akirco/aki-apps
 deno_akirco.json,akirco/aki-apps
@@ -9798,6 +9798,7 @@ bilibili_DoveBoy.json,DoveBoy/Apps
 wpsoffice-cn.json,DoveBoy/Apps
 restart-explorer_DoveBoy.json,DoveBoy/Apps
 optimizer_DoveBoy.json,DoveBoy/Apps
+chromium_DoveBoy.json,DoveBoy/Apps
 letrecovery.json,DoveBoy/Apps
 text-grab_DoveBoy.json,DoveBoy/Apps
 nekoray_DoveBoy.json,DoveBoy/Apps
@@ -11515,7 +11516,7 @@ everything-toolbar_WinApps-share.json,WinApps-share/WinApps-bucket
 wiztree_WinApps-share.json,WinApps-share/WinApps-bucket
 bandizip_WinApps-share.json,WinApps-share/WinApps-bucket
 ecopaste.json,WinApps-share/WinApps-bucket
-office-tool-plus_WinApps-share.json,WinApps-share/WinApps-bucket
+office-tool-plus.json,WinApps-share/WinApps-bucket
 sharex-setup.json,WinApps-share/WinApps-bucket
 wepe_WinApps-share.json,WinApps-share/WinApps-bucket
 bcuninstaller-np.json,WinApps-share/WinApps-bucket
@@ -12272,7 +12273,7 @@ ddu_Small-Ku.json,Small-Ku/turbo-bucket
 kondo_Small-Ku.json,Small-Ku/turbo-bucket
 mcpls.json,Small-Ku/turbo-bucket
 stardb-exporter.json,Small-Ku/turbo-bucket
-gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
+gemini-cli.json,Small-Ku/turbo-bucket
 source-han-sans-vf-ttc.json,Small-Ku/turbo-bucket
 sarasa-super-ttc.json,Small-Ku/turbo-bucket
 antigravity-manager.json,Small-Ku/turbo-bucket
@@ -12743,7 +12744,7 @@ bbdown_aoisummer.json,aoisummer/scoop-bucket
 windowgrid_aoisummer.json,aoisummer/scoop-bucket
 crystaldiskinfo-aoi.json,aoisummer/scoop-bucket
 ddtv2.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn.json,aoisummer/scoop-bucket
 lunatranslator_aoisummer.json,aoisummer/scoop-bucket
 cinebench23.json,aoisummer/scoop-bucket
 shadowsocks-rust-gnu.json,aoisummer/scoop-bucket
@@ -12821,6 +12822,7 @@ ecopaste_Scoopforge.json,Scoopforge/Extras-Plus
 bitcomet_Scoopforge.json,Scoopforge/Extras-Plus
 defender-remover.json,Scoopforge/Extras-Plus
 tropy.json,Scoopforge/Extras-Plus
+next-ai-drawio.json,Scoopforge/Extras-Plus
 landrop-latest.json,Scoopforge/Extras-Plus
 wisecare365.json,Scoopforge/Extras-Plus
 gamesave-manager_starise.json,starise/Scoop-Gaming
