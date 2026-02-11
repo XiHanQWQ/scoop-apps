@@ -2354,7 +2354,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -8558,7 +8558,7 @@ retroarch-nightly.json,hermanjustnu/scoop-emulators
 hoxs64.json,hermanjustnu/scoop-emulators
 vice-gtk3.json,hermanjustnu/scoop-emulators
 mgba_hermanjustnu.json,hermanjustnu/scoop-emulators
-snes9x-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+snes9x-dev.json,hermanjustnu/scoop-emulators
 visualboyadvance-m-nightly_hermanjustnu.json,hermanjustnu/scoop-emulators
 rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
 cxbx-reloaded_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -9415,7 +9415,6 @@ bun_akirco.json,akirco/aki-apps
 nano_akirco.json,akirco/aki-apps
 vcredist2017.json,akirco/aki-apps
 pwsh_akirco.json,akirco/aki-apps
-go-cn_akirco.json,akirco/aki-apps
 pngcrush_akirco.json,akirco/aki-apps
 crow-translate_akirco.json,akirco/aki-apps
 you-get_akirco.json,akirco/aki-apps
@@ -9555,7 +9554,7 @@ lemonpush.json,DoveBoy/Apps
 clashmi.json,DoveBoy/Apps
 regjump_DoveBoy.json,DoveBoy/Apps
 screenbroadcaster-net481.json,DoveBoy/Apps
-gui-for-singbox.json,DoveBoy/Apps
+gui-for-singbox_DoveBoy.json,DoveBoy/Apps
 ghostdownloader3.json,DoveBoy/Apps
 saber_DoveBoy.json,DoveBoy/Apps
 trafficmonitor-lite_DoveBoy.json,DoveBoy/Apps
@@ -9830,7 +9829,6 @@ runastool_DoveBoy.json,DoveBoy/Apps
 delapp_DoveBoy.json,DoveBoy/Apps
 pikatorrent.json,DoveBoy/Apps
 ccleaner_DoveBoy.json,DoveBoy/Apps
-electerm_DoveBoy.json,DoveBoy/Apps
 gh_DoveBoy.json,DoveBoy/Apps
 waveterm_DoveBoy.json,DoveBoy/Apps
 pot-desktop_DoveBoy.json,DoveBoy/Apps
@@ -9938,7 +9936,7 @@ flut-renamer.json,DoveBoy/Apps
 dust_DoveBoy.json,DoveBoy/Apps
 bbk-cli_DoveBoy.json,DoveBoy/Apps
 localsend_DoveBoy.json,DoveBoy/Apps
-gui-for-clash.json,DoveBoy/Apps
+gui-for-clash_DoveBoy.json,DoveBoy/Apps
 clash-party-portable.json,DoveBoy/Apps
 sendto-menu-editor_DoveBoy.json,DoveBoy/Apps
 screenbroadcaster-net8.json,DoveBoy/Apps
@@ -11238,7 +11236,7 @@ virtualbox.json,WinApps-share/WinApps-bucket
 itunes-old.json,WinApps-share/WinApps-bucket
 windows-terminal_WinApps-share.json,WinApps-share/WinApps-bucket
 musicfree-np.json,WinApps-share/WinApps-bucket
-gui-for-singbox_WinApps-share.json,WinApps-share/WinApps-bucket
+gui-for-singbox.json,WinApps-share/WinApps-bucket
 steam.json,WinApps-share/WinApps-bucket
 tai_WinApps-share.json,WinApps-share/WinApps-bucket
 cherry-studio_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -11345,7 +11343,7 @@ brave-np.json,WinApps-share/WinApps-bucket
 autodarkmode_WinApps-share.json,WinApps-share/WinApps-bucket
 telegram_WinApps-share.json,WinApps-share/WinApps-bucket
 localsend_WinApps-share.json,WinApps-share/WinApps-bucket
-gui-for-clash_WinApps-share.json,WinApps-share/WinApps-bucket
+gui-for-clash.json,WinApps-share/WinApps-bucket
 dbeaver_WinApps-share.json,WinApps-share/WinApps-bucket
 quicker.json,WinApps-share/WinApps-bucket
 vscode-np.json,WinApps-share/WinApps-bucket
@@ -14778,7 +14776,7 @@ IBMPlexTT.json,ShuguangSun/sgs-scoop-bucket
 ydict.json,ShuguangSun/sgs-scoop-bucket
 Maple-Mono-otf_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 Font-Awesome_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+r-devel.json,ShuguangSun/sgs-scoop-bucket
 normcap_jcwillox.json,jcwillox/scoop-bucket
 ytmdesktop-portable.json,jcwillox/scoop-bucket
 ghidra_jcwillox.json,jcwillox/scoop-bucket
