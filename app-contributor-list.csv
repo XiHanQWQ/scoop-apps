@@ -5366,7 +5366,7 @@ gradle6.json,ScoopInstaller/Versions
 idea-rc.json,ScoopInstaller/Versions
 deepgit402.json,ScoopInstaller/Versions
 libreoffice-pre.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 orca3.json,ScoopInstaller/Versions
 postgresql15.json,ScoopInstaller/Versions
 qt-creator-beta.json,ScoopInstaller/Versions
@@ -7873,7 +7873,6 @@ py_dodorz.json,dodorz/scoop
 WeChat_dodorz.json,dodorz/scoop
 tagLyst.json,dodorz/scoop
 CyberShredder.json,dodorz/scoop
-Fresh_dodorz.json,dodorz/scoop
 FARR.json,dodorz/scoop
 OpenProj.json,dodorz/scoop
 MemCheck.json,dodorz/scoop
@@ -8256,7 +8255,6 @@ Notepad4_zh-Hans-AVX2.json,dodorz/scoop
 Iron.json,dodorz/scoop
 UltraCopier.json,dodorz/scoop
 YoudaoDict.json,dodorz/scoop
-html-to-markdown_dodorz.json,dodorz/scoop
 DelAge.json,dodorz/scoop
 Metapad.json,dodorz/scoop
 jsdb.json,dodorz/scoop
@@ -10725,7 +10723,7 @@ tun2proxy.json,NyaMisty/scoop_bucket_misty
 ghidra-beta.json,NyaMisty/scoop_bucket_misty
 fermion.json,NyaMisty/scoop_bucket_misty
 ghidra-nightly.json,NyaMisty/scoop_bucket_misty
-metasploit-framework_NyaMisty.json,NyaMisty/scoop_bucket_misty
+metasploit-framework.json,NyaMisty/scoop_bucket_misty
 dnSpyEx-nightly.json,NyaMisty/scoop_bucket_misty
 debugviewpp_NyaMisty.json,NyaMisty/scoop_bucket_misty
 chfs_NyaMisty.json,NyaMisty/scoop_bucket_misty
@@ -10741,7 +10739,7 @@ qbittorrent-enhanced_naderi.json,naderi/scoop-bucket
 appget_naderi.json,naderi/scoop-bucket
 winshell.json,naderi/scoop-bucket
 ccenhancer_naderi.json,naderi/scoop-bucket
-regcool.json,naderi/scoop-bucket
+regcool_naderi.json,naderi/scoop-bucket
 gimp-portable_naderi.json,naderi/scoop-bucket
 antidupl.json,naderi/scoop-bucket
 netsetman.json,naderi/scoop-bucket
@@ -10823,7 +10821,7 @@ opentrace_naderi.json,naderi/scoop-bucket
 picard-portable.json,naderi/scoop-bucket
 gyroflow_naderi.json,naderi/scoop-bucket
 converter-now.json,naderi/scoop-bucket
-kiro.json,naderi/scoop-bucket
+kiro_naderi.json,naderi/scoop-bucket
 hibernate.json,naderi/scoop-bucket
 xpdf-reader.json,naderi/scoop-bucket
 programmers-notepad.json,naderi/scoop-bucket
@@ -12463,7 +12461,7 @@ password.json,iquiw/scoop-bucket
 ct.json,iquiw/scoop-bucket
 proxify_iquiw.json,iquiw/scoop-bucket
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
@@ -12540,7 +12538,7 @@ bluetooth-version-finder.json,starise/Scoop-Confetti
 aquasnap.json,starise/Scoop-Confetti
 h2testw.json,starise/Scoop-Confetti
 cbxconverter.json,starise/Scoop-Confetti
-ultrasearch.json,starise/Scoop-Confetti
+ultrasearch_starise.json,starise/Scoop-Confetti
 audiochecker.json,starise/Scoop-Confetti
 epub-metadata-editor.json,starise/Scoop-Confetti
 colors.json,starise/Scoop-Confetti
@@ -12673,7 +12671,7 @@ emuvr.json,babo4d/scoop-xrtools
 oyasumivr.json,babo4d/scoop-xrtools
 openra-cameo.json,babo4d/scoop-xrtools
 openra-fractured-realms.json,babo4d/scoop-xrtools
-citron_babo4d.json,babo4d/scoop-xrtools
+citron.json,babo4d/scoop-xrtools
 cncnet-cncreloaded.json,babo4d/scoop-xrtools
 adgobye.json,babo4d/scoop-xrtools
 opencomposite.json,babo4d/scoop-xrtools
@@ -14621,7 +14619,7 @@ HandyOutliner.json,ShuguangSun/sgs-scoop-bucket
 docsim.json,ShuguangSun/sgs-scoop-bucket
 openjdk19_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 unrar_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-chatbox.json,ShuguangSun/sgs-scoop-bucket
+chatbox_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 texlive.json,ShuguangSun/sgs-scoop-bucket
 jabref.json,ShuguangSun/sgs-scoop-bucket
 JetBrainsMono_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
@@ -14707,7 +14705,7 @@ IBMPlexTT.json,ShuguangSun/sgs-scoop-bucket
 ydict.json,ShuguangSun/sgs-scoop-bucket
 Maple-Mono-otf_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 Font-Awesome_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-r-devel.json,ShuguangSun/sgs-scoop-bucket
+r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 xanmod-WSL2.json,Locietta/sniffer
 notepad4_Locietta.json,Locietta/sniffer
 xanmod-WSL2-addons-x64v3.json,Locietta/sniffer
