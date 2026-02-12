@@ -10723,7 +10723,7 @@ tun2proxy.json,NyaMisty/scoop_bucket_misty
 ghidra-beta.json,NyaMisty/scoop_bucket_misty
 fermion.json,NyaMisty/scoop_bucket_misty
 ghidra-nightly.json,NyaMisty/scoop_bucket_misty
-metasploit-framework.json,NyaMisty/scoop_bucket_misty
+metasploit-framework_NyaMisty.json,NyaMisty/scoop_bucket_misty
 dnSpyEx-nightly.json,NyaMisty/scoop_bucket_misty
 debugviewpp_NyaMisty.json,NyaMisty/scoop_bucket_misty
 chfs_NyaMisty.json,NyaMisty/scoop_bucket_misty
@@ -12375,7 +12375,7 @@ fiddler-everywhere.json,seumsc/scoop-seu
 video2x_seumsc.json,seumsc/scoop-seu
 foobar2000-preview.json,seumsc/scoop-seu
 renpy-translator.json,seumsc/scoop-seu
-kook_seumsc.json,seumsc/scoop-seu
+kook.json,seumsc/scoop-seu
 autowikibrowser.json,seumsc/scoop-seu
 eduvpn.json,seumsc/scoop-seu
 librescore.json,seumsc/scoop-seu
@@ -12461,7 +12461,7 @@ password.json,iquiw/scoop-bucket
 ct.json,iquiw/scoop-bucket
 proxify_iquiw.json,iquiw/scoop-bucket
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
@@ -14697,6 +14697,7 @@ openjdk16_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 pandoc_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 graphviz_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 subversion.json,ShuguangSun/sgs-scoop-bucket
+miniforge3-cn.json,ShuguangSun/sgs-scoop-bucket
 openjdk21_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 openjdk17_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 r-4.4.0.json,ShuguangSun/sgs-scoop-bucket
