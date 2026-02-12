@@ -2355,7 +2355,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -2628,6 +2628,7 @@ pipes-rs.json,ScoopInstaller/Extras
 doublecmd.json,ScoopInstaller/Extras
 gimagex.json,ScoopInstaller/Extras
 material-maker.json,ScoopInstaller/Extras
+pear-desktop.json,ScoopInstaller/Extras
 nvui.json,ScoopInstaller/Extras
 iptvnator.json,ScoopInstaller/Extras
 cinny.json,ScoopInstaller/Extras
@@ -3431,7 +3432,7 @@ docker-compose_chawyehsu.json,chawyehsu/dorado
 pixitracker_chawyehsu.json,chawyehsu/dorado
 flowus.json,chawyehsu/dorado
 chatbox-ce.json,chawyehsu/dorado
-wechatwork_chawyehsu.json,chawyehsu/dorado
+wechatwork.json,chawyehsu/dorado
 kt-connect.json,chawyehsu/dorado
 bypass_chawyehsu.json,chawyehsu/dorado
 rustup-np.json,chawyehsu/dorado
@@ -4148,7 +4149,7 @@ obs-studio-cn.json,Scoopforge/Extras-CN
 gimp-cn-dev.json,Scoopforge/Extras-CN
 hbuilderx.json,Scoopforge/Extras-CN
 misakatranslator.json,Scoopforge/Extras-CN
-feishu.json,Scoopforge/Extras-CN
+feishu_Scoopforge.json,Scoopforge/Extras-CN
 feeluown.json,Scoopforge/Extras-CN
 quickbib.json,Scoopforge/Extras-CN
 miniforge-cn.json,Scoopforge/Extras-CN
@@ -8733,7 +8734,7 @@ cxbx-reloaded_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -9268,7 +9269,7 @@ bilibili_akirco.json,akirco/aki-apps
 aliyundrive.json,akirco/aki-apps
 zola_akirco.json,akirco/aki-apps
 miniconda3_akirco.json,akirco/aki-apps
-chromium.json,akirco/aki-apps
+chromium_akirco.json,akirco/aki-apps
 python_akirco.json,akirco/aki-apps
 recycle-bin_akirco.json,akirco/aki-apps
 pngquant_akirco.json,akirco/aki-apps
@@ -9375,7 +9376,7 @@ vcredist2019.json,akirco/aki-apps
 vcredist2008.json,akirco/aki-apps
 tesseract_akirco.json,akirco/aki-apps
 xidel_akirco.json,akirco/aki-apps
-flutter.json,akirco/aki-apps
+flutter_akirco.json,akirco/aki-apps
 mdcat_akirco.json,akirco/aki-apps
 clashrauto.json,akirco/aki-apps
 deno_akirco.json,akirco/aki-apps
@@ -9696,7 +9697,7 @@ typora_DoveBoy.json,DoveBoy/Apps
 walk_DoveBoy.json,DoveBoy/Apps
 mgtv.json,DoveBoy/Apps
 pastebarapp.json,DoveBoy/Apps
-deskreen.json,DoveBoy/Apps
+deskreen_DoveBoy.json,DoveBoy/Apps
 tcping_DoveBoy.json,DoveBoy/Apps
 pnpm_DoveBoy.json,DoveBoy/Apps
 host-editor_DoveBoy.json,DoveBoy/Apps
@@ -9798,7 +9799,6 @@ bilibili_DoveBoy.json,DoveBoy/Apps
 wpsoffice-cn.json,DoveBoy/Apps
 restart-explorer_DoveBoy.json,DoveBoy/Apps
 optimizer_DoveBoy.json,DoveBoy/Apps
-chromium_DoveBoy.json,DoveBoy/Apps
 letrecovery.json,DoveBoy/Apps
 text-grab_DoveBoy.json,DoveBoy/Apps
 nekoray_DoveBoy.json,DoveBoy/Apps
@@ -10258,7 +10258,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
@@ -12415,7 +12415,6 @@ waifu2x-ncnn-vulkan_seumsc.json,seumsc/scoop-seu
 navicat-premium-lite.json,seumsc/scoop-seu
 mhc2-dev.json,seumsc/scoop-seu
 cpachecker.json,seumsc/scoop-seu
-office-tool-plus_seumsc.json,seumsc/scoop-seu
 madvr-test.json,seumsc/scoop-seu
 dpeaklim.json,seumsc/scoop-seu
 shterm-alt.json,seumsc/scoop-seu
@@ -12744,7 +12743,7 @@ bbdown_aoisummer.json,aoisummer/scoop-bucket
 windowgrid_aoisummer.json,aoisummer/scoop-bucket
 crystaldiskinfo-aoi.json,aoisummer/scoop-bucket
 ddtv2.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 lunatranslator_aoisummer.json,aoisummer/scoop-bucket
 cinebench23.json,aoisummer/scoop-bucket
 shadowsocks-rust-gnu.json,aoisummer/scoop-bucket
