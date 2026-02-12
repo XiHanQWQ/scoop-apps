@@ -2256,7 +2256,7 @@ commandbox.json,ScoopInstaller/Extras
 neohtop.json,ScoopInstaller/Extras
 treesheets.json,ScoopInstaller/Extras
 vesktop.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 fontforge.json,ScoopInstaller/Extras
 baretail.json,ScoopInstaller/Extras
 vcredist2013.json,ScoopInstaller/Extras
@@ -2355,7 +2355,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -3432,7 +3432,7 @@ docker-compose_chawyehsu.json,chawyehsu/dorado
 pixitracker_chawyehsu.json,chawyehsu/dorado
 flowus.json,chawyehsu/dorado
 chatbox-ce.json,chawyehsu/dorado
-wechatwork.json,chawyehsu/dorado
+wechatwork_chawyehsu.json,chawyehsu/dorado
 kt-connect.json,chawyehsu/dorado
 bypass_chawyehsu.json,chawyehsu/dorado
 rustup-np.json,chawyehsu/dorado
@@ -4116,7 +4116,7 @@ lky-officetools.json,Scoopforge/Extras-CN
 m3u8-downloader.json,Scoopforge/Extras-CN
 ainiee.json,Scoopforge/Extras-CN
 dingtalk.json,Scoopforge/Extras-CN
-baidunetdisk.json,Scoopforge/Extras-CN
+baidunetdisk_Scoopforge.json,Scoopforge/Extras-CN
 i4tools.json,Scoopforge/Extras-CN
 eshelper.json,Scoopforge/Extras-CN
 adrive.json,Scoopforge/Extras-CN
@@ -9757,6 +9757,7 @@ gnupg_DoveBoy.json,DoveBoy/Apps
 cloudflarespeedtest.json,DoveBoy/Apps
 nanazip_DoveBoy.json,DoveBoy/Apps
 ttime.json,DoveBoy/Apps
+freebox.json,DoveBoy/Apps
 scrcpy_DoveBoy.json,DoveBoy/Apps
 yazi_DoveBoy.json,DoveBoy/Apps
 mediacreationtool-bat.json,DoveBoy/Apps
@@ -10258,7 +10259,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
@@ -10457,7 +10458,7 @@ nhse.json,hu3rror/scoop-muggle
 q_hu3rror.json,hu3rror/scoop-muggle
 get-childitemcolor.json,hu3rror/scoop-muggle
 chromium_hu3rror.json,hu3rror/scoop-muggle
-picgo.json,hu3rror/scoop-muggle
+picgo_hu3rror.json,hu3rror/scoop-muggle
 usbeam-consoles-dns.json,hu3rror/scoop-muggle
 acttools.json,hu3rror/scoop-muggle
 ImTip.json,hu3rror/scoop-muggle
@@ -14706,7 +14707,7 @@ IBMPlexTT.json,ShuguangSun/sgs-scoop-bucket
 ydict.json,ShuguangSun/sgs-scoop-bucket
 Maple-Mono-otf_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 Font-Awesome_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+r-devel.json,ShuguangSun/sgs-scoop-bucket
 xanmod-WSL2.json,Locietta/sniffer
 notepad4_Locietta.json,Locietta/sniffer
 xanmod-WSL2-addons-x64v3.json,Locietta/sniffer
@@ -14865,7 +14866,7 @@ sonoff-diy-tool.json,jcwillox/scoop-bucket
 PowerShell_maboloshi.json,maboloshi/scoop-private
 notepad4_maboloshi.json,maboloshi/scoop-private
 ima-copilot_maboloshi.json,maboloshi/scoop-private
-microsoftedge-beta_maboloshi.json,maboloshi/scoop-private
+microsoftedge-beta.json,maboloshi/scoop-private
 ffmpeg-N_m3u8DL-CLI.json,maboloshi/scoop-private
 sarasa-gothic-sc-excerpt.json,maboloshi/scoop-private
 monitorian.json,maboloshi/scoop-private
