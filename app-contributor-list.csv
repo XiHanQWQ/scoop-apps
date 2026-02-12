@@ -9859,7 +9859,7 @@ clashmi-portable.json,DoveBoy/Apps
 hyper-beta.json,DoveBoy/Apps
 tinypng.json,DoveBoy/Apps
 telegram_DoveBoy.json,DoveBoy/Apps
-treesize_DoveBoy.json,DoveBoy/Apps
+treesize.json,DoveBoy/Apps
 mrrss_DoveBoy.json,DoveBoy/Apps
 jmcomic-downloader-portable.json,DoveBoy/Apps
 shadowsocksr-hmbsbige_DoveBoy.json,DoveBoy/Apps
@@ -10018,7 +10018,7 @@ nvm-tab-completion.json,DoveBoy/Apps
 qq-nt_DoveBoy.json,DoveBoy/Apps
 chatbox_DoveBoy.json,DoveBoy/Apps
 draw.io_DoveBoy.json,DoveBoy/Apps
-readest_DoveBoy.json,DoveBoy/Apps
+readest.json,DoveBoy/Apps
 ipinfo.json,DoveBoy/Apps
 gopeed-web.json,DoveBoy/Apps
 fix-print-spooler_DoveBoy.json,DoveBoy/Apps
@@ -10179,7 +10179,7 @@ scoop-backup-knoxdev.json,DoveBoy/Apps
 nomeiryoui_DoveBoy.json,DoveBoy/Apps
 easyserviceoptimizer_DoveBoy.json,DoveBoy/Apps
 bongocat.json,DoveBoy/Apps
-abdownloadmanager_DoveBoy.json,DoveBoy/Apps
+abdownloadmanager.json,DoveBoy/Apps
 anyportal.json,DoveBoy/Apps
 energystarx.json,DoveBoy/Apps
 cmwtat-digital-edition.json,DoveBoy/Apps
@@ -11238,7 +11238,7 @@ unigetui_WinApps-share.json,WinApps-share/WinApps-bucket
 files.json,WinApps-share/WinApps-bucket
 todesk-lite.json,WinApps-share/WinApps-bucket
 obs-np.json,WinApps-share/WinApps-bucket
-brave_WinApps-share.json,WinApps-share/WinApps-bucket
+brave.json,WinApps-share/WinApps-bucket
 wgestures_WinApps-share.json,WinApps-share/WinApps-bucket
 lively_WinApps-share.json,WinApps-share/WinApps-bucket
 ppduck3.json,WinApps-share/WinApps-bucket
@@ -12430,7 +12430,7 @@ kindle-previewer.json,seumsc/scoop-seu
 geekdesk.json,TianXiaTech/scoop-txt
 clash-for-windows-cn.json,TianXiaTech/scoop-txt
 clash-for-windows_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 imewlconverter_TianXiaTech.json,TianXiaTech/scoop-txt
 huya.json,TianXiaTech/scoop-txt
 blinko.json,TianXiaTech/scoop-txt
@@ -13010,7 +13010,7 @@ animeko_cc713.json,cc713/ownscoop
 imgbrd-grabber.json,cc713/ownscoop
 lx-music_cc713.json,cc713/ownscoop
 JMComic-qt.json,cc713/ownscoop
-LunaTranslator.json,cc713/ownscoop
+LunaTranslator_cc713.json,cc713/ownscoop
 nomacs_cc713.json,cc713/ownscoop
 RegCool-Portable_cc713.json,cc713/ownscoop
 qimgv_cc713.json,cc713/ownscoop
