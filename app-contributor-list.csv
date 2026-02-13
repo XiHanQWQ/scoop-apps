@@ -2596,7 +2596,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -9259,7 +9259,6 @@ tokei_akirco.json,akirco/aki-apps
 mdcat_akirco.json,akirco/aki-apps
 n-m3u8dl-cli_akirco.json,akirco/aki-apps
 tuya.json,akirco/aki-apps
-youtubedownloader_akirco.json,akirco/aki-apps
 prs_akirco.json,akirco/aki-apps
 fleet.json,akirco/aki-apps
 dvm_akirco.json,akirco/aki-apps
@@ -9860,7 +9859,7 @@ clashmi-portable.json,DoveBoy/Apps
 hyper-beta.json,DoveBoy/Apps
 tinypng.json,DoveBoy/Apps
 telegram_DoveBoy.json,DoveBoy/Apps
-treesize.json,DoveBoy/Apps
+treesize_DoveBoy.json,DoveBoy/Apps
 mrrss_DoveBoy.json,DoveBoy/Apps
 jmcomic-downloader-portable.json,DoveBoy/Apps
 shadowsocksr-hmbsbige_DoveBoy.json,DoveBoy/Apps
