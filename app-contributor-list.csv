@@ -9243,6 +9243,7 @@ rainbow_akirco.json,akirco/aki-apps
 windows-application-driver_akirco.json,akirco/aki-apps
 registry-finder_akirco.json,akirco/aki-apps
 php_akirco.json,akirco/aki-apps
+cursor_akirco.json,akirco/aki-apps
 musicfox.json,akirco/aki-apps
 gow_akirco.json,akirco/aki-apps
 dim.json,akirco/aki-apps
@@ -12430,7 +12431,7 @@ kindle-previewer.json,seumsc/scoop-seu
 geekdesk.json,TianXiaTech/scoop-txt
 clash-for-windows-cn.json,TianXiaTech/scoop-txt
 clash-for-windows_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 imewlconverter_TianXiaTech.json,TianXiaTech/scoop-txt
 huya.json,TianXiaTech/scoop-txt
 blinko.json,TianXiaTech/scoop-txt
