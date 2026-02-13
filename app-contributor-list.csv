@@ -2596,7 +2596,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -5448,7 +5448,7 @@ vivaldi-snapshot.json,ScoopInstaller/Versions
 docker-nightly.json,ScoopInstaller/Versions
 goland-rc.json,ScoopInstaller/Versions
 spotdl-beta.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 nanazip-beta.json,ScoopInstaller/Versions
 php71-xdebug.json,ScoopInstaller/Versions
 php81-xdebug.json,ScoopInstaller/Versions
@@ -9259,6 +9259,7 @@ tokei_akirco.json,akirco/aki-apps
 mdcat_akirco.json,akirco/aki-apps
 n-m3u8dl-cli_akirco.json,akirco/aki-apps
 tuya.json,akirco/aki-apps
+youtubedownloader_akirco.json,akirco/aki-apps
 prs_akirco.json,akirco/aki-apps
 fleet.json,akirco/aki-apps
 dvm_akirco.json,akirco/aki-apps
@@ -10018,7 +10019,7 @@ nvm-tab-completion.json,DoveBoy/Apps
 qq-nt_DoveBoy.json,DoveBoy/Apps
 chatbox_DoveBoy.json,DoveBoy/Apps
 draw.io_DoveBoy.json,DoveBoy/Apps
-readest.json,DoveBoy/Apps
+readest_DoveBoy.json,DoveBoy/Apps
 ipinfo.json,DoveBoy/Apps
 gopeed-web.json,DoveBoy/Apps
 fix-print-spooler_DoveBoy.json,DoveBoy/Apps
@@ -10179,7 +10180,7 @@ scoop-backup-knoxdev.json,DoveBoy/Apps
 nomeiryoui_DoveBoy.json,DoveBoy/Apps
 easyserviceoptimizer_DoveBoy.json,DoveBoy/Apps
 bongocat.json,DoveBoy/Apps
-abdownloadmanager.json,DoveBoy/Apps
+abdownloadmanager_DoveBoy.json,DoveBoy/Apps
 anyportal.json,DoveBoy/Apps
 energystarx.json,DoveBoy/Apps
 cmwtat-digital-edition.json,DoveBoy/Apps
@@ -11238,7 +11239,7 @@ unigetui_WinApps-share.json,WinApps-share/WinApps-bucket
 files.json,WinApps-share/WinApps-bucket
 todesk-lite.json,WinApps-share/WinApps-bucket
 obs-np.json,WinApps-share/WinApps-bucket
-brave.json,WinApps-share/WinApps-bucket
+brave_WinApps-share.json,WinApps-share/WinApps-bucket
 wgestures_WinApps-share.json,WinApps-share/WinApps-bucket
 lively_WinApps-share.json,WinApps-share/WinApps-bucket
 ppduck3.json,WinApps-share/WinApps-bucket
@@ -12380,7 +12381,7 @@ cbmc.json,seumsc/scoop-seu
 mhc2-dev.json,seumsc/scoop-seu
 cruiser.json,seumsc/scoop-seu
 tex-fmt_seumsc.json,seumsc/scoop-seu
-kook.json,seumsc/scoop-seu
+kook_seumsc.json,seumsc/scoop-seu
 hmcl-dev.json,seumsc/scoop-seu
 ifrextractor.json,seumsc/scoop-seu
 kindlegen_seumsc.json,seumsc/scoop-seu
@@ -12430,7 +12431,7 @@ kindle-previewer.json,seumsc/scoop-seu
 geekdesk.json,TianXiaTech/scoop-txt
 clash-for-windows-cn.json,TianXiaTech/scoop-txt
 clash-for-windows_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 imewlconverter_TianXiaTech.json,TianXiaTech/scoop-txt
 huya.json,TianXiaTech/scoop-txt
 blinko.json,TianXiaTech/scoop-txt
@@ -14772,7 +14773,7 @@ regworkshop.json,maboloshi/scoop-private
 FileLocatorPro.json,maboloshi/scoop-private
 pot_maboloshi.json,maboloshi/scoop-private
 n-m3u8dl-cli-simpleg_list.json,maboloshi/scoop-private
-microsoftedge-beta.json,maboloshi/scoop-private
+microsoftedge-beta_maboloshi.json,maboloshi/scoop-private
 sarasa-gothic-sc-excerpt.json,maboloshi/scoop-private
 notepadnext_maboloshi.json,maboloshi/scoop-private
 notepad4_maboloshi.json,maboloshi/scoop-private
