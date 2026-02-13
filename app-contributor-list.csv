@@ -9180,7 +9180,7 @@ highlight_akirco.json,akirco/aki-apps
 npm-completion.json,akirco/aki-apps
 windsurf_akirco.json,akirco/aki-apps
 netch_akirco.json,akirco/aki-apps
-flutter_akirco.json,akirco/aki-apps
+flutter.json,akirco/aki-apps
 rclone-browser_akirco.json,akirco/aki-apps
 notion_akirco.json,akirco/aki-apps
 oxipng_akirco.json,akirco/aki-apps
@@ -9767,6 +9767,7 @@ mame_DoveBoy.json,DoveBoy/Apps
 trippy_DoveBoy.json,DoveBoy/Apps
 picturecleaner.json,DoveBoy/Apps
 bookget.json,DoveBoy/Apps
+cudatext.json,DoveBoy/Apps
 psscripttools.json,DoveBoy/Apps
 shadowsocksr-hmbsbige-full.json,DoveBoy/Apps
 screenbroadcaster-net8.json,DoveBoy/Apps
@@ -9805,7 +9806,7 @@ remove-ms-edge.json,DoveBoy/Apps
 chromedriver_DoveBoy.json,DoveBoy/Apps
 openssh_DoveBoy.json,DoveBoy/Apps
 iwck_DoveBoy.json,DoveBoy/Apps
-googlechrome_DoveBoy.json,DoveBoy/Apps
+googlechrome.json,DoveBoy/Apps
 nattypetester.json,DoveBoy/Apps
 pmas.json,DoveBoy/Apps
 yasocut.json,DoveBoy/Apps
@@ -10721,7 +10722,7 @@ trays.json,NyaMisty/scoop_bucket_misty
 carnac-misty.json,NyaMisty/scoop_bucket_misty
 tun2proxy.json,NyaMisty/scoop_bucket_misty
 chfs_NyaMisty.json,NyaMisty/scoop_bucket_misty
-metasploit-framework_NyaMisty.json,NyaMisty/scoop_bucket_misty
+metasploit-framework.json,NyaMisty/scoop_bucket_misty
 fclone.json,NyaMisty/scoop_bucket_misty
 rizin-nightly.json,NyaMisty/scoop_bucket_misty
 jclasslib.json,NyaMisty/scoop_bucket_misty
@@ -11348,7 +11349,7 @@ CloudCompare.json,ygguorun/scoop-bucket
 start.json,ygguorun/scoop-bucket
 RustDesk_ygguorun.json,ygguorun/scoop-bucket
 MusicTag_ygguorun.json,ygguorun/scoop-bucket
-CopyTranslator_ygguorun.json,ygguorun/scoop-bucket
+CopyTranslator.json,ygguorun/scoop-bucket
 pic2meme.json,ygguorun/scoop-bucket
 FileMonitor.json,ygguorun/scoop-bucket
 compact_html.json,ygguorun/scoop-bucket
@@ -12521,7 +12522,7 @@ uefitool-ne.json,seumsc/scoop-seu
 prom-lite.json,seumsc/scoop-seu
 usbeam-hosts-editor_seumsc.json,seumsc/scoop-seu
 anime4kcpp-cli.json,seumsc/scoop-seu
-hmcl_seumsc.json,seumsc/scoop-seu
+hmcl.json,seumsc/scoop-seu
 steamcommunity-302.json,seumsc/scoop-seu
 navicat-premium-lite.json,seumsc/scoop-seu
 cloudflare-speedtest.json,seumsc/scoop-seu
@@ -13055,6 +13056,7 @@ picacg-qt.json,cc713/ownscoop
 virtualbox-extension.json,cc713/ownscoop
 gimagereader_cc713.json,cc713/ownscoop
 Irfanview_cc713.json,cc713/ownscoop
+copytranslator_cc713.json,cc713/ownscoop
 mpv-lazy_cc713.json,cc713/ownscoop
 firefox-zh-CN_cc713.json,cc713/ownscoop
 LyX_cc713.json,cc713/ownscoop
@@ -14559,7 +14561,7 @@ xanmod-WSL2-addons-lts-x64v2.json,Locietta/sniffer
 xanmod-WSL2-lts-skylake.json,Locietta/sniffer
 eqapo-np.json,Locietta/sniffer
 zju-connect-for-win.json,Locietta/sniffer
-hmcl.json,Locietta/sniffer
+hmcl_Locietta.json,Locietta/sniffer
 xanmod-WSL2-lts-zen3.json,Locietta/sniffer
 xanmod-WSL2-addons-skylake.json,Locietta/sniffer
 xanmod-WSL2-addons-zen3.json,Locietta/sniffer
