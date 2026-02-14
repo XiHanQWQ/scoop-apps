@@ -8102,6 +8102,7 @@ AlpineWSL_dodorz.json,dodorz/scoop
 ASharperScaling.json,dodorz/scoop
 tkdiff.json,dodorz/scoop
 Ipe.json,dodorz/scoop
+BestTrace.json,dodorz/scoop
 wxMEdit.json,dodorz/scoop
 oculante_dodorz.json,dodorz/scoop
 ColorStorm.json,dodorz/scoop
@@ -8192,6 +8193,7 @@ INetGet.json,dodorz/scoop
 BusyBox-Unicode.json,dodorz/scoop
 MADPlay.json,dodorz/scoop
 fasd.json,dodorz/scoop
+CraftAgents.json,dodorz/scoop
 GrepHub.json,dodorz/scoop
 nvPY.json,dodorz/scoop
 KillEmAll.json,dodorz/scoop
@@ -8577,7 +8579,7 @@ snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
 vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -8712,7 +8714,7 @@ mgba_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -9655,7 +9657,6 @@ autodarkmode_DoveBoy.json,DoveBoy/Apps
 mycomputermanager.json,DoveBoy/Apps
 gh_DoveBoy.json,DoveBoy/Apps
 leagueakari.json,DoveBoy/Apps
-ddu_DoveBoy.json,DoveBoy/Apps
 wpsoffice-cn.json,DoveBoy/Apps
 7zip-beta_DoveBoy.json,DoveBoy/Apps
 pixivutil2.json,DoveBoy/Apps
@@ -10368,7 +10369,7 @@ neteasemusic_wzv5.json,wzv5/ScoopBucket
 winobjex64.json,wzv5/ScoopBucket
 utools_wzv5.json,wzv5/ScoopBucket
 oleviewdotnet.json,wzv5/ScoopBucket
-besttrace.json,wzv5/ScoopBucket
+besttrace_wzv5.json,wzv5/ScoopBucket
 nodejs-bin.json,wzv5/ScoopBucket
 lx-music-desktop_wzv5.json,wzv5/ScoopBucket
 aliyundrive_wzv5.json,wzv5/ScoopBucket
@@ -12369,7 +12370,7 @@ wire-portapps.json,Velgus/Scoop-Portapps
 geekdesk.json,TianXiaTech/scoop-txt
 clash-for-windows-cn.json,TianXiaTech/scoop-txt
 clash-for-windows_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 imewlconverter_TianXiaTech.json,TianXiaTech/scoop-txt
 huya.json,TianXiaTech/scoop-txt
 blinko.json,TianXiaTech/scoop-txt
