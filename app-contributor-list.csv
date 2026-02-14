@@ -8798,7 +8798,7 @@ rad_ViCrack.json,ViCrack/scoop-bucket
 TscanPlus_ViCrack.json,ViCrack/scoop-bucket
 dnsx_ViCrack.json,ViCrack/scoop-bucket
 struts2vulsscantools.json,ViCrack/scoop-bucket
-cherry-studio_ViCrack.json,ViCrack/scoop-bucket
+cherry-studio.json,ViCrack/scoop-bucket
 1remote.json,ViCrack/scoop-bucket
 ysomap.json,ViCrack/scoop-bucket
 finalshell.json,ViCrack/scoop-bucket
@@ -9627,7 +9627,6 @@ clash-for-flutter.json,DoveBoy/Apps
 pytranscriber.json,DoveBoy/Apps
 host-editor_DoveBoy.json,DoveBoy/Apps
 fluent-m3u8.json,DoveBoy/Apps
-chromium_DoveBoy.json,DoveBoy/Apps
 jarkviewer_DoveBoy.json,DoveBoy/Apps
 urlfinder.json,DoveBoy/Apps
 flyoobe.json,DoveBoy/Apps
