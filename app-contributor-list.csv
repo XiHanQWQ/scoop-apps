@@ -4151,7 +4151,7 @@ i4tools.json,Scoopforge/Extras-CN
 ainiee.json,Scoopforge/Extras-CN
 fishing-funds.json,Scoopforge/Extras-CN
 misakatranslator.json,Scoopforge/Extras-CN
-baidunetdisk.json,Scoopforge/Extras-CN
+baidunetdisk_Scoopforge.json,Scoopforge/Extras-CN
 feishu_Scoopforge.json,Scoopforge/Extras-CN
 edgeless.json,Scoopforge/Extras-CN
 douyin.json,Scoopforge/Extras-CN
@@ -9627,6 +9627,7 @@ clash-for-flutter.json,DoveBoy/Apps
 pytranscriber.json,DoveBoy/Apps
 host-editor_DoveBoy.json,DoveBoy/Apps
 fluent-m3u8.json,DoveBoy/Apps
+chromium_DoveBoy.json,DoveBoy/Apps
 jarkviewer_DoveBoy.json,DoveBoy/Apps
 urlfinder.json,DoveBoy/Apps
 flyoobe.json,DoveBoy/Apps
@@ -14650,7 +14651,7 @@ git-with-openssh_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 defineEditor.json,ShuguangSun/sgs-scoop-bucket
 emacs-mplscorwin.json,ShuguangSun/sgs-scoop-bucket
 efm-langserver.json,ShuguangSun/sgs-scoop-bucket
-file-converter.json,ShuguangSun/sgs-scoop-bucket
+file-converter_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 busybox64u.json,ShuguangSun/sgs-scoop-bucket
 r-openblas.json,ShuguangSun/sgs-scoop-bucket
 r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
