@@ -8798,7 +8798,7 @@ rad_ViCrack.json,ViCrack/scoop-bucket
 TscanPlus_ViCrack.json,ViCrack/scoop-bucket
 dnsx_ViCrack.json,ViCrack/scoop-bucket
 struts2vulsscantools.json,ViCrack/scoop-bucket
-cherry-studio.json,ViCrack/scoop-bucket
+cherry-studio_ViCrack.json,ViCrack/scoop-bucket
 1remote.json,ViCrack/scoop-bucket
 ysomap.json,ViCrack/scoop-bucket
 finalshell.json,ViCrack/scoop-bucket
@@ -10631,7 +10631,7 @@ posh-cd.json,amorphobia/siku
 scoop-hook.json,amorphobia/siku
 clash-for-windows_amorphobia.json,amorphobia/siku
 idm-trial-reset.json,amorphobia/siku
-filebrowser_amorphobia.json,amorphobia/siku
+filebrowser.json,amorphobia/siku
 bind-lean.json,amorphobia/siku
 ipatool.json,amorphobia/siku
 webdav.json,amorphobia/siku
@@ -11452,7 +11452,7 @@ snipaste_WinApps-share.json,WinApps-share/WinApps-bucket
 keyviz_WinApps-share.json,WinApps-share/WinApps-bucket
 pixpin-np.json,WinApps-share/WinApps-bucket
 frame.json,WinApps-share/WinApps-bucket
-gui-for-singbox_WinApps-share.json,WinApps-share/WinApps-bucket
+gui-for-singbox.json,WinApps-share/WinApps-bucket
 zotero-np.json,WinApps-share/WinApps-bucket
 dismplus.json,WinApps-share/WinApps-bucket
 google-chrome.json,WinApps-share/WinApps-bucket
@@ -12237,7 +12237,7 @@ gping_batkiz.json,batkiz/backit
 gosec_batkiz.json,batkiz/backit
 git-who.json,batkiz/backit
 glow_batkiz.json,batkiz/backit
-xq_batkiz.json,batkiz/backit
+xq.json,batkiz/backit
 dnote_batkiz.json,batkiz/backit
 windivert.json,Small-Ku/turbo-bucket
 exiftool_Small-Ku.json,Small-Ku/turbo-bucket
@@ -14893,7 +14893,7 @@ regworkshop.json,maboloshi/scoop-private
 FileLocatorPro.json,maboloshi/scoop-private
 pot_maboloshi.json,maboloshi/scoop-private
 n-m3u8dl-cli-simpleg_list.json,maboloshi/scoop-private
-microsoftedge-beta_maboloshi.json,maboloshi/scoop-private
+microsoftedge-beta.json,maboloshi/scoop-private
 sarasa-gothic-sc-excerpt.json,maboloshi/scoop-private
 notepadnext_maboloshi.json,maboloshi/scoop-private
 notepad4_maboloshi.json,maboloshi/scoop-private
