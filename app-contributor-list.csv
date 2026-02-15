@@ -1288,6 +1288,7 @@ wiliwili.json,ScoopInstaller/Extras
 lighttable.json,ScoopInstaller/Extras
 flux_ScoopInstaller.json,ScoopInstaller/Extras
 makemkv.json,ScoopInstaller/Extras
+easytier-gui.json,ScoopInstaller/Extras
 teamspeak3.json,ScoopInstaller/Extras
 carapace-bin.json,ScoopInstaller/Extras
 unigetui.json,ScoopInstaller/Extras
@@ -8579,7 +8580,7 @@ snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
 vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -9245,6 +9246,7 @@ rainbow_akirco.json,akirco/aki-apps
 windows-application-driver_akirco.json,akirco/aki-apps
 registry-finder_akirco.json,akirco/aki-apps
 php_akirco.json,akirco/aki-apps
+cursor_akirco.json,akirco/aki-apps
 musicfox.json,akirco/aki-apps
 gow_akirco.json,akirco/aki-apps
 dim.json,akirco/aki-apps
@@ -9952,7 +9954,7 @@ github-hosts.json,DoveBoy/Apps
 b0pass.json,DoveBoy/Apps
 winget-preview_DoveBoy.json,DoveBoy/Apps
 rickrack.json,DoveBoy/Apps
-czkawka-gui.json,DoveBoy/Apps
+czkawka-gui_DoveBoy.json,DoveBoy/Apps
 ofd2pdf.json,DoveBoy/Apps
 alisthelper_DoveBoy.json,DoveBoy/Apps
 scoop-search-multisource.json,DoveBoy/Apps
@@ -10632,7 +10634,7 @@ posh-cd.json,amorphobia/siku
 scoop-hook.json,amorphobia/siku
 clash-for-windows_amorphobia.json,amorphobia/siku
 idm-trial-reset.json,amorphobia/siku
-filebrowser.json,amorphobia/siku
+filebrowser_amorphobia.json,amorphobia/siku
 bind-lean.json,amorphobia/siku
 ipatool.json,amorphobia/siku
 webdav.json,amorphobia/siku
@@ -12875,6 +12877,7 @@ nvidia-display-driver.json,starise/Scoop-Gaming
 nvidia-physx-legacy.json,starise/Scoop-Gaming
 nvidia-geforce-experience.json,starise/Scoop-Gaming
 dlss-swapper_starise.json,starise/Scoop-Gaming
+ihateborders.json,starise/Scoop-Gaming
 gamesave-manager_starise.json,starise/Scoop-Gaming
 __template.json,mo-san/scoop-bucket
 ed-market-connector.json,mo-san/scoop-bucket
@@ -14759,7 +14762,7 @@ regworkshop.json,maboloshi/scoop-private
 FileLocatorPro.json,maboloshi/scoop-private
 pot_maboloshi.json,maboloshi/scoop-private
 n-m3u8dl-cli-simpleg_list.json,maboloshi/scoop-private
-microsoftedge-beta.json,maboloshi/scoop-private
+microsoftedge-beta_maboloshi.json,maboloshi/scoop-private
 sarasa-gothic-sc-excerpt.json,maboloshi/scoop-private
 notepadnext_maboloshi.json,maboloshi/scoop-private
 notepad4_maboloshi.json,maboloshi/scoop-private
