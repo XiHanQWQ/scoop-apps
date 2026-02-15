@@ -9659,6 +9659,7 @@ autodarkmode_DoveBoy.json,DoveBoy/Apps
 mycomputermanager.json,DoveBoy/Apps
 gh_DoveBoy.json,DoveBoy/Apps
 leagueakari.json,DoveBoy/Apps
+ddu_DoveBoy.json,DoveBoy/Apps
 wpsoffice-cn.json,DoveBoy/Apps
 7zip-beta_DoveBoy.json,DoveBoy/Apps
 pixivutil2.json,DoveBoy/Apps
@@ -12240,7 +12241,7 @@ gping_batkiz.json,batkiz/backit
 gosec_batkiz.json,batkiz/backit
 git-who.json,batkiz/backit
 glow_batkiz.json,batkiz/backit
-xq.json,batkiz/backit
+xq_batkiz.json,batkiz/backit
 dnote_batkiz.json,batkiz/backit
 windivert.json,Small-Ku/turbo-bucket
 exiftool_Small-Ku.json,Small-Ku/turbo-bucket
@@ -12372,7 +12373,7 @@ wire-portapps.json,Velgus/Scoop-Portapps
 geekdesk.json,TianXiaTech/scoop-txt
 clash-for-windows-cn.json,TianXiaTech/scoop-txt
 clash-for-windows_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 imewlconverter_TianXiaTech.json,TianXiaTech/scoop-txt
 huya.json,TianXiaTech/scoop-txt
 blinko.json,TianXiaTech/scoop-txt
@@ -12664,7 +12665,7 @@ ikemen-go.json,babo4d/scoop-xrtools
 beatsaber-modassistant.json,babo4d/scoop-xrtools
 openra-sole-survivor.json,babo4d/scoop-xrtools
 vbjin-ovr.json,babo4d/scoop-xrtools
-citron.json,babo4d/scoop-xrtools
+citron_babo4d.json,babo4d/scoop-xrtools
 scp-containment-breach.json,babo4d/scoop-xrtools
 doomlauncher.json,babo4d/scoop-xrtools
 slimevr-server.json,babo4d/scoop-xrtools
