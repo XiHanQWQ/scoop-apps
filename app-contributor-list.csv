@@ -2086,6 +2086,7 @@ scratch.json,ScoopInstaller/Extras
 consolez.json,ScoopInstaller/Extras
 baregrep.json,ScoopInstaller/Extras
 walksnail-osd-tool.json,ScoopInstaller/Extras
+webview2.json,ScoopInstaller/Extras
 veusz.json,ScoopInstaller/Extras
 caesium-image-compressor.json,ScoopInstaller/Extras
 opencode-desktop.json,ScoopInstaller/Extras
@@ -8580,7 +8581,7 @@ snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
 vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -11398,7 +11399,7 @@ lx-music-np.json,WinApps-share/WinApps-bucket
 wiztree-np.json,WinApps-share/WinApps-bucket
 rubick_WinApps-share.json,WinApps-share/WinApps-bucket
 hibituninstaller-np.json,WinApps-share/WinApps-bucket
-vscode_WinApps-share.json,WinApps-share/WinApps-bucket
+vscode.json,WinApps-share/WinApps-bucket
 carnac_WinApps-share.json,WinApps-share/WinApps-bucket
 ventoy_WinApps-share.json,WinApps-share/WinApps-bucket
 iFlyVoice.json,ygguorun/scoop-bucket
@@ -13086,6 +13087,7 @@ gitg.json,cc713/ownscoop
 diskgeniusCN.json,cc713/ownscoop
 aegisub-arch.json,cc713/ownscoop
 cudatext-addons.json,cc713/ownscoop
+zyfun.json,cc713/ownscoop
 universal-android-debloater_cc713.json,cc713/ownscoop
 qimgv-dev.json,cc713/ownscoop
 video2x_cc713.json,cc713/ownscoop
