@@ -8738,7 +8738,7 @@ mednafen-dev_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 shadps4.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
@@ -9293,7 +9293,7 @@ oh-my-posh_akirco.json,akirco/aki-apps
 rustdesk_akirco.json,akirco/aki-apps
 cpu-z_akirco.json,akirco/aki-apps
 telegram_akirco.json,akirco/aki-apps
-firefox-zh-cn_akirco.json,akirco/aki-apps
+firefox-zh-cn.json,akirco/aki-apps
 snipaste_akirco.json,akirco/aki-apps
 completion-predictor.json,akirco/aki-apps
 tar_akirco.json,akirco/aki-apps
@@ -9447,7 +9447,7 @@ sayit_akirco.json,akirco/aki-apps
 ima-copilot.json,akirco/aki-apps
 optipng_akirco.json,akirco/aki-apps
 glow_akirco.json,akirco/aki-apps
-vscode_akirco.json,akirco/aki-apps
+vscode.json,akirco/aki-apps
 aliyundrive.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
 filezilla_akirco.json,akirco/aki-apps
@@ -9737,7 +9737,7 @@ windirstat_DoveBoy.json,DoveBoy/Apps
 7zip_DoveBoy.json,DoveBoy/Apps
 yesplaymusic_DoveBoy.json,DoveBoy/Apps
 explorerpatcher.json,DoveBoy/Apps
-sandboxie-plus-np_DoveBoy.json,DoveBoy/Apps
+sandboxie-plus-np.json,DoveBoy/Apps
 mobilecontrolguru.json,DoveBoy/Apps
 iobit-advanced-system-care-free.json,DoveBoy/Apps
 musicbee_DoveBoy.json,DoveBoy/Apps
@@ -9747,7 +9747,7 @@ retrieval-based-voice-conversion-webui.json,DoveBoy/Apps
 zoxide_DoveBoy.json,DoveBoy/Apps
 windowscleaner.json,DoveBoy/Apps
 zettlr_DoveBoy.json,DoveBoy/Apps
-sandboxie-classic-np_DoveBoy.json,DoveBoy/Apps
+sandboxie-classic-np.json,DoveBoy/Apps
 gopeed-portable.json,DoveBoy/Apps
 sandboxie-classic-portable.json,DoveBoy/Apps
 clash-rev-compatible.json,DoveBoy/Apps
@@ -12814,12 +12814,12 @@ WhoAteMyRAM.json,AkariiinMKII/Scoop4kariiin
 Scoop4kariiinUtils.json,AkariiinMKII/Scoop4kariiin
 Cinebench-R20.json,AkariiinMKII/Scoop4kariiin
 CrystalDiskInfo-Aoi_AkariiinMKII.json,AkariiinMKII/Scoop4kariiin
-winbox-beta.json,AkariiinMKII/Scoop4kariiin
 TencentQQNT.json,AkariiinMKII/Scoop4kariiin
 youtube-dl-gui_AkariiinMKII.json,AkariiinMKII/Scoop4kariiin
 TwinkleTray.json,AkariiinMKII/Scoop4kariiin
 CrystalDiskMark-Shizuku_AkariiinMKII.json,AkariiinMKII/Scoop4kariiin
 Snipaste2.json,AkariiinMKII/Scoop4kariiin
+WinBox-v4.json,AkariiinMKII/Scoop4kariiin
 CrystalDiskInfo-KureiKei_AkariiinMKII.json,AkariiinMKII/Scoop4kariiin
 link-plus.json,AkariiinMKII/Scoop4kariiin
 CrystalDiskInfo-Shizuku_AkariiinMKII.json,AkariiinMKII/Scoop4kariiin
@@ -13079,7 +13079,7 @@ ghostscript_cc713.json,cc713/ownscoop
 subtitleedit_cc713.json,cc713/ownscoop
 scribus-dev_cc713.json,cc713/ownscoop
 kms-vl-all-aio_cc713.json,cc713/ownscoop
-thunderbird-zh-cn_cc713.json,cc713/ownscoop
+thunderbird-zh-cn.json,cc713/ownscoop
 Weasel_cc713.json,cc713/ownscoop
 dnSpyEx_cc713.json,cc713/ownscoop
 xdm-dev.json,cc713/ownscoop
