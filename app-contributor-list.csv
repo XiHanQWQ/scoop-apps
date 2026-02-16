@@ -11342,7 +11342,7 @@ centbrowser-setup.json,WinApps-share/WinApps-bucket
 runcat_WinApps-share.json,WinApps-share/WinApps-bucket
 steam.json,WinApps-share/WinApps-bucket
 proxypin-np.json,WinApps-share/WinApps-bucket
-edge_WinApps-share.json,WinApps-share/WinApps-bucket
+edge.json,WinApps-share/WinApps-bucket
 picview_WinApps-share.json,WinApps-share/WinApps-bucket
 dbeaver_WinApps-share.json,WinApps-share/WinApps-bucket
 microsoft-net3.5.json,WinApps-share/WinApps-bucket
@@ -12434,7 +12434,7 @@ kindle-previewer.json,seumsc/scoop-seu
 geekdesk.json,TianXiaTech/scoop-txt
 clash-for-windows-cn.json,TianXiaTech/scoop-txt
 clash-for-windows_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 imewlconverter_TianXiaTech.json,TianXiaTech/scoop-txt
 huya.json,TianXiaTech/scoop-txt
 blinko.json,TianXiaTech/scoop-txt
@@ -12666,7 +12666,7 @@ ikemen-go.json,babo4d/scoop-xrtools
 beatsaber-modassistant.json,babo4d/scoop-xrtools
 openra-sole-survivor.json,babo4d/scoop-xrtools
 vbjin-ovr.json,babo4d/scoop-xrtools
-citron_babo4d.json,babo4d/scoop-xrtools
+citron.json,babo4d/scoop-xrtools
 scp-containment-breach.json,babo4d/scoop-xrtools
 doomlauncher.json,babo4d/scoop-xrtools
 slimevr-server.json,babo4d/scoop-xrtools
