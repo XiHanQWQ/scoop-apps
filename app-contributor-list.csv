@@ -1639,7 +1639,7 @@ material-maker.json,ScoopInstaller/Extras
 praat.json,ScoopInstaller/Extras
 eartrumpet.json,ScoopInstaller/Extras
 capture2text.json,ScoopInstaller/Extras
-deskflow.json,ScoopInstaller/Extras
+deskflow_ScoopInstaller.json,ScoopInstaller/Extras
 clumsy.json,ScoopInstaller/Extras
 bytecode-viewer.json,ScoopInstaller/Extras
 sharpapp.json,ScoopInstaller/Extras
@@ -2599,7 +2599,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -6277,6 +6277,7 @@ sshfs-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 bluestacks-np.json,ScoopInstaller/Nonportable
 peace-np.json,ScoopInstaller/Nonportable
 files-np.json,ScoopInstaller/Nonportable
+k-lite-codec-pack-standard-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 equalizer-apo-np.json,ScoopInstaller/Nonportable
 lightscribe-system-software-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 powertoys-np_ScoopInstaller.json,ScoopInstaller/Nonportable
@@ -6292,6 +6293,7 @@ stevedore-np.json,ScoopInstaller/Nonportable
 xysubfilter-libass-np.json,ScoopInstaller/Nonportable
 zadig-np.json,ScoopInstaller/Nonportable
 winfsp-np_ScoopInstaller.json,ScoopInstaller/Nonportable
+k-lite-codec-pack-full-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 nvidia-display-driver-np.json,ScoopInstaller/Nonportable
 xampp-np.json,ScoopInstaller/Nonportable
 nvidia-display-driver-with-3d-vision-np_ScoopInstaller.json,ScoopInstaller/Nonportable
@@ -6303,6 +6305,7 @@ voicemeeter-np.json,ScoopInstaller/Nonportable
 ditto-np.json,ScoopInstaller/Nonportable
 lavfilters-np.json,ScoopInstaller/Nonportable
 sandboxie-plus-np.json,ScoopInstaller/Nonportable
+k-lite-codec-pack-basic-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 sandboxie-classic-np.json,ScoopInstaller/Nonportable
 workman-p-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 vpnc-front-end-np_ScoopInstaller.json,ScoopInstaller/Nonportable
@@ -6376,6 +6379,7 @@ fluent-terminal-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 dshidmini-np.json,ScoopInstaller/Nonportable
 zerotier-np.json,ScoopInstaller/Nonportable
 openhashtab-np.json,ScoopInstaller/Nonportable
+k-lite-codec-pack-mega-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 voicemeeter-potato-np.json,ScoopInstaller/Nonportable
 virtualbox-with-extension-pack-np.json,ScoopInstaller/Nonportable
 pdf24-creator-np.json,ScoopInstaller/Nonportable
@@ -9293,7 +9297,7 @@ oh-my-posh_akirco.json,akirco/aki-apps
 rustdesk_akirco.json,akirco/aki-apps
 cpu-z_akirco.json,akirco/aki-apps
 telegram_akirco.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 snipaste_akirco.json,akirco/aki-apps
 completion-predictor.json,akirco/aki-apps
 tar_akirco.json,akirco/aki-apps
@@ -9447,7 +9451,7 @@ sayit_akirco.json,akirco/aki-apps
 ima-copilot.json,akirco/aki-apps
 optipng_akirco.json,akirco/aki-apps
 glow_akirco.json,akirco/aki-apps
-vscode.json,akirco/aki-apps
+vscode_akirco.json,akirco/aki-apps
 aliyundrive.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
 filezilla_akirco.json,akirco/aki-apps
@@ -9588,7 +9592,7 @@ mpv.net-beta_DoveBoy.json,DoveBoy/Apps
 czkawka_DoveBoy.json,DoveBoy/Apps
 hiddify-next.json,DoveBoy/Apps
 pwsh-beta_DoveBoy.json,DoveBoy/Apps
-crystaldiskinfo-shizuku-edition.json,DoveBoy/Apps
+crystaldiskinfo-shizuku-edition_DoveBoy.json,DoveBoy/Apps
 libreoffice.json,DoveBoy/Apps
 mitmproxy_DoveBoy.json,DoveBoy/Apps
 wiliwili_DoveBoy.json,DoveBoy/Apps
@@ -9661,7 +9665,6 @@ autodarkmode_DoveBoy.json,DoveBoy/Apps
 mycomputermanager.json,DoveBoy/Apps
 gh_DoveBoy.json,DoveBoy/Apps
 leagueakari.json,DoveBoy/Apps
-ddu_DoveBoy.json,DoveBoy/Apps
 wpsoffice-cn.json,DoveBoy/Apps
 7zip-beta_DoveBoy.json,DoveBoy/Apps
 pixivutil2.json,DoveBoy/Apps
@@ -9737,7 +9740,7 @@ windirstat_DoveBoy.json,DoveBoy/Apps
 7zip_DoveBoy.json,DoveBoy/Apps
 yesplaymusic_DoveBoy.json,DoveBoy/Apps
 explorerpatcher.json,DoveBoy/Apps
-sandboxie-plus-np.json,DoveBoy/Apps
+sandboxie-plus-np_DoveBoy.json,DoveBoy/Apps
 mobilecontrolguru.json,DoveBoy/Apps
 iobit-advanced-system-care-free.json,DoveBoy/Apps
 musicbee_DoveBoy.json,DoveBoy/Apps
@@ -9747,7 +9750,7 @@ retrieval-based-voice-conversion-webui.json,DoveBoy/Apps
 zoxide_DoveBoy.json,DoveBoy/Apps
 windowscleaner.json,DoveBoy/Apps
 zettlr_DoveBoy.json,DoveBoy/Apps
-sandboxie-classic-np.json,DoveBoy/Apps
+sandboxie-classic-np_DoveBoy.json,DoveBoy/Apps
 gopeed-portable.json,DoveBoy/Apps
 sandboxie-classic-portable.json,DoveBoy/Apps
 clash-rev-compatible.json,DoveBoy/Apps
@@ -9930,7 +9933,7 @@ ariang-native_DoveBoy.json,DoveBoy/Apps
 kobi.json,DoveBoy/Apps
 mootool_DoveBoy.json,DoveBoy/Apps
 nping.json,DoveBoy/Apps
-obs-studio-pre.json,DoveBoy/Apps
+obs-studio-pre_DoveBoy.json,DoveBoy/Apps
 cloudflared_DoveBoy.json,DoveBoy/Apps
 oneanime.json,DoveBoy/Apps
 trafficmonitor-lite_DoveBoy.json,DoveBoy/Apps
@@ -10112,7 +10115,6 @@ adb_DoveBoy.json,DoveBoy/Apps
 tageditor-qt5.json,DoveBoy/Apps
 umi-ocr-rapid_DoveBoy.json,DoveBoy/Apps
 v2raya.json,DoveBoy/Apps
-crystaldiskinfo-aoi-edition.json,DoveBoy/Apps
 neteasemusic_DoveBoy.json,DoveBoy/Apps
 coco.json,DoveBoy/Apps
 musicfreedesktop.json,DoveBoy/Apps
@@ -13079,7 +13081,7 @@ ghostscript_cc713.json,cc713/ownscoop
 subtitleedit_cc713.json,cc713/ownscoop
 scribus-dev_cc713.json,cc713/ownscoop
 kms-vl-all-aio_cc713.json,cc713/ownscoop
-thunderbird-zh-cn.json,cc713/ownscoop
+thunderbird-zh-cn_cc713.json,cc713/ownscoop
 Weasel_cc713.json,cc713/ownscoop
 dnSpyEx_cc713.json,cc713/ownscoop
 xdm-dev.json,cc713/ownscoop
