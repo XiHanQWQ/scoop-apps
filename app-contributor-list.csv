@@ -1207,7 +1207,7 @@ rclone-ui.json,ScoopInstaller/Extras
 opera-gx.json,ScoopInstaller/Extras
 streamlabs-chatbot.json,ScoopInstaller/Extras
 droidcam.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 altbacktick.json,ScoopInstaller/Extras
 owncloud.json,ScoopInstaller/Extras
 foto-mosaik-edda.json,ScoopInstaller/Extras
@@ -12470,7 +12470,7 @@ kindle-previewer.json,seumsc/scoop-seu
 geekdesk.json,TianXiaTech/scoop-txt
 clash-for-windows-cn.json,TianXiaTech/scoop-txt
 clash-for-windows_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 imewlconverter_TianXiaTech.json,TianXiaTech/scoop-txt
 huya.json,TianXiaTech/scoop-txt
 blinko.json,TianXiaTech/scoop-txt
@@ -14618,6 +14618,7 @@ fastgithub.json,younger-1/scoop-it
 git-credential-gopass_younger-1.json,younger-1/scoop-it
 lapce_younger-1.json,younger-1/scoop-it
 pdm_younger-1.json,younger-1/scoop-it
+vlang_younger-1.json,younger-1/scoop-it
 kmonad_younger-1.json,younger-1/scoop-it
 sqlite3dll.json,younger-1/scoop-it
 nvui_younger-1.json,younger-1/scoop-it
