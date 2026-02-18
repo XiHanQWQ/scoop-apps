@@ -2599,7 +2599,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -4992,6 +4992,7 @@ premake5.json,ScoopInstaller/Versions
 go117.json,ScoopInstaller/Versions
 go124.json,ScoopInstaller/Versions
 android-studio-canary.json,ScoopInstaller/Versions
+tomcat11.json,ScoopInstaller/Versions
 mpv.net-beta.json,ScoopInstaller/Versions
 smplayer-with-smtube.json,ScoopInstaller/Versions
 pwsh-beta.json,ScoopInstaller/Versions
@@ -5249,6 +5250,7 @@ v2rayn-desktop.json,ScoopInstaller/Versions
 obs-studio-pre.json,ScoopInstaller/Versions
 goland-eap.json,ScoopInstaller/Versions
 oss-cad-suite-nightly.json,ScoopInstaller/Versions
+tomcat10.json,ScoopInstaller/Versions
 omnisharp-net6.json,ScoopInstaller/Versions
 chromedriver-canary.json,ScoopInstaller/Versions
 spark-hadoop3.json,ScoopInstaller/Versions
@@ -9248,7 +9250,7 @@ rainbow_akirco.json,akirco/aki-apps
 windows-application-driver_akirco.json,akirco/aki-apps
 registry-finder_akirco.json,akirco/aki-apps
 php_akirco.json,akirco/aki-apps
-cursor.json,akirco/aki-apps
+cursor_akirco.json,akirco/aki-apps
 musicfox.json,akirco/aki-apps
 gow_akirco.json,akirco/aki-apps
 dim.json,akirco/aki-apps
@@ -9766,7 +9768,7 @@ handbrake_DoveBoy.json,DoveBoy/Apps
 proxypin_DoveBoy.json,DoveBoy/Apps
 video-subtitle-extractor-gpu.json,DoveBoy/Apps
 convert.net_DoveBoy.json,DoveBoy/Apps
-crystaldiskmark-shizuku-edition.json,DoveBoy/Apps
+crystaldiskmark-shizuku-edition_DoveBoy.json,DoveBoy/Apps
 pls.json,DoveBoy/Apps
 mame_DoveBoy.json,DoveBoy/Apps
 trippy_DoveBoy.json,DoveBoy/Apps
