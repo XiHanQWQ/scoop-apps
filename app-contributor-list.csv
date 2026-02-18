@@ -1207,7 +1207,7 @@ rclone-ui.json,ScoopInstaller/Extras
 opera-gx.json,ScoopInstaller/Extras
 streamlabs-chatbot.json,ScoopInstaller/Extras
 droidcam.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 altbacktick.json,ScoopInstaller/Extras
 owncloud.json,ScoopInstaller/Extras
 foto-mosaik-edda.json,ScoopInstaller/Extras
@@ -1464,6 +1464,7 @@ trafficmonitor.json,ScoopInstaller/Extras
 vcredist2022.json,ScoopInstaller/Extras
 tortoisesvn_ScoopInstaller.json,ScoopInstaller/Extras
 screenoff.json,ScoopInstaller/Extras
+audiveris.json,ScoopInstaller/Extras
 jpegview-fork.json,ScoopInstaller/Extras
 cyberduck.json,ScoopInstaller/Extras
 jira-cli.json,ScoopInstaller/Extras
@@ -2599,7 +2600,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -4225,7 +4226,7 @@ reloaded-ii.json,Calinou/scoop-games
 wemod.json,Calinou/scoop-games
 dxwrapper.json,Calinou/scoop-games
 maa.json,Calinou/scoop-games
-itch_Calinou.json,Calinou/scoop-games
+itch.json,Calinou/scoop-games
 heroic-games-launcher.json,Calinou/scoop-games
 steam-achievement-manager.json,Calinou/scoop-games
 pathofbuilding-poe2-community.json,Calinou/scoop-games
@@ -4389,6 +4390,7 @@ game-backup-monitor.json,Calinou/scoop-games
 pyfa.json,Calinou/scoop-games
 daggerfallunity.json,Calinou/scoop-games
 easyrpg-player.json,Calinou/scoop-games
+maaend.json,Calinou/scoop-games
 vortex.json,Calinou/scoop-games
 corporateclash.json,Calinou/scoop-games
 ares.json,Calinou/scoop-games
@@ -4523,6 +4525,7 @@ dreamm.json,Calinou/scoop-games
 mesa3d-mingw.json,Calinou/scoop-games
 hytale.json,Calinou/scoop-games
 modboy.json,Calinou/scoop-games
+vnite.json,Calinou/scoop-games
 taisei.json,Calinou/scoop-games
 mudlet.json,Calinou/scoop-games
 retro-rogue-collection.json,Calinou/scoop-games
@@ -9866,7 +9869,7 @@ clashmi-portable.json,DoveBoy/Apps
 hyper-beta.json,DoveBoy/Apps
 tinypng.json,DoveBoy/Apps
 telegram_DoveBoy.json,DoveBoy/Apps
-treesize.json,DoveBoy/Apps
+treesize_DoveBoy.json,DoveBoy/Apps
 mrrss_DoveBoy.json,DoveBoy/Apps
 jmcomic-downloader-portable.json,DoveBoy/Apps
 shadowsocksr-hmbsbige_DoveBoy.json,DoveBoy/Apps
@@ -10067,7 +10070,7 @@ godmode.json,DoveBoy/Apps
 mpv-git_DoveBoy.json,DoveBoy/Apps
 jmcomic-downloader.json,DoveBoy/Apps
 regjump_DoveBoy.json,DoveBoy/Apps
-game-cheats-manager_DoveBoy.json,DoveBoy/Apps
+game-cheats-manager.json,DoveBoy/Apps
 wax.json,DoveBoy/Apps
 brackets_DoveBoy.json,DoveBoy/Apps
 backup-start-menu-layout_DoveBoy.json,DoveBoy/Apps
@@ -11485,7 +11488,7 @@ steam.json,WinApps-share/WinApps-bucket
 proxypin-np.json,WinApps-share/WinApps-bucket
 edge.json,WinApps-share/WinApps-bucket
 picview_WinApps-share.json,WinApps-share/WinApps-bucket
-dbeaver_WinApps-share.json,WinApps-share/WinApps-bucket
+dbeaver.json,WinApps-share/WinApps-bucket
 microsoft-net3.5.json,WinApps-share/WinApps-bucket
 powertoys_WinApps-share.json,WinApps-share/WinApps-bucket
 weasel_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -14963,7 +14966,7 @@ stella.json,milnak/scoop-bucket
 distella.json,milnak/scoop-bucket
 amazon-kindle.json,milnak/scoop-bucket
 winspy-m417z.json,milnak/scoop-bucket
-audiveris.json,milnak/scoop-bucket
+audiveris_milnak.json,milnak/scoop-bucket
 notepad4-avx2_milnak.json,milnak/scoop-bucket
 usb-device-tree-viewer.json,milnak/scoop-bucket
 pod-ui.json,milnak/scoop-bucket
