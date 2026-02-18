@@ -10795,7 +10795,6 @@ implay.json,naderi/scoop-bucket
 babelpad_naderi.json,naderi/scoop-bucket
 font-behdad.json,naderi/scoop-bucket
 chrome-canary-portable.json,naderi/scoop-bucket
-encrypto_naderi.json,naderi/scoop-bucket
 acrylic-dns-proxy.json,naderi/scoop-bucket
 opentrace_naderi.json,naderi/scoop-bucket
 winamp.json,naderi/scoop-bucket
@@ -11058,7 +11057,7 @@ wezterm-portable.json,naderi/scoop-bucket
 markdown-edit.json,naderi/scoop-bucket
 pushbullet.json,naderi/scoop-bucket
 eventlogviewer.json,naderi/scoop-bucket
-java-editor.json,naderi/scoop-bucket
+java-editor_naderi.json,naderi/scoop-bucket
 ant-renamer.json,naderi/scoop-bucket
 sqlite-gui_naderi.json,naderi/scoop-bucket
 adblink.json,naderi/scoop-bucket
