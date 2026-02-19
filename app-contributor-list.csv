@@ -8743,7 +8743,7 @@ mednafen-dev_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 shadps4.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
-vita3k_borger.json,borger/scoop-emulators
+vita3k.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
@@ -9203,7 +9203,7 @@ chromium_akirco.json,akirco/aki-apps
 tup_akirco.json,akirco/aki-apps
 innounpacker_akirco.json,akirco/aki-apps
 vcredist2022_akirco.json,akirco/aki-apps
-cyberduck_akirco.json,akirco/aki-apps
+cyberduck.json,akirco/aki-apps
 vcredist2013_akirco.json,akirco/aki-apps
 potplayer_akirco.json,akirco/aki-apps
 fat32format_akirco.json,akirco/aki-apps
@@ -9952,7 +9952,7 @@ so-novel-beta.json,DoveBoy/Apps
 crossdesk.json,DoveBoy/Apps
 douyu.json,DoveBoy/Apps
 calctus.json,DoveBoy/Apps
-iptvnator.json,DoveBoy/Apps
+iptvnator_DoveBoy.json,DoveBoy/Apps
 kaf-cli.json,DoveBoy/Apps
 quicklook_DoveBoy.json,DoveBoy/Apps
 john-the-ripper.json,DoveBoy/Apps
@@ -10264,7 +10264,7 @@ showkeyboard.json,DoveBoy/Apps
 purewriter.json,DoveBoy/Apps
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
 freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
@@ -11247,7 +11247,7 @@ unigetui_WinApps-share.json,WinApps-share/WinApps-bucket
 files.json,WinApps-share/WinApps-bucket
 todesk-lite.json,WinApps-share/WinApps-bucket
 obs-np.json,WinApps-share/WinApps-bucket
-brave_WinApps-share.json,WinApps-share/WinApps-bucket
+brave.json,WinApps-share/WinApps-bucket
 wgestures_WinApps-share.json,WinApps-share/WinApps-bucket
 lively_WinApps-share.json,WinApps-share/WinApps-bucket
 ppduck3.json,WinApps-share/WinApps-bucket
