@@ -2358,7 +2358,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -7479,7 +7479,7 @@ wsl-fedora.json,KNOXDEV/wsl
 wsl-ubuntu1804-arm.json,KNOXDEV/wsl
 wsl-ubuntu1604.json,KNOXDEV/wsl
 wsl-ubuntu2204.json,KNOXDEV/wsl
-rstudio-preview.json,cderv/r-bucket
+rstudio-preview_cderv.json,cderv/r-bucket
 ollama_cderv.json,cderv/r-bucket
 rstudio-pro-release.json,cderv/r-bucket
 quarto_cderv.json,cderv/r-bucket
@@ -9627,6 +9627,7 @@ sudo_DoveBoy.json,DoveBoy/Apps
 anto.json,DoveBoy/Apps
 openspeedy.json,DoveBoy/Apps
 moekoemusic.json,DoveBoy/Apps
+transmission_DoveBoy.json,DoveBoy/Apps
 qtunblockneteasemusic.json,DoveBoy/Apps
 drive-icon-manager.json,DoveBoy/Apps
 youtube-dl-gui_DoveBoy.json,DoveBoy/Apps
@@ -12567,7 +12568,7 @@ password.json,iquiw/scoop-bucket
 ct.json,iquiw/scoop-bucket
 proxify_iquiw.json,iquiw/scoop-bucket
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
