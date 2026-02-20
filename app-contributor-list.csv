@@ -8604,7 +8604,7 @@ simple64_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 winuae.json,hermanjustnu/scoop-emulators
 retroarch_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary.json,hermanjustnu/scoop-emulators
@@ -9627,7 +9627,6 @@ sudo_DoveBoy.json,DoveBoy/Apps
 anto.json,DoveBoy/Apps
 openspeedy.json,DoveBoy/Apps
 moekoemusic.json,DoveBoy/Apps
-transmission_DoveBoy.json,DoveBoy/Apps
 qtunblockneteasemusic.json,DoveBoy/Apps
 drive-icon-manager.json,DoveBoy/Apps
 youtube-dl-gui_DoveBoy.json,DoveBoy/Apps
@@ -10735,7 +10734,7 @@ tun2proxy.json,NyaMisty/scoop_bucket_misty
 ghidra-beta.json,NyaMisty/scoop_bucket_misty
 fermion.json,NyaMisty/scoop_bucket_misty
 ghidra-nightly.json,NyaMisty/scoop_bucket_misty
-metasploit-framework_NyaMisty.json,NyaMisty/scoop_bucket_misty
+metasploit-framework.json,NyaMisty/scoop_bucket_misty
 dnSpyEx-nightly.json,NyaMisty/scoop_bucket_misty
 debugviewpp_NyaMisty.json,NyaMisty/scoop_bucket_misty
 chfs_NyaMisty.json,NyaMisty/scoop_bucket_misty
