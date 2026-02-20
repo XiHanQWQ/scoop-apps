@@ -1747,7 +1747,7 @@ ssh-agent-wsl.json,ScoopInstaller/Extras
 foobar2000-encoders.json,ScoopInstaller/Extras
 dolphin.json,ScoopInstaller/Extras
 tortoisemerge.json,ScoopInstaller/Extras
-sourcetree_ScoopInstaller.json,ScoopInstaller/Extras
+sourcetree.json,ScoopInstaller/Extras
 sfk.json,ScoopInstaller/Extras
 mpc.json,ScoopInstaller/Extras
 network-profile-name-changer.json,ScoopInstaller/Extras
@@ -6363,7 +6363,6 @@ stevedore-np.json,ScoopInstaller/Nonportable
 10x-np.json,ScoopInstaller/Nonportable
 everything-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 mullvadvpn-np.json,ScoopInstaller/Nonportable
-veyon-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 fman-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 lantern-np.json,ScoopInstaller/Nonportable
 anki-np.json,ScoopInstaller/Nonportable
@@ -9155,7 +9154,7 @@ ollama_akirco.json,akirco/aki-apps
 x264_akirco.json,akirco/aki-apps
 mysql_akirco.json,akirco/aki-apps
 notion_akirco.json,akirco/aki-apps
-cursor_akirco.json,akirco/aki-apps
+cursor.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
 ima-copilot.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
@@ -9414,7 +9413,7 @@ restic_akirco.json,akirco/aki-apps
 silentcmd_akirco.json,akirco/aki-apps
 trae-cn_akirco.json,akirco/aki-apps
 obs-studio_akirco.json,akirco/aki-apps
-draw.io_akirco.json,akirco/aki-apps
+draw.io.json,akirco/aki-apps
 geekuninstaller_akirco.json,akirco/aki-apps
 topgrade_akirco.json,akirco/aki-apps
 innounpacker_akirco.json,akirco/aki-apps
