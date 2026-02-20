@@ -8604,7 +8604,7 @@ simple64_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 winuae.json,hermanjustnu/scoop-emulators
 retroarch_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary.json,hermanjustnu/scoop-emulators
@@ -10734,7 +10734,7 @@ tun2proxy.json,NyaMisty/scoop_bucket_misty
 ghidra-beta.json,NyaMisty/scoop_bucket_misty
 fermion.json,NyaMisty/scoop_bucket_misty
 ghidra-nightly.json,NyaMisty/scoop_bucket_misty
-metasploit-framework.json,NyaMisty/scoop_bucket_misty
+metasploit-framework_NyaMisty.json,NyaMisty/scoop_bucket_misty
 dnSpyEx-nightly.json,NyaMisty/scoop_bucket_misty
 debugviewpp_NyaMisty.json,NyaMisty/scoop_bucket_misty
 chfs_NyaMisty.json,NyaMisty/scoop_bucket_misty
@@ -11359,7 +11359,7 @@ autodarkmode_WinApps-share.json,WinApps-share/WinApps-bucket
 telegram_WinApps-share.json,WinApps-share/WinApps-bucket
 localsend_WinApps-share.json,WinApps-share/WinApps-bucket
 gui-for-clash.json,WinApps-share/WinApps-bucket
-dbeaver.json,WinApps-share/WinApps-bucket
+dbeaver_WinApps-share.json,WinApps-share/WinApps-bucket
 quicker.json,WinApps-share/WinApps-bucket
 vscode-np.json,WinApps-share/WinApps-bucket
 screentogif_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -12127,6 +12127,7 @@ claude-code_Small-Ku.json,Small-Ku/turbo-bucket
 vencord-installer_Small-Ku.json,Small-Ku/turbo-bucket
 stuntman.json,Small-Ku/turbo-bucket
 gpu-z-portable.json,Small-Ku/turbo-bucket
+endfield-essence-recognizer.json,Small-Ku/turbo-bucket
 lapce-nightly_Small-Ku.json,Small-Ku/turbo-bucket
 otfcc_Small-Ku.json,Small-Ku/turbo-bucket
 untrunc.json,Small-Ku/turbo-bucket
