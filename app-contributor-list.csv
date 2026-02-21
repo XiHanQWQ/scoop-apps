@@ -8604,7 +8604,7 @@ simple64_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 winuae.json,hermanjustnu/scoop-emulators
 retroarch_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary.json,hermanjustnu/scoop-emulators
@@ -8742,7 +8742,7 @@ cxbx-reloaded_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
-vita3k_borger.json,borger/scoop-emulators
+vita3k.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -9732,6 +9732,7 @@ pixiv-omina.json,DoveBoy/Apps
 dreamscene2.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
 pscompletions_DoveBoy.json,DoveBoy/Apps
+cudatext.json,DoveBoy/Apps
 forkgram_DoveBoy.json,DoveBoy/Apps
 varia-portable.json,DoveBoy/Apps
 everything-beta_DoveBoy.json,DoveBoy/Apps
@@ -10436,7 +10437,7 @@ opentrace_hu3rror.json,hu3rror/scoop-muggle
 bg3-mod-manager.json,hu3rror/scoop-muggle
 manhuagui-downloader.json,hu3rror/scoop-muggle
 neeview_hu3rror.json,hu3rror/scoop-muggle
-witsy_hu3rror.json,hu3rror/scoop-muggle
+witsy.json,hu3rror/scoop-muggle
 mosdns-cn_hu3rror.json,hu3rror/scoop-muggle
 nsudo.json,hu3rror/scoop-muggle
 wonderpen_hu3rror.json,hu3rror/scoop-muggle
@@ -11382,7 +11383,7 @@ listen1.json,WinApps-share/WinApps-bucket
 g-helper_WinApps-share.json,WinApps-share/WinApps-bucket
 brave_WinApps-share.json,WinApps-share/WinApps-bucket
 geek-uninstaller.json,WinApps-share/WinApps-bucket
-everything-toolbar_WinApps-share.json,WinApps-share/WinApps-bucket
+everything-toolbar.json,WinApps-share/WinApps-bucket
 wiztree_WinApps-share.json,WinApps-share/WinApps-bucket
 bandizip_WinApps-share.json,WinApps-share/WinApps-bucket
 ecopaste.json,WinApps-share/WinApps-bucket
@@ -14757,7 +14758,7 @@ rtools44_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 emacs-mplscorwin.json,ShuguangSun/sgs-scoop-bucket
 juliamono_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 mupdf_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-super-productivity.json,ShuguangSun/sgs-scoop-bucket
+super-productivity_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 roboto.json,ShuguangSun/sgs-scoop-bucket
 Sarasa-Gothic.json,ShuguangSun/sgs-scoop-bucket
 chatbox_ce.json,ShuguangSun/sgs-scoop-bucket
