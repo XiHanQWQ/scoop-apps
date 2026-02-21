@@ -1747,7 +1747,7 @@ ssh-agent-wsl.json,ScoopInstaller/Extras
 foobar2000-encoders.json,ScoopInstaller/Extras
 dolphin.json,ScoopInstaller/Extras
 tortoisemerge.json,ScoopInstaller/Extras
-sourcetree.json,ScoopInstaller/Extras
+sourcetree_ScoopInstaller.json,ScoopInstaller/Extras
 sfk.json,ScoopInstaller/Extras
 mpc.json,ScoopInstaller/Extras
 network-profile-name-changer.json,ScoopInstaller/Extras
@@ -2358,7 +2358,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -9154,7 +9154,7 @@ ollama_akirco.json,akirco/aki-apps
 x264_akirco.json,akirco/aki-apps
 mysql_akirco.json,akirco/aki-apps
 notion_akirco.json,akirco/aki-apps
-cursor.json,akirco/aki-apps
+cursor_akirco.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
 ima-copilot.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
@@ -9413,7 +9413,7 @@ restic_akirco.json,akirco/aki-apps
 silentcmd_akirco.json,akirco/aki-apps
 trae-cn_akirco.json,akirco/aki-apps
 obs-studio_akirco.json,akirco/aki-apps
-draw.io.json,akirco/aki-apps
+draw.io_akirco.json,akirco/aki-apps
 geekuninstaller_akirco.json,akirco/aki-apps
 topgrade_akirco.json,akirco/aki-apps
 innounpacker_akirco.json,akirco/aki-apps
@@ -10933,7 +10933,6 @@ mitec-icon-explorer.json,naderi/scoop-bucket
 dev-cpp-no-compiler.json,naderi/scoop-bucket
 authenticator.json,naderi/scoop-bucket
 teamlink.json,naderi/scoop-bucket
-duck_naderi.json,naderi/scoop-bucket
 winusb.json,naderi/scoop-bucket
 universal-viewer-free.json,naderi/scoop-bucket
 firefox-beta-de.json,naderi/scoop-bucket
@@ -11058,7 +11057,7 @@ grep-win.json,naderi/scoop-bucket
 varia_naderi.json,naderi/scoop-bucket
 cudatext-portable.json,naderi/scoop-bucket
 hiddify-next_naderi.json,naderi/scoop-bucket
-hotkeyp.json,naderi/scoop-bucket
+hotkeyp_naderi.json,naderi/scoop-bucket
 mobaxterm-professional.json,naderi/scoop-bucket
 alwaysmousewheel.json,naderi/scoop-bucket
 mp4muxer.json,naderi/scoop-bucket
@@ -12283,7 +12282,7 @@ ddu_Small-Ku.json,Small-Ku/turbo-bucket
 kondo_Small-Ku.json,Small-Ku/turbo-bucket
 mcpls.json,Small-Ku/turbo-bucket
 stardb-exporter.json,Small-Ku/turbo-bucket
-gemini-cli.json,Small-Ku/turbo-bucket
+gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
 source-han-sans-vf-ttc.json,Small-Ku/turbo-bucket
 sarasa-super-ttc.json,Small-Ku/turbo-bucket
 antigravity-manager.json,Small-Ku/turbo-bucket
