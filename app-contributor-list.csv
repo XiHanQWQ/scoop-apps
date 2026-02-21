@@ -9714,7 +9714,7 @@ host-editor_DoveBoy.json,DoveBoy/Apps
 upscayl_DoveBoy.json,DoveBoy/Apps
 any-listen-desktop-win7.json,DoveBoy/Apps
 lx-music-desktop-win7.json,DoveBoy/Apps
-czkawka-gui_DoveBoy.json,DoveBoy/Apps
+czkawka-gui.json,DoveBoy/Apps
 clash-nyanpasu_DoveBoy.json,DoveBoy/Apps
 winsw_DoveBoy.json,DoveBoy/Apps
 throne_DoveBoy.json,DoveBoy/Apps
@@ -9821,6 +9821,7 @@ lsx.json,DoveBoy/Apps
 explorerpatcher.json,DoveBoy/Apps
 video-srt-windows.json,DoveBoy/Apps
 calctus.json,DoveBoy/Apps
+calibre-normal.json,DoveBoy/Apps
 handbrake_DoveBoy.json,DoveBoy/Apps
 emeditor-random-keygen.json,DoveBoy/Apps
 twinkle-tray_DoveBoy.json,DoveBoy/Apps
@@ -10063,6 +10064,7 @@ clickrun.json,DoveBoy/Apps
 sox_DoveBoy.json,DoveBoy/Apps
 dtv.json,DoveBoy/Apps
 pdfpatcher_DoveBoy.json,DoveBoy/Apps
+calibre.json,DoveBoy/Apps
 lanzou-cmd.json,DoveBoy/Apps
 aictionary.json,DoveBoy/Apps
 act_DoveBoy.json,DoveBoy/Apps
@@ -12388,7 +12390,7 @@ YogaDNS.json,Darkatse/Scoop-Darkatse
 TestMem5_Darkatse.json,Darkatse/Scoop-Darkatse
 JHenTai.json,Darkatse/Scoop-Darkatse
 Netch_Darkatse.json,Darkatse/Scoop-Darkatse
-Termius_Darkatse.json,Darkatse/Scoop-Darkatse
+Termius.json,Darkatse/Scoop-Darkatse
 memtest.json,Darkatse/Scoop-Darkatse
 Brook-GUI.json,Darkatse/Scoop-Darkatse
 ZenTimings.json,Darkatse/Scoop-Darkatse
