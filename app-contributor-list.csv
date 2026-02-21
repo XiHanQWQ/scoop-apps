@@ -8717,7 +8717,7 @@ bsnes-hd-beta_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 citron.json,borger/scoop-emulators
-ryujinx-canary_borger.json,borger/scoop-emulators
+ryujinx-canary.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
@@ -9714,7 +9714,7 @@ host-editor_DoveBoy.json,DoveBoy/Apps
 upscayl_DoveBoy.json,DoveBoy/Apps
 any-listen-desktop-win7.json,DoveBoy/Apps
 lx-music-desktop-win7.json,DoveBoy/Apps
-czkawka-gui.json,DoveBoy/Apps
+czkawka-gui_DoveBoy.json,DoveBoy/Apps
 clash-nyanpasu_DoveBoy.json,DoveBoy/Apps
 winsw_DoveBoy.json,DoveBoy/Apps
 throne_DoveBoy.json,DoveBoy/Apps
@@ -9739,7 +9739,7 @@ nilesoft-shell_DoveBoy.json,DoveBoy/Apps
 picturecleaner.json,DoveBoy/Apps
 ofgb.json,DoveBoy/Apps
 kando-portable.json,DoveBoy/Apps
-zettlr_DoveBoy.json,DoveBoy/Apps
+zettlr.json,DoveBoy/Apps
 anyportal.json,DoveBoy/Apps
 npm-completion_DoveBoy.json,DoveBoy/Apps
 iwck_DoveBoy.json,DoveBoy/Apps
@@ -9821,7 +9821,6 @@ lsx.json,DoveBoy/Apps
 explorerpatcher.json,DoveBoy/Apps
 video-srt-windows.json,DoveBoy/Apps
 calctus.json,DoveBoy/Apps
-calibre-normal.json,DoveBoy/Apps
 handbrake_DoveBoy.json,DoveBoy/Apps
 emeditor-random-keygen.json,DoveBoy/Apps
 twinkle-tray_DoveBoy.json,DoveBoy/Apps
@@ -10064,7 +10063,6 @@ clickrun.json,DoveBoy/Apps
 sox_DoveBoy.json,DoveBoy/Apps
 dtv.json,DoveBoy/Apps
 pdfpatcher_DoveBoy.json,DoveBoy/Apps
-calibre.json,DoveBoy/Apps
 lanzou-cmd.json,DoveBoy/Apps
 aictionary.json,DoveBoy/Apps
 act_DoveBoy.json,DoveBoy/Apps
@@ -10736,7 +10734,7 @@ tun2proxy.json,NyaMisty/scoop_bucket_misty
 ghidra-beta.json,NyaMisty/scoop_bucket_misty
 fermion.json,NyaMisty/scoop_bucket_misty
 ghidra-nightly.json,NyaMisty/scoop_bucket_misty
-metasploit-framework_NyaMisty.json,NyaMisty/scoop_bucket_misty
+metasploit-framework.json,NyaMisty/scoop_bucket_misty
 dnSpyEx-nightly.json,NyaMisty/scoop_bucket_misty
 debugviewpp_NyaMisty.json,NyaMisty/scoop_bucket_misty
 chfs_NyaMisty.json,NyaMisty/scoop_bucket_misty
@@ -11151,7 +11149,7 @@ knocker-core.json,noql-net/scoop
 clash-verge-rev_noql-net.json,noql-net/scoop
 xray-plugin.json,noql-net/scoop
 v2ray-core.json,noql-net/scoop
-hiddify-next.json,noql-net/scoop
+hiddify-next_noql-net.json,noql-net/scoop
 geph.json,noql-net/scoop
 hysteria_noql-net.json,noql-net/scoop
 singbox-ui.json,noql-net/scoop
@@ -12104,7 +12102,7 @@ capslock-plus.json,batkiz/backit
 g.json,batkiz/backit
 go-unstable.json,batkiz/backit
 raven-reader_batkiz.json,batkiz/backit
-xq_batkiz.json,batkiz/backit
+xq.json,batkiz/backit
 Icalingua-plus-plus.json,batkiz/backit
 linqpad_batkiz.json,batkiz/backit
 switchfin.json,batkiz/backit
@@ -12390,7 +12388,7 @@ YogaDNS.json,Darkatse/Scoop-Darkatse
 TestMem5_Darkatse.json,Darkatse/Scoop-Darkatse
 JHenTai.json,Darkatse/Scoop-Darkatse
 Netch_Darkatse.json,Darkatse/Scoop-Darkatse
-Termius.json,Darkatse/Scoop-Darkatse
+Termius_Darkatse.json,Darkatse/Scoop-Darkatse
 memtest.json,Darkatse/Scoop-Darkatse
 Brook-GUI.json,Darkatse/Scoop-Darkatse
 ZenTimings.json,Darkatse/Scoop-Darkatse
