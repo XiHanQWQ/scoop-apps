@@ -2358,7 +2358,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -11149,7 +11149,7 @@ knocker-core.json,noql-net/scoop
 clash-verge-rev_noql-net.json,noql-net/scoop
 xray-plugin.json,noql-net/scoop
 v2ray-core.json,noql-net/scoop
-hiddify-next_noql-net.json,noql-net/scoop
+hiddify-next.json,noql-net/scoop
 geph.json,noql-net/scoop
 hysteria_noql-net.json,noql-net/scoop
 singbox-ui.json,noql-net/scoop
