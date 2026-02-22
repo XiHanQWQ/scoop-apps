@@ -1326,7 +1326,7 @@ azure-iot-explorer.json,ScoopInstaller/Extras
 firemin.json,ScoopInstaller/Extras
 ape.json,ScoopInstaller/Extras
 mkcert.json,ScoopInstaller/Extras
-smartsystemmenu_ScoopInstaller.json,ScoopInstaller/Extras
+smartsystemmenu.json,ScoopInstaller/Extras
 lantern-client.json,ScoopInstaller/Extras
 bomi.json,ScoopInstaller/Extras
 ab-av1.json,ScoopInstaller/Extras
@@ -9413,7 +9413,7 @@ restic_akirco.json,akirco/aki-apps
 silentcmd_akirco.json,akirco/aki-apps
 trae-cn_akirco.json,akirco/aki-apps
 obs-studio_akirco.json,akirco/aki-apps
-draw.io.json,akirco/aki-apps
+draw.io_akirco.json,akirco/aki-apps
 geekuninstaller_akirco.json,akirco/aki-apps
 topgrade_akirco.json,akirco/aki-apps
 innounpacker_akirco.json,akirco/aki-apps
@@ -12473,7 +12473,7 @@ password.json,iquiw/scoop-bucket
 ct.json,iquiw/scoop-bucket
 proxify_iquiw.json,iquiw/scoop-bucket
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
