@@ -2258,7 +2258,7 @@ commandbox.json,ScoopInstaller/Extras
 neohtop.json,ScoopInstaller/Extras
 treesheets.json,ScoopInstaller/Extras
 vesktop.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 fontforge.json,ScoopInstaller/Extras
 baretail.json,ScoopInstaller/Extras
 vcredist2013.json,ScoopInstaller/Extras
@@ -8742,7 +8742,7 @@ cxbx-reloaded_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -9288,7 +9288,7 @@ wrangler_akirco.json,akirco/aki-apps
 qq-nt_akirco.json,akirco/aki-apps
 xh_akirco.json,akirco/aki-apps
 qrcp_akirco.json,akirco/aki-apps
-electerm.json,akirco/aki-apps
+electerm_akirco.json,akirco/aki-apps
 gh_akirco.json,akirco/aki-apps
 vcredist2013_akirco.json,akirco/aki-apps
 lwc_akirco.json,akirco/aki-apps
@@ -10110,7 +10110,7 @@ freefilesync_DoveBoy.json,DoveBoy/Apps
 waifu2x-snowshell_DoveBoy.json,DoveBoy/Apps
 hiddify-next.json,DoveBoy/Apps
 lx-music-desktop.json,DoveBoy/Apps
-game-cheats-manager.json,DoveBoy/Apps
+game-cheats-manager_DoveBoy.json,DoveBoy/Apps
 zyperwinoptimize.json,DoveBoy/Apps
 streamcap.json,DoveBoy/Apps
 blockthespot.json,DoveBoy/Apps
@@ -10534,7 +10534,7 @@ HardDiskSentinel.json,hu3rror/scoop-muggle
 blacksreen-bat.json,hu3rror/scoop-muggle
 8bitdo-ultimate-software-v2.json,hu3rror/scoop-muggle
 lx-music-desktop_hu3rror.json,hu3rror/scoop-muggle
-game-cheats-manager_hu3rror.json,hu3rror/scoop-muggle
+game-cheats-manager.json,hu3rror/scoop-muggle
 vcredist-aio_hu3rror.json,hu3rror/scoop-muggle
 bilibili-manga-downloader_hu3rror.json,hu3rror/scoop-muggle
 qaac_hu3rror.json,hu3rror/scoop-muggle
@@ -10833,7 +10833,7 @@ opentrace_naderi.json,naderi/scoop-bucket
 picard-portable.json,naderi/scoop-bucket
 gyroflow_naderi.json,naderi/scoop-bucket
 converter-now.json,naderi/scoop-bucket
-kiro_naderi.json,naderi/scoop-bucket
+kiro.json,naderi/scoop-bucket
 hibernate.json,naderi/scoop-bucket
 xpdf-reader.json,naderi/scoop-bucket
 programmers-notepad.json,naderi/scoop-bucket
@@ -10994,6 +10994,7 @@ xion-audio-player.json,naderi/scoop-bucket
 lingoes_naderi.json,naderi/scoop-bucket
 windirstat-portable.json,naderi/scoop-bucket
 vlc-portable_naderi.json,naderi/scoop-bucket
+encrypto.json,naderi/scoop-bucket
 minitool-partition-wizard.json,naderi/scoop-bucket
 netpad.json,naderi/scoop-bucket
 qilin.json,naderi/scoop-bucket
@@ -11058,7 +11059,7 @@ grep-win.json,naderi/scoop-bucket
 varia_naderi.json,naderi/scoop-bucket
 cudatext-portable.json,naderi/scoop-bucket
 hiddify-next_naderi.json,naderi/scoop-bucket
-hotkeyp_naderi.json,naderi/scoop-bucket
+hotkeyp.json,naderi/scoop-bucket
 mobaxterm-professional.json,naderi/scoop-bucket
 alwaysmousewheel.json,naderi/scoop-bucket
 mp4muxer.json,naderi/scoop-bucket
@@ -11306,7 +11307,7 @@ centbrowser_WinApps-share.json,WinApps-share/WinApps-bucket
 equalizer-apo.json,WinApps-share/WinApps-bucket
 rustdesk_WinApps-share.json,WinApps-share/WinApps-bucket
 xterminal_WinApps-share.json,WinApps-share/WinApps-bucket
-vscode.json,WinApps-share/WinApps-bucket
+vscode_WinApps-share.json,WinApps-share/WinApps-bucket
 nanazip_WinApps-share.json,WinApps-share/WinApps-bucket
 utools_WinApps-share.json,WinApps-share/WinApps-bucket
 bcuninstaller.json,WinApps-share/WinApps-bucket
@@ -11383,7 +11384,7 @@ listen1.json,WinApps-share/WinApps-bucket
 g-helper_WinApps-share.json,WinApps-share/WinApps-bucket
 brave_WinApps-share.json,WinApps-share/WinApps-bucket
 geek-uninstaller.json,WinApps-share/WinApps-bucket
-everything-toolbar.json,WinApps-share/WinApps-bucket
+everything-toolbar_WinApps-share.json,WinApps-share/WinApps-bucket
 wiztree_WinApps-share.json,WinApps-share/WinApps-bucket
 bandizip_WinApps-share.json,WinApps-share/WinApps-bucket
 ecopaste.json,WinApps-share/WinApps-bucket
@@ -12287,7 +12288,7 @@ gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
 source-han-sans-vf-ttc.json,Small-Ku/turbo-bucket
 sarasa-super-ttc.json,Small-Ku/turbo-bucket
 antigravity-manager.json,Small-Ku/turbo-bucket
-ruffle_Small-Ku.json,Small-Ku/turbo-bucket
+ruffle.json,Small-Ku/turbo-bucket
 mort.json,Small-Ku/turbo-bucket
 qwen-code.json,Small-Ku/turbo-bucket
 natural-voice-sapi-adapter.json,Small-Ku/turbo-bucket
