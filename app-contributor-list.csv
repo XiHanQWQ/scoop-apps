@@ -9547,7 +9547,7 @@ winhance.json,DoveBoy/Apps
 zyplayer.json,DoveBoy/Apps
 youtube-dl_DoveBoy.json,DoveBoy/Apps
 spotx.json,DoveBoy/Apps
-v2rayn.json,DoveBoy/Apps
+v2rayn_DoveBoy.json,DoveBoy/Apps
 windows11-classic-context-menu_DoveBoy.json,DoveBoy/Apps
 posh-git_DoveBoy.json,DoveBoy/Apps
 crystaldiskmark-shizuku-edition_DoveBoy.json,DoveBoy/Apps
@@ -12267,6 +12267,7 @@ wintun.json,Small-Ku/turbo-bucket
 reshade-addon-dll.json,Small-Ku/turbo-bucket
 clash-rs.json,Small-Ku/turbo-bucket
 equilotl.json,Small-Ku/turbo-bucket
+antigravity-agent.json,Small-Ku/turbo-bucket
 dmm-fast-launcher.json,Small-Ku/turbo-bucket
 yae-achievement.json,Small-Ku/turbo-bucket
 packwiz.json,Small-Ku/turbo-bucket
@@ -12473,7 +12474,7 @@ password.json,iquiw/scoop-bucket
 ct.json,iquiw/scoop-bucket
 proxify_iquiw.json,iquiw/scoop-bucket
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
