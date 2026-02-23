@@ -1326,7 +1326,7 @@ azure-iot-explorer.json,ScoopInstaller/Extras
 firemin.json,ScoopInstaller/Extras
 ape.json,ScoopInstaller/Extras
 mkcert.json,ScoopInstaller/Extras
-smartsystemmenu.json,ScoopInstaller/Extras
+smartsystemmenu_ScoopInstaller.json,ScoopInstaller/Extras
 lantern-client.json,ScoopInstaller/Extras
 bomi.json,ScoopInstaller/Extras
 ab-av1.json,ScoopInstaller/Extras
@@ -2358,7 +2358,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -10109,7 +10109,7 @@ freefilesync.json,DoveBoy/Apps
 waifu2x-snowshell_DoveBoy.json,DoveBoy/Apps
 hiddify-next.json,DoveBoy/Apps
 lx-music-desktop.json,DoveBoy/Apps
-game-cheats-manager.json,DoveBoy/Apps
+game-cheats-manager_DoveBoy.json,DoveBoy/Apps
 zyperwinoptimize.json,DoveBoy/Apps
 streamcap.json,DoveBoy/Apps
 blockthespot.json,DoveBoy/Apps
@@ -12473,7 +12473,7 @@ password.json,iquiw/scoop-bucket
 ct.json,iquiw/scoop-bucket
 proxify_iquiw.json,iquiw/scoop-bucket
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
