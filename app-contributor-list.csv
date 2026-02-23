@@ -3414,6 +3414,7 @@ binance_chawyehsu.json,chawyehsu/dorado
 stable-diffusion-cpp.json,chawyehsu/dorado
 wox-nightly.json,chawyehsu/dorado
 melonds.json,chawyehsu/dorado
+pincat.json,chawyehsu/dorado
 chinesesubtitleconversiontool.json,chawyehsu/dorado
 microsoftedge-dev.json,chawyehsu/dorado
 microsoftedge-beta.json,chawyehsu/dorado
@@ -7519,7 +7520,7 @@ rstudio-2023.12.json,cderv/r-bucket
 rstudio-2022.02.json,cderv/r-bucket
 chezmoi-modify-manager.json,cderv/r-bucket
 rstudio-pro-preview.json,cderv/r-bucket
-rv.json,cderv/r-bucket
+rv_cderv.json,cderv/r-bucket
 quarto-prerelease.json,cderv/r-bucket
 mq.json,cderv/r-bucket
 octarine.json,cderv/r-bucket
@@ -9568,7 +9569,7 @@ lemonpush.json,DoveBoy/Apps
 clashmi.json,DoveBoy/Apps
 regjump_DoveBoy.json,DoveBoy/Apps
 screenbroadcaster-net481.json,DoveBoy/Apps
-gui-for-singbox_DoveBoy.json,DoveBoy/Apps
+gui-for-singbox.json,DoveBoy/Apps
 ghostdownloader3.json,DoveBoy/Apps
 saber_DoveBoy.json,DoveBoy/Apps
 trafficmonitor-lite_DoveBoy.json,DoveBoy/Apps
@@ -9950,7 +9951,7 @@ flut-renamer.json,DoveBoy/Apps
 dust_DoveBoy.json,DoveBoy/Apps
 bbk-cli_DoveBoy.json,DoveBoy/Apps
 localsend_DoveBoy.json,DoveBoy/Apps
-gui-for-clash_DoveBoy.json,DoveBoy/Apps
+gui-for-clash.json,DoveBoy/Apps
 clash-party-portable.json,DoveBoy/Apps
 sendto-menu-editor_DoveBoy.json,DoveBoy/Apps
 screenbroadcaster-net8.json,DoveBoy/Apps
@@ -10113,7 +10114,7 @@ game-cheats-manager_DoveBoy.json,DoveBoy/Apps
 zyperwinoptimize.json,DoveBoy/Apps
 streamcap.json,DoveBoy/Apps
 blockthespot.json,DoveBoy/Apps
-fetch-github-hosts_DoveBoy.json,DoveBoy/Apps
+fetch-github-hosts.json,DoveBoy/Apps
 memreduct_DoveBoy.json,DoveBoy/Apps
 vcredist-aio_DoveBoy.json,DoveBoy/Apps
 biu-portable.json,DoveBoy/Apps
@@ -11251,7 +11252,7 @@ virtualbox.json,WinApps-share/WinApps-bucket
 itunes-old.json,WinApps-share/WinApps-bucket
 windows-terminal_WinApps-share.json,WinApps-share/WinApps-bucket
 musicfree-np.json,WinApps-share/WinApps-bucket
-gui-for-singbox.json,WinApps-share/WinApps-bucket
+gui-for-singbox_WinApps-share.json,WinApps-share/WinApps-bucket
 steam.json,WinApps-share/WinApps-bucket
 tai_WinApps-share.json,WinApps-share/WinApps-bucket
 cherry-studio_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -11358,7 +11359,7 @@ brave-np.json,WinApps-share/WinApps-bucket
 autodarkmode_WinApps-share.json,WinApps-share/WinApps-bucket
 telegram_WinApps-share.json,WinApps-share/WinApps-bucket
 localsend_WinApps-share.json,WinApps-share/WinApps-bucket
-gui-for-clash.json,WinApps-share/WinApps-bucket
+gui-for-clash_WinApps-share.json,WinApps-share/WinApps-bucket
 dbeaver_WinApps-share.json,WinApps-share/WinApps-bucket
 quicker.json,WinApps-share/WinApps-bucket
 vscode-np.json,WinApps-share/WinApps-bucket
