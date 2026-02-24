@@ -2358,7 +2358,7 @@ scoop-completion.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
@@ -10108,11 +10108,11 @@ iris.json,DoveBoy/Apps
 clashwarden.json,DoveBoy/Apps
 flclash-portable.json,DoveBoy/Apps
 varia.json,DoveBoy/Apps
-freefilesync.json,DoveBoy/Apps
+freefilesync_DoveBoy.json,DoveBoy/Apps
 waifu2x-snowshell_DoveBoy.json,DoveBoy/Apps
 hiddify-next.json,DoveBoy/Apps
 lx-music-desktop.json,DoveBoy/Apps
-game-cheats-manager.json,DoveBoy/Apps
+game-cheats-manager_DoveBoy.json,DoveBoy/Apps
 zyperwinoptimize.json,DoveBoy/Apps
 streamcap.json,DoveBoy/Apps
 blockthespot.json,DoveBoy/Apps
@@ -12479,6 +12479,7 @@ videosubfinder.json,seumsc/scoop-seu
 jxl-winthumb_seumsc.json,seumsc/scoop-seu
 cruiser.json,seumsc/scoop-seu
 musicdecrypto.json,seumsc/scoop-seu
+k2pdfopt_seumsc.json,seumsc/scoop-seu
 anime4kcpp-cli.json,seumsc/scoop-seu
 ifrextractor.json,seumsc/scoop-seu
 winpkfilter.json,seumsc/scoop-seu
@@ -12858,7 +12859,7 @@ musicat.json,Scoopforge/Extras-Plus
 configure-defender.json,Scoopforge/Extras-Plus
 autodarkmode_Scoopforge.json,Scoopforge/Extras-Plus
 stirlingpdf.json,Scoopforge/Extras-Plus
-mogan.json,Scoopforge/Extras-Plus
+mogan_Scoopforge.json,Scoopforge/Extras-Plus
 filecentipede.json,Scoopforge/Extras-Plus
 dbgate.json,Scoopforge/Extras-Plus
 voov-meeting.json,Scoopforge/Extras-Plus
@@ -14913,7 +14914,7 @@ godsvg.json,windedge/ladle-bucket
 mdview_windedge.json,windedge/ladle-bucket
 enve.json,windedge/ladle-bucket
 anytype_windedge.json,windedge/ladle-bucket
-dyad.json,windedge/ladle-bucket
+dyad_windedge.json,windedge/ladle-bucket
 pdf4teachers.json,windedge/ladle-bucket
 llama-cpp-ipex-llm.json,windedge/ladle-bucket
 itext-rups.json,windedge/ladle-bucket
@@ -14928,7 +14929,6 @@ gotify-tray.json,windedge/ladle-bucket
 zen-browser_windedge.json,windedge/ladle-bucket
 ollama-ipex-llm.json,windedge/ladle-bucket
 godot3-kotlin-jvm.json,windedge/ladle-bucket
-jvms.json,windedge/ladle-bucket
 tiny-rdm.json,windedge/ladle-bucket
 kotlin-language-server.json,windedge/ladle-bucket
 friction.json,windedge/ladle-bucket
