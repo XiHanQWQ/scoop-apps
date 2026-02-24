@@ -8719,8 +8719,6 @@ fceux.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
-citron.json,borger/scoop-emulators
-ryujinx-canary_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
@@ -8757,7 +8755,6 @@ project64-dev_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 desmume_borger.json,borger/scoop-emulators
-ryujinx_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
 mednafen_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
@@ -10112,7 +10109,7 @@ freefilesync_DoveBoy.json,DoveBoy/Apps
 waifu2x-snowshell_DoveBoy.json,DoveBoy/Apps
 hiddify-next.json,DoveBoy/Apps
 lx-music-desktop.json,DoveBoy/Apps
-game-cheats-manager_DoveBoy.json,DoveBoy/Apps
+game-cheats-manager.json,DoveBoy/Apps
 zyperwinoptimize.json,DoveBoy/Apps
 streamcap.json,DoveBoy/Apps
 blockthespot.json,DoveBoy/Apps
@@ -12381,7 +12378,7 @@ oraclejdk15-portapps.json,Velgus/Scoop-Portapps
 vlc-portapps.json,Velgus/Scoop-Portapps
 waterfox-classic-portapps.json,Velgus/Scoop-Portapps
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
@@ -14770,7 +14767,7 @@ ffmpeg-N_m3u8DL-CLI.json,maboloshi/scoop-private
 sarasa-gothic-sc-excerpt.json,maboloshi/scoop-private
 monitorian.json,maboloshi/scoop-private
 dingtalk.json,maboloshi/scoop-private
-sublime-merge.json,maboloshi/scoop-private
+sublime-merge_maboloshi.json,maboloshi/scoop-private
 regworkshop.json,maboloshi/scoop-private
 clash-for-windows-cn_maboloshi.json,maboloshi/scoop-private
 win-theme-toggle-mini.json,maboloshi/scoop-private
