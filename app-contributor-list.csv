@@ -2260,7 +2260,7 @@ commandbox.json,ScoopInstaller/Extras
 neohtop.json,ScoopInstaller/Extras
 treesheets.json,ScoopInstaller/Extras
 vesktop.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 fontforge.json,ScoopInstaller/Extras
 baretail.json,ScoopInstaller/Extras
 vcredist2013.json,ScoopInstaller/Extras
@@ -9845,6 +9845,7 @@ runastool_DoveBoy.json,DoveBoy/Apps
 delapp_DoveBoy.json,DoveBoy/Apps
 pikatorrent.json,DoveBoy/Apps
 ccleaner_DoveBoy.json,DoveBoy/Apps
+electerm_DoveBoy.json,DoveBoy/Apps
 gh_DoveBoy.json,DoveBoy/Apps
 waveterm_DoveBoy.json,DoveBoy/Apps
 pot-desktop_DoveBoy.json,DoveBoy/Apps
@@ -9946,7 +9947,7 @@ quardcrt.json,DoveBoy/Apps
 quarkpantool.json,DoveBoy/Apps
 fd_DoveBoy.json,DoveBoy/Apps
 jasmine.json,DoveBoy/Apps
-sandboxie-plus.json,DoveBoy/Apps
+sandboxie-plus_DoveBoy.json,DoveBoy/Apps
 convert.net_DoveBoy.json,DoveBoy/Apps
 flut-renamer.json,DoveBoy/Apps
 dust_DoveBoy.json,DoveBoy/Apps
@@ -12498,7 +12499,7 @@ caesium_starise.json,starise/Scoop-Confetti
 aegisub_starise.json,starise/Scoop-Confetti
 staxrip_starise.json,starise/Scoop-Confetti
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
