@@ -8708,7 +8708,7 @@ ezshare.json,couleur-tweak-tips/utils
 discordcompressor.json,couleur-tweak-tips/utils
 mouse-tester.json,couleur-tweak-tips/utils
 mupen64plus.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -9214,7 +9214,7 @@ figlet_akirco.json,akirco/aki-apps
 nyagos_akirco.json,akirco/aki-apps
 dingtalk_akirco.json,akirco/aki-apps
 nmap-portable.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 audacity_akirco.json,akirco/aki-apps
 nvm_akirco.json,akirco/aki-apps
 gdrive_akirco.json,akirco/aki-apps
@@ -9915,7 +9915,7 @@ wechat_DoveBoy.json,DoveBoy/Apps
 computerlock.json,DoveBoy/Apps
 nvm-tab-completion.json,DoveBoy/Apps
 serialterminalforwindowsterminal.json,DoveBoy/Apps
-gnupg-np.json,DoveBoy/Apps
+gnupg-np_DoveBoy.json,DoveBoy/Apps
 wechatdownload.json,DoveBoy/Apps
 cloudreve-beta.json,DoveBoy/Apps
 littletips.json,DoveBoy/Apps
@@ -10110,7 +10110,7 @@ freefilesync_DoveBoy.json,DoveBoy/Apps
 waifu2x-snowshell_DoveBoy.json,DoveBoy/Apps
 hiddify-next.json,DoveBoy/Apps
 lx-music-desktop.json,DoveBoy/Apps
-game-cheats-manager.json,DoveBoy/Apps
+game-cheats-manager_DoveBoy.json,DoveBoy/Apps
 zyperwinoptimize.json,DoveBoy/Apps
 streamcap.json,DoveBoy/Apps
 blockthespot.json,DoveBoy/Apps
@@ -10269,7 +10269,7 @@ freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
@@ -10386,7 +10386,7 @@ pspad_wzv5.json,wzv5/ScoopBucket
 signal_EFLKumo.json,EFLKumo/jam
 mpv-config.json,EFLKumo/jam
 cherry-studio_EFLKumo.json,EFLKumo/jam
-element.json,EFLKumo/jam
+element_EFLKumo.json,EFLKumo/jam
 googlechrome_EFLKumo.json,EFLKumo/jam
 pot_EFLKumo.json,EFLKumo/jam
 siyuan-unlock.json,EFLKumo/jam
@@ -12498,7 +12498,7 @@ caesium_starise.json,starise/Scoop-Confetti
 aegisub_starise.json,starise/Scoop-Confetti
 staxrip_starise.json,starise/Scoop-Confetti
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
