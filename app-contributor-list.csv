@@ -8293,6 +8293,7 @@ Transfersh.json,dodorz/scoop
 MPlayer-sherpya.json,dodorz/scoop
 BaiduCDP.json,dodorz/scoop
 webd.json,dodorz/scoop
+Skills-Hub.json,dodorz/scoop
 eza-ls.json,dodorz/scoop
 ExMplayer.json,dodorz/scoop
 KillCopy.json,dodorz/scoop
@@ -8448,7 +8449,7 @@ KillEmAll.json,dodorz/scoop
 DTSdec.json,dodorz/scoop
 BoostNote-next.json,dodorz/scoop
 icdiff.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 Inkdown.json,dodorz/scoop
 AgentRansack.json,dodorz/scoop
 you-get.json,dodorz/scoop
@@ -9845,7 +9846,6 @@ runastool_DoveBoy.json,DoveBoy/Apps
 delapp_DoveBoy.json,DoveBoy/Apps
 pikatorrent.json,DoveBoy/Apps
 ccleaner_DoveBoy.json,DoveBoy/Apps
-electerm_DoveBoy.json,DoveBoy/Apps
 gh_DoveBoy.json,DoveBoy/Apps
 waveterm_DoveBoy.json,DoveBoy/Apps
 pot-desktop_DoveBoy.json,DoveBoy/Apps
@@ -12499,7 +12499,7 @@ caesium_starise.json,starise/Scoop-Confetti
 aegisub_starise.json,starise/Scoop-Confetti
 staxrip_starise.json,starise/Scoop-Confetti
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
