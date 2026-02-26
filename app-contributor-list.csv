@@ -2600,7 +2600,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -8013,7 +8013,7 @@ iTunesEncode.json,dodorz/scoop
 Cardo.json,dodorz/scoop
 ProxyeeDown.json,dodorz/scoop
 Brief.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 shell2http.json,dodorz/scoop
 yWriter.json,dodorz/scoop
 miniflux.json,dodorz/scoop
@@ -9474,6 +9474,7 @@ aomei-partition-assistant-standard.json,TheRandomLabs/Scoop-Bucket
 windows-sdk-signing-tools.json,TheRandomLabs/Scoop-Bucket
 win10-initial-setup-script.json,TheRandomLabs/Scoop-Bucket
 rfxgen.json,TheRandomLabs/Scoop-Bucket
+youku.json,DoveBoy/Apps
 v2rayn-core.json,DoveBoy/Apps
 book-searcher-desktop.json,DoveBoy/Apps
 betterncm.json,DoveBoy/Apps
@@ -9539,7 +9540,6 @@ clash.meta-cgo.json,DoveBoy/Apps
 v2raya-git.json,DoveBoy/Apps
 picotorrent_DoveBoy.json,DoveBoy/Apps
 letrecovery.json,DoveBoy/Apps
-youku.json,DoveBoy/Apps
 b23downloader_DoveBoy.json,DoveBoy/Apps
 waifu2x-extension-gui-beta.json,DoveBoy/Apps
 syncclipboard.json,DoveBoy/Apps
@@ -10183,7 +10183,7 @@ jo_DoveBoy.json,DoveBoy/Apps
 hummingbird.json,DoveBoy/Apps
 dark_DoveBoy.json,DoveBoy/Apps
 keymap.json,DoveBoy/Apps
-dandanplay.json,DoveBoy/Apps
+dandanplay_DoveBoy.json,DoveBoy/Apps
 binggpt-portable.json,DoveBoy/Apps
 iobit-software-updater.json,DoveBoy/Apps
 repairbadtweaks.json,DoveBoy/Apps
@@ -10267,7 +10267,7 @@ showkeyboard.json,DoveBoy/Apps
 purewriter.json,DoveBoy/Apps
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
 freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
@@ -11584,6 +11584,7 @@ capsblock.json,brian6932/dank-scoop
 chatterino.json,brian6932/dank-scoop
 office-key-fix.json,brian6932/dank-scoop
 raddebugger_brian6932.json,brian6932/dank-scoop
+keyviz-dart.json,brian6932/dank-scoop
 itunes-lean.json,brian6932/dank-scoop
 EleDo.json,brian6932/dank-scoop
 mpv-persist-properties.json,brian6932/dank-scoop
@@ -11637,7 +11638,6 @@ qbittorrent-nightly-lean.json,brian6932/dank-scoop
 trackselect.json,brian6932/dank-scoop
 doge.json,brian6932/dank-scoop
 eisa01-mpv-scripts.json,brian6932/dank-scoop
-keyviz_brian6932.json,brian6932/dank-scoop
 termsvg.json,brian6932/dank-scoop
 tidy-viewer.json,brian6932/dank-scoop
 pwsh-syntax-highlighting.json,brian6932/dank-scoop
@@ -12405,7 +12405,7 @@ uefitool-ne.json,seumsc/scoop-seu
 prom-lite.json,seumsc/scoop-seu
 usbeam-hosts-editor_seumsc.json,seumsc/scoop-seu
 anime4kcpp-cli.json,seumsc/scoop-seu
-hmcl.json,seumsc/scoop-seu
+hmcl_seumsc.json,seumsc/scoop-seu
 steamcommunity-302.json,seumsc/scoop-seu
 navicat-premium-lite.json,seumsc/scoop-seu
 cloudflare-speedtest.json,seumsc/scoop-seu
@@ -12484,7 +12484,7 @@ Charles_Darkatse.json,Darkatse/Scoop-Darkatse
 geekdesk.json,TianXiaTech/scoop-txt
 clash-for-windows-cn.json,TianXiaTech/scoop-txt
 clash-for-windows_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 imewlconverter_TianXiaTech.json,TianXiaTech/scoop-txt
 huya.json,TianXiaTech/scoop-txt
 blinko.json,TianXiaTech/scoop-txt
@@ -13857,7 +13857,7 @@ d2_HUMORCE.json,HUMORCE/nuke
 testmem5_HUMORCE.json,HUMORCE/nuke
 flutter_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP_HUMORCE.json,HUMORCE/nuke
-jadx.json,HUMORCE/nuke
+jadx_HUMORCE.json,HUMORCE/nuke
 ttfautohint.json,HUMORCE/nuke
 goreplay_HUMORCE.json,HUMORCE/nuke
 xenos.json,HUMORCE/nuke
@@ -14449,6 +14449,7 @@ woodpecker-cli-aoks.json,AntonOks/scoop-aoks
 uftp-aoks.json,AntonOks/scoop-aoks
 cmdx-aoks.json,AntonOks/scoop-aoks
 prometheus-aoks.json,AntonOks/scoop-aoks
+flyoobe-aoks.json,AntonOks/scoop-aoks
 checkssl-aoks.json,AntonOks/scoop-aoks
 laverna-aoks.json,AntonOks/scoop-aoks
 sendtokindle-aoks.json,AntonOks/scoop-aoks
