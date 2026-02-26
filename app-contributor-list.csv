@@ -7516,6 +7516,7 @@ rstudio-daily_cderv.json,cderv/r-bucket
 rstudio-2022.12.json,cderv/r-bucket
 rstudio-1.2.json,cderv/r-bucket
 msgvault.json,cderv/r-bucket
+mq-mcp.json,cderv/r-bucket
 tinytex.json,cderv/r-bucket
 sass-migrator.json,cderv/r-bucket
 rig.json,cderv/r-bucket
@@ -10268,7 +10269,7 @@ showkeyboard.json,DoveBoy/Apps
 purewriter.json,DoveBoy/Apps
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
 freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
@@ -12171,7 +12172,7 @@ ran.json,batkiz/backit
 dev-toys-cli.json,batkiz/backit
 ptex-ng.json,batkiz/backit
 muffet_batkiz.json,batkiz/backit
-dasel_batkiz.json,batkiz/backit
+dasel.json,batkiz/backit
 bloomrpc.json,batkiz/backit
 tinytex-min_batkiz.json,batkiz/backit
 tree-sitter_batkiz.json,batkiz/backit
