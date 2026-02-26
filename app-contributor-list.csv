@@ -6281,7 +6281,7 @@ teamviewer-np.json,ScoopInstaller/Nonportable
 grammarly-np.json,ScoopInstaller/Nonportable
 textpad8-np.json,ScoopInstaller/Nonportable
 everything-beta-np_ScoopInstaller.json,ScoopInstaller/Nonportable
-sshfs-np_ScoopInstaller.json,ScoopInstaller/Nonportable
+sshfs-np.json,ScoopInstaller/Nonportable
 bluestacks-np.json,ScoopInstaller/Nonportable
 peace-np.json,ScoopInstaller/Nonportable
 files-np.json,ScoopInstaller/Nonportable
@@ -9691,7 +9691,7 @@ dnsjumper_DoveBoy.json,DoveBoy/Apps
 mrrss-portable.json,DoveBoy/Apps
 folder-painter_DoveBoy.json,DoveBoy/Apps
 vocal-separate.json,DoveBoy/Apps
-animeko_DoveBoy.json,DoveBoy/Apps
+animeko.json,DoveBoy/Apps
 magpie_DoveBoy.json,DoveBoy/Apps
 binggpt.json,DoveBoy/Apps
 localsqueeze.json,DoveBoy/Apps
@@ -10073,7 +10073,7 @@ godmode.json,DoveBoy/Apps
 mpv-git_DoveBoy.json,DoveBoy/Apps
 jmcomic-downloader.json,DoveBoy/Apps
 regjump_DoveBoy.json,DoveBoy/Apps
-game-cheats-manager_DoveBoy.json,DoveBoy/Apps
+game-cheats-manager.json,DoveBoy/Apps
 wax.json,DoveBoy/Apps
 brackets_DoveBoy.json,DoveBoy/Apps
 backup-start-menu-layout_DoveBoy.json,DoveBoy/Apps
@@ -10387,7 +10387,7 @@ lx-music-desktop.json,wzv5/ScoopBucket
 aliyundrive_wzv5.json,wzv5/ScoopBucket
 void_EFLKumo.json,EFLKumo/jam
 mpv-config.json,EFLKumo/jam
-cherry-studio.json,EFLKumo/jam
+cherry-studio_EFLKumo.json,EFLKumo/jam
 googlechrome_EFLKumo.json,EFLKumo/jam
 element_EFLKumo.json,EFLKumo/jam
 pot_EFLKumo.json,EFLKumo/jam
@@ -11292,7 +11292,7 @@ mocreak-np.json,WinApps-share/WinApps-bucket
 todesk_WinApps-share.json,WinApps-share/WinApps-bucket
 autohotkey_WinApps-share.json,WinApps-share/WinApps-bucket
 ab-download-manager.json,WinApps-share/WinApps-bucket
-office-tool-plus.json,WinApps-share/WinApps-bucket
+office-tool-plus_WinApps-share.json,WinApps-share/WinApps-bucket
 compresso.json,WinApps-share/WinApps-bucket
 winscp_WinApps-share.json,WinApps-share/WinApps-bucket
 motrix-np.json,WinApps-share/WinApps-bucket
