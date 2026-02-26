@@ -1207,7 +1207,7 @@ rclone-ui.json,ScoopInstaller/Extras
 opera-gx.json,ScoopInstaller/Extras
 streamlabs-chatbot.json,ScoopInstaller/Extras
 droidcam.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 altbacktick.json,ScoopInstaller/Extras
 owncloud.json,ScoopInstaller/Extras
 foto-mosaik-edda.json,ScoopInstaller/Extras
@@ -2600,7 +2600,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -9617,7 +9617,7 @@ vutronmusic.json,DoveBoy/Apps
 fanqie-novel-downloader.json,DoveBoy/Apps
 xx-net_DoveBoy.json,DoveBoy/Apps
 mingw_DoveBoy.json,DoveBoy/Apps
-joplin-pre_DoveBoy.json,DoveBoy/Apps
+joplin-pre.json,DoveBoy/Apps
 nekoray_DoveBoy.json,DoveBoy/Apps
 npm-completion_DoveBoy.json,DoveBoy/Apps
 quickclipboard-portable.json,DoveBoy/Apps
@@ -10267,7 +10267,7 @@ showkeyboard.json,DoveBoy/Apps
 purewriter.json,DoveBoy/Apps
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
 freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
@@ -10387,7 +10387,7 @@ lx-music-desktop.json,wzv5/ScoopBucket
 aliyundrive_wzv5.json,wzv5/ScoopBucket
 void_EFLKumo.json,EFLKumo/jam
 mpv-config.json,EFLKumo/jam
-cherry-studio_EFLKumo.json,EFLKumo/jam
+cherry-studio.json,EFLKumo/jam
 googlechrome_EFLKumo.json,EFLKumo/jam
 element_EFLKumo.json,EFLKumo/jam
 pot_EFLKumo.json,EFLKumo/jam
@@ -11237,6 +11237,7 @@ ligolo-ng.json,kengwang/scoop-ctftools-bucket
 renovate.json,kengwang/scoop-ctftools-bucket
 cherry-studio-np.json,WinApps-share/WinApps-bucket
 everything-toolbar_WinApps-share.json,WinApps-share/WinApps-bucket
+vlc-np.json,WinApps-share/WinApps-bucket
 zotero_WinApps-share.json,WinApps-share/WinApps-bucket
 bbdown_WinApps-share.json,WinApps-share/WinApps-bucket
 i4.json,WinApps-share/WinApps-bucket
@@ -11308,6 +11309,7 @@ g-helper_WinApps-share.json,WinApps-share/WinApps-bucket
 clash-verge-rev-np.json,WinApps-share/WinApps-bucket
 virtualbox.json,WinApps-share/WinApps-bucket
 w11classic-menu.json,WinApps-share/WinApps-bucket
+vlc_WinApps-share.json,WinApps-share/WinApps-bucket
 wepe_WinApps-share.json,WinApps-share/WinApps-bucket
 ditto_WinApps-share.json,WinApps-share/WinApps-bucket
 softcnkiller.json,WinApps-share/WinApps-bucket
