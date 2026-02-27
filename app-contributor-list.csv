@@ -1701,6 +1701,7 @@ fsresizer.json,ScoopInstaller/Extras
 jenv.json,ScoopInstaller/Extras
 ussf.json,ScoopInstaller/Extras
 macintosh.js.json,ScoopInstaller/Extras
+nextai-translator.json,ScoopInstaller/Extras
 dotnet-generic-unpacker.json,ScoopInstaller/Extras
 silex-desktop.json,ScoopInstaller/Extras
 greenshot.json,ScoopInstaller/Extras
@@ -6699,7 +6700,7 @@ outline-server.json,kidonng/sushi
 v2ray-domain-list-community.json,kidonng/sushi
 vscode-insiders-portable.json,kidonng/sushi
 sandboxie-plus_kidonng.json,kidonng/sushi
-leaf.json,kidonng/sushi
+leaf_kidonng.json,kidonng/sushi
 qv2ray-plugin-ssr.json,kidonng/sushi
 obsidian_kidonng.json,kidonng/sushi
 siyuan.json,kidonng/sushi
@@ -9742,7 +9743,7 @@ vcpkg_DoveBoy.json,DoveBoy/Apps
 googletranslateipcheck.json,DoveBoy/Apps
 delta_DoveBoy.json,DoveBoy/Apps
 alist_DoveBoy.json,DoveBoy/Apps
-nextai-translator.json,DoveBoy/Apps
+nextai-translator_DoveBoy.json,DoveBoy/Apps
 windirstat_DoveBoy.json,DoveBoy/Apps
 7zip_DoveBoy.json,DoveBoy/Apps
 yesplaymusic_DoveBoy.json,DoveBoy/Apps
@@ -11450,6 +11451,7 @@ jy-srt-tools.json,ygguorun/scoop-bucket
 silk2mp3.json,ygguorun/scoop-bucket
 FontMod.json,ygguorun/scoop-bucket
 aliyundrive-webdav_ygguorun.json,ygguorun/scoop-bucket
+URLProtocol.json,ygguorun/scoop-bucket
 rustclock.json,ygguorun/scoop-bucket
 bililive-go_ygguorun.json,ygguorun/scoop-bucket
 WindowTop.json,ygguorun/scoop-bucket
