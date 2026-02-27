@@ -8733,7 +8733,7 @@ mgba_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -9947,6 +9947,7 @@ cloudflared_DoveBoy.json,DoveBoy/Apps
 oneanime.json,DoveBoy/Apps
 trafficmonitor-lite_DoveBoy.json,DoveBoy/Apps
 gotop_DoveBoy.json,DoveBoy/Apps
+winmerge.json,DoveBoy/Apps
 typioca_DoveBoy.json,DoveBoy/Apps
 gitextensions_DoveBoy.json,DoveBoy/Apps
 gitalias.json,DoveBoy/Apps
@@ -10217,6 +10218,7 @@ restart-explorer_DoveBoy.json,DoveBoy/Apps
 serverbox_DoveBoy.json,DoveBoy/Apps
 neovim_DoveBoy.json,DoveBoy/Apps
 kopia-ui.json,DoveBoy/Apps
+shotcut.json,DoveBoy/Apps
 obs-studio_DoveBoy.json,DoveBoy/Apps
 pandoc_DoveBoy.json,DoveBoy/Apps
 sing-box_DoveBoy.json,DoveBoy/Apps
@@ -10549,7 +10551,7 @@ baidupcs-go_hu3rror.json,hu3rror/scoop-muggle
 tianruoocr-cl.json,hu3rror/scoop-muggle
 chk-hashtool.json,hu3rror/scoop-muggle
 yomikiru.json,hu3rror/scoop-muggle
-ainiee_hu3rror.json,hu3rror/scoop-muggle
+ainiee.json,hu3rror/scoop-muggle
 space-cli.json,hu3rror/scoop-muggle
 neeview_hu3rror.json,hu3rror/scoop-muggle
 simpread-sync.json,hu3rror/scoop-muggle
@@ -12135,7 +12137,7 @@ reshade-addon.json,Small-Ku/turbo-bucket
 letta-code.json,Small-Ku/turbo-bucket
 orbolay.json,Small-Ku/turbo-bucket
 better-genshin-impact.json,Small-Ku/turbo-bucket
-gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
+gemini-cli.json,Small-Ku/turbo-bucket
 iflow-cli.json,Small-Ku/turbo-bucket
 clash-rs.json,Small-Ku/turbo-bucket
 atlassian-cli.json,Small-Ku/turbo-bucket
@@ -12683,6 +12685,7 @@ cinebench2024_aoisummer.json,aoisummer/scoop-bucket
 autoruns_aoisummer.json,aoisummer/scoop-bucket
 ddtv2.json,aoisummer/scoop-bucket
 cinebench23.json,aoisummer/scoop-bucket
+sakura-launcher-gui.json,aoisummer/scoop-bucket
 komelia.json,aoisummer/scoop-bucket
 rssowlnix.json,aoisummer/scoop-bucket
 dxcapsviewer.json,aoisummer/scoop-bucket
@@ -12704,7 +12707,7 @@ veracrypt-np.json,aoisummer/scoop-bucket
 dandanplay_aoisummer.json,aoisummer/scoop-bucket
 tracetcp.json,aoisummer/scoop-bucket
 poi.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn.json,aoisummer/scoop-bucket
 firefox-esr-115-zh-cn.json,aoisummer/scoop-bucket
 pcap-dnsproxy.json,aoisummer/scoop-bucket
 vlmcsd.json,aoisummer/scoop-bucket
@@ -13909,7 +13912,7 @@ aptos-cli.json,HUMORCE/nuke
 fiddler-classic-addon-sazdiff.json,HUMORCE/nuke
 errorlookup.json,HUMORCE/nuke
 powertool.json,HUMORCE/nuke
-fido_HUMORCE.json,HUMORCE/nuke
+fido.json,HUMORCE/nuke
 liii-bittorrent.json,HUMORCE/nuke
 wintun_HUMORCE.json,HUMORCE/nuke
 sandboxie-plus_HUMORCE.json,HUMORCE/nuke
@@ -14016,6 +14019,7 @@ xenia_Deide.json,Deide/deide-bucket
 polymc.json,Deide/deide-bucket
 edtracker.json,Deide/deide-bucket
 aimp_Deide.json,Deide/deide-bucket
+ps3decrs.json,Deide/deide-bucket
 freepascal_Deide.json,Deide/deide-bucket
 playnite_Deide.json,Deide/deide-bucket
 smt-mod-compendium.json,Deide/deide-bucket
@@ -14055,7 +14059,7 @@ runelite_Deide.json,Deide/deide-bucket
 mindustry_Deide.json,Deide/deide-bucket
 freeciv_Deide.json,Deide/deide-bucket
 cemu_Deide.json,Deide/deide-bucket
-qtox_Deide.json,Deide/deide-bucket
+qtox.json,Deide/deide-bucket
 gtk-runtime_Deide.json,Deide/deide-bucket
 vimage.json,Deide/deide-bucket
 kaxaml_Deide.json,Deide/deide-bucket
