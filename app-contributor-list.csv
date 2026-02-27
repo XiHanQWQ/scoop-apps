@@ -2600,7 +2600,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -2650,7 +2650,7 @@ topnotify.json,ScoopInstaller/Extras
 qmk-toolbox.json,ScoopInstaller/Extras
 coreftp.json,ScoopInstaller/Extras
 puttytel.json,ScoopInstaller/Extras
-jetbrains-toolbox.json,ScoopInstaller/Extras
+jetbrains-toolbox_ScoopInstaller.json,ScoopInstaller/Extras
 glary-utilities.json,ScoopInstaller/Extras
 lite.json,ScoopInstaller/Extras
 arcwelder.json,ScoopInstaller/Extras
@@ -4405,6 +4405,7 @@ project64-dev.json,Calinou/scoop-games
 runelite.json,Calinou/scoop-games
 umoria.json,Calinou/scoop-games
 mindustry.json,Calinou/scoop-games
+ringracers.json,Calinou/scoop-games
 witchblast.json,Calinou/scoop-games
 steam-art-manager.json,Calinou/scoop-games
 freeciv.json,Calinou/scoop-games
@@ -9693,7 +9694,7 @@ dnsjumper_DoveBoy.json,DoveBoy/Apps
 mrrss-portable.json,DoveBoy/Apps
 folder-painter_DoveBoy.json,DoveBoy/Apps
 vocal-separate.json,DoveBoy/Apps
-animeko.json,DoveBoy/Apps
+animeko_DoveBoy.json,DoveBoy/Apps
 magpie_DoveBoy.json,DoveBoy/Apps
 binggpt.json,DoveBoy/Apps
 localsqueeze.json,DoveBoy/Apps
@@ -10075,7 +10076,7 @@ godmode.json,DoveBoy/Apps
 mpv-git_DoveBoy.json,DoveBoy/Apps
 jmcomic-downloader.json,DoveBoy/Apps
 regjump_DoveBoy.json,DoveBoy/Apps
-game-cheats-manager.json,DoveBoy/Apps
+game-cheats-manager_DoveBoy.json,DoveBoy/Apps
 wax.json,DoveBoy/Apps
 brackets_DoveBoy.json,DoveBoy/Apps
 backup-start-menu-layout_DoveBoy.json,DoveBoy/Apps
@@ -10185,7 +10186,7 @@ jo_DoveBoy.json,DoveBoy/Apps
 hummingbird.json,DoveBoy/Apps
 dark_DoveBoy.json,DoveBoy/Apps
 keymap.json,DoveBoy/Apps
-dandanplay.json,DoveBoy/Apps
+dandanplay_DoveBoy.json,DoveBoy/Apps
 binggpt-portable.json,DoveBoy/Apps
 iobit-software-updater.json,DoveBoy/Apps
 repairbadtweaks.json,DoveBoy/Apps
@@ -12172,7 +12173,7 @@ ran.json,batkiz/backit
 dev-toys-cli.json,batkiz/backit
 ptex-ng.json,batkiz/backit
 muffet_batkiz.json,batkiz/backit
-dasel.json,batkiz/backit
+dasel_batkiz.json,batkiz/backit
 bloomrpc.json,batkiz/backit
 tinytex-min_batkiz.json,batkiz/backit
 tree-sitter_batkiz.json,batkiz/backit
