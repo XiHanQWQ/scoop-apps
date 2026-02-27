@@ -1671,6 +1671,7 @@ ocat.json,ScoopInstaller/Extras
 authpass.json,ScoopInstaller/Extras
 supersonic.json,ScoopInstaller/Extras
 win-portacle.json,ScoopInstaller/Extras
+karing.json,ScoopInstaller/Extras
 logisim-evolution.json,ScoopInstaller/Extras
 86box.json,ScoopInstaller/Extras
 grasshopper.json,ScoopInstaller/Extras
@@ -12305,6 +12306,7 @@ letta-code.json,Small-Ku/turbo-bucket
 orbolay.json,Small-Ku/turbo-bucket
 better-genshin-impact.json,Small-Ku/turbo-bucket
 gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
+iflow-cli.json,Small-Ku/turbo-bucket
 clash-rs.json,Small-Ku/turbo-bucket
 atlassian-cli.json,Small-Ku/turbo-bucket
 jxl-winthumb.json,Small-Ku/turbo-bucket
@@ -13146,7 +13148,7 @@ qimgv-dev.json,cc713/ownscoop
 video2x_cc713.json,cc713/ownscoop
 contextmenumanager_cc713.json,cc713/ownscoop
 Java-RPG-Maker-MV-Decrypter.json,cc713/ownscoop
-goldendict-ng_cc713.json,cc713/ownscoop
+goldendict-ng.json,cc713/ownscoop
 Hitomi-Downloader_cc713.json,cc713/ownscoop
 foobox-cn.json,cc713/ownscoop
 cpu-z-cn.json,cc713/ownscoop
@@ -14716,7 +14718,7 @@ rtools43_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 python314_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 juliamono_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 fastcopy_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-chatbox_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+chatbox.json,ShuguangSun/sgs-scoop-bucket
 tea_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 JetBrainsMono_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 cascadiacode-pl_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
