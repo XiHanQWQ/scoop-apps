@@ -8907,7 +8907,7 @@ pyxis.json,ViCrack/scoop-bucket
 easy-context-menu_ViCrack.json,ViCrack/scoop-bucket
 xpoc_ViCrack.json,ViCrack/scoop-bucket
 cyberapi.json,ViCrack/scoop-bucket
-yakit_ViCrack.json,ViCrack/scoop-bucket
+yakit.json,ViCrack/scoop-bucket
 subfinder_ViCrack.json,ViCrack/scoop-bucket
 mdut_ViCrack.json,ViCrack/scoop-bucket
 rubick.json,ViCrack/scoop-bucket
@@ -10037,7 +10037,7 @@ nvm-tab-completion.json,DoveBoy/Apps
 qq-nt_DoveBoy.json,DoveBoy/Apps
 chatbox_DoveBoy.json,DoveBoy/Apps
 draw.io_DoveBoy.json,DoveBoy/Apps
-readest_DoveBoy.json,DoveBoy/Apps
+readest.json,DoveBoy/Apps
 ipinfo.json,DoveBoy/Apps
 gopeed-web.json,DoveBoy/Apps
 fix-print-spooler_DoveBoy.json,DoveBoy/Apps
@@ -12491,7 +12491,7 @@ kindle-previewer.json,seumsc/scoop-seu
 geekdesk.json,TianXiaTech/scoop-txt
 clash-for-windows-cn.json,TianXiaTech/scoop-txt
 clash-for-windows_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 imewlconverter_TianXiaTech.json,TianXiaTech/scoop-txt
 huya.json,TianXiaTech/scoop-txt
 blinko.json,TianXiaTech/scoop-txt
@@ -12506,7 +12506,7 @@ picgo_TianXiaTech.json,TianXiaTech/scoop-txt
 cursor_TianXiaTech.json,TianXiaTech/scoop-txt
 piclist_TianXiaTech.json,TianXiaTech/scoop-txt
 cherry-studio_TianXiaTech.json,TianXiaTech/scoop-txt
-cc-switch_TianXiaTech.json,TianXiaTech/scoop-txt
+cc-switch.json,TianXiaTech/scoop-txt
 winsw_TianXiaTech.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
 cntv_TianXiaTech.json,TianXiaTech/scoop-txt
@@ -14118,7 +14118,7 @@ katvan.json,typst-community/scoop-bucket
 typst-ts-cli.json,typst-community/scoop-bucket
 tinymist_typst-community.json,typst-community/scoop-bucket
 typship.json,typst-community/scoop-bucket
-iosevka_KnotUntied.json,KnotUntied/scoop-fonts
+iosevka.json,KnotUntied/scoop-fonts
 iawriterduo-variable.json,KnotUntied/scoop-fonts
 haskplex.json,KnotUntied/scoop-fonts
 leaguemono-variable_KnotUntied.json,KnotUntied/scoop-fonts
