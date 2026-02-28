@@ -2602,7 +2602,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -3479,7 +3479,7 @@ electerm_chawyehsu.json,chawyehsu/dorado
 winlibs-mingw-ucrt-snapshot.json,chawyehsu/dorado
 anchor-cli.json,chawyehsu/dorado
 wasm-tools.json,chawyehsu/dorado
-bypass.json,chawyehsu/dorado
+bypass_chawyehsu.json,chawyehsu/dorado
 orwell-dev-cpp.json,chawyehsu/dorado
 douyin-ide.json,chawyehsu/dorado
 solidity_chawyehsu.json,chawyehsu/dorado
@@ -3667,7 +3667,7 @@ famitracker.json,chawyehsu/dorado
 duck.json,chawyehsu/dorado
 downkyi.json,chawyehsu/dorado
 flowus.json,chawyehsu/dorado
-wechatwork.json,chawyehsu/dorado
+wechatwork_chawyehsu.json,chawyehsu/dorado
 cosbrowser.json,chawyehsu/dorado
 agave.json,chawyehsu/dorado
 browsh.json,chawyehsu/dorado
@@ -10272,7 +10272,7 @@ showkeyboard.json,DoveBoy/Apps
 purewriter.json,DoveBoy/Apps
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
 freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
@@ -10549,7 +10549,7 @@ baidupcs-go_hu3rror.json,hu3rror/scoop-muggle
 tianruoocr-cl.json,hu3rror/scoop-muggle
 chk-hashtool.json,hu3rror/scoop-muggle
 yomikiru.json,hu3rror/scoop-muggle
-ainiee.json,hu3rror/scoop-muggle
+ainiee_hu3rror.json,hu3rror/scoop-muggle
 space-cli.json,hu3rror/scoop-muggle
 neeview_hu3rror.json,hu3rror/scoop-muggle
 simpread-sync.json,hu3rror/scoop-muggle
@@ -12490,7 +12490,7 @@ kindle-previewer.json,seumsc/scoop-seu
 geekdesk.json,TianXiaTech/scoop-txt
 clash-for-windows-cn.json,TianXiaTech/scoop-txt
 clash-for-windows_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 imewlconverter_TianXiaTech.json,TianXiaTech/scoop-txt
 huya.json,TianXiaTech/scoop-txt
 blinko.json,TianXiaTech/scoop-txt
