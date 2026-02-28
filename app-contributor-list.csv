@@ -8599,7 +8599,7 @@ snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
 vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -9892,7 +9892,7 @@ waifu2x-ncnn-vulkan_DoveBoy.json,DoveBoy/Apps
 fancontrol-net10.0-portable.json,DoveBoy/Apps
 mootool-portable.json,DoveBoy/Apps
 termscp_DoveBoy.json,DoveBoy/Apps
-gui-for-singbox.json,DoveBoy/Apps
+gui-for-singbox_DoveBoy.json,DoveBoy/Apps
 ani.json,DoveBoy/Apps
 memreduct_DoveBoy.json,DoveBoy/Apps
 aria2manager.json,DoveBoy/Apps
@@ -9943,7 +9943,7 @@ ariang-native_DoveBoy.json,DoveBoy/Apps
 kobi.json,DoveBoy/Apps
 mootool_DoveBoy.json,DoveBoy/Apps
 nping.json,DoveBoy/Apps
-obs-studio-pre_DoveBoy.json,DoveBoy/Apps
+obs-studio-pre.json,DoveBoy/Apps
 cloudflared_DoveBoy.json,DoveBoy/Apps
 oneanime.json,DoveBoy/Apps
 trafficmonitor-lite_DoveBoy.json,DoveBoy/Apps
@@ -10067,7 +10067,7 @@ gnirehtet_DoveBoy.json,DoveBoy/Apps
 reqable_DoveBoy.json,DoveBoy/Apps
 droppoint-portable_DoveBoy.json,DoveBoy/Apps
 perl_DoveBoy.json,DoveBoy/Apps
-gui-for-clash.json,DoveBoy/Apps
+gui-for-clash_DoveBoy.json,DoveBoy/Apps
 ecopaste.json,DoveBoy/Apps
 64gram_DoveBoy.json,DoveBoy/Apps
 reicon_DoveBoy.json,DoveBoy/Apps
@@ -12657,6 +12657,7 @@ googlechrome-canary_42wim.json,42wim/scoop-bucket
 msedge-beta.json,42wim/scoop-bucket
 cinebench20.json,aoisummer/scoop-bucket
 cinebench15.json,aoisummer/scoop-bucket
+ddtv2.json,aoisummer/scoop-bucket
 aliwangwang_aoisummer.json,aoisummer/scoop-bucket
 cdnget.json,aoisummer/scoop-bucket
 smartmontools_aoisummer.json,aoisummer/scoop-bucket
@@ -12682,7 +12683,6 @@ aegisub_aoisummer.json,aoisummer/scoop-bucket
 you-get_aoisummer.json,aoisummer/scoop-bucket
 cinebench2024_aoisummer.json,aoisummer/scoop-bucket
 autoruns_aoisummer.json,aoisummer/scoop-bucket
-ddtv2.json,aoisummer/scoop-bucket
 cinebench23.json,aoisummer/scoop-bucket
 sakura-launcher-gui.json,aoisummer/scoop-bucket
 komelia.json,aoisummer/scoop-bucket
