@@ -1085,6 +1085,7 @@ arc_unpacker.json,sliots/ScoopBucket
 paperwork.json,ScoopInstaller/Extras
 nekoray.json,ScoopInstaller/Extras
 moar.json,ScoopInstaller/Extras
+opencode_ScoopInstaller.json,ScoopInstaller/Extras
 veonim.json,ScoopInstaller/Extras
 sagemath.json,ScoopInstaller/Extras
 sumo.json,ScoopInstaller/Extras
@@ -1097,6 +1098,7 @@ format-factory.json,ScoopInstaller/Extras
 kindlegen.json,ScoopInstaller/Extras
 keenwrite.json,ScoopInstaller/Extras
 chefdk.json,ScoopInstaller/Extras
+qtranslate.json,ScoopInstaller/Extras
 terminus.json,ScoopInstaller/Extras
 mihomo-party.json,ScoopInstaller/Extras
 automake.json,ScoopInstaller/Extras
@@ -1120,6 +1122,7 @@ pomotodo.json,ScoopInstaller/Extras
 notepad2-zufuliu.json,ScoopInstaller/Extras
 lightcord.json,ScoopInstaller/Extras
 popcorn-time.json,ScoopInstaller/Extras
+pureref.json,ScoopInstaller/Extras
 authy.json,ScoopInstaller/Extras
 cider.json,ScoopInstaller/Extras
 fmedia.json,ScoopInstaller/Extras
@@ -1489,7 +1492,6 @@ painter.json,ScoopInstaller/Extras
 ragel.json,ScoopInstaller/Extras
 milkytracker.json,ScoopInstaller/Extras
 renpy.json,ScoopInstaller/Extras
-opencode_ScoopInstaller.json,ScoopInstaller/Extras
 pdfgear.json,ScoopInstaller/Extras
 network-profile-name-changer.json,ScoopInstaller/Extras
 exifcleaner.json,ScoopInstaller/Extras
@@ -1920,7 +1922,6 @@ ida-free.json,ScoopInstaller/Extras
 antares.json,ScoopInstaller/Extras
 spyder.json,ScoopInstaller/Extras
 otadump.json,ScoopInstaller/Extras
-qtranslate.json,ScoopInstaller/Extras
 madvr.json,ScoopInstaller/Extras
 zlib.json,ScoopInstaller/Extras
 windowsspyblocker.json,ScoopInstaller/Extras
@@ -2945,7 +2946,6 @@ winpty.json,ScoopInstaller/Extras
 free-shooter.json,ScoopInstaller/Extras
 pixitracker-1bit.json,ScoopInstaller/Extras
 real.json,ScoopInstaller/Extras
-pureref.json,ScoopInstaller/Extras
 raspberry-pi-imager.json,ScoopInstaller/Extras
 impregnate.json,ScoopInstaller/Extras
 falcon-sql-client.json,ScoopInstaller/Extras
@@ -8735,7 +8735,7 @@ mgba_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -9741,7 +9741,6 @@ gopeed_DoveBoy.json,DoveBoy/Apps
 text-generation-webui.json,DoveBoy/Apps
 bilibili_DoveBoy.json,DoveBoy/Apps
 psreadlineviextension.json,DoveBoy/Apps
-mpv-easy-player.json,DoveBoy/Apps
 whisper.json,DoveBoy/Apps
 vcpkg_DoveBoy.json,DoveBoy/Apps
 googletranslateipcheck.json,DoveBoy/Apps
@@ -14050,13 +14049,13 @@ zoxide_HUMORCE.json,HUMORCE/nuke
 steam-authenticator.json,HUMORCE/nuke
 autohotkey_HUMORCE.json,HUMORCE/nuke
 vmaf_HUMORCE.json,HUMORCE/nuke
-risoheditor_HUMORCE.json,HUMORCE/nuke
+risoheditor.json,HUMORCE/nuke
 android-clt_HUMORCE.json,HUMORCE/nuke
 massigra_HUMORCE.json,HUMORCE/nuke
 jc_HUMORCE.json,HUMORCE/nuke
 ffrename-pro_HUMORCE.json,HUMORCE/nuke
 xpdf-tools_HUMORCE.json,HUMORCE/nuke
-archisteamfarm_HUMORCE.json,HUMORCE/nuke
+archisteamfarm.json,HUMORCE/nuke
 fiddler-classic-addon-freehttp.json,HUMORCE/nuke
 feroxbuster_HUMORCE.json,HUMORCE/nuke
 libraw.json,HUMORCE/nuke
