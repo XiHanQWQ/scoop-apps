@@ -1,8 +1,8 @@
 {
     "version": "1.12.9",
-    "description": "Free end-to-end encrypted cloud storage made by Proton.",
+    "description": "Free end-to-end encrypted cloud storage made by Proton AG",
     "homepage": "https://proton.me/drive",
-    "license": "GPL-3.0-only",
+    "license": "GPL-3.0",
     "architecture": {
         "64bit": {
             "url": "https://proton.me/download/drive/windows/1.12.9/x64/Proton%20Drive%20Setup%201.12.9.exe",
@@ -14,20 +14,20 @@
         }
     },
     "pre_install": [
-        "Expand-DarkArchive -Path \"$dir\\$fname\" -DestinationPath \"$dir\\tmp\" -Removal",
-        "$msi = Get-ChildItem \"$dir\\tmp\\AttachedContainer\\*.msi\" | Select-Object -First 1 -ExpandProperty FullName",
-        "Expand-MsiArchive $msi -ExtractDir 'PFiles64\\Proton\\Drive' -DestinationPath \"$dir\"",
-        "Remove-Item \"$dir\\tmp\" -Recurse -Force"
+        "Expand-DarkArchive \"$dir\\$fname\" \"$dir\\tmp\" -Removal",
+        "$msi = Get-ChildItem \"$dir\\tmp\\AttachedContainer\\*.msi\" | Select-Object -First 1",
+        "Expand-MsiArchive $msi -ExtractDir 'PFiles64\\Proton\\Drive' -DestinationPath \"$dir\""
     ],
+    "post_install": "Remove-Item \"$dir\\tmp\" -Recurse -Force",
     "shortcuts": [
         [
             "ProtonDrive.exe",
-            "Proton\\Proton Drive"
+            "Proton Drive"
         ]
     ],
     "checkver": {
         "url": "https://proton.me/download/drive/windows/version.json",
-        "jsonpath": "$.Releases[?(@.CategoryName == 'Stable')].Version"
+        "jsonpath": "$.Releases[0].Version"
     },
     "autoupdate": {
         "architecture": {

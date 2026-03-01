@@ -1790,6 +1790,7 @@ buttercup.json,ScoopInstaller/Extras
 recyclarr.json,ScoopInstaller/Extras
 usb-image-tool.json,ScoopInstaller/Extras
 onlyoffice-desktopeditors.json,ScoopInstaller/Extras
+proton-mail.json,ScoopInstaller/Extras
 dangerzone.json,ScoopInstaller/Extras
 onecommander.json,ScoopInstaller/Extras
 tsukimi.json,ScoopInstaller/Extras
@@ -1873,6 +1874,7 @@ recuva.json,ScoopInstaller/Extras
 updatehub.json,ScoopInstaller/Extras
 axiom.json,ScoopInstaller/Extras
 qt-creator.json,ScoopInstaller/Extras
+kiro.json,ScoopInstaller/Extras
 dbvis.json,ScoopInstaller/Extras
 ec2-api-tools.json,ScoopInstaller/Extras
 adguardian.json,ScoopInstaller/Extras
@@ -2558,6 +2560,7 @@ ipfs-desktop.json,ScoopInstaller/Extras
 babelmap.json,ScoopInstaller/Extras
 universal-ctags.json,ScoopInstaller/Extras
 color-cop.json,ScoopInstaller/Extras
+proton-pass.json,ScoopInstaller/Extras
 texmaker.json,ScoopInstaller/Extras
 servy.json,ScoopInstaller/Extras
 seelen-ui.json,ScoopInstaller/Extras
@@ -3141,6 +3144,7 @@ pianobar.json,ScoopInstaller/Extras
 staxrip.json,ScoopInstaller/Extras
 node-compiler.json,ScoopInstaller/Extras
 publii.json,ScoopInstaller/Extras
+proton-drive.json,ScoopInstaller/Extras
 clash-verge.json,ScoopInstaller/Extras
 synology-surveillance-station.json,ScoopInstaller/Extras
 cromite.json,ScoopInstaller/Extras
@@ -8406,7 +8410,7 @@ NeoImaging.json,dodorz/scoop
 pyenv_dodorz.json,dodorz/scoop
 Shorten.json,dodorz/scoop
 AntiTwin.json,dodorz/scoop
-Kiro.json,dodorz/scoop
+Kiro_dodorz.json,dodorz/scoop
 adobe-source-han-sans-hk-fonts.json,dodorz/scoop
 pan-light.json,dodorz/scoop
 AnyTXTSearcher.json,dodorz/scoop
@@ -10020,7 +10024,7 @@ sniproxy.json,DoveBoy/Apps
 quardcrt.json,DoveBoy/Apps
 smartsub.json,DoveBoy/Apps
 microsoft-activation-scripts.json,DoveBoy/Apps
-min_DoveBoy.json,DoveBoy/Apps
+min.json,DoveBoy/Apps
 bestsub.json,DoveBoy/Apps
 qtunblockneteasemusic.json,DoveBoy/Apps
 speedtest-go_DoveBoy.json,DoveBoy/Apps
@@ -10805,7 +10809,6 @@ implay.json,naderi/scoop-bucket
 babelpad_naderi.json,naderi/scoop-bucket
 font-behdad.json,naderi/scoop-bucket
 chrome-canary-portable.json,naderi/scoop-bucket
-encrypto.json,naderi/scoop-bucket
 acrylic-dns-proxy.json,naderi/scoop-bucket
 opentrace_naderi.json,naderi/scoop-bucket
 winamp.json,naderi/scoop-bucket
@@ -10891,7 +10894,7 @@ gvim-portable.json,naderi/scoop-bucket
 icofx.json,naderi/scoop-bucket
 sublime-text-4.json,naderi/scoop-bucket
 7zip-lzma.json,naderi/scoop-bucket
-kiro.json,naderi/scoop-bucket
+kiro_naderi.json,naderi/scoop-bucket
 bitcomet_naderi.json,naderi/scoop-bucket
 directory-compare.json,naderi/scoop-bucket
 lgpo_naderi.json,naderi/scoop-bucket
@@ -10991,7 +10994,7 @@ autohotkey-portable.json,naderi/scoop-bucket
 ydl-ui-portable.json,naderi/scoop-bucket
 catsxp.json,naderi/scoop-bucket
 mitec-exe-explorer.json,naderi/scoop-bucket
-proton-pass.json,naderi/scoop-bucket
+proton-pass_naderi.json,naderi/scoop-bucket
 gyroflow_naderi.json,naderi/scoop-bucket
 markflowy.json,naderi/scoop-bucket
 affine_naderi.json,naderi/scoop-bucket
@@ -11094,7 +11097,7 @@ winsetview.json,naderi/scoop-bucket
 mdr_naderi.json,naderi/scoop-bucket
 xmind_naderi.json,naderi/scoop-bucket
 font-sahel.json,naderi/scoop-bucket
-proton-drive.json,naderi/scoop-bucket
+proton-drive_naderi.json,naderi/scoop-bucket
 avidemux-portable_naderi.json,naderi/scoop-bucket
 kmplayer.json,naderi/scoop-bucket
 justcolorpicker_naderi.json,naderi/scoop-bucket
@@ -12532,7 +12535,7 @@ Charles_Darkatse.json,Darkatse/Scoop-Darkatse
 geekdesk.json,TianXiaTech/scoop-txt
 clash-for-windows-cn.json,TianXiaTech/scoop-txt
 clash-for-windows_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 imewlconverter_TianXiaTech.json,TianXiaTech/scoop-txt
 huya.json,TianXiaTech/scoop-txt
 blinko.json,TianXiaTech/scoop-txt
@@ -13950,7 +13953,7 @@ sdcc-snapshot-i586.json,HUMORCE/nuke
 sdcc-snapshot-x86_64.json,HUMORCE/nuke
 fiddler-classic-addon-pdfview.json,HUMORCE/nuke
 ntlite_HUMORCE.json,HUMORCE/nuke
-iosevka_KnotUntied.json,KnotUntied/scoop-fonts
+iosevka.json,KnotUntied/scoop-fonts
 iawriterduo-variable.json,KnotUntied/scoop-fonts
 haskplex.json,KnotUntied/scoop-fonts
 leaguemono-variable_KnotUntied.json,KnotUntied/scoop-fonts
