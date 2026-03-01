@@ -10805,6 +10805,7 @@ implay.json,naderi/scoop-bucket
 babelpad_naderi.json,naderi/scoop-bucket
 font-behdad.json,naderi/scoop-bucket
 chrome-canary-portable.json,naderi/scoop-bucket
+encrypto.json,naderi/scoop-bucket
 acrylic-dns-proxy.json,naderi/scoop-bucket
 opentrace_naderi.json,naderi/scoop-bucket
 winamp.json,naderi/scoop-bucket
@@ -11289,6 +11290,7 @@ minify-js.json,brian6932/dank-scoop
 comicrack-ce-nightly.json,brian6932/dank-scoop
 winjump.json,brian6932/dank-scoop
 leenfetch.json,brian6932/dank-scoop
+profileasync.json,brian6932/dank-scoop
 apngopt-gui.json,brian6932/dank-scoop
 thorium_brian6932.json,brian6932/dank-scoop
 gif2apng-gui.json,brian6932/dank-scoop
@@ -14723,7 +14725,7 @@ rtools43_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 python314_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 juliamono_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 fastcopy_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-chatbox.json,ShuguangSun/sgs-scoop-bucket
+chatbox_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 tea_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 JetBrainsMono_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 cascadiacode-pl_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
