@@ -4537,6 +4537,7 @@ taisei.json,Calinou/scoop-games
 mudlet.json,Calinou/scoop-games
 retro-rogue-collection.json,Calinou/scoop-games
 beebem.json,Calinou/scoop-games
+hydra.json,Calinou/scoop-games
 supermodel.json,Calinou/scoop-games
 wowup.json,Calinou/scoop-games
 webgal-terre.json,Calinou/scoop-games
@@ -9943,7 +9944,7 @@ ariang-native_DoveBoy.json,DoveBoy/Apps
 kobi.json,DoveBoy/Apps
 mootool_DoveBoy.json,DoveBoy/Apps
 nping.json,DoveBoy/Apps
-obs-studio-pre.json,DoveBoy/Apps
+obs-studio-pre_DoveBoy.json,DoveBoy/Apps
 cloudflared_DoveBoy.json,DoveBoy/Apps
 oneanime.json,DoveBoy/Apps
 trafficmonitor-lite_DoveBoy.json,DoveBoy/Apps
@@ -10431,7 +10432,7 @@ posh-cd.json,amorphobia/siku
 scoop-hook.json,amorphobia/siku
 clash-for-windows_amorphobia.json,amorphobia/siku
 idm-trial-reset.json,amorphobia/siku
-filebrowser.json,amorphobia/siku
+filebrowser_amorphobia.json,amorphobia/siku
 bind-lean.json,amorphobia/siku
 ipatool.json,amorphobia/siku
 webdav.json,amorphobia/siku
@@ -11378,7 +11379,7 @@ jsoncomma.json,brian6932/dank-scoop
 cc-clean-launcher.json,brian6932/dank-scoop
 exiftool-pl.json,brian6932/dank-scoop
 mercury.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 python-debug.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 nyaa.json,brian6932/dank-scoop
@@ -12750,6 +12751,7 @@ autopsy_jfut.json,jfut/scoop-jfut
 explzh.json,jfut/scoop-jfut
 vrcx_babo4d.json,babo4d/scoop-xrtools
 azahar_babo4d.json,babo4d/scoop-xrtools
+citron.json,babo4d/scoop-xrtools
 shadps4_babo4d.json,babo4d/scoop-xrtools
 vtolvr-modloader.json,babo4d/scoop-xrtools
 zelda64recomp_babo4d.json,babo4d/scoop-xrtools
@@ -12767,6 +12769,7 @@ openvr-input-emulator.json,babo4d/scoop-xrtools
 tonsavemanager.json,babo4d/scoop-xrtools
 a-slower-speed-of-light.json,babo4d/scoop-xrtools
 hla-novr-launcher.json,babo4d/scoop-xrtools
+osc-chat-tools.json,babo4d/scoop-xrtools
 beatsaber-legacylauncher.json,babo4d/scoop-xrtools
 tts-voice-wizard_babo4d.json,babo4d/scoop-xrtools
 openra-fractured-realms.json,babo4d/scoop-xrtools
@@ -12799,7 +12802,6 @@ ikemen-go.json,babo4d/scoop-xrtools
 beatsaber-modassistant.json,babo4d/scoop-xrtools
 openra-sole-survivor.json,babo4d/scoop-xrtools
 vbjin-ovr.json,babo4d/scoop-xrtools
-citron.json,babo4d/scoop-xrtools
 scp-containment-breach.json,babo4d/scoop-xrtools
 doomlauncher.json,babo4d/scoop-xrtools
 slimevr-server.json,babo4d/scoop-xrtools
