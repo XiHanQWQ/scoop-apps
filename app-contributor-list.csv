@@ -8899,7 +8899,7 @@ java-chains.json,ViCrack/scoop-bucket
 wub.json,ViCrack/scoop-bucket
 behinder_ViCrack.json,ViCrack/scoop-bucket
 java-echo-generator-release.json,ViCrack/scoop-bucket
-edx_ViCrack.json,ViCrack/scoop-bucket
+edx.json,ViCrack/scoop-bucket
 siyuan-ce.json,ViCrack/scoop-bucket
 contextmenumanager_ViCrack.json,ViCrack/scoop-bucket
 extremedumper.json,ViCrack/scoop-bucket
@@ -10191,7 +10191,7 @@ video-subtitle-extractor-cpu.json,DoveBoy/Apps
 tmspeech.json,DoveBoy/Apps
 clash-verge_DoveBoy.json,DoveBoy/Apps
 linkandroid.json,DoveBoy/Apps
-cromite_DoveBoy.json,DoveBoy/Apps
+cromite.json,DoveBoy/Apps
 jo_DoveBoy.json,DoveBoy/Apps
 hummingbird.json,DoveBoy/Apps
 dark_DoveBoy.json,DoveBoy/Apps
@@ -10215,7 +10215,7 @@ gnupg_DoveBoy.json,DoveBoy/Apps
 nvm_DoveBoy.json,DoveBoy/Apps
 snappy-driver-installer-origin_DoveBoy.json,DoveBoy/Apps
 pikapika.json,DoveBoy/Apps
-forkgram_DoveBoy.json,DoveBoy/Apps
+forkgram.json,DoveBoy/Apps
 wechat_DoveBoy.json,DoveBoy/Apps
 github-store.json,DoveBoy/Apps
 mapdownload.json,DoveBoy/Apps
@@ -12537,7 +12537,7 @@ Charles_Darkatse.json,Darkatse/Scoop-Darkatse
 geekdesk.json,TianXiaTech/scoop-txt
 clash-for-windows-cn.json,TianXiaTech/scoop-txt
 clash-for-windows_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 imewlconverter_TianXiaTech.json,TianXiaTech/scoop-txt
 huya.json,TianXiaTech/scoop-txt
 blinko.json,TianXiaTech/scoop-txt
