@@ -2607,7 +2607,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -9190,7 +9190,7 @@ scoop-search_akirco.json,akirco/aki-apps
 mysql_akirco.json,akirco/aki-apps
 mtn_akirco.json,akirco/aki-apps
 listen1desktop_akirco.json,akirco/aki-apps
-electerm_akirco.json,akirco/aki-apps
+electerm.json,akirco/aki-apps
 nginx_akirco.json,akirco/aki-apps
 prince_akirco.json,akirco/aki-apps
 wechat-work.json,akirco/aki-apps
@@ -9580,6 +9580,7 @@ bilibili-backup_DoveBoy.json,DoveBoy/Apps
 ofgb.json,DoveBoy/Apps
 clink-completions_DoveBoy.json,DoveBoy/Apps
 qkeymapper-qt6.json,DoveBoy/Apps
+electerm_DoveBoy.json,DoveBoy/Apps
 alisthelper-portable.json,DoveBoy/Apps
 clink_DoveBoy.json,DoveBoy/Apps
 ruffle.json,DoveBoy/Apps
@@ -9990,6 +9991,7 @@ upscayl_DoveBoy.json,DoveBoy/Apps
 iobit-system-information.json,DoveBoy/Apps
 youtube-dl-gui_DoveBoy.json,DoveBoy/Apps
 cnnettool.json,DoveBoy/Apps
+waifu2x-extension-gui.json,DoveBoy/Apps
 ugrep_DoveBoy.json,DoveBoy/Apps
 biu.json,DoveBoy/Apps
 idcard-generator.json,DoveBoy/Apps
@@ -10240,7 +10242,7 @@ mpvconfigurator.json,DoveBoy/Apps
 unblockneteasemusic.json,DoveBoy/Apps
 cyrenemusic.json,DoveBoy/Apps
 esearch-portable.json,DoveBoy/Apps
-clash-party_DoveBoy.json,DoveBoy/Apps
+clash-party.json,DoveBoy/Apps
 freerenamer.json,DoveBoy/Apps
 typora-dev_DoveBoy.json,DoveBoy/Apps
 aictionary.json,DoveBoy/Apps
@@ -11384,7 +11386,7 @@ jsoncomma.json,brian6932/dank-scoop
 cc-clean-launcher.json,brian6932/dank-scoop
 exiftool-pl.json,brian6932/dank-scoop
 mercury.json,brian6932/dank-scoop
-mpv-git_brian6932.json,brian6932/dank-scoop
+mpv-git.json,brian6932/dank-scoop
 python-debug.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 nyaa.json,brian6932/dank-scoop
