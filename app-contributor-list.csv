@@ -7549,7 +7549,7 @@ fq_cderv.json,cderv/r-bucket
 rstudio-2023.12.json,cderv/r-bucket
 rstudio-pro-daily.json,cderv/r-bucket
 rsvg-convert.json,cderv/r-bucket
-positron_cderv.json,cderv/r-bucket
+positron.json,cderv/r-bucket
 rstudio-2022.02.json,cderv/r-bucket
 rstudio-1.3.json,cderv/r-bucket
 rstudio-1.4.json,cderv/r-bucket
@@ -8772,7 +8772,7 @@ spaghettikart.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 visualboyadvance-m.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
-2ship2harkinian_borger.json,borger/scoop-emulators
+2ship2harkinian.json,borger/scoop-emulators
 shipwright_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 filemenutools.json,ViCrack/scoop-bucket
@@ -9206,7 +9206,7 @@ highlight_akirco.json,akirco/aki-apps
 npm-completion.json,akirco/aki-apps
 windsurf_akirco.json,akirco/aki-apps
 netch_akirco.json,akirco/aki-apps
-flutter_akirco.json,akirco/aki-apps
+flutter.json,akirco/aki-apps
 rclone-browser_akirco.json,akirco/aki-apps
 notion_akirco.json,akirco/aki-apps
 oxipng_akirco.json,akirco/aki-apps
@@ -9654,7 +9654,7 @@ clash-for-flutter.json,DoveBoy/Apps
 pytranscriber.json,DoveBoy/Apps
 host-editor_DoveBoy.json,DoveBoy/Apps
 fluent-m3u8.json,DoveBoy/Apps
-jarkviewer_DoveBoy.json,DoveBoy/Apps
+jarkviewer.json,DoveBoy/Apps
 urlfinder.json,DoveBoy/Apps
 flyoobe.json,DoveBoy/Apps
 r3play.json,DoveBoy/Apps
@@ -10280,7 +10280,7 @@ showkeyboard.json,DoveBoy/Apps
 purewriter.json,DoveBoy/Apps
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
 freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
