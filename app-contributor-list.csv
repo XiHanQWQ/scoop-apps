@@ -1210,7 +1210,7 @@ rclone-ui.json,ScoopInstaller/Extras
 opera-gx.json,ScoopInstaller/Extras
 streamlabs-chatbot.json,ScoopInstaller/Extras
 droidcam.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 altbacktick.json,ScoopInstaller/Extras
 owncloud.json,ScoopInstaller/Extras
 foto-mosaik-edda.json,ScoopInstaller/Extras
@@ -1237,6 +1237,7 @@ xmlnotepad.json,ScoopInstaller/Extras
 restfox.json,ScoopInstaller/Extras
 mpc-hc.json,ScoopInstaller/Extras
 gridplayer.json,ScoopInstaller/Extras
+plezy.json,ScoopInstaller/Extras
 rednotebook.json,ScoopInstaller/Extras
 koffee.json,ScoopInstaller/Extras
 hibit-uninstaller.json,ScoopInstaller/Extras
@@ -1500,6 +1501,7 @@ aimp.json,ScoopInstaller/Extras
 ytmdesktop.json,ScoopInstaller/Extras
 simplenote.json,ScoopInstaller/Extras
 magicavoxel.json,ScoopInstaller/Extras
+exhyperv.json,ScoopInstaller/Extras
 pterm.json,ScoopInstaller/Extras
 pentaho-data-integration.json,ScoopInstaller/Extras
 kscript.json,ScoopInstaller/Extras
@@ -2522,7 +2524,7 @@ status.json,ScoopInstaller/Extras
 p4v.json,ScoopInstaller/Extras
 smartcontextmenu.json,ScoopInstaller/Extras
 bkchem.json,ScoopInstaller/Extras
-waifu2x-extension-gui_ScoopInstaller.json,ScoopInstaller/Extras
+waifu2x-extension-gui.json,ScoopInstaller/Extras
 pot.json,ScoopInstaller/Extras
 sam.json,ScoopInstaller/Extras
 nicotine-plus.json,ScoopInstaller/Extras
@@ -9190,7 +9192,7 @@ scoop-search_akirco.json,akirco/aki-apps
 mysql_akirco.json,akirco/aki-apps
 mtn_akirco.json,akirco/aki-apps
 listen1desktop_akirco.json,akirco/aki-apps
-electerm.json,akirco/aki-apps
+electerm_akirco.json,akirco/aki-apps
 nginx_akirco.json,akirco/aki-apps
 prince_akirco.json,akirco/aki-apps
 wechat-work.json,akirco/aki-apps
@@ -9991,7 +9993,6 @@ upscayl_DoveBoy.json,DoveBoy/Apps
 iobit-system-information.json,DoveBoy/Apps
 youtube-dl-gui_DoveBoy.json,DoveBoy/Apps
 cnnettool.json,DoveBoy/Apps
-waifu2x-extension-gui.json,DoveBoy/Apps
 ugrep_DoveBoy.json,DoveBoy/Apps
 biu.json,DoveBoy/Apps
 idcard-generator.json,DoveBoy/Apps
@@ -10191,7 +10192,7 @@ video-subtitle-extractor-cpu.json,DoveBoy/Apps
 tmspeech.json,DoveBoy/Apps
 clash-verge_DoveBoy.json,DoveBoy/Apps
 linkandroid.json,DoveBoy/Apps
-cromite.json,DoveBoy/Apps
+cromite_DoveBoy.json,DoveBoy/Apps
 jo_DoveBoy.json,DoveBoy/Apps
 hummingbird.json,DoveBoy/Apps
 dark_DoveBoy.json,DoveBoy/Apps
@@ -10215,7 +10216,7 @@ gnupg_DoveBoy.json,DoveBoy/Apps
 nvm_DoveBoy.json,DoveBoy/Apps
 snappy-driver-installer-origin_DoveBoy.json,DoveBoy/Apps
 pikapika.json,DoveBoy/Apps
-forkgram.json,DoveBoy/Apps
+forkgram_DoveBoy.json,DoveBoy/Apps
 wechat_DoveBoy.json,DoveBoy/Apps
 github-store.json,DoveBoy/Apps
 mapdownload.json,DoveBoy/Apps
@@ -10242,7 +10243,7 @@ mpvconfigurator.json,DoveBoy/Apps
 unblockneteasemusic.json,DoveBoy/Apps
 cyrenemusic.json,DoveBoy/Apps
 esearch-portable.json,DoveBoy/Apps
-clash-party.json,DoveBoy/Apps
+clash-party_DoveBoy.json,DoveBoy/Apps
 freerenamer.json,DoveBoy/Apps
 typora-dev_DoveBoy.json,DoveBoy/Apps
 aictionary.json,DoveBoy/Apps
@@ -11030,6 +11031,7 @@ uget-portable.json,naderi/scoop-bucket
 claude_naderi.json,naderi/scoop-bucket
 reicon_naderi.json,naderi/scoop-bucket
 hotkeyp.json,naderi/scoop-bucket
+zed-cli.json,naderi/scoop-bucket
 extraterm_naderi.json,naderi/scoop-bucket
 alwaysmousewheel.json,naderi/scoop-bucket
 wxhexeditor_naderi.json,naderi/scoop-bucket
@@ -11705,6 +11707,7 @@ oneliverec.json,ygguorun/scoop-bucket
 go-cqhttp.json,ygguorun/scoop-bucket
 eaio.json,ygguorun/scoop-bucket
 docker-drag.json,ygguorun/scoop-bucket
+inxunoffice.json,ygguorun/scoop-bucket
 kaf-cli_ygguorun.json,ygguorun/scoop-bucket
 Legendary_ygguorun.json,ygguorun/scoop-bucket
 BetterNCM_ygguorun.json,ygguorun/scoop-bucket
