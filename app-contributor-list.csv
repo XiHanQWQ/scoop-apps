@@ -2607,7 +2607,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -10024,7 +10024,7 @@ sniproxy.json,DoveBoy/Apps
 quardcrt.json,DoveBoy/Apps
 smartsub.json,DoveBoy/Apps
 microsoft-activation-scripts.json,DoveBoy/Apps
-min.json,DoveBoy/Apps
+min_DoveBoy.json,DoveBoy/Apps
 bestsub.json,DoveBoy/Apps
 qtunblockneteasemusic.json,DoveBoy/Apps
 speedtest-go_DoveBoy.json,DoveBoy/Apps
@@ -11384,7 +11384,7 @@ jsoncomma.json,brian6932/dank-scoop
 cc-clean-launcher.json,brian6932/dank-scoop
 exiftool-pl.json,brian6932/dank-scoop
 mercury.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 python-debug.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 nyaa.json,brian6932/dank-scoop
@@ -12535,7 +12535,7 @@ Charles_Darkatse.json,Darkatse/Scoop-Darkatse
 geekdesk.json,TianXiaTech/scoop-txt
 clash-for-windows-cn.json,TianXiaTech/scoop-txt
 clash-for-windows_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 imewlconverter_TianXiaTech.json,TianXiaTech/scoop-txt
 huya.json,TianXiaTech/scoop-txt
 blinko.json,TianXiaTech/scoop-txt
@@ -12721,6 +12721,7 @@ hellblade-save-loader.json,babo4d/scoop-xrtools
 whispering-tiger.json,babo4d/scoop-xrtools
 melonloader-installer.json,babo4d/scoop-xrtools
 gzdoomvr.json,babo4d/scoop-xrtools
+xs-notify.json,babo4d/scoop-xrtools
 adgobye.json,babo4d/scoop-xrtools
 openra-openhv.json,babo4d/scoop-xrtools
 cncnet-twisted-insurrection.json,babo4d/scoop-xrtools
@@ -14693,7 +14694,7 @@ sumatrapdf-stable.json,ShuguangSun/sgs-scoop-bucket
 universal-ctags-nightly.json,ShuguangSun/sgs-scoop-bucket
 emacs-kiennq-ucrt-mps.json,ShuguangSun/sgs-scoop-bucket
 r-4.1.0.json,ShuguangSun/sgs-scoop-bucket
-texlive.json,ShuguangSun/sgs-scoop-bucket
+texlive_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 julia_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 tree-sitter_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 LXGWWenKaiScreen_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
