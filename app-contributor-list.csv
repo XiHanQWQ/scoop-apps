@@ -2292,6 +2292,7 @@ cpkeeper.json,ScoopInstaller/Extras
 electrum.json,ScoopInstaller/Extras
 lavape.json,ScoopInstaller/Extras
 keepass.json,ScoopInstaller/Extras
+spek-x.json,ScoopInstaller/Extras
 streamwriter.json,ScoopInstaller/Extras
 task-coach.json,ScoopInstaller/Extras
 lunarvim.json,ScoopInstaller/Extras
@@ -5471,7 +5472,7 @@ vivaldi-snapshot.json,ScoopInstaller/Versions
 docker-nightly.json,ScoopInstaller/Versions
 goland-rc.json,ScoopInstaller/Versions
 spotdl-beta.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 nanazip-beta.json,ScoopInstaller/Versions
 php71-xdebug.json,ScoopInstaller/Versions
 php81-xdebug.json,ScoopInstaller/Versions
@@ -7577,7 +7578,7 @@ iqiyi.json,echoiron/echo-scoop
 uninstalltool.json,echoiron/echo-scoop
 es.json,echoiron/echo-scoop
 totalcommander_echoiron.json,echoiron/echo-scoop
-picgo.json,echoiron/echo-scoop
+picgo_echoiron.json,echoiron/echo-scoop
 zhumu.json,echoiron/echo-scoop
 fsresizer_echoiron.json,echoiron/echo-scoop
 4kvideodownloaderplus.json,echoiron/echo-scoop
@@ -7953,7 +7954,7 @@ JSONedit.json,dodorz/scoop
 adobe-source-han-sans-tw-fonts.json,dodorz/scoop
 HE.json,dodorz/scoop
 ntouch.json,dodorz/scoop
-Wox.json,dodorz/scoop
+Wox_dodorz.json,dodorz/scoop
 Speex.json,dodorz/scoop
 WildRename.json,dodorz/scoop
 DSynchronize.json,dodorz/scoop
@@ -8601,7 +8602,7 @@ snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
 vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -9215,7 +9216,7 @@ chromium_akirco.json,akirco/aki-apps
 tup_akirco.json,akirco/aki-apps
 innounpacker_akirco.json,akirco/aki-apps
 vcredist2022_akirco.json,akirco/aki-apps
-cyberduck_akirco.json,akirco/aki-apps
+cyberduck.json,akirco/aki-apps
 vcredist2013_akirco.json,akirco/aki-apps
 potplayer_akirco.json,akirco/aki-apps
 fat32format_akirco.json,akirco/aki-apps
@@ -10474,7 +10475,7 @@ dota2_realblood.json,hu3rror/scoop-muggle
 jpegview-fork_hu3rror.json,hu3rror/scoop-muggle
 JumpToFolder.json,hu3rror/scoop-muggle
 watt-toolkit.json,hu3rror/scoop-muggle
-spek-X.json,hu3rror/scoop-muggle
+spek-X_hu3rror.json,hu3rror/scoop-muggle
 notepad3_hu3rror.json,hu3rror/scoop-muggle
 animeko_hu3rror.json,hu3rror/scoop-muggle
 run-hidden.json,hu3rror/scoop-muggle
@@ -14344,6 +14345,7 @@ imazing.json,beer-psi/scoop-bucket
 ntlite_beer-psi.json,beer-psi/scoop-bucket
 absolutetouch.json,beer-psi/scoop-bucket
 benjaminmichaelis.omp.json,BenjaminMichaelis/Config
+winget.settings.json,BenjaminMichaelis/Config
 VisualStudio2022Enterprise.json,BenjaminMichaelis/Config
 SetPowerConfiguration.json,BenjaminMichaelis/Config
 WSL-Ubuntu-1804.json,BenjaminMichaelis/Config
