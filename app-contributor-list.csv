@@ -1703,6 +1703,7 @@ mpv-easy-player.json,ScoopInstaller/Extras
 wiztree.json,ScoopInstaller/Extras
 chatterino7.json,ScoopInstaller/Extras
 fsresizer.json,ScoopInstaller/Extras
+models.json,ScoopInstaller/Extras
 jenv.json,ScoopInstaller/Extras
 ussf.json,ScoopInstaller/Extras
 macintosh.js.json,ScoopInstaller/Extras
@@ -1746,7 +1747,7 @@ wincrypt-sshagent.json,ScoopInstaller/Extras
 mednafen.json,ScoopInstaller/Extras
 hunt-and-peck.json,ScoopInstaller/Extras
 komorebi.json,ScoopInstaller/Extras
-sourcetree_ScoopInstaller.json,ScoopInstaller/Extras
+sourcetree.json,ScoopInstaller/Extras
 oripa.json,ScoopInstaller/Extras
 nuclear.json,ScoopInstaller/Extras
 pdraw32.json,ScoopInstaller/Extras
@@ -4391,7 +4392,7 @@ openloco.json,Calinou/scoop-games
 openfortress.json,Calinou/scoop-games
 zdl.json,Calinou/scoop-games
 banjo-recompiled.json,Calinou/scoop-games
-starward_Calinou.json,Calinou/scoop-games
+starward.json,Calinou/scoop-games
 actools.json,Calinou/scoop-games
 sak.json,Calinou/scoop-games
 mcrcon.json,Calinou/scoop-games
@@ -5538,20 +5539,14 @@ galaxy-nwiiu-cemu.json,borger/scoop-galaxy-integrations
 galaxy-uplay.json,borger/scoop-galaxy-integrations
 galaxy-paradox.json,borger/scoop-galaxy-integrations
 galaxy-rockstar.json,borger/scoop-galaxy-integrations
-galaxy-discord.json,borger/scoop-galaxy-integrations
-galaxy-origin.json,borger/scoop-galaxy-integrations
-galaxy-ffxiv.json,borger/scoop-galaxy-integrations
 galaxy-gw2.json,borger/scoop-galaxy-integrations
 galaxy-nds.json,borger/scoop-galaxy-integrations
 galaxy-3ds-citra.json,borger/scoop-galaxy-integrations
 galaxy-pathofexile.json,borger/scoop-galaxy-integrations
 galaxy-nwii.json,borger/scoop-galaxy-integrations
 galaxy-ncube.json,borger/scoop-galaxy-integrations
-galaxy-battlenet.json,borger/scoop-galaxy-integrations
-galaxy-epic.json,borger/scoop-galaxy-integrations
 galaxy-blizzard.json,borger/scoop-galaxy-integrations
 galaxy-minecraft.json,borger/scoop-galaxy-integrations
-galaxy-bethesda.json,borger/scoop-galaxy-integrations
 galaxy-n64.json,borger/scoop-galaxy-integrations
 galaxy-amazon.json,borger/scoop-galaxy-integrations
 galaxy-wargaming.json,borger/scoop-galaxy-integrations
@@ -9348,6 +9343,7 @@ poppler_akirco.json,akirco/aki-apps
 nircmd_akirco.json,akirco/aki-apps
 monolith_akirco.json,akirco/aki-apps
 far_akirco.json,akirco/aki-apps
+bilibili-livehime.json,akirco/aki-apps
 pnpm_akirco.json,akirco/aki-apps
 yuanbao.json,akirco/aki-apps
 rufus_akirco.json,akirco/aki-apps
@@ -10441,7 +10437,7 @@ clash-for-windows_amorphobia.json,amorphobia/siku
 idm-trial-reset.json,amorphobia/siku
 filebrowser_amorphobia.json,amorphobia/siku
 bind-lean.json,amorphobia/siku
-ipatool.json,amorphobia/siku
+ipatool_amorphobia.json,amorphobia/siku
 webdav.json,amorphobia/siku
 arturo_amorphobia.json,amorphobia/siku
 todesk.json,amorphobia/siku
@@ -11388,7 +11384,7 @@ jsoncomma.json,brian6932/dank-scoop
 cc-clean-launcher.json,brian6932/dank-scoop
 exiftool-pl.json,brian6932/dank-scoop
 mercury.json,brian6932/dank-scoop
-mpv-git_brian6932.json,brian6932/dank-scoop
+mpv-git.json,brian6932/dank-scoop
 python-debug.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 nyaa.json,brian6932/dank-scoop
@@ -12465,7 +12461,7 @@ cntv_TianXiaTech.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
 writingTools.json,TianXiaTech/scoop-txt
 ffmpegFreeUI_TianXiaTech.json,TianXiaTech/scoop-txt
-baidunetdisk_TianXiaTech.json,TianXiaTech/scoop-txt
+baidunetdisk.json,TianXiaTech/scoop-txt
 Noi_TianXiaTech.json,TianXiaTech/scoop-txt
 yuque_TianXiaTech.json,TianXiaTech/scoop-txt
 chatbox_TianXiaTech.json,TianXiaTech/scoop-txt
@@ -13959,7 +13955,7 @@ sdcc-snapshot-i586.json,HUMORCE/nuke
 sdcc-snapshot-x86_64.json,HUMORCE/nuke
 fiddler-classic-addon-pdfview.json,HUMORCE/nuke
 ntlite_HUMORCE.json,HUMORCE/nuke
-iosevka.json,KnotUntied/scoop-fonts
+iosevka_KnotUntied.json,KnotUntied/scoop-fonts
 iawriterduo-variable.json,KnotUntied/scoop-fonts
 haskplex.json,KnotUntied/scoop-fonts
 leaguemono-variable_KnotUntied.json,KnotUntied/scoop-fonts
