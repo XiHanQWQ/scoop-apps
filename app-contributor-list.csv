@@ -2524,7 +2524,7 @@ status.json,ScoopInstaller/Extras
 p4v.json,ScoopInstaller/Extras
 smartcontextmenu.json,ScoopInstaller/Extras
 bkchem.json,ScoopInstaller/Extras
-waifu2x-extension-gui.json,ScoopInstaller/Extras
+waifu2x-extension-gui_ScoopInstaller.json,ScoopInstaller/Extras
 pot.json,ScoopInstaller/Extras
 sam.json,ScoopInstaller/Extras
 nicotine-plus.json,ScoopInstaller/Extras
@@ -2609,7 +2609,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -7549,7 +7549,7 @@ fq_cderv.json,cderv/r-bucket
 rstudio-2023.12.json,cderv/r-bucket
 rstudio-pro-daily.json,cderv/r-bucket
 rsvg-convert.json,cderv/r-bucket
-positron.json,cderv/r-bucket
+positron_cderv.json,cderv/r-bucket
 rstudio-2022.02.json,cderv/r-bucket
 rstudio-1.3.json,cderv/r-bucket
 rstudio-1.4.json,cderv/r-bucket
@@ -8766,6 +8766,7 @@ dolphin-dev_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
+eden_borger.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
 spaghettikart.json,borger/scoop-emulators
@@ -9206,7 +9207,7 @@ highlight_akirco.json,akirco/aki-apps
 npm-completion.json,akirco/aki-apps
 windsurf_akirco.json,akirco/aki-apps
 netch_akirco.json,akirco/aki-apps
-flutter.json,akirco/aki-apps
+flutter_akirco.json,akirco/aki-apps
 rclone-browser_akirco.json,akirco/aki-apps
 notion_akirco.json,akirco/aki-apps
 oxipng_akirco.json,akirco/aki-apps
@@ -9630,7 +9631,7 @@ vutronmusic.json,DoveBoy/Apps
 fanqie-novel-downloader.json,DoveBoy/Apps
 xx-net_DoveBoy.json,DoveBoy/Apps
 mingw_DoveBoy.json,DoveBoy/Apps
-joplin-pre.json,DoveBoy/Apps
+joplin-pre_DoveBoy.json,DoveBoy/Apps
 nekoray_DoveBoy.json,DoveBoy/Apps
 npm-completion_DoveBoy.json,DoveBoy/Apps
 quickclipboard-portable.json,DoveBoy/Apps
@@ -9654,7 +9655,7 @@ clash-for-flutter.json,DoveBoy/Apps
 pytranscriber.json,DoveBoy/Apps
 host-editor_DoveBoy.json,DoveBoy/Apps
 fluent-m3u8.json,DoveBoy/Apps
-jarkviewer.json,DoveBoy/Apps
+jarkviewer_DoveBoy.json,DoveBoy/Apps
 urlfinder.json,DoveBoy/Apps
 flyoobe.json,DoveBoy/Apps
 r3play.json,DoveBoy/Apps
@@ -11387,7 +11388,7 @@ jsoncomma.json,brian6932/dank-scoop
 cc-clean-launcher.json,brian6932/dank-scoop
 exiftool-pl.json,brian6932/dank-scoop
 mercury.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 python-debug.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 nyaa.json,brian6932/dank-scoop
