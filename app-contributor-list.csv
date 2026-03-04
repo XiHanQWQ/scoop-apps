@@ -1747,7 +1747,7 @@ wincrypt-sshagent.json,ScoopInstaller/Extras
 mednafen.json,ScoopInstaller/Extras
 hunt-and-peck.json,ScoopInstaller/Extras
 komorebi.json,ScoopInstaller/Extras
-sourcetree.json,ScoopInstaller/Extras
+sourcetree_ScoopInstaller.json,ScoopInstaller/Extras
 oripa.json,ScoopInstaller/Extras
 nuclear.json,ScoopInstaller/Extras
 pdraw32.json,ScoopInstaller/Extras
@@ -2611,7 +2611,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -4393,7 +4393,7 @@ openloco.json,Calinou/scoop-games
 openfortress.json,Calinou/scoop-games
 zdl.json,Calinou/scoop-games
 banjo-recompiled.json,Calinou/scoop-games
-starward.json,Calinou/scoop-games
+starward_Calinou.json,Calinou/scoop-games
 actools.json,Calinou/scoop-games
 sak.json,Calinou/scoop-games
 mcrcon.json,Calinou/scoop-games
@@ -5472,7 +5472,7 @@ vivaldi-snapshot.json,ScoopInstaller/Versions
 docker-nightly.json,ScoopInstaller/Versions
 goland-rc.json,ScoopInstaller/Versions
 spotdl-beta.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 nanazip-beta.json,ScoopInstaller/Versions
 php71-xdebug.json,ScoopInstaller/Versions
 php81-xdebug.json,ScoopInstaller/Versions
@@ -8602,7 +8602,7 @@ snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
 vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -9216,7 +9216,7 @@ chromium_akirco.json,akirco/aki-apps
 tup_akirco.json,akirco/aki-apps
 innounpacker_akirco.json,akirco/aki-apps
 vcredist2022_akirco.json,akirco/aki-apps
-cyberduck.json,akirco/aki-apps
+cyberduck_akirco.json,akirco/aki-apps
 vcredist2013_akirco.json,akirco/aki-apps
 potplayer_akirco.json,akirco/aki-apps
 fat32format_akirco.json,akirco/aki-apps
@@ -9344,7 +9344,6 @@ poppler_akirco.json,akirco/aki-apps
 nircmd_akirco.json,akirco/aki-apps
 monolith_akirco.json,akirco/aki-apps
 far_akirco.json,akirco/aki-apps
-bilibili-livehime.json,akirco/aki-apps
 pnpm_akirco.json,akirco/aki-apps
 yuanbao.json,akirco/aki-apps
 rufus_akirco.json,akirco/aki-apps
@@ -10228,7 +10227,6 @@ pandoc_DoveBoy.json,DoveBoy/Apps
 sing-box_DoveBoy.json,DoveBoy/Apps
 cloc_DoveBoy.json,DoveBoy/Apps
 reduce-memory_DoveBoy.json,DoveBoy/Apps
-bulk-crap-uninstaller_DoveBoy.json,DoveBoy/Apps
 easy-context-menu_DoveBoy.json,DoveBoy/Apps
 mediacreationtool-bat.json,DoveBoy/Apps
 apprhyme.json,DoveBoy/Apps
@@ -11043,6 +11041,7 @@ wavebox-portable.json,naderi/scoop-bucket
 fopnu.json,naderi/scoop-bucket
 winshell.json,naderi/scoop-bucket
 beekeeper-studio-portable.json,naderi/scoop-bucket
+duck_naderi.json,naderi/scoop-bucket
 font-source-sans.json,naderi/scoop-bucket
 git-graph_naderi.json,naderi/scoop-bucket
 firefox-nightly-de.json,naderi/scoop-bucket
@@ -11385,7 +11384,7 @@ jsoncomma.json,brian6932/dank-scoop
 cc-clean-launcher.json,brian6932/dank-scoop
 exiftool-pl.json,brian6932/dank-scoop
 mercury.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 python-debug.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 nyaa.json,brian6932/dank-scoop
@@ -14355,7 +14354,6 @@ VisualStudio2019Enterprise.json,BenjaminMichaelis/Config
 OSBasePackages.json,BenjaminMichaelis/Config
 dotnet_BenjaminMichaelis.json,BenjaminMichaelis/Config
 GitConfigBeyondCompare.json,BenjaminMichaelis/Config
-GitIntegrationWithBeyondCompare.json,BenjaminMichaelis/Config
 ClientBasePackages.json,BenjaminMichaelis/Config
 McAfeeUninstall.json,BenjaminMichaelis/Config
 AddBenjaminMichaelisScoopBucket.json,BenjaminMichaelis/Config
