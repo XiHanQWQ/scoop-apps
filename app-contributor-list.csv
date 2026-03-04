@@ -6269,7 +6269,7 @@ we-meet.json,scoopcn/scoopcn
 ade.json,scoopcn/scoopcn
 locaspace.json,scoopcn/scoopcn
 dingtalk-gov.json,scoopcn/scoopcn
-feishu_scoopcn.json,scoopcn/scoopcn
+feishu.json,scoopcn/scoopcn
 wxwork.json,scoopcn/scoopcn
 procexp.json,scoopcn/scoopcn
 wechat-devtools.json,scoopcn/scoopcn
@@ -8330,6 +8330,7 @@ BASIC256.json,dodorz/scoop
 Windows-Terminal_dodorz.json,dodorz/scoop
 nb.json,dodorz/scoop
 MusicLake.json,dodorz/scoop
+QoderWork.json,dodorz/scoop
 rktools2k3_dodorz.json,dodorz/scoop
 EmACT.json,dodorz/scoop
 UnstoppableCopier.json,dodorz/scoop
@@ -8605,7 +8606,7 @@ snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
 vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -9885,7 +9886,7 @@ clashmi-portable.json,DoveBoy/Apps
 hyper-beta.json,DoveBoy/Apps
 tinypng.json,DoveBoy/Apps
 telegram_DoveBoy.json,DoveBoy/Apps
-treesize_DoveBoy.json,DoveBoy/Apps
+treesize.json,DoveBoy/Apps
 mrrss_DoveBoy.json,DoveBoy/Apps
 jmcomic-downloader-portable.json,DoveBoy/Apps
 shadowsocksr-hmbsbige_DoveBoy.json,DoveBoy/Apps
@@ -11807,6 +11808,7 @@ mqtt-cli_aliesbelik.json,aliesbelik/poldi
 riff_aliesbelik.json,aliesbelik/poldi
 eget_aliesbelik.json,aliesbelik/poldi
 oha_aliesbelik.json,aliesbelik/poldi
+ttdl_aliesbelik.json,aliesbelik/poldi
 bombardier_aliesbelik.json,aliesbelik/poldi
 vegeta_aliesbelik.json,aliesbelik/poldi
 tf-summarize_aliesbelik.json,aliesbelik/poldi
@@ -12535,7 +12537,7 @@ firefox-policies.json,starise/Scoop-Confetti
 geekdesk.json,TianXiaTech/scoop-txt
 clash-for-windows-cn.json,TianXiaTech/scoop-txt
 clash-for-windows_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 imewlconverter_TianXiaTech.json,TianXiaTech/scoop-txt
 huya.json,TianXiaTech/scoop-txt
 blinko.json,TianXiaTech/scoop-txt
