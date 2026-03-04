@@ -7838,9 +7838,11 @@ AdguardHome_dodorz.json,dodorz/scoop
 gomi.json,dodorz/scoop
 NetView.json,dodorz/scoop
 MyHash_dodorz.json,dodorz/scoop
+diffnav.json,dodorz/scoop
 pkgx.json,dodorz/scoop
 VirtualDub_dodorz.json,dodorz/scoop
 jump.json,dodorz/scoop
+LazyTyper.json,dodorz/scoop
 ProcessCloser.json,dodorz/scoop
 NaotuMini.json,dodorz/scoop
 Story-writer.json,dodorz/scoop
@@ -8051,6 +8053,7 @@ ColorStormPro.json,dodorz/scoop
 jEdit.json,dodorz/scoop
 TeraCopy.json,dodorz/scoop
 MicroEmacs.json,dodorz/scoop
+IronClaw.json,dodorz/scoop
 iniTool.json,dodorz/scoop
 WizNoteLite.json,dodorz/scoop
 MiKTeX_dodorz.json,dodorz/scoop
@@ -8602,7 +8605,7 @@ snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
 vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -10392,7 +10395,7 @@ utools_wzv5.json,wzv5/ScoopBucket
 oleviewdotnet.json,wzv5/ScoopBucket
 besttrace_wzv5.json,wzv5/ScoopBucket
 nodejs-bin.json,wzv5/ScoopBucket
-lx-music-desktop.json,wzv5/ScoopBucket
+lx-music-desktop_wzv5.json,wzv5/ScoopBucket
 aliyundrive_wzv5.json,wzv5/ScoopBucket
 void_EFLKumo.json,EFLKumo/jam
 mpv-config.json,EFLKumo/jam
@@ -11852,7 +11855,7 @@ gomi.json,aliesbelik/poldi
 filebrowser_aliesbelik.json,aliesbelik/poldi
 vi-mongo.json,aliesbelik/poldi
 loggo.json,aliesbelik/poldi
-diffnav.json,aliesbelik/poldi
+diffnav_aliesbelik.json,aliesbelik/poldi
 trubka.json,aliesbelik/poldi
 dlm.json,aliesbelik/poldi
 qv.json,aliesbelik/poldi
@@ -13894,7 +13897,7 @@ zoxide_HUMORCE.json,HUMORCE/nuke
 steam-authenticator.json,HUMORCE/nuke
 autohotkey_HUMORCE.json,HUMORCE/nuke
 vmaf_HUMORCE.json,HUMORCE/nuke
-risoheditor.json,HUMORCE/nuke
+risoheditor_HUMORCE.json,HUMORCE/nuke
 android-clt_HUMORCE.json,HUMORCE/nuke
 massigra_HUMORCE.json,HUMORCE/nuke
 jc_HUMORCE.json,HUMORCE/nuke
