@@ -8585,7 +8585,7 @@ redream_hermanjustnu.json,hermanjustnu/scoop-emulators
 cemuhook.json,hermanjustnu/scoop-emulators
 desmume-stable.json,hermanjustnu/scoop-emulators
 dolphin-beta.json,hermanjustnu/scoop-emulators
-steam-rom-manager_hermanjustnu.json,hermanjustnu/scoop-emulators
+steam-rom-manager.json,hermanjustnu/scoop-emulators
 vice-gtk3.json,hermanjustnu/scoop-emulators
 snes9x-dev.json,hermanjustnu/scoop-emulators
 xenia-canary_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -9208,7 +9208,7 @@ highlight_akirco.json,akirco/aki-apps
 npm-completion.json,akirco/aki-apps
 windsurf_akirco.json,akirco/aki-apps
 netch_akirco.json,akirco/aki-apps
-flutter_akirco.json,akirco/aki-apps
+flutter.json,akirco/aki-apps
 rclone-browser_akirco.json,akirco/aki-apps
 notion_akirco.json,akirco/aki-apps
 oxipng_akirco.json,akirco/aki-apps
@@ -9365,7 +9365,7 @@ youtube-dl-gui_akirco.json,akirco/aki-apps
 feishu_akirco.json,akirco/aki-apps
 jabba_akirco.json,akirco/aki-apps
 unzip_akirco.json,akirco/aki-apps
-miniconda3_akirco.json,akirco/aki-apps
+miniconda3.json,akirco/aki-apps
 cowsay_akirco.json,akirco/aki-apps
 pastel_akirco.json,akirco/aki-apps
 upx_akirco.json,akirco/aki-apps
@@ -10281,7 +10281,7 @@ showkeyboard.json,DoveBoy/Apps
 purewriter.json,DoveBoy/Apps
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
 freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
@@ -12443,7 +12443,7 @@ proxify_iquiw.json,iquiw/scoop-bucket
 geekdesk.json,TianXiaTech/scoop-txt
 clash-for-windows-cn.json,TianXiaTech/scoop-txt
 clash-for-windows_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 imewlconverter_TianXiaTech.json,TianXiaTech/scoop-txt
 huya.json,TianXiaTech/scoop-txt
 blinko.json,TianXiaTech/scoop-txt
