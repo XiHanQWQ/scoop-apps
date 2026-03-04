@@ -2611,7 +2611,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -4169,7 +4169,7 @@ i4tools.json,Scoopforge/Extras-CN
 ainiee.json,Scoopforge/Extras-CN
 fishing-funds.json,Scoopforge/Extras-CN
 misakatranslator.json,Scoopforge/Extras-CN
-baidunetdisk.json,Scoopforge/Extras-CN
+baidunetdisk_Scoopforge.json,Scoopforge/Extras-CN
 feishu_Scoopforge.json,Scoopforge/Extras-CN
 edgeless.json,Scoopforge/Extras-CN
 douyin.json,Scoopforge/Extras-CN
@@ -12313,7 +12313,7 @@ reshade-addon.json,Small-Ku/turbo-bucket
 letta-code.json,Small-Ku/turbo-bucket
 orbolay.json,Small-Ku/turbo-bucket
 better-genshin-impact.json,Small-Ku/turbo-bucket
-gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
+gemini-cli.json,Small-Ku/turbo-bucket
 iflow-cli.json,Small-Ku/turbo-bucket
 clash-rs.json,Small-Ku/turbo-bucket
 atlassian-cli.json,Small-Ku/turbo-bucket
