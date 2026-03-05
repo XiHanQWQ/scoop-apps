@@ -1499,6 +1499,7 @@ exifcleaner.json,ScoopInstaller/Extras
 plex-mpv-shim.json,ScoopInstaller/Extras
 aimp.json,ScoopInstaller/Extras
 ytmdesktop.json,ScoopInstaller/Extras
+keynavish.json,ScoopInstaller/Extras
 simplenote.json,ScoopInstaller/Extras
 magicavoxel.json,ScoopInstaller/Extras
 exhyperv.json,ScoopInstaller/Extras
@@ -9274,7 +9275,7 @@ rainbow_akirco.json,akirco/aki-apps
 windows-application-driver_akirco.json,akirco/aki-apps
 registry-finder_akirco.json,akirco/aki-apps
 php_akirco.json,akirco/aki-apps
-cursor_akirco.json,akirco/aki-apps
+cursor.json,akirco/aki-apps
 musicfox.json,akirco/aki-apps
 gow_akirco.json,akirco/aki-apps
 dim.json,akirco/aki-apps
@@ -10284,7 +10285,7 @@ showkeyboard.json,DoveBoy/Apps
 purewriter.json,DoveBoy/Apps
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
 freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
@@ -10310,7 +10311,7 @@ Quicker_zhoujin7.json,zhoujin7/tomato
 wnr_zhoujin7.json,zhoujin7/tomato
 notepadplusplus_zhoujin7.json,zhoujin7/tomato
 PixBuilder.json,zhoujin7/tomato
-Q-Dir_zhoujin7.json,zhoujin7/tomato
+Q-Dir.json,zhoujin7/tomato
 CapsLockIndicator.json,zhoujin7/tomato
 arthas_zhoujin7.json,zhoujin7/tomato
 EmEditor_zhoujin7.json,zhoujin7/tomato
@@ -14990,7 +14991,6 @@ seanime-denshi.json,Rinkerbel/scooped
 steamtokendumper.json,Rinkerbel/scooped
 hayase.json,Rinkerbel/scooped
 goanime.json,Rinkerbel/scooped
-mangayomi.json,Rinkerbel/scooped
 tiny-rdm.json,windedge/ladle-bucket
 godsvg.json,windedge/ladle-bucket
 5ire_windedge.json,windedge/ladle-bucket
