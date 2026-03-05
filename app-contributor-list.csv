@@ -2295,6 +2295,7 @@ keepass.json,ScoopInstaller/Extras
 spek-x.json,ScoopInstaller/Extras
 streamwriter.json,ScoopInstaller/Extras
 task-coach.json,ScoopInstaller/Extras
+dyad.json,ScoopInstaller/Extras
 lunarvim.json,ScoopInstaller/Extras
 posh-git.json,ScoopInstaller/Extras
 dnspy_ScoopInstaller.json,ScoopInstaller/Extras
@@ -3217,6 +3218,7 @@ musicplayer2.json,ScoopInstaller/Extras
 antimicro.json,ScoopInstaller/Extras
 cartero.json,ScoopInstaller/Extras
 lamexp.json,ScoopInstaller/Extras
+smoothcsv.json,ScoopInstaller/Extras
 jpass.json,ScoopInstaller/Extras
 telegram-downloader_ScoopInstaller.json,ScoopInstaller/Extras
 dxwnd.json,ScoopInstaller/Extras
@@ -4119,6 +4121,7 @@ frhelper.json,Scoopforge/Extras-CN
 ting-de.json,Scoopforge/Extras-CN
 dehelper.json,Scoopforge/Extras-CN
 partition-assistant.json,Scoopforge/Extras-CN
+bilitools.json,Scoopforge/Extras-CN
 evcapture.json,Scoopforge/Extras-CN
 ffmpegfreeui.json,Scoopforge/Extras-CN
 qt-creator-cn.json,Scoopforge/Extras-CN
@@ -8767,7 +8770,7 @@ dolphin-dev_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
-eden.json,borger/scoop-emulators
+eden_borger.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
 spaghettikart.json,borger/scoop-emulators
@@ -9331,7 +9334,7 @@ empty-recycle-bin_akirco.json,akirco/aki-apps
 everything_akirco.json,akirco/aki-apps
 figma_akirco.json,akirco/aki-apps
 dingtalk_akirco.json,akirco/aki-apps
-dyad.json,akirco/aki-apps
+dyad_akirco.json,akirco/aki-apps
 bcut.json,akirco/aki-apps
 nali_akirco.json,akirco/aki-apps
 handbrake-cli_akirco.json,akirco/aki-apps
@@ -11046,7 +11049,6 @@ wavebox-portable.json,naderi/scoop-bucket
 fopnu.json,naderi/scoop-bucket
 winshell.json,naderi/scoop-bucket
 beekeeper-studio-portable.json,naderi/scoop-bucket
-duck_naderi.json,naderi/scoop-bucket
 font-source-sans.json,naderi/scoop-bucket
 git-graph_naderi.json,naderi/scoop-bucket
 firefox-nightly-de.json,naderi/scoop-bucket
@@ -11959,7 +11961,7 @@ envfetch.json,aliesbelik/poldi
 helmify.json,aliesbelik/poldi
 jlv.json,aliesbelik/poldi
 klog.json,aliesbelik/poldi
-g.json,aliesbelik/poldi
+g_aliesbelik.json,aliesbelik/poldi
 mado.json,aliesbelik/poldi
 pict.json,aliesbelik/poldi
 jj_aliesbelik.json,aliesbelik/poldi
@@ -12149,7 +12151,7 @@ reshade-addon.json,Small-Ku/turbo-bucket
 letta-code.json,Small-Ku/turbo-bucket
 orbolay.json,Small-Ku/turbo-bucket
 better-genshin-impact.json,Small-Ku/turbo-bucket
-gemini-cli.json,Small-Ku/turbo-bucket
+gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
 iflow-cli.json,Small-Ku/turbo-bucket
 clash-rs.json,Small-Ku/turbo-bucket
 atlassian-cli.json,Small-Ku/turbo-bucket
@@ -12292,7 +12294,7 @@ dolt_batkiz.json,batkiz/backit
 gojq_batkiz.json,batkiz/backit
 obs-cli.json,batkiz/backit
 lite_batkiz.json,batkiz/backit
-g.json,batkiz/backit
+g_batkiz.json,batkiz/backit
 uni.json,batkiz/backit
 git-stack.json,batkiz/backit
 jj_batkiz.json,batkiz/backit
@@ -12443,7 +12445,7 @@ proxify_iquiw.json,iquiw/scoop-bucket
 geekdesk.json,TianXiaTech/scoop-txt
 clash-for-windows-cn.json,TianXiaTech/scoop-txt
 clash-for-windows_TianXiaTech.json,TianXiaTech/scoop-txt
-youku_TianXiaTech.json,TianXiaTech/scoop-txt
+youku.json,TianXiaTech/scoop-txt
 imewlconverter_TianXiaTech.json,TianXiaTech/scoop-txt
 huya.json,TianXiaTech/scoop-txt
 blinko.json,TianXiaTech/scoop-txt
@@ -14644,7 +14646,7 @@ xanmod-WSL2-addons-lts-x64v2.json,Locietta/sniffer
 xanmod-WSL2-lts-skylake.json,Locietta/sniffer
 eqapo-np.json,Locietta/sniffer
 zju-connect-for-win.json,Locietta/sniffer
-hmcl_Locietta.json,Locietta/sniffer
+hmcl.json,Locietta/sniffer
 xanmod-WSL2-lts-zen3.json,Locietta/sniffer
 xanmod-WSL2-addons-skylake.json,Locietta/sniffer
 xanmod-WSL2-addons-zen3.json,Locietta/sniffer
