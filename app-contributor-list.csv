@@ -1210,7 +1210,7 @@ rclone-ui.json,ScoopInstaller/Extras
 opera-gx.json,ScoopInstaller/Extras
 streamlabs-chatbot.json,ScoopInstaller/Extras
 droidcam.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 altbacktick.json,ScoopInstaller/Extras
 owncloud.json,ScoopInstaller/Extras
 foto-mosaik-edda.json,ScoopInstaller/Extras
@@ -2611,7 +2611,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -9584,7 +9584,6 @@ bilibili-backup_DoveBoy.json,DoveBoy/Apps
 ofgb.json,DoveBoy/Apps
 clink-completions_DoveBoy.json,DoveBoy/Apps
 qkeymapper-qt6.json,DoveBoy/Apps
-electerm_DoveBoy.json,DoveBoy/Apps
 alisthelper-portable.json,DoveBoy/Apps
 clink_DoveBoy.json,DoveBoy/Apps
 ruffle.json,DoveBoy/Apps
@@ -9613,7 +9612,7 @@ czkawka_DoveBoy.json,DoveBoy/Apps
 hiddify-next.json,DoveBoy/Apps
 pwsh-beta_DoveBoy.json,DoveBoy/Apps
 crystaldiskinfo-shizuku-edition_DoveBoy.json,DoveBoy/Apps
-libreoffice.json,DoveBoy/Apps
+libreoffice_DoveBoy.json,DoveBoy/Apps
 mitmproxy_DoveBoy.json,DoveBoy/Apps
 wiliwili_DoveBoy.json,DoveBoy/Apps
 energystar.json,DoveBoy/Apps
@@ -9888,7 +9887,7 @@ clashmi-portable.json,DoveBoy/Apps
 hyper-beta.json,DoveBoy/Apps
 tinypng.json,DoveBoy/Apps
 telegram_DoveBoy.json,DoveBoy/Apps
-treesize.json,DoveBoy/Apps
+treesize_DoveBoy.json,DoveBoy/Apps
 mrrss_DoveBoy.json,DoveBoy/Apps
 jmcomic-downloader-portable.json,DoveBoy/Apps
 shadowsocksr-hmbsbige_DoveBoy.json,DoveBoy/Apps
@@ -9953,7 +9952,7 @@ ariang-native_DoveBoy.json,DoveBoy/Apps
 kobi.json,DoveBoy/Apps
 mootool_DoveBoy.json,DoveBoy/Apps
 nping.json,DoveBoy/Apps
-obs-studio-pre.json,DoveBoy/Apps
+obs-studio-pre_DoveBoy.json,DoveBoy/Apps
 cloudflared_DoveBoy.json,DoveBoy/Apps
 oneanime.json,DoveBoy/Apps
 trafficmonitor-lite_DoveBoy.json,DoveBoy/Apps
@@ -10652,7 +10651,7 @@ nvidia-profile-inspector-revamped.json,hu3rror/scoop-muggle
 icns.json,hu3rror/scoop-muggle
 163MusicLyrics-lite-6.5.json,hu3rror/scoop-muggle
 ACNH-design-pattern-editor.json,hu3rror/scoop-muggle
-witsy_hu3rror.json,hu3rror/scoop-muggle
+witsy.json,hu3rror/scoop-muggle
 wonderpen_hu3rror.json,hu3rror/scoop-muggle
 deemix-portable.json,hu3rror/scoop-muggle
 FFRename-pro.json,hu3rror/scoop-muggle
@@ -11355,6 +11354,7 @@ DexiosGUI.json,brian6932/dank-scoop
 timr-tui.json,brian6932/dank-scoop
 no-steam-webhelper.json,brian6932/dank-scoop
 winbtrfs.json,brian6932/dank-scoop
+rquickshare.json,brian6932/dank-scoop
 personal-scripts.json,brian6932/dank-scoop
 waifu2x-snowshell-lean.json,brian6932/dank-scoop
 ConvertFrom-SourceTable.json,brian6932/dank-scoop
@@ -11810,7 +11810,6 @@ mqtt-cli_aliesbelik.json,aliesbelik/poldi
 riff_aliesbelik.json,aliesbelik/poldi
 eget_aliesbelik.json,aliesbelik/poldi
 oha_aliesbelik.json,aliesbelik/poldi
-ttdl_aliesbelik.json,aliesbelik/poldi
 bombardier_aliesbelik.json,aliesbelik/poldi
 vegeta_aliesbelik.json,aliesbelik/poldi
 tf-summarize_aliesbelik.json,aliesbelik/poldi
@@ -12444,7 +12443,7 @@ proxify_iquiw.json,iquiw/scoop-bucket
 geekdesk.json,TianXiaTech/scoop-txt
 clash-for-windows-cn.json,TianXiaTech/scoop-txt
 clash-for-windows_TianXiaTech.json,TianXiaTech/scoop-txt
-youku.json,TianXiaTech/scoop-txt
+youku_TianXiaTech.json,TianXiaTech/scoop-txt
 imewlconverter_TianXiaTech.json,TianXiaTech/scoop-txt
 huya.json,TianXiaTech/scoop-txt
 blinko.json,TianXiaTech/scoop-txt
