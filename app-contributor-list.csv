@@ -5473,7 +5473,7 @@ vivaldi-snapshot.json,ScoopInstaller/Versions
 docker-nightly.json,ScoopInstaller/Versions
 goland-rc.json,ScoopInstaller/Versions
 spotdl-beta.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 nanazip-beta.json,ScoopInstaller/Versions
 php71-xdebug.json,ScoopInstaller/Versions
 php81-xdebug.json,ScoopInstaller/Versions
@@ -9881,7 +9881,7 @@ vget.json,DoveBoy/Apps
 text-grab_DoveBoy.json,DoveBoy/Apps
 freecontrol.json,DoveBoy/Apps
 v2ray_DoveBoy.json,DoveBoy/Apps
-rustdesk_DoveBoy.json,DoveBoy/Apps
+rustdesk.json,DoveBoy/Apps
 logi-options-plus-mini.json,DoveBoy/Apps
 clashmi-portable.json,DoveBoy/Apps
 hyper-beta.json,DoveBoy/Apps
