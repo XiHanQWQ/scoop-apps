@@ -10040,6 +10040,7 @@ speedtest-go_DoveBoy.json,DoveBoy/Apps
 etcher-portable.json,DoveBoy/Apps
 lanzou-gui.json,DoveBoy/Apps
 bat_DoveBoy.json,DoveBoy/Apps
+surge.json,DoveBoy/Apps
 starship_DoveBoy.json,DoveBoy/Apps
 wechatrealfriends.json,DoveBoy/Apps
 vim_DoveBoy.json,DoveBoy/Apps
@@ -10237,7 +10238,6 @@ pandoc_DoveBoy.json,DoveBoy/Apps
 sing-box_DoveBoy.json,DoveBoy/Apps
 cloc_DoveBoy.json,DoveBoy/Apps
 reduce-memory_DoveBoy.json,DoveBoy/Apps
-bulk-crap-uninstaller_DoveBoy.json,DoveBoy/Apps
 easy-context-menu_DoveBoy.json,DoveBoy/Apps
 mediacreationtool-bat.json,DoveBoy/Apps
 apprhyme.json,DoveBoy/Apps
