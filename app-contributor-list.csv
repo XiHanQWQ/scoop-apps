@@ -10141,6 +10141,7 @@ idm.json,DoveBoy/Apps
 fx_DoveBoy.json,DoveBoy/Apps
 sshwifty.json,DoveBoy/Apps
 clink-flex-prompt_DoveBoy.json,DoveBoy/Apps
+mobaxterm.json,DoveBoy/Apps
 littletips-portable.json,DoveBoy/Apps
 whynotwin11_DoveBoy.json,DoveBoy/Apps
 tiktokdownloader.json,DoveBoy/Apps
@@ -10667,7 +10668,7 @@ posh-cd.json,amorphobia/siku
 scoop-hook.json,amorphobia/siku
 clash-for-windows_amorphobia.json,amorphobia/siku
 idm-trial-reset.json,amorphobia/siku
-filebrowser_amorphobia.json,amorphobia/siku
+filebrowser.json,amorphobia/siku
 bind-lean.json,amorphobia/siku
 ipatool_amorphobia.json,amorphobia/siku
 webdav.json,amorphobia/siku
@@ -12854,7 +12855,7 @@ veracrypt-np.json,aoisummer/scoop-bucket
 dandanplay_aoisummer.json,aoisummer/scoop-bucket
 tracetcp.json,aoisummer/scoop-bucket
 poi.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn.json,aoisummer/scoop-bucket
 firefox-esr-115-zh-cn.json,aoisummer/scoop-bucket
 pcap-dnsproxy.json,aoisummer/scoop-bucket
 vlmcsd.json,aoisummer/scoop-bucket
