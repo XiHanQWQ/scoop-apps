@@ -4195,6 +4195,7 @@ cajviewer_Scoopforge.json,Scoopforge/Extras-CN
 regester.json,Scoopforge/Extras-CN
 neteasemusic_Scoopforge.json,Scoopforge/Extras-CN
 julia-cn.json,Scoopforge/Extras-CN
+quicker.json,Scoopforge/Extras-CN
 utools_Scoopforge.json,Scoopforge/Extras-CN
 obs-studio-cn.json,Scoopforge/Extras-CN
 cnkiexpress.json,Scoopforge/Extras-CN
@@ -7710,7 +7711,7 @@ Undelete360.json,dodorz/scoop
 DoxygenGUI.json,dodorz/scoop
 Jarte.json,dodorz/scoop
 pho.json,dodorz/scoop
-Quicker.json,dodorz/scoop
+Quicker_dodorz.json,dodorz/scoop
 pdf2htmlEX.json,dodorz/scoop
 FreePic2Pdf.json,dodorz/scoop
 gofx.json,dodorz/scoop
@@ -8920,7 +8921,7 @@ pyxis.json,ViCrack/scoop-bucket
 easy-context-menu_ViCrack.json,ViCrack/scoop-bucket
 xpoc_ViCrack.json,ViCrack/scoop-bucket
 cyberapi.json,ViCrack/scoop-bucket
-yakit_ViCrack.json,ViCrack/scoop-bucket
+yakit.json,ViCrack/scoop-bucket
 subfinder_ViCrack.json,ViCrack/scoop-bucket
 mdut_ViCrack.json,ViCrack/scoop-bucket
 rubick.json,ViCrack/scoop-bucket
@@ -9624,7 +9625,7 @@ energystar.json,DoveBoy/Apps
 openbbterminal-pre.json,DoveBoy/Apps
 unigetui_DoveBoy.json,DoveBoy/Apps
 n_m3u8dl-re.json,DoveBoy/Apps
-neteaseuu_DoveBoy.json,DoveBoy/Apps
+neteaseuu.json,DoveBoy/Apps
 xhs-downloader.json,DoveBoy/Apps
 walk_DoveBoy.json,DoveBoy/Apps
 daisy.json,DoveBoy/Apps
