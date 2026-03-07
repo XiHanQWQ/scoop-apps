@@ -9910,7 +9910,7 @@ hyper-beta.json,DoveBoy/Apps
 tinypng.json,DoveBoy/Apps
 telegram_DoveBoy.json,DoveBoy/Apps
 treesize_DoveBoy.json,DoveBoy/Apps
-mrrss_DoveBoy.json,DoveBoy/Apps
+mrrss.json,DoveBoy/Apps
 jmcomic-downloader-portable.json,DoveBoy/Apps
 shadowsocksr-hmbsbige_DoveBoy.json,DoveBoy/Apps
 bilibilitoolpro.json,DoveBoy/Apps
@@ -11398,7 +11398,7 @@ jsoncomma.json,brian6932/dank-scoop
 cc-clean-launcher.json,brian6932/dank-scoop
 exiftool-pl.json,brian6932/dank-scoop
 mercury.json,brian6932/dank-scoop
-mpv-git_brian6932.json,brian6932/dank-scoop
+mpv-git.json,brian6932/dank-scoop
 python-debug.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 nyaa.json,brian6932/dank-scoop
@@ -11575,6 +11575,7 @@ powertoys_WinApps-share.json,WinApps-share/WinApps-bucket
 weasel_WinApps-share.json,WinApps-share/WinApps-bucket
 ab-download-manager-np.json,WinApps-share/WinApps-bucket
 xterminal_WinApps-share.json,WinApps-share/WinApps-bucket
+everything-np_WinApps-share.json,WinApps-share/WinApps-bucket
 fastcopy_WinApps-share.json,WinApps-share/WinApps-bucket
 hddog.json,WinApps-share/WinApps-bucket
 draw.io_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -11878,6 +11879,7 @@ mqtt-cli_aliesbelik.json,aliesbelik/poldi
 riff_aliesbelik.json,aliesbelik/poldi
 eget_aliesbelik.json,aliesbelik/poldi
 oha_aliesbelik.json,aliesbelik/poldi
+ttdl_aliesbelik.json,aliesbelik/poldi
 bombardier_aliesbelik.json,aliesbelik/poldi
 vegeta_aliesbelik.json,aliesbelik/poldi
 tf-summarize_aliesbelik.json,aliesbelik/poldi
