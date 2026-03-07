@@ -2613,7 +2613,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -5478,7 +5478,7 @@ vivaldi-snapshot.json,ScoopInstaller/Versions
 docker-nightly.json,ScoopInstaller/Versions
 goland-rc.json,ScoopInstaller/Versions
 spotdl-beta.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 nanazip-beta.json,ScoopInstaller/Versions
 php71-xdebug.json,ScoopInstaller/Versions
 php81-xdebug.json,ScoopInstaller/Versions
@@ -6375,7 +6375,7 @@ innosetup-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 rom-properties-np.json,ScoopInstaller/Nonportable
 parsec-np.json,ScoopInstaller/Nonportable
 10x-np.json,ScoopInstaller/Nonportable
-lav-filters-megamix-np_ScoopInstaller.json,ScoopInstaller/Nonportable
+lav-filters-megamix-np.json,ScoopInstaller/Nonportable
 tunnelbear-np.json,ScoopInstaller/Nonportable
 vmware-workstation-player-np.json,ScoopInstaller/Nonportable
 notepadplusplus-np_ScoopInstaller.json,ScoopInstaller/Nonportable
@@ -9444,7 +9444,6 @@ youtube-dl-wpf.json,akirco/aki-apps
 memo.json,akirco/aki-apps
 lwc_akirco.json,akirco/aki-apps
 dart_akirco.json,akirco/aki-apps
-go-cn.json,akirco/aki-apps
 trae-cn_akirco.json,akirco/aki-apps
 aya.json,akirco/aki-apps
 scoop-completion_akirco.json,akirco/aki-apps
@@ -10141,7 +10140,6 @@ idm.json,DoveBoy/Apps
 fx_DoveBoy.json,DoveBoy/Apps
 sshwifty.json,DoveBoy/Apps
 clink-flex-prompt_DoveBoy.json,DoveBoy/Apps
-mobaxterm.json,DoveBoy/Apps
 littletips-portable.json,DoveBoy/Apps
 whynotwin11_DoveBoy.json,DoveBoy/Apps
 tiktokdownloader.json,DoveBoy/Apps
@@ -10668,7 +10666,7 @@ posh-cd.json,amorphobia/siku
 scoop-hook.json,amorphobia/siku
 clash-for-windows_amorphobia.json,amorphobia/siku
 idm-trial-reset.json,amorphobia/siku
-filebrowser.json,amorphobia/siku
+filebrowser_amorphobia.json,amorphobia/siku
 bind-lean.json,amorphobia/siku
 ipatool_amorphobia.json,amorphobia/siku
 webdav.json,amorphobia/siku
@@ -11400,7 +11398,7 @@ jsoncomma.json,brian6932/dank-scoop
 cc-clean-launcher.json,brian6932/dank-scoop
 exiftool-pl.json,brian6932/dank-scoop
 mercury.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 python-debug.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 nyaa.json,brian6932/dank-scoop
@@ -12855,7 +12853,7 @@ veracrypt-np.json,aoisummer/scoop-bucket
 dandanplay_aoisummer.json,aoisummer/scoop-bucket
 tracetcp.json,aoisummer/scoop-bucket
 poi.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 firefox-esr-115-zh-cn.json,aoisummer/scoop-bucket
 pcap-dnsproxy.json,aoisummer/scoop-bucket
 vlmcsd.json,aoisummer/scoop-bucket
@@ -14451,6 +14449,7 @@ geosetter-aoks.json,AntonOks/scoop-aoks
 alias-additions-aoks.json,AntonOks/scoop-aoks
 jc-aoks.json,AntonOks/scoop-aoks
 nfpm-aoks.json,AntonOks/scoop-aoks
+clamav-aoks.json,AntonOks/scoop-aoks
 fselect-aoks.json,AntonOks/scoop-aoks
 sandboxie-plus-aoks.json,AntonOks/scoop-aoks
 skopeo-aoks.json,AntonOks/scoop-aoks
