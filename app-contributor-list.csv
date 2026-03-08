@@ -3363,7 +3363,7 @@ datagrip.json,ScoopInstaller/Extras
 tlaplus-toolbox.json,ScoopInstaller/Extras
 smartsynchronize.json,ScoopInstaller/Extras
 camstudio.json,ScoopInstaller/Extras
-vscode.json,ScoopInstaller/Extras
+vscode_ScoopInstaller.json,ScoopInstaller/Extras
 clash-verge-rev.json,ScoopInstaller/Extras
 taskbarx.json,ScoopInstaller/Extras
 harmony.json,ScoopInstaller/Extras
@@ -5478,7 +5478,7 @@ vivaldi-snapshot.json,ScoopInstaller/Versions
 docker-nightly.json,ScoopInstaller/Versions
 goland-rc.json,ScoopInstaller/Versions
 spotdl-beta.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 nanazip-beta.json,ScoopInstaller/Versions
 php71-xdebug.json,ScoopInstaller/Versions
 php81-xdebug.json,ScoopInstaller/Versions
@@ -8032,7 +8032,7 @@ iTunesEncode.json,dodorz/scoop
 Cardo.json,dodorz/scoop
 ProxyeeDown.json,dodorz/scoop
 Brief.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 shell2http.json,dodorz/scoop
 yWriter.json,dodorz/scoop
 miniflux.json,dodorz/scoop
@@ -9654,7 +9654,7 @@ vutronmusic.json,DoveBoy/Apps
 fanqie-novel-downloader.json,DoveBoy/Apps
 xx-net_DoveBoy.json,DoveBoy/Apps
 mingw_DoveBoy.json,DoveBoy/Apps
-joplin-pre.json,DoveBoy/Apps
+joplin-pre_DoveBoy.json,DoveBoy/Apps
 nekoray_DoveBoy.json,DoveBoy/Apps
 npm-completion_DoveBoy.json,DoveBoy/Apps
 quickclipboard-portable.json,DoveBoy/Apps
@@ -12108,11 +12108,9 @@ asimov-telegram-module.json,asimov-platform/scoop-bucket
 asimov-jq-module.json,asimov-platform/scoop-bucket
 asimov-gemini-module.json,asimov-platform/scoop-bucket
 asimov-anthropic-module.json,asimov-platform/scoop-bucket
-asimov-snapshot-cli.json,asimov-platform/scoop-bucket
 asimov-mlx-module.json,asimov-platform/scoop-bucket
 asimov-camera-module.json,asimov-platform/scoop-bucket
 asimov-image-module.json,asimov-platform/scoop-bucket
-asimov-module-cli.json,asimov-platform/scoop-bucket
 asimov-ipfs-module.json,asimov-platform/scoop-bucket
 asimov-openai-module.json,asimov-platform/scoop-bucket
 asimov-valkey-module.json,asimov-platform/scoop-bucket
@@ -12764,6 +12762,7 @@ cvr-melonassistant.json,babo4d/scoop-xrtools
 kinecttovr.json,babo4d/scoop-xrtools
 n64recomp-launcher.json,babo4d/scoop-xrtools
 openra-combined-arms.json,babo4d/scoop-xrtools
+vrcnext.json,babo4d/scoop-xrtools
 openvr-walk-in-place.json,babo4d/scoop-xrtools
 cncnet-dta.json,babo4d/scoop-xrtools
 hyper-dbz.json,babo4d/scoop-xrtools
@@ -12774,6 +12773,7 @@ slimevr-wrangler.json,babo4d/scoop-xrtools
 intiface-central.json,babo4d/scoop-xrtools
 ikemen-go.json,babo4d/scoop-xrtools
 beatsaber-modassistant.json,babo4d/scoop-xrtools
+vrcvideocacher.json,babo4d/scoop-xrtools
 openra-sole-survivor.json,babo4d/scoop-xrtools
 vbjin-ovr.json,babo4d/scoop-xrtools
 scp-containment-breach.json,babo4d/scoop-xrtools
@@ -15030,7 +15030,7 @@ mkeditor.json,windedge/ladle-bucket
 nekoray2.json,windedge/ladle-bucket
 llama-cpp-ipex-llm-npu.json,windedge/ladle-bucket
 llama-cpp-ipex-llm.json,windedge/ladle-bucket
-mdview_windedge.json,windedge/ladle-bucket
+mdview.json,windedge/ladle-bucket
 godot3_windedge.json,windedge/ladle-bucket
 enve.json,windedge/ladle-bucket
 friction.json,windedge/ladle-bucket
