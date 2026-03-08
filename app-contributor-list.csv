@@ -5478,7 +5478,7 @@ vivaldi-snapshot.json,ScoopInstaller/Versions
 docker-nightly.json,ScoopInstaller/Versions
 goland-rc.json,ScoopInstaller/Versions
 spotdl-beta.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 nanazip-beta.json,ScoopInstaller/Versions
 php71-xdebug.json,ScoopInstaller/Versions
 php81-xdebug.json,ScoopInstaller/Versions
@@ -9201,7 +9201,7 @@ scoop-search_akirco.json,akirco/aki-apps
 mysql_akirco.json,akirco/aki-apps
 mtn_akirco.json,akirco/aki-apps
 listen1desktop_akirco.json,akirco/aki-apps
-electerm_akirco.json,akirco/aki-apps
+electerm.json,akirco/aki-apps
 nginx_akirco.json,akirco/aki-apps
 prince_akirco.json,akirco/aki-apps
 wechat-work.json,akirco/aki-apps
@@ -9606,6 +9606,7 @@ bilibili-backup_DoveBoy.json,DoveBoy/Apps
 ofgb.json,DoveBoy/Apps
 clink-completions_DoveBoy.json,DoveBoy/Apps
 qkeymapper-qt6.json,DoveBoy/Apps
+electerm_DoveBoy.json,DoveBoy/Apps
 alisthelper-portable.json,DoveBoy/Apps
 clink_DoveBoy.json,DoveBoy/Apps
 ruffle.json,DoveBoy/Apps
@@ -10111,7 +10112,7 @@ godmode.json,DoveBoy/Apps
 mpv-git_DoveBoy.json,DoveBoy/Apps
 jmcomic-downloader.json,DoveBoy/Apps
 regjump_DoveBoy.json,DoveBoy/Apps
-game-cheats-manager_DoveBoy.json,DoveBoy/Apps
+game-cheats-manager.json,DoveBoy/Apps
 wax.json,DoveBoy/Apps
 brackets_DoveBoy.json,DoveBoy/Apps
 backup-start-menu-layout_DoveBoy.json,DoveBoy/Apps
