@@ -1210,7 +1210,7 @@ rclone-ui.json,ScoopInstaller/Extras
 opera-gx.json,ScoopInstaller/Extras
 streamlabs-chatbot.json,ScoopInstaller/Extras
 droidcam.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 altbacktick.json,ScoopInstaller/Extras
 owncloud.json,ScoopInstaller/Extras
 foto-mosaik-edda.json,ScoopInstaller/Extras
@@ -3130,6 +3130,7 @@ amber.json,ScoopInstaller/Extras
 scoop-completion.json,ScoopInstaller/Extras
 wavosaur.json,ScoopInstaller/Extras
 portfolio-performance.json,ScoopInstaller/Extras
+fred-tv.json,ScoopInstaller/Extras
 simple-assembly-explorer.json,ScoopInstaller/Extras
 nvui.json,ScoopInstaller/Extras
 tor-browser.json,ScoopInstaller/Extras
@@ -8576,7 +8577,7 @@ atariplusplus.json,hermanjustnu/scoop-emulators
 rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
-mgba-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+mgba-dev.json,hermanjustnu/scoop-emulators
 flycast_hermanjustnu.json,hermanjustnu/scoop-emulators
 mgba_hermanjustnu.json,hermanjustnu/scoop-emulators
 mame_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -9201,7 +9202,7 @@ scoop-search_akirco.json,akirco/aki-apps
 mysql_akirco.json,akirco/aki-apps
 mtn_akirco.json,akirco/aki-apps
 listen1desktop_akirco.json,akirco/aki-apps
-electerm.json,akirco/aki-apps
+electerm_akirco.json,akirco/aki-apps
 nginx_akirco.json,akirco/aki-apps
 prince_akirco.json,akirco/aki-apps
 wechat-work.json,akirco/aki-apps
@@ -9606,7 +9607,6 @@ bilibili-backup_DoveBoy.json,DoveBoy/Apps
 ofgb.json,DoveBoy/Apps
 clink-completions_DoveBoy.json,DoveBoy/Apps
 qkeymapper-qt6.json,DoveBoy/Apps
-electerm_DoveBoy.json,DoveBoy/Apps
 alisthelper-portable.json,DoveBoy/Apps
 clink_DoveBoy.json,DoveBoy/Apps
 ruffle.json,DoveBoy/Apps
@@ -9924,7 +9924,7 @@ waifu2x-ncnn-vulkan_DoveBoy.json,DoveBoy/Apps
 fancontrol-net10.0-portable.json,DoveBoy/Apps
 mootool-portable.json,DoveBoy/Apps
 termscp_DoveBoy.json,DoveBoy/Apps
-gui-for-singbox_DoveBoy.json,DoveBoy/Apps
+gui-for-singbox.json,DoveBoy/Apps
 ani.json,DoveBoy/Apps
 memreduct_DoveBoy.json,DoveBoy/Apps
 aria2manager.json,DoveBoy/Apps
@@ -10069,7 +10069,7 @@ unigetui-beta.json,DoveBoy/Apps
 nvm-tab-completion.json,DoveBoy/Apps
 qq-nt_DoveBoy.json,DoveBoy/Apps
 chatbox_DoveBoy.json,DoveBoy/Apps
-draw.io_DoveBoy.json,DoveBoy/Apps
+draw.io.json,DoveBoy/Apps
 readest_DoveBoy.json,DoveBoy/Apps
 ipinfo.json,DoveBoy/Apps
 gopeed-web.json,DoveBoy/Apps
@@ -15030,7 +15030,7 @@ mkeditor.json,windedge/ladle-bucket
 nekoray2.json,windedge/ladle-bucket
 llama-cpp-ipex-llm-npu.json,windedge/ladle-bucket
 llama-cpp-ipex-llm.json,windedge/ladle-bucket
-mdview.json,windedge/ladle-bucket
+mdview_windedge.json,windedge/ladle-bucket
 godot3_windedge.json,windedge/ladle-bucket
 enve.json,windedge/ladle-bucket
 friction.json,windedge/ladle-bucket
