@@ -10112,7 +10112,7 @@ godmode.json,DoveBoy/Apps
 mpv-git_DoveBoy.json,DoveBoy/Apps
 jmcomic-downloader.json,DoveBoy/Apps
 regjump_DoveBoy.json,DoveBoy/Apps
-game-cheats-manager.json,DoveBoy/Apps
+game-cheats-manager_DoveBoy.json,DoveBoy/Apps
 wax.json,DoveBoy/Apps
 brackets_DoveBoy.json,DoveBoy/Apps
 backup-start-menu-layout_DoveBoy.json,DoveBoy/Apps
@@ -11820,6 +11820,7 @@ mqtt-cli_aliesbelik.json,aliesbelik/poldi
 riff_aliesbelik.json,aliesbelik/poldi
 eget_aliesbelik.json,aliesbelik/poldi
 oha_aliesbelik.json,aliesbelik/poldi
+ttdl_aliesbelik.json,aliesbelik/poldi
 bombardier_aliesbelik.json,aliesbelik/poldi
 vegeta_aliesbelik.json,aliesbelik/poldi
 tf-summarize_aliesbelik.json,aliesbelik/poldi
