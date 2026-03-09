@@ -1210,7 +1210,7 @@ rclone-ui.json,ScoopInstaller/Extras
 opera-gx.json,ScoopInstaller/Extras
 streamlabs-chatbot.json,ScoopInstaller/Extras
 droidcam.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 altbacktick.json,ScoopInstaller/Extras
 owncloud.json,ScoopInstaller/Extras
 foto-mosaik-edda.json,ScoopInstaller/Extras
@@ -8033,7 +8033,7 @@ iTunesEncode.json,dodorz/scoop
 Cardo.json,dodorz/scoop
 ProxyeeDown.json,dodorz/scoop
 Brief.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 shell2http.json,dodorz/scoop
 yWriter.json,dodorz/scoop
 miniflux.json,dodorz/scoop
@@ -11820,7 +11820,6 @@ mqtt-cli_aliesbelik.json,aliesbelik/poldi
 riff_aliesbelik.json,aliesbelik/poldi
 eget_aliesbelik.json,aliesbelik/poldi
 oha_aliesbelik.json,aliesbelik/poldi
-ttdl_aliesbelik.json,aliesbelik/poldi
 bombardier_aliesbelik.json,aliesbelik/poldi
 vegeta_aliesbelik.json,aliesbelik/poldi
 tf-summarize_aliesbelik.json,aliesbelik/poldi
@@ -12716,7 +12715,7 @@ vibe.json,Scoopforge/Extras-Plus
 netlogo.json,Scoopforge/Extras-Plus
 linkandroid_Scoopforge.json,Scoopforge/Extras-Plus
 tropy.json,Scoopforge/Extras-Plus
-scihubeva.json,Scoopforge/Extras-Plus
+scihubeva_Scoopforge.json,Scoopforge/Extras-Plus
 veracrypt.json,Scoopforge/Extras-Plus
 next-ai-drawio.json,Scoopforge/Extras-Plus
 filecentipede.json,Scoopforge/Extras-Plus
