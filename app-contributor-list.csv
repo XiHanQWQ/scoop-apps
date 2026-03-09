@@ -3364,7 +3364,7 @@ datagrip.json,ScoopInstaller/Extras
 tlaplus-toolbox.json,ScoopInstaller/Extras
 smartsynchronize.json,ScoopInstaller/Extras
 camstudio.json,ScoopInstaller/Extras
-vscode_ScoopInstaller.json,ScoopInstaller/Extras
+vscode.json,ScoopInstaller/Extras
 clash-verge-rev.json,ScoopInstaller/Extras
 taskbarx.json,ScoopInstaller/Extras
 harmony.json,ScoopInstaller/Extras
@@ -9642,7 +9642,7 @@ energystar.json,DoveBoy/Apps
 openbbterminal-pre.json,DoveBoy/Apps
 unigetui_DoveBoy.json,DoveBoy/Apps
 n_m3u8dl-re.json,DoveBoy/Apps
-neteaseuu_DoveBoy.json,DoveBoy/Apps
+neteaseuu.json,DoveBoy/Apps
 xhs-downloader.json,DoveBoy/Apps
 walk_DoveBoy.json,DoveBoy/Apps
 daisy.json,DoveBoy/Apps
