@@ -12855,7 +12855,7 @@ veracrypt-np.json,aoisummer/scoop-bucket
 dandanplay_aoisummer.json,aoisummer/scoop-bucket
 tracetcp.json,aoisummer/scoop-bucket
 poi.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn.json,aoisummer/scoop-bucket
 firefox-esr-115-zh-cn.json,aoisummer/scoop-bucket
 pcap-dnsproxy.json,aoisummer/scoop-bucket
 vlmcsd.json,aoisummer/scoop-bucket
@@ -14000,6 +14000,7 @@ icechat_littleli.json,littleli/Scoop-littleli
 tokio-console.json,littleli/Scoop-littleli
 immuadmin.json,littleli/Scoop-littleli
 immuclient.json,littleli/Scoop-littleli
+ladybugdb.json,littleli/Scoop-littleli
 immudb.json,littleli/Scoop-littleli
 jedit_littleli.json,littleli/Scoop-littleli
 fresh-editor.json,littleli/Scoop-littleli
