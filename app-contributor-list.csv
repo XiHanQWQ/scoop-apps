@@ -2613,7 +2613,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -3364,7 +3364,7 @@ datagrip.json,ScoopInstaller/Extras
 tlaplus-toolbox.json,ScoopInstaller/Extras
 smartsynchronize.json,ScoopInstaller/Extras
 camstudio.json,ScoopInstaller/Extras
-vscode.json,ScoopInstaller/Extras
+vscode_ScoopInstaller.json,ScoopInstaller/Extras
 clash-verge-rev.json,ScoopInstaller/Extras
 taskbarx.json,ScoopInstaller/Extras
 harmony.json,ScoopInstaller/Extras
@@ -5479,7 +5479,7 @@ vivaldi-snapshot.json,ScoopInstaller/Versions
 docker-nightly.json,ScoopInstaller/Versions
 goland-rc.json,ScoopInstaller/Versions
 spotdl-beta.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 nanazip-beta.json,ScoopInstaller/Versions
 php71-xdebug.json,ScoopInstaller/Versions
 php81-xdebug.json,ScoopInstaller/Versions
@@ -8033,7 +8033,7 @@ iTunesEncode.json,dodorz/scoop
 Cardo.json,dodorz/scoop
 ProxyeeDown.json,dodorz/scoop
 Brief.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 shell2http.json,dodorz/scoop
 yWriter.json,dodorz/scoop
 miniflux.json,dodorz/scoop
@@ -9641,7 +9641,7 @@ energystar.json,DoveBoy/Apps
 openbbterminal-pre.json,DoveBoy/Apps
 unigetui_DoveBoy.json,DoveBoy/Apps
 n_m3u8dl-re.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 xhs-downloader.json,DoveBoy/Apps
 walk_DoveBoy.json,DoveBoy/Apps
 daisy.json,DoveBoy/Apps
@@ -10521,7 +10521,7 @@ autohotkey2.1.json,amorphobia/siku
 aget-rs.json,amorphobia/siku
 sublime-text-3.json,amorphobia/siku
 sonarr.json,amorphobia/siku
-plain-craft-launcher.json,amorphobia/siku
+plain-craft-launcher_amorphobia.json,amorphobia/siku
 imazing-converter.json,amorphobia/siku
 rabbit.json,amorphobia/siku
 powercolorls.json,amorphobia/siku
@@ -12855,7 +12855,7 @@ veracrypt-np.json,aoisummer/scoop-bucket
 dandanplay_aoisummer.json,aoisummer/scoop-bucket
 tracetcp.json,aoisummer/scoop-bucket
 poi.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 firefox-esr-115-zh-cn.json,aoisummer/scoop-bucket
 pcap-dnsproxy.json,aoisummer/scoop-bucket
 vlmcsd.json,aoisummer/scoop-bucket
