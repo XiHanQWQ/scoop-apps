@@ -9360,6 +9360,7 @@ poppler_akirco.json,akirco/aki-apps
 nircmd_akirco.json,akirco/aki-apps
 monolith_akirco.json,akirco/aki-apps
 far_akirco.json,akirco/aki-apps
+bilibili-livehime.json,akirco/aki-apps
 pnpm_akirco.json,akirco/aki-apps
 yuanbao.json,akirco/aki-apps
 rufus_akirco.json,akirco/aki-apps
@@ -12455,7 +12456,7 @@ aegisub_starise.json,starise/Scoop-Confetti
 freezer.json,starise/Scoop-Confetti
 staxrip_starise.json,starise/Scoop-Confetti
 nconvert_starise.json,starise/Scoop-Confetti
-ultrasearch.json,starise/Scoop-Confetti
+ultrasearch_starise.json,starise/Scoop-Confetti
 hdrtray.json,starise/Scoop-Confetti
 h2testw.json,starise/Scoop-Confetti
 winbox4.json,starise/Scoop-Confetti
