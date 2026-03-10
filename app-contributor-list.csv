@@ -8809,7 +8809,7 @@ termix.json,ViCrack/scoop-bucket
 bluelife-host-editor.json,ViCrack/scoop-bucket
 godzilla_ekp.json,ViCrack/scoop-bucket
 MonitorOff.json,ViCrack/scoop-bucket
-katana.json,ViCrack/scoop-bucket
+katana_ViCrack.json,ViCrack/scoop-bucket
 ja.json,ViCrack/scoop-bucket
 serializationdumper.json,ViCrack/scoop-bucket
 ztasker.json,ViCrack/scoop-bucket
@@ -8859,7 +8859,7 @@ wx_channels_download.json,ViCrack/scoop-bucket
 treesize_ViCrack.json,ViCrack/scoop-bucket
 emeditor_ViCrack.json,ViCrack/scoop-bucket
 chmac.json,ViCrack/scoop-bucket
-interactsh.json,ViCrack/scoop-bucket
+interactsh_ViCrack.json,ViCrack/scoop-bucket
 postcat.json,ViCrack/scoop-bucket
 gda_ViCrack.json,ViCrack/scoop-bucket
 z0scan.json,ViCrack/scoop-bucket
@@ -9283,7 +9283,7 @@ rainbow_akirco.json,akirco/aki-apps
 windows-application-driver_akirco.json,akirco/aki-apps
 registry-finder_akirco.json,akirco/aki-apps
 php_akirco.json,akirco/aki-apps
-cursor_akirco.json,akirco/aki-apps
+cursor.json,akirco/aki-apps
 musicfox.json,akirco/aki-apps
 gow_akirco.json,akirco/aki-apps
 dim.json,akirco/aki-apps
@@ -9328,7 +9328,7 @@ oh-my-posh_akirco.json,akirco/aki-apps
 rustdesk_akirco.json,akirco/aki-apps
 cpu-z_akirco.json,akirco/aki-apps
 telegram_akirco.json,akirco/aki-apps
-firefox-zh-cn_akirco.json,akirco/aki-apps
+firefox-zh-cn.json,akirco/aki-apps
 snipaste_akirco.json,akirco/aki-apps
 completion-predictor.json,akirco/aki-apps
 tar_akirco.json,akirco/aki-apps
@@ -9861,7 +9861,7 @@ remove-ms-edge.json,DoveBoy/Apps
 chromedriver_DoveBoy.json,DoveBoy/Apps
 openssh_DoveBoy.json,DoveBoy/Apps
 iwck_DoveBoy.json,DoveBoy/Apps
-googlechrome_DoveBoy.json,DoveBoy/Apps
+googlechrome.json,DoveBoy/Apps
 nattypetester.json,DoveBoy/Apps
 pmas.json,DoveBoy/Apps
 yasocut.json,DoveBoy/Apps
