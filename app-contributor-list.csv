@@ -1211,7 +1211,7 @@ rclone-ui.json,ScoopInstaller/Extras
 opera-gx.json,ScoopInstaller/Extras
 streamlabs-chatbot.json,ScoopInstaller/Extras
 droidcam.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 altbacktick.json,ScoopInstaller/Extras
 owncloud.json,ScoopInstaller/Extras
 foto-mosaik-edda.json,ScoopInstaller/Extras
@@ -1921,7 +1921,7 @@ revouninstaller.json,ScoopInstaller/Extras
 sonic-visualiser.json,ScoopInstaller/Extras
 mellowplayer.json,ScoopInstaller/Extras
 qnapi.json,ScoopInstaller/Extras
-g-helper_ScoopInstaller.json,ScoopInstaller/Extras
+g-helper.json,ScoopInstaller/Extras
 graphql-playground.json,ScoopInstaller/Extras
 ssh-agent-wsl.json,ScoopInstaller/Extras
 youtubedownloader.json,ScoopInstaller/Extras
@@ -9612,6 +9612,7 @@ bilibili-backup_DoveBoy.json,DoveBoy/Apps
 ofgb.json,DoveBoy/Apps
 clink-completions_DoveBoy.json,DoveBoy/Apps
 qkeymapper-qt6.json,DoveBoy/Apps
+electerm_DoveBoy.json,DoveBoy/Apps
 alisthelper-portable.json,DoveBoy/Apps
 clink_DoveBoy.json,DoveBoy/Apps
 ruffle.json,DoveBoy/Apps
@@ -9773,7 +9774,7 @@ anyburn_DoveBoy.json,DoveBoy/Apps
 aliyunpan_DoveBoy.json,DoveBoy/Apps
 cmder_DoveBoy.json,DoveBoy/Apps
 yank-note.json,DoveBoy/Apps
-karing.json,DoveBoy/Apps
+karing_DoveBoy.json,DoveBoy/Apps
 gopeed_DoveBoy.json,DoveBoy/Apps
 text-generation-webui.json,DoveBoy/Apps
 bilibili_DoveBoy.json,DoveBoy/Apps
@@ -9824,6 +9825,7 @@ mame_DoveBoy.json,DoveBoy/Apps
 trippy_DoveBoy.json,DoveBoy/Apps
 picturecleaner.json,DoveBoy/Apps
 bookget.json,DoveBoy/Apps
+cudatext_DoveBoy.json,DoveBoy/Apps
 psscripttools.json,DoveBoy/Apps
 shadowsocksr-hmbsbige-full.json,DoveBoy/Apps
 screenbroadcaster-net8.json,DoveBoy/Apps
@@ -10246,7 +10248,7 @@ nvm_DoveBoy.json,DoveBoy/Apps
 snappy-driver-installer-origin_DoveBoy.json,DoveBoy/Apps
 pikapika.json,DoveBoy/Apps
 forkgram_DoveBoy.json,DoveBoy/Apps
-wechat.json,DoveBoy/Apps
+wechat_DoveBoy.json,DoveBoy/Apps
 github-store.json,DoveBoy/Apps
 mapdownload.json,DoveBoy/Apps
 diskgenius_DoveBoy.json,DoveBoy/Apps
@@ -10826,6 +10828,7 @@ implay.json,naderi/scoop-bucket
 babelpad_naderi.json,naderi/scoop-bucket
 font-behdad.json,naderi/scoop-bucket
 chrome-canary-portable.json,naderi/scoop-bucket
+encrypto.json,naderi/scoop-bucket
 acrylic-dns-proxy.json,naderi/scoop-bucket
 opentrace_naderi.json,naderi/scoop-bucket
 winamp.json,naderi/scoop-bucket
@@ -10895,7 +10898,7 @@ rune_naderi.json,naderi/scoop-bucket
 edge-portable-dev.json,naderi/scoop-bucket
 super-msconfig.json,naderi/scoop-bucket
 eudic.json,naderi/scoop-bucket
-thunderbird-portable_naderi.json,naderi/scoop-bucket
+thunderbird-portable.json,naderi/scoop-bucket
 mitec-system-information-x.json,naderi/scoop-bucket
 minitool-partition-wizard.json,naderi/scoop-bucket
 firefox-esr-portable.json,naderi/scoop-bucket
@@ -11776,7 +11779,7 @@ DDMonitor.json,ygguorun/scoop-bucket
 PingFang.json,ygguorun/scoop-bucket
 wodeabc.json,ygguorun/scoop-bucket
 ghs.json,aliesbelik/poldi
-lazyssh.json,aliesbelik/poldi
+lazyssh_aliesbelik.json,aliesbelik/poldi
 jnv_aliesbelik.json,aliesbelik/poldi
 fm.json,aliesbelik/poldi
 kubedump.json,aliesbelik/poldi
@@ -12082,7 +12085,7 @@ reshade-addon.json,Small-Ku/turbo-bucket
 letta-code.json,Small-Ku/turbo-bucket
 orbolay.json,Small-Ku/turbo-bucket
 better-genshin-impact.json,Small-Ku/turbo-bucket
-gemini-cli.json,Small-Ku/turbo-bucket
+gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
 iflow-cli.json,Small-Ku/turbo-bucket
 clash-rs.json,Small-Ku/turbo-bucket
 atlassian-cli.json,Small-Ku/turbo-bucket
@@ -12840,6 +12843,7 @@ bitcomet_Scoopforge.json,Scoopforge/Extras-Plus
 navicat-premium-lite_Scoopforge.json,Scoopforge/Extras-Plus
 alist-helper.json,Scoopforge/Extras-Plus
 defender-remover.json,Scoopforge/Extras-Plus
+cap.json,Scoopforge/Extras-Plus
 kindle.json,Scoopforge/Extras-Plus
 texlive_Scoopforge.json,Scoopforge/Extras-Plus
 mogan_Scoopforge.json,Scoopforge/Extras-Plus
