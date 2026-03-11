@@ -8897,7 +8897,7 @@ observerward.json,ViCrack/scoop-bucket
 siyuan.json,ViCrack/scoop-bucket
 pixpin_ViCrack.json,ViCrack/scoop-bucket
 notepad--_ViCrack.json,ViCrack/scoop-bucket
-jar-analyzer.json,ViCrack/scoop-bucket
+jar-analyzer_ViCrack.json,ViCrack/scoop-bucket
 codescan.json,ViCrack/scoop-bucket
 fastgithub.json,ViCrack/scoop-bucket
 sliver.json,ViCrack/scoop-bucket
@@ -12606,7 +12606,7 @@ Cinebench2024.json,Darkatse/Scoop-Darkatse
 Brook-GUI.json,Darkatse/Scoop-Darkatse
 Netch_Darkatse.json,Darkatse/Scoop-Darkatse
 Genshin.Launcher.Plus.json,Darkatse/Scoop-Darkatse
-Watt-Toolkit_Darkatse.json,Darkatse/Scoop-Darkatse
+Watt-Toolkit.json,Darkatse/Scoop-Darkatse
 JHenTai.json,Darkatse/Scoop-Darkatse
 Brook.json,Darkatse/Scoop-Darkatse
 Shanaencoder_Darkatse.json,Darkatse/Scoop-Darkatse
@@ -12900,7 +12900,7 @@ veracrypt-np.json,aoisummer/scoop-bucket
 dandanplay_aoisummer.json,aoisummer/scoop-bucket
 tracetcp.json,aoisummer/scoop-bucket
 poi.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn.json,aoisummer/scoop-bucket
 firefox-esr-115-zh-cn.json,aoisummer/scoop-bucket
 pcap-dnsproxy.json,aoisummer/scoop-bucket
 vlmcsd.json,aoisummer/scoop-bucket
