@@ -2614,7 +2614,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -12081,7 +12081,7 @@ reshade-addon.json,Small-Ku/turbo-bucket
 letta-code.json,Small-Ku/turbo-bucket
 orbolay.json,Small-Ku/turbo-bucket
 better-genshin-impact.json,Small-Ku/turbo-bucket
-gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
+gemini-cli.json,Small-Ku/turbo-bucket
 iflow-cli.json,Small-Ku/turbo-bucket
 clash-rs.json,Small-Ku/turbo-bucket
 atlassian-cli.json,Small-Ku/turbo-bucket
@@ -14882,12 +14882,14 @@ heptabase.json,windedge/ladle-bucket
 pdf4teachers.json,windedge/ladle-bucket
 jet-pilot.json,windedge/ladle-bucket
 itext-rups.json,windedge/ladle-bucket
+crush_windedge.json,windedge/ladle-bucket
 seabird.json,windedge/ladle-bucket
 heimer.json,windedge/ladle-bucket
 gotify-tray.json,windedge/ladle-bucket
 lem.json,windedge/ladle-bucket
 milkman.json,windedge/ladle-bucket
 anytype_windedge.json,windedge/ladle-bucket
+rtk.json,windedge/ladle-bucket
 pdfbox-debugger.json,windedge/ladle-bucket
 godot-kotlin-jvm.json,windedge/ladle-bucket
 dyad_windedge.json,windedge/ladle-bucket
