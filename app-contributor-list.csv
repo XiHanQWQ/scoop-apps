@@ -9362,6 +9362,7 @@ poppler_akirco.json,akirco/aki-apps
 nircmd_akirco.json,akirco/aki-apps
 monolith_akirco.json,akirco/aki-apps
 far_akirco.json,akirco/aki-apps
+bilibili-livehime.json,akirco/aki-apps
 pnpm_akirco.json,akirco/aki-apps
 yuanbao.json,akirco/aki-apps
 rufus_akirco.json,akirco/aki-apps
@@ -10214,7 +10215,7 @@ vimtutor_DoveBoy.json,DoveBoy/Apps
 tcping_DoveBoy.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
 flut-renamer.json,DoveBoy/Apps
-heu-kms-activator_DoveBoy.json,DoveBoy/Apps
+heu-kms-activator.json,DoveBoy/Apps
 hackbrowserdata_DoveBoy.json,DoveBoy/Apps
 video-subtitle-extractor-cpu.json,DoveBoy/Apps
 tmspeech.json,DoveBoy/Apps
@@ -10245,7 +10246,7 @@ nvm_DoveBoy.json,DoveBoy/Apps
 snappy-driver-installer-origin_DoveBoy.json,DoveBoy/Apps
 pikapika.json,DoveBoy/Apps
 forkgram_DoveBoy.json,DoveBoy/Apps
-wechat_DoveBoy.json,DoveBoy/Apps
+wechat.json,DoveBoy/Apps
 github-store.json,DoveBoy/Apps
 mapdownload.json,DoveBoy/Apps
 diskgenius_DoveBoy.json,DoveBoy/Apps
