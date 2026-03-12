@@ -1921,7 +1921,7 @@ revouninstaller.json,ScoopInstaller/Extras
 sonic-visualiser.json,ScoopInstaller/Extras
 mellowplayer.json,ScoopInstaller/Extras
 qnapi.json,ScoopInstaller/Extras
-g-helper.json,ScoopInstaller/Extras
+g-helper_ScoopInstaller.json,ScoopInstaller/Extras
 graphql-playground.json,ScoopInstaller/Extras
 ssh-agent-wsl.json,ScoopInstaller/Extras
 youtubedownloader.json,ScoopInstaller/Extras
@@ -2614,7 +2614,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -9362,7 +9362,6 @@ poppler_akirco.json,akirco/aki-apps
 nircmd_akirco.json,akirco/aki-apps
 monolith_akirco.json,akirco/aki-apps
 far_akirco.json,akirco/aki-apps
-bilibili-livehime.json,akirco/aki-apps
 pnpm_akirco.json,akirco/aki-apps
 yuanbao.json,akirco/aki-apps
 rufus_akirco.json,akirco/aki-apps
@@ -9981,7 +9980,7 @@ ariang-native_DoveBoy.json,DoveBoy/Apps
 kobi.json,DoveBoy/Apps
 mootool_DoveBoy.json,DoveBoy/Apps
 nping.json,DoveBoy/Apps
-obs-studio-pre_DoveBoy.json,DoveBoy/Apps
+obs-studio-pre.json,DoveBoy/Apps
 cloudflared_DoveBoy.json,DoveBoy/Apps
 oneanime.json,DoveBoy/Apps
 trafficmonitor-lite_DoveBoy.json,DoveBoy/Apps
@@ -12606,7 +12605,7 @@ Cinebench2024.json,Darkatse/Scoop-Darkatse
 Brook-GUI.json,Darkatse/Scoop-Darkatse
 Netch_Darkatse.json,Darkatse/Scoop-Darkatse
 Genshin.Launcher.Plus.json,Darkatse/Scoop-Darkatse
-Watt-Toolkit.json,Darkatse/Scoop-Darkatse
+Watt-Toolkit_Darkatse.json,Darkatse/Scoop-Darkatse
 JHenTai.json,Darkatse/Scoop-Darkatse
 Brook.json,Darkatse/Scoop-Darkatse
 Shanaencoder_Darkatse.json,Darkatse/Scoop-Darkatse
@@ -12900,7 +12899,7 @@ veracrypt-np.json,aoisummer/scoop-bucket
 dandanplay_aoisummer.json,aoisummer/scoop-bucket
 tracetcp.json,aoisummer/scoop-bucket
 poi.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 firefox-esr-115-zh-cn.json,aoisummer/scoop-bucket
 pcap-dnsproxy.json,aoisummer/scoop-bucket
 vlmcsd.json,aoisummer/scoop-bucket
