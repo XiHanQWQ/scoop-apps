@@ -1211,7 +1211,7 @@ rclone-ui.json,ScoopInstaller/Extras
 opera-gx.json,ScoopInstaller/Extras
 streamlabs-chatbot.json,ScoopInstaller/Extras
 droidcam.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 altbacktick.json,ScoopInstaller/Extras
 owncloud.json,ScoopInstaller/Extras
 foto-mosaik-edda.json,ScoopInstaller/Extras
@@ -2614,7 +2614,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -8620,7 +8620,7 @@ snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
 vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -8777,7 +8777,7 @@ shadps4.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
-dolphin_borger.json,borger/scoop-emulators
+dolphin.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 eden_borger.json,borger/scoop-emulators
@@ -9866,7 +9866,7 @@ nattypetester.json,DoveBoy/Apps
 pmas.json,DoveBoy/Apps
 yasocut.json,DoveBoy/Apps
 wx-channels-download.json,DoveBoy/Apps
-everything-alpha_DoveBoy.json,DoveBoy/Apps
+everything-alpha.json,DoveBoy/Apps
 ttime-portable.json,DoveBoy/Apps
 bililive-tools.json,DoveBoy/Apps
 dreamscene2.json,DoveBoy/Apps
@@ -10825,7 +10825,6 @@ implay.json,naderi/scoop-bucket
 babelpad_naderi.json,naderi/scoop-bucket
 font-behdad.json,naderi/scoop-bucket
 chrome-canary-portable.json,naderi/scoop-bucket
-encrypto.json,naderi/scoop-bucket
 acrylic-dns-proxy.json,naderi/scoop-bucket
 opentrace_naderi.json,naderi/scoop-bucket
 winamp.json,naderi/scoop-bucket
@@ -11573,7 +11572,7 @@ centbrowser-setup.json,WinApps-share/WinApps-bucket
 runcat_WinApps-share.json,WinApps-share/WinApps-bucket
 steam.json,WinApps-share/WinApps-bucket
 proxypin-np.json,WinApps-share/WinApps-bucket
-edge.json,WinApps-share/WinApps-bucket
+edge_WinApps-share.json,WinApps-share/WinApps-bucket
 picview_WinApps-share.json,WinApps-share/WinApps-bucket
 dbeaver_WinApps-share.json,WinApps-share/WinApps-bucket
 microsoft-net3.5.json,WinApps-share/WinApps-bucket
