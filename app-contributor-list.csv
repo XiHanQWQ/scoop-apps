@@ -8620,7 +8620,7 @@ snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
 vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -8777,7 +8777,7 @@ shadps4.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
-dolphin.json,borger/scoop-emulators
+dolphin_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 eden_borger.json,borger/scoop-emulators
@@ -9866,7 +9866,7 @@ nattypetester.json,DoveBoy/Apps
 pmas.json,DoveBoy/Apps
 yasocut.json,DoveBoy/Apps
 wx-channels-download.json,DoveBoy/Apps
-everything-alpha.json,DoveBoy/Apps
+everything-alpha_DoveBoy.json,DoveBoy/Apps
 ttime-portable.json,DoveBoy/Apps
 bililive-tools.json,DoveBoy/Apps
 dreamscene2.json,DoveBoy/Apps
