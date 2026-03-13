@@ -1108,6 +1108,7 @@ oh-my-posh_ScoopInstaller.json,ScoopInstaller/Extras
 ibmcloud-cli_ScoopInstaller.json,ScoopInstaller/Extras
 toggl.json,ScoopInstaller/Extras
 b1.json,ScoopInstaller/Extras
+tanoshi.json,ScoopInstaller/Extras
 haskellx.json,ScoopInstaller/Extras
 winrar-helper.json,ScoopInstaller/Extras
 shinjiru.json,ScoopInstaller/Extras
@@ -2247,7 +2248,6 @@ lenovolegiontoolkit.json,ScoopInstaller/Extras
 rclone-manager.json,ScoopInstaller/Extras
 bitwarden.json,ScoopInstaller/Extras
 terminal-icons.json,ScoopInstaller/Extras
-tanoshi.json,ScoopInstaller/Extras
 fluent-reader.json,ScoopInstaller/Extras
 juce.json,ScoopInstaller/Extras
 tracker.json,ScoopInstaller/Extras
@@ -9646,7 +9646,7 @@ energystar.json,DoveBoy/Apps
 openbbterminal-pre.json,DoveBoy/Apps
 unigetui_DoveBoy.json,DoveBoy/Apps
 n_m3u8dl-re.json,DoveBoy/Apps
-neteaseuu_DoveBoy.json,DoveBoy/Apps
+neteaseuu.json,DoveBoy/Apps
 xhs-downloader.json,DoveBoy/Apps
 walk_DoveBoy.json,DoveBoy/Apps
 daisy.json,DoveBoy/Apps
