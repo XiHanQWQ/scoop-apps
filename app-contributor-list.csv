@@ -8067,7 +8067,7 @@ ColorStormPro.json,dodorz/scoop
 jEdit.json,dodorz/scoop
 TeraCopy.json,dodorz/scoop
 MicroEmacs.json,dodorz/scoop
-IronClaw.json,dodorz/scoop
+IronClaw_dodorz.json,dodorz/scoop
 iniTool.json,dodorz/scoop
 WizNoteLite.json,dodorz/scoop
 MiKTeX_dodorz.json,dodorz/scoop
@@ -9684,7 +9684,7 @@ clash-for-flutter.json,DoveBoy/Apps
 pytranscriber.json,DoveBoy/Apps
 host-editor_DoveBoy.json,DoveBoy/Apps
 fluent-m3u8.json,DoveBoy/Apps
-chromium.json,DoveBoy/Apps
+chromium_DoveBoy.json,DoveBoy/Apps
 jarkviewer_DoveBoy.json,DoveBoy/Apps
 urlfinder.json,DoveBoy/Apps
 flyoobe.json,DoveBoy/Apps
@@ -10692,7 +10692,6 @@ sound-keeper.json,amorphobia/siku
 ddns-go_amorphobia.json,amorphobia/siku
 bcdown.json,amorphobia/siku
 hfsexplorer.json,amorphobia/siku
-cpu-z-zh-cn.json,amorphobia/siku
 autohotkey2.1.json,amorphobia/siku
 aget-rs.json,amorphobia/siku
 sublime-text-3.json,amorphobia/siku
@@ -11459,7 +11458,7 @@ mpv-autoload.json,brian6932/dank-scoop
 sioyek-preview.json,brian6932/dank-scoop
 galaxy-integration-legendary.json,brian6932/dank-scoop
 cherry-studio-np.json,WinApps-share/WinApps-bucket
-everything-toolbar_WinApps-share.json,WinApps-share/WinApps-bucket
+everything-toolbar.json,WinApps-share/WinApps-bucket
 vlc-np.json,WinApps-share/WinApps-bucket
 zotero_WinApps-share.json,WinApps-share/WinApps-bucket
 bbdown_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -12863,7 +12862,7 @@ veracrypt-np.json,aoisummer/scoop-bucket
 dandanplay_aoisummer.json,aoisummer/scoop-bucket
 tracetcp.json,aoisummer/scoop-bucket
 poi.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn.json,aoisummer/scoop-bucket
 firefox-esr-115-zh-cn.json,aoisummer/scoop-bucket
 pcap-dnsproxy.json,aoisummer/scoop-bucket
 vlmcsd.json,aoisummer/scoop-bucket
