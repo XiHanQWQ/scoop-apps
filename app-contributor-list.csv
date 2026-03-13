@@ -9249,7 +9249,7 @@ ima-copilot.json,akirco/aki-apps
 optipng_akirco.json,akirco/aki-apps
 glow_akirco.json,akirco/aki-apps
 vscode_akirco.json,akirco/aki-apps
-aliyundrive.json,akirco/aki-apps
+aliyundrive_akirco.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
 filezilla_akirco.json,akirco/aki-apps
 libwebp_akirco.json,akirco/aki-apps
@@ -9842,7 +9842,7 @@ psgithub_DoveBoy.json,DoveBoy/Apps
 one-api.json,DoveBoy/Apps
 jenny.json,DoveBoy/Apps
 escrcpy-portable.json,DoveBoy/Apps
-waveterm.json,DoveBoy/Apps
+waveterm_DoveBoy.json,DoveBoy/Apps
 iobit-uninstaller.json,DoveBoy/Apps
 w64devkit_DoveBoy.json,DoveBoy/Apps
 firewallappblocker_DoveBoy.json,DoveBoy/Apps
@@ -11519,7 +11519,7 @@ winscp_WinApps-share.json,WinApps-share/WinApps-bucket
 motrix-np.json,WinApps-share/WinApps-bucket
 handbrake_WinApps-share.json,WinApps-share/WinApps-bucket
 proxypin_WinApps-share.json,WinApps-share/WinApps-bucket
-cursor.json,WinApps-share/WinApps-bucket
+cursor_WinApps-share.json,WinApps-share/WinApps-bucket
 piclist.json,WinApps-share/WinApps-bucket
 cherry-studio_WinApps-share.json,WinApps-share/WinApps-bucket
 brave-np.json,WinApps-share/WinApps-bucket
@@ -11819,7 +11819,7 @@ reshade-addon.json,Small-Ku/turbo-bucket
 letta-code.json,Small-Ku/turbo-bucket
 orbolay.json,Small-Ku/turbo-bucket
 better-genshin-impact.json,Small-Ku/turbo-bucket
-gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
+gemini-cli.json,Small-Ku/turbo-bucket
 iflow-cli.json,Small-Ku/turbo-bucket
 clash-rs.json,Small-Ku/turbo-bucket
 atlassian-cli.json,Small-Ku/turbo-bucket
