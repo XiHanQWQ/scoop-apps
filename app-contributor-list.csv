@@ -1102,6 +1102,7 @@ chefdk.json,ScoopInstaller/Extras
 qtranslate.json,ScoopInstaller/Extras
 terminus.json,ScoopInstaller/Extras
 mihomo-party.json,ScoopInstaller/Extras
+microsoft-teams.json,ScoopInstaller/Extras
 automake.json,ScoopInstaller/Extras
 appium.json,ScoopInstaller/Extras
 oh-my-posh_ScoopInstaller.json,ScoopInstaller/Extras
@@ -1957,7 +1958,6 @@ cookiecutter.json,ScoopInstaller/Extras
 sabnzbd.json,ScoopInstaller/Extras
 age.json,ScoopInstaller/Extras
 protege.json,ScoopInstaller/Extras
-microsoft-teams.json,ScoopInstaller/Extras
 avspmod.json,ScoopInstaller/Extras
 vlc.json,ScoopInstaller/Extras
 single-file-cli.json,ScoopInstaller/Extras
@@ -8583,7 +8583,7 @@ atariplusplus.json,hermanjustnu/scoop-emulators
 rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
-mgba-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+mgba-dev.json,hermanjustnu/scoop-emulators
 flycast_hermanjustnu.json,hermanjustnu/scoop-emulators
 mgba_hermanjustnu.json,hermanjustnu/scoop-emulators
 mame_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -8827,7 +8827,7 @@ equationtoolsgui_ViCrack.json,ViCrack/scoop-bucket
 gost_ViCrack.json,ViCrack/scoop-bucket
 RegConverter.json,ViCrack/scoop-bucket
 igdm_ViCrack.json,ViCrack/scoop-bucket
-apifox_ViCrack.json,ViCrack/scoop-bucket
+apifox.json,ViCrack/scoop-bucket
 kscan_ViCrack.json,ViCrack/scoop-bucket
 certimate.json,ViCrack/scoop-bucket
 trilium-cn.json,ViCrack/scoop-bucket
@@ -10246,7 +10246,7 @@ nvm_DoveBoy.json,DoveBoy/Apps
 snappy-driver-installer-origin_DoveBoy.json,DoveBoy/Apps
 pikapika.json,DoveBoy/Apps
 forkgram_DoveBoy.json,DoveBoy/Apps
-wechat.json,DoveBoy/Apps
+wechat_DoveBoy.json,DoveBoy/Apps
 github-store.json,DoveBoy/Apps
 mapdownload.json,DoveBoy/Apps
 diskgenius_DoveBoy.json,DoveBoy/Apps
@@ -10284,7 +10284,7 @@ sendto-menu-editor_DoveBoy.json,DoveBoy/Apps
 inputshare.json,DoveBoy/Apps
 gallery-dl_DoveBoy.json,DoveBoy/Apps
 delapp_DoveBoy.json,DoveBoy/Apps
-buzz_DoveBoy.json,DoveBoy/Apps
+buzz.json,DoveBoy/Apps
 splayer-beta.json,DoveBoy/Apps
 pixeval.json,DoveBoy/Apps
 xcmusic.json,DoveBoy/Apps
@@ -10647,7 +10647,7 @@ posh-cd.json,amorphobia/siku
 scoop-hook.json,amorphobia/siku
 clash-for-windows_amorphobia.json,amorphobia/siku
 idm-trial-reset.json,amorphobia/siku
-filebrowser_amorphobia.json,amorphobia/siku
+filebrowser.json,amorphobia/siku
 bind-lean.json,amorphobia/siku
 ipatool_amorphobia.json,amorphobia/siku
 webdav.json,amorphobia/siku
