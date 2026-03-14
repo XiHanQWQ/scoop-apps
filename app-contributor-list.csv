@@ -2614,7 +2614,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -8621,7 +8621,7 @@ snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
 vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -9616,6 +9616,7 @@ alisthelper-portable.json,DoveBoy/Apps
 clink_DoveBoy.json,DoveBoy/Apps
 ruffle.json,DoveBoy/Apps
 cmder-full_DoveBoy.json,DoveBoy/Apps
+gimp.json,DoveBoy/Apps
 github-beta_DoveBoy.json,DoveBoy/Apps
 clashn.json,DoveBoy/Apps
 localsend_DoveBoy.json,DoveBoy/Apps
@@ -11821,6 +11822,7 @@ reshade-addon.json,Small-Ku/turbo-bucket
 letta-code.json,Small-Ku/turbo-bucket
 orbolay.json,Small-Ku/turbo-bucket
 better-genshin-impact.json,Small-Ku/turbo-bucket
+freebuff.json,Small-Ku/turbo-bucket
 gemini-cli.json,Small-Ku/turbo-bucket
 iflow-cli.json,Small-Ku/turbo-bucket
 clash-rs.json,Small-Ku/turbo-bucket
@@ -11836,6 +11838,7 @@ stardb-exporter.json,Small-Ku/turbo-bucket
 packwiz.json,Small-Ku/turbo-bucket
 qwen-code.json,Small-Ku/turbo-bucket
 magpie-preview.json,Small-Ku/turbo-bucket
+codebuff.json,Small-Ku/turbo-bucket
 ghs.json,aliesbelik/poldi
 lazyssh_aliesbelik.json,aliesbelik/poldi
 jnv_aliesbelik.json,aliesbelik/poldi
@@ -12588,6 +12591,7 @@ bluetooth-version-finder.json,starise/Scoop-Confetti
 monitor-switcher.json,starise/Scoop-Confetti
 cbxconverter.json,starise/Scoop-Confetti
 sacd-extract.json,starise/Scoop-Confetti
+soundkeeper.json,starise/Scoop-Confetti
 firefox-it.json,starise/Scoop-Confetti
 win11-virtual-desktop-extension.json,starise/Scoop-Confetti
 svg-explorer-extension.json,starise/Scoop-Confetti
