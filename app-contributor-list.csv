@@ -10246,7 +10246,7 @@ nvm_DoveBoy.json,DoveBoy/Apps
 snappy-driver-installer-origin_DoveBoy.json,DoveBoy/Apps
 pikapika.json,DoveBoy/Apps
 forkgram_DoveBoy.json,DoveBoy/Apps
-wechat_DoveBoy.json,DoveBoy/Apps
+wechat.json,DoveBoy/Apps
 github-store.json,DoveBoy/Apps
 mapdownload.json,DoveBoy/Apps
 diskgenius_DoveBoy.json,DoveBoy/Apps
@@ -11303,6 +11303,7 @@ raddebugger_brian6932.json,brian6932/dank-scoop
 keyviz-dart.json,brian6932/dank-scoop
 itunes-lean.json,brian6932/dank-scoop
 EleDo.json,brian6932/dank-scoop
+repgrep.json,brian6932/dank-scoop
 mpv-persist-properties.json,brian6932/dank-scoop
 tgpt_brian6932.json,brian6932/dank-scoop
 bcd.json,brian6932/dank-scoop
