@@ -8796,7 +8796,7 @@ redream-dev_borger.json,borger/scoop-emulators
 filemenutools.json,ViCrack/scoop-bucket
 postman-cn.json,ViCrack/scoop-bucket
 winasar.json,ViCrack/scoop-bucket
-newfiletime_ViCrack.json,ViCrack/scoop-bucket
+newfiletime.json,ViCrack/scoop-bucket
 quasar.json,ViCrack/scoop-bucket
 PowerRun.json,ViCrack/scoop-bucket
 memshellparty.json,ViCrack/scoop-bucket
@@ -8829,7 +8829,7 @@ equationtoolsgui_ViCrack.json,ViCrack/scoop-bucket
 gost_ViCrack.json,ViCrack/scoop-bucket
 RegConverter.json,ViCrack/scoop-bucket
 igdm_ViCrack.json,ViCrack/scoop-bucket
-apifox.json,ViCrack/scoop-bucket
+apifox_ViCrack.json,ViCrack/scoop-bucket
 kscan_ViCrack.json,ViCrack/scoop-bucket
 certimate.json,ViCrack/scoop-bucket
 trilium-cn.json,ViCrack/scoop-bucket
@@ -10229,7 +10229,7 @@ jo_DoveBoy.json,DoveBoy/Apps
 hummingbird.json,DoveBoy/Apps
 dark_DoveBoy.json,DoveBoy/Apps
 keymap.json,DoveBoy/Apps
-dandanplay_DoveBoy.json,DoveBoy/Apps
+dandanplay.json,DoveBoy/Apps
 binggpt-portable.json,DoveBoy/Apps
 iobit-software-updater.json,DoveBoy/Apps
 repairbadtweaks.json,DoveBoy/Apps
@@ -10764,7 +10764,7 @@ trays.json,NyaMisty/scoop_bucket_misty
 carnac-misty.json,NyaMisty/scoop_bucket_misty
 tun2proxy.json,NyaMisty/scoop_bucket_misty
 chfs_NyaMisty.json,NyaMisty/scoop_bucket_misty
-metasploit-framework.json,NyaMisty/scoop_bucket_misty
+metasploit-framework_NyaMisty.json,NyaMisty/scoop_bucket_misty
 fclone.json,NyaMisty/scoop_bucket_misty
 rizin-nightly.json,NyaMisty/scoop_bucket_misty
 jclasslib.json,NyaMisty/scoop_bucket_misty
@@ -12699,6 +12699,7 @@ autodarkmode_Scoopforge.json,Scoopforge/Extras-Plus
 flying-carpet.json,Scoopforge/Extras-Plus
 cytoscape.json,Scoopforge/Extras-Plus
 winhance_Scoopforge.json,Scoopforge/Extras-Plus
+zlibrary.json,Scoopforge/Extras-Plus
 voov-meeting.json,Scoopforge/Extras-Plus
 doxygen-gui.json,Scoopforge/Extras-Plus
 alexandria.json,Scoopforge/Extras-Plus
