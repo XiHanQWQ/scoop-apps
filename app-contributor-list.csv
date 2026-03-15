@@ -7562,6 +7562,7 @@ rsvg-convert.json,cderv/r-bucket
 positron_cderv.json,cderv/r-bucket
 rstudio-2022.02.json,cderv/r-bucket
 rstudio-1.3.json,cderv/r-bucket
+ovhcloud-cli.json,cderv/r-bucket
 rstudio-1.4.json,cderv/r-bucket
 rstudio-release.json,cderv/r-bucket
 air_cderv.json,cderv/r-bucket
@@ -8624,7 +8625,7 @@ snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
 vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -8746,7 +8747,7 @@ bsnes-hd-beta_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
-ppsspp_borger.json,borger/scoop-emulators
+ppsspp.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
 bsnes-nightly.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
@@ -11478,12 +11479,13 @@ auto-mode.json,brian6932/dank-scoop
 autosave.json,brian6932/dank-scoop
 capsblock.json,brian6932/dank-scoop
 chatterino.json,brian6932/dank-scoop
+unified-remote-server.json,brian6932/dank-scoop
 office-key-fix.json,brian6932/dank-scoop
 raddebugger_brian6932.json,brian6932/dank-scoop
 keyviz-dart.json,brian6932/dank-scoop
 itunes-lean.json,brian6932/dank-scoop
 EleDo.json,brian6932/dank-scoop
-repgrep.json,brian6932/dank-scoop
+repgrep_brian6932.json,brian6932/dank-scoop
 mpv-persist-properties.json,brian6932/dank-scoop
 tgpt_brian6932.json,brian6932/dank-scoop
 bcd.json,brian6932/dank-scoop
@@ -11496,11 +11498,13 @@ profileasync.json,brian6932/dank-scoop
 apngopt-gui.json,brian6932/dank-scoop
 thorium_brian6932.json,brian6932/dank-scoop
 gif2apng-gui.json,brian6932/dank-scoop
+npcap-np.json,brian6932/dank-scoop
 fsrcnnx.json,brian6932/dank-scoop
 moonlight-nightly.json,brian6932/dank-scoop
 coolermaster-masterplus.json,brian6932/dank-scoop
 chatterino7.json,brian6932/dank-scoop
 openzfs.json,brian6932/dank-scoop
+linkshellextension.json,brian6932/dank-scoop
 corepack.json,brian6932/dank-scoop
 chatterino7-portable.json,brian6932/dank-scoop
 jiq.json,brian6932/dank-scoop
@@ -11514,6 +11518,7 @@ dandere2x.json,brian6932/dank-scoop
 mpv-sub-select.json,brian6932/dank-scoop
 twitch-hls-client.json,brian6932/dank-scoop
 bgutil-ytdlp-pot-provider.json,brian6932/dank-scoop
+whocrashed.json,brian6932/dank-scoop
 rusty-twinkle-tray.json,brian6932/dank-scoop
 apngasm-gui.json,brian6932/dank-scoop
 pwsh-man-highlighting.json,brian6932/dank-scoop
@@ -11576,6 +11581,7 @@ catbox.json,brian6932/dank-scoop
 get-mediainfo.json,brian6932/dank-scoop
 qrrs.json,brian6932/dank-scoop
 qft.json,brian6932/dank-scoop
+special-k-np.json,brian6932/dank-scoop
 librespeed.json,brian6932/dank-scoop
 occt.json,brian6932/dank-scoop
 routedns.json,brian6932/dank-scoop
@@ -11604,6 +11610,7 @@ jpeg-quantsmooth.json,brian6932/dank-scoop
 technorino-portable.json,brian6932/dank-scoop
 twitch-hls-client-uri-protocol.json,brian6932/dank-scoop
 libusb.json,brian6932/dank-scoop
+accentcolorizer.json,brian6932/dank-scoop
 uosc.json,brian6932/dank-scoop
 capturer.json,brian6932/dank-scoop
 mozlz4.json,brian6932/dank-scoop
@@ -11658,7 +11665,7 @@ BaiduNetdisk-green.json,ygguorun/scoop-bucket
 texlive-small.json,ygguorun/scoop-bucket
 OneCommander_ygguorun.json,ygguorun/scoop-bucket
 pdf24-creator_ygguorun.json,ygguorun/scoop-bucket
-LinkShellExtension.json,ygguorun/scoop-bucket
+LinkShellExtension_ygguorun.json,ygguorun/scoop-bucket
 DocBox_ygguorun.json,ygguorun/scoop-bucket
 Macast_ygguorun.json,ygguorun/scoop-bucket
 NegativeEncoder.json,ygguorun/scoop-bucket
