@@ -1104,6 +1104,7 @@ terminus.json,ScoopInstaller/Extras
 mihomo-party.json,ScoopInstaller/Extras
 microsoft-teams.json,ScoopInstaller/Extras
 automake.json,ScoopInstaller/Extras
+86box-manager.json,ScoopInstaller/Extras
 appium.json,ScoopInstaller/Extras
 oh-my-posh_ScoopInstaller.json,ScoopInstaller/Extras
 ibmcloud-cli_ScoopInstaller.json,ScoopInstaller/Extras
@@ -2075,7 +2076,6 @@ mendeley.json,ScoopInstaller/Extras
 usbimager.json,ScoopInstaller/Extras
 turtl.json,ScoopInstaller/Extras
 languagetool.json,ScoopInstaller/Extras
-86box-manager.json,ScoopInstaller/Extras
 symphytum.json,ScoopInstaller/Extras
 otvdm.json,ScoopInstaller/Extras
 bt.json,ScoopInstaller/Extras
@@ -2818,6 +2818,7 @@ omenmon.json,ScoopInstaller/Extras
 obsidian.json,ScoopInstaller/Extras
 driverstoreexplorer.json,ScoopInstaller/Extras
 windowtextextractor.json,ScoopInstaller/Extras
+utpm.json,ScoopInstaller/Extras
 kubespy.json,ScoopInstaller/Extras
 bes.json,ScoopInstaller/Extras
 gcfscape.json,ScoopInstaller/Extras
@@ -5480,7 +5481,7 @@ vivaldi-snapshot.json,ScoopInstaller/Versions
 docker-nightly.json,ScoopInstaller/Versions
 goland-rc.json,ScoopInstaller/Versions
 spotdl-beta.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 nanazip-beta.json,ScoopInstaller/Versions
 php71-xdebug.json,ScoopInstaller/Versions
 php81-xdebug.json,ScoopInstaller/Versions
@@ -8621,7 +8622,7 @@ snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
 vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -9616,7 +9617,6 @@ alisthelper-portable.json,DoveBoy/Apps
 clink_DoveBoy.json,DoveBoy/Apps
 ruffle.json,DoveBoy/Apps
 cmder-full_DoveBoy.json,DoveBoy/Apps
-gimp.json,DoveBoy/Apps
 github-beta_DoveBoy.json,DoveBoy/Apps
 clashn.json,DoveBoy/Apps
 localsend_DoveBoy.json,DoveBoy/Apps
@@ -10454,7 +10454,7 @@ posh-cd.json,amorphobia/siku
 scoop-hook.json,amorphobia/siku
 clash-for-windows_amorphobia.json,amorphobia/siku
 idm-trial-reset.json,amorphobia/siku
-filebrowser.json,amorphobia/siku
+filebrowser_amorphobia.json,amorphobia/siku
 bind-lean.json,amorphobia/siku
 ipatool_amorphobia.json,amorphobia/siku
 webdav.json,amorphobia/siku
@@ -13848,7 +13848,7 @@ tytanic.json,typst-community/scoop-bucket
 typstscript.json,typst-community/scoop-bucket
 shiroa.json,typst-community/scoop-bucket
 typst-upgrade.json,typst-community/scoop-bucket
-utpm.json,typst-community/scoop-bucket
+utpm_typst-community.json,typst-community/scoop-bucket
 katvan.json,typst-community/scoop-bucket
 typst-ts-cli.json,typst-community/scoop-bucket
 tinymist_typst-community.json,typst-community/scoop-bucket
