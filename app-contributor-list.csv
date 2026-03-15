@@ -3054,6 +3054,7 @@ contour.json,ScoopInstaller/Extras
 psiphon3.json,ScoopInstaller/Extras
 hashcheck.json,ScoopInstaller/Extras
 mqtt-spy.json,ScoopInstaller/Extras
+inkwell.json,ScoopInstaller/Extras
 vcredist.json,ScoopInstaller/Extras
 opentoonz.json,ScoopInstaller/Extras
 hack-font.json,ScoopInstaller/Extras
@@ -5481,7 +5482,7 @@ vivaldi-snapshot.json,ScoopInstaller/Versions
 docker-nightly.json,ScoopInstaller/Versions
 goland-rc.json,ScoopInstaller/Versions
 spotdl-beta.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 nanazip-beta.json,ScoopInstaller/Versions
 php71-xdebug.json,ScoopInstaller/Versions
 php81-xdebug.json,ScoopInstaller/Versions
@@ -9647,7 +9648,7 @@ mitmproxy_DoveBoy.json,DoveBoy/Apps
 wiliwili_DoveBoy.json,DoveBoy/Apps
 energystar.json,DoveBoy/Apps
 openbbterminal-pre.json,DoveBoy/Apps
-unigetui.json,DoveBoy/Apps
+unigetui_DoveBoy.json,DoveBoy/Apps
 n_m3u8dl-re.json,DoveBoy/Apps
 neteaseuu_DoveBoy.json,DoveBoy/Apps
 xhs-downloader.json,DoveBoy/Apps
@@ -10763,7 +10764,7 @@ trays.json,NyaMisty/scoop_bucket_misty
 carnac-misty.json,NyaMisty/scoop_bucket_misty
 tun2proxy.json,NyaMisty/scoop_bucket_misty
 chfs_NyaMisty.json,NyaMisty/scoop_bucket_misty
-metasploit-framework_NyaMisty.json,NyaMisty/scoop_bucket_misty
+metasploit-framework.json,NyaMisty/scoop_bucket_misty
 fclone.json,NyaMisty/scoop_bucket_misty
 rizin-nightly.json,NyaMisty/scoop_bucket_misty
 jclasslib.json,NyaMisty/scoop_bucket_misty
