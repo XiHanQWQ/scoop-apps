@@ -2614,7 +2614,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -9546,6 +9546,7 @@ bililive-tools-cli.json,DoveBoy/Apps
 flyoobe-mediakit.json,DoveBoy/Apps
 lsix_DoveBoy.json,DoveBoy/Apps
 clash-for-windows-np_DoveBoy.json,DoveBoy/Apps
+study-xxqg-sjkhsl.json,DoveBoy/Apps
 wechat-backup.json,DoveBoy/Apps
 fideo-live-record.json,DoveBoy/Apps
 kcleaner_DoveBoy.json,DoveBoy/Apps
@@ -9646,7 +9647,7 @@ mitmproxy_DoveBoy.json,DoveBoy/Apps
 wiliwili_DoveBoy.json,DoveBoy/Apps
 energystar.json,DoveBoy/Apps
 openbbterminal-pre.json,DoveBoy/Apps
-unigetui_DoveBoy.json,DoveBoy/Apps
+unigetui.json,DoveBoy/Apps
 n_m3u8dl-re.json,DoveBoy/Apps
 neteaseuu_DoveBoy.json,DoveBoy/Apps
 xhs-downloader.json,DoveBoy/Apps
@@ -9900,7 +9901,6 @@ syncthing_DoveBoy.json,DoveBoy/Apps
 mpv-lazy.json,DoveBoy/Apps
 winsw_DoveBoy.json,DoveBoy/Apps
 sniffnet_DoveBoy.json,DoveBoy/Apps
-study-xxqg-sjkhsl.json,DoveBoy/Apps
 navidrome-portable.json,DoveBoy/Apps
 zipideo.json,DoveBoy/Apps
 superrdp.json,DoveBoy/Apps
@@ -9983,6 +9983,7 @@ kobi.json,DoveBoy/Apps
 mootool_DoveBoy.json,DoveBoy/Apps
 nping.json,DoveBoy/Apps
 obs-studio-pre.json,DoveBoy/Apps
+go-music-dl.json,DoveBoy/Apps
 cloudflared_DoveBoy.json,DoveBoy/Apps
 oneanime.json,DoveBoy/Apps
 trafficmonitor-lite_DoveBoy.json,DoveBoy/Apps
@@ -10256,7 +10257,6 @@ restart-explorer_DoveBoy.json,DoveBoy/Apps
 serverbox_DoveBoy.json,DoveBoy/Apps
 neovim_DoveBoy.json,DoveBoy/Apps
 kopia-ui.json,DoveBoy/Apps
-obs-studio_DoveBoy.json,DoveBoy/Apps
 pandoc_DoveBoy.json,DoveBoy/Apps
 sing-box_DoveBoy.json,DoveBoy/Apps
 cloc_DoveBoy.json,DoveBoy/Apps
