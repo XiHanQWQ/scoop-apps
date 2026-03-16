@@ -10122,7 +10122,7 @@ godmode.json,DoveBoy/Apps
 mpv-git_DoveBoy.json,DoveBoy/Apps
 jmcomic-downloader.json,DoveBoy/Apps
 regjump_DoveBoy.json,DoveBoy/Apps
-game-cheats-manager_DoveBoy.json,DoveBoy/Apps
+game-cheats-manager.json,DoveBoy/Apps
 wax.json,DoveBoy/Apps
 brackets_DoveBoy.json,DoveBoy/Apps
 backup-start-menu-layout_DoveBoy.json,DoveBoy/Apps
@@ -11305,7 +11305,7 @@ centbrowser-setup.json,WinApps-share/WinApps-bucket
 runcat_WinApps-share.json,WinApps-share/WinApps-bucket
 steam.json,WinApps-share/WinApps-bucket
 proxypin-np.json,WinApps-share/WinApps-bucket
-edge_WinApps-share.json,WinApps-share/WinApps-bucket
+edge.json,WinApps-share/WinApps-bucket
 picview_WinApps-share.json,WinApps-share/WinApps-bucket
 dbeaver_WinApps-share.json,WinApps-share/WinApps-bucket
 microsoft-net3.5.json,WinApps-share/WinApps-bucket
