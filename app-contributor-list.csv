@@ -5482,7 +5482,7 @@ vivaldi-snapshot.json,ScoopInstaller/Versions
 docker-nightly.json,ScoopInstaller/Versions
 goland-rc.json,ScoopInstaller/Versions
 spotdl-beta.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 nanazip-beta.json,ScoopInstaller/Versions
 php71-xdebug.json,ScoopInstaller/Versions
 php81-xdebug.json,ScoopInstaller/Versions
@@ -8625,7 +8625,7 @@ snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
 vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -8747,7 +8747,7 @@ bsnes-hd-beta_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
-ppsspp.json,borger/scoop-emulators
+ppsspp_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
 bsnes-nightly.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
@@ -10231,7 +10231,7 @@ jo_DoveBoy.json,DoveBoy/Apps
 hummingbird.json,DoveBoy/Apps
 dark_DoveBoy.json,DoveBoy/Apps
 keymap.json,DoveBoy/Apps
-dandanplay.json,DoveBoy/Apps
+dandanplay_DoveBoy.json,DoveBoy/Apps
 binggpt-portable.json,DoveBoy/Apps
 iobit-software-updater.json,DoveBoy/Apps
 repairbadtweaks.json,DoveBoy/Apps
