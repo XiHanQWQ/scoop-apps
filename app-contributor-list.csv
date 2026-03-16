@@ -8628,7 +8628,7 @@ snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
 vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -9116,7 +9116,7 @@ simple-live.json,akirco/aki-apps
 clashrauto.json,akirco/aki-apps
 empty-recycle-bin_akirco.json,akirco/aki-apps
 everything_akirco.json,akirco/aki-apps
-figma_akirco.json,akirco/aki-apps
+figma.json,akirco/aki-apps
 dingtalk_akirco.json,akirco/aki-apps
 dyad_akirco.json,akirco/aki-apps
 bcut.json,akirco/aki-apps
@@ -9653,7 +9653,7 @@ mitmproxy_DoveBoy.json,DoveBoy/Apps
 wiliwili_DoveBoy.json,DoveBoy/Apps
 energystar.json,DoveBoy/Apps
 openbbterminal-pre.json,DoveBoy/Apps
-unigetui_DoveBoy.json,DoveBoy/Apps
+unigetui.json,DoveBoy/Apps
 n_m3u8dl-re.json,DoveBoy/Apps
 neteaseuu_DoveBoy.json,DoveBoy/Apps
 xhs-downloader.json,DoveBoy/Apps
