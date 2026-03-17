@@ -1071,7 +1071,7 @@ php5.6.24-nts.json,ScoopInstaller/PHP
 php7.0.17.json,ScoopInstaller/PHP
 php5.5.20.json,ScoopInstaller/PHP
 php5.2.9-nts.json,ScoopInstaller/PHP
-Bundletool.json,sliots/ScoopBucket
+Bundletool_sliots.json,sliots/ScoopBucket
 BiliCLOnline.json,sliots/ScoopBucket
 fetch-github-hosts.json,sliots/ScoopBucket
 EasySpider.json,sliots/ScoopBucket
@@ -5364,6 +5364,7 @@ lapce-nightly.json,ScoopInstaller/Versions
 brave-beta.json,ScoopInstaller/Versions
 dotnet3-sdk.json,ScoopInstaller/Versions
 zed-opengl-nightly.json,ScoopInstaller/Versions
+zed-pre.json,ScoopInstaller/Versions
 audacity2.4.2.json,ScoopInstaller/Versions
 postgresql10.json,ScoopInstaller/Versions
 mysql56.json,ScoopInstaller/Versions
@@ -9671,7 +9672,7 @@ vutronmusic.json,DoveBoy/Apps
 fanqie-novel-downloader.json,DoveBoy/Apps
 xx-net_DoveBoy.json,DoveBoy/Apps
 mingw_DoveBoy.json,DoveBoy/Apps
-joplin-pre_DoveBoy.json,DoveBoy/Apps
+joplin-pre.json,DoveBoy/Apps
 nekoray_DoveBoy.json,DoveBoy/Apps
 npm-completion_DoveBoy.json,DoveBoy/Apps
 quickclipboard-portable.json,DoveBoy/Apps
@@ -14028,7 +14029,7 @@ icechat_littleli.json,littleli/Scoop-littleli
 tokio-console.json,littleli/Scoop-littleli
 immuadmin.json,littleli/Scoop-littleli
 immuclient.json,littleli/Scoop-littleli
-ladybugdb.json,littleli/Scoop-littleli
+ladybugdb_littleli.json,littleli/Scoop-littleli
 immudb.json,littleli/Scoop-littleli
 jedit_littleli.json,littleli/Scoop-littleli
 fresh-editor.json,littleli/Scoop-littleli
