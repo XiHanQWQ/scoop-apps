@@ -2664,7 +2664,7 @@ topnotify.json,ScoopInstaller/Extras
 qmk-toolbox.json,ScoopInstaller/Extras
 coreftp.json,ScoopInstaller/Extras
 puttytel.json,ScoopInstaller/Extras
-jetbrains-toolbox_ScoopInstaller.json,ScoopInstaller/Extras
+jetbrains-toolbox.json,ScoopInstaller/Extras
 glary-utilities.json,ScoopInstaller/Extras
 lite.json,ScoopInstaller/Extras
 arcwelder.json,ScoopInstaller/Extras
@@ -9260,7 +9260,7 @@ sayit_akirco.json,akirco/aki-apps
 ima-copilot.json,akirco/aki-apps
 optipng_akirco.json,akirco/aki-apps
 glow_akirco.json,akirco/aki-apps
-vscode.json,akirco/aki-apps
+vscode_akirco.json,akirco/aki-apps
 aliyundrive_akirco.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
 filezilla_akirco.json,akirco/aki-apps
@@ -9672,7 +9672,7 @@ vutronmusic.json,DoveBoy/Apps
 fanqie-novel-downloader.json,DoveBoy/Apps
 xx-net_DoveBoy.json,DoveBoy/Apps
 mingw_DoveBoy.json,DoveBoy/Apps
-joplin-pre.json,DoveBoy/Apps
+joplin-pre_DoveBoy.json,DoveBoy/Apps
 nekoray_DoveBoy.json,DoveBoy/Apps
 npm-completion_DoveBoy.json,DoveBoy/Apps
 quickclipboard-portable.json,DoveBoy/Apps
@@ -10219,7 +10219,7 @@ cloudreve-beta.json,DoveBoy/Apps
 qbittorrent-enhanced_DoveBoy.json,DoveBoy/Apps
 clashcross.json,DoveBoy/Apps
 v2ray-rules-dat.json,DoveBoy/Apps
-sumatrapdf-installer_DoveBoy.json,DoveBoy/Apps
+sumatrapdf-installer.json,DoveBoy/Apps
 v2rayn.json,DoveBoy/Apps
 esearch_DoveBoy.json,DoveBoy/Apps
 any-listen-desktop.json,DoveBoy/Apps
@@ -12055,6 +12055,7 @@ anew_aliesbelik.json,aliesbelik/poldi
 proxify_aliesbelik.json,aliesbelik/poldi
 ntttcp.json,aliesbelik/poldi
 ck-cli.json,aliesbelik/poldi
+biome_Small-Ku.json,Small-Ku/turbo-bucket
 windivert.json,Small-Ku/turbo-bucket
 exiftool_Small-Ku.json,Small-Ku/turbo-bucket
 ruffle_Small-Ku.json,Small-Ku/turbo-bucket
@@ -12074,7 +12075,6 @@ antigravity-manager.json,Small-Ku/turbo-bucket
 dmm-fast-launcher.json,Small-Ku/turbo-bucket
 vencord-installer_Small-Ku.json,Small-Ku/turbo-bucket
 untrunc.json,Small-Ku/turbo-bucket
-claude-code_Small-Ku.json,Small-Ku/turbo-bucket
 stuntman.json,Small-Ku/turbo-bucket
 compressonator.json,Small-Ku/turbo-bucket
 yap-nightly.json,Small-Ku/turbo-bucket
@@ -12089,8 +12089,10 @@ kondo_Small-Ku.json,Small-Ku/turbo-bucket
 mort.json,Small-Ku/turbo-bucket
 starward_Small-Ku.json,Small-Ku/turbo-bucket
 otfcc_Small-Ku.json,Small-Ku/turbo-bucket
+kilo-code.json,Small-Ku/turbo-bucket
 llama-cpp-rocm-gfx110x.json,Small-Ku/turbo-bucket
 ffmpeg-shared-svt-av1-hdr.json,Small-Ku/turbo-bucket
+qoder-cli.json,Small-Ku/turbo-bucket
 psst.json,Small-Ku/turbo-bucket
 dorion.json,Small-Ku/turbo-bucket
 wintun.json,Small-Ku/turbo-bucket
