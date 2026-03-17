@@ -5488,7 +5488,7 @@ docker-nightly.json,ScoopInstaller/Versions
 winbox3.json,ScoopInstaller/Versions
 goland-rc.json,ScoopInstaller/Versions
 spotdl-beta.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 nanazip-beta.json,ScoopInstaller/Versions
 php71-xdebug.json,ScoopInstaller/Versions
 php81-xdebug.json,ScoopInstaller/Versions
@@ -8631,7 +8631,7 @@ snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
 vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -8766,7 +8766,7 @@ mgba_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -9164,7 +9164,7 @@ postman_akirco.json,akirco/aki-apps
 time_akirco.json,akirco/aki-apps
 rclone_akirco.json,akirco/aki-apps
 win32-openssh.json,akirco/aki-apps
-powertoys_akirco.json,akirco/aki-apps
+powertoys.json,akirco/aki-apps
 hosts.json,akirco/aki-apps
 jetbrains-toolbox_akirco.json,akirco/aki-apps
 hub_akirco.json,akirco/aki-apps
@@ -10069,6 +10069,7 @@ quardcrt.json,DoveBoy/Apps
 smartsub.json,DoveBoy/Apps
 microsoft-activation-scripts.json,DoveBoy/Apps
 min_DoveBoy.json,DoveBoy/Apps
+powertoys_DoveBoy.json,DoveBoy/Apps
 bestsub.json,DoveBoy/Apps
 qtunblockneteasemusic.json,DoveBoy/Apps
 speedtest-go_DoveBoy.json,DoveBoy/Apps
@@ -10219,7 +10220,7 @@ cloudreve-beta.json,DoveBoy/Apps
 qbittorrent-enhanced_DoveBoy.json,DoveBoy/Apps
 clashcross.json,DoveBoy/Apps
 v2ray-rules-dat.json,DoveBoy/Apps
-sumatrapdf-installer.json,DoveBoy/Apps
+sumatrapdf-installer_DoveBoy.json,DoveBoy/Apps
 v2rayn.json,DoveBoy/Apps
 esearch_DoveBoy.json,DoveBoy/Apps
 any-listen-desktop.json,DoveBoy/Apps
@@ -15039,7 +15040,6 @@ stella.json,milnak/scoop-bucket
 distella.json,milnak/scoop-bucket
 amazon-kindle.json,milnak/scoop-bucket
 winspy-m417z.json,milnak/scoop-bucket
-audiveris_milnak.json,milnak/scoop-bucket
 notepad4-avx2_milnak.json,milnak/scoop-bucket
 usb-device-tree-viewer.json,milnak/scoop-bucket
 pod-ui.json,milnak/scoop-bucket
