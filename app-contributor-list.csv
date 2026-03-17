@@ -5171,6 +5171,7 @@ linqpad5.json,ScoopInstaller/Versions
 v2rayn-pre.json,ScoopInstaller/Versions
 ruby32.json,ScoopInstaller/Versions
 cuda11.6.json,ScoopInstaller/Versions
+php85.json,ScoopInstaller/Versions
 lite-xl-addons.json,ScoopInstaller/Versions
 prusaslicer-pre.json,ScoopInstaller/Versions
 ruby25.json,ScoopInstaller/Versions
@@ -5483,6 +5484,7 @@ oracle-instant-client-odbc19.json,ScoopInstaller/Versions
 julia-lts.json,ScoopInstaller/Versions
 vivaldi-snapshot.json,ScoopInstaller/Versions
 docker-nightly.json,ScoopInstaller/Versions
+winbox3.json,ScoopInstaller/Versions
 goland-rc.json,ScoopInstaller/Versions
 spotdl-beta.json,ScoopInstaller/Versions
 swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
@@ -9136,6 +9138,7 @@ poppler_akirco.json,akirco/aki-apps
 nircmd_akirco.json,akirco/aki-apps
 monolith_akirco.json,akirco/aki-apps
 far_akirco.json,akirco/aki-apps
+bilibili-livehime.json,akirco/aki-apps
 pnpm_akirco.json,akirco/aki-apps
 yuanbao.json,akirco/aki-apps
 rufus_akirco.json,akirco/aki-apps
@@ -9256,7 +9259,7 @@ sayit_akirco.json,akirco/aki-apps
 ima-copilot.json,akirco/aki-apps
 optipng_akirco.json,akirco/aki-apps
 glow_akirco.json,akirco/aki-apps
-vscode_akirco.json,akirco/aki-apps
+vscode.json,akirco/aki-apps
 aliyundrive_akirco.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
 filezilla_akirco.json,akirco/aki-apps
@@ -14910,7 +14913,7 @@ chatgpt-next-web_maboloshi.json,maboloshi/scoop-private
 fonts-cesi.json,maboloshi/scoop-private
 wechat_maboloshi.json,maboloshi/scoop-private
 sublime-merge_maboloshi.json,maboloshi/scoop-private
-ima-copilot.json,maboloshi/scoop-private
+ima-copilot_maboloshi.json,maboloshi/scoop-private
 clash-verge-rev_maboloshi.json,maboloshi/scoop-private
 tiny-rdm.json,windedge/ladle-bucket
 godsvg.json,windedge/ladle-bucket
