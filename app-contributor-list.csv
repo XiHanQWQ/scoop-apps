@@ -2614,7 +2614,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -4197,7 +4197,7 @@ pixpin.json,Scoopforge/Extras-CN
 navicat-premium-lite-cn.json,Scoopforge/Extras-CN
 cajviewer_Scoopforge.json,Scoopforge/Extras-CN
 regester.json,Scoopforge/Extras-CN
-neteasemusic_Scoopforge.json,Scoopforge/Extras-CN
+neteasemusic.json,Scoopforge/Extras-CN
 julia-cn.json,Scoopforge/Extras-CN
 quicker.json,Scoopforge/Extras-CN
 utools_Scoopforge.json,Scoopforge/Extras-CN
@@ -9511,7 +9511,7 @@ win10-initial-setup-script.json,TheRandomLabs/Scoop-Bucket
 rfxgen.json,TheRandomLabs/Scoop-Bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
 freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
@@ -11096,7 +11096,7 @@ wezterm-portable.json,naderi/scoop-bucket
 markdown-edit.json,naderi/scoop-bucket
 pushbullet.json,naderi/scoop-bucket
 eventlogviewer.json,naderi/scoop-bucket
-java-editor.json,naderi/scoop-bucket
+java-editor_naderi.json,naderi/scoop-bucket
 ant-renamer.json,naderi/scoop-bucket
 sqlite-gui_naderi.json,naderi/scoop-bucket
 adblink.json,naderi/scoop-bucket
@@ -14910,7 +14910,7 @@ chatgpt-next-web_maboloshi.json,maboloshi/scoop-private
 fonts-cesi.json,maboloshi/scoop-private
 wechat_maboloshi.json,maboloshi/scoop-private
 sublime-merge_maboloshi.json,maboloshi/scoop-private
-ima-copilot_maboloshi.json,maboloshi/scoop-private
+ima-copilot.json,maboloshi/scoop-private
 clash-verge-rev_maboloshi.json,maboloshi/scoop-private
 tiny-rdm.json,windedge/ladle-bucket
 godsvg.json,windedge/ladle-bucket
