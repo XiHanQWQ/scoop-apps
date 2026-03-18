@@ -1214,7 +1214,7 @@ rclone-ui.json,ScoopInstaller/Extras
 opera-gx.json,ScoopInstaller/Extras
 streamlabs-chatbot.json,ScoopInstaller/Extras
 droidcam.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 altbacktick.json,ScoopInstaller/Extras
 owncloud.json,ScoopInstaller/Extras
 foto-mosaik-edda.json,ScoopInstaller/Extras
@@ -2614,7 +2614,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -2664,7 +2664,7 @@ topnotify.json,ScoopInstaller/Extras
 qmk-toolbox.json,ScoopInstaller/Extras
 coreftp.json,ScoopInstaller/Extras
 puttytel.json,ScoopInstaller/Extras
-jetbrains-toolbox.json,ScoopInstaller/Extras
+jetbrains-toolbox_ScoopInstaller.json,ScoopInstaller/Extras
 glary-utilities.json,ScoopInstaller/Extras
 lite.json,ScoopInstaller/Extras
 arcwelder.json,ScoopInstaller/Extras
@@ -4197,7 +4197,7 @@ pixpin.json,Scoopforge/Extras-CN
 navicat-premium-lite-cn.json,Scoopforge/Extras-CN
 cajviewer_Scoopforge.json,Scoopforge/Extras-CN
 regester.json,Scoopforge/Extras-CN
-neteasemusic.json,Scoopforge/Extras-CN
+neteasemusic_Scoopforge.json,Scoopforge/Extras-CN
 julia-cn.json,Scoopforge/Extras-CN
 quicker.json,Scoopforge/Extras-CN
 utools_Scoopforge.json,Scoopforge/Extras-CN
@@ -5488,7 +5488,7 @@ docker-nightly.json,ScoopInstaller/Versions
 winbox3.json,ScoopInstaller/Versions
 goland-rc.json,ScoopInstaller/Versions
 spotdl-beta.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 nanazip-beta.json,ScoopInstaller/Versions
 php71-xdebug.json,ScoopInstaller/Versions
 php81-xdebug.json,ScoopInstaller/Versions
@@ -8631,7 +8631,7 @@ snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
 vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -8766,7 +8766,7 @@ mgba_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -9139,7 +9139,6 @@ poppler_akirco.json,akirco/aki-apps
 nircmd_akirco.json,akirco/aki-apps
 monolith_akirco.json,akirco/aki-apps
 far_akirco.json,akirco/aki-apps
-bilibili-livehime.json,akirco/aki-apps
 pnpm_akirco.json,akirco/aki-apps
 yuanbao.json,akirco/aki-apps
 rufus_akirco.json,akirco/aki-apps
@@ -9164,7 +9163,7 @@ postman_akirco.json,akirco/aki-apps
 time_akirco.json,akirco/aki-apps
 rclone_akirco.json,akirco/aki-apps
 win32-openssh.json,akirco/aki-apps
-powertoys.json,akirco/aki-apps
+powertoys_akirco.json,akirco/aki-apps
 hosts.json,akirco/aki-apps
 jetbrains-toolbox_akirco.json,akirco/aki-apps
 hub_akirco.json,akirco/aki-apps
@@ -10069,7 +10068,6 @@ quardcrt.json,DoveBoy/Apps
 smartsub.json,DoveBoy/Apps
 microsoft-activation-scripts.json,DoveBoy/Apps
 min_DoveBoy.json,DoveBoy/Apps
-powertoys_DoveBoy.json,DoveBoy/Apps
 bestsub.json,DoveBoy/Apps
 qtunblockneteasemusic.json,DoveBoy/Apps
 speedtest-go_DoveBoy.json,DoveBoy/Apps
@@ -12104,7 +12102,7 @@ letta-code.json,Small-Ku/turbo-bucket
 orbolay.json,Small-Ku/turbo-bucket
 better-genshin-impact.json,Small-Ku/turbo-bucket
 freebuff.json,Small-Ku/turbo-bucket
-gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
+gemini-cli.json,Small-Ku/turbo-bucket
 iflow-cli.json,Small-Ku/turbo-bucket
 clash-rs.json,Small-Ku/turbo-bucket
 atlassian-cli.json,Small-Ku/turbo-bucket
