@@ -2915,6 +2915,7 @@ ghidra.json,ScoopInstaller/Extras
 whynotwin11.json,ScoopInstaller/Extras
 show-disk-partition-style.json,ScoopInstaller/Extras
 vcredist2010.json,ScoopInstaller/Extras
+notepad--.json,ScoopInstaller/Extras
 foobar2000.json,ScoopInstaller/Extras
 soundswitch.json,ScoopInstaller/Extras
 perfview.json,ScoopInstaller/Extras
@@ -4205,6 +4206,7 @@ obs-studio-cn.json,Scoopforge/Extras-CN
 cnkiexpress.json,Scoopforge/Extras-CN
 esearch_Scoopforge.json,Scoopforge/Extras-CN
 heu-kms-activator.json,Scoopforge/Extras-CN
+goldendict-ng.json,Scoopforge/Extras-CN
 lceda.json,Scoopforge/Extras-CN
 mpv.net-cm.json,Scoopforge/Extras-CN
 quickbib.json,Scoopforge/Extras-CN
@@ -6285,7 +6287,7 @@ we-meet.json,scoopcn/scoopcn
 ade.json,scoopcn/scoopcn
 locaspace.json,scoopcn/scoopcn
 dingtalk-gov.json,scoopcn/scoopcn
-feishu_scoopcn.json,scoopcn/scoopcn
+feishu.json,scoopcn/scoopcn
 wxwork.json,scoopcn/scoopcn
 procexp.json,scoopcn/scoopcn
 wechat-devtools.json,scoopcn/scoopcn
@@ -7841,7 +7843,7 @@ NanoEmacs.json,dodorz/scoop
 lunar.json,dodorz/scoop
 Tabby_dodorz.json,dodorz/scoop
 biyi.json,dodorz/scoop
-Notepad--.json,dodorz/scoop
+Notepad--_dodorz.json,dodorz/scoop
 fsum.json,dodorz/scoop
 NSMusicS.json,dodorz/scoop
 GPTCraft.json,dodorz/scoop
@@ -8771,7 +8773,6 @@ redream_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
-ps3-system-software_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
 gopher64_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
@@ -8941,7 +8942,7 @@ pyxis.json,ViCrack/scoop-bucket
 easy-context-menu_ViCrack.json,ViCrack/scoop-bucket
 xpoc_ViCrack.json,ViCrack/scoop-bucket
 cyberapi.json,ViCrack/scoop-bucket
-yakit_ViCrack.json,ViCrack/scoop-bucket
+yakit.json,ViCrack/scoop-bucket
 subfinder_ViCrack.json,ViCrack/scoop-bucket
 mdut_ViCrack.json,ViCrack/scoop-bucket
 rubick.json,ViCrack/scoop-bucket
@@ -9588,6 +9589,7 @@ clashy.json,DoveBoy/Apps
 book-searcher.json,DoveBoy/Apps
 study-xxqg-beta.json,DoveBoy/Apps
 64gram-release.json,DoveBoy/Apps
+wingetui_DoveBoy.json,DoveBoy/Apps
 mihomo-compatible-go120.json,DoveBoy/Apps
 pdf-guru.json,DoveBoy/Apps
 clash.meta-alpha.json,DoveBoy/Apps
@@ -9628,6 +9630,7 @@ alisthelper-portable.json,DoveBoy/Apps
 clink_DoveBoy.json,DoveBoy/Apps
 ruffle.json,DoveBoy/Apps
 cmder-full_DoveBoy.json,DoveBoy/Apps
+gimp_DoveBoy.json,DoveBoy/Apps
 github-beta_DoveBoy.json,DoveBoy/Apps
 clashn.json,DoveBoy/Apps
 localsend_DoveBoy.json,DoveBoy/Apps
@@ -10197,7 +10200,6 @@ waifu2x-snowshell_DoveBoy.json,DoveBoy/Apps
 psreadline_DoveBoy.json,DoveBoy/Apps
 lsx.json,DoveBoy/Apps
 clash-rev.json,DoveBoy/Apps
-wingetui_DoveBoy.json,DoveBoy/Apps
 drive-icon-manager.json,DoveBoy/Apps
 shadowsocks-qtun-plugin_DoveBoy.json,DoveBoy/Apps
 ttime.json,DoveBoy/Apps
@@ -10238,7 +10240,7 @@ jo_DoveBoy.json,DoveBoy/Apps
 hummingbird.json,DoveBoy/Apps
 dark_DoveBoy.json,DoveBoy/Apps
 keymap.json,DoveBoy/Apps
-dandanplay_DoveBoy.json,DoveBoy/Apps
+dandanplay.json,DoveBoy/Apps
 binggpt-portable.json,DoveBoy/Apps
 iobit-software-updater.json,DoveBoy/Apps
 repairbadtweaks.json,DoveBoy/Apps
