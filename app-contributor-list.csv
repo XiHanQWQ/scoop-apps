@@ -5488,7 +5488,7 @@ docker-nightly.json,ScoopInstaller/Versions
 winbox3.json,ScoopInstaller/Versions
 goland-rc.json,ScoopInstaller/Versions
 spotdl-beta.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 nanazip-beta.json,ScoopInstaller/Versions
 php71-xdebug.json,ScoopInstaller/Versions
 php81-xdebug.json,ScoopInstaller/Versions
@@ -8771,6 +8771,7 @@ redream_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
+ps3-system-software_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
 gopher64_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
@@ -9623,7 +9624,6 @@ bilibili-backup_DoveBoy.json,DoveBoy/Apps
 ofgb.json,DoveBoy/Apps
 clink-completions_DoveBoy.json,DoveBoy/Apps
 qkeymapper-qt6.json,DoveBoy/Apps
-electerm_DoveBoy.json,DoveBoy/Apps
 alisthelper-portable.json,DoveBoy/Apps
 clink_DoveBoy.json,DoveBoy/Apps
 ruffle.json,DoveBoy/Apps
@@ -11629,6 +11629,7 @@ dispatch.json,brian6932/dank-scoop
 eacopy.json,brian6932/dank-scoop
 jointbilateral.json,brian6932/dank-scoop
 svg_to_ico.json,brian6932/dank-scoop
+ballsheetogl.json,brian6932/dank-scoop
 chroot_brian6932.json,brian6932/dank-scoop
 gameboosthd_brian6932.json,brian6932/dank-scoop
 KryptorGUI.json,brian6932/dank-scoop
@@ -14742,7 +14743,7 @@ efm-langserver.json,ShuguangSun/sgs-scoop-bucket
 file-converter_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 busybox64u.json,ShuguangSun/sgs-scoop-bucket
 r-openblas.json,ShuguangSun/sgs-scoop-bucket
-r-devel.json,ShuguangSun/sgs-scoop-bucket
+r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 openjdk14_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 cherry-studio-1.1.5.json,ShuguangSun/sgs-scoop-bucket
 emacs-nonnative.json,ShuguangSun/sgs-scoop-bucket
