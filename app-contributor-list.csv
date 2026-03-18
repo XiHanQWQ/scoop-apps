@@ -2614,7 +2614,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -8804,7 +8804,7 @@ redream-dev_borger.json,borger/scoop-emulators
 filemenutools.json,ViCrack/scoop-bucket
 postman-cn.json,ViCrack/scoop-bucket
 winasar.json,ViCrack/scoop-bucket
-newfiletime.json,ViCrack/scoop-bucket
+newfiletime_ViCrack.json,ViCrack/scoop-bucket
 quasar.json,ViCrack/scoop-bucket
 PowerRun.json,ViCrack/scoop-bucket
 memshellparty.json,ViCrack/scoop-bucket
@@ -9623,6 +9623,7 @@ bilibili-backup_DoveBoy.json,DoveBoy/Apps
 ofgb.json,DoveBoy/Apps
 clink-completions_DoveBoy.json,DoveBoy/Apps
 qkeymapper-qt6.json,DoveBoy/Apps
+electerm_DoveBoy.json,DoveBoy/Apps
 alisthelper-portable.json,DoveBoy/Apps
 clink_DoveBoy.json,DoveBoy/Apps
 ruffle.json,DoveBoy/Apps
@@ -10995,7 +10996,7 @@ universal-viewer-pro.json,naderi/scoop-bucket
 restexplorer.json,naderi/scoop-bucket
 mdict_naderi.json,naderi/scoop-bucket
 explorerplusplus_naderi.json,naderi/scoop-bucket
-processko.json,naderi/scoop-bucket
+processko_naderi.json,naderi/scoop-bucket
 ucalendar-portable.json,naderi/scoop-bucket
 wox-portable.json,naderi/scoop-bucket
 resonic.json,naderi/scoop-bucket
@@ -14741,7 +14742,7 @@ efm-langserver.json,ShuguangSun/sgs-scoop-bucket
 file-converter_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 busybox64u.json,ShuguangSun/sgs-scoop-bucket
 r-openblas.json,ShuguangSun/sgs-scoop-bucket
-r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+r-devel.json,ShuguangSun/sgs-scoop-bucket
 openjdk14_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 cherry-studio-1.1.5.json,ShuguangSun/sgs-scoop-bucket
 emacs-nonnative.json,ShuguangSun/sgs-scoop-bucket
