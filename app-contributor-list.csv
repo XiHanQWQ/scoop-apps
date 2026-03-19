@@ -8020,7 +8020,7 @@ MathTranslate.json,dodorz/scoop
 googler.json,dodorz/scoop
 FastCopy_dodorz.json,dodorz/scoop
 XVI32.json,dodorz/scoop
-ChatWise_dodorz.json,dodorz/scoop
+ChatWise.json,dodorz/scoop
 RRShare.json,dodorz/scoop
 CreaWriter.json,dodorz/scoop
 Iridium.json,dodorz/scoop
@@ -8122,7 +8122,7 @@ Witsy.json,dodorz/scoop
 UnrealCommander.json,dodorz/scoop
 KindleMate.json,dodorz/scoop
 KISSPlayer.json,dodorz/scoop
-muCommander_dodorz.json,dodorz/scoop
+muCommander.json,dodorz/scoop
 IniFile.json,dodorz/scoop
 mimeTeX.json,dodorz/scoop
 bat-extras.json,dodorz/scoop
@@ -8242,6 +8242,7 @@ Weasel.json,dodorz/scoop
 WriteMonkey3.json,dodorz/scoop
 Tideflow.json,dodorz/scoop
 Marp-deprecated.json,dodorz/scoop
+UpSnap.json,dodorz/scoop
 INetGet.json,dodorz/scoop
 BusyBox-Unicode.json,dodorz/scoop
 MADPlay.json,dodorz/scoop
@@ -8286,6 +8287,7 @@ eza-ls.json,dodorz/scoop
 XnViewClassic-Full.json,dodorz/scoop
 Wink.json,dodorz/scoop
 Baulk_dodorz.json,dodorz/scoop
+z_lua.json,dodorz/scoop
 neofetch_dodorz.json,dodorz/scoop
 Diffuse.json,dodorz/scoop
 VisualSVN-Cli.json,dodorz/scoop
@@ -8318,7 +8320,6 @@ HashCodes.json,dodorz/scoop
 CyberShredder.json,dodorz/scoop
 TorchBrowser.json,dodorz/scoop
 DesktopNoteOK.json,dodorz/scoop
-z.lua_dodorz.json,dodorz/scoop
 PicPick_dodorz.json,dodorz/scoop
 KingDraw_dodorz.json,dodorz/scoop
 WFPQuery.json,dodorz/scoop
@@ -8854,7 +8855,7 @@ rad_ViCrack.json,ViCrack/scoop-bucket
 TscanPlus_ViCrack.json,ViCrack/scoop-bucket
 dnsx_ViCrack.json,ViCrack/scoop-bucket
 struts2vulsscantools.json,ViCrack/scoop-bucket
-cherry-studio_ViCrack.json,ViCrack/scoop-bucket
+cherry-studio.json,ViCrack/scoop-bucket
 1remote.json,ViCrack/scoop-bucket
 ysomap.json,ViCrack/scoop-bucket
 finalshell.json,ViCrack/scoop-bucket
@@ -9034,7 +9035,7 @@ vcredist2015.json,akirco/aki-apps
 vcredist2012_akirco.json,akirco/aki-apps
 runjs_akirco.json,akirco/aki-apps
 ntop_akirco.json,akirco/aki-apps
-chromium_akirco.json,akirco/aki-apps
+chromium.json,akirco/aki-apps
 tup_akirco.json,akirco/aki-apps
 innounpacker_akirco.json,akirco/aki-apps
 vcredist2022_akirco.json,akirco/aki-apps
@@ -12744,7 +12745,7 @@ configure-defender.json,Scoopforge/Extras-Plus
 dbgate.json,Scoopforge/Extras-Plus
 pdf4qt.json,Scoopforge/Extras-Plus
 jigdo.json,Scoopforge/Extras-Plus
-vibe.json,Scoopforge/Extras-Plus
+vibe_Scoopforge.json,Scoopforge/Extras-Plus
 netlogo.json,Scoopforge/Extras-Plus
 linkandroid_Scoopforge.json,Scoopforge/Extras-Plus
 tropy.json,Scoopforge/Extras-Plus
@@ -14915,7 +14916,7 @@ languagetool-java_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 rtools45.json,ShuguangSun/sgs-scoop-bucket
 tiny-rdm.json,windedge/ladle-bucket
 godsvg.json,windedge/ladle-bucket
-5ire.json,windedge/ladle-bucket
+5ire_windedge.json,windedge/ladle-bucket
 temurin20-jdk_windedge.json,windedge/ladle-bucket
 scia-reto.json,windedge/ladle-bucket
 zen-browser_windedge.json,windedge/ladle-bucket
