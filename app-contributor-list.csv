@@ -7535,11 +7535,12 @@ mq-view.json,cderv/r-bucket
 chrome-headless-shell.json,cderv/r-bucket
 arf.json,cderv/r-bucket
 beads-rust.json,cderv/r-bucket
-rtk.json,cderv/r-bucket
+rtk_cderv.json,cderv/r-bucket
 rstudio-preview_cderv.json,cderv/r-bucket
 qvm.json,cderv/r-bucket
 tinytex-min.json,cderv/r-bucket
 rstudio-2023.09.json,cderv/r-bucket
+mq-check.json,cderv/r-bucket
 rstudio-pro-preview.json,cderv/r-bucket
 positron-daily.json,cderv/r-bucket
 rstudio-daily_cderv.json,cderv/r-bucket
@@ -7995,6 +7996,7 @@ adobe-source-han-sans-cn-fonts.json,dodorz/scoop
 ShortcutsSearchAndReplace.json,dodorz/scoop
 WinGPG.json,dodorz/scoop
 PicoClaw.json,dodorz/scoop
+Moraya.json,dodorz/scoop
 EncryptCare.json,dodorz/scoop
 Jamjams.json,dodorz/scoop
 pdftk-java.json,dodorz/scoop
@@ -8086,6 +8088,7 @@ WizNoteLite.json,dodorz/scoop
 MiKTeX_dodorz.json,dodorz/scoop
 win32pad.json,dodorz/scoop
 Exiv2.json,dodorz/scoop
+WorkBuddy.json,dodorz/scoop
 dawn.json,dodorz/scoop
 Falkon_dodorz.json,dodorz/scoop
 CSVsort.json,dodorz/scoop
@@ -8855,7 +8858,7 @@ rad_ViCrack.json,ViCrack/scoop-bucket
 TscanPlus_ViCrack.json,ViCrack/scoop-bucket
 dnsx_ViCrack.json,ViCrack/scoop-bucket
 struts2vulsscantools.json,ViCrack/scoop-bucket
-cherry-studio.json,ViCrack/scoop-bucket
+cherry-studio_ViCrack.json,ViCrack/scoop-bucket
 1remote.json,ViCrack/scoop-bucket
 ysomap.json,ViCrack/scoop-bucket
 finalshell.json,ViCrack/scoop-bucket
@@ -8936,7 +8939,7 @@ edx.json,ViCrack/scoop-bucket
 siyuan-ce.json,ViCrack/scoop-bucket
 contextmenumanager_ViCrack.json,ViCrack/scoop-bucket
 extremedumper.json,ViCrack/scoop-bucket
-feishurevokemsgpatcher_ViCrack.json,ViCrack/scoop-bucket
+feishurevokemsgpatcher.json,ViCrack/scoop-bucket
 7z-build-nsis.json,ViCrack/scoop-bucket
 blueteamtools_ViCrack.json,ViCrack/scoop-bucket
 notify_ViCrack.json,ViCrack/scoop-bucket
@@ -9035,7 +9038,7 @@ vcredist2015.json,akirco/aki-apps
 vcredist2012_akirco.json,akirco/aki-apps
 runjs_akirco.json,akirco/aki-apps
 ntop_akirco.json,akirco/aki-apps
-chromium.json,akirco/aki-apps
+chromium_akirco.json,akirco/aki-apps
 tup_akirco.json,akirco/aki-apps
 innounpacker_akirco.json,akirco/aki-apps
 vcredist2022_akirco.json,akirco/aki-apps
