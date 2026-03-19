@@ -2614,7 +2614,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -3368,7 +3368,7 @@ datagrip.json,ScoopInstaller/Extras
 tlaplus-toolbox.json,ScoopInstaller/Extras
 smartsynchronize.json,ScoopInstaller/Extras
 camstudio.json,ScoopInstaller/Extras
-vscode.json,ScoopInstaller/Extras
+vscode_ScoopInstaller.json,ScoopInstaller/Extras
 clash-verge-rev.json,ScoopInstaller/Extras
 taskbarx.json,ScoopInstaller/Extras
 harmony.json,ScoopInstaller/Extras
@@ -5490,7 +5490,7 @@ docker-nightly.json,ScoopInstaller/Versions
 winbox3.json,ScoopInstaller/Versions
 goland-rc.json,ScoopInstaller/Versions
 spotdl-beta.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 nanazip-beta.json,ScoopInstaller/Versions
 php71-xdebug.json,ScoopInstaller/Versions
 php81-xdebug.json,ScoopInstaller/Versions
@@ -6287,7 +6287,7 @@ we-meet.json,scoopcn/scoopcn
 ade.json,scoopcn/scoopcn
 locaspace.json,scoopcn/scoopcn
 dingtalk-gov.json,scoopcn/scoopcn
-feishu.json,scoopcn/scoopcn
+feishu_scoopcn.json,scoopcn/scoopcn
 wxwork.json,scoopcn/scoopcn
 procexp.json,scoopcn/scoopcn
 wechat-devtools.json,scoopcn/scoopcn
@@ -9024,7 +9024,7 @@ highlight_akirco.json,akirco/aki-apps
 npm-completion.json,akirco/aki-apps
 windsurf_akirco.json,akirco/aki-apps
 netch_akirco.json,akirco/aki-apps
-flutter.json,akirco/aki-apps
+flutter_akirco.json,akirco/aki-apps
 rclone-browser_akirco.json,akirco/aki-apps
 notion_akirco.json,akirco/aki-apps
 oxipng_akirco.json,akirco/aki-apps
@@ -9087,7 +9087,7 @@ rainbow_akirco.json,akirco/aki-apps
 windows-application-driver_akirco.json,akirco/aki-apps
 registry-finder_akirco.json,akirco/aki-apps
 php_akirco.json,akirco/aki-apps
-cursor.json,akirco/aki-apps
+cursor_akirco.json,akirco/aki-apps
 musicfox.json,akirco/aki-apps
 gow_akirco.json,akirco/aki-apps
 dim.json,akirco/aki-apps
@@ -9631,7 +9631,6 @@ alisthelper-portable.json,DoveBoy/Apps
 clink_DoveBoy.json,DoveBoy/Apps
 ruffle.json,DoveBoy/Apps
 cmder-full_DoveBoy.json,DoveBoy/Apps
-gimp_DoveBoy.json,DoveBoy/Apps
 github-beta_DoveBoy.json,DoveBoy/Apps
 clashn.json,DoveBoy/Apps
 localsend_DoveBoy.json,DoveBoy/Apps
@@ -9878,7 +9877,7 @@ remove-ms-edge.json,DoveBoy/Apps
 chromedriver_DoveBoy.json,DoveBoy/Apps
 openssh_DoveBoy.json,DoveBoy/Apps
 iwck_DoveBoy.json,DoveBoy/Apps
-googlechrome.json,DoveBoy/Apps
+googlechrome_DoveBoy.json,DoveBoy/Apps
 nattypetester.json,DoveBoy/Apps
 pmas.json,DoveBoy/Apps
 yasocut.json,DoveBoy/Apps
@@ -10088,7 +10087,7 @@ ssrr-windows.json,DoveBoy/Apps
 officetoolplus_DoveBoy.json,DoveBoy/Apps
 unigetui-beta.json,DoveBoy/Apps
 nvm-tab-completion.json,DoveBoy/Apps
-qq-nt.json,DoveBoy/Apps
+qq-nt_DoveBoy.json,DoveBoy/Apps
 chatbox_DoveBoy.json,DoveBoy/Apps
 draw.io_DoveBoy.json,DoveBoy/Apps
 readest_DoveBoy.json,DoveBoy/Apps
@@ -10241,7 +10240,7 @@ jo_DoveBoy.json,DoveBoy/Apps
 hummingbird.json,DoveBoy/Apps
 dark_DoveBoy.json,DoveBoy/Apps
 keymap.json,DoveBoy/Apps
-dandanplay.json,DoveBoy/Apps
+dandanplay_DoveBoy.json,DoveBoy/Apps
 binggpt-portable.json,DoveBoy/Apps
 iobit-software-updater.json,DoveBoy/Apps
 repairbadtweaks.json,DoveBoy/Apps
@@ -12107,7 +12106,7 @@ letta-code.json,Small-Ku/turbo-bucket
 orbolay.json,Small-Ku/turbo-bucket
 better-genshin-impact.json,Small-Ku/turbo-bucket
 freebuff.json,Small-Ku/turbo-bucket
-gemini-cli.json,Small-Ku/turbo-bucket
+gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
 iflow-cli.json,Small-Ku/turbo-bucket
 clash-rs.json,Small-Ku/turbo-bucket
 atlassian-cli.json,Small-Ku/turbo-bucket
@@ -14916,7 +14915,7 @@ languagetool-java_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 rtools45.json,ShuguangSun/sgs-scoop-bucket
 tiny-rdm.json,windedge/ladle-bucket
 godsvg.json,windedge/ladle-bucket
-5ire_windedge.json,windedge/ladle-bucket
+5ire.json,windedge/ladle-bucket
 temurin20-jdk_windedge.json,windedge/ladle-bucket
 scia-reto.json,windedge/ladle-bucket
 zen-browser_windedge.json,windedge/ladle-bucket
@@ -15011,7 +15010,7 @@ CascadiaMono-NF-Mono_maboloshi.json,maboloshi/scoop-private
 cmirror.json,maboloshi/scoop-private
 dingtalk@7.0.10.1026.json,maboloshi/scoop-private
 uv_maboloshi.json,maboloshi/scoop-private
-PowerShell_maboloshi.json,maboloshi/scoop-private
+PowerShell.json,maboloshi/scoop-private
 dingtalk.json,maboloshi/scoop-private
 clickmonitorddc-cn.json,maboloshi/scoop-private
 directoryopus-cn.json,maboloshi/scoop-private
