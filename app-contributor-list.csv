@@ -2614,7 +2614,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -4201,7 +4201,7 @@ regester.json,Scoopforge/Extras-CN
 neteasemusic_Scoopforge.json,Scoopforge/Extras-CN
 julia-cn.json,Scoopforge/Extras-CN
 quicker.json,Scoopforge/Extras-CN
-utools.json,Scoopforge/Extras-CN
+utools_Scoopforge.json,Scoopforge/Extras-CN
 obs-studio-cn.json,Scoopforge/Extras-CN
 cnkiexpress.json,Scoopforge/Extras-CN
 esearch_Scoopforge.json,Scoopforge/Extras-CN
@@ -8022,7 +8022,7 @@ MathTranslate.json,dodorz/scoop
 googler.json,dodorz/scoop
 FastCopy_dodorz.json,dodorz/scoop
 XVI32.json,dodorz/scoop
-ChatWise.json,dodorz/scoop
+ChatWise_dodorz.json,dodorz/scoop
 RRShare.json,dodorz/scoop
 CreaWriter.json,dodorz/scoop
 Iridium.json,dodorz/scoop
@@ -9522,7 +9522,7 @@ win10-initial-setup-script.json,TheRandomLabs/Scoop-Bucket
 rfxgen.json,TheRandomLabs/Scoop-Bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
 freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
@@ -9667,7 +9667,7 @@ energystar.json,DoveBoy/Apps
 openbbterminal-pre.json,DoveBoy/Apps
 unigetui_DoveBoy.json,DoveBoy/Apps
 n_m3u8dl-re.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 xhs-downloader.json,DoveBoy/Apps
 walk_DoveBoy.json,DoveBoy/Apps
 daisy.json,DoveBoy/Apps
@@ -10245,7 +10245,7 @@ jo_DoveBoy.json,DoveBoy/Apps
 hummingbird.json,DoveBoy/Apps
 dark_DoveBoy.json,DoveBoy/Apps
 keymap.json,DoveBoy/Apps
-dandanplay.json,DoveBoy/Apps
+dandanplay_DoveBoy.json,DoveBoy/Apps
 binggpt-portable.json,DoveBoy/Apps
 iobit-software-updater.json,DoveBoy/Apps
 repairbadtweaks.json,DoveBoy/Apps
