@@ -6401,7 +6401,6 @@ open-shell-np.json,ScoopInstaller/Nonportable
 fman-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 nodejs-lts-np.json,ScoopInstaller/Nonportable
 icaros-np_ScoopInstaller.json,ScoopInstaller/Nonportable
-veyon-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 tortoisegit-np.json,ScoopInstaller/Nonportable
 google-japanese-input-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 freelan-np.json,ScoopInstaller/Nonportable
@@ -8775,7 +8774,7 @@ mgba_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -9734,6 +9733,7 @@ autodarkmode_DoveBoy.json,DoveBoy/Apps
 mycomputermanager.json,DoveBoy/Apps
 gh_DoveBoy.json,DoveBoy/Apps
 leagueakari.json,DoveBoy/Apps
+ddu.json,DoveBoy/Apps
 wpsoffice-cn.json,DoveBoy/Apps
 7zip-beta_DoveBoy.json,DoveBoy/Apps
 pixivutil2.json,DoveBoy/Apps
@@ -14095,7 +14095,7 @@ wlines.json,Deide/deide-bucket
 azahar_Deide.json,Deide/deide-bucket
 gogdl.json,Deide/deide-bucket
 nekomata.json,Deide/deide-bucket
-rpcs3_Deide.json,Deide/deide-bucket
+rpcs3.json,Deide/deide-bucket
 uplay_Deide.json,Deide/deide-bucket
 project64.json,Deide/deide-bucket
 mgba_Deide.json,Deide/deide-bucket
@@ -14828,7 +14828,7 @@ winpython_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 ghostscript_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 openjdk21_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 openjdk22_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-vscodium_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+vscodium.json,ShuguangSun/sgs-scoop-bucket
 calibre_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 rtools43_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 python314_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
