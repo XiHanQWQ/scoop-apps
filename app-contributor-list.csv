@@ -8639,7 +8639,7 @@ snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
 vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -8916,7 +8916,7 @@ observerward.json,ViCrack/scoop-bucket
 siyuan.json,ViCrack/scoop-bucket
 pixpin_ViCrack.json,ViCrack/scoop-bucket
 notepad--_ViCrack.json,ViCrack/scoop-bucket
-jar-analyzer.json,ViCrack/scoop-bucket
+jar-analyzer_ViCrack.json,ViCrack/scoop-bucket
 codescan.json,ViCrack/scoop-bucket
 fastgithub.json,ViCrack/scoop-bucket
 sliver.json,ViCrack/scoop-bucket
@@ -9817,7 +9817,7 @@ maple-file.json,DoveBoy/Apps
 retrieval-based-voice-conversion-webui.json,DoveBoy/Apps
 zoxide_DoveBoy.json,DoveBoy/Apps
 windowscleaner.json,DoveBoy/Apps
-zettlr_DoveBoy.json,DoveBoy/Apps
+zettlr.json,DoveBoy/Apps
 sandboxie-classic-np_DoveBoy.json,DoveBoy/Apps
 gopeed-portable.json,DoveBoy/Apps
 sandboxie-classic-portable.json,DoveBoy/Apps
@@ -10227,7 +10227,7 @@ qbittorrent-enhanced_DoveBoy.json,DoveBoy/Apps
 clashcross.json,DoveBoy/Apps
 v2ray-rules-dat.json,DoveBoy/Apps
 sumatrapdf-installer_DoveBoy.json,DoveBoy/Apps
-v2rayn.json,DoveBoy/Apps
+v2rayn_DoveBoy.json,DoveBoy/Apps
 esearch_DoveBoy.json,DoveBoy/Apps
 any-listen-desktop.json,DoveBoy/Apps
 vimtutor_DoveBoy.json,DoveBoy/Apps
@@ -10314,7 +10314,7 @@ monit-portable.json,DoveBoy/Apps
 rubick_DoveBoy.json,DoveBoy/Apps
 glow_DoveBoy.json,DoveBoy/Apps
 thunder-https.json,DoveBoy/Apps
-clash-verge-rev.json,DoveBoy/Apps
+clash-verge-rev_DoveBoy.json,DoveBoy/Apps
 ps-guicompletion.json,DoveBoy/Apps
 speedtest-cli_DoveBoy.json,DoveBoy/Apps
 clash-nyanpasu-portable.json,DoveBoy/Apps
