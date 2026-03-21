@@ -8054,7 +8054,7 @@ iTunesEncode.json,dodorz/scoop
 Cardo.json,dodorz/scoop
 ProxyeeDown.json,dodorz/scoop
 Brief.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 shell2http.json,dodorz/scoop
 yWriter.json,dodorz/scoop
 miniflux.json,dodorz/scoop
@@ -8640,7 +8640,7 @@ snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
 vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -9668,7 +9668,7 @@ energystar.json,DoveBoy/Apps
 openbbterminal-pre.json,DoveBoy/Apps
 unigetui_DoveBoy.json,DoveBoy/Apps
 n_m3u8dl-re.json,DoveBoy/Apps
-neteaseuu_DoveBoy.json,DoveBoy/Apps
+neteaseuu.json,DoveBoy/Apps
 xhs-downloader.json,DoveBoy/Apps
 walk_DoveBoy.json,DoveBoy/Apps
 daisy.json,DoveBoy/Apps
@@ -10947,7 +10947,7 @@ portable-registrator.json,naderi/scoop-bucket
 aegisub_naderi.json,naderi/scoop-bucket
 font-nika.json,naderi/scoop-bucket
 ganjoor.json,naderi/scoop-bucket
-1by1.json,naderi/scoop-bucket
+1by1_naderi.json,naderi/scoop-bucket
 xpdf-tools_naderi.json,naderi/scoop-bucket
 alt-app-switcher.json,naderi/scoop-bucket
 font-estedad.json,naderi/scoop-bucket
