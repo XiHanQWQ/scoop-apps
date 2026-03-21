@@ -2614,7 +2614,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -4178,7 +4178,7 @@ i4tools.json,Scoopforge/Extras-CN
 ainiee.json,Scoopforge/Extras-CN
 fishing-funds.json,Scoopforge/Extras-CN
 misakatranslator.json,Scoopforge/Extras-CN
-baidunetdisk.json,Scoopforge/Extras-CN
+baidunetdisk_Scoopforge.json,Scoopforge/Extras-CN
 feishu_Scoopforge.json,Scoopforge/Extras-CN
 edgeless.json,Scoopforge/Extras-CN
 douyin.json,Scoopforge/Extras-CN
@@ -9522,7 +9522,7 @@ win10-initial-setup-script.json,TheRandomLabs/Scoop-Bucket
 rfxgen.json,TheRandomLabs/Scoop-Bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
 freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
@@ -11455,7 +11455,7 @@ lx-music-np.json,WinApps-share/WinApps-bucket
 wiztree-np.json,WinApps-share/WinApps-bucket
 rubick_WinApps-share.json,WinApps-share/WinApps-bucket
 hibituninstaller-np.json,WinApps-share/WinApps-bucket
-vscode.json,WinApps-share/WinApps-bucket
+vscode_WinApps-share.json,WinApps-share/WinApps-bucket
 carnac_WinApps-share.json,WinApps-share/WinApps-bucket
 ventoy_WinApps-share.json,WinApps-share/WinApps-bucket
 qaac-qtfiles_brian6932.json,brian6932/dank-scoop
@@ -14611,7 +14611,6 @@ marktext-aoks.json,AntonOks/scoop-aoks
 VictoriaMetrics-utils-aoks.json,AntonOks/scoop-aoks
 desktopOK-aoks.json,AntonOks/scoop-aoks
 bulkrenameutility-aoks.json,AntonOks/scoop-aoks
-mediathekview-aoks.json,AntonOks/scoop-aoks
 urbstat-aoks.json,AntonOks/scoop-aoks
 regln-aoks.json,AntonOks/scoop-aoks
 git-aoks.json,AntonOks/scoop-aoks
