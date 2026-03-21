@@ -1838,7 +1838,7 @@ sd-card-formatter.json,ScoopInstaller/Extras
 cursor.json,ScoopInstaller/Extras
 sidebar-diagnostics.json,ScoopInstaller/Extras
 zrok.json,ScoopInstaller/Extras
-smartsystemmenu.json,ScoopInstaller/Extras
+smartsystemmenu_ScoopInstaller.json,ScoopInstaller/Extras
 cacher.json,ScoopInstaller/Extras
 autoactions.json,ScoopInstaller/Extras
 chart-geany.json,ScoopInstaller/Extras
@@ -2614,7 +2614,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -4198,7 +4198,7 @@ pixpin.json,Scoopforge/Extras-CN
 navicat-premium-lite-cn.json,Scoopforge/Extras-CN
 cajviewer_Scoopforge.json,Scoopforge/Extras-CN
 regester.json,Scoopforge/Extras-CN
-neteasemusic.json,Scoopforge/Extras-CN
+neteasemusic_Scoopforge.json,Scoopforge/Extras-CN
 julia-cn.json,Scoopforge/Extras-CN
 quicker.json,Scoopforge/Extras-CN
 utools_Scoopforge.json,Scoopforge/Extras-CN
@@ -5490,7 +5490,7 @@ docker-nightly.json,ScoopInstaller/Versions
 winbox3.json,ScoopInstaller/Versions
 goland-rc.json,ScoopInstaller/Versions
 spotdl-beta.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 nanazip-beta.json,ScoopInstaller/Versions
 php71-xdebug.json,ScoopInstaller/Versions
 php81-xdebug.json,ScoopInstaller/Versions
@@ -8053,7 +8053,7 @@ iTunesEncode.json,dodorz/scoop
 Cardo.json,dodorz/scoop
 ProxyeeDown.json,dodorz/scoop
 Brief.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 shell2http.json,dodorz/scoop
 yWriter.json,dodorz/scoop
 miniflux.json,dodorz/scoop
@@ -8774,7 +8774,7 @@ mgba_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -9522,7 +9522,7 @@ win10-initial-setup-script.json,TheRandomLabs/Scoop-Bucket
 rfxgen.json,TheRandomLabs/Scoop-Bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
 freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
@@ -9667,7 +9667,7 @@ energystar.json,DoveBoy/Apps
 openbbterminal-pre.json,DoveBoy/Apps
 unigetui_DoveBoy.json,DoveBoy/Apps
 n_m3u8dl-re.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 xhs-downloader.json,DoveBoy/Apps
 walk_DoveBoy.json,DoveBoy/Apps
 daisy.json,DoveBoy/Apps
@@ -9733,7 +9733,6 @@ autodarkmode_DoveBoy.json,DoveBoy/Apps
 mycomputermanager.json,DoveBoy/Apps
 gh_DoveBoy.json,DoveBoy/Apps
 leagueakari.json,DoveBoy/Apps
-ddu.json,DoveBoy/Apps
 wpsoffice-cn.json,DoveBoy/Apps
 7zip-beta_DoveBoy.json,DoveBoy/Apps
 pixivutil2.json,DoveBoy/Apps
@@ -11456,7 +11455,7 @@ lx-music-np.json,WinApps-share/WinApps-bucket
 wiztree-np.json,WinApps-share/WinApps-bucket
 rubick_WinApps-share.json,WinApps-share/WinApps-bucket
 hibituninstaller-np.json,WinApps-share/WinApps-bucket
-vscode_WinApps-share.json,WinApps-share/WinApps-bucket
+vscode.json,WinApps-share/WinApps-bucket
 carnac_WinApps-share.json,WinApps-share/WinApps-bucket
 ventoy_WinApps-share.json,WinApps-share/WinApps-bucket
 qaac-qtfiles_brian6932.json,brian6932/dank-scoop
@@ -14095,7 +14094,7 @@ wlines.json,Deide/deide-bucket
 azahar_Deide.json,Deide/deide-bucket
 gogdl.json,Deide/deide-bucket
 nekomata.json,Deide/deide-bucket
-rpcs3.json,Deide/deide-bucket
+rpcs3_Deide.json,Deide/deide-bucket
 uplay_Deide.json,Deide/deide-bucket
 project64.json,Deide/deide-bucket
 mgba_Deide.json,Deide/deide-bucket
@@ -14612,6 +14611,7 @@ marktext-aoks.json,AntonOks/scoop-aoks
 VictoriaMetrics-utils-aoks.json,AntonOks/scoop-aoks
 desktopOK-aoks.json,AntonOks/scoop-aoks
 bulkrenameutility-aoks.json,AntonOks/scoop-aoks
+mediathekview-aoks.json,AntonOks/scoop-aoks
 urbstat-aoks.json,AntonOks/scoop-aoks
 regln-aoks.json,AntonOks/scoop-aoks
 git-aoks.json,AntonOks/scoop-aoks
@@ -14828,7 +14828,7 @@ winpython_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 ghostscript_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 openjdk21_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 openjdk22_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-vscodium.json,ShuguangSun/sgs-scoop-bucket
+vscodium_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 calibre_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 rtools43_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 python314_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
