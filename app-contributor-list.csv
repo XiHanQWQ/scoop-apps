@@ -8602,7 +8602,7 @@ atariplusplus.json,hermanjustnu/scoop-emulators
 rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
-mgba-dev.json,hermanjustnu/scoop-emulators
+mgba-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 flycast_hermanjustnu.json,hermanjustnu/scoop-emulators
 mgba_hermanjustnu.json,hermanjustnu/scoop-emulators
 mame_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -13179,7 +13179,7 @@ animeko_cc713.json,cc713/ownscoop
 imgbrd-grabber.json,cc713/ownscoop
 lx-music_cc713.json,cc713/ownscoop
 JMComic-qt.json,cc713/ownscoop
-LunaTranslator_cc713.json,cc713/ownscoop
+LunaTranslator.json,cc713/ownscoop
 nomacs_cc713.json,cc713/ownscoop
 RegCool-Portable_cc713.json,cc713/ownscoop
 qimgv_cc713.json,cc713/ownscoop
