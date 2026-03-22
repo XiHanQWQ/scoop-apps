@@ -2615,7 +2615,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -10097,7 +10097,7 @@ nvm-tab-completion.json,DoveBoy/Apps
 qq-nt_DoveBoy.json,DoveBoy/Apps
 chatbox_DoveBoy.json,DoveBoy/Apps
 draw.io_DoveBoy.json,DoveBoy/Apps
-readest.json,DoveBoy/Apps
+readest_DoveBoy.json,DoveBoy/Apps
 ipinfo.json,DoveBoy/Apps
 gopeed-web.json,DoveBoy/Apps
 fix-print-spooler_DoveBoy.json,DoveBoy/Apps
@@ -15107,7 +15107,7 @@ normcap_jcwillox.json,jcwillox/scoop-bucket
 npiperelay_jcwillox.json,jcwillox/scoop-bucket
 vortex_jcwillox.json,jcwillox/scoop-bucket
 esphome-flasher.json,jcwillox/scoop-bucket
-handbrake-portable_jcwillox.json,jcwillox/scoop-bucket
+handbrake-portable.json,jcwillox/scoop-bucket
 amidst_jcwillox.json,jcwillox/scoop-bucket
 minescript.json,jcwillox/scoop-bucket
 ipinfo_jcwillox.json,jcwillox/scoop-bucket
