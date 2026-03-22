@@ -1762,7 +1762,7 @@ famistudio.json,ScoopInstaller/Extras
 msrt.json,ScoopInstaller/Extras
 firefox-eme-free.json,ScoopInstaller/Extras
 yumi-uefi.json,ScoopInstaller/Extras
-autohotkey_ScoopInstaller.json,ScoopInstaller/Extras
+autohotkey.json,ScoopInstaller/Extras
 msikombustor.json,ScoopInstaller/Extras
 mkcert.json,ScoopInstaller/Extras
 chdig.json,ScoopInstaller/Extras
@@ -5491,7 +5491,7 @@ docker-nightly.json,ScoopInstaller/Versions
 winbox3.json,ScoopInstaller/Versions
 goland-rc.json,ScoopInstaller/Versions
 spotdl-beta.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 nanazip-beta.json,ScoopInstaller/Versions
 php71-xdebug.json,ScoopInstaller/Versions
 php81-xdebug.json,ScoopInstaller/Versions
@@ -8054,7 +8054,7 @@ iTunesEncode.json,dodorz/scoop
 Cardo.json,dodorz/scoop
 ProxyeeDown.json,dodorz/scoop
 Brief.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 shell2http.json,dodorz/scoop
 yWriter.json,dodorz/scoop
 miniflux.json,dodorz/scoop
@@ -8640,7 +8640,7 @@ snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-vxwidgets.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
 vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -9668,7 +9668,7 @@ energystar.json,DoveBoy/Apps
 openbbterminal-pre.json,DoveBoy/Apps
 unigetui_DoveBoy.json,DoveBoy/Apps
 n_m3u8dl-re.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 xhs-downloader.json,DoveBoy/Apps
 walk_DoveBoy.json,DoveBoy/Apps
 daisy.json,DoveBoy/Apps
@@ -12463,7 +12463,7 @@ cbmc.json,seumsc/scoop-seu
 mhc2-dev.json,seumsc/scoop-seu
 cruiser.json,seumsc/scoop-seu
 tex-fmt_seumsc.json,seumsc/scoop-seu
-kook.json,seumsc/scoop-seu
+kook_seumsc.json,seumsc/scoop-seu
 hmcl-dev.json,seumsc/scoop-seu
 ifrextractor.json,seumsc/scoop-seu
 kindlegen_seumsc.json,seumsc/scoop-seu
@@ -14925,7 +14925,7 @@ sparkle.json,Locietta/sniffer
 xanmod-WSL2-addons-x64v3.json,Locietta/sniffer
 llvm_Locietta.json,Locietta/sniffer
 zju-connect.json,Locietta/sniffer
-miniforge_Locietta.json,Locietta/sniffer
+miniforge.json,Locietta/sniffer
 xanmod-WSL2-zen3.json,Locietta/sniffer
 xanmod-WSL2-x64v3.json,Locietta/sniffer
 ygomaster.json,Locietta/sniffer
