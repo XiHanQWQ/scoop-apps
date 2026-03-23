@@ -1214,7 +1214,7 @@ rclone-ui.json,ScoopInstaller/Extras
 opera-gx.json,ScoopInstaller/Extras
 streamlabs-chatbot.json,ScoopInstaller/Extras
 droidcam.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 altbacktick.json,ScoopInstaller/Extras
 owncloud.json,ScoopInstaller/Extras
 foto-mosaik-edda.json,ScoopInstaller/Extras
@@ -8869,7 +8869,7 @@ revokemsgpatcher_ViCrack.json,ViCrack/scoop-bucket
 w3cschool.json,ViCrack/scoop-bucket
 mitan_ViCrack.json,ViCrack/scoop-bucket
 vscan.json,ViCrack/scoop-bucket
-afrog.json,ViCrack/scoop-bucket
+afrog_ViCrack.json,ViCrack/scoop-bucket
 toolsfx_ViCrack.json,ViCrack/scoop-bucket
 rebuild-shell-icon-cache.json,ViCrack/scoop-bucket
 quake_rs_ViCrack.json,ViCrack/scoop-bucket
