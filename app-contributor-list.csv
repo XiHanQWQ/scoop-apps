@@ -2615,7 +2615,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -2655,6 +2655,7 @@ qq.json,ScoopInstaller/Extras
 fontforge.json,ScoopInstaller/Extras
 adwcleaner.json,ScoopInstaller/Extras
 uninstalr.json,ScoopInstaller/Extras
+beeper.json,ScoopInstaller/Extras
 kubebox.json,ScoopInstaller/Extras
 dartium.json,ScoopInstaller/Extras
 dont-sleep.json,ScoopInstaller/Extras
@@ -8846,7 +8847,7 @@ equationtoolsgui_ViCrack.json,ViCrack/scoop-bucket
 gost_ViCrack.json,ViCrack/scoop-bucket
 RegConverter.json,ViCrack/scoop-bucket
 igdm_ViCrack.json,ViCrack/scoop-bucket
-apifox.json,ViCrack/scoop-bucket
+apifox_ViCrack.json,ViCrack/scoop-bucket
 kscan_ViCrack.json,ViCrack/scoop-bucket
 certimate.json,ViCrack/scoop-bucket
 trilium-cn.json,ViCrack/scoop-bucket
@@ -10845,6 +10846,7 @@ implay.json,naderi/scoop-bucket
 babelpad_naderi.json,naderi/scoop-bucket
 font-behdad.json,naderi/scoop-bucket
 chrome-canary-portable.json,naderi/scoop-bucket
+encrypto.json,naderi/scoop-bucket
 acrylic-dns-proxy.json,naderi/scoop-bucket
 opentrace_naderi.json,naderi/scoop-bucket
 winamp.json,naderi/scoop-bucket
@@ -14407,7 +14409,7 @@ libimobiledevice_beer-psi.json,beer-psi/scoop-bucket
 rawcap.json,beer-psi/scoop-bucket
 libretta.json,beer-psi/scoop-bucket
 ntfs2btrfs_beer-psi.json,beer-psi/scoop-bucket
-beeper.json,beer-psi/scoop-bucket
+beeper_beer-psi.json,beer-psi/scoop-bucket
 oneko.json,beer-psi/scoop-bucket
 unxwb.json,beer-psi/scoop-bucket
 wpd_beer-psi.json,beer-psi/scoop-bucket
@@ -14754,7 +14756,7 @@ efm-langserver.json,ShuguangSun/sgs-scoop-bucket
 file-converter_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 busybox64u.json,ShuguangSun/sgs-scoop-bucket
 r-openblas.json,ShuguangSun/sgs-scoop-bucket
-r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+r-devel.json,ShuguangSun/sgs-scoop-bucket
 openjdk14_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 cherry-studio-1.1.5.json,ShuguangSun/sgs-scoop-bucket
 emacs-nonnative.json,ShuguangSun/sgs-scoop-bucket
