@@ -8869,7 +8869,7 @@ revokemsgpatcher_ViCrack.json,ViCrack/scoop-bucket
 w3cschool.json,ViCrack/scoop-bucket
 mitan_ViCrack.json,ViCrack/scoop-bucket
 vscan.json,ViCrack/scoop-bucket
-afrog_ViCrack.json,ViCrack/scoop-bucket
+afrog.json,ViCrack/scoop-bucket
 toolsfx_ViCrack.json,ViCrack/scoop-bucket
 rebuild-shell-icon-cache.json,ViCrack/scoop-bucket
 quake_rs_ViCrack.json,ViCrack/scoop-bucket
@@ -10248,7 +10248,7 @@ jo_DoveBoy.json,DoveBoy/Apps
 hummingbird.json,DoveBoy/Apps
 dark_DoveBoy.json,DoveBoy/Apps
 keymap.json,DoveBoy/Apps
-dandanplay_DoveBoy.json,DoveBoy/Apps
+dandanplay.json,DoveBoy/Apps
 binggpt-portable.json,DoveBoy/Apps
 iobit-software-updater.json,DoveBoy/Apps
 repairbadtweaks.json,DoveBoy/Apps
@@ -14756,7 +14756,7 @@ efm-langserver.json,ShuguangSun/sgs-scoop-bucket
 file-converter_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 busybox64u.json,ShuguangSun/sgs-scoop-bucket
 r-openblas.json,ShuguangSun/sgs-scoop-bucket
-r-devel.json,ShuguangSun/sgs-scoop-bucket
+r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 openjdk14_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 cherry-studio-1.1.5.json,ShuguangSun/sgs-scoop-bucket
 emacs-nonnative.json,ShuguangSun/sgs-scoop-bucket
