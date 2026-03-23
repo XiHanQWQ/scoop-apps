@@ -14726,7 +14726,7 @@ sparkle.json,Locietta/sniffer
 xanmod-WSL2-addons-x64v3.json,Locietta/sniffer
 llvm_Locietta.json,Locietta/sniffer
 zju-connect.json,Locietta/sniffer
-miniforge.json,Locietta/sniffer
+miniforge_Locietta.json,Locietta/sniffer
 xanmod-WSL2-zen3.json,Locietta/sniffer
 xanmod-WSL2-x64v3.json,Locietta/sniffer
 ygomaster.json,Locietta/sniffer
@@ -15107,7 +15107,7 @@ normcap_jcwillox.json,jcwillox/scoop-bucket
 npiperelay_jcwillox.json,jcwillox/scoop-bucket
 vortex_jcwillox.json,jcwillox/scoop-bucket
 esphome-flasher.json,jcwillox/scoop-bucket
-handbrake-portable.json,jcwillox/scoop-bucket
+handbrake-portable_jcwillox.json,jcwillox/scoop-bucket
 amidst_jcwillox.json,jcwillox/scoop-bucket
 minescript.json,jcwillox/scoop-bucket
 ipinfo_jcwillox.json,jcwillox/scoop-bucket
