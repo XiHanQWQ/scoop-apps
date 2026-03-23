@@ -9154,7 +9154,7 @@ simple-live.json,akirco/aki-apps
 clashrauto.json,akirco/aki-apps
 empty-recycle-bin_akirco.json,akirco/aki-apps
 everything_akirco.json,akirco/aki-apps
-figma_akirco.json,akirco/aki-apps
+figma.json,akirco/aki-apps
 dingtalk_akirco.json,akirco/aki-apps
 dyad_akirco.json,akirco/aki-apps
 bcut.json,akirco/aki-apps
@@ -9886,7 +9886,7 @@ remove-ms-edge.json,DoveBoy/Apps
 chromedriver_DoveBoy.json,DoveBoy/Apps
 openssh_DoveBoy.json,DoveBoy/Apps
 iwck_DoveBoy.json,DoveBoy/Apps
-googlechrome_DoveBoy.json,DoveBoy/Apps
+googlechrome.json,DoveBoy/Apps
 nattypetester.json,DoveBoy/Apps
 pmas.json,DoveBoy/Apps
 yasocut.json,DoveBoy/Apps
@@ -14923,7 +14923,7 @@ chatgpt-next-web_maboloshi.json,maboloshi/scoop-private
 fonts-cesi.json,maboloshi/scoop-private
 wechat_maboloshi.json,maboloshi/scoop-private
 sublime-merge_maboloshi.json,maboloshi/scoop-private
-ima-copilot.json,maboloshi/scoop-private
+ima-copilot_maboloshi.json,maboloshi/scoop-private
 clash-verge-rev_maboloshi.json,maboloshi/scoop-private
 shiru.json,Rinkerbel/scooped
 seanime-desktop.json,Rinkerbel/scooped
@@ -14945,7 +14945,6 @@ seanime-denshi.json,Rinkerbel/scooped
 steamtokendumper.json,Rinkerbel/scooped
 hayase.json,Rinkerbel/scooped
 goanime.json,Rinkerbel/scooped
-mangayomi.json,Rinkerbel/scooped
 xanmod-WSL2-old.json,Locietta/sniffer
 xanmod-WSL2-lts-old.json,Locietta/sniffer
 xanmod-WSL2-addons-lts.json,Locietta/sniffer
