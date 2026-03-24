@@ -1214,7 +1214,7 @@ rclone-ui.json,ScoopInstaller/Extras
 opera-gx.json,ScoopInstaller/Extras
 streamlabs-chatbot.json,ScoopInstaller/Extras
 droidcam.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 altbacktick.json,ScoopInstaller/Extras
 owncloud.json,ScoopInstaller/Extras
 foto-mosaik-edda.json,ScoopInstaller/Extras
@@ -2616,7 +2616,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -7966,6 +7966,7 @@ WingPersonal.json,dodorz/scoop
 BareGrep_dodorz.json,dodorz/scoop
 Notepad4_zh-Hans-AVX512.json,dodorz/scoop
 UVOutliner.json,dodorz/scoop
+Cliamp.json,dodorz/scoop
 TuxPaint.json,dodorz/scoop
 TidGi.json,dodorz/scoop
 TablacusExplorer.json,dodorz/scoop
