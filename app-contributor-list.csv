@@ -2616,7 +2616,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -9154,7 +9154,7 @@ simple-live.json,akirco/aki-apps
 clashrauto.json,akirco/aki-apps
 empty-recycle-bin_akirco.json,akirco/aki-apps
 everything_akirco.json,akirco/aki-apps
-figma.json,akirco/aki-apps
+figma_akirco.json,akirco/aki-apps
 dingtalk_akirco.json,akirco/aki-apps
 dyad_akirco.json,akirco/aki-apps
 bcut.json,akirco/aki-apps
@@ -9886,7 +9886,7 @@ remove-ms-edge.json,DoveBoy/Apps
 chromedriver_DoveBoy.json,DoveBoy/Apps
 openssh_DoveBoy.json,DoveBoy/Apps
 iwck_DoveBoy.json,DoveBoy/Apps
-googlechrome.json,DoveBoy/Apps
+googlechrome_DoveBoy.json,DoveBoy/Apps
 nattypetester.json,DoveBoy/Apps
 pmas.json,DoveBoy/Apps
 yasocut.json,DoveBoy/Apps
@@ -10249,7 +10249,7 @@ jo_DoveBoy.json,DoveBoy/Apps
 hummingbird.json,DoveBoy/Apps
 dark_DoveBoy.json,DoveBoy/Apps
 keymap.json,DoveBoy/Apps
-dandanplay.json,DoveBoy/Apps
+dandanplay_DoveBoy.json,DoveBoy/Apps
 binggpt-portable.json,DoveBoy/Apps
 iobit-software-updater.json,DoveBoy/Apps
 repairbadtweaks.json,DoveBoy/Apps
