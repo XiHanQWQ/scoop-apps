@@ -9295,7 +9295,7 @@ sayit_akirco.json,akirco/aki-apps
 ima-copilot.json,akirco/aki-apps
 optipng_akirco.json,akirco/aki-apps
 glow_akirco.json,akirco/aki-apps
-vscode_akirco.json,akirco/aki-apps
+vscode.json,akirco/aki-apps
 aliyundrive_akirco.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
 filezilla_akirco.json,akirco/aki-apps
@@ -15009,6 +15009,7 @@ pdfbox-debugger.json,windedge/ladle-bucket
 godot-kotlin-jvm.json,windedge/ladle-bucket
 dyad_windedge.json,windedge/ladle-bucket
 ki.json,windedge/ladle-bucket
+throne_windedge.json,windedge/ladle-bucket
 kotlin-language-server.json,windedge/ladle-bucket
 markflowy_windedge.json,windedge/ladle-bucket
 mindolph.json,windedge/ladle-bucket
