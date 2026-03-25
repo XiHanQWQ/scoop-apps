@@ -2668,7 +2668,7 @@ topnotify.json,ScoopInstaller/Extras
 qmk-toolbox.json,ScoopInstaller/Extras
 coreftp.json,ScoopInstaller/Extras
 puttytel.json,ScoopInstaller/Extras
-jetbrains-toolbox.json,ScoopInstaller/Extras
+jetbrains-toolbox_ScoopInstaller.json,ScoopInstaller/Extras
 glary-utilities.json,ScoopInstaller/Extras
 lite.json,ScoopInstaller/Extras
 arcwelder.json,ScoopInstaller/Extras
@@ -4329,6 +4329,7 @@ gzdoom.json,Calinou/scoop-games
 mgba.json,Calinou/scoop-games
 mame.json,Calinou/scoop-games
 scummvm.json,Calinou/scoop-games
+hmcl_Calinou.json,Calinou/scoop-games
 freedroidrpg.json,Calinou/scoop-games
 veloren-weekly.json,Calinou/scoop-games
 pathofbuilding.json,Calinou/scoop-games
@@ -9146,7 +9147,7 @@ oh-my-posh_akirco.json,akirco/aki-apps
 rustdesk_akirco.json,akirco/aki-apps
 cpu-z_akirco.json,akirco/aki-apps
 telegram_akirco.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 snipaste_akirco.json,akirco/aki-apps
 completion-predictor.json,akirco/aki-apps
 tar_akirco.json,akirco/aki-apps
@@ -9179,7 +9180,6 @@ poppler_akirco.json,akirco/aki-apps
 nircmd_akirco.json,akirco/aki-apps
 monolith_akirco.json,akirco/aki-apps
 far_akirco.json,akirco/aki-apps
-bilibili-livehime.json,akirco/aki-apps
 pnpm_akirco.json,akirco/aki-apps
 yuanbao.json,akirco/aki-apps
 rufus_akirco.json,akirco/aki-apps
@@ -10723,7 +10723,7 @@ autohotkey2.1.json,amorphobia/siku
 aget-rs.json,amorphobia/siku
 sublime-text-3.json,amorphobia/siku
 sonarr.json,amorphobia/siku
-plain-craft-launcher.json,amorphobia/siku
+plain-craft-launcher_amorphobia.json,amorphobia/siku
 imazing-converter.json,amorphobia/siku
 rabbit.json,amorphobia/siku
 powercolorls.json,amorphobia/siku
@@ -11859,7 +11859,7 @@ letta-code.json,Small-Ku/turbo-bucket
 orbolay.json,Small-Ku/turbo-bucket
 better-genshin-impact.json,Small-Ku/turbo-bucket
 freebuff.json,Small-Ku/turbo-bucket
-gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
+gemini-cli.json,Small-Ku/turbo-bucket
 iflow-cli.json,Small-Ku/turbo-bucket
 clash-rs.json,Small-Ku/turbo-bucket
 atlassian-cli.json,Small-Ku/turbo-bucket
