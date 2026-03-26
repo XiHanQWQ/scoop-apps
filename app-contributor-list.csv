@@ -8856,7 +8856,7 @@ equationtoolsgui_ViCrack.json,ViCrack/scoop-bucket
 gost_ViCrack.json,ViCrack/scoop-bucket
 RegConverter.json,ViCrack/scoop-bucket
 igdm_ViCrack.json,ViCrack/scoop-bucket
-apifox_ViCrack.json,ViCrack/scoop-bucket
+apifox.json,ViCrack/scoop-bucket
 kscan_ViCrack.json,ViCrack/scoop-bucket
 certimate.json,ViCrack/scoop-bucket
 trilium-cn.json,ViCrack/scoop-bucket
@@ -11231,7 +11231,7 @@ mysql-fake-server_kengwang.json,kengwang/scoop-ctftools-bucket
 volatility3.json,kengwang/scoop-ctftools-bucket
 suo5_kengwang.json,kengwang/scoop-ctftools-bucket
 Sylas.json,kengwang/scoop-ctftools-bucket
-MDUT-Extend-Release.json,kengwang/scoop-ctftools-bucket
+MDUT-Extend-Release_kengwang.json,kengwang/scoop-ctftools-bucket
 MDUT_kengwang.json,kengwang/scoop-ctftools-bucket
 tweakpng.json,kengwang/scoop-ctftools-bucket
 qrazybox.json,kengwang/scoop-ctftools-bucket
@@ -11836,6 +11836,7 @@ antigravity-manager.json,Small-Ku/turbo-bucket
 dmm-fast-launcher.json,Small-Ku/turbo-bucket
 vencord-installer_Small-Ku.json,Small-Ku/turbo-bucket
 untrunc.json,Small-Ku/turbo-bucket
+imageglass-beta.json,Small-Ku/turbo-bucket
 stuntman.json,Small-Ku/turbo-bucket
 compressonator.json,Small-Ku/turbo-bucket
 yap-nightly.json,Small-Ku/turbo-bucket
@@ -11850,6 +11851,7 @@ kondo_Small-Ku.json,Small-Ku/turbo-bucket
 mort.json,Small-Ku/turbo-bucket
 starward_Small-Ku.json,Small-Ku/turbo-bucket
 otfcc_Small-Ku.json,Small-Ku/turbo-bucket
+endfield-gacha.json,Small-Ku/turbo-bucket
 kilo-code.json,Small-Ku/turbo-bucket
 llama-cpp-rocm-gfx110x.json,Small-Ku/turbo-bucket
 ffmpeg-shared-svt-av1-hdr.json,Small-Ku/turbo-bucket
@@ -11865,7 +11867,7 @@ letta-code.json,Small-Ku/turbo-bucket
 orbolay.json,Small-Ku/turbo-bucket
 better-genshin-impact.json,Small-Ku/turbo-bucket
 freebuff.json,Small-Ku/turbo-bucket
-gemini-cli.json,Small-Ku/turbo-bucket
+gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
 iflow-cli.json,Small-Ku/turbo-bucket
 clash-rs.json,Small-Ku/turbo-bucket
 atlassian-cli.json,Small-Ku/turbo-bucket
@@ -13019,6 +13021,7 @@ sam.json,starise/Scoop-Gaming
 sam-rewritten.json,starise/Scoop-Gaming
 nvidia-display-driver.json,starise/Scoop-Gaming
 nvidia-physx-legacy.json,starise/Scoop-Gaming
+nvidia-profile-inspector-beta.json,starise/Scoop-Gaming
 nvidia-geforce-experience.json,starise/Scoop-Gaming
 dlss-swapper_starise.json,starise/Scoop-Gaming
 ihateborders.json,starise/Scoop-Gaming
