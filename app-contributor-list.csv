@@ -2617,7 +2617,7 @@ mozregression-gui.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 cdburnerxp.json,ScoopInstaller/Extras
 controlprinters.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 renderdoc.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
@@ -9534,7 +9534,7 @@ win10-initial-setup-script.json,TheRandomLabs/Scoop-Bucket
 rfxgen.json,TheRandomLabs/Scoop-Bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
 freeze.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
@@ -9808,7 +9808,7 @@ yank-note.json,DoveBoy/Apps
 karing.json,DoveBoy/Apps
 gopeed_DoveBoy.json,DoveBoy/Apps
 text-generation-webui.json,DoveBoy/Apps
-bilibili_DoveBoy.json,DoveBoy/Apps
+bilibili.json,DoveBoy/Apps
 psreadlineviextension.json,DoveBoy/Apps
 whisper.json,DoveBoy/Apps
 vcpkg_DoveBoy.json,DoveBoy/Apps
@@ -10201,6 +10201,7 @@ musicfreedesktop.json,DoveBoy/Apps
 bilibilidown_DoveBoy.json,DoveBoy/Apps
 clashxw.json,DoveBoy/Apps
 wget_DoveBoy.json,DoveBoy/Apps
+ytplayer.json,DoveBoy/Apps
 joplin_DoveBoy.json,DoveBoy/Apps
 html-comic.json,DoveBoy/Apps
 fnm_DoveBoy.json,DoveBoy/Apps
@@ -10254,6 +10255,7 @@ clash-verge_DoveBoy.json,DoveBoy/Apps
 linkandroid.json,DoveBoy/Apps
 cromite_DoveBoy.json,DoveBoy/Apps
 jo_DoveBoy.json,DoveBoy/Apps
+motrixnext.json,DoveBoy/Apps
 hummingbird.json,DoveBoy/Apps
 dark_DoveBoy.json,DoveBoy/Apps
 keymap.json,DoveBoy/Apps
@@ -11428,6 +11430,7 @@ clash.net_WinApps-share.json,WinApps-share/WinApps-bucket
 window-resizer.json,WinApps-share/WinApps-bucket
 localsend-setup.json,WinApps-share/WinApps-bucket
 reqable-np.json,WinApps-share/WinApps-bucket
+motrixnext_WinApps-share.json,WinApps-share/WinApps-bucket
 jianying.json,WinApps-share/WinApps-bucket
 rufus-portable_WinApps-share.json,WinApps-share/WinApps-bucket
 bongocat_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -12801,6 +12804,7 @@ dbgate.json,Scoopforge/Extras-Plus
 pdf4qt.json,Scoopforge/Extras-Plus
 jigdo.json,Scoopforge/Extras-Plus
 vibe_Scoopforge.json,Scoopforge/Extras-Plus
+catime_Scoopforge.json,Scoopforge/Extras-Plus
 netlogo.json,Scoopforge/Extras-Plus
 linkandroid_Scoopforge.json,Scoopforge/Extras-Plus
 tropy.json,Scoopforge/Extras-Plus
@@ -13173,6 +13177,7 @@ keepass-plugin-KPSimpleBackup.json,cc713/ownscoop
 libreoffice_cc713.json,cc713/ownscoop
 qpdf_cc713.json,cc713/ownscoop
 kiwix_cc713.json,cc713/ownscoop
+MusicFreeDesktop_cc713.json,cc713/ownscoop
 nekoray.json,cc713/ownscoop
 GARbro-Mod.json,cc713/ownscoop
 PhotoQt.json,cc713/ownscoop
@@ -14784,7 +14789,7 @@ efm-langserver.json,ShuguangSun/sgs-scoop-bucket
 file-converter_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 busybox64u.json,ShuguangSun/sgs-scoop-bucket
 r-openblas.json,ShuguangSun/sgs-scoop-bucket
-r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+r-devel.json,ShuguangSun/sgs-scoop-bucket
 openjdk14_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 cherry-studio-1.1.5.json,ShuguangSun/sgs-scoop-bucket
 emacs-nonnative.json,ShuguangSun/sgs-scoop-bucket
