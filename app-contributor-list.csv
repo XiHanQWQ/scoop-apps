@@ -9087,7 +9087,7 @@ tesseract_akirco.json,akirco/aki-apps
 bun_akirco.json,akirco/aki-apps
 geekuninstaller_akirco.json,akirco/aki-apps
 mvndaemon_akirco.json,akirco/aki-apps
-bilibili_akirco.json,akirco/aki-apps
+bilibili.json,akirco/aki-apps
 whisper.json,akirco/aki-apps
 warp_akirco.json,akirco/aki-apps
 vcredist2019.json,akirco/aki-apps
@@ -9808,7 +9808,7 @@ yank-note.json,DoveBoy/Apps
 karing.json,DoveBoy/Apps
 gopeed_DoveBoy.json,DoveBoy/Apps
 text-generation-webui.json,DoveBoy/Apps
-bilibili.json,DoveBoy/Apps
+bilibili_DoveBoy.json,DoveBoy/Apps
 psreadlineviextension.json,DoveBoy/Apps
 whisper.json,DoveBoy/Apps
 vcpkg_DoveBoy.json,DoveBoy/Apps
@@ -11231,7 +11231,7 @@ mysql-fake-server_kengwang.json,kengwang/scoop-ctftools-bucket
 volatility3.json,kengwang/scoop-ctftools-bucket
 suo5_kengwang.json,kengwang/scoop-ctftools-bucket
 Sylas.json,kengwang/scoop-ctftools-bucket
-MDUT-Extend-Release_kengwang.json,kengwang/scoop-ctftools-bucket
+MDUT-Extend-Release.json,kengwang/scoop-ctftools-bucket
 MDUT_kengwang.json,kengwang/scoop-ctftools-bucket
 tweakpng.json,kengwang/scoop-ctftools-bucket
 qrazybox.json,kengwang/scoop-ctftools-bucket
@@ -11860,6 +11860,7 @@ wintun.json,Small-Ku/turbo-bucket
 wuthering-waves-gacha-record.json,Small-Ku/turbo-bucket
 lapce-nightly_Small-Ku.json,Small-Ku/turbo-bucket
 reshade-addon.json,Small-Ku/turbo-bucket
+notepad4_Small-Ku.json,Small-Ku/turbo-bucket
 letta-code.json,Small-Ku/turbo-bucket
 orbolay.json,Small-Ku/turbo-bucket
 better-genshin-impact.json,Small-Ku/turbo-bucket
@@ -14789,7 +14790,7 @@ efm-langserver.json,ShuguangSun/sgs-scoop-bucket
 file-converter_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 busybox64u.json,ShuguangSun/sgs-scoop-bucket
 r-openblas.json,ShuguangSun/sgs-scoop-bucket
-r-devel.json,ShuguangSun/sgs-scoop-bucket
+r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 openjdk14_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 cherry-studio-1.1.5.json,ShuguangSun/sgs-scoop-bucket
 emacs-nonnative.json,ShuguangSun/sgs-scoop-bucket
