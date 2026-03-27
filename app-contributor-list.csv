@@ -8660,7 +8660,7 @@ vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
 xenia-canary_hermanjustnu.json,hermanjustnu/scoop-emulators
 stella_hermanjustnu.json,hermanjustnu/scoop-emulators
 visualboyadvance-m-nightly_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 bsnes-nightly.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -9549,7 +9549,7 @@ sequin.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 mediamux.json,DoveBoy/Apps
 vcpkg_DoveBoy.json,DoveBoy/Apps
 kaf-wifi.json,DoveBoy/Apps
@@ -9727,7 +9727,7 @@ subtitle-ass-shifter.json,DoveBoy/Apps
 cloudflarespeedtest.json,DoveBoy/Apps
 helix_DoveBoy.json,DoveBoy/Apps
 v2raya.json,DoveBoy/Apps
-waveterm_DoveBoy.json,DoveBoy/Apps
+waveterm.json,DoveBoy/Apps
 clash-rev-go120.json,DoveBoy/Apps
 clink-flex-prompt_DoveBoy.json,DoveBoy/Apps
 clashxw.json,DoveBoy/Apps
@@ -12944,7 +12944,7 @@ tcpview_aoisummer.json,aoisummer/scoop-bucket
 multipar_aoisummer.json,aoisummer/scoop-bucket
 crystaldiskinfo-shizuku.json,aoisummer/scoop-bucket
 usbtreeview_aoisummer.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn.json,aoisummer/scoop-bucket
 thunderbird-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 snapraid_aoisummer.json,aoisummer/scoop-bucket
 smartmontools_aoisummer.json,aoisummer/scoop-bucket
