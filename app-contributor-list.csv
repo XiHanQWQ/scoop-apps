@@ -8809,7 +8809,7 @@ fceux.json,borger/scoop-emulators
 mupen64plus.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
-shipwright_borger.json,borger/scoop-emulators
+shipwright.json,borger/scoop-emulators
 desmume_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
@@ -8960,7 +8960,7 @@ gost_ViCrack.json,ViCrack/scoop-bucket
 PowerRun.json,ViCrack/scoop-bucket
 observerward.json,ViCrack/scoop-bucket
 fapro.json,ViCrack/scoop-bucket
-jar-analyzer.json,ViCrack/scoop-bucket
+jar-analyzer_ViCrack.json,ViCrack/scoop-bucket
 rakshasa.json,ViCrack/scoop-bucket
 afrog_ViCrack.json,ViCrack/scoop-bucket
 fvuln_ViCrack.json,ViCrack/scoop-bucket
