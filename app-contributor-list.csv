@@ -4362,7 +4362,7 @@ openrct2.json,Calinou/scoop-games
 quake-injector.json,Calinou/scoop-games
 ascii-sector.json,Calinou/scoop-games
 ff-logs-uploader.json,Calinou/scoop-games
-hmcl_Calinou.json,Calinou/scoop-games
+hmcl.json,Calinou/scoop-games
 mameui.json,Calinou/scoop-games
 widelands.json,Calinou/scoop-games
 iortcw.json,Calinou/scoop-games
@@ -7535,7 +7535,7 @@ r-release.json,cderv/r-bucket
 tree.json,cderv/r-bucket
 positron-prerelease.json,cderv/r-bucket
 chrome-headless-shell.json,cderv/r-bucket
-rstudio-preview.json,cderv/r-bucket
+rstudio-preview_cderv.json,cderv/r-bucket
 mq-lsp.json,cderv/r-bucket
 rstudio-2022.07.json,cderv/r-bucket
 rstudio-daily-electron.json,cderv/r-bucket
@@ -8960,7 +8960,7 @@ gost_ViCrack.json,ViCrack/scoop-bucket
 PowerRun.json,ViCrack/scoop-bucket
 observerward.json,ViCrack/scoop-bucket
 fapro.json,ViCrack/scoop-bucket
-jar-analyzer_ViCrack.json,ViCrack/scoop-bucket
+jar-analyzer.json,ViCrack/scoop-bucket
 rakshasa.json,ViCrack/scoop-bucket
 afrog_ViCrack.json,ViCrack/scoop-bucket
 fvuln_ViCrack.json,ViCrack/scoop-bucket
@@ -9550,7 +9550,7 @@ sequin.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 mediamux.json,DoveBoy/Apps
 vcpkg_DoveBoy.json,DoveBoy/Apps
 kaf-wifi.json,DoveBoy/Apps
@@ -11408,6 +11408,7 @@ w11classic-menu.json,WinApps-share/WinApps-bucket
 ocauxiliarytools_WinApps-share.json,WinApps-share/WinApps-bucket
 misakax.json,WinApps-share/WinApps-bucket
 musicfree.json,WinApps-share/WinApps-bucket
+n-m3u8dl-re.json,WinApps-share/WinApps-bucket
 fastcopy_WinApps-share.json,WinApps-share/WinApps-bucket
 notepad3_WinApps-share.json,WinApps-share/WinApps-bucket
 watt-toolkit_WinApps-share.json,WinApps-share/WinApps-bucket
