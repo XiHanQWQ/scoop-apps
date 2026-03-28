@@ -7535,7 +7535,7 @@ r-release.json,cderv/r-bucket
 tree.json,cderv/r-bucket
 positron-prerelease.json,cderv/r-bucket
 chrome-headless-shell.json,cderv/r-bucket
-rstudio-preview_cderv.json,cderv/r-bucket
+rstudio-preview.json,cderv/r-bucket
 mq-lsp.json,cderv/r-bucket
 rstudio-2022.07.json,cderv/r-bucket
 rstudio-daily-electron.json,cderv/r-bucket
@@ -8172,6 +8172,7 @@ src-highlight.json,dodorz/scoop
 CloverPdf.json,dodorz/scoop
 adobe-source-han-serif-tw-fonts.json,dodorz/scoop
 pngout.json,dodorz/scoop
+Go_dodorz.json,dodorz/scoop
 KillEmAllMini.json,dodorz/scoop
 SysInternals_dodorz.json,dodorz/scoop
 NetSpeed.json,dodorz/scoop
@@ -8660,7 +8661,7 @@ vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
 xenia-canary_hermanjustnu.json,hermanjustnu/scoop-emulators
 stella_hermanjustnu.json,hermanjustnu/scoop-emulators
 visualboyadvance-m-nightly_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 bsnes-nightly.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -9727,7 +9728,7 @@ subtitle-ass-shifter.json,DoveBoy/Apps
 cloudflarespeedtest.json,DoveBoy/Apps
 helix_DoveBoy.json,DoveBoy/Apps
 v2raya.json,DoveBoy/Apps
-waveterm.json,DoveBoy/Apps
+waveterm_DoveBoy.json,DoveBoy/Apps
 clash-rev-go120.json,DoveBoy/Apps
 clink-flex-prompt_DoveBoy.json,DoveBoy/Apps
 clashxw.json,DoveBoy/Apps
@@ -9741,7 +9742,7 @@ regjump_DoveBoy.json,DoveBoy/Apps
 clash-verge_DoveBoy.json,DoveBoy/Apps
 mocreak.json,DoveBoy/Apps
 n_m3u8dl-re.json,DoveBoy/Apps
-varia.json,DoveBoy/Apps
+varia_DoveBoy.json,DoveBoy/Apps
 pixiv-omina.json,DoveBoy/Apps
 qqgame.json,DoveBoy/Apps
 microsoft-activation-scripts.json,DoveBoy/Apps
@@ -9796,7 +9797,7 @@ energystar.json,DoveBoy/Apps
 bbk-cli_DoveBoy.json,DoveBoy/Apps
 ultimatevocalremovergui.json,DoveBoy/Apps
 maple-file.json,DoveBoy/Apps
-dandanplay.json,DoveBoy/Apps
+dandanplay_DoveBoy.json,DoveBoy/Apps
 go-music-dl.json,DoveBoy/Apps
 perl_DoveBoy.json,DoveBoy/Apps
 openoffice_DoveBoy.json,DoveBoy/Apps
@@ -12944,7 +12945,7 @@ tcpview_aoisummer.json,aoisummer/scoop-bucket
 multipar_aoisummer.json,aoisummer/scoop-bucket
 crystaldiskinfo-shizuku.json,aoisummer/scoop-bucket
 usbtreeview_aoisummer.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 thunderbird-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 snapraid_aoisummer.json,aoisummer/scoop-bucket
 smartmontools_aoisummer.json,aoisummer/scoop-bucket
