@@ -9671,6 +9671,7 @@ fetch-github-hosts.json,DoveBoy/Apps
 vcredist-aio_DoveBoy.json,DoveBoy/Apps
 kopia-cli.json,DoveBoy/Apps
 wechatrealfriends.json,DoveBoy/Apps
+gimp.json,DoveBoy/Apps
 aria2_DoveBoy.json,DoveBoy/Apps
 vimtutor_DoveBoy.json,DoveBoy/Apps
 libreoffice.json,DoveBoy/Apps
@@ -14504,6 +14505,7 @@ woodpecker-agent-aoks.json,AntonOks/scoop-aoks
 gitnote-aoks.json,AntonOks/scoop-aoks
 WixEdit-aoks.json,AntonOks/scoop-aoks
 boostnote_next-aoks.json,AntonOks/scoop-aoks
+superproductivity-aoks.json,AntonOks/scoop-aoks
 kopiaUI-aoks.json,AntonOks/scoop-aoks
 ftpserver-aoks.json,AntonOks/scoop-aoks
 dotnet-desktop-runtime-aoks.json,AntonOks/scoop-aoks
@@ -14897,7 +14899,7 @@ julia_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 gnupg_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 emacs-nodeps.json,ShuguangSun/sgs-scoop-bucket
 vscodium_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-diff-pdf.json,ShuguangSun/sgs-scoop-bucket
+diff-pdf_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 subversion.json,ShuguangSun/sgs-scoop-bucket
 cherry-studio-1.1.5.json,ShuguangSun/sgs-scoop-bucket
 phantomjs_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
