@@ -1951,7 +1951,7 @@ chatterino7.json,ScoopInstaller/Extras
 ntsc-rs.json,ScoopInstaller/Extras
 todolist.json,ScoopInstaller/Extras
 ytmdesktop.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 awesomebump.json,ScoopInstaller/Extras
 lazarus.json,ScoopInstaller/Extras
 miniconda3.json,ScoopInstaller/Extras
@@ -2304,7 +2304,7 @@ isocreator.json,ScoopInstaller/Extras
 ussf.json,ScoopInstaller/Extras
 notion.json,ScoopInstaller/Extras
 as-ssd.json,ScoopInstaller/Extras
-telegram-downloader_ScoopInstaller.json,ScoopInstaller/Extras
+telegram-downloader.json,ScoopInstaller/Extras
 pari-gp.json,ScoopInstaller/Extras
 fatty.json,ScoopInstaller/Extras
 colorcontrol.json,ScoopInstaller/Extras
@@ -5203,6 +5203,7 @@ php82.json,ScoopInstaller/Versions
 nheko-nightly.json,ScoopInstaller/Versions
 rubymine-eap.json,ScoopInstaller/Versions
 explorerplusplus-dev.json,ScoopInstaller/Versions
+reshade-addons.json,ScoopInstaller/Versions
 handbrake-cli-snapshot.json,ScoopInstaller/Versions
 avidemux-nightly.json,ScoopInstaller/Versions
 tinymediamanager3.json,ScoopInstaller/Versions
@@ -8809,7 +8810,7 @@ fceux.json,borger/scoop-emulators
 mupen64plus.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
-shipwright.json,borger/scoop-emulators
+shipwright_borger.json,borger/scoop-emulators
 desmume_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
@@ -8959,6 +8960,7 @@ evilpot.json,ViCrack/scoop-bucket
 gost_ViCrack.json,ViCrack/scoop-bucket
 PowerRun.json,ViCrack/scoop-bucket
 observerward.json,ViCrack/scoop-bucket
+rmx.json,ViCrack/scoop-bucket
 fapro.json,ViCrack/scoop-bucket
 jar-analyzer_ViCrack.json,ViCrack/scoop-bucket
 rakshasa.json,ViCrack/scoop-bucket
