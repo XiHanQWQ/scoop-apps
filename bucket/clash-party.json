@@ -1,53 +1,23 @@
 {
     "version": "1.9.4",
     "description": "Another Mihomo GUI.",
-    "homepage": "https://mihomo.party/",
-    "license": {
-        "identifier": "GPL-3.0 license",
-        "url": "https://github.com/mihomo-party-org/clash-party#GPL-3.0-1-ov-file"
-    },
+    "homepage": "https://clashparty.org/",
+    "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mihomo-party-org/clash-party/releases/download/v1.9.4/clash-party-windows-1.9.4-x64-setup.exe#/dl.7z",
-            "hash": "3f0a8bfe87ab7298ca1c565ab08a174aaa521aba7278e0396d5d05747c2d4e30",
-            "pre_install": [
-                "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
-                "Remove-Item \"$dir\\`$*\" -Force -Recurse"
-            ]
+            "url": "https://github.com/mihomo-party-org/clash-party/releases/download/v1.9.4/clash-party-windows-1.9.4-x64-portable.7z",
+            "hash": "bc18cef5764bf659056d580ffe2159fab0d6c7b786d76d61d96f4a66daf576f3"
         },
         "32bit": {
-            "url": "https://github.com/mihomo-party-org/clash-party/releases/download/v1.9.4/clash-party-windows-1.9.4-ia32-setup.exe#/dl.7z",
-            "hash": "e9d4d688ae8bd75dacf2b5b8fe34a90e9494cd61c92fb55987a22141a788f49e",
-            "pre_install": [
-                "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-32.7z\" \"$dir\"",
-                "Remove-Item \"$dir\\`$*\" -Force -Recurse"
-            ]
+            "url": "https://github.com/mihomo-party-org/clash-party/releases/download/v1.9.4/clash-party-windows-1.9.4-ia32-portable.7z",
+            "hash": "f0156c68a5a748c9ea59f3ff98713b04dd65ebe21c1952b592904c3f8c56e75b"
         },
         "arm64": {
-            "url": "https://github.com/mihomo-party-org/clash-party/releases/download/v1.9.4/clash-party-windows-1.9.4-arm64-setup.exe#/dl.7z",
-            "hash": "c19a67299adfcb64859315b0d71b27c083f5c95621ebb6dfffba2175b6c454f1",
-            "pre_install": [
-                "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-arm64.7z\" \"$dir\"",
-                "Remove-Item \"$dir\\`$*\" -Force -Recurse"
-            ]
+            "url": "https://github.com/mihomo-party-org/clash-party/releases/download/v1.9.4/clash-party-windows-1.9.4-arm64-portable.7z",
+            "hash": "ec1343a970ecb955808f7ceee667cdd13ab0837bac8f5f6e0106c2db89325223"
         }
     },
-    "installer": {
-        "script": [
-            "# handle runtime cache",
-            "Import-Module $(Join-Path $(Find-BucketDirectory -Root -Name apps) scripts/AppsUtils.psm1)",
-            "Mount-ExternalRuntimeData -Source \"$persist_dir\" -Target \"$env:APPDATA\\mihomo-party\"",
-            "Remove-Module -Name AppsUtils"
-        ]
-    },
-    "uninstaller": {
-        "script": [
-            "Import-Module $(Join-Path $(Find-BucketDirectory -Root -Name apps) scripts/AppsUtils.psm1)",
-            "Dismount-ExternalRuntimeData -Target \"$env:APPDATA\\mihomo-party\"",
-            "Remove-Module -Name AppsUtils"
-        ]
-    },
-    "bin": "Clash Party.exe",
+    "persist": "data",
     "shortcuts": [
         [
             "Clash Party.exe",
@@ -55,20 +25,22 @@
         ]
     ],
     "checkver": {
-        "url": "https://api.github.com/repos/mihomo-party-org/clash-party/releases",
-        "regex": "/releases/tag/v([\\d.]+)"
+        "github": "https://github.com/mihomo-party-org/clash-party"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/mihomo-party-org/clash-party/releases/download/v$version/clash-party-windows-$version-x64-setup.exe#/dl.7z"
+                "url": "https://github.com/mihomo-party-org/clash-party/releases/download/v$version/clash-party-windows-$version-x64-portable.7z"
             },
             "32bit": {
-                "url": "https://github.com/mihomo-party-org/clash-party/releases/download/v$version/clash-party-windows-$version-ia32-setup.exe#/dl.7z"
+                "url": "https://github.com/mihomo-party-org/clash-party/releases/download/v$version/clash-party-windows-$version-ia32-portable.7z"
             },
             "arm64": {
-                "url": "https://github.com/mihomo-party-org/clash-party/releases/download/v$version/clash-party-windows-$version-arm64-setup.exe#/dl.7z"
+                "url": "https://github.com/mihomo-party-org/clash-party/releases/download/v$version/clash-party-windows-$version-arm64-portable.7z"
             }
+        },
+        "hash": {
+            "url": "$url.sha256"
         }
     }
 }

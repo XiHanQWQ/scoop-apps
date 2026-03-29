@@ -1667,6 +1667,7 @@ openutau.json,ScoopInstaller/Extras
 duality.json,ScoopInstaller/Extras
 dataspell.json,ScoopInstaller/Extras
 visualc.json,ScoopInstaller/Extras
+ppink.json,ScoopInstaller/Extras
 texteditoranywhere.json,ScoopInstaller/Extras
 klatexformula.json,ScoopInstaller/Extras
 gitu.json,ScoopInstaller/Extras
@@ -2465,6 +2466,7 @@ graphql-playground.json,ScoopInstaller/Extras
 megabasterd.json,ScoopInstaller/Extras
 shadowexplorer.json,ScoopInstaller/Extras
 raspberry-pi-imager.json,ScoopInstaller/Extras
+miro-pdf.json,ScoopInstaller/Extras
 wechat.json,ScoopInstaller/Extras
 strokesplus.net.json,ScoopInstaller/Extras
 tftputil-gui.json,ScoopInstaller/Extras
@@ -9623,7 +9625,7 @@ joplin-pre_DoveBoy.json,DoveBoy/Apps
 ventoy_DoveBoy.json,DoveBoy/Apps
 music-you.json,DoveBoy/Apps
 video-srt-windows-with-ffmpeg.json,DoveBoy/Apps
-gui-for-singbox.json,DoveBoy/Apps
+gui-for-singbox_DoveBoy.json,DoveBoy/Apps
 czkawka_DoveBoy.json,DoveBoy/Apps
 crossdesk.json,DoveBoy/Apps
 blockthespot.json,DoveBoy/Apps
@@ -9977,7 +9979,7 @@ gping_DoveBoy.json,DoveBoy/Apps
 karing.json,DoveBoy/Apps
 officetoolplus-with-runtime.json,DoveBoy/Apps
 host-editor_DoveBoy.json,DoveBoy/Apps
-clash-party.json,DoveBoy/Apps
+clash-party_DoveBoy.json,DoveBoy/Apps
 1remote_DoveBoy.json,DoveBoy/Apps
 clash-rev-compatible.json,DoveBoy/Apps
 gnupg-np_DoveBoy.json,DoveBoy/Apps
@@ -10075,7 +10077,7 @@ miniserve_DoveBoy.json,DoveBoy/Apps
 r3play.json,DoveBoy/Apps
 localsqueeze.json,DoveBoy/Apps
 deskreen_DoveBoy.json,DoveBoy/Apps
-gui-for-clash.json,DoveBoy/Apps
+gui-for-clash_DoveBoy.json,DoveBoy/Apps
 text-grab_DoveBoy.json,DoveBoy/Apps
 crystaldiskinfo-kureikei.json,DoveBoy/Apps
 pixivbiu.json,DoveBoy/Apps
@@ -11286,7 +11288,7 @@ wgestures_WinApps-share.json,WinApps-share/WinApps-bucket
 hddog.json,WinApps-share/WinApps-bucket
 ab-download-manager.json,WinApps-share/WinApps-bucket
 altserver.json,WinApps-share/WinApps-bucket
-picview.json,WinApps-share/WinApps-bucket
+picview_WinApps-share.json,WinApps-share/WinApps-bucket
 motrix-np.json,WinApps-share/WinApps-bucket
 lively_WinApps-share.json,WinApps-share/WinApps-bucket
 keyviz_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -12189,7 +12191,7 @@ eclipse-installer.json,liaoya/scoop-bucket
 ezwinports.json,liaoya/scoop-bucket
 mingw-winlibs-ucrt_liaoya.json,liaoya/scoop-bucket
 pyscripter_liaoya.json,liaoya/scoop-bucket
-ppink.json,liaoya/scoop-bucket
+ppink_liaoya.json,liaoya/scoop-bucket
 mingw-winlibs-mcf.json,liaoya/scoop-bucket
 gtm.json,liaoya/scoop-bucket
 codeblocks-nightly.json,liaoya/scoop-bucket
