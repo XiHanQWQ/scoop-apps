@@ -1,19 +1,16 @@
 {
-    "version": "1.85.1",
-    "description": "Network monitoring floating window software on Windows. It can display the current network speed, CPU and memory usage. It also supports being embedded into the taskbar, theme changing and traffic statistics. (Lite version, which does not contain GPU, Hard Disk or temperature monitoring. Administrator privilege is not required)",
+    "version": "1.86",
+    "description": "Network monitoring suspension window software in Windows platform. It can display the current network speed, CPU and memory usage. It also support the functions of display in the taskbar, change skin and historical traffic statistics.",
     "homepage": "https://github.com/zhongyang219/TrafficMonitor/blob/master/README_en-us.md",
     "license": "MIT",
-    "suggest": {
-        "vcredist": "extras/vcredist2022"
-    },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/zhongyang219/TrafficMonitor/releases/download/V1.85.1/TrafficMonitor_V1.85.1_x64_Lite.zip",
-            "hash": "7805ea17336faffe51346e0f4e8dc9d487cc1b8c80499cc1a6312a28ccac3dc1"
+            "url": "https://github.com/zhongyang219/TrafficMonitor/releases/download/V1.86/TrafficMonitor_V1.86_x64.zip",
+            "hash": "948ddc12cc582e8cf0b7b32e0064544f6f711265a7671c2e47343a6a0ff4908e"
         },
         "32bit": {
-            "url": "https://github.com/zhongyang219/TrafficMonitor/releases/download/V1.85.1/TrafficMonitor_V1.85.1_x86_Lite.zip",
-            "hash": "2fe48cb49324de6210136a75d09df855c5a26deb466c62fb17a268bf5b928e62"
+            "url": "https://github.com/zhongyang219/TrafficMonitor/releases/download/V1.86/TrafficMonitor_V1.86_x86.zip",
+            "hash": "2dddbd07f54607035f7b54d15ef2597844335ee343afe5f9ddb004e7f0725f04"
         }
     },
     "extract_dir": "TrafficMonitor",
@@ -32,7 +29,7 @@
     "shortcuts": [
         [
             "TrafficMonitor.exe",
-            "TrafficMonitor (Lite)"
+            "TrafficMonitor"
         ]
     ],
     "persist": [
@@ -47,10 +44,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/zhongyang219/TrafficMonitor/releases/download/V$version/TrafficMonitor_V$version_x64_Lite.zip"
+                "url": "https://github.com/zhongyang219/TrafficMonitor/releases/download/V$version/TrafficMonitor_V$version_x64.zip"
             },
             "32bit": {
-                "url": "https://github.com/zhongyang219/TrafficMonitor/releases/download/V$version/TrafficMonitor_V$version_x86_Lite.zip"
+                "url": "https://github.com/zhongyang219/TrafficMonitor/releases/download/V$version/TrafficMonitor_V$version_x86.zip"
             }
         }
     }
