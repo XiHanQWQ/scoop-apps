@@ -2304,7 +2304,7 @@ isocreator.json,ScoopInstaller/Extras
 ussf.json,ScoopInstaller/Extras
 notion.json,ScoopInstaller/Extras
 as-ssd.json,ScoopInstaller/Extras
-telegram-downloader.json,ScoopInstaller/Extras
+telegram-downloader_ScoopInstaller.json,ScoopInstaller/Extras
 pari-gp.json,ScoopInstaller/Extras
 fatty.json,ScoopInstaller/Extras
 colorcontrol.json,ScoopInstaller/Extras
@@ -4362,7 +4362,7 @@ openrct2.json,Calinou/scoop-games
 quake-injector.json,Calinou/scoop-games
 ascii-sector.json,Calinou/scoop-games
 ff-logs-uploader.json,Calinou/scoop-games
-hmcl.json,Calinou/scoop-games
+hmcl_Calinou.json,Calinou/scoop-games
 mameui.json,Calinou/scoop-games
 widelands.json,Calinou/scoop-games
 iortcw.json,Calinou/scoop-games
@@ -7831,7 +7831,7 @@ ActiveGo.json,dodorz/scoop
 Milkup.json,dodorz/scoop
 Notepad4_zh-Hans-AVX512.json,dodorz/scoop
 fmedia_dodorz.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
 Everything_dodorz.json,dodorz/scoop
 MicroEmacs.json,dodorz/scoop
@@ -9671,7 +9671,6 @@ fetch-github-hosts.json,DoveBoy/Apps
 vcredist-aio_DoveBoy.json,DoveBoy/Apps
 kopia-cli.json,DoveBoy/Apps
 wechatrealfriends.json,DoveBoy/Apps
-gimp.json,DoveBoy/Apps
 aria2_DoveBoy.json,DoveBoy/Apps
 vimtutor_DoveBoy.json,DoveBoy/Apps
 libreoffice.json,DoveBoy/Apps
@@ -10867,7 +10866,7 @@ font-sahel.json,naderi/scoop-bucket
 xpdf-tools_naderi.json,naderi/scoop-bucket
 lyx_naderi.json,naderi/scoop-bucket
 screenshot-captor.json,naderi/scoop-bucket
-thunderbird-portable_naderi.json,naderi/scoop-bucket
+thunderbird-portable.json,naderi/scoop-bucket
 wise-program-uninstaller.json,naderi/scoop-bucket
 ganjoor.json,naderi/scoop-bucket
 windows-repair.json,naderi/scoop-bucket
@@ -10929,7 +10928,7 @@ winpaletter.json,naderi/scoop-bucket
 eudic.json,naderi/scoop-bucket
 winamp.json,naderi/scoop-bucket
 lgpo_naderi.json,naderi/scoop-bucket
-innounpacker.json,naderi/scoop-bucket
+innounpacker_naderi.json,naderi/scoop-bucket
 alwaysmousewheel.json,naderi/scoop-bucket
 pulsar_naderi.json,naderi/scoop-bucket
 mdr_naderi.json,naderi/scoop-bucket
@@ -11824,7 +11823,7 @@ doggo_ygguorun.json,ygguorun/scoop-bucket
 MyDockFinder_ygguorun.json,ygguorun/scoop-bucket
 iFlyVoice.json,ygguorun/scoop-bucket
 ClashDotNetFramework.json,ygguorun/scoop-bucket
-gemini-cli.json,Small-Ku/turbo-bucket
+gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
 vencord-installer_Small-Ku.json,Small-Ku/turbo-bucket
 kondo_Small-Ku.json,Small-Ku/turbo-bucket
 stardb-exporter.json,Small-Ku/turbo-bucket
@@ -14927,7 +14926,7 @@ unrar_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 git-lfs_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 sumatrapdf-stable.json,ShuguangSun/sgs-scoop-bucket
 cherry-studio-portable.json,ShuguangSun/sgs-scoop-bucket
-gimp-cn_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+gimp-cn.json,ShuguangSun/sgs-scoop-bucket
 emacs-kiennq-ucrt.json,ShuguangSun/sgs-scoop-bucket
 r-4.1.2.json,ShuguangSun/sgs-scoop-bucket
 pandoc-crossref_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
