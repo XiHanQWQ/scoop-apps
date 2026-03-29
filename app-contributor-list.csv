@@ -8071,7 +8071,7 @@ gofx.json,dodorz/scoop
 ima.copilot.json,dodorz/scoop
 Falkon_dodorz.json,dodorz/scoop
 cjoe-static.json,dodorz/scoop
-goose-CLI.json,dodorz/scoop
+goose-CLI_dodorz.json,dodorz/scoop
 Mihomo-TUI.json,dodorz/scoop
 clink-zoxide.json,dodorz/scoop
 fasd.json,dodorz/scoop
@@ -8961,7 +8961,7 @@ PowerRun.json,ViCrack/scoop-bucket
 observerward.json,ViCrack/scoop-bucket
 rmx.json,ViCrack/scoop-bucket
 fapro.json,ViCrack/scoop-bucket
-jar-analyzer.json,ViCrack/scoop-bucket
+jar-analyzer_ViCrack.json,ViCrack/scoop-bucket
 rakshasa.json,ViCrack/scoop-bucket
 afrog_ViCrack.json,ViCrack/scoop-bucket
 fvuln_ViCrack.json,ViCrack/scoop-bucket
@@ -9612,7 +9612,7 @@ lsx.json,DoveBoy/Apps
 treesize_DoveBoy.json,DoveBoy/Apps
 clashcross.json,DoveBoy/Apps
 v2ray_DoveBoy.json,DoveBoy/Apps
-trafficmonitor-lite_DoveBoy.json,DoveBoy/Apps
+trafficmonitor-lite.json,DoveBoy/Apps
 ghostdownloader3.json,DoveBoy/Apps
 clash-nyanpasu-portable.json,DoveBoy/Apps
 lessmsi_DoveBoy.json,DoveBoy/Apps
@@ -10012,7 +10012,7 @@ esearch_DoveBoy.json,DoveBoy/Apps
 64gram_DoveBoy.json,DoveBoy/Apps
 easymusic.json,DoveBoy/Apps
 adb_DoveBoy.json,DoveBoy/Apps
-trafficmonitor_DoveBoy.json,DoveBoy/Apps
+trafficmonitor.json,DoveBoy/Apps
 grex_DoveBoy.json,DoveBoy/Apps
 scrcpy_DoveBoy.json,DoveBoy/Apps
 min_DoveBoy.json,DoveBoy/Apps
