@@ -5150,6 +5150,7 @@ llama.cpp-hip-gfx1101.json,ScoopInstaller/Versions
 odin-nightly.json,ScoopInstaller/Versions
 php84.json,ScoopInstaller/Versions
 php84-xdebug.json,ScoopInstaller/Versions
+raddebugger-alpha.json,ScoopInstaller/Versions
 tomcat9.json,ScoopInstaller/Versions
 windowsdesktop-runtime-10.0.json,ScoopInstaller/Versions
 okular-nightly.json,ScoopInstaller/Versions
@@ -13942,7 +13943,7 @@ goreplay_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP-japanese.json,HUMORCE/nuke
 xpdf-tools-LSP_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP-korean.json,HUMORCE/nuke
-fido_HUMORCE.json,HUMORCE/nuke
+fido.json,HUMORCE/nuke
 fq_HUMORCE.json,HUMORCE/nuke
 ttfautohint.json,HUMORCE/nuke
 mediamtx_HUMORCE.json,HUMORCE/nuke
