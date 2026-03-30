@@ -8078,6 +8078,7 @@ goose-CLI_dodorz.json,dodorz/scoop
 Mihomo-TUI.json,dodorz/scoop
 clink-zoxide.json,dodorz/scoop
 fasd.json,dodorz/scoop
+OfficeCLI.json,dodorz/scoop
 mdcat_dodorz.json,dodorz/scoop
 ExplorerXP.json,dodorz/scoop
 FreeVD.json,dodorz/scoop
@@ -10281,7 +10282,7 @@ m3u8d-cli.json,DoveBoy/Apps
 psgithub_DoveBoy.json,DoveBoy/Apps
 tageditor_DoveBoy.json,DoveBoy/Apps
 jq_DoveBoy.json,DoveBoy/Apps
-freefilesync.json,DoveBoy/Apps
+freefilesync_DoveBoy.json,DoveBoy/Apps
 flclash_DoveBoy.json,DoveBoy/Apps
 book-searcher-desktop.json,DoveBoy/Apps
 adobegenp.json,DoveBoy/Apps
@@ -12582,14 +12583,17 @@ qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
 nextai-translator_TianXiaTech.json,TianXiaTech/scoop-txt
 aliyundrive_TianXiaTech.json,TianXiaTech/scoop-txt
 neohtop_TianXiaTech.json,TianXiaTech/scoop-txt
+whisper-cpp-cublas-1240.json,TianXiaTech/scoop-txt
 picgo_TianXiaTech.json,TianXiaTech/scoop-txt
 imewlconverter.json,TianXiaTech/scoop-txt
+whisper-cpp-blas_TianXiaTech.json,TianXiaTech/scoop-txt
 ffmpegFreeUI_TianXiaTech.json,TianXiaTech/scoop-txt
 iconEase.json,TianXiaTech/scoop-txt
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
 gopeed_TianXiaTech.json,TianXiaTech/scoop-txt
 qqmusic_TianXiaTech.json,TianXiaTech/scoop-txt
 baidunetdisk_TianXiaTech.json,TianXiaTech/scoop-txt
+whisper-cpp_TianXiaTech.json,TianXiaTech/scoop-txt
 kugou.json,TianXiaTech/scoop-txt
 winsw_TianXiaTech.json,TianXiaTech/scoop-txt
 mgtv_TianXiaTech.json,TianXiaTech/scoop-txt
@@ -12603,6 +12607,7 @@ cc-switch_TianXiaTech.json,TianXiaTech/scoop-txt
 youku.json,TianXiaTech/scoop-txt
 cursor_TianXiaTech.json,TianXiaTech/scoop-txt
 blinko.json,TianXiaTech/scoop-txt
+whisper-cpp-cublas-1180.json,TianXiaTech/scoop-txt
 winsw-alpha.json,TianXiaTech/scoop-txt
 zyfun.json,TianXiaTech/scoop-txt
 writingTools.json,TianXiaTech/scoop-txt
@@ -13200,6 +13205,7 @@ opentofu@1.11.3.json,rivy/scoop-bucket
 innounp_rivy.json,rivy/scoop-bucket
 go@1.19.13.json,rivy/scoop-bucket
 perl@5.18.4.1+gcc.json,rivy/scoop-bucket
+nasm@3.01.json,rivy/scoop-bucket
 resourceHacker.json,rivy/scoop-bucket
 djgpp@3.2-gcc-10.3.0.json,rivy/scoop-bucket
 gcc@7.3.0-x32.json,rivy/scoop-bucket
