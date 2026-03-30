@@ -1952,7 +1952,7 @@ chatterino7.json,ScoopInstaller/Extras
 ntsc-rs.json,ScoopInstaller/Extras
 todolist.json,ScoopInstaller/Extras
 ytmdesktop.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 awesomebump.json,ScoopInstaller/Extras
 lazarus.json,ScoopInstaller/Extras
 miniconda3.json,ScoopInstaller/Extras
@@ -10197,7 +10197,7 @@ cromite_DoveBoy.json,DoveBoy/Apps
 pwsh_DoveBoy.json,DoveBoy/Apps
 auto-unlocker.json,DoveBoy/Apps
 umi-ocr-rapid_DoveBoy.json,DoveBoy/Apps
-saber_DoveBoy.json,DoveBoy/Apps
+saber.json,DoveBoy/Apps
 go-proxy-bingai.json,DoveBoy/Apps
 qbittorrent-enhanced_DoveBoy.json,DoveBoy/Apps
 lsar.json,DoveBoy/Apps
@@ -11005,7 +11005,7 @@ potplayer-portable_naderi.json,naderi/scoop-bucket
 vlc-portable_naderi.json,naderi/scoop-bucket
 comet.json,naderi/scoop-bucket
 edge-portable-beta.json,naderi/scoop-bucket
-boom.json,naderi/scoop-bucket
+boom_naderi.json,naderi/scoop-bucket
 zen-browser_naderi.json,naderi/scoop-bucket
 cryfs.json,naderi/scoop-bucket
 vscode-insider.json,naderi/scoop-bucket
@@ -13319,6 +13319,7 @@ nodejs@7.10.0.json,rivy/scoop-bucket
 go@1.14.2.json,rivy/scoop-bucket
 python@mini-3.11.5.json,rivy/scoop-bucket
 curl@8.2.1_2.json,rivy/scoop-bucket
+clang@20.1.8.json,rivy/scoop-bucket
 ldc@1.22.0-multilib.json,rivy/scoop-bucket
 openssl@1.1.1d.json,rivy/scoop-bucket
 perl@5.28.1.1.json,rivy/scoop-bucket
@@ -13466,6 +13467,7 @@ embcc.json,rivy/scoop-bucket
 ldc@1.30.0-multilib.json,rivy/scoop-bucket
 gpg@2.2.5+gui.json,rivy/scoop-bucket
 pandoc@2.14.2.json,rivy/scoop-bucket
+clang@19.1.7.json,rivy/scoop-bucket
 gcc@9.2.0-x64+x32.json,rivy/scoop-bucket
 uutils-coreutils@0.0.14.json,rivy/scoop-bucket
 restic@0.9.5.json,rivy/scoop-bucket
@@ -13578,6 +13580,7 @@ premake@5.0.0-alpha16.json,rivy/scoop-bucket
 drmemory@2.6.20103.json,rivy/scoop-bucket
 deno@1.2.0.json,rivy/scoop-bucket
 nim@1.0.4-x64.json,rivy/scoop-bucket
+clang@21.1.8.json,rivy/scoop-bucket
 vscode_rivy.json,rivy/scoop-bucket
 qalculate_rivy.json,rivy/scoop-bucket
 gpg@2.2.23.json,rivy/scoop-bucket
@@ -13750,6 +13753,7 @@ perl@5.8.9.5+gcc.json,rivy/scoop-bucket
 clang@18.1.8-llvmdev.json,rivy/scoop-bucket
 dosbox_rivy.json,rivy/scoop-bucket
 watchman@2023.09.18.00.json,rivy/scoop-bucket
+clang@22.1.2.json,rivy/scoop-bucket
 tcc_rivy.json,rivy/scoop-bucket
 nodejs@7.5.0.json,rivy/scoop-bucket
 premake5@5.0.0-alpha12.json,rivy/scoop-bucket
