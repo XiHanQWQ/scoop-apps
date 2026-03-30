@@ -1952,7 +1952,7 @@ chatterino7.json,ScoopInstaller/Extras
 ntsc-rs.json,ScoopInstaller/Extras
 todolist.json,ScoopInstaller/Extras
 ytmdesktop.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 awesomebump.json,ScoopInstaller/Extras
 lazarus.json,ScoopInstaller/Extras
 miniconda3.json,ScoopInstaller/Extras
@@ -2896,6 +2896,7 @@ magicavoxel.json,ScoopInstaller/Extras
 antares.json,ScoopInstaller/Extras
 sfsu.json,ScoopInstaller/Extras
 regedix.json,ScoopInstaller/Extras
+jan.json,ScoopInstaller/Extras
 wait4x.json,ScoopInstaller/Extras
 matterircd.json,ScoopInstaller/Extras
 single-file-cli.json,ScoopInstaller/Extras
@@ -8457,7 +8458,7 @@ TidGi.json,dodorz/scoop
 PDF-XChange-Viewer.json,dodorz/scoop
 RisohEditor.json,dodorz/scoop
 JBMail.json,dodorz/scoop
-Jan.json,dodorz/scoop
+Jan_dodorz.json,dodorz/scoop
 diffnav.json,dodorz/scoop
 lanzou.json,dodorz/scoop
 adobe-source-han-serif-cn-fonts.json,dodorz/scoop
@@ -9773,7 +9774,7 @@ scoop-search_DoveBoy.json,DoveBoy/Apps
 abdownloadmanager_DoveBoy.json,DoveBoy/Apps
 upx_DoveBoy.json,DoveBoy/Apps
 motrix_DoveBoy.json,DoveBoy/Apps
-sandboxie-plus_DoveBoy.json,DoveBoy/Apps
+sandboxie-plus.json,DoveBoy/Apps
 bilibili-backup_DoveBoy.json,DoveBoy/Apps
 dua_DoveBoy.json,DoveBoy/Apps
 streamcap.json,DoveBoy/Apps
@@ -11644,7 +11645,7 @@ TidyDesktopMonster.json,brian6932/dank-scoop
 profileasync.json,brian6932/dank-scoop
 mercury.json,brian6932/dank-scoop
 testmem5-advanced.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 autosave.json,brian6932/dank-scoop
 clima.json,brian6932/dank-scoop
 comicrack-ce-nightly.json,brian6932/dank-scoop
