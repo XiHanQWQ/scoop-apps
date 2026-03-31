@@ -10052,7 +10052,6 @@ waifu2x-ncnn-vulkan_DoveBoy.json,DoveBoy/Apps
 ps-guicompletion.json,DoveBoy/Apps
 mediago-beta.json,DoveBoy/Apps
 watttoolkit-beta.json,DoveBoy/Apps
-electerm_DoveBoy.json,DoveBoy/Apps
 fix-print-spooler_DoveBoy.json,DoveBoy/Apps
 freecontrol.json,DoveBoy/Apps
 xiaochao.json,DoveBoy/Apps
@@ -10986,7 +10985,7 @@ audacity-lame-plugin_naderi.json,naderi/scoop-bucket
 similarimagefinder.json,naderi/scoop-bucket
 youtube-downloader-hd.json,naderi/scoop-bucket
 csvsort_naderi.json,naderi/scoop-bucket
-proton-pass_naderi.json,naderi/scoop-bucket
+proton-pass.json,naderi/scoop-bucket
 texworks-portable.json,naderi/scoop-bucket
 local-wp.json,naderi/scoop-bucket
 faster-whisper-xxl.json,naderi/scoop-bucket
