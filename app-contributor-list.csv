@@ -2619,7 +2619,7 @@ opentabletdriver.json,ScoopInstaller/Extras
 winfile.json,ScoopInstaller/Extras
 bluetooth-cli-tools.json,ScoopInstaller/Extras
 ec2-api-tools.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 apk-editor-studio.json,ScoopInstaller/Extras
 mpls.json,ScoopInstaller/Extras
 azure-iot-explorer.json,ScoopInstaller/Extras
@@ -10052,6 +10052,7 @@ waifu2x-ncnn-vulkan_DoveBoy.json,DoveBoy/Apps
 ps-guicompletion.json,DoveBoy/Apps
 mediago-beta.json,DoveBoy/Apps
 watttoolkit-beta.json,DoveBoy/Apps
+electerm_DoveBoy.json,DoveBoy/Apps
 fix-print-spooler_DoveBoy.json,DoveBoy/Apps
 freecontrol.json,DoveBoy/Apps
 xiaochao.json,DoveBoy/Apps
@@ -10062,7 +10063,7 @@ googlechrome_DoveBoy.json,DoveBoy/Apps
 nattypetester.json,DoveBoy/Apps
 so-novel-beta.json,DoveBoy/Apps
 mootool-portable.json,DoveBoy/Apps
-heu-kms-activator_DoveBoy.json,DoveBoy/Apps
+heu-kms-activator.json,DoveBoy/Apps
 chatall_DoveBoy.json,DoveBoy/Apps
 tldr_DoveBoy.json,DoveBoy/Apps
 compresso.json,DoveBoy/Apps
