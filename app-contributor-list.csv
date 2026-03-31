@@ -1952,7 +1952,7 @@ chatterino7.json,ScoopInstaller/Extras
 ntsc-rs.json,ScoopInstaller/Extras
 todolist.json,ScoopInstaller/Extras
 ytmdesktop.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 awesomebump.json,ScoopInstaller/Extras
 lazarus.json,ScoopInstaller/Extras
 miniconda3.json,ScoopInstaller/Extras
@@ -8069,7 +8069,7 @@ Witsy.json,dodorz/scoop
 IECache.json,dodorz/scoop
 BywaterBASIC.json,dodorz/scoop
 TextGO.json,dodorz/scoop
-Trae_dodorz.json,dodorz/scoop
+Trae.json,dodorz/scoop
 Masterway.json,dodorz/scoop
 gofx.json,dodorz/scoop
 ima.copilot.json,dodorz/scoop
