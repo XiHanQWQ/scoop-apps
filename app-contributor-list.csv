@@ -6338,7 +6338,7 @@ autohotkey-np.json,ScoopInstaller/Nonportable
 bluestacks-np.json,ScoopInstaller/Nonportable
 sandboxie-classic-np.json,ScoopInstaller/Nonportable
 virtualbox-with-extension-pack-np.json,ScoopInstaller/Nonportable
-icaros-np.json,ScoopInstaller/Nonportable
+icaros-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 teamviewer-np.json,ScoopInstaller/Nonportable
 vmware-workstation-player-np.json,ScoopInstaller/Nonportable
 lavfilters-np.json,ScoopInstaller/Nonportable
@@ -9249,7 +9249,6 @@ telegram_akirco.json,akirco/aki-apps
 pwsh_akirco.json,akirco/aki-apps
 audacity_akirco.json,akirco/aki-apps
 pyvm.json,akirco/aki-apps
-bilibili-livehime.json,akirco/aki-apps
 libwebp_akirco.json,akirco/aki-apps
 nmap-portable.json,akirco/aki-apps
 gdrive_akirco.json,akirco/aki-apps
@@ -9557,7 +9556,7 @@ sequin.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 mediamux.json,DoveBoy/Apps
 vcpkg_DoveBoy.json,DoveBoy/Apps
 kaf-wifi.json,DoveBoy/Apps
@@ -10214,7 +10213,7 @@ mpv.net-beta_DoveBoy.json,DoveBoy/Apps
 nssm_DoveBoy.json,DoveBoy/Apps
 qqlive.json,DoveBoy/Apps
 lanzouyun-disk.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 xray_DoveBoy.json,DoveBoy/Apps
 gns3.json,DoveBoy/Apps
 rustdesk_DoveBoy.json,DoveBoy/Apps
@@ -11648,7 +11647,7 @@ TidyDesktopMonster.json,brian6932/dank-scoop
 profileasync.json,brian6932/dank-scoop
 mercury.json,brian6932/dank-scoop
 testmem5-advanced.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 autosave.json,brian6932/dank-scoop
 clima.json,brian6932/dank-scoop
 comicrack-ce-nightly.json,brian6932/dank-scoop
