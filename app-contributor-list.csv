@@ -1952,7 +1952,7 @@ chatterino7.json,ScoopInstaller/Extras
 ntsc-rs.json,ScoopInstaller/Extras
 todolist.json,ScoopInstaller/Extras
 ytmdesktop.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 awesomebump.json,ScoopInstaller/Extras
 lazarus.json,ScoopInstaller/Extras
 miniconda3.json,ScoopInstaller/Extras
@@ -7724,7 +7724,7 @@ DeltaCopy.json,dodorz/scoop
 jsdb.json,dodorz/scoop
 LunarVim.json,dodorz/scoop
 Marker.json,dodorz/scoop
-psmux.json,dodorz/scoop
+psmux_dodorz.json,dodorz/scoop
 Inkdown.json,dodorz/scoop
 jpico-static.json,dodorz/scoop
 ntouch.json,dodorz/scoop
@@ -9457,7 +9457,7 @@ upscaler.json,akirco/aki-apps
 neteasemusic_akirco.json,akirco/aki-apps
 neovim_akirco.json,akirco/aki-apps
 jetbrains-toolbox_akirco.json,akirco/aki-apps
-telegram_akirco.json,akirco/aki-apps
+telegram.json,akirco/aki-apps
 pwsh_akirco.json,akirco/aki-apps
 audacity_akirco.json,akirco/aki-apps
 pyvm.json,akirco/aki-apps
@@ -12315,7 +12315,7 @@ mdcat_batkiz.json,batkiz/backit
 fluent-reader_batkiz.json,batkiz/backit
 Eros-FE.json,batkiz/backit
 g-np.json,batkiz/backit
-gojq_batkiz.json,batkiz/backit
+gojq.json,batkiz/backit
 g_batkiz.json,batkiz/backit
 racket-minimal_batkiz.json,batkiz/backit
 freedownloadmanager_batkiz.json,batkiz/backit
@@ -12924,7 +12924,7 @@ tcpview_aoisummer.json,aoisummer/scoop-bucket
 multipar_aoisummer.json,aoisummer/scoop-bucket
 crystaldiskinfo-shizuku.json,aoisummer/scoop-bucket
 usbtreeview_aoisummer.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn.json,aoisummer/scoop-bucket
 thunderbird-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 snapraid_aoisummer.json,aoisummer/scoop-bucket
 smartmontools_aoisummer.json,aoisummer/scoop-bucket
