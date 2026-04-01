@@ -2629,7 +2629,7 @@ fix-print-spooler.json,ScoopInstaller/Extras
 alien.json,ScoopInstaller/Extras
 eagleget.json,ScoopInstaller/Extras
 sidebar-diagnostics.json,ScoopInstaller/Extras
-vscode_ScoopInstaller.json,ScoopInstaller/Extras
+vscode.json,ScoopInstaller/Extras
 carotdav.json,ScoopInstaller/Extras
 paint.net.json,ScoopInstaller/Extras
 kitty.json,ScoopInstaller/Extras
@@ -6284,7 +6284,7 @@ cljfmt.json,littleli/scoop-clojure
 babashka.json,littleli/scoop-clojure
 shh.json,littleli/scoop-clojure
 jet.json,littleli/scoop-clojure
-feishu_scoopcn.json,scoopcn/scoopcn
+feishu.json,scoopcn/scoopcn
 kwmusic.json,scoopcn/scoopcn
 lx-music-desktop_scoopcn.json,scoopcn/scoopcn
 ynote.json,scoopcn/scoopcn
@@ -10199,7 +10199,7 @@ cromite_DoveBoy.json,DoveBoy/Apps
 pwsh_DoveBoy.json,DoveBoy/Apps
 auto-unlocker.json,DoveBoy/Apps
 umi-ocr-rapid_DoveBoy.json,DoveBoy/Apps
-saber.json,DoveBoy/Apps
+saber_DoveBoy.json,DoveBoy/Apps
 go-proxy-bingai.json,DoveBoy/Apps
 qbittorrent-enhanced_DoveBoy.json,DoveBoy/Apps
 lsar.json,DoveBoy/Apps
@@ -11305,7 +11305,7 @@ i4.json,WinApps-share/WinApps-bucket
 twinkle-tray_WinApps-share.json,WinApps-share/WinApps-bucket
 zotero_WinApps-share.json,WinApps-share/WinApps-bucket
 localsend-setup.json,WinApps-share/WinApps-bucket
-motrixnext_WinApps-share.json,WinApps-share/WinApps-bucket
+motrixnext.json,WinApps-share/WinApps-bucket
 so-novel_WinApps-share.json,WinApps-share/WinApps-bucket
 autodarkmode-np.json,WinApps-share/WinApps-bucket
 cherry-studio-np.json,WinApps-share/WinApps-bucket
@@ -14809,6 +14809,7 @@ dumpbin.json,404NetworkError/scoop-bucket
 xenu_404NetworkError.json,404NetworkError/scoop-bucket
 libreoffice_404NetworkError.json,404NetworkError/scoop-bucket
 dlss-swapper-latest.json,404NetworkError/scoop-bucket
+ferrite_404NetworkError.json,404NetworkError/scoop-bucket
 intro-detection-info.json,404NetworkError/scoop-bucket
 yumi_404NetworkError.json,404NetworkError/scoop-bucket
 winsetview-nightly.json,404NetworkError/scoop-bucket
@@ -14833,6 +14834,7 @@ aegisub-arch_404NetworkError.json,404NetworkError/scoop-bucket
 ondsel-es-weekly.json,404NetworkError/scoop-bucket
 spek-alternative.json,404NetworkError/scoop-bucket
 libation.json,404NetworkError/scoop-bucket
+markpad.json,404NetworkError/scoop-bucket
 gopherrenewed.json,404NetworkError/scoop-bucket
 lamexp-qaac-nightly.json,404NetworkError/scoop-bucket
 chaptermaker.json,404NetworkError/scoop-bucket
