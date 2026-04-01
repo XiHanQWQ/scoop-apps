@@ -1952,7 +1952,7 @@ chatterino7.json,ScoopInstaller/Extras
 ntsc-rs.json,ScoopInstaller/Extras
 todolist.json,ScoopInstaller/Extras
 ytmdesktop.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 awesomebump.json,ScoopInstaller/Extras
 lazarus.json,ScoopInstaller/Extras
 miniconda3.json,ScoopInstaller/Extras
@@ -2619,7 +2619,7 @@ opentabletdriver.json,ScoopInstaller/Extras
 winfile.json,ScoopInstaller/Extras
 bluetooth-cli-tools.json,ScoopInstaller/Extras
 ec2-api-tools.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 apk-editor-studio.json,ScoopInstaller/Extras
 mpls.json,ScoopInstaller/Extras
 azure-iot-explorer.json,ScoopInstaller/Extras
@@ -8154,6 +8154,7 @@ AccountManager.json,dodorz/scoop
 Craft.json,dodorz/scoop
 ExcelCompare.json,dodorz/scoop
 KillCopy.json,dodorz/scoop
+DocFormat.json,dodorz/scoop
 XVI32.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 HotkeyP.json,dodorz/scoop
@@ -9556,7 +9557,7 @@ sequin.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 mediamux.json,DoveBoy/Apps
 vcpkg_DoveBoy.json,DoveBoy/Apps
 kaf-wifi.json,DoveBoy/Apps
@@ -9968,7 +9969,6 @@ monit.json,DoveBoy/Apps
 logi-options-plus-mini.json,DoveBoy/Apps
 imfile.json,DoveBoy/Apps
 p2p.json,DoveBoy/Apps
-potplayer_DoveBoy.json,DoveBoy/Apps
 zyplayer.json,DoveBoy/Apps
 any-listen-desktop-win7.json,DoveBoy/Apps
 github-store.json,DoveBoy/Apps
@@ -12760,6 +12760,7 @@ hellblade-save-loader.json,babo4d/scoop-xrtools
 desktop-plus.json,babo4d/scoop-xrtools
 openra-shattered-paradise.json,babo4d/scoop-xrtools
 drl.json,babo4d/scoop-xrtools
+shadps4qtlauncher.json,babo4d/scoop-xrtools
 intiface-central.json,babo4d/scoop-xrtools
 openvr-input-emulator.json,babo4d/scoop-xrtools
 openra-openhv.json,babo4d/scoop-xrtools
