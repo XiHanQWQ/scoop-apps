@@ -8069,7 +8069,7 @@ Witsy.json,dodorz/scoop
 IECache.json,dodorz/scoop
 BywaterBASIC.json,dodorz/scoop
 TextGO.json,dodorz/scoop
-Trae.json,dodorz/scoop
+Trae_dodorz.json,dodorz/scoop
 Masterway.json,dodorz/scoop
 gofx.json,dodorz/scoop
 ima.copilot.json,dodorz/scoop
@@ -14672,6 +14672,7 @@ urbackup-client-aoks.json,AntonOks/scoop-aoks
 setacl_studio-aoks.json,AntonOks/scoop-aoks
 skopeo-aoks.json,AntonOks/scoop-aoks
 notepadplusplus-aoks.json,AntonOks/scoop-aoks
+rdiff-backup-aoks.json,AntonOks/scoop-aoks
 goproxy-aoks.json,AntonOks/scoop-aoks
 dokany-aoks.json,AntonOks/scoop-aoks
 tirith-aoks.json,AntonOks/scoop-aoks
@@ -15115,7 +15116,7 @@ n-m3u8dl-cli-simpleg_list.json,maboloshi/scoop-private
 FileLocatorPro.json,maboloshi/scoop-private
 ima-copilot_maboloshi.json,maboloshi/scoop-private
 notepad4_maboloshi.json,maboloshi/scoop-private
-sublime-merge_maboloshi.json,maboloshi/scoop-private
+sublime-merge.json,maboloshi/scoop-private
 godot3_windedge.json,windedge/ladle-bucket
 heimer.json,windedge/ladle-bucket
 mdview_windedge.json,windedge/ladle-bucket
