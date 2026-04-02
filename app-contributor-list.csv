@@ -2629,7 +2629,7 @@ fix-print-spooler.json,ScoopInstaller/Extras
 alien.json,ScoopInstaller/Extras
 eagleget.json,ScoopInstaller/Extras
 sidebar-diagnostics.json,ScoopInstaller/Extras
-vscode.json,ScoopInstaller/Extras
+vscode_ScoopInstaller.json,ScoopInstaller/Extras
 carotdav.json,ScoopInstaller/Extras
 paint.net.json,ScoopInstaller/Extras
 kitty.json,ScoopInstaller/Extras
@@ -4131,7 +4131,7 @@ Maple-Mono-SC-NF.json,matthewjberger/scoop-nerd-fonts
 Regular-NF.json,matthewjberger/scoop-nerd-fonts
 BoldItalic-NF-Mono.json,matthewjberger/scoop-nerd-fonts
 mpv.net-cm.json,Scoopforge/Extras-CN
-feishu.json,Scoopforge/Extras-CN
+feishu_Scoopforge.json,Scoopforge/Extras-CN
 quarkclouddrive.json,Scoopforge/Extras-CN
 pixpin.json,Scoopforge/Extras-CN
 kingdraw.json,Scoopforge/Extras-CN
@@ -9677,7 +9677,6 @@ fetch-github-hosts.json,DoveBoy/Apps
 vcredist-aio_DoveBoy.json,DoveBoy/Apps
 kopia-cli.json,DoveBoy/Apps
 wechatrealfriends.json,DoveBoy/Apps
-gimp_DoveBoy.json,DoveBoy/Apps
 aria2_DoveBoy.json,DoveBoy/Apps
 vimtutor_DoveBoy.json,DoveBoy/Apps
 libreoffice.json,DoveBoy/Apps
@@ -11649,7 +11648,7 @@ TidyDesktopMonster.json,brian6932/dank-scoop
 profileasync.json,brian6932/dank-scoop
 mercury.json,brian6932/dank-scoop
 testmem5-advanced.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 autosave.json,brian6932/dank-scoop
 clima.json,brian6932/dank-scoop
 comicrack-ce-nightly.json,brian6932/dank-scoop
@@ -11689,7 +11688,7 @@ gimagereader.json,brian6932/dank-scoop
 revoker.json,brian6932/dank-scoop
 dankerino-qt5.json,brian6932/dank-scoop
 chatterino-portable-qt5.json,brian6932/dank-scoop
-gemini-cli_Small-Ku.json,Small-Ku/turbo-bucket
+gemini-cli.json,Small-Ku/turbo-bucket
 vencord-installer_Small-Ku.json,Small-Ku/turbo-bucket
 kondo_Small-Ku.json,Small-Ku/turbo-bucket
 stardb-exporter.json,Small-Ku/turbo-bucket
@@ -12924,7 +12923,7 @@ tcpview_aoisummer.json,aoisummer/scoop-bucket
 multipar_aoisummer.json,aoisummer/scoop-bucket
 crystaldiskinfo-shizuku.json,aoisummer/scoop-bucket
 usbtreeview_aoisummer.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 thunderbird-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 snapraid_aoisummer.json,aoisummer/scoop-bucket
 smartmontools_aoisummer.json,aoisummer/scoop-bucket
@@ -12995,6 +12994,7 @@ gamesave-manager_starise.json,starise/Scoop-Gaming
 sam.json,starise/Scoop-Gaming
 uniws-patcher.json,starise/Scoop-Gaming
 nvidia-display-driver.json,starise/Scoop-Gaming
+msiafterburner_starise.json,starise/Scoop-Gaming
 wezterm-mikker-black.json,ocodo/wezterm-alt-windows-icon-builds
 wezterm-gf3-darkbrite-une.json,ocodo/wezterm-alt-windows-icon-builds
 wezterm-gf3-darkbrite-deux.json,ocodo/wezterm-alt-windows-icon-builds
@@ -13134,7 +13134,7 @@ handle_mo-san.json,mo-san/scoop-bucket
 psloglist_mo-san.json,mo-san/scoop-bucket
 efsdump_mo-san.json,mo-san/scoop-bucket
 sdelete_mo-san.json,mo-san/scoop-bucket
-notmyfault.json,mo-san/scoop-bucket
+notmyfault_mo-san.json,mo-san/scoop-bucket
 volumeid_mo-san.json,mo-san/scoop-bucket
 voiceroid-util.json,mo-san/scoop-bucket
 psshutdown_mo-san.json,mo-san/scoop-bucket
