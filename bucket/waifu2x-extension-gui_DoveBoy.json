@@ -13,20 +13,14 @@
             "extract_dir": "waifu2x-extension-gui"
         }
     },
-    "pre_install": [
-        "if (!(Test-Path \"$persist_dir\\settings.ini\")) { New-Item \"$dir\\settings.ini\" | Out-Null }",
-        "if (!(Test-Path \"$persist_dir\\FirstTimeStart\")) { New-Item \"$dir\\FirstTimeStart\" | Out-Null }"
-    ],
+    "pre_install": "if (!(Test-Path \"$persist_dir\\settings.ini\")) { New-Item \"$dir\\settings.ini\" | Out-Null }",
     "shortcuts": [
         [
             "Waifu2x-Extension-GUI.exe",
             "Waifu2x-Extension-GUI"
         ]
     ],
-    "persist": [
-        "settings.ini",
-        "FirstTimeStart"
-    ],
+    "persist": "settings.ini",
     "checkver": {
         "github": "https://github.com/AaronFeng753/Waifu2x-Extension-GUI"
     },

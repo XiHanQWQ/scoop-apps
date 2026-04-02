@@ -8668,7 +8668,7 @@ vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
 xenia-canary_hermanjustnu.json,hermanjustnu/scoop-emulators
 stella_hermanjustnu.json,hermanjustnu/scoop-emulators
 visualboyadvance-m-nightly_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 bsnes-nightly.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -9435,7 +9435,7 @@ xming_akirco.json,akirco/aki-apps
 instaloader.json,akirco/aki-apps
 kodi_akirco.json,akirco/aki-apps
 vcredist2008.json,akirco/aki-apps
-cursor_akirco.json,akirco/aki-apps
+cursor.json,akirco/aki-apps
 wechat-work.json,akirco/aki-apps
 wsc.json,akirco/aki-apps
 deno_akirco.json,akirco/aki-apps
@@ -9894,6 +9894,7 @@ jarkviewer_DoveBoy.json,DoveBoy/Apps
 ttime.json,DoveBoy/Apps
 anyburn_DoveBoy.json,DoveBoy/Apps
 winmemorycleaner_DoveBoy.json,DoveBoy/Apps
+waifu2x-extension-gui_DoveBoy.json,DoveBoy/Apps
 opensearcher_DoveBoy.json,DoveBoy/Apps
 mrrss-portable.json,DoveBoy/Apps
 hackbrowserdata_DoveBoy.json,DoveBoy/Apps
@@ -12738,6 +12739,7 @@ iconEase.json,TianXiaTech/scoop-txt
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
 gopeed_TianXiaTech.json,TianXiaTech/scoop-txt
 qqmusic_TianXiaTech.json,TianXiaTech/scoop-txt
+recordly.json,TianXiaTech/scoop-txt
 baidunetdisk_TianXiaTech.json,TianXiaTech/scoop-txt
 whisper-cpp_TianXiaTech.json,TianXiaTech/scoop-txt
 kugou.json,TianXiaTech/scoop-txt
