@@ -9494,6 +9494,7 @@ gh_akirco.json,akirco/aki-apps
 mvndaemon_akirco.json,akirco/aki-apps
 yddict.json,akirco/aki-apps
 figlet_akirco.json,akirco/aki-apps
+youtubedownloader_akirco.json,akirco/aki-apps
 netch_akirco.json,akirco/aki-apps
 nali_akirco.json,akirco/aki-apps
 wget_akirco.json,akirco/aki-apps
@@ -13959,7 +13960,7 @@ jc_HUMORCE.json,HUMORCE/nuke
 feroxbuster_HUMORCE.json,HUMORCE/nuke
 bandizip-classic.json,HUMORCE/nuke
 fiddler-classic-addon-bccertmaker.json,HUMORCE/nuke
-risoheditor_HUMORCE.json,HUMORCE/nuke
+risoheditor.json,HUMORCE/nuke
 libraw.json,HUMORCE/nuke
 xpdf-tools-LSP-turkish.json,HUMORCE/nuke
 ruffle-nightly_HUMORCE.json,HUMORCE/nuke
