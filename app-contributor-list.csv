@@ -9494,6 +9494,7 @@ gh_akirco.json,akirco/aki-apps
 mvndaemon_akirco.json,akirco/aki-apps
 yddict.json,akirco/aki-apps
 figlet_akirco.json,akirco/aki-apps
+youtubedownloader_akirco.json,akirco/aki-apps
 netch_akirco.json,akirco/aki-apps
 nali_akirco.json,akirco/aki-apps
 wget_akirco.json,akirco/aki-apps
@@ -10712,6 +10713,7 @@ dsynchronize-zh-cn.json,amorphobia/siku
 fido.json,amorphobia/siku
 bark-server.json,amorphobia/siku
 librime.json,amorphobia/siku
+mihomo-v1.json,amorphobia/siku
 vuetorrent.json,amorphobia/siku
 pocket-id.json,amorphobia/siku
 scoop-hook.json,amorphobia/siku
@@ -10749,6 +10751,7 @@ unlock-music-cli.json,amorphobia/siku
 pijul_amorphobia.json,amorphobia/siku
 setacl-studio.json,amorphobia/siku
 yahei-fira-icon-hybrid.json,amorphobia/siku
+mihomo-v3.json,amorphobia/siku
 vmping.json,amorphobia/siku
 uip.json,amorphobia/siku
 rabbit-nightly.json,amorphobia/siku
