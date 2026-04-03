@@ -8668,7 +8668,7 @@ vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
 xenia-canary_hermanjustnu.json,hermanjustnu/scoop-emulators
 stella_hermanjustnu.json,hermanjustnu/scoop-emulators
 visualboyadvance-m-nightly_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 bsnes-nightly.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -8803,7 +8803,7 @@ xenia_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
-snes9x-dev_borger.json,borger/scoop-emulators
+snes9x-dev.json,borger/scoop-emulators
 visualboyadvance-m.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
@@ -9749,7 +9749,6 @@ jmcomic-downloader-portable.json,DoveBoy/Apps
 regjump_DoveBoy.json,DoveBoy/Apps
 clash-verge_DoveBoy.json,DoveBoy/Apps
 mocreak.json,DoveBoy/Apps
-mobaxterm.json,DoveBoy/Apps
 n_m3u8dl-re.json,DoveBoy/Apps
 varia_DoveBoy.json,DoveBoy/Apps
 pixiv-omina.json,DoveBoy/Apps
@@ -9780,7 +9779,7 @@ abdownloadmanager_DoveBoy.json,DoveBoy/Apps
 upx_DoveBoy.json,DoveBoy/Apps
 motrix_DoveBoy.json,DoveBoy/Apps
 sandboxie-plus.json,DoveBoy/Apps
-bilibili-backup_DoveBoy.json,DoveBoy/Apps
+bilibili-backup.json,DoveBoy/Apps
 dua_DoveBoy.json,DoveBoy/Apps
 streamcap.json,DoveBoy/Apps
 nilesoft-shell_DoveBoy.json,DoveBoy/Apps
@@ -11754,7 +11753,7 @@ exiftool_Small-Ku.json,Small-Ku/turbo-bucket
 jxl-winthumb.json,Small-Ku/turbo-bucket
 clash-rs.json,Small-Ku/turbo-bucket
 notepad4_Small-Ku.json,Small-Ku/turbo-bucket
-maaend_Small-Ku.json,Small-Ku/turbo-bucket
+maaend.json,Small-Ku/turbo-bucket
 kilo-code.json,Small-Ku/turbo-bucket
 ddu_Small-Ku.json,Small-Ku/turbo-bucket
 hoyo-gacha.json,Small-Ku/turbo-bucket
@@ -12949,7 +12948,7 @@ tcpview_aoisummer.json,aoisummer/scoop-bucket
 multipar_aoisummer.json,aoisummer/scoop-bucket
 crystaldiskinfo-shizuku.json,aoisummer/scoop-bucket
 usbtreeview_aoisummer.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn.json,aoisummer/scoop-bucket
 thunderbird-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 snapraid_aoisummer.json,aoisummer/scoop-bucket
 smartmontools_aoisummer.json,aoisummer/scoop-bucket
