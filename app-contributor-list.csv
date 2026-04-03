@@ -1952,7 +1952,7 @@ chatterino7.json,ScoopInstaller/Extras
 ntsc-rs.json,ScoopInstaller/Extras
 todolist.json,ScoopInstaller/Extras
 ytmdesktop.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 awesomebump.json,ScoopInstaller/Extras
 lazarus.json,ScoopInstaller/Extras
 miniconda3.json,ScoopInstaller/Extras
@@ -9494,7 +9494,6 @@ gh_akirco.json,akirco/aki-apps
 mvndaemon_akirco.json,akirco/aki-apps
 yddict.json,akirco/aki-apps
 figlet_akirco.json,akirco/aki-apps
-youtubedownloader.json,akirco/aki-apps
 netch_akirco.json,akirco/aki-apps
 nali_akirco.json,akirco/aki-apps
 wget_akirco.json,akirco/aki-apps
@@ -9559,7 +9558,7 @@ sequin.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 mediamux.json,DoveBoy/Apps
 vcpkg_DoveBoy.json,DoveBoy/Apps
 kaf-wifi.json,DoveBoy/Apps
@@ -10693,6 +10692,7 @@ spim.json,amorphobia/siku
 posh-cd.json,amorphobia/siku
 yourav.json,amorphobia/siku
 bilimini.json,amorphobia/siku
+mihomo-v2.json,amorphobia/siku
 clash-verge_amorphobia.json,amorphobia/siku
 huorong-popblock.json,amorphobia/siku
 voidimageviewer_amorphobia.json,amorphobia/siku
@@ -11732,7 +11732,7 @@ yae-achievement.json,Small-Ku/turbo-bucket
 liteloader-qqnt.json,Small-Ku/turbo-bucket
 wintun.json,Small-Ku/turbo-bucket
 endfield-essence-recognizer.json,Small-Ku/turbo-bucket
-lapce-nightly_Small-Ku.json,Small-Ku/turbo-bucket
+lapce-nightly.json,Small-Ku/turbo-bucket
 atlassian-cli.json,Small-Ku/turbo-bucket
 dorion.json,Small-Ku/turbo-bucket
 packwiz.json,Small-Ku/turbo-bucket
@@ -13962,7 +13962,7 @@ jc_HUMORCE.json,HUMORCE/nuke
 feroxbuster_HUMORCE.json,HUMORCE/nuke
 bandizip-classic.json,HUMORCE/nuke
 fiddler-classic-addon-bccertmaker.json,HUMORCE/nuke
-risoheditor.json,HUMORCE/nuke
+risoheditor_HUMORCE.json,HUMORCE/nuke
 libraw.json,HUMORCE/nuke
 xpdf-tools-LSP-turkish.json,HUMORCE/nuke
 ruffle-nightly_HUMORCE.json,HUMORCE/nuke
