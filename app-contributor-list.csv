@@ -8639,7 +8639,7 @@ fceux-qt-interim.json,hermanjustnu/scoop-emulators
 vice-sdl2-snapshot.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
-snes9x-dev.json,hermanjustnu/scoop-emulators
+snes9x-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 hoxs64.json,hermanjustnu/scoop-emulators
 visualboyadvance-m_hermanjustnu.json,hermanjustnu/scoop-emulators
 pegasus-nightly.json,hermanjustnu/scoop-emulators
@@ -8954,7 +8954,7 @@ siyuan.json,ViCrack/scoop-bucket
 transfer.json,ViCrack/scoop-bucket
 git-repo-clean.json,ViCrack/scoop-bucket
 dudesuite_ViCrack.json,ViCrack/scoop-bucket
-yakit_ViCrack.json,ViCrack/scoop-bucket
+yakit.json,ViCrack/scoop-bucket
 katana_ViCrack.json,ViCrack/scoop-bucket
 siyuan-ce.json,ViCrack/scoop-bucket
 reality.json,ViCrack/scoop-bucket
@@ -10216,7 +10216,7 @@ mpv.net-beta_DoveBoy.json,DoveBoy/Apps
 nssm_DoveBoy.json,DoveBoy/Apps
 qqlive.json,DoveBoy/Apps
 lanzouyun-disk.json,DoveBoy/Apps
-neteaseuu_DoveBoy.json,DoveBoy/Apps
+neteaseuu.json,DoveBoy/Apps
 xray_DoveBoy.json,DoveBoy/Apps
 gns3.json,DoveBoy/Apps
 rustdesk_DoveBoy.json,DoveBoy/Apps
@@ -12078,7 +12078,7 @@ netfetch.json,aliesbelik/poldi
 todoist-cli.json,aliesbelik/poldi
 cidr.json,aliesbelik/poldi
 hf.json,aliesbelik/poldi
-xq.json,aliesbelik/poldi
+xq_aliesbelik.json,aliesbelik/poldi
 cpa.json,aliesbelik/poldi
 yj.json,aliesbelik/poldi
 goku.json,aliesbelik/poldi
@@ -12570,6 +12570,7 @@ cbxconverter.json,starise/Scoop-Confetti
 winbox4.json,starise/Scoop-Confetti
 muffon.json,starise/Scoop-Confetti
 rotki.json,starise/Scoop-Confetti
+forgecode.json,starise/Scoop-Confetti
 colors.json,starise/Scoop-Confetti
 vscodium-it.json,starise/Scoop-Confetti
 lossless-audio-checker.json,starise/Scoop-Confetti
