@@ -1952,7 +1952,7 @@ chatterino7.json,ScoopInstaller/Extras
 ntsc-rs.json,ScoopInstaller/Extras
 todolist.json,ScoopInstaller/Extras
 ytmdesktop.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 awesomebump.json,ScoopInstaller/Extras
 lazarus.json,ScoopInstaller/Extras
 miniconda3.json,ScoopInstaller/Extras
@@ -8668,7 +8668,7 @@ vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
 xenia-canary_hermanjustnu.json,hermanjustnu/scoop-emulators
 stella_hermanjustnu.json,hermanjustnu/scoop-emulators
 visualboyadvance-m-nightly_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 bsnes-nightly.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -9435,7 +9435,7 @@ xming_akirco.json,akirco/aki-apps
 instaloader.json,akirco/aki-apps
 kodi_akirco.json,akirco/aki-apps
 vcredist2008.json,akirco/aki-apps
-cursor.json,akirco/aki-apps
+cursor_akirco.json,akirco/aki-apps
 wechat-work.json,akirco/aki-apps
 wsc.json,akirco/aki-apps
 deno_akirco.json,akirco/aki-apps
@@ -9494,6 +9494,7 @@ gh_akirco.json,akirco/aki-apps
 mvndaemon_akirco.json,akirco/aki-apps
 yddict.json,akirco/aki-apps
 figlet_akirco.json,akirco/aki-apps
+youtubedownloader.json,akirco/aki-apps
 netch_akirco.json,akirco/aki-apps
 nali_akirco.json,akirco/aki-apps
 wget_akirco.json,akirco/aki-apps
@@ -9558,7 +9559,7 @@ sequin.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 mediamux.json,DoveBoy/Apps
 vcpkg_DoveBoy.json,DoveBoy/Apps
 kaf-wifi.json,DoveBoy/Apps
@@ -9641,7 +9642,7 @@ openbbterminal.json,DoveBoy/Apps
 sendto-menu-editor_DoveBoy.json,DoveBoy/Apps
 scoop-tab-completion.json,DoveBoy/Apps
 clash-party-portable.json,DoveBoy/Apps
-obs-studio-pre.json,DoveBoy/Apps
+obs-studio-pre_DoveBoy.json,DoveBoy/Apps
 liveautorecord.json,DoveBoy/Apps
 iobit-unlocker_DoveBoy.json,DoveBoy/Apps
 pmas.json,DoveBoy/Apps
@@ -9894,7 +9895,6 @@ jarkviewer_DoveBoy.json,DoveBoy/Apps
 ttime.json,DoveBoy/Apps
 anyburn_DoveBoy.json,DoveBoy/Apps
 winmemorycleaner_DoveBoy.json,DoveBoy/Apps
-waifu2x-extension-gui_DoveBoy.json,DoveBoy/Apps
 opensearcher_DoveBoy.json,DoveBoy/Apps
 mrrss-portable.json,DoveBoy/Apps
 hackbrowserdata_DoveBoy.json,DoveBoy/Apps
@@ -10147,6 +10147,7 @@ smartsub.json,DoveBoy/Apps
 biu.json,DoveBoy/Apps
 zoomit_DoveBoy.json,DoveBoy/Apps
 scoop-shim_DoveBoy.json,DoveBoy/Apps
+lazygit_DoveBoy.json,DoveBoy/Apps
 iwck_DoveBoy.json,DoveBoy/Apps
 bililive-tools.json,DoveBoy/Apps
 fancontrol-net4.8-portable.json,DoveBoy/Apps
@@ -10215,7 +10216,7 @@ mpv.net-beta_DoveBoy.json,DoveBoy/Apps
 nssm_DoveBoy.json,DoveBoy/Apps
 qqlive.json,DoveBoy/Apps
 lanzouyun-disk.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 xray_DoveBoy.json,DoveBoy/Apps
 gns3.json,DoveBoy/Apps
 rustdesk_DoveBoy.json,DoveBoy/Apps
@@ -10668,7 +10669,7 @@ gitea-runner.json,amorphobia/siku
 tally-marks.json,amorphobia/siku
 rains_amorphobia.json,amorphobia/siku
 adrive_amorphobia.json,amorphobia/siku
-plain-craft-launcher.json,amorphobia/siku
+plain-craft-launcher_amorphobia.json,amorphobia/siku
 posh-cargo.json,amorphobia/siku
 qqplayer_amorphobia.json,amorphobia/siku
 smartzip_amorphobia.json,amorphobia/siku
