@@ -11425,7 +11425,7 @@ wepe_WinApps-share.json,WinApps-share/WinApps-bucket
 rubick_WinApps-share.json,WinApps-share/WinApps-bucket
 brave-np.json,WinApps-share/WinApps-bucket
 g-helper_WinApps-share.json,WinApps-share/WinApps-bucket
-cursor_WinApps-share.json,WinApps-share/WinApps-bucket
+cursor.json,WinApps-share/WinApps-bucket
 equalizer-apo.json,WinApps-share/WinApps-bucket
 git_WinApps-share.json,WinApps-share/WinApps-bucket
 spleeter-gui.json,WinApps-share/WinApps-bucket
@@ -11726,6 +11726,7 @@ reshade-dll.json,Small-Ku/turbo-bucket
 source-han-serif-vf-ttc.json,Small-Ku/turbo-bucket
 compressonator.json,Small-Ku/turbo-bucket
 magpie-preview.json,Small-Ku/turbo-bucket
+claude-code_Small-Ku.json,Small-Ku/turbo-bucket
 zluda3-lshqqytiger.json,Small-Ku/turbo-bucket
 yap-nightly.json,Small-Ku/turbo-bucket
 wuthering-waves-gacha-record.json,Small-Ku/turbo-bucket
@@ -11753,6 +11754,7 @@ qbittorrent-enhanced_Small-Ku.json,Small-Ku/turbo-bucket
 codebuff.json,Small-Ku/turbo-bucket
 exiftool_Small-Ku.json,Small-Ku/turbo-bucket
 jxl-winthumb.json,Small-Ku/turbo-bucket
+codex_Small-Ku.json,Small-Ku/turbo-bucket
 clash-rs.json,Small-Ku/turbo-bucket
 notepad4_Small-Ku.json,Small-Ku/turbo-bucket
 maaend_Small-Ku.json,Small-Ku/turbo-bucket
