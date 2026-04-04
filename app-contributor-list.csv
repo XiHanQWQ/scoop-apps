@@ -1122,6 +1122,7 @@ azuredatastudio.json,ScoopInstaller/Extras
 sdl2-ttf.json,ScoopInstaller/Extras
 hydrus-network.json,ScoopInstaller/Extras
 pathod.json,ScoopInstaller/Extras
+auto-dark-mode.json,ScoopInstaller/Extras
 aida64extreme.json,ScoopInstaller/Extras
 reshade.json,ScoopInstaller/Extras
 cyberchef.json,ScoopInstaller/Extras
@@ -8639,7 +8640,7 @@ fceux-qt-interim.json,hermanjustnu/scoop-emulators
 vice-sdl2-snapshot.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
-snes9x-dev.json,hermanjustnu/scoop-emulators
+snes9x-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 hoxs64.json,hermanjustnu/scoop-emulators
 visualboyadvance-m_hermanjustnu.json,hermanjustnu/scoop-emulators
 pegasus-nightly.json,hermanjustnu/scoop-emulators
@@ -8668,7 +8669,7 @@ vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
 xenia-canary_hermanjustnu.json,hermanjustnu/scoop-emulators
 stella_hermanjustnu.json,hermanjustnu/scoop-emulators
 visualboyadvance-m-nightly_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 bsnes-nightly.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -8803,7 +8804,7 @@ xenia_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
-snes9x-dev.json,borger/scoop-emulators
+snes9x-dev_borger.json,borger/scoop-emulators
 visualboyadvance-m.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
@@ -9779,7 +9780,7 @@ abdownloadmanager_DoveBoy.json,DoveBoy/Apps
 upx_DoveBoy.json,DoveBoy/Apps
 motrix_DoveBoy.json,DoveBoy/Apps
 sandboxie-plus.json,DoveBoy/Apps
-bilibili-backup.json,DoveBoy/Apps
+bilibili-backup_DoveBoy.json,DoveBoy/Apps
 dua_DoveBoy.json,DoveBoy/Apps
 streamcap.json,DoveBoy/Apps
 nilesoft-shell_DoveBoy.json,DoveBoy/Apps
@@ -10215,7 +10216,7 @@ mpv.net-beta_DoveBoy.json,DoveBoy/Apps
 nssm_DoveBoy.json,DoveBoy/Apps
 qqlive.json,DoveBoy/Apps
 lanzouyun-disk.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 xray_DoveBoy.json,DoveBoy/Apps
 gns3.json,DoveBoy/Apps
 rustdesk_DoveBoy.json,DoveBoy/Apps
@@ -10668,7 +10669,7 @@ gitea-runner.json,amorphobia/siku
 tally-marks.json,amorphobia/siku
 rains_amorphobia.json,amorphobia/siku
 adrive_amorphobia.json,amorphobia/siku
-plain-craft-launcher.json,amorphobia/siku
+plain-craft-launcher_amorphobia.json,amorphobia/siku
 posh-cargo.json,amorphobia/siku
 qqplayer_amorphobia.json,amorphobia/siku
 smartzip_amorphobia.json,amorphobia/siku
@@ -11653,7 +11654,7 @@ TidyDesktopMonster.json,brian6932/dank-scoop
 profileasync.json,brian6932/dank-scoop
 mercury.json,brian6932/dank-scoop
 testmem5-advanced.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 autosave.json,brian6932/dank-scoop
 clima.json,brian6932/dank-scoop
 comicrack-ce-nightly.json,brian6932/dank-scoop
@@ -11753,7 +11754,7 @@ exiftool_Small-Ku.json,Small-Ku/turbo-bucket
 jxl-winthumb.json,Small-Ku/turbo-bucket
 clash-rs.json,Small-Ku/turbo-bucket
 notepad4_Small-Ku.json,Small-Ku/turbo-bucket
-maaend.json,Small-Ku/turbo-bucket
+maaend_Small-Ku.json,Small-Ku/turbo-bucket
 kilo-code.json,Small-Ku/turbo-bucket
 ddu_Small-Ku.json,Small-Ku/turbo-bucket
 hoyo-gacha.json,Small-Ku/turbo-bucket
@@ -12948,7 +12949,7 @@ tcpview_aoisummer.json,aoisummer/scoop-bucket
 multipar_aoisummer.json,aoisummer/scoop-bucket
 crystaldiskinfo-shizuku.json,aoisummer/scoop-bucket
 usbtreeview_aoisummer.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 thunderbird-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 snapraid_aoisummer.json,aoisummer/scoop-bucket
 smartmontools_aoisummer.json,aoisummer/scoop-bucket
