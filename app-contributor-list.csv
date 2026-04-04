@@ -2733,6 +2733,7 @@ eclipse-embedcpp.json,ScoopInstaller/Extras
 nicotine-plus.json,ScoopInstaller/Extras
 lrcget.json,ScoopInstaller/Extras
 wasabi-wallet.json,ScoopInstaller/Extras
+locale-remulator.json,ScoopInstaller/Extras
 avogadro.json,ScoopInstaller/Extras
 cloudcompare.json,ScoopInstaller/Extras
 workspacer.json,ScoopInstaller/Extras
@@ -8640,7 +8641,7 @@ fceux-qt-interim.json,hermanjustnu/scoop-emulators
 vice-sdl2-snapshot.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
-snes9x-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+snes9x-dev.json,hermanjustnu/scoop-emulators
 hoxs64.json,hermanjustnu/scoop-emulators
 visualboyadvance-m_hermanjustnu.json,hermanjustnu/scoop-emulators
 pegasus-nightly.json,hermanjustnu/scoop-emulators
@@ -10589,7 +10590,7 @@ chatall_hu3rror.json,hu3rror/scoop-muggle
 get-childitemcolor.json,hu3rror/scoop-muggle
 dopamine-preview.json,hu3rror/scoop-muggle
 pixivbiu_hu3rror.json,hu3rror/scoop-muggle
-locale-remulator.json,hu3rror/scoop-muggle
+locale-remulator_hu3rror.json,hu3rror/scoop-muggle
 totalcmd-mod.json,hu3rror/scoop-muggle
 icns.json,hu3rror/scoop-muggle
 dopamine-legacy.json,hu3rror/scoop-muggle
@@ -11735,7 +11736,7 @@ yae-achievement.json,Small-Ku/turbo-bucket
 liteloader-qqnt.json,Small-Ku/turbo-bucket
 wintun.json,Small-Ku/turbo-bucket
 endfield-essence-recognizer.json,Small-Ku/turbo-bucket
-lapce-nightly.json,Small-Ku/turbo-bucket
+lapce-nightly_Small-Ku.json,Small-Ku/turbo-bucket
 atlassian-cli.json,Small-Ku/turbo-bucket
 dorion.json,Small-Ku/turbo-bucket
 packwiz.json,Small-Ku/turbo-bucket
@@ -12529,7 +12530,6 @@ texlive_Scoopforge.json,Scoopforge/Extras-Plus
 pdf4qt.json,Scoopforge/Extras-Plus
 fancywm.json,Scoopforge/Extras-Plus
 configure-defender.json,Scoopforge/Extras-Plus
-autodarkmode_Scoopforge.json,Scoopforge/Extras-Plus
 comfyui.json,Scoopforge/Extras-Plus
 pastemd.json,Scoopforge/Extras-Plus
 bitcomet_Scoopforge.json,Scoopforge/Extras-Plus
