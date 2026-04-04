@@ -6342,6 +6342,7 @@ sandboxie-classic-np.json,ScoopInstaller/Nonportable
 virtualbox-with-extension-pack-np.json,ScoopInstaller/Nonportable
 icaros-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 teamviewer-np.json,ScoopInstaller/Nonportable
+k-lite-codec-pack-mega-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 vmware-workstation-player-np.json,ScoopInstaller/Nonportable
 lavfilters-np.json,ScoopInstaller/Nonportable
 files-np.json,ScoopInstaller/Nonportable
@@ -6361,6 +6362,7 @@ voicemeeter-np.json,ScoopInstaller/Nonportable
 voicemeeter-banana-np.json,ScoopInstaller/Nonportable
 auto-dark-mode-np.json,ScoopInstaller/Nonportable
 sandboxie-plus-np.json,ScoopInstaller/Nonportable
+k-lite-codec-pack-full-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 winrar-np.json,ScoopInstaller/Nonportable
 peace-np.json,ScoopInstaller/Nonportable
 asio4all-np.json,ScoopInstaller/Nonportable
@@ -6371,6 +6373,7 @@ nelson-np.json,ScoopInstaller/Nonportable
 dokany-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 protonvpn-np.json,ScoopInstaller/Nonportable
 ivpn-client-np.json,ScoopInstaller/Nonportable
+k-lite-codec-pack-basic-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 spotx-np.json,ScoopInstaller/Nonportable
 lockhunter-np.json,ScoopInstaller/Nonportable
 workman-p-uk-np_ScoopInstaller.json,ScoopInstaller/Nonportable
@@ -6421,6 +6424,7 @@ shelltools-np.json,ScoopInstaller/Nonportable
 qttabbar-indiff-np.json,ScoopInstaller/Nonportable
 vpnc-front-end-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 google-japanese-input-np_ScoopInstaller.json,ScoopInstaller/Nonportable
+k-lite-codec-pack-standard-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 sshfs-np.json,ScoopInstaller/Nonportable
 goodsync-np.json,ScoopInstaller/Nonportable
 scilab-np.json,ScoopInstaller/Nonportable
@@ -11346,7 +11350,7 @@ wepe_WinApps-share.json,WinApps-share/WinApps-bucket
 rubick_WinApps-share.json,WinApps-share/WinApps-bucket
 brave-np.json,WinApps-share/WinApps-bucket
 g-helper_WinApps-share.json,WinApps-share/WinApps-bucket
-cursor.json,WinApps-share/WinApps-bucket
+cursor_WinApps-share.json,WinApps-share/WinApps-bucket
 equalizer-apo.json,WinApps-share/WinApps-bucket
 git_WinApps-share.json,WinApps-share/WinApps-bucket
 spleeter-gui.json,WinApps-share/WinApps-bucket
@@ -13503,6 +13507,7 @@ gow@0.8.0.json,rivy/scoop-bucket
 dotnet_rivy.json,rivy/scoop-bucket
 pnpm@8.15.4.json,rivy/scoop-bucket
 scc@3.1.0.json,rivy/scoop-bucket
+scoop-search_rivy.json,rivy/scoop-bucket
 lua_rivy.json,rivy/scoop-bucket
 codecov@latest.json,rivy/scoop-bucket
 upx_rivy.json,rivy/scoop-bucket
