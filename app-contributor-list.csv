@@ -1953,7 +1953,7 @@ chatterino7.json,ScoopInstaller/Extras
 ntsc-rs.json,ScoopInstaller/Extras
 todolist.json,ScoopInstaller/Extras
 ytmdesktop.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 awesomebump.json,ScoopInstaller/Extras
 lazarus.json,ScoopInstaller/Extras
 miniconda3.json,ScoopInstaller/Extras
@@ -6342,7 +6342,6 @@ sandboxie-classic-np.json,ScoopInstaller/Nonportable
 virtualbox-with-extension-pack-np.json,ScoopInstaller/Nonportable
 icaros-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 teamviewer-np.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-mega-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 vmware-workstation-player-np.json,ScoopInstaller/Nonportable
 lavfilters-np.json,ScoopInstaller/Nonportable
 files-np.json,ScoopInstaller/Nonportable
@@ -6362,7 +6361,6 @@ voicemeeter-np.json,ScoopInstaller/Nonportable
 voicemeeter-banana-np.json,ScoopInstaller/Nonportable
 auto-dark-mode-np.json,ScoopInstaller/Nonportable
 sandboxie-plus-np.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-full-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 winrar-np.json,ScoopInstaller/Nonportable
 peace-np.json,ScoopInstaller/Nonportable
 asio4all-np.json,ScoopInstaller/Nonportable
@@ -6373,7 +6371,6 @@ nelson-np.json,ScoopInstaller/Nonportable
 dokany-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 protonvpn-np.json,ScoopInstaller/Nonportable
 ivpn-client-np.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-basic-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 spotx-np.json,ScoopInstaller/Nonportable
 lockhunter-np.json,ScoopInstaller/Nonportable
 workman-p-uk-np_ScoopInstaller.json,ScoopInstaller/Nonportable
@@ -6424,7 +6421,6 @@ shelltools-np.json,ScoopInstaller/Nonportable
 qttabbar-indiff-np.json,ScoopInstaller/Nonportable
 vpnc-front-end-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 google-japanese-input-np_ScoopInstaller.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-standard-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 sshfs-np.json,ScoopInstaller/Nonportable
 goodsync-np.json,ScoopInstaller/Nonportable
 scilab-np.json,ScoopInstaller/Nonportable
@@ -10727,7 +10723,7 @@ bcdown.json,amorphobia/siku
 winrar-zh-cn.json,amorphobia/siku
 yakc.json,amorphobia/siku
 wechatexporter.json,amorphobia/siku
-filebrowser.json,amorphobia/siku
+filebrowser_amorphobia.json,amorphobia/siku
 you-get_amorphobia.json,amorphobia/siku
 deep-explorer.json,amorphobia/siku
 xmcl.json,amorphobia/siku
@@ -11659,7 +11655,7 @@ TidyDesktopMonster.json,brian6932/dank-scoop
 profileasync.json,brian6932/dank-scoop
 mercury.json,brian6932/dank-scoop
 testmem5-advanced.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 autosave.json,brian6932/dank-scoop
 clima.json,brian6932/dank-scoop
 comicrack-ce-nightly.json,brian6932/dank-scoop
