@@ -8670,7 +8670,7 @@ vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
 xenia-canary_hermanjustnu.json,hermanjustnu/scoop-emulators
 stella_hermanjustnu.json,hermanjustnu/scoop-emulators
 visualboyadvance-m-nightly_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 bsnes-nightly.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -9628,7 +9628,7 @@ lessmsi_DoveBoy.json,DoveBoy/Apps
 video-srt-windows.json,DoveBoy/Apps
 lky-officetools_DoveBoy.json,DoveBoy/Apps
 gotop_DoveBoy.json,DoveBoy/Apps
-joplin-pre.json,DoveBoy/Apps
+joplin-pre_DoveBoy.json,DoveBoy/Apps
 ventoy_DoveBoy.json,DoveBoy/Apps
 music-you.json,DoveBoy/Apps
 video-srt-windows-with-ffmpeg.json,DoveBoy/Apps
@@ -9849,7 +9849,7 @@ fanqie-novel-downloader.json,DoveBoy/Apps
 winget_DoveBoy.json,DoveBoy/Apps
 forkgram_DoveBoy.json,DoveBoy/Apps
 shadowsocks-rust_DoveBoy.json,DoveBoy/Apps
-readest_DoveBoy.json,DoveBoy/Apps
+readest.json,DoveBoy/Apps
 ntrace-core.json,DoveBoy/Apps
 picacomic-downloader.json,DoveBoy/Apps
 superrdp.json,DoveBoy/Apps
@@ -10187,7 +10187,6 @@ mihomo-compatible.json,DoveBoy/Apps
 compactgui.json,DoveBoy/Apps
 cloc_DoveBoy.json,DoveBoy/Apps
 nomeiryoui_DoveBoy.json,DoveBoy/Apps
-mkvtoolnix.json,DoveBoy/Apps
 neteasemusic_DoveBoy.json,DoveBoy/Apps
 jmcomic-downloader.json,DoveBoy/Apps
 v2ray-rules-dat.json,DoveBoy/Apps
