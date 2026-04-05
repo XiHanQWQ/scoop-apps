@@ -1109,7 +1109,7 @@ pasteboard.json,ScoopInstaller/Extras
 babelmap.json,ScoopInstaller/Extras
 mp3tag.json,ScoopInstaller/Extras
 explorerplusplus.json,ScoopInstaller/Extras
-autohotkey_ScoopInstaller.json,ScoopInstaller/Extras
+autohotkey.json,ScoopInstaller/Extras
 netbird.json,ScoopInstaller/Extras
 alldup.json,ScoopInstaller/Extras
 sdl2-image.json,ScoopInstaller/Extras
@@ -12567,7 +12567,7 @@ dbgate.json,Scoopforge/Extras-Plus
 navicat-premium-lite.json,Scoopforge/Extras-Plus
 musicat.json,Scoopforge/Extras-Plus
 normcap.json,Scoopforge/Extras-Plus
-mogan.json,Scoopforge/Extras-Plus
+mogan_Scoopforge.json,Scoopforge/Extras-Plus
 vibe_Scoopforge.json,Scoopforge/Extras-Plus
 wpsofficecn.json,TianXiaTech/scoop-txt
 huya.json,TianXiaTech/scoop-txt
@@ -14376,7 +14376,7 @@ typsite.json,typst-community/scoop-bucket
 typst-ts-cli.json,typst-community/scoop-bucket
 typstyle_typst-community.json,typst-community/scoop-bucket
 tytanic.json,typst-community/scoop-bucket
-utpm_typst-community.json,typst-community/scoop-bucket
+utpm.json,typst-community/scoop-bucket
 typst-upgrade.json,typst-community/scoop-bucket
 katvan.json,typst-community/scoop-bucket
 typship.json,typst-community/scoop-bucket
