@@ -8672,7 +8672,7 @@ vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
 xenia-canary_hermanjustnu.json,hermanjustnu/scoop-emulators
 stella_hermanjustnu.json,hermanjustnu/scoop-emulators
 visualboyadvance-m-nightly_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 bsnes-nightly.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -9562,7 +9562,7 @@ sequin.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 mediamux.json,DoveBoy/Apps
 vcpkg_DoveBoy.json,DoveBoy/Apps
 kaf-wifi.json,DoveBoy/Apps
@@ -9605,7 +9605,7 @@ kando_DoveBoy.json,DoveBoy/Apps
 dark_DoveBoy.json,DoveBoy/Apps
 rickrack.json,DoveBoy/Apps
 scoop-search-chriscp.json,DoveBoy/Apps
-sumatrapdf-installer.json,DoveBoy/Apps
+sumatrapdf-installer_DoveBoy.json,DoveBoy/Apps
 wiliwili_DoveBoy.json,DoveBoy/Apps
 firewallappblocker_DoveBoy.json,DoveBoy/Apps
 hysteria_DoveBoy.json,DoveBoy/Apps
@@ -10150,7 +10150,7 @@ smartsub.json,DoveBoy/Apps
 biu.json,DoveBoy/Apps
 zoomit_DoveBoy.json,DoveBoy/Apps
 scoop-shim_DoveBoy.json,DoveBoy/Apps
-lazygit_DoveBoy.json,DoveBoy/Apps
+lazygit.json,DoveBoy/Apps
 iwck_DoveBoy.json,DoveBoy/Apps
 bililive-tools.json,DoveBoy/Apps
 fancontrol-net4.8-portable.json,DoveBoy/Apps
@@ -11329,7 +11329,7 @@ wiztree_WinApps-share.json,WinApps-share/WinApps-bucket
 edge.json,WinApps-share/WinApps-bucket
 honeyview-np.json,WinApps-share/WinApps-bucket
 ppduck3.json,WinApps-share/WinApps-bucket
-xterminal_WinApps-share.json,WinApps-share/WinApps-bucket
+xterminal.json,WinApps-share/WinApps-bucket
 vscode_WinApps-share.json,WinApps-share/WinApps-bucket
 tai_WinApps-share.json,WinApps-share/WinApps-bucket
 itunes.json,WinApps-share/WinApps-bucket
