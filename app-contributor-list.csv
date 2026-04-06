@@ -1109,7 +1109,7 @@ pasteboard.json,ScoopInstaller/Extras
 babelmap.json,ScoopInstaller/Extras
 mp3tag.json,ScoopInstaller/Extras
 explorerplusplus.json,ScoopInstaller/Extras
-autohotkey.json,ScoopInstaller/Extras
+autohotkey_ScoopInstaller.json,ScoopInstaller/Extras
 netbird.json,ScoopInstaller/Extras
 alldup.json,ScoopInstaller/Extras
 sdl2-image.json,ScoopInstaller/Extras
@@ -2620,7 +2620,7 @@ opentabletdriver.json,ScoopInstaller/Extras
 winfile.json,ScoopInstaller/Extras
 bluetooth-cli-tools.json,ScoopInstaller/Extras
 ec2-api-tools.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 apk-editor-studio.json,ScoopInstaller/Extras
 mpls.json,ScoopInstaller/Extras
 azure-iot-explorer.json,ScoopInstaller/Extras
@@ -7921,7 +7921,6 @@ IcecreamPDFEditor.json,dodorz/scoop
 SysPin.json,dodorz/scoop
 Xpdf-tools_dodorz.json,dodorz/scoop
 UniversalViewerPro.json,dodorz/scoop
-OpenCode-Desktop_dodorz.json,dodorz/scoop
 SciHubEVA.json,dodorz/scoop
 EmptyRecycleBin.json,dodorz/scoop
 WFPQuery.json,dodorz/scoop
@@ -9344,6 +9343,7 @@ obs-studio_akirco.json,akirco/aki-apps
 win32-openssh.json,akirco/aki-apps
 listen1desktop_akirco.json,akirco/aki-apps
 mdcat_akirco.json,akirco/aki-apps
+fluent-reader_akirco.json,akirco/aki-apps
 qq-nt_akirco.json,akirco/aki-apps
 npm-completion.json,akirco/aki-apps
 highlight_akirco.json,akirco/aki-apps
