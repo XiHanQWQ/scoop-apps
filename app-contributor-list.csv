@@ -2620,7 +2620,7 @@ opentabletdriver.json,ScoopInstaller/Extras
 winfile.json,ScoopInstaller/Extras
 bluetooth-cli-tools.json,ScoopInstaller/Extras
 ec2-api-tools.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 apk-editor-studio.json,ScoopInstaller/Extras
 mpls.json,ScoopInstaller/Extras
 azure-iot-explorer.json,ScoopInstaller/Extras
@@ -4180,6 +4180,7 @@ baidunetdisk_Scoopforge.json,Scoopforge/Extras-CN
 videocaptioner.json,Scoopforge/Extras-CN
 douyin.json,Scoopforge/Extras-CN
 feeluown.json,Scoopforge/Extras-CN
+cockpit-tools.json,Scoopforge/Extras-CN
 dbeaver-cn.json,Scoopforge/Extras-CN
 weasel.json,Scoopforge/Extras-CN
 phpstudy-lagecy-scoop_Scoopforge.json,Scoopforge/Extras-CN
@@ -7855,7 +7856,7 @@ rktools2k3_dodorz.json,dodorz/scoop
 Wink.json,dodorz/scoop
 WavePad.json,dodorz/scoop
 CraftAgents.json,dodorz/scoop
-ChatWise_dodorz.json,dodorz/scoop
+ChatWise.json,dodorz/scoop
 Clash_dodorz.json,dodorz/scoop
 UnstoppableCopier.json,dodorz/scoop
 Marp-deprecated.json,dodorz/scoop
@@ -10054,6 +10055,7 @@ waifu2x-ncnn-vulkan_DoveBoy.json,DoveBoy/Apps
 ps-guicompletion.json,DoveBoy/Apps
 mediago-beta.json,DoveBoy/Apps
 watttoolkit-beta.json,DoveBoy/Apps
+electerm_DoveBoy.json,DoveBoy/Apps
 fix-print-spooler_DoveBoy.json,DoveBoy/Apps
 freecontrol.json,DoveBoy/Apps
 xiaochao.json,DoveBoy/Apps
