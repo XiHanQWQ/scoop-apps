@@ -9343,7 +9343,6 @@ obs-studio_akirco.json,akirco/aki-apps
 win32-openssh.json,akirco/aki-apps
 listen1desktop_akirco.json,akirco/aki-apps
 mdcat_akirco.json,akirco/aki-apps
-fluent-reader_akirco.json,akirco/aki-apps
 qq-nt_akirco.json,akirco/aki-apps
 npm-completion.json,akirco/aki-apps
 highlight_akirco.json,akirco/aki-apps
@@ -9807,7 +9806,7 @@ energystar.json,DoveBoy/Apps
 bbk-cli_DoveBoy.json,DoveBoy/Apps
 ultimatevocalremovergui.json,DoveBoy/Apps
 maple-file.json,DoveBoy/Apps
-dandanplay_DoveBoy.json,DoveBoy/Apps
+dandanplay.json,DoveBoy/Apps
 go-music-dl.json,DoveBoy/Apps
 perl_DoveBoy.json,DoveBoy/Apps
 openoffice_DoveBoy.json,DoveBoy/Apps
