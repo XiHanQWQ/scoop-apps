@@ -8672,7 +8672,7 @@ vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
 xenia-canary_hermanjustnu.json,hermanjustnu/scoop-emulators
 stella_hermanjustnu.json,hermanjustnu/scoop-emulators
 visualboyadvance-m-nightly_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 bsnes-nightly.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -9809,7 +9809,7 @@ energystar.json,DoveBoy/Apps
 bbk-cli_DoveBoy.json,DoveBoy/Apps
 ultimatevocalremovergui.json,DoveBoy/Apps
 maple-file.json,DoveBoy/Apps
-dandanplay.json,DoveBoy/Apps
+dandanplay_DoveBoy.json,DoveBoy/Apps
 go-music-dl.json,DoveBoy/Apps
 perl_DoveBoy.json,DoveBoy/Apps
 openoffice_DoveBoy.json,DoveBoy/Apps
@@ -9949,7 +9949,7 @@ jenny.json,DoveBoy/Apps
 aria2manager.json,DoveBoy/Apps
 ani-beta.json,DoveBoy/Apps
 windows-manage-tool.json,DoveBoy/Apps
-animeko.json,DoveBoy/Apps
+animeko_DoveBoy.json,DoveBoy/Apps
 pikatorrent.json,DoveBoy/Apps
 tiny11builder.json,DoveBoy/Apps
 batterymode-portable.json,DoveBoy/Apps
@@ -10150,7 +10150,7 @@ smartsub.json,DoveBoy/Apps
 biu.json,DoveBoy/Apps
 zoomit_DoveBoy.json,DoveBoy/Apps
 scoop-shim_DoveBoy.json,DoveBoy/Apps
-lazygit.json,DoveBoy/Apps
+lazygit_DoveBoy.json,DoveBoy/Apps
 iwck_DoveBoy.json,DoveBoy/Apps
 bililive-tools.json,DoveBoy/Apps
 fancontrol-net4.8-portable.json,DoveBoy/Apps
@@ -11657,7 +11657,7 @@ TidyDesktopMonster.json,brian6932/dank-scoop
 profileasync.json,brian6932/dank-scoop
 mercury.json,brian6932/dank-scoop
 testmem5-advanced.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 autosave.json,brian6932/dank-scoop
 clima.json,brian6932/dank-scoop
 comicrack-ce-nightly.json,brian6932/dank-scoop

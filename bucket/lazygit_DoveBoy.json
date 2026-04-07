@@ -1,8 +1,11 @@
 {
     "version": "0.61.0",
-    "description": "A simple terminal UI for git commands",
+    "description": "simple terminal UI for git commands",
     "homepage": "https://github.com/jesseduffield/lazygit",
-    "license": "MIT",
+    "license": {
+        "identifier": "MIT license",
+        "url": "https://github.com/jesseduffield/lazygit#MIT-1-ov-file"
+    },
     "architecture": {
         "64bit": {
             "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.61.0/lazygit_0.61.0_Windows_x86_64.zip",
@@ -16,6 +19,21 @@
             "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.61.0/lazygit_0.61.0_Windows_arm64.zip",
             "hash": "d1bb570a38168c16d58f3feb40ee1c65796daef144cdfe16fa39ed2b1d367f6e"
         }
+    },
+    "installer": {
+        "script": [
+            "# handle runtime cache",
+            "Import-Module $(Join-Path $(Find-BucketDirectory -Root -Name apps) scripts/AppsUtils.psm1)",
+            "Mount-ExternalRuntimeData -Source \"$persist_dir\\appdata\" -Target \"$env:LOCALAPPDATA\\lazygit\"",
+            "Remove-Module -Name AppsUtils"
+        ]
+    },
+    "uninstaller": {
+        "script": [
+            "Import-Module $(Join-Path $(Find-BucketDirectory -Root -Name apps) scripts/AppsUtils.psm1)",
+            "Dismount-ExternalRuntimeData -Target \"$env:LOCALAPPDATA\\lazygit\"",
+            "Remove-Module -Name AppsUtils"
+        ]
     },
     "bin": "lazygit.exe",
     "checkver": "github",
