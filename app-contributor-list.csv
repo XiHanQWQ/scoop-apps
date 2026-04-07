@@ -1083,6 +1083,7 @@ BilibiliDown.json,sliots/ScoopBucket
 Bundletool_sliots.json,sliots/ScoopBucket
 PortProxyGUI.json,sliots/ScoopBucket
 EasySpider.json,sliots/ScoopBucket
+beszel-agent.json,sliots/ScoopBucket
 PhotoTimeFix.json,sliots/ScoopBucket
 pia-desktop.json,ScoopInstaller/Extras
 cpu-z-arm64.json,ScoopInstaller/Extras
@@ -1953,7 +1954,7 @@ chatterino7.json,ScoopInstaller/Extras
 ntsc-rs.json,ScoopInstaller/Extras
 todolist.json,ScoopInstaller/Extras
 ytmdesktop.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 awesomebump.json,ScoopInstaller/Extras
 lazarus.json,ScoopInstaller/Extras
 miniconda3.json,ScoopInstaller/Extras
@@ -2620,7 +2621,7 @@ opentabletdriver.json,ScoopInstaller/Extras
 winfile.json,ScoopInstaller/Extras
 bluetooth-cli-tools.json,ScoopInstaller/Extras
 ec2-api-tools.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 apk-editor-studio.json,ScoopInstaller/Extras
 mpls.json,ScoopInstaller/Extras
 azure-iot-explorer.json,ScoopInstaller/Extras
@@ -9562,7 +9563,7 @@ sequin.json,charmbracelet/scoop-bucket
 wishlist.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
 pop.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 mediamux.json,DoveBoy/Apps
 vcpkg_DoveBoy.json,DoveBoy/Apps
 kaf-wifi.json,DoveBoy/Apps
