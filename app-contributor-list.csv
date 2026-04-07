@@ -2831,7 +2831,7 @@ antidupl.net.json,ScoopInstaller/Extras
 gyroflow.json,ScoopInstaller/Extras
 sophiapp.json,ScoopInstaller/Extras
 qt-creator-cdb-ext.json,ScoopInstaller/Extras
-g-helper_ScoopInstaller.json,ScoopInstaller/Extras
+g-helper.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 eclipse-sdk.json,ScoopInstaller/Extras
 xx-net.json,ScoopInstaller/Extras
@@ -5283,6 +5283,7 @@ php70.json,ScoopInstaller/Versions
 neovim-nightly.json,ScoopInstaller/Versions
 selenium3.json,ScoopInstaller/Versions
 pwsh-beta.json,ScoopInstaller/Versions
+freerdp-nightly.json,ScoopInstaller/Versions
 audacity2.4.2.json,ScoopInstaller/Versions
 winpython38.json,ScoopInstaller/Versions
 mingw-winlibs-llvm-ucrt.json,ScoopInstaller/Versions
@@ -9631,7 +9632,7 @@ lessmsi_DoveBoy.json,DoveBoy/Apps
 video-srt-windows.json,DoveBoy/Apps
 lky-officetools_DoveBoy.json,DoveBoy/Apps
 gotop_DoveBoy.json,DoveBoy/Apps
-joplin-pre_DoveBoy.json,DoveBoy/Apps
+joplin-pre.json,DoveBoy/Apps
 ventoy_DoveBoy.json,DoveBoy/Apps
 music-you.json,DoveBoy/Apps
 video-srt-windows-with-ffmpeg.json,DoveBoy/Apps
@@ -14672,6 +14673,7 @@ notepadplusplus-aoks.json,AntonOks/scoop-aoks
 rdiff-backup-aoks.json,AntonOks/scoop-aoks
 goproxy-aoks.json,AntonOks/scoop-aoks
 dokany-aoks.json,AntonOks/scoop-aoks
+s3browser-aoks.json,AntonOks/scoop-aoks
 tirith-aoks.json,AntonOks/scoop-aoks
 berrybrew-aoks.json,AntonOks/scoop-aoks
 woodpecker-server-aoks.json,AntonOks/scoop-aoks
