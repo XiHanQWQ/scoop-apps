@@ -9632,7 +9632,7 @@ lessmsi_DoveBoy.json,DoveBoy/Apps
 video-srt-windows.json,DoveBoy/Apps
 lky-officetools_DoveBoy.json,DoveBoy/Apps
 gotop_DoveBoy.json,DoveBoy/Apps
-joplin-pre.json,DoveBoy/Apps
+joplin-pre_DoveBoy.json,DoveBoy/Apps
 ventoy_DoveBoy.json,DoveBoy/Apps
 music-you.json,DoveBoy/Apps
 video-srt-windows-with-ffmpeg.json,DoveBoy/Apps
@@ -11074,6 +11074,7 @@ qalculate_naderi.json,naderi/scoop-bucket
 fopnu.json,naderi/scoop-bucket
 caret_naderi.json,naderi/scoop-bucket
 font-tanha.json,naderi/scoop-bucket
+compresso.json,naderi/scoop-bucket
 font-vazir.json,naderi/scoop-bucket
 codeblocks-portable.json,naderi/scoop-bucket
 fontviewok.json,naderi/scoop-bucket
@@ -11336,7 +11337,7 @@ vscode_WinApps-share.json,WinApps-share/WinApps-bucket
 tai_WinApps-share.json,WinApps-share/WinApps-bucket
 itunes.json,WinApps-share/WinApps-bucket
 windows-terminal_WinApps-share.json,WinApps-share/WinApps-bucket
-compresso.json,WinApps-share/WinApps-bucket
+compresso_WinApps-share.json,WinApps-share/WinApps-bucket
 ecopaste.json,WinApps-share/WinApps-bucket
 winscp_WinApps-share.json,WinApps-share/WinApps-bucket
 reqable_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -14673,7 +14674,6 @@ notepadplusplus-aoks.json,AntonOks/scoop-aoks
 rdiff-backup-aoks.json,AntonOks/scoop-aoks
 goproxy-aoks.json,AntonOks/scoop-aoks
 dokany-aoks.json,AntonOks/scoop-aoks
-s3browser-aoks.json,AntonOks/scoop-aoks
 tirith-aoks.json,AntonOks/scoop-aoks
 berrybrew-aoks.json,AntonOks/scoop-aoks
 woodpecker-server-aoks.json,AntonOks/scoop-aoks
