@@ -1954,7 +1954,7 @@ chatterino7.json,ScoopInstaller/Extras
 ntsc-rs.json,ScoopInstaller/Extras
 todolist.json,ScoopInstaller/Extras
 ytmdesktop.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 awesomebump.json,ScoopInstaller/Extras
 lazarus.json,ScoopInstaller/Extras
 miniconda3.json,ScoopInstaller/Extras
@@ -2455,6 +2455,7 @@ odict.json,ScoopInstaller/Extras
 laigter.json,ScoopInstaller/Extras
 kate.json,ScoopInstaller/Extras
 macast-debug.json,ScoopInstaller/Extras
+equibop.json,ScoopInstaller/Extras
 github.json,ScoopInstaller/Extras
 cutter.json,ScoopInstaller/Extras
 session.json,ScoopInstaller/Extras
@@ -3114,6 +3115,7 @@ kscript.json,ScoopInstaller/Extras
 tinode-mysql.json,ScoopInstaller/Extras
 clustalw.json,ScoopInstaller/Extras
 xjoy.json,ScoopInstaller/Extras
+ropy.json,ScoopInstaller/Extras
 ydl-ui.json,ScoopInstaller/Extras
 brackets.json,ScoopInstaller/Extras
 universal-mediacreationtool.json,ScoopInstaller/Extras
@@ -9501,7 +9503,6 @@ gh_akirco.json,akirco/aki-apps
 mvndaemon_akirco.json,akirco/aki-apps
 yddict.json,akirco/aki-apps
 figlet_akirco.json,akirco/aki-apps
-youtubedownloader_akirco.json,akirco/aki-apps
 netch_akirco.json,akirco/aki-apps
 nali_akirco.json,akirco/aki-apps
 wget_akirco.json,akirco/aki-apps
@@ -12933,7 +12934,7 @@ clash-for-windows_aoisummer.json,aoisummer/scoop-bucket
 crystaldiskmark-aoi.json,aoisummer/scoop-bucket
 lunatranslator_aoisummer.json,aoisummer/scoop-bucket
 tracetcp.json,aoisummer/scoop-bucket
-firefox-esr-zh-cn_aoisummer.json,aoisummer/scoop-bucket
+firefox-esr-zh-cn.json,aoisummer/scoop-bucket
 cinebench.json,aoisummer/scoop-bucket
 exwrapper.json,aoisummer/scoop-bucket
 shadowsocks-rust-gnu.json,aoisummer/scoop-bucket
@@ -14762,12 +14763,13 @@ hayase.json,Rinkerbel/scooped
 steamtokendumper.json,Rinkerbel/scooped
 autobrr.json,Rinkerbel/scooped
 syncyomi.json,Rinkerbel/scooped
-mangayomi.json,Rinkerbel/scooped
 TwitchChannelPointsMiner.json,Rinkerbel/scooped
 seanime-denshi.json,Rinkerbel/scooped
 goanime.json,Rinkerbel/scooped
 qui.json,Rinkerbel/scooped
 toru.json,Rinkerbel/scooped
+seanime-server-canary.json,Rinkerbel/scooped
+seanime-denshi-canary.json,Rinkerbel/scooped
 zenshin.json,Rinkerbel/scooped
 anymex.json,Rinkerbel/scooped
 seanime-server.json,Rinkerbel/scooped
@@ -14801,6 +14803,7 @@ imagemagick-lean_404NetworkError.json,404NetworkError/scoop-bucket
 startup-timer.json,404NetworkError/scoop-bucket
 windowsdesktop-runtime_404NetworkError.json,404NetworkError/scoop-bucket
 hash-suite-free.json,404NetworkError/scoop-bucket
+spaghettikart.json,404NetworkError/scoop-bucket
 winobjex64_404NetworkError.json,404NetworkError/scoop-bucket
 qrencode_404NetworkError.json,404NetworkError/scoop-bucket
 fixwin11.json,404NetworkError/scoop-bucket
@@ -14891,7 +14894,7 @@ xpdf-tools_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 cmake_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 calibre_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-python314_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+python314.json,ShuguangSun/sgs-scoop-bucket
 micromamba-cn-2.2.0.json,ShuguangSun/sgs-scoop-bucket
 wpsoffice.json,ShuguangSun/sgs-scoop-bucket
 busybox_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
