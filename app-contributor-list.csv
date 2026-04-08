@@ -2339,6 +2339,7 @@ notepadnext.json,ScoopInstaller/Extras
 kcc.json,ScoopInstaller/Extras
 dbgl.json,ScoopInstaller/Extras
 silex-desktop.json,ScoopInstaller/Extras
+ffstudio.json,ScoopInstaller/Extras
 devrantron.json,ScoopInstaller/Extras
 baka-mplayer.json,ScoopInstaller/Extras
 64gram.json,ScoopInstaller/Extras
@@ -3080,7 +3081,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -9553,7 +9554,7 @@ visualvm_TheRandomLabs.json,TheRandomLabs/Scoop-Bucket
 win10-initial-setup-script.json,TheRandomLabs/Scoop-Bucket
 ffmpeg-for-audacity.json,TheRandomLabs/Scoop-Bucket
 neovim-dev.json,TheRandomLabs/Scoop-Bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
