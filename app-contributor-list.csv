@@ -2832,7 +2832,7 @@ antidupl.net.json,ScoopInstaller/Extras
 gyroflow.json,ScoopInstaller/Extras
 sophiapp.json,ScoopInstaller/Extras
 qt-creator-cdb-ext.json,ScoopInstaller/Extras
-g-helper.json,ScoopInstaller/Extras
+g-helper_ScoopInstaller.json,ScoopInstaller/Extras
 dn-famitracker.json,ScoopInstaller/Extras
 eclipse-sdk.json,ScoopInstaller/Extras
 xx-net.json,ScoopInstaller/Extras
@@ -8648,7 +8648,7 @@ fceux-qt-interim.json,hermanjustnu/scoop-emulators
 vice-sdl2-snapshot.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
-snes9x-dev.json,hermanjustnu/scoop-emulators
+snes9x-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 hoxs64.json,hermanjustnu/scoop-emulators
 visualboyadvance-m_hermanjustnu.json,hermanjustnu/scoop-emulators
 pegasus-nightly.json,hermanjustnu/scoop-emulators
@@ -9291,6 +9291,7 @@ baidudisk.json,akirco/aki-apps
 macchina_akirco.json,akirco/aki-apps
 unxutils_akirco.json,akirco/aki-apps
 windows-terminal-quake_akirco.json,akirco/aki-apps
+go-cn_akirco.json,akirco/aki-apps
 poetry_akirco.json,akirco/aki-apps
 helix_akirco.json,akirco/aki-apps
 vcredist2022_akirco.json,akirco/aki-apps
@@ -9453,7 +9454,7 @@ git_akirco.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
 poppler_akirco.json,akirco/aki-apps
 which_akirco.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 monolith_akirco.json,akirco/aki-apps
 mdbook_akirco.json,akirco/aki-apps
 whisper.json,akirco/aki-apps
@@ -11663,7 +11664,7 @@ TidyDesktopMonster.json,brian6932/dank-scoop
 profileasync.json,brian6932/dank-scoop
 mercury.json,brian6932/dank-scoop
 testmem5-advanced.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 autosave.json,brian6932/dank-scoop
 clima.json,brian6932/dank-scoop
 comicrack-ce-nightly.json,brian6932/dank-scoop
@@ -14894,7 +14895,7 @@ xpdf-tools_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 cmake_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 calibre_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-python314.json,ShuguangSun/sgs-scoop-bucket
+python314_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 micromamba-cn-2.2.0.json,ShuguangSun/sgs-scoop-bucket
 wpsoffice.json,ShuguangSun/sgs-scoop-bucket
 busybox_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
@@ -15019,7 +15020,7 @@ r_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 rtools44_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 cmake-rc.json,ShuguangSun/sgs-scoop-bucket
 jabref57.json,ShuguangSun/sgs-scoop-bucket
-python313_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+python313.json,ShuguangSun/sgs-scoop-bucket
 hledger_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 public-sans.json,ShuguangSun/sgs-scoop-bucket
 Victor-Mono_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
