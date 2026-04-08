@@ -2632,7 +2632,7 @@ fix-print-spooler.json,ScoopInstaller/Extras
 alien.json,ScoopInstaller/Extras
 eagleget.json,ScoopInstaller/Extras
 sidebar-diagnostics.json,ScoopInstaller/Extras
-vscode_ScoopInstaller.json,ScoopInstaller/Extras
+vscode.json,ScoopInstaller/Extras
 carotdav.json,ScoopInstaller/Extras
 paint.net.json,ScoopInstaller/Extras
 kitty.json,ScoopInstaller/Extras
@@ -14763,6 +14763,7 @@ hayase.json,Rinkerbel/scooped
 steamtokendumper.json,Rinkerbel/scooped
 autobrr.json,Rinkerbel/scooped
 syncyomi.json,Rinkerbel/scooped
+mangayomi.json,Rinkerbel/scooped
 TwitchChannelPointsMiner.json,Rinkerbel/scooped
 seanime-denshi.json,Rinkerbel/scooped
 goanime.json,Rinkerbel/scooped
@@ -15150,7 +15151,7 @@ pasteex_Locietta.json,Locietta/sniffer
 vulkansdk.json,Locietta/sniffer
 llvm_Locietta.json,Locietta/sniffer
 eqapo-np.json,Locietta/sniffer
-hmcl_Locietta.json,Locietta/sniffer
+hmcl.json,Locietta/sniffer
 multi-frp.json,Locietta/sniffer
 miniforge_Locietta.json,Locietta/sniffer
 frp_Locietta.json,Locietta/sniffer
