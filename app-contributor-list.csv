@@ -5468,6 +5468,7 @@ webstorm-eap.json,ScoopInstaller/Versions
 qbittorrent-nightly.json,ScoopInstaller/Versions
 pester4.json,ScoopInstaller/Versions
 llama.cpp-hip-gfx1030.json,ScoopInstaller/Versions
+fluent-search-nightly.json,ScoopInstaller/Versions
 atom-beta.json,ScoopInstaller/Versions
 oracle-instant-client-odbc19.json,ScoopInstaller/Versions
 tesseract4-languages.json,ScoopInstaller/Versions
@@ -8971,7 +8972,7 @@ reality.json,ViCrack/scoop-bucket
 pidkey.json,ViCrack/scoop-bucket
 proguard_ViCrack.json,ViCrack/scoop-bucket
 xray_ViCrack.json,ViCrack/scoop-bucket
-newfiletime.json,ViCrack/scoop-bucket
+newfiletime_ViCrack.json,ViCrack/scoop-bucket
 evilpot.json,ViCrack/scoop-bucket
 gost_ViCrack.json,ViCrack/scoop-bucket
 PowerRun.json,ViCrack/scoop-bucket
@@ -9788,7 +9789,7 @@ scoop-search_DoveBoy.json,DoveBoy/Apps
 abdownloadmanager_DoveBoy.json,DoveBoy/Apps
 upx_DoveBoy.json,DoveBoy/Apps
 motrix_DoveBoy.json,DoveBoy/Apps
-sandboxie-plus.json,DoveBoy/Apps
+sandboxie-plus_DoveBoy.json,DoveBoy/Apps
 bilibili-backup_DoveBoy.json,DoveBoy/Apps
 dua_DoveBoy.json,DoveBoy/Apps
 streamcap.json,DoveBoy/Apps
@@ -11332,7 +11333,7 @@ imtip.json,WinApps-share/WinApps-bucket
 zotero-np.json,WinApps-share/WinApps-bucket
 listary_WinApps-share.json,WinApps-share/WinApps-bucket
 wiztree_WinApps-share.json,WinApps-share/WinApps-bucket
-edge.json,WinApps-share/WinApps-bucket
+edge_WinApps-share.json,WinApps-share/WinApps-bucket
 honeyview-np.json,WinApps-share/WinApps-bucket
 ppduck3.json,WinApps-share/WinApps-bucket
 xterminal_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -14133,7 +14134,7 @@ typsite.json,typst-community/scoop-bucket
 typst-ts-cli.json,typst-community/scoop-bucket
 typstyle_typst-community.json,typst-community/scoop-bucket
 tytanic.json,typst-community/scoop-bucket
-utpm.json,typst-community/scoop-bucket
+utpm_typst-community.json,typst-community/scoop-bucket
 typst-upgrade.json,typst-community/scoop-bucket
 katvan.json,typst-community/scoop-bucket
 typship.json,typst-community/scoop-bucket
