@@ -3081,7 +3081,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -9443,7 +9443,7 @@ yt-dlp_akirco.json,akirco/aki-apps
 vcredist2013_akirco.json,akirco/aki-apps
 alipan.json,akirco/aki-apps
 yddict.json,akirco/aki-apps
-windows-terminal-quake.json,akirco/aki-apps
+windows-terminal-quake_akirco.json,akirco/aki-apps
 xsv_akirco.json,akirco/aki-apps
 pyflow_akirco.json,akirco/aki-apps
 macchina_akirco.json,akirco/aki-apps
@@ -10436,7 +10436,7 @@ signal_EFLKumo.json,EFLKumo/jam
 pot_EFLKumo.json,EFLKumo/jam
 siyuan-unlock.json,EFLKumo/jam
 readest_EFLKumo.json,EFLKumo/jam
-cherry-studio_EFLKumo.json,EFLKumo/jam
+cherry-studio.json,EFLKumo/jam
 void_EFLKumo.json,EFLKumo/jam
 keyguard_EFLKumo.json,EFLKumo/jam
 googlechrome_EFLKumo.json,EFLKumo/jam
@@ -14898,7 +14898,7 @@ msys2_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 public-sans.json,ShuguangSun/sgs-scoop-bucket
 sumatrapdf-stable.json,ShuguangSun/sgs-scoop-bucket
 miktex_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-chatbox.json,ShuguangSun/sgs-scoop-bucket
+chatbox_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 vscodium_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 wpsoffice.json,ShuguangSun/sgs-scoop-bucket
 r-4.2.0.json,ShuguangSun/sgs-scoop-bucket
@@ -15068,7 +15068,7 @@ godot3-kotlin-jvm.json,windedge/ladle-bucket
 lem.json,windedge/ladle-bucket
 gotify-tray.json,windedge/ladle-bucket
 scia-reto.json,windedge/ladle-bucket
-forgecode.json,windedge/ladle-bucket
+forgecode_windedge.json,windedge/ladle-bucket
 weasyprint_windedge.json,windedge/ladle-bucket
 temurin20-jdk_windedge.json,windedge/ladle-bucket
 tiny-rdm.json,windedge/ladle-bucket
