@@ -1080,6 +1080,7 @@ Bundletool_sliots.json,sliots/ScoopBucket
 dlsite-doujin-renamer.json,sliots/ScoopBucket
 SynologyCloudSyncDecryptionTool.json,sliots/ScoopBucket
 fetch-github-hosts.json,sliots/ScoopBucket
+snaz.json,sliots/ScoopBucket
 EasySpider.json,sliots/ScoopBucket
 BiliCLOnline.json,sliots/ScoopBucket
 exhentai-manga-manager-portable.json,sliots/ScoopBucket
@@ -5144,6 +5145,7 @@ spotify-qt-nightly.json,ScoopInstaller/Versions
 mariadb103.json,ScoopInstaller/Versions
 ngrok2.json,ScoopInstaller/Versions
 php72-xdebug.json,ScoopInstaller/Versions
+supabase-beta.json,ScoopInstaller/Versions
 python36.json,ScoopInstaller/Versions
 winpython38.json,ScoopInstaller/Versions
 goland-eap.json,ScoopInstaller/Versions
@@ -6546,7 +6548,7 @@ commix.json,tldrw/scoop-security
 proguard.json,tldrw/scoop-security
 HashcatGui.json,tldrw/scoop-security
 RustDesk_tldrw.json,tldrw/scoop-security
-feroxbuster.json,tldrw/scoop-security
+feroxbuster_tldrw.json,tldrw/scoop-security
 JYso.json,tldrw/scoop-security
 javafx.json,tldrw/scoop-security
 godzilla.json,tldrw/scoop-security
@@ -10208,7 +10210,7 @@ kopia-cli.json,DoveBoy/Apps
 nping.json,DoveBoy/Apps
 scoop-tab-completion.json,DoveBoy/Apps
 chatbox_DoveBoy.json,DoveBoy/Apps
-karing_DoveBoy.json,DoveBoy/Apps
+karing.json,DoveBoy/Apps
 bili-cli-rs.json,DoveBoy/Apps
 trafficmonitor_DoveBoy.json,DoveBoy/Apps
 xray_DoveBoy.json,DoveBoy/Apps
@@ -11816,7 +11818,7 @@ youdaodict.json,ygguorun/scoop-bucket
 wodeabc.json,ygguorun/scoop-bucket
 Macast_ygguorun.json,ygguorun/scoop-bucket
 copy-translator-rust.json,ygguorun/scoop-bucket
-BaiduNetdisk_ygguorun.json,ygguorun/scoop-bucket
+BaiduNetdisk.json,ygguorun/scoop-bucket
 MajsoulPlus.json,ygguorun/scoop-bucket
 docker-drag.json,ygguorun/scoop-bucket
 DocBox_ygguorun.json,ygguorun/scoop-bucket
