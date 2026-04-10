@@ -4338,6 +4338,7 @@ tooniversal.json,Calinou/scoop-games
 bloxstrap.json,Calinou/scoop-games
 dlss-updater.json,Calinou/scoop-games
 golly.json,Calinou/scoop-games
+ultraplusmanager.json,Calinou/scoop-games
 opensupaplex.json,Calinou/scoop-games
 raze.json,Calinou/scoop-games
 sauerbraten.json,Calinou/scoop-games
@@ -8710,7 +8711,7 @@ psping.json,niheaven/scoop-sysinternals
 junction.json,niheaven/scoop-sysinternals
 regdelnull.json,niheaven/scoop-sysinternals
 cacheset.json,niheaven/scoop-sysinternals
-process-explorer.json,niheaven/scoop-sysinternals
+process-explorer_niheaven.json,niheaven/scoop-sysinternals
 findlinks.json,niheaven/scoop-sysinternals
 efsdump.json,niheaven/scoop-sysinternals
 vmmap.json,niheaven/scoop-sysinternals
@@ -9948,7 +9949,7 @@ ftpserver.json,DoveBoy/Apps
 picotorrent_DoveBoy.json,DoveBoy/Apps
 convert.net_DoveBoy.json,DoveBoy/Apps
 cheat-engine_DoveBoy.json,DoveBoy/Apps
-dandanplay.json,DoveBoy/Apps
+dandanplay_DoveBoy.json,DoveBoy/Apps
 so-novel.json,DoveBoy/Apps
 joplin-pre_DoveBoy.json,DoveBoy/Apps
 psreadline_DoveBoy.json,DoveBoy/Apps
@@ -10207,7 +10208,7 @@ kopia-cli.json,DoveBoy/Apps
 nping.json,DoveBoy/Apps
 scoop-tab-completion.json,DoveBoy/Apps
 chatbox_DoveBoy.json,DoveBoy/Apps
-karing.json,DoveBoy/Apps
+karing_DoveBoy.json,DoveBoy/Apps
 bili-cli-rs.json,DoveBoy/Apps
 trafficmonitor_DoveBoy.json,DoveBoy/Apps
 xray_DoveBoy.json,DoveBoy/Apps
@@ -11074,7 +11075,7 @@ winamp.json,naderi/scoop-bucket
 transmission-portable_naderi.json,naderi/scoop-bucket
 thunderbird-beta.json,naderi/scoop-bucket
 gvim-portable.json,naderi/scoop-bucket
-thunderbird-portable.json,naderi/scoop-bucket
+thunderbird-portable_naderi.json,naderi/scoop-bucket
 texniccenter_naderi.json,naderi/scoop-bucket
 openwebstart.json,naderi/scoop-bucket
 font-sahel.json,naderi/scoop-bucket
@@ -11591,7 +11592,7 @@ querydacl.json,brian6932/dank-scoop
 apngasm-gui.json,brian6932/dank-scoop
 google-usb-driver.json,brian6932/dank-scoop
 powercolorls.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 bgutil-ytdlp-pot-provider.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 svg_to_ico.json,brian6932/dank-scoop
@@ -15067,7 +15068,7 @@ godot3-kotlin-jvm.json,windedge/ladle-bucket
 lem.json,windedge/ladle-bucket
 gotify-tray.json,windedge/ladle-bucket
 scia-reto.json,windedge/ladle-bucket
-forgecode_windedge.json,windedge/ladle-bucket
+forgecode.json,windedge/ladle-bucket
 weasyprint_windedge.json,windedge/ladle-bucket
 temurin20-jdk_windedge.json,windedge/ladle-bucket
 tiny-rdm.json,windedge/ladle-bucket
