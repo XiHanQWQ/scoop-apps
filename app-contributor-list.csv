@@ -9306,7 +9306,7 @@ dim.json,akirco/aki-apps
 aya.json,akirco/aki-apps
 obs-studio_akirco.json,akirco/aki-apps
 silentcmd_akirco.json,akirco/aki-apps
-trae-cn_akirco.json,akirco/aki-apps
+trae-cn.json,akirco/aki-apps
 dvm_akirco.json,akirco/aki-apps
 firefox-zh-cn_akirco.json,akirco/aki-apps
 warp_akirco.json,akirco/aki-apps
@@ -10201,6 +10201,7 @@ fix-print-spooler_DoveBoy.json,DoveBoy/Apps
 walk_DoveBoy.json,DoveBoy/Apps
 tageditor_DoveBoy.json,DoveBoy/Apps
 video-srt-windows-with-ffmpeg.json,DoveBoy/Apps
+mobaxterm.json,DoveBoy/Apps
 v2ray-rules-dat-git.json,DoveBoy/Apps
 openssh_DoveBoy.json,DoveBoy/Apps
 flclash-portable.json,DoveBoy/Apps
@@ -10405,7 +10406,7 @@ arthas_zhoujin7.json,zhoujin7/tomato
 CapsLockIndicator.json,zhoujin7/tomato
 zipkin-dependencies.json,zhoujin7/tomato
 EmEditor_zhoujin7.json,zhoujin7/tomato
-Q-Dir_zhoujin7.json,zhoujin7/tomato
+Q-Dir.json,zhoujin7/tomato
 lockhunter-np_zhoujin7.json,zhoujin7/tomato
 Nacos.json,zhoujin7/tomato
 XJad.json,zhoujin7/tomato
@@ -11530,7 +11531,7 @@ git_WinApps-share.json,WinApps-share/WinApps-bucket
 ocauxiliarytools_WinApps-share.json,WinApps-share/WinApps-bucket
 draw.io_WinApps-share.json,WinApps-share/WinApps-bucket
 ab-download-manager.json,WinApps-share/WinApps-bucket
-pixpin_WinApps-share.json,WinApps-share/WinApps-bucket
+pixpin.json,WinApps-share/WinApps-bucket
 clean-my-wechat.json,WinApps-share/WinApps-bucket
 7zip_WinApps-share.json,WinApps-share/WinApps-bucket
 whynot-win11.json,WinApps-share/WinApps-bucket
@@ -12236,6 +12237,7 @@ asimov-cli.json,asimov-platform/scoop-bucket
 asimov-near-module.json,asimov-platform/scoop-bucket
 asimov-chromium-module.json,asimov-platform/scoop-bucket
 asimov-jq-module.json,asimov-platform/scoop-bucket
+asimov-ethereum-module.json,asimov-platform/scoop-bucket
 asimov-ollama-module.json,asimov-platform/scoop-bucket
 asimov-http-module.json,asimov-platform/scoop-bucket
 asimov-telegram-module.json,asimov-platform/scoop-bucket
@@ -12976,7 +12978,7 @@ sam-rewritten.json,starise/Scoop-Gaming
 nvidia-physx-legacy.json,starise/Scoop-Gaming
 nvidia-geforce-experience.json,starise/Scoop-Gaming
 php74-nts.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn.json,aoisummer/scoop-bucket
 kiwix_aoisummer.json,aoisummer/scoop-bucket
 you-get_aoisummer.json,aoisummer/scoop-bucket
 clash-for-windows_aoisummer.json,aoisummer/scoop-bucket
