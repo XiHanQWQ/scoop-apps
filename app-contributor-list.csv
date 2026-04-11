@@ -9207,7 +9207,7 @@ trilium-cn.json,ViCrack/scoop-bucket
 dnsx_ViCrack.json,ViCrack/scoop-bucket
 notify_ViCrack.json,ViCrack/scoop-bucket
 finalshell.json,ViCrack/scoop-bucket
-jar-analyzer_ViCrack.json,ViCrack/scoop-bucket
+jar-analyzer.json,ViCrack/scoop-bucket
 fastgithub.json,ViCrack/scoop-bucket
 gsudo-x.json,kiennq/scoop-misc
 uwphook.json,kiennq/scoop-misc
@@ -10408,7 +10408,7 @@ arthas_zhoujin7.json,zhoujin7/tomato
 CapsLockIndicator.json,zhoujin7/tomato
 zipkin-dependencies.json,zhoujin7/tomato
 EmEditor_zhoujin7.json,zhoujin7/tomato
-Q-Dir_zhoujin7.json,zhoujin7/tomato
+Q-Dir.json,zhoujin7/tomato
 lockhunter-np_zhoujin7.json,zhoujin7/tomato
 Nacos.json,zhoujin7/tomato
 XJad.json,zhoujin7/tomato
