@@ -5102,6 +5102,7 @@ kdeconnect-nightly.json,ScoopInstaller/Versions
 dataspell-eap.json,ScoopInstaller/Versions
 python39.json,ScoopInstaller/Versions
 qbittorrent-qt6_lt20.json,ScoopInstaller/Versions
+llama.cpp-cu124-dll.json,ScoopInstaller/Versions
 anaconda3-2022.05.json,ScoopInstaller/Versions
 multipar-beta.json,ScoopInstaller/Versions
 cuda10.0.json,ScoopInstaller/Versions
@@ -5126,6 +5127,7 @@ docker-nightly.json,ScoopInstaller/Versions
 python-alpha.json,ScoopInstaller/Versions
 geogebra5.json,ScoopInstaller/Versions
 fluxctl.json,ScoopInstaller/Versions
+llama.cpp-cu131-dll.json,ScoopInstaller/Versions
 lite-xl-addons.json,ScoopInstaller/Versions
 rtools43.json,ScoopInstaller/Versions
 gitbutler-nightly.json,ScoopInstaller/Versions
@@ -8634,7 +8636,7 @@ fceux.json,hermanjustnu/scoop-emulators
 mednaffe_hermanjustnu.json,hermanjustnu/scoop-emulators
 yuzu.json,hermanjustnu/scoop-emulators
 model-b.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 stella_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 steam-rom-manager_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -8796,7 +8798,7 @@ ezshare.json,couleur-tweak-tips/utils
 utvideo.json,couleur-tweak-tips/utils
 duckstation-preview_borger.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
@@ -9905,7 +9907,6 @@ helix_DoveBoy.json,DoveBoy/Apps
 ttime.json,DoveBoy/Apps
 ripgrep_DoveBoy.json,DoveBoy/Apps
 treesize_DoveBoy.json,DoveBoy/Apps
-ddu.json,DoveBoy/Apps
 mpv-git_DoveBoy.json,DoveBoy/Apps
 calctus.json,DoveBoy/Apps
 googletranslateipcheck.json,DoveBoy/Apps
