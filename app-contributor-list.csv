@@ -6959,6 +6959,7 @@ ArpsiftCLI-Portable.json,ACooper81/scoop-apps
 Tidal-Portable.json,ACooper81/scoop-apps
 SpywareBlaster-ManualInstall.json,ACooper81/scoop-apps
 StardockCurtains-Install.json,ACooper81/scoop-apps
+Anki-Install.json,ACooper81/scoop-apps
 StardockFences-Install.json,ACooper81/scoop-apps
 FanControl-Portable.json,ACooper81/scoop-apps
 Krita-Portable.json,ACooper81/scoop-apps
@@ -9207,7 +9208,7 @@ trilium-cn.json,ViCrack/scoop-bucket
 dnsx_ViCrack.json,ViCrack/scoop-bucket
 notify_ViCrack.json,ViCrack/scoop-bucket
 finalshell.json,ViCrack/scoop-bucket
-jar-analyzer.json,ViCrack/scoop-bucket
+jar-analyzer_ViCrack.json,ViCrack/scoop-bucket
 fastgithub.json,ViCrack/scoop-bucket
 gsudo-x.json,kiennq/scoop-misc
 uwphook.json,kiennq/scoop-misc
@@ -10408,7 +10409,7 @@ arthas_zhoujin7.json,zhoujin7/tomato
 CapsLockIndicator.json,zhoujin7/tomato
 zipkin-dependencies.json,zhoujin7/tomato
 EmEditor_zhoujin7.json,zhoujin7/tomato
-Q-Dir.json,zhoujin7/tomato
+Q-Dir_zhoujin7.json,zhoujin7/tomato
 lockhunter-np_zhoujin7.json,zhoujin7/tomato
 Nacos.json,zhoujin7/tomato
 XJad.json,zhoujin7/tomato
@@ -10771,7 +10772,7 @@ arturo-nightly.json,amorphobia/siku
 mihomo-v3.json,amorphobia/siku
 rust-sl.json,amorphobia/siku
 mdict_amorphobia.json,amorphobia/siku
-filebrowser_amorphobia.json,amorphobia/siku
+filebrowser.json,amorphobia/siku
 imazing-converter.json,amorphobia/siku
 gitea-runner.json,amorphobia/siku
 cargo-binstall_amorphobia.json,amorphobia/siku
@@ -11074,7 +11075,7 @@ everything-toolbar.json,naderi/scoop-bucket
 mdsilo.json,naderi/scoop-bucket
 logviewer.json,naderi/scoop-bucket
 coinomi.json,naderi/scoop-bucket
-teamviewer-portable.json,naderi/scoop-bucket
+teamviewer-portable_naderi.json,naderi/scoop-bucket
 opera-developer.json,naderi/scoop-bucket
 clipx_naderi.json,naderi/scoop-bucket
 firefox-portable_naderi.json,naderi/scoop-bucket
