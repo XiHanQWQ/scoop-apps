@@ -3082,7 +3082,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -4272,6 +4272,7 @@ eduke32.json,Calinou/scoop-games
 mcrcon.json,Calinou/scoop-games
 doukutsu-rs.json,Calinou/scoop-games
 tesseract-game.json,Calinou/scoop-games
+nile.json,Calinou/scoop-games
 mesen.json,Calinou/scoop-games
 taisei.json,Calinou/scoop-games
 xivlauncher.json,Calinou/scoop-games
@@ -4381,6 +4382,7 @@ retroarch-nightly.json,Calinou/scoop-games
 openxcom.json,Calinou/scoop-games
 ericw-tools.json,Calinou/scoop-games
 bsnes-hd-beta.json,Calinou/scoop-games
+gogdl.json,Calinou/scoop-games
 webgal-terre.json,Calinou/scoop-games
 twitchdropsminer.json,Calinou/scoop-games
 cxbx-reloaded.json,Calinou/scoop-games
@@ -4543,6 +4545,7 @@ shatteredpixeldungeon.json,Calinou/scoop-games
 chunker-cli.json,Calinou/scoop-games
 gzdoom.json,Calinou/scoop-games
 mcedit2.json,Calinou/scoop-games
+comet.json,Calinou/scoop-games
 tabletop-club.json,Calinou/scoop-games
 wii-backup-manager.json,Calinou/scoop-games
 ivan.json,Calinou/scoop-games
@@ -9306,7 +9309,7 @@ dim.json,akirco/aki-apps
 aya.json,akirco/aki-apps
 obs-studio_akirco.json,akirco/aki-apps
 silentcmd_akirco.json,akirco/aki-apps
-trae-cn.json,akirco/aki-apps
+trae-cn_akirco.json,akirco/aki-apps
 dvm_akirco.json,akirco/aki-apps
 firefox-zh-cn_akirco.json,akirco/aki-apps
 warp_akirco.json,akirco/aki-apps
@@ -9941,7 +9944,7 @@ urlfinder.json,DoveBoy/Apps
 ccleaner_DoveBoy.json,DoveBoy/Apps
 bililive-go.json,DoveBoy/Apps
 clumsy_DoveBoy.json,DoveBoy/Apps
-animeko.json,DoveBoy/Apps
+animeko_DoveBoy.json,DoveBoy/Apps
 pixivutil2.json,DoveBoy/Apps
 explorerpatcher.json,DoveBoy/Apps
 pansy.json,DoveBoy/Apps
@@ -10201,7 +10204,6 @@ fix-print-spooler_DoveBoy.json,DoveBoy/Apps
 walk_DoveBoy.json,DoveBoy/Apps
 tageditor_DoveBoy.json,DoveBoy/Apps
 video-srt-windows-with-ffmpeg.json,DoveBoy/Apps
-mobaxterm.json,DoveBoy/Apps
 v2ray-rules-dat-git.json,DoveBoy/Apps
 openssh_DoveBoy.json,DoveBoy/Apps
 flclash-portable.json,DoveBoy/Apps
@@ -10406,7 +10408,7 @@ arthas_zhoujin7.json,zhoujin7/tomato
 CapsLockIndicator.json,zhoujin7/tomato
 zipkin-dependencies.json,zhoujin7/tomato
 EmEditor_zhoujin7.json,zhoujin7/tomato
-Q-Dir.json,zhoujin7/tomato
+Q-Dir_zhoujin7.json,zhoujin7/tomato
 lockhunter-np_zhoujin7.json,zhoujin7/tomato
 Nacos.json,zhoujin7/tomato
 XJad.json,zhoujin7/tomato
@@ -11644,7 +11646,7 @@ querydacl.json,brian6932/dank-scoop
 apngasm-gui.json,brian6932/dank-scoop
 google-usb-driver.json,brian6932/dank-scoop
 powercolorls.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 bgutil-ytdlp-pot-provider.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 svg_to_ico.json,brian6932/dank-scoop
@@ -12978,7 +12980,7 @@ sam-rewritten.json,starise/Scoop-Gaming
 nvidia-physx-legacy.json,starise/Scoop-Gaming
 nvidia-geforce-experience.json,starise/Scoop-Gaming
 php74-nts.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 kiwix_aoisummer.json,aoisummer/scoop-bucket
 you-get_aoisummer.json,aoisummer/scoop-bucket
 clash-for-windows_aoisummer.json,aoisummer/scoop-bucket
@@ -14236,7 +14238,7 @@ soldat.json,Deide/deide-bucket
 ps3-firmware.json,Deide/deide-bucket
 openra_Deide.json,Deide/deide-bucket
 polymc.json,Deide/deide-bucket
-gogdl.json,Deide/deide-bucket
+gogdl_Deide.json,Deide/deide-bucket
 azahar.json,Deide/deide-bucket
 edtracker.json,Deide/deide-bucket
 project64.json,Deide/deide-bucket
@@ -15317,7 +15319,7 @@ godot3-kotlin-jvm.json,windedge/ladle-bucket
 lem.json,windedge/ladle-bucket
 gotify-tray.json,windedge/ladle-bucket
 scia-reto.json,windedge/ladle-bucket
-forgecode_windedge.json,windedge/ladle-bucket
+forgecode.json,windedge/ladle-bucket
 weasyprint_windedge.json,windedge/ladle-bucket
 temurin20-jdk_windedge.json,windedge/ladle-bucket
 tiny-rdm.json,windedge/ladle-bucket
