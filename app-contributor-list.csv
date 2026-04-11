@@ -3082,7 +3082,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -4221,7 +4221,7 @@ wegame.json,Scoopforge/Extras-CN
 pixpin.json,Scoopforge/Extras-CN
 lceda.json,Scoopforge/Extras-CN
 tencent-meeting.json,Scoopforge/Extras-CN
-baidunetdisk.json,Scoopforge/Extras-CN
+baidunetdisk_Scoopforge.json,Scoopforge/Extras-CN
 edrawmax.json,Scoopforge/Extras-CN
 misakatranslator.json,Scoopforge/Extras-CN
 wechatdevtools_Scoopforge.json,Scoopforge/Extras-CN
@@ -9944,7 +9944,7 @@ urlfinder.json,DoveBoy/Apps
 ccleaner_DoveBoy.json,DoveBoy/Apps
 bililive-go.json,DoveBoy/Apps
 clumsy_DoveBoy.json,DoveBoy/Apps
-animeko_DoveBoy.json,DoveBoy/Apps
+animeko.json,DoveBoy/Apps
 pixivutil2.json,DoveBoy/Apps
 explorerpatcher.json,DoveBoy/Apps
 pansy.json,DoveBoy/Apps
@@ -15319,7 +15319,7 @@ godot3-kotlin-jvm.json,windedge/ladle-bucket
 lem.json,windedge/ladle-bucket
 gotify-tray.json,windedge/ladle-bucket
 scia-reto.json,windedge/ladle-bucket
-forgecode.json,windedge/ladle-bucket
+forgecode_windedge.json,windedge/ladle-bucket
 weasyprint_windedge.json,windedge/ladle-bucket
 temurin20-jdk_windedge.json,windedge/ladle-bucket
 tiny-rdm.json,windedge/ladle-bucket
