@@ -8637,7 +8637,7 @@ fceux.json,hermanjustnu/scoop-emulators
 mednaffe_hermanjustnu.json,hermanjustnu/scoop-emulators
 yuzu.json,hermanjustnu/scoop-emulators
 model-b.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 stella_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 steam-rom-manager_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -8798,7 +8798,7 @@ discordcompressor.json,couleur-tweak-tips/utils
 ezshare.json,couleur-tweak-tips/utils
 utvideo.json,couleur-tweak-tips/utils
 duckstation-preview_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
@@ -10282,7 +10282,7 @@ sing-box_DoveBoy.json,DoveBoy/Apps
 rickrack.json,DoveBoy/Apps
 mihomo-compatible.json,DoveBoy/Apps
 shadowsocks-rust_DoveBoy.json,DoveBoy/Apps
-sandboxie-plus_DoveBoy.json,DoveBoy/Apps
+sandboxie-plus.json,DoveBoy/Apps
 p1soda.json,DoveBoy/Apps
 iobit-undelete_DoveBoy.json,DoveBoy/Apps
 unigetui-beta.json,DoveBoy/Apps
