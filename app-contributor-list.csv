@@ -3082,7 +3082,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -8636,7 +8636,7 @@ fceux.json,hermanjustnu/scoop-emulators
 mednaffe_hermanjustnu.json,hermanjustnu/scoop-emulators
 yuzu.json,hermanjustnu/scoop-emulators
 model-b.json,hermanjustnu/scoop-emulators
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 stella_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 steam-rom-manager_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -9947,7 +9947,7 @@ urlfinder.json,DoveBoy/Apps
 ccleaner_DoveBoy.json,DoveBoy/Apps
 bililive-go.json,DoveBoy/Apps
 clumsy_DoveBoy.json,DoveBoy/Apps
-animeko.json,DoveBoy/Apps
+animeko_DoveBoy.json,DoveBoy/Apps
 pixivutil2.json,DoveBoy/Apps
 explorerpatcher.json,DoveBoy/Apps
 pansy.json,DoveBoy/Apps
@@ -10749,7 +10749,7 @@ arturo-nightly.json,amorphobia/siku
 mihomo-v3.json,amorphobia/siku
 rust-sl.json,amorphobia/siku
 mdict_amorphobia.json,amorphobia/siku
-filebrowser.json,amorphobia/siku
+filebrowser_amorphobia.json,amorphobia/siku
 imazing-converter.json,amorphobia/siku
 gitea-runner.json,amorphobia/siku
 cargo-binstall_amorphobia.json,amorphobia/siku
@@ -11649,7 +11649,7 @@ querydacl.json,brian6932/dank-scoop
 apngasm-gui.json,brian6932/dank-scoop
 google-usb-driver.json,brian6932/dank-scoop
 powercolorls.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 bgutil-ytdlp-pot-provider.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 svg_to_ico.json,brian6932/dank-scoop
@@ -12928,7 +12928,6 @@ beatsaber-modmanager.json,babo4d/scoop-xrtools
 hyper-dbz.json,babo4d/scoop-xrtools
 opentrack_babo4d.json,babo4d/scoop-xrtools
 emuvr.json,babo4d/scoop-xrtools
-tts-voice-wizard_babo4d.json,babo4d/scoop-xrtools
 openra-combined-arms.json,babo4d/scoop-xrtools
 ikemen-go.json,babo4d/scoop-xrtools
 drl.json,babo4d/scoop-xrtools
@@ -13314,7 +13313,7 @@ qimgv-dev.json,cc713/ownscoop
 nomacs_cc713.json,cc713/ownscoop
 OpenHashTab_cc713.json,cc713/ownscoop
 mpv.net-DW.json,cc713/ownscoop
-LunaTranslator.json,cc713/ownscoop
+LunaTranslator_cc713.json,cc713/ownscoop
 lx-music_cc713.json,cc713/ownscoop
 Hitomi-Downloader_cc713.json,cc713/ownscoop
 qimgv-video_cc713.json,cc713/ownscoop
