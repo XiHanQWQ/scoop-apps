@@ -2144,7 +2144,7 @@ midicsv.json,ScoopInstaller/Extras
 tumblthree.json,ScoopInstaller/Extras
 bleachbit.json,ScoopInstaller/Extras
 video-thumbnails-maker.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 ip2location-io-cli.json,ScoopInstaller/Extras
 qefi-entry-manager.json,ScoopInstaller/Extras
 ddu.json,ScoopInstaller/Extras
@@ -8637,7 +8637,7 @@ fceux.json,hermanjustnu/scoop-emulators
 mednaffe_hermanjustnu.json,hermanjustnu/scoop-emulators
 yuzu.json,hermanjustnu/scoop-emulators
 model-b.json,hermanjustnu/scoop-emulators
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 stella_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 steam-rom-manager_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -8798,7 +8798,7 @@ discordcompressor.json,couleur-tweak-tips/utils
 ezshare.json,couleur-tweak-tips/utils
 utvideo.json,couleur-tweak-tips/utils
 duckstation-preview_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
@@ -9908,6 +9908,7 @@ helix_DoveBoy.json,DoveBoy/Apps
 ttime.json,DoveBoy/Apps
 ripgrep_DoveBoy.json,DoveBoy/Apps
 treesize_DoveBoy.json,DoveBoy/Apps
+electerm_DoveBoy.json,DoveBoy/Apps
 mpv-git_DoveBoy.json,DoveBoy/Apps
 calctus.json,DoveBoy/Apps
 googletranslateipcheck.json,DoveBoy/Apps
@@ -9948,7 +9949,7 @@ urlfinder.json,DoveBoy/Apps
 ccleaner_DoveBoy.json,DoveBoy/Apps
 bililive-go.json,DoveBoy/Apps
 clumsy_DoveBoy.json,DoveBoy/Apps
-animeko.json,DoveBoy/Apps
+animeko_DoveBoy.json,DoveBoy/Apps
 pixivutil2.json,DoveBoy/Apps
 explorerpatcher.json,DoveBoy/Apps
 pansy.json,DoveBoy/Apps
@@ -9958,7 +9959,7 @@ ftpserver.json,DoveBoy/Apps
 picotorrent_DoveBoy.json,DoveBoy/Apps
 convert.net_DoveBoy.json,DoveBoy/Apps
 cheat-engine_DoveBoy.json,DoveBoy/Apps
-dandanplay.json,DoveBoy/Apps
+dandanplay_DoveBoy.json,DoveBoy/Apps
 so-novel.json,DoveBoy/Apps
 joplin-pre_DoveBoy.json,DoveBoy/Apps
 psreadline_DoveBoy.json,DoveBoy/Apps
@@ -11722,7 +11723,7 @@ querydacl.json,brian6932/dank-scoop
 apngasm-gui.json,brian6932/dank-scoop
 google-usb-driver.json,brian6932/dank-scoop
 powercolorls.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 bgutil-ytdlp-pot-provider.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 svg_to_ico.json,brian6932/dank-scoop
