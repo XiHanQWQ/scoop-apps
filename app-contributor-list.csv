@@ -5059,6 +5059,7 @@ miniconda3-py38.json,ScoopInstaller/Versions
 php73-xdebug.json,ScoopInstaller/Versions
 go120.json,ScoopInstaller/Versions
 brave-beta.json,ScoopInstaller/Versions
+n-m3u8dl-re-beta.json,ScoopInstaller/Versions
 postgresql17.json,ScoopInstaller/Versions
 googlechrome-dev.json,ScoopInstaller/Versions
 oracle-instant-client19.json,ScoopInstaller/Versions
@@ -8272,7 +8273,7 @@ NaotuMini.json,dodorz/scoop
 LightAlloy.json,dodorz/scoop
 CloverPdf.json,dodorz/scoop
 Capture2Text_dodorz.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 YoudaoDict.json,dodorz/scoop
 Jamjams.json,dodorz/scoop
 ssed.json,dodorz/scoop
@@ -8427,7 +8428,7 @@ Inpaint-np.json,dodorz/scoop
 Unison-GUI.json,dodorz/scoop
 JaneReader.json,dodorz/scoop
 RegSeeker.json,dodorz/scoop
-Notepad--.json,dodorz/scoop
+Notepad--_dodorz.json,dodorz/scoop
 OfficeCLI.json,dodorz/scoop
 justmd.json,dodorz/scoop
 EvilPlayer.json,dodorz/scoop
@@ -8940,7 +8941,7 @@ chmac.json,ViCrack/scoop-bucket
 transfer.json,ViCrack/scoop-bucket
 apifox.json,ViCrack/scoop-bucket
 revokemsgpatcher_ViCrack.json,ViCrack/scoop-bucket
-feishurevokemsgpatcher.json,ViCrack/scoop-bucket
+feishurevokemsgpatcher_ViCrack.json,ViCrack/scoop-bucket
 rakshasa.json,ViCrack/scoop-bucket
 1remote.json,ViCrack/scoop-bucket
 siyuan-ce.json,ViCrack/scoop-bucket
@@ -9843,7 +9844,7 @@ network-profile-name-changer_DoveBoy.json,DoveBoy/Apps
 picturecleaner.json,DoveBoy/Apps
 r3play.json,DoveBoy/Apps
 readest_DoveBoy.json,DoveBoy/Apps
-neteaseuu_DoveBoy.json,DoveBoy/Apps
+neteaseuu.json,DoveBoy/Apps
 w64devkit_DoveBoy.json,DoveBoy/Apps
 gitalias.json,DoveBoy/Apps
 freecontrol.json,DoveBoy/Apps
