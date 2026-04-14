@@ -3084,7 +3084,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -6592,7 +6592,7 @@ audacity-lame-plugin.json,rasa/scoops
 ejecttcv.json,rasa/scoops
 hhreg.json,rasa/scoops
 kpcli.json,rasa/scoops
-brave_rasa.json,rasa/scoops
+brave.json,rasa/scoops
 nirlauncher_rasa.json,rasa/scoops
 cpdf.json,rasa/scoops
 lsdsk.json,rasa/scoops
@@ -8274,7 +8274,7 @@ NaotuMini.json,dodorz/scoop
 LightAlloy.json,dodorz/scoop
 CloverPdf.json,dodorz/scoop
 Capture2Text_dodorz.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 YoudaoDict.json,dodorz/scoop
 Jamjams.json,dodorz/scoop
 ssed.json,dodorz/scoop
@@ -8701,7 +8701,7 @@ pcsx2-sse4-qt.json,hermanjustnu/scoop-emulators
 winuae.json,hermanjustnu/scoop-emulators
 dolphin-beta.json,hermanjustnu/scoop-emulators
 desmume.json,hermanjustnu/scoop-emulators
-snes9x-dev.json,hermanjustnu/scoop-emulators
+snes9x-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 cemuhook.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 whois_niheaven.json,niheaven/scoop-sysinternals
@@ -9525,6 +9525,7 @@ pup_akirco.json,akirco/aki-apps
 time_akirco.json,akirco/aki-apps
 vcredist2010_akirco.json,akirco/aki-apps
 dingtalk_akirco.json,akirco/aki-apps
+fluent-reader_akirco.json,akirco/aki-apps
 svtplay-dl_akirco.json,akirco/aki-apps
 git-town_akirco.json,akirco/aki-apps
 bob.json,akirco/aki-apps
@@ -9567,7 +9568,7 @@ visualvm_TheRandomLabs.json,TheRandomLabs/Scoop-Bucket
 win10-initial-setup-script.json,TheRandomLabs/Scoop-Bucket
 ffmpeg-for-audacity.json,TheRandomLabs/Scoop-Bucket
 neovim-dev.json,TheRandomLabs/Scoop-Bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
@@ -9845,7 +9846,7 @@ network-profile-name-changer_DoveBoy.json,DoveBoy/Apps
 picturecleaner.json,DoveBoy/Apps
 r3play.json,DoveBoy/Apps
 readest_DoveBoy.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 w64devkit_DoveBoy.json,DoveBoy/Apps
 gitalias.json,DoveBoy/Apps
 freecontrol.json,DoveBoy/Apps
@@ -11724,7 +11725,7 @@ querydacl.json,brian6932/dank-scoop
 apngasm-gui.json,brian6932/dank-scoop
 google-usb-driver.json,brian6932/dank-scoop
 powercolorls.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 bgutil-ytdlp-pot-provider.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 svg_to_ico.json,brian6932/dank-scoop
@@ -13022,7 +13023,7 @@ sam-rewritten.json,starise/Scoop-Gaming
 nvidia-physx-legacy.json,starise/Scoop-Gaming
 nvidia-geforce-experience.json,starise/Scoop-Gaming
 php74-nts.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 kiwix_aoisummer.json,aoisummer/scoop-bucket
 you-get_aoisummer.json,aoisummer/scoop-bucket
 clash-for-windows_aoisummer.json,aoisummer/scoop-bucket
