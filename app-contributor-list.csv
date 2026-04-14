@@ -1541,7 +1541,7 @@ meld.json,ScoopInstaller/Extras
 audacious.json,ScoopInstaller/Extras
 eiskaltdcpp.json,ScoopInstaller/Extras
 deskpins.json,ScoopInstaller/Extras
-jetbrains-toolbox_ScoopInstaller.json,ScoopInstaller/Extras
+jetbrains-toolbox.json,ScoopInstaller/Extras
 color-cop.json,ScoopInstaller/Extras
 pass-winmenu-nogpg.json,ScoopInstaller/Extras
 proxypin.json,ScoopInstaller/Extras
@@ -5490,6 +5490,7 @@ azuredatastudio-insiders.json,ScoopInstaller/Versions
 rstudio-daily.json,ScoopInstaller/Versions
 cuda11.5.json,ScoopInstaller/Versions
 spotbugs-beta.json,ScoopInstaller/Versions
+bleachbit-beta.json,ScoopInstaller/Versions
 cuda11.8.json,ScoopInstaller/Versions
 komorebi-nightly.json,ScoopInstaller/Versions
 konversation-nightly.json,ScoopInstaller/Versions
@@ -10952,6 +10953,7 @@ markdown-edit.json,naderi/scoop-bucket
 wxhexeditor_naderi.json,naderi/scoop-bucket
 leomoon-parsinegar.json,naderi/scoop-bucket
 tweakpower_naderi.json,naderi/scoop-bucket
+exiv2.json,naderi/scoop-bucket
 claude-code_naderi.json,naderi/scoop-bucket
 mitec-network-scanner.json,naderi/scoop-bucket
 grep-win.json,naderi/scoop-bucket
@@ -11100,6 +11102,7 @@ uget-portable.json,naderi/scoop-bucket
 amp-font-viewer.json,naderi/scoop-bucket
 halite_naderi.json,naderi/scoop-bucket
 teamlink.json,naderi/scoop-bucket
+writemonkey_naderi.json,naderi/scoop-bucket
 pympress_naderi.json,naderi/scoop-bucket
 faster-whisper-standalone.json,naderi/scoop-bucket
 clink-portable.json,naderi/scoop-bucket
@@ -12741,7 +12744,7 @@ shellexview-zhs.json,seumsc/scoop-seu
 mhc2-dev.json,seumsc/scoop-seu
 mahjong-helper_seumsc.json,seumsc/scoop-seu
 hmcl-dev.json,seumsc/scoop-seu
-navicat-premium-lite_seumsc.json,seumsc/scoop-seu
+navicat-premium-lite.json,seumsc/scoop-seu
 steamcommunity-302.json,seumsc/scoop-seu
 cpachecker.json,seumsc/scoop-seu
 videosubfinder.json,seumsc/scoop-seu
