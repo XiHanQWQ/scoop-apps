@@ -3084,7 +3084,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -8701,7 +8701,7 @@ pcsx2-sse4-qt.json,hermanjustnu/scoop-emulators
 winuae.json,hermanjustnu/scoop-emulators
 dolphin-beta.json,hermanjustnu/scoop-emulators
 desmume.json,hermanjustnu/scoop-emulators
-snes9x-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+snes9x-dev.json,hermanjustnu/scoop-emulators
 cemuhook.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 whois_niheaven.json,niheaven/scoop-sysinternals
@@ -9525,7 +9525,6 @@ pup_akirco.json,akirco/aki-apps
 time_akirco.json,akirco/aki-apps
 vcredist2010_akirco.json,akirco/aki-apps
 dingtalk_akirco.json,akirco/aki-apps
-fluent-reader_akirco.json,akirco/aki-apps
 svtplay-dl_akirco.json,akirco/aki-apps
 git-town_akirco.json,akirco/aki-apps
 bob.json,akirco/aki-apps
@@ -9568,7 +9567,7 @@ visualvm_TheRandomLabs.json,TheRandomLabs/Scoop-Bucket
 win10-initial-setup-script.json,TheRandomLabs/Scoop-Bucket
 ffmpeg-for-audacity.json,TheRandomLabs/Scoop-Bucket
 neovim-dev.json,TheRandomLabs/Scoop-Bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
@@ -15218,7 +15217,7 @@ everything-alpha_maboloshi.json,maboloshi/scoop-private
 wechat_maboloshi.json,maboloshi/scoop-private
 monitorian.json,maboloshi/scoop-private
 ima-copilot_maboloshi.json,maboloshi/scoop-private
-sublime-merge.json,maboloshi/scoop-private
+sublime-merge_maboloshi.json,maboloshi/scoop-private
 pot_maboloshi.json,maboloshi/scoop-private
 brave_maboloshi.json,maboloshi/scoop-private
 fonts-cesi.json,maboloshi/scoop-private
