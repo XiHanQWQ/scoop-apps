@@ -2281,6 +2281,7 @@ buckets.json,ScoopInstaller/Extras
 raspberry-pi-imager.json,ScoopInstaller/Extras
 perfview.json,ScoopInstaller/Extras
 clumsy.json,ScoopInstaller/Extras
+fluenttaskscheduler.json,ScoopInstaller/Extras
 winfbe.json,ScoopInstaller/Extras
 breitbandmessung.json,ScoopInstaller/Extras
 recaps.json,ScoopInstaller/Extras
@@ -3084,7 +3085,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -5127,6 +5128,7 @@ tomcat11.json,ScoopInstaller/Versions
 python313.json,ScoopInstaller/Versions
 youtube-dlc.json,ScoopInstaller/Versions
 docker-nightly.json,ScoopInstaller/Versions
+spark3-scala2.13.json,ScoopInstaller/Versions
 python-alpha.json,ScoopInstaller/Versions
 geogebra5.json,ScoopInstaller/Versions
 fluxctl.json,ScoopInstaller/Versions
@@ -5335,6 +5337,7 @@ nodejs-nightly.json,ScoopInstaller/Versions
 love6.json,ScoopInstaller/Versions
 ruby32.json,ScoopInstaller/Versions
 idea-rc.json,ScoopInstaller/Versions
+ghidra92.json,ScoopInstaller/Versions
 inkscape-dev.json,ScoopInstaller/Versions
 rustdesk-nightly.json,ScoopInstaller/Versions
 php73.json,ScoopInstaller/Versions
@@ -5461,6 +5464,7 @@ cuda7.0.json,ScoopInstaller/Versions
 ipfilter-nightly.json,ScoopInstaller/Versions
 elasticsearch2.json,ScoopInstaller/Versions
 oh-my-posh2.json,ScoopInstaller/Versions
+briar-beta.json,ScoopInstaller/Versions
 v2rayn-desktop.json,ScoopInstaller/Versions
 go122.json,ScoopInstaller/Versions
 php84.json,ScoopInstaller/Versions
@@ -5520,7 +5524,6 @@ zeebe1.3.json,ScoopInstaller/Versions
 everything-beta.json,ScoopInstaller/Versions
 teamcity-rc.json,ScoopInstaller/Versions
 vivaldi-snapshot.json,ScoopInstaller/Versions
-spark-scala2.13.json,ScoopInstaller/Versions
 zettlr-nightly.json,ScoopInstaller/Versions
 dotnet-sdk-preview.json,ScoopInstaller/Versions
 sharex-dev.json,ScoopInstaller/Versions
@@ -5577,6 +5580,7 @@ winget1.4.json,ScoopInstaller/Versions
 chromium-dev-nosync.json,ScoopInstaller/Versions
 processhacker-nightly.json,ScoopInstaller/Versions
 winget1.5.json,ScoopInstaller/Versions
+spark-scala2.13.json,ScoopInstaller/Versions
 archi44.json,ScoopInstaller/Versions
 spicetify-themes_TheRandomLabs.json,TheRandomLabs/Scoop-Spotify
 spotify-with-blockthespot.json,TheRandomLabs/Scoop-Spotify
@@ -9318,7 +9322,7 @@ dim.json,akirco/aki-apps
 aya.json,akirco/aki-apps
 obs-studio_akirco.json,akirco/aki-apps
 silentcmd_akirco.json,akirco/aki-apps
-trae-cn_akirco.json,akirco/aki-apps
+trae-cn.json,akirco/aki-apps
 dvm_akirco.json,akirco/aki-apps
 firefox-zh-cn_akirco.json,akirco/aki-apps
 warp_akirco.json,akirco/aki-apps
@@ -14938,7 +14942,7 @@ qrencode_404NetworkError.json,404NetworkError/scoop-bucket
 qbittorrent-enhanced_404NetworkError.json,404NetworkError/scoop-bucket
 windowsdesktop-runtime_404NetworkError.json,404NetworkError/scoop-bucket
 winobjex64_404NetworkError.json,404NetworkError/scoop-bucket
-windowsdesktop-runtime-9.0_404NetworkError.json,404NetworkError/scoop-bucket
+windowsdesktop-runtime-9.0.json,404NetworkError/scoop-bucket
 uutils-findutils.json,404NetworkError/scoop-bucket
 lamexp-nightly.json,404NetworkError/scoop-bucket
 spek-alternative.json,404NetworkError/scoop-bucket
