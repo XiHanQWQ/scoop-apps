@@ -8407,6 +8407,7 @@ XVI32.json,dodorz/scoop
 winpty-msys2.json,dodorz/scoop
 LazyTyper.json,dodorz/scoop
 adobe-source-han-sans-hk-fonts.json,dodorz/scoop
+Voicebox.json,dodorz/scoop
 Qute.json,dodorz/scoop
 Jarte.json,dodorz/scoop
 Kiro_dodorz.json,dodorz/scoop
@@ -8940,7 +8941,7 @@ bluelife-keyfreeze.json,ViCrack/scoop-bucket
 quake_rs_ViCrack.json,ViCrack/scoop-bucket
 chmac.json,ViCrack/scoop-bucket
 transfer.json,ViCrack/scoop-bucket
-apifox.json,ViCrack/scoop-bucket
+apifox_ViCrack.json,ViCrack/scoop-bucket
 revokemsgpatcher_ViCrack.json,ViCrack/scoop-bucket
 feishurevokemsgpatcher_ViCrack.json,ViCrack/scoop-bucket
 rakshasa.json,ViCrack/scoop-bucket
@@ -9262,6 +9263,7 @@ lepton_akirco.json,akirco/aki-apps
 gdu_akirco.json,akirco/aki-apps
 flutter_akirco.json,akirco/aki-apps
 cpu-z_akirco.json,akirco/aki-apps
+bilibili-livehime.json,akirco/aki-apps
 nali_akirco.json,akirco/aki-apps
 netcat_akirco.json,akirco/aki-apps
 wechat_akirco.json,akirco/aki-apps
