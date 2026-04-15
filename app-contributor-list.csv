@@ -1541,7 +1541,7 @@ meld.json,ScoopInstaller/Extras
 audacious.json,ScoopInstaller/Extras
 eiskaltdcpp.json,ScoopInstaller/Extras
 deskpins.json,ScoopInstaller/Extras
-jetbrains-toolbox.json,ScoopInstaller/Extras
+jetbrains-toolbox_ScoopInstaller.json,ScoopInstaller/Extras
 color-cop.json,ScoopInstaller/Extras
 pass-winmenu-nogpg.json,ScoopInstaller/Extras
 proxypin.json,ScoopInstaller/Extras
@@ -4207,7 +4207,7 @@ miniforge-cn.json,Scoopforge/Extras-CN
 wpsoffice-cn.json,Scoopforge/Extras-CN
 qt-creator-cn.json,Scoopforge/Extras-CN
 edrawmax8.json,Scoopforge/Extras-CN
-utools.json,Scoopforge/Extras-CN
+utools_Scoopforge.json,Scoopforge/Extras-CN
 msys2-cn_Scoopforge.json,Scoopforge/Extras-CN
 cajviewer_Scoopforge.json,Scoopforge/Extras-CN
 obs-studio-cn.json,Scoopforge/Extras-CN
@@ -9268,7 +9268,6 @@ lepton_akirco.json,akirco/aki-apps
 gdu_akirco.json,akirco/aki-apps
 flutter_akirco.json,akirco/aki-apps
 cpu-z_akirco.json,akirco/aki-apps
-bilibili-livehime.json,akirco/aki-apps
 nali_akirco.json,akirco/aki-apps
 netcat_akirco.json,akirco/aki-apps
 wechat_akirco.json,akirco/aki-apps
@@ -9322,7 +9321,7 @@ dim.json,akirco/aki-apps
 aya.json,akirco/aki-apps
 obs-studio_akirco.json,akirco/aki-apps
 silentcmd_akirco.json,akirco/aki-apps
-trae-cn.json,akirco/aki-apps
+trae-cn_akirco.json,akirco/aki-apps
 dvm_akirco.json,akirco/aki-apps
 firefox-zh-cn_akirco.json,akirco/aki-apps
 warp_akirco.json,akirco/aki-apps
@@ -9967,7 +9966,7 @@ ftpserver.json,DoveBoy/Apps
 picotorrent_DoveBoy.json,DoveBoy/Apps
 convert.net_DoveBoy.json,DoveBoy/Apps
 cheat-engine_DoveBoy.json,DoveBoy/Apps
-dandanplay.json,DoveBoy/Apps
+dandanplay_DoveBoy.json,DoveBoy/Apps
 so-novel.json,DoveBoy/Apps
 joplin-pre_DoveBoy.json,DoveBoy/Apps
 psreadline_DoveBoy.json,DoveBoy/Apps
@@ -11734,7 +11733,7 @@ querydacl.json,brian6932/dank-scoop
 apngasm-gui.json,brian6932/dank-scoop
 google-usb-driver.json,brian6932/dank-scoop
 powercolorls.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 bgutil-ytdlp-pot-provider.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 svg_to_ico.json,brian6932/dank-scoop
@@ -14942,7 +14941,7 @@ qrencode_404NetworkError.json,404NetworkError/scoop-bucket
 qbittorrent-enhanced_404NetworkError.json,404NetworkError/scoop-bucket
 windowsdesktop-runtime_404NetworkError.json,404NetworkError/scoop-bucket
 winobjex64_404NetworkError.json,404NetworkError/scoop-bucket
-windowsdesktop-runtime-9.0.json,404NetworkError/scoop-bucket
+windowsdesktop-runtime-9.0_404NetworkError.json,404NetworkError/scoop-bucket
 uutils-findutils.json,404NetworkError/scoop-bucket
 lamexp-nightly.json,404NetworkError/scoop-bucket
 spek-alternative.json,404NetworkError/scoop-bucket
