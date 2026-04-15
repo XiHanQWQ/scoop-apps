@@ -3085,7 +3085,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -9359,7 +9359,7 @@ z_akirco.json,akirco/aki-apps
 qq-nt_akirco.json,akirco/aki-apps
 gradle_akirco.json,akirco/aki-apps
 prince_akirco.json,akirco/aki-apps
-Qoder_akirco.json,akirco/aki-apps
+Qoder.json,akirco/aki-apps
 vcredist2008.json,akirco/aki-apps
 unzip_akirco.json,akirco/aki-apps
 mtn_akirco.json,akirco/aki-apps
@@ -9744,7 +9744,7 @@ picacomic-downloader-portable.json,DoveBoy/Apps
 openssl_DoveBoy.json,DoveBoy/Apps
 lux_DoveBoy.json,DoveBoy/Apps
 experimental-clash.json,DoveBoy/Apps
-officetoolplus.json,DoveBoy/Apps
+officetoolplus_DoveBoy.json,DoveBoy/Apps
 john-the-ripper.json,DoveBoy/Apps
 reqable_DoveBoy.json,DoveBoy/Apps
 pastebarapp-portable.json,DoveBoy/Apps
@@ -9878,7 +9878,7 @@ b0pass.json,DoveBoy/Apps
 ffmpeg_DoveBoy.json,DoveBoy/Apps
 chromium_DoveBoy.json,DoveBoy/Apps
 heu-kms-activator_DoveBoy.json,DoveBoy/Apps
-unigetui_DoveBoy.json,DoveBoy/Apps
+unigetui.json,DoveBoy/Apps
 go-drive.json,DoveBoy/Apps
 pdfqfz.json,DoveBoy/Apps
 typora-dev_DoveBoy.json,DoveBoy/Apps
@@ -12659,7 +12659,7 @@ cpachecker.json,seumsc/scoop-seu
 videosubfinder.json,seumsc/scoop-seu
 kindlegen_seumsc.json,seumsc/scoop-seu
 autowikibrowser.json,seumsc/scoop-seu
-kook_seumsc.json,seumsc/scoop-seu
+kook.json,seumsc/scoop-seu
 archisteamfarm-generic.json,seumsc/scoop-seu
 musicdecrypto.json,seumsc/scoop-seu
 shterm-alt.json,seumsc/scoop-seu
@@ -13057,7 +13057,7 @@ ffftp.json,jfut/scoop-jfut
 kokomite.json,jfut/scoop-jfut
 clnch.json,jfut/scoop-jfut
 sudo_jfut.json,jfut/scoop-jfut
-autopsy_jfut.json,jfut/scoop-jfut
+autopsy.json,jfut/scoop-jfut
 hootvoice.json,jfut/scoop-jfut
 lyricsmaster.json,jfut/scoop-jfut
 irfanview.ja.json,jfut/scoop-jfut
@@ -14878,7 +14878,7 @@ winsetview_404NetworkError.json,404NetworkError/scoop-bucket
 lamexp-qaac-nightly.json,404NetworkError/scoop-bucket
 yumi_404NetworkError.json,404NetworkError/scoop-bucket
 gopherrenewed.json,404NetworkError/scoop-bucket
-ferrite_404NetworkError.json,404NetworkError/scoop-bucket
+ferrite.json,404NetworkError/scoop-bucket
 mullvadvpn-nightly-np.json,404NetworkError/scoop-bucket
 bdinfo_404NetworkError.json,404NetworkError/scoop-bucket
 curseforge.json,404NetworkError/scoop-bucket
