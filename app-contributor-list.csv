@@ -2581,7 +2581,7 @@ kanata-cmd.json,ScoopInstaller/Extras
 fastcopy.json,ScoopInstaller/Extras
 cascadeur.json,ScoopInstaller/Extras
 mongodb-compass.json,ScoopInstaller/Extras
-vscode_ScoopInstaller.json,ScoopInstaller/Extras
+vscode.json,ScoopInstaller/Extras
 gui-for-clash.json,ScoopInstaller/Extras
 jasper.json,ScoopInstaller/Extras
 cookiecutter.json,ScoopInstaller/Extras
@@ -12797,6 +12797,7 @@ neohtop_TianXiaTech.json,TianXiaTech/scoop-txt
 picgo_TianXiaTech.json,TianXiaTech/scoop-txt
 cursor_TianXiaTech.json,TianXiaTech/scoop-txt
 NoFWL.json,TianXiaTech/scoop-txt
+youwee.json,TianXiaTech/scoop-txt
 cherry-studio_TianXiaTech.json,TianXiaTech/scoop-txt
 whisper-cpp_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
