@@ -3085,7 +3085,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -8213,6 +8213,7 @@ NexusFile.json,dodorz/scoop
 Hanama.json,dodorz/scoop
 CopyHandler.json,dodorz/scoop
 md5sums.json,dodorz/scoop
+SoloMD.json,dodorz/scoop
 CoverYourTracks.json,dodorz/scoop
 Glint.json,dodorz/scoop
 ScreenCapture.json,dodorz/scoop
