@@ -8984,6 +8984,7 @@ quasar.json,ViCrack/scoop-bucket
 woodpecker_ViCrack.json,ViCrack/scoop-bucket
 httpx_ViCrack.json,ViCrack/scoop-bucket
 chatlab.json,ViCrack/scoop-bucket
+ztools.json,ViCrack/scoop-bucket
 java-memshell-generator.json,ViCrack/scoop-bucket
 sublinkpro.json,ViCrack/scoop-bucket
 pixpin_ViCrack.json,ViCrack/scoop-bucket
@@ -10979,6 +10980,7 @@ mp4muxer.json,naderi/scoop-bucket
 ydl-ui-portable.json,naderi/scoop-bucket
 hfs_naderi.json,naderi/scoop-bucket
 netsetman.json,naderi/scoop-bucket
+windows-11-context-menu-manager.json,naderi/scoop-bucket
 dev-cpp_naderi.json,naderi/scoop-bucket
 win-aio.json,naderi/scoop-bucket
 fontviewok.json,naderi/scoop-bucket
@@ -11098,6 +11100,7 @@ screenshot-captor.json,naderi/scoop-bucket
 chrome-canary-portable.json,naderi/scoop-bucket
 mitec-json-viewer.json,naderi/scoop-bucket
 font-farbod.json,naderi/scoop-bucket
+encrypto_naderi.json,naderi/scoop-bucket
 cherry-studio_naderi.json,naderi/scoop-bucket
 totalcommander-beta-portable.json,naderi/scoop-bucket
 rtools_naderi.json,naderi/scoop-bucket
@@ -14878,7 +14881,6 @@ winsetview_404NetworkError.json,404NetworkError/scoop-bucket
 lamexp-qaac-nightly.json,404NetworkError/scoop-bucket
 yumi_404NetworkError.json,404NetworkError/scoop-bucket
 gopherrenewed.json,404NetworkError/scoop-bucket
-ferrite.json,404NetworkError/scoop-bucket
 mullvadvpn-nightly-np.json,404NetworkError/scoop-bucket
 bdinfo_404NetworkError.json,404NetworkError/scoop-bucket
 curseforge.json,404NetworkError/scoop-bucket
