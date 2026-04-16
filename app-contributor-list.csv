@@ -2145,7 +2145,7 @@ midicsv.json,ScoopInstaller/Extras
 tumblthree.json,ScoopInstaller/Extras
 bleachbit.json,ScoopInstaller/Extras
 video-thumbnails-maker.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 ip2location-io-cli.json,ScoopInstaller/Extras
 qefi-entry-manager.json,ScoopInstaller/Extras
 ddu.json,ScoopInstaller/Extras
@@ -6322,7 +6322,7 @@ procmon.json,scoopcn/scoopcn
 kwmusic.json,scoopcn/scoopcn
 dingtalk-gov.json,scoopcn/scoopcn
 neo4jbrowser.json,scoopcn/scoopcn
-feishu_scoopcn.json,scoopcn/scoopcn
+feishu.json,scoopcn/scoopcn
 unity3d.json,scoopcn/scoopcn
 apifox_scoopcn.json,scoopcn/scoopcn
 xt800agent.json,scoopcn/scoopcn
@@ -7752,7 +7752,6 @@ newLISP.json,dodorz/scoop
 Bulk-Rename-Utility_dodorz.json,dodorz/scoop
 ViDown.json,dodorz/scoop
 PanDownload_dodorz.json,dodorz/scoop
-ripgrep-all.json,dodorz/scoop
 Ipe.json,dodorz/scoop
 Shortcut_dodorz.json,dodorz/scoop
 Jan_dodorz.json,dodorz/scoop
