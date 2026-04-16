@@ -3085,7 +3085,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -4204,6 +4204,7 @@ subrenamer.json,Scoopforge/Extras-CN
 inkscape-cn.json,Scoopforge/Extras-CN
 dbeaver-cn.json,Scoopforge/Extras-CN
 miniforge-cn.json,Scoopforge/Extras-CN
+autotyper.json,Scoopforge/Extras-CN
 wpsoffice-cn.json,Scoopforge/Extras-CN
 qt-creator-cn.json,Scoopforge/Extras-CN
 edrawmax8.json,Scoopforge/Extras-CN
@@ -8205,7 +8206,7 @@ ALAC.json,dodorz/scoop
 WinSW.Net4.json,dodorz/scoop
 jarkViewer_dodorz.json,dodorz/scoop
 shell2http.json,dodorz/scoop
-AutoTyper.json,dodorz/scoop
+AutoTyper_dodorz.json,dodorz/scoop
 NetPWAge.json,dodorz/scoop
 SumatraPDF_dodorz.json,dodorz/scoop
 NexusFile.json,dodorz/scoop
@@ -9878,7 +9879,7 @@ b0pass.json,DoveBoy/Apps
 ffmpeg_DoveBoy.json,DoveBoy/Apps
 chromium_DoveBoy.json,DoveBoy/Apps
 heu-kms-activator_DoveBoy.json,DoveBoy/Apps
-unigetui.json,DoveBoy/Apps
+unigetui_DoveBoy.json,DoveBoy/Apps
 go-drive.json,DoveBoy/Apps
 pdfqfz.json,DoveBoy/Apps
 typora-dev_DoveBoy.json,DoveBoy/Apps
@@ -9892,7 +9893,7 @@ qq-nt_DoveBoy.json,DoveBoy/Apps
 localsqueeze.json,DoveBoy/Apps
 splayer.json,DoveBoy/Apps
 hibituninstaller.json,DoveBoy/Apps
-waveterm_DoveBoy.json,DoveBoy/Apps
+waveterm.json,DoveBoy/Apps
 nssm_DoveBoy.json,DoveBoy/Apps
 cyrenemusic.json,DoveBoy/Apps
 openlist_DoveBoy.json,DoveBoy/Apps
