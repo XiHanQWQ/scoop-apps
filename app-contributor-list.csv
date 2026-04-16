@@ -1541,7 +1541,7 @@ meld.json,ScoopInstaller/Extras
 audacious.json,ScoopInstaller/Extras
 eiskaltdcpp.json,ScoopInstaller/Extras
 deskpins.json,ScoopInstaller/Extras
-jetbrains-toolbox.json,ScoopInstaller/Extras
+jetbrains-toolbox_ScoopInstaller.json,ScoopInstaller/Extras
 color-cop.json,ScoopInstaller/Extras
 pass-winmenu-nogpg.json,ScoopInstaller/Extras
 proxypin.json,ScoopInstaller/Extras
@@ -2581,7 +2581,7 @@ kanata-cmd.json,ScoopInstaller/Extras
 fastcopy.json,ScoopInstaller/Extras
 cascadeur.json,ScoopInstaller/Extras
 mongodb-compass.json,ScoopInstaller/Extras
-vscode.json,ScoopInstaller/Extras
+vscode_ScoopInstaller.json,ScoopInstaller/Extras
 gui-for-clash.json,ScoopInstaller/Extras
 jasper.json,ScoopInstaller/Extras
 cookiecutter.json,ScoopInstaller/Extras
@@ -5240,7 +5240,7 @@ r41.json,ScoopInstaller/Versions
 nodejs010.json,ScoopInstaller/Versions
 go124.json,ScoopInstaller/Versions
 olive-editor-nightly.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 go121.json,ScoopInstaller/Versions
 cuda11.0.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
@@ -9574,7 +9574,7 @@ visualvm_TheRandomLabs.json,TheRandomLabs/Scoop-Bucket
 win10-initial-setup-script.json,TheRandomLabs/Scoop-Bucket
 ffmpeg-for-audacity.json,TheRandomLabs/Scoop-Bucket
 neovim-dev.json,TheRandomLabs/Scoop-Bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
@@ -11734,7 +11734,7 @@ querydacl.json,brian6932/dank-scoop
 apngasm-gui.json,brian6932/dank-scoop
 google-usb-driver.json,brian6932/dank-scoop
 powercolorls.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 bgutil-ytdlp-pot-provider.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 svg_to_ico.json,brian6932/dank-scoop
@@ -12659,7 +12659,7 @@ cpachecker.json,seumsc/scoop-seu
 videosubfinder.json,seumsc/scoop-seu
 kindlegen_seumsc.json,seumsc/scoop-seu
 autowikibrowser.json,seumsc/scoop-seu
-kook.json,seumsc/scoop-seu
+kook_seumsc.json,seumsc/scoop-seu
 archisteamfarm-generic.json,seumsc/scoop-seu
 musicdecrypto.json,seumsc/scoop-seu
 shterm-alt.json,seumsc/scoop-seu
@@ -13057,7 +13057,7 @@ ffftp.json,jfut/scoop-jfut
 kokomite.json,jfut/scoop-jfut
 clnch.json,jfut/scoop-jfut
 sudo_jfut.json,jfut/scoop-jfut
-autopsy.json,jfut/scoop-jfut
+autopsy_jfut.json,jfut/scoop-jfut
 hootvoice.json,jfut/scoop-jfut
 lyricsmaster.json,jfut/scoop-jfut
 irfanview.ja.json,jfut/scoop-jfut
