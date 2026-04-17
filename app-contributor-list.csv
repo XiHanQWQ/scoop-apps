@@ -4173,7 +4173,7 @@ qqmusic.json,Scoopforge/Extras-CN
 weasel.json,Scoopforge/Extras-CN
 clash-mi.json,Scoopforge/Extras-CN
 kingdraw.json,Scoopforge/Extras-CN
-feishu.json,Scoopforge/Extras-CN
+feishu_Scoopforge.json,Scoopforge/Extras-CN
 lky-officetools.json,Scoopforge/Extras-CN
 ting-en.json,Scoopforge/Extras-CN
 dashplayer.json,Scoopforge/Extras-CN
@@ -9575,7 +9575,7 @@ visualvm_TheRandomLabs.json,TheRandomLabs/Scoop-Bucket
 win10-initial-setup-script.json,TheRandomLabs/Scoop-Bucket
 ffmpeg-for-audacity.json,TheRandomLabs/Scoop-Bucket
 neovim-dev.json,TheRandomLabs/Scoop-Bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
@@ -9893,7 +9893,7 @@ qq-nt_DoveBoy.json,DoveBoy/Apps
 localsqueeze.json,DoveBoy/Apps
 splayer.json,DoveBoy/Apps
 hibituninstaller.json,DoveBoy/Apps
-waveterm.json,DoveBoy/Apps
+waveterm_DoveBoy.json,DoveBoy/Apps
 nssm_DoveBoy.json,DoveBoy/Apps
 cyrenemusic.json,DoveBoy/Apps
 openlist_DoveBoy.json,DoveBoy/Apps
@@ -10154,7 +10154,7 @@ ali.json,DoveBoy/Apps
 gopeed_DoveBoy.json,DoveBoy/Apps
 optimizer_DoveBoy.json,DoveBoy/Apps
 quasar_DoveBoy.json,DoveBoy/Apps
-winget-preview_DoveBoy.json,DoveBoy/Apps
+winget-preview.json,DoveBoy/Apps
 moekoemusic.json,DoveBoy/Apps
 clashcross.json,DoveBoy/Apps
 xcmusic.json,DoveBoy/Apps
@@ -11737,7 +11737,7 @@ querydacl.json,brian6932/dank-scoop
 apngasm-gui.json,brian6932/dank-scoop
 google-usb-driver.json,brian6932/dank-scoop
 powercolorls.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 bgutil-ytdlp-pot-provider.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 svg_to_ico.json,brian6932/dank-scoop
