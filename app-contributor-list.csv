@@ -8648,7 +8648,7 @@ fceux.json,hermanjustnu/scoop-emulators
 mednaffe_hermanjustnu.json,hermanjustnu/scoop-emulators
 yuzu.json,hermanjustnu/scoop-emulators
 model-b.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 stella_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 steam-rom-manager_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -9666,7 +9666,7 @@ gopeed-web.json,DoveBoy/Apps
 everything-alpha_DoveBoy.json,DoveBoy/Apps
 apprhyme.json,DoveBoy/Apps
 tcping_DoveBoy.json,DoveBoy/Apps
-kando_DoveBoy.json,DoveBoy/Apps
+kando.json,DoveBoy/Apps
 cloc_DoveBoy.json,DoveBoy/Apps
 surge_DoveBoy.json,DoveBoy/Apps
 sharpthief.json,DoveBoy/Apps
