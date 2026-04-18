@@ -1633,6 +1633,7 @@ single-file-cli.json,ScoopInstaller/Extras
 hack-font.json,ScoopInstaller/Extras
 winfile.json,ScoopInstaller/Extras
 zen-browser.json,ScoopInstaller/Extras
+zonvie.json,ScoopInstaller/Extras
 spacescape.json,ScoopInstaller/Extras
 mdloader.json,ScoopInstaller/Extras
 blush.json,ScoopInstaller/Extras
@@ -2146,7 +2147,7 @@ midicsv.json,ScoopInstaller/Extras
 tumblthree.json,ScoopInstaller/Extras
 bleachbit.json,ScoopInstaller/Extras
 video-thumbnails-maker.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 ip2location-io-cli.json,ScoopInstaller/Extras
 qefi-entry-manager.json,ScoopInstaller/Extras
 ddu.json,ScoopInstaller/Extras
@@ -3086,7 +3087,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -9681,7 +9682,7 @@ sandboxie-plus-np_DoveBoy.json,DoveBoy/Apps
 innounp_DoveBoy.json,DoveBoy/Apps
 dnsjumper_DoveBoy.json,DoveBoy/Apps
 pytranscriber.json,DoveBoy/Apps
-v2rayn.json,DoveBoy/Apps
+v2rayn_DoveBoy.json,DoveBoy/Apps
 final2x-portable.json,DoveBoy/Apps
 biliup-rs.json,DoveBoy/Apps
 pikapika.json,DoveBoy/Apps
