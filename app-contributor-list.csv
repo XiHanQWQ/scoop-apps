@@ -5242,7 +5242,7 @@ r41.json,ScoopInstaller/Versions
 nodejs010.json,ScoopInstaller/Versions
 go124.json,ScoopInstaller/Versions
 olive-editor-nightly.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 go121.json,ScoopInstaller/Versions
 cuda11.0.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
@@ -9612,6 +9612,7 @@ fancontrol-net10.0.json,DoveBoy/Apps
 binggpt-portable.json,DoveBoy/Apps
 downkyi_DoveBoy.json,DoveBoy/Apps
 lsx.json,DoveBoy/Apps
+potplayer_DoveBoy.json,DoveBoy/Apps
 miniserve_DoveBoy.json,DoveBoy/Apps
 spotx.json,DoveBoy/Apps
 gping_DoveBoy.json,DoveBoy/Apps
@@ -11738,7 +11739,7 @@ querydacl.json,brian6932/dank-scoop
 apngasm-gui.json,brian6932/dank-scoop
 google-usb-driver.json,brian6932/dank-scoop
 powercolorls.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 bgutil-ytdlp-pot-provider.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 svg_to_ico.json,brian6932/dank-scoop
@@ -13328,7 +13329,7 @@ ArctimePro_cc713.json,cc713/ownscoop
 Irfanview_cc713.json,cc713/ownscoop
 LyX_cc713.json,cc713/ownscoop
 qimgv-dev.json,cc713/ownscoop
-nomacs_cc713.json,cc713/ownscoop
+nomacs.json,cc713/ownscoop
 OpenHashTab_cc713.json,cc713/ownscoop
 mpv.net-DW.json,cc713/ownscoop
 LunaTranslator_cc713.json,cc713/ownscoop
