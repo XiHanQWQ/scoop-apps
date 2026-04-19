@@ -2797,6 +2797,7 @@ waifu2x-caffe.json,ScoopInstaller/Extras
 textadept.json,ScoopInstaller/Extras
 hoppscotch.json,ScoopInstaller/Extras
 winmerge2011.json,ScoopInstaller/Extras
+nekobox.json,ScoopInstaller/Extras
 qgroundcontrol.json,ScoopInstaller/Extras
 lmms.json,ScoopInstaller/Extras
 oras.json,ScoopInstaller/Extras
@@ -3143,6 +3144,7 @@ virtualdub.json,ScoopInstaller/Extras
 blisk.json,ScoopInstaller/Extras
 hakchi2-ce.json,ScoopInstaller/Extras
 lenovolegiontoolkit.json,ScoopInstaller/Extras
+skylark.json,ScoopInstaller/Extras
 ppink.json,ScoopInstaller/Extras
 yacreader.json,ScoopInstaller/Extras
 qimgv.json,ScoopInstaller/Extras
@@ -11591,7 +11593,7 @@ wiztree_WinApps-share.json,WinApps-share/WinApps-bucket
 autodarkmode_WinApps-share.json,WinApps-share/WinApps-bucket
 piclist.json,WinApps-share/WinApps-bucket
 fastcopy_WinApps-share.json,WinApps-share/WinApps-bucket
-vscode.json,WinApps-share/WinApps-bucket
+vscode_WinApps-share.json,WinApps-share/WinApps-bucket
 gui-for-clash_WinApps-share.json,WinApps-share/WinApps-bucket
 flipIt.json,WinApps-share/WinApps-bucket
 cpuz.json,WinApps-share/WinApps-bucket
