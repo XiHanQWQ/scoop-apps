@@ -8952,6 +8952,7 @@ quake_rs_ViCrack.json,ViCrack/scoop-bucket
 chmac.json,ViCrack/scoop-bucket
 transfer.json,ViCrack/scoop-bucket
 apifox_ViCrack.json,ViCrack/scoop-bucket
+oxideterm.json,ViCrack/scoop-bucket
 revokemsgpatcher_ViCrack.json,ViCrack/scoop-bucket
 feishurevokemsgpatcher_ViCrack.json,ViCrack/scoop-bucket
 rakshasa.json,ViCrack/scoop-bucket
@@ -9922,6 +9923,7 @@ lan-mouse_DoveBoy.json,DoveBoy/Apps
 helix_DoveBoy.json,DoveBoy/Apps
 ttime.json,DoveBoy/Apps
 ripgrep_DoveBoy.json,DoveBoy/Apps
+cudatext_DoveBoy.json,DoveBoy/Apps
 treesize_DoveBoy.json,DoveBoy/Apps
 mpv-git_DoveBoy.json,DoveBoy/Apps
 calctus.json,DoveBoy/Apps
@@ -14431,7 +14433,7 @@ recmono-all.json,KnotUntied/scoop-fonts
 inconsolata-variable.json,KnotUntied/scoop-fonts
 worksans-variable.json,KnotUntied/scoop-fonts
 agave-slashed.json,KnotUntied/scoop-fonts
-iosevka_KnotUntied.json,KnotUntied/scoop-fonts
+iosevka.json,KnotUntied/scoop-fonts
 cascadiacode-static.json,KnotUntied/scoop-fonts
 cascadiacode-pl-italic.json,KnotUntied/scoop-fonts
 notoserifcjk.json,KnotUntied/scoop-fonts
@@ -14680,6 +14682,7 @@ alldup-aoks.json,AntonOks/scoop-aoks
 ac-aoks.json,AntonOks/scoop-aoks
 syft-aoks.json,AntonOks/scoop-aoks
 todo-backup-free-aoks.json,AntonOks/scoop-aoks
+sniffnet-aoks.json,AntonOks/scoop-aoks
 markdown-monster-aoks.json,AntonOks/scoop-aoks
 rdiff-backup-aoks.json,AntonOks/scoop-aoks
 IntelliJIDEA-aoks.json,AntonOks/scoop-aoks
