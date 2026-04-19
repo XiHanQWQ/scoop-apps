@@ -8652,7 +8652,7 @@ fceux.json,hermanjustnu/scoop-emulators
 mednaffe_hermanjustnu.json,hermanjustnu/scoop-emulators
 yuzu.json,hermanjustnu/scoop-emulators
 model-b.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 stella_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 steam-rom-manager_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -13018,6 +13018,7 @@ lz4_aoisummer.json,aoisummer/scoop-bucket
 cpu-z-zh.json,aoisummer/scoop-bucket
 crystaldiskmark-aoi.json,aoisummer/scoop-bucket
 smartmontools_aoisummer.json,aoisummer/scoop-bucket
+monitorian.json,aoisummer/scoop-bucket
 veracrypt-legacy-np.json,aoisummer/scoop-bucket
 rest-server.json,aoisummer/scoop-bucket
 komelia.json,aoisummer/scoop-bucket
@@ -13401,7 +13402,7 @@ dgdemux.json,natecohen/scoop-av
 hlg-tools.json,natecohen/scoop-av
 avsinfotool.json,natecohen/scoop-av
 pingo.json,natecohen/scoop-av
-avspmod_natecohen.json,natecohen/scoop-av
+avspmod.json,natecohen/scoop-av
 delaycut.json,natecohen/scoop-av
 mis2x264.json,natecohen/scoop-av
 spek-x_natecohen.json,natecohen/scoop-av
@@ -14475,7 +14476,7 @@ beyondcompare5-zh.json,maboloshi/scoop-private
 n-m3u8dl-cli_maboloshi.json,maboloshi/scoop-private
 everything-alpha_maboloshi.json,maboloshi/scoop-private
 wechat_maboloshi.json,maboloshi/scoop-private
-monitorian.json,maboloshi/scoop-private
+monitorian_maboloshi.json,maboloshi/scoop-private
 ima-copilot_maboloshi.json,maboloshi/scoop-private
 sublime-merge_maboloshi.json,maboloshi/scoop-private
 pot_maboloshi.json,maboloshi/scoop-private
@@ -14959,7 +14960,7 @@ qbittorrent-enhanced_404NetworkError.json,404NetworkError/scoop-bucket
 windowsdesktop-runtime_404NetworkError.json,404NetworkError/scoop-bucket
 winobjex64_404NetworkError.json,404NetworkError/scoop-bucket
 windowsdesktop-runtime-9.0_404NetworkError.json,404NetworkError/scoop-bucket
-uutils-findutils.json,404NetworkError/scoop-bucket
+uutils-findutils_404NetworkError.json,404NetworkError/scoop-bucket
 lamexp-nightly.json,404NetworkError/scoop-bucket
 spek-alternative.json,404NetworkError/scoop-bucket
 link-shell-extension-np.json,404NetworkError/scoop-bucket
@@ -15023,7 +15024,7 @@ docsim.json,ShuguangSun/sgs-scoop-bucket
 r-4.1.json,ShuguangSun/sgs-scoop-bucket
 difftastic_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 mambaforge_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-super-productivity_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+super-productivity.json,ShuguangSun/sgs-scoop-bucket
 chatbox_ce.json,ShuguangSun/sgs-scoop-bucket
 r_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 unrar_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
