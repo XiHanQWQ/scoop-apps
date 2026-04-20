@@ -9432,7 +9432,6 @@ aria2_akirco.json,akirco/aki-apps
 qrcp_akirco.json,akirco/aki-apps
 translucenttb_akirco.json,akirco/aki-apps
 png2jpeg_akirco.json,akirco/aki-apps
-nsis_akirco.json,akirco/aki-apps
 youtube-dl_akirco.json,akirco/aki-apps
 python_akirco.json,akirco/aki-apps
 touch_akirco.json,akirco/aki-apps
@@ -11747,7 +11746,7 @@ querydacl.json,brian6932/dank-scoop
 apngasm-gui.json,brian6932/dank-scoop
 google-usb-driver.json,brian6932/dank-scoop
 powercolorls.json,brian6932/dank-scoop
-mpv-git_brian6932.json,brian6932/dank-scoop
+mpv-git.json,brian6932/dank-scoop
 bgutil-ytdlp-pot-provider.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 svg_to_ico.json,brian6932/dank-scoop
@@ -13330,7 +13329,7 @@ kms-vl-all-aio_cc713.json,cc713/ownscoop
 Irfanview-plugins.json,cc713/ownscoop
 aaru.json,cc713/ownscoop
 RegCool-Portable_cc713.json,cc713/ownscoop
-goldendict-ng_cc713.json,cc713/ownscoop
+goldendict-ng.json,cc713/ownscoop
 opencomic.json,cc713/ownscoop
 cpu-z-cn.json,cc713/ownscoop
 libreoffice_cc713.json,cc713/ownscoop
@@ -15053,7 +15052,7 @@ git-with-openssh_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 ydict.json,ShuguangSun/sgs-scoop-bucket
 rtools43_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 naotu.json,ShuguangSun/sgs-scoop-bucket
-gimp-cn.json,ShuguangSun/sgs-scoop-bucket
+gimp-cn_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 latex_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 emacs-kiennq-ucrt-mps.json,ShuguangSun/sgs-scoop-bucket
 winpython-3.11.0.1.json,ShuguangSun/sgs-scoop-bucket
