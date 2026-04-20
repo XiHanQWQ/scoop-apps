@@ -331,6 +331,7 @@ warp-cloudflare.json,Weidows-projects/scoop-3rd
 osu-lazer.json,Weidows-projects/scoop-3rd
 YUMI-UEFIPortable.json,Weidows-projects/scoop-3rd
 obs-plugin-scale-to-sound.json,Weidows-projects/scoop-3rd
+multica.json,Weidows-projects/scoop-3rd
 login_bili_go.json,Weidows-projects/scoop-3rd
 BrutalityExtractor.json,Weidows-projects/scoop-3rd
 cuda12.8.json,Weidows-projects/scoop-3rd
@@ -8714,7 +8715,7 @@ pcsx2-sse4-qt.json,hermanjustnu/scoop-emulators
 winuae.json,hermanjustnu/scoop-emulators
 dolphin-beta.json,hermanjustnu/scoop-emulators
 desmume.json,hermanjustnu/scoop-emulators
-snes9x-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+snes9x-dev.json,hermanjustnu/scoop-emulators
 cemuhook.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 whois_niheaven.json,niheaven/scoop-sysinternals
@@ -8963,7 +8964,7 @@ siyuan-ce.json,ViCrack/scoop-bucket
 RegConverter.json,ViCrack/scoop-bucket
 BowPad.json,ViCrack/scoop-bucket
 godzilla_ekp.json,ViCrack/scoop-bucket
-cherry-studio_ViCrack.json,ViCrack/scoop-bucket
+cherry-studio.json,ViCrack/scoop-bucket
 reality.json,ViCrack/scoop-bucket
 MonitorOff.json,ViCrack/scoop-bucket
 AdGuardHome_ViCrack.json,ViCrack/scoop-bucket
