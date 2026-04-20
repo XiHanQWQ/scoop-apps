@@ -3091,7 +3091,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -6356,6 +6356,7 @@ bluestacks4-np.json,ScoopInstaller/Nonportable
 nodejs-lts-np.json,ScoopInstaller/Nonportable
 xysubfilter-libass-np.json,ScoopInstaller/Nonportable
 pgadmin4-np.json,ScoopInstaller/Nonportable
+k-lite-codec-pack-basic-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 notepads-np.json,ScoopInstaller/Nonportable
 bluestacks-np.json,ScoopInstaller/Nonportable
 notepadplusplus-np_ScoopInstaller.json,ScoopInstaller/Nonportable
@@ -6386,6 +6387,7 @@ flash-drive-tester-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 everything-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 google-japanese-input-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 sandboxie-classic-np.json,ScoopInstaller/Nonportable
+k-lite-codec-pack-full-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 omnidb-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 file-converter-np.json,ScoopInstaller/Nonportable
 glasswire-lite-np.json,ScoopInstaller/Nonportable
@@ -6413,6 +6415,7 @@ innosetup-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 virtualbox-np.json,ScoopInstaller/Nonportable
 goodsync-np.json,ScoopInstaller/Nonportable
 voicemeeter-banana-np.json,ScoopInstaller/Nonportable
+k-lite-codec-pack-mega-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 8gadgetpack-np.json,ScoopInstaller/Nonportable
 pdf24-creator-np.json,ScoopInstaller/Nonportable
 autohotkey-np.json,ScoopInstaller/Nonportable
@@ -6440,6 +6443,7 @@ lockhunter-np.json,ScoopInstaller/Nonportable
 darktable-np.json,ScoopInstaller/Nonportable
 10x-np.json,ScoopInstaller/Nonportable
 xampp-np.json,ScoopInstaller/Nonportable
+k-lite-codec-pack-standard-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 peace-np.json,ScoopInstaller/Nonportable
 wireguard-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 nsis-np_ScoopInstaller.json,ScoopInstaller/Nonportable
