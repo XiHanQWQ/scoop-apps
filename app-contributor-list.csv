@@ -3092,7 +3092,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -9330,7 +9330,7 @@ dim.json,akirco/aki-apps
 aya.json,akirco/aki-apps
 obs-studio_akirco.json,akirco/aki-apps
 silentcmd_akirco.json,akirco/aki-apps
-trae-cn_akirco.json,akirco/aki-apps
+trae-cn.json,akirco/aki-apps
 dvm_akirco.json,akirco/aki-apps
 firefox-zh-cn.json,akirco/aki-apps
 warp_akirco.json,akirco/aki-apps
@@ -9341,7 +9341,7 @@ empty-recycle-bin_akirco.json,akirco/aki-apps
 bcut.json,akirco/aki-apps
 tup_akirco.json,akirco/aki-apps
 yq_akirco.json,akirco/aki-apps
-zoom.json,akirco/aki-apps
+zoom_akirco.json,akirco/aki-apps
 wrangler_akirco.json,akirco/aki-apps
 feishu_akirco.json,akirco/aki-apps
 listen1desktop_akirco.json,akirco/aki-apps
@@ -9812,6 +9812,7 @@ computerlock.json,DoveBoy/Apps
 mycomputermanager.json,DoveBoy/Apps
 clash-rev-compatible.json,DoveBoy/Apps
 zipideo.json,DoveBoy/Apps
+obs-studio_DoveBoy.json,DoveBoy/Apps
 clash-nyanpasu-portable.json,DoveBoy/Apps
 fanqienovel-downloader.json,DoveBoy/Apps
 drive-icon-manager.json,DoveBoy/Apps
@@ -10302,7 +10303,7 @@ mihomo-compatible.json,DoveBoy/Apps
 shadowsocks-rust_DoveBoy.json,DoveBoy/Apps
 sandboxie-plus_DoveBoy.json,DoveBoy/Apps
 p1soda.json,DoveBoy/Apps
-iobit-undelete.json,DoveBoy/Apps
+iobit-undelete_DoveBoy.json,DoveBoy/Apps
 unigetui-beta.json,DoveBoy/Apps
 volta-tab-completion.json,DoveBoy/Apps
 ghostscript_DoveBoy.json,DoveBoy/Apps
@@ -13026,7 +13027,7 @@ crystaldiskmark-shizuku.json,aoisummer/scoop-bucket
 snapraid_aoisummer.json,aoisummer/scoop-bucket
 crystaldiskinfo-shizuku.json,aoisummer/scoop-bucket
 crystaldiskinfo-aoi.json,aoisummer/scoop-bucket
-firefox-esr-zh-cn_aoisummer.json,aoisummer/scoop-bucket
+firefox-esr-zh-cn.json,aoisummer/scoop-bucket
 dandanplay_aoisummer.json,aoisummer/scoop-bucket
 bbdown_aoisummer.json,aoisummer/scoop-bucket
 poi.json,aoisummer/scoop-bucket
@@ -14638,7 +14639,6 @@ usbwriter.json,ChinLong/scoop-customize
 translucent-tb.json,ChinLong/scoop-customize
 robomongo.json,ChinLong/scoop-customize
 qui.json,Rinkerbel/scooped
-mangayomi.json,Rinkerbel/scooped
 seanime-server-canary.json,Rinkerbel/scooped
 TwitchChannelPointsMiner.json,Rinkerbel/scooped
 seanime-denshi-canary.json,Rinkerbel/scooped
