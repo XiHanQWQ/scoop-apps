@@ -2150,7 +2150,7 @@ midicsv.json,ScoopInstaller/Extras
 tumblthree.json,ScoopInstaller/Extras
 bleachbit.json,ScoopInstaller/Extras
 video-thumbnails-maker.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 ip2location-io-cli.json,ScoopInstaller/Extras
 qefi-entry-manager.json,ScoopInstaller/Extras
 ddu.json,ScoopInstaller/Extras
@@ -5246,7 +5246,7 @@ r41.json,ScoopInstaller/Versions
 nodejs010.json,ScoopInstaller/Versions
 go124.json,ScoopInstaller/Versions
 olive-editor-nightly.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 go121.json,ScoopInstaller/Versions
 cuda11.0.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
@@ -6356,7 +6356,6 @@ bluestacks4-np.json,ScoopInstaller/Nonportable
 nodejs-lts-np.json,ScoopInstaller/Nonportable
 xysubfilter-libass-np.json,ScoopInstaller/Nonportable
 pgadmin4-np.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-basic-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 notepads-np.json,ScoopInstaller/Nonportable
 bluestacks-np.json,ScoopInstaller/Nonportable
 notepadplusplus-np_ScoopInstaller.json,ScoopInstaller/Nonportable
@@ -6387,7 +6386,6 @@ flash-drive-tester-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 everything-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 google-japanese-input-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 sandboxie-classic-np.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-full-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 omnidb-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 file-converter-np.json,ScoopInstaller/Nonportable
 glasswire-lite-np.json,ScoopInstaller/Nonportable
@@ -6415,7 +6413,6 @@ innosetup-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 virtualbox-np.json,ScoopInstaller/Nonportable
 goodsync-np.json,ScoopInstaller/Nonportable
 voicemeeter-banana-np.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-mega-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 8gadgetpack-np.json,ScoopInstaller/Nonportable
 pdf24-creator-np.json,ScoopInstaller/Nonportable
 autohotkey-np.json,ScoopInstaller/Nonportable
@@ -6443,7 +6440,6 @@ lockhunter-np.json,ScoopInstaller/Nonportable
 darktable-np.json,ScoopInstaller/Nonportable
 10x-np.json,ScoopInstaller/Nonportable
 xampp-np.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-standard-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 peace-np.json,ScoopInstaller/Nonportable
 wireguard-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 nsis-np_ScoopInstaller.json,ScoopInstaller/Nonportable
@@ -9977,7 +9973,7 @@ ftpserver.json,DoveBoy/Apps
 picotorrent_DoveBoy.json,DoveBoy/Apps
 convert.net_DoveBoy.json,DoveBoy/Apps
 cheat-engine_DoveBoy.json,DoveBoy/Apps
-dandanplay.json,DoveBoy/Apps
+dandanplay_DoveBoy.json,DoveBoy/Apps
 so-novel.json,DoveBoy/Apps
 joplin-pre_DoveBoy.json,DoveBoy/Apps
 psreadline_DoveBoy.json,DoveBoy/Apps
@@ -11746,7 +11742,7 @@ querydacl.json,brian6932/dank-scoop
 apngasm-gui.json,brian6932/dank-scoop
 google-usb-driver.json,brian6932/dank-scoop
 powercolorls.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 bgutil-ytdlp-pot-provider.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 svg_to_ico.json,brian6932/dank-scoop
