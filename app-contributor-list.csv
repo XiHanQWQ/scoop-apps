@@ -2786,7 +2786,7 @@ plantuml.json,ScoopInstaller/Extras
 enpass.json,ScoopInstaller/Extras
 opensca-cli.json,ScoopInstaller/Extras
 remove-empty-directories.json,ScoopInstaller/Extras
-autohotkey_ScoopInstaller.json,ScoopInstaller/Extras
+autohotkey.json,ScoopInstaller/Extras
 conemu-color-themes.json,ScoopInstaller/Extras
 tailscale.json,ScoopInstaller/Extras
 sd-card-formatter.json,ScoopInstaller/Extras
@@ -3060,6 +3060,7 @@ trafficmonitor.json,ScoopInstaller/Extras
 asciidocfx.json,ScoopInstaller/Extras
 ethereum-wallet.json,ScoopInstaller/Extras
 mpc.json,ScoopInstaller/Extras
+solomd.json,ScoopInstaller/Extras
 keyferret.json,ScoopInstaller/Extras
 sublime-text.json,ScoopInstaller/Extras
 powertoys.json,ScoopInstaller/Extras
@@ -8217,7 +8218,7 @@ NexusFile.json,dodorz/scoop
 Hanama.json,dodorz/scoop
 CopyHandler.json,dodorz/scoop
 md5sums.json,dodorz/scoop
-SoloMD.json,dodorz/scoop
+SoloMD_dodorz.json,dodorz/scoop
 CoverYourTracks.json,dodorz/scoop
 Glint.json,dodorz/scoop
 ScreenCapture.json,dodorz/scoop
@@ -9274,6 +9275,7 @@ lepton_akirco.json,akirco/aki-apps
 gdu_akirco.json,akirco/aki-apps
 flutter_akirco.json,akirco/aki-apps
 cpu-z_akirco.json,akirco/aki-apps
+bilibili-livehime.json,akirco/aki-apps
 nali_akirco.json,akirco/aki-apps
 netcat_akirco.json,akirco/aki-apps
 wechat_akirco.json,akirco/aki-apps
@@ -10297,7 +10299,7 @@ sing-box_DoveBoy.json,DoveBoy/Apps
 rickrack.json,DoveBoy/Apps
 mihomo-compatible.json,DoveBoy/Apps
 shadowsocks-rust_DoveBoy.json,DoveBoy/Apps
-sandboxie-plus.json,DoveBoy/Apps
+sandboxie-plus_DoveBoy.json,DoveBoy/Apps
 p1soda.json,DoveBoy/Apps
 iobit-undelete_DoveBoy.json,DoveBoy/Apps
 unigetui-beta.json,DoveBoy/Apps
@@ -11742,7 +11744,7 @@ querydacl.json,brian6932/dank-scoop
 apngasm-gui.json,brian6932/dank-scoop
 google-usb-driver.json,brian6932/dank-scoop
 powercolorls.json,brian6932/dank-scoop
-mpv-git_brian6932.json,brian6932/dank-scoop
+mpv-git.json,brian6932/dank-scoop
 bgutil-ytdlp-pot-provider.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 svg_to_ico.json,brian6932/dank-scoop
