@@ -1,5 +1,4 @@
 {
-    "##": "see https://github.com/ACooper81/scoop-apps/blob/master/bucket/VirtualBox-Install.json or https://github.com/cc713/ownscoop/blob/master/bucket/virtualbox.json",
     "version": "7.2.8",
     "description": "Powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.",
     "homepage": "https://www.virtualbox.org/",
@@ -11,7 +10,12 @@
         }
     },
     "installer": {
-        "script": "Start-Process -Wait -WindowStyle Hidden cmd \"/c call `\"$dir\\VBoxSetup.exe`\" --msiparams INSTALLDIR=`\"$dir`\" VBOX_START=0 VBOX_INSTALLDESKTOPSHORTCUT=0 VBOX_INSTALLQUICKLAUNCHSHORTCUT=0 REBOOT=ReallySuppress --silent && icacls `\"$dir`\" /grant Everyone:F /T\" -Verb RunAs"
+        "script": [
+            "Start-Process -Wait -WindowStyle Hidden cmd \"/c call `\"$dir\\VBoxSetup.exe`\" --msiparams INSTALLDIR=`\"$dir`\" VBOX_START=0 REBOOT=ReallySuppress --silent && icacls `\"$dir`\" /grant Everyone:F /T\" -Verb RunAs",
+            "Remove-Item \"$dir\\VBoxSetup.exe\"",
+            "Remove-Item \"$env:PUBLIC\\Desktop\\Oracle VM VirtualBox.lnk\"",
+            "Remove-Item -Recurse \"$([Environment]::GetFolderPath('commonstartmenu'))\\Programs\\Oracle VM VirtualBox\""
+        ]
     },
     "uninstaller": {
         "script": [
@@ -20,17 +24,16 @@
         ]
     },
     "bin": [
-        "vbox-img.exe",
-        "VBoxAudioTest.exe",
-        "VBoxAutostartSvc.exe",
         "VBoxBalloonCtrl.exe",
         "VBoxBugReport.exe",
         "VBoxDTrace.exe",
         "VBoxExtPackHelperApp.exe",
         "VBoxHeadless.exe",
+        "vbox-img.exe",
         "VBoxManage.exe",
         "VBoxNetDHCP.exe",
         "VBoxNetNAT.exe",
+        "VBoxSDL.exe",
         "VBoxSDS.exe",
         "VBoxSVC.exe",
         "VBoxTestOGL.exe",
@@ -46,12 +49,12 @@
     ],
     "checkver": {
         "url": "https://www.virtualbox.org/wiki/Downloads",
-        "regex": "https://download.virtualbox.org/virtualbox/(?<version>[\\d.]+)/VirtualBox-(?<patch>[\\d.]+.)-(?<revision>[\\d]+)-Win.exe"
+        "regex": "VirtualBox-(?<version>[\\d.]+)-(?<revision>[\\d]+)-Win.exe"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://download.virtualbox.org/virtualbox/$version/VirtualBox-$matchPatch-$matchRevision-Win.exe#/VBoxSetup.exe"
+                "url": "https://download.virtualbox.org/virtualbox/$version/VirtualBox-$version-$matchRevision-Win.exe#/VBoxSetup.exe"
             }
         },
         "hash": {
