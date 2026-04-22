@@ -1,16 +1,16 @@
 {
     "homepage": "https://www.swift.org/",
-    "description": "The Swift Programming Language (Snapshot build)",
+    "description": "The Swift Programming Language (Nightly builds)",
     "license": "Apache-2.0",
-    "version": "snapshot-2026-04-17-a",
+    "version": "20260418.2",
     "architecture": {
         "64bit": {
-            "url": "https://download.swift.org/development/windows10/swift-DEVELOPMENT-SNAPSHOT-2026-04-17-a/swift-DEVELOPMENT-SNAPSHOT-2026-04-17-a-windows10.exe",
-            "hash": "c5b2dff6b0f233e18baecc8c8f9821b4bb270ddd12b1b5fbc521dde59f945fc4"
+            "url": "https://github.com/thebrowsercompany/swift-build/releases/download/20260418.2/installer-offline-amd64.exe",
+            "hash": "f48c9864a545c83bea87bb1ca9e2c4ee8ea6309db9c01fc201783d6ab596b4f9"
         },
         "arm64": {
-            "url": "https://download.swift.org/development/windows10-arm64/swift-DEVELOPMENT-SNAPSHOT-2026-04-17-a/swift-DEVELOPMENT-SNAPSHOT-2026-04-17-a-windows10-arm64.exe",
-            "hash": "d3519cb312fec2926da49508abe7ba1c85c24cec478ce72c75e85a3c2a27565e"
+            "url": "https://github.com/thebrowsercompany/swift-build/releases/download/20260418.2/installer-offline-arm64.exe",
+            "hash": "5a7a3df3ac86eedd7dacfe74c40c9cab5445677dbd000a98cccf8cb0eace0be3"
         }
     },
     "depends": "main/wixtoolset",
@@ -21,7 +21,7 @@
     "installer": {
         "script": [
             "wix.exe burn extract \"$dir\\$fname\" -o \"$dir\\extracted\" -oba \"$dir\\extracted\"",
-            "$productVersion = ([xml](Get-Content -Raw \"$dir\\extracted\\manifest.xml\" -Encoding utf8)).BurnManifest.Registration.Version",
+            "$productVersion = '0.0.0'",
             "Get-ChildItem \"$dir\\extracted\\WixAttachedContainer\\*.msi\" | ForEach-Object {",
             "    if ($_.Name -match 'rtl.*.msi') {",
             "        Expand-MsiArchive $_ \"$dir\\Runtimes\\usr\\bin\"",
@@ -30,6 +30,7 @@
             "    }",
             "}",
             "Rename-Item -Path \"$dir\\LocalApp\\Programs\\Swift\\Toolchains\\$($productVersion)+Asserts\" -NewName \"$dir\\LocalApp\\Programs\\Swift\\Toolchains\\Asserts\"",
+            "Rename-Item -Path \"$dir\\LocalApp\\Programs\\Swift\\Toolchains\\$($productVersion)+NoAsserts\" -NewName \"$dir\\LocalApp\\Programs\\Swift\\Toolchains\\NoAsserts\"",
             "Move-Item -Path \"$dir\\LocalApp\\Programs\\Swift\\Platforms\\$productVersion\\*.platform\" -Destination \"$dir\\LocalApp\\Programs\\Swift\\Platforms\"",
             "Move-Item -Path \"$dir\\LocalApp\\Programs\\Swift\\Redistributables\\$productVersion\\*\" -Destination \"$dir\\LocalApp\\Programs\\Swift\\Redistributables\"",
             "Get-ChildItem \"$dir\\LocalApp\\Programs\\Swift\" | ForEach-Object {",
@@ -50,17 +51,16 @@
         "SDKROOT": "$dir\\Platforms\\Windows.platform\\Developer\\SDKs\\Windows.sdk"
     },
     "checkver": {
-        "url": "https://download.swift.org/development/windows10/latest-build.json",
-        "regex": "swift-DEVELOPMENT-SNAPSHOT-(?<build>[\\w\\-]+)-windows10.exe",
-        "replace": "snapshot-${build}"
+        "github": "https://api.github.com/repos/thebrowsercompany/swift-build/releases?per_page=50",
+        "regex": "tag/([\\d.]+)"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://download.swift.org/development/windows10/swift-DEVELOPMENT-SNAPSHOT-$matchBuild/swift-DEVELOPMENT-SNAPSHOT-$matchBuild-windows10.exe"
+                "url": "https://github.com/thebrowsercompany/swift-build/releases/download/$version/installer-offline-amd64.exe"
             },
             "arm64": {
-                "url": "https://download.swift.org/development/windows10-arm64/swift-DEVELOPMENT-SNAPSHOT-$matchBuild/swift-DEVELOPMENT-SNAPSHOT-$matchBuild-windows10-arm64.exe"
+                "url": "https://github.com/thebrowsercompany/swift-build/releases/download/$version/installer-offline-arm64.exe"
             }
         }
     },

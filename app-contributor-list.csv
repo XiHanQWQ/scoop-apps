@@ -5248,7 +5248,7 @@ r41.json,ScoopInstaller/Versions
 nodejs010.json,ScoopInstaller/Versions
 go124.json,ScoopInstaller/Versions
 olive-editor-nightly.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 go121.json,ScoopInstaller/Versions
 cuda11.0.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
@@ -9276,7 +9276,6 @@ lepton_akirco.json,akirco/aki-apps
 gdu_akirco.json,akirco/aki-apps
 flutter_akirco.json,akirco/aki-apps
 cpu-z_akirco.json,akirco/aki-apps
-bilibili-livehime.json,akirco/aki-apps
 nali_akirco.json,akirco/aki-apps
 netcat_akirco.json,akirco/aki-apps
 wechat_akirco.json,akirco/aki-apps
@@ -9330,9 +9329,9 @@ dim.json,akirco/aki-apps
 aya.json,akirco/aki-apps
 obs-studio_akirco.json,akirco/aki-apps
 silentcmd_akirco.json,akirco/aki-apps
-trae-cn.json,akirco/aki-apps
+trae-cn_akirco.json,akirco/aki-apps
 dvm_akirco.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 warp_akirco.json,akirco/aki-apps
 shim_akirco.json,akirco/aki-apps
 mdcat_akirco.json,akirco/aki-apps
@@ -9812,7 +9811,6 @@ computerlock.json,DoveBoy/Apps
 mycomputermanager.json,DoveBoy/Apps
 clash-rev-compatible.json,DoveBoy/Apps
 zipideo.json,DoveBoy/Apps
-obs-studio_DoveBoy.json,DoveBoy/Apps
 clash-nyanpasu-portable.json,DoveBoy/Apps
 fanqienovel-downloader.json,DoveBoy/Apps
 drive-icon-manager.json,DoveBoy/Apps
@@ -9862,7 +9860,7 @@ network-profile-name-changer_DoveBoy.json,DoveBoy/Apps
 picturecleaner.json,DoveBoy/Apps
 r3play.json,DoveBoy/Apps
 readest_DoveBoy.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 w64devkit_DoveBoy.json,DoveBoy/Apps
 gitalias.json,DoveBoy/Apps
 freecontrol.json,DoveBoy/Apps
@@ -10303,7 +10301,7 @@ mihomo-compatible.json,DoveBoy/Apps
 shadowsocks-rust_DoveBoy.json,DoveBoy/Apps
 sandboxie-plus_DoveBoy.json,DoveBoy/Apps
 p1soda.json,DoveBoy/Apps
-iobit-undelete_DoveBoy.json,DoveBoy/Apps
+iobit-undelete.json,DoveBoy/Apps
 unigetui-beta.json,DoveBoy/Apps
 volta-tab-completion.json,DoveBoy/Apps
 ghostscript_DoveBoy.json,DoveBoy/Apps
@@ -15223,7 +15221,7 @@ godot3-kotlin-jvm.json,windedge/ladle-bucket
 lem.json,windedge/ladle-bucket
 gotify-tray.json,windedge/ladle-bucket
 scia-reto.json,windedge/ladle-bucket
-forgecode_windedge.json,windedge/ladle-bucket
+forgecode.json,windedge/ladle-bucket
 weasyprint_windedge.json,windedge/ladle-bucket
 temurin20-jdk_windedge.json,windedge/ladle-bucket
 tiny-rdm.json,windedge/ladle-bucket
