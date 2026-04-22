@@ -3092,7 +3092,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -9312,7 +9312,6 @@ glow_akirco.json,akirco/aki-apps
 qt-creator_akirco.json,akirco/aki-apps
 quicklook_akirco.json,akirco/aki-apps
 rustdesk_akirco.json,akirco/aki-apps
-youtubedownloader_akirco.json,akirco/aki-apps
 powerhtml.json,akirco/aki-apps
 ntop_akirco.json,akirco/aki-apps
 officetoolplus.json,akirco/aki-apps
@@ -11160,7 +11159,7 @@ winamp.json,naderi/scoop-bucket
 transmission-portable_naderi.json,naderi/scoop-bucket
 thunderbird-beta.json,naderi/scoop-bucket
 gvim-portable.json,naderi/scoop-bucket
-thunderbird-portable.json,naderi/scoop-bucket
+thunderbird-portable_naderi.json,naderi/scoop-bucket
 texniccenter_naderi.json,naderi/scoop-bucket
 openwebstart.json,naderi/scoop-bucket
 font-sahel.json,naderi/scoop-bucket
