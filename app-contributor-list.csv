@@ -2586,7 +2586,7 @@ kanata-cmd.json,ScoopInstaller/Extras
 fastcopy.json,ScoopInstaller/Extras
 cascadeur.json,ScoopInstaller/Extras
 mongodb-compass.json,ScoopInstaller/Extras
-vscode_ScoopInstaller.json,ScoopInstaller/Extras
+vscode.json,ScoopInstaller/Extras
 gui-for-clash.json,ScoopInstaller/Extras
 jasper.json,ScoopInstaller/Extras
 cookiecutter.json,ScoopInstaller/Extras
@@ -4680,6 +4680,7 @@ liberica21-full-jre.json,ScoopInstaller/Java
 zulufx14-jdk.json,ScoopInstaller/Java
 temurin11-nightly-jre.json,ScoopInstaller/Java
 liberica25-lts-jdk.json,ScoopInstaller/Java
+temurin26-jdk.json,ScoopInstaller/Java
 ojdkbuild12.json,ScoopInstaller/Java
 microsoft-jdk.json,ScoopInstaller/Java
 liberica25-full-lts-jdk.json,ScoopInstaller/Java
@@ -4786,6 +4787,7 @@ zulu13-jre.json,ScoopInstaller/Java
 liberica25-full-jdk.json,ScoopInstaller/Java
 temurin-lts-jre.json,ScoopInstaller/Java
 zulu-icedtea-web.json,ScoopInstaller/Java
+temurin26-jre.json,ScoopInstaller/Java
 openjdk23.json,ScoopInstaller/Java
 ojdkbuild15.json,ScoopInstaller/Java
 zulu-jre.json,ScoopInstaller/Java
@@ -4822,6 +4824,7 @@ liberica8-full-jdk.json,ScoopInstaller/Java
 corretto16-jdk.json,ScoopInstaller/Java
 liberica25-lite-jdk.json,ScoopInstaller/Java
 liberica11-full-jdk.json,ScoopInstaller/Java
+zulufx25-jre.json,ScoopInstaller/Java
 liberica17-jdk.json,ScoopInstaller/Java
 openjdk9.json,ScoopInstaller/Java
 graalvm20.json,ScoopInstaller/Java
@@ -4899,6 +4902,7 @@ sapmachine-lts-jre.json,ScoopInstaller/Java
 sapmachine13-jre.json,ScoopInstaller/Java
 liberica21-lite-jdk.json,ScoopInstaller/Java
 liberica8-jdk.json,ScoopInstaller/Java
+zulufx25-jdk.json,ScoopInstaller/Java
 visualvm.json,ScoopInstaller/Java
 openjdk8-redhat.json,ScoopInstaller/Java
 liberica13-full-jdk.json,ScoopInstaller/Java
@@ -4939,6 +4943,7 @@ sapmachine11-jre.json,ScoopInstaller/Java
 sapmachine17-jdk.json,ScoopInstaller/Java
 liberica8-full-jre.json,ScoopInstaller/Java
 ojdkbuild.json,ScoopInstaller/Java
+microsoft-lts-jdk.json,ScoopInstaller/Java
 temurin8-nightly-jdk.json,ScoopInstaller/Java
 graalvm19-jdk8.json,ScoopInstaller/Java
 sapmachine-lts-jdk.json,ScoopInstaller/Java
@@ -9486,7 +9491,7 @@ bun_akirco.json,akirco/aki-apps
 tesseract_akirco.json,akirco/aki-apps
 lwc_akirco.json,akirco/aki-apps
 yarn_akirco.json,akirco/aki-apps
-draw.io_akirco.json,akirco/aki-apps
+draw.io.json,akirco/aki-apps
 pypy2_akirco.json,akirco/aki-apps
 hbuilderx_akirco.json,akirco/aki-apps
 directory-predictor.json,akirco/aki-apps
@@ -10032,7 +10037,7 @@ final2x.json,DoveBoy/Apps
 xiaochao.json,DoveBoy/Apps
 audio-share-gui.json,DoveBoy/Apps
 resizem.json,DoveBoy/Apps
-github-beta.json,DoveBoy/Apps
+github-beta_DoveBoy.json,DoveBoy/Apps
 imagemagick-lean_DoveBoy.json,DoveBoy/Apps
 vutronmusic.json,DoveBoy/Apps
 ariang-native_DoveBoy.json,DoveBoy/Apps
@@ -11076,7 +11081,7 @@ coinomi.json,naderi/scoop-bucket
 teamviewer-portable_naderi.json,naderi/scoop-bucket
 opera-developer.json,naderi/scoop-bucket
 clipx_naderi.json,naderi/scoop-bucket
-firefox-portable_naderi.json,naderi/scoop-bucket
+firefox-portable.json,naderi/scoop-bucket
 kmplayer.json,naderi/scoop-bucket
 win11rct.json,naderi/scoop-bucket
 screenshot-captor.json,naderi/scoop-bucket
@@ -11153,7 +11158,7 @@ winamp.json,naderi/scoop-bucket
 transmission-portable_naderi.json,naderi/scoop-bucket
 thunderbird-beta.json,naderi/scoop-bucket
 gvim-portable.json,naderi/scoop-bucket
-thunderbird-portable_naderi.json,naderi/scoop-bucket
+thunderbird-portable.json,naderi/scoop-bucket
 texniccenter_naderi.json,naderi/scoop-bucket
 openwebstart.json,naderi/scoop-bucket
 font-sahel.json,naderi/scoop-bucket
@@ -13334,7 +13339,7 @@ ArctimePro_cc713.json,cc713/ownscoop
 Irfanview_cc713.json,cc713/ownscoop
 LyX_cc713.json,cc713/ownscoop
 qimgv-dev.json,cc713/ownscoop
-nomacs.json,cc713/ownscoop
+nomacs_cc713.json,cc713/ownscoop
 OpenHashTab_cc713.json,cc713/ownscoop
 mpv.net-DW.json,cc713/ownscoop
 LunaTranslator_cc713.json,cc713/ownscoop
