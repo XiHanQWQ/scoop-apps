@@ -4200,6 +4200,7 @@ quickbib.json,Scoopforge/Extras-CN
 blender-cn.json,Scoopforge/Extras-CN
 aboboo.json,Scoopforge/Extras-CN
 fishing-funds.json,Scoopforge/Extras-CN
+lceda-pro.json,Scoopforge/Extras-CN
 videocaptioner.json,Scoopforge/Extras-CN
 mogan-cn.json,Scoopforge/Extras-CN
 goldendict-ng.json,Scoopforge/Extras-CN
@@ -9758,7 +9759,7 @@ picacomic-downloader-portable.json,DoveBoy/Apps
 openssl_DoveBoy.json,DoveBoy/Apps
 lux_DoveBoy.json,DoveBoy/Apps
 experimental-clash.json,DoveBoy/Apps
-officetoolplus_DoveBoy.json,DoveBoy/Apps
+officetoolplus.json,DoveBoy/Apps
 john-the-ripper.json,DoveBoy/Apps
 reqable_DoveBoy.json,DoveBoy/Apps
 pastebarapp-portable.json,DoveBoy/Apps
@@ -10239,7 +10240,7 @@ kopia-cli.json,DoveBoy/Apps
 nping.json,DoveBoy/Apps
 scoop-tab-completion.json,DoveBoy/Apps
 chatbox_DoveBoy.json,DoveBoy/Apps
-karing_DoveBoy.json,DoveBoy/Apps
+karing.json,DoveBoy/Apps
 bili-cli-rs.json,DoveBoy/Apps
 trafficmonitor_DoveBoy.json,DoveBoy/Apps
 xray_DoveBoy.json,DoveBoy/Apps
@@ -14899,6 +14900,7 @@ winsetview_404NetworkError.json,404NetworkError/scoop-bucket
 lamexp-qaac-nightly.json,404NetworkError/scoop-bucket
 yumi_404NetworkError.json,404NetworkError/scoop-bucket
 gopherrenewed.json,404NetworkError/scoop-bucket
+ferrite.json,404NetworkError/scoop-bucket
 mullvadvpn-nightly-np.json,404NetworkError/scoop-bucket
 bdinfo_404NetworkError.json,404NetworkError/scoop-bucket
 curseforge.json,404NetworkError/scoop-bucket
