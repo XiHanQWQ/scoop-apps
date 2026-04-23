@@ -8043,6 +8043,7 @@ DShutdown.json,dodorz/scoop
 KillCopy.json,dodorz/scoop
 ColorStorm.json,dodorz/scoop
 PyBingWallpaper.json,dodorz/scoop
+VocoType.json,dodorz/scoop
 AccountManager.json,dodorz/scoop
 Tag.json,dodorz/scoop
 WinFR.json,dodorz/scoop
@@ -8949,7 +8950,7 @@ winmemorycleaner_ViCrack.json,ViCrack/scoop-bucket
 frpc-desktop.json,ViCrack/scoop-bucket
 rshell.json,ViCrack/scoop-bucket
 treesize_ViCrack.json,ViCrack/scoop-bucket
-naabu.json,ViCrack/scoop-bucket
+naabu_ViCrack.json,ViCrack/scoop-bucket
 git-repo-clean.json,ViCrack/scoop-bucket
 filezilla_ViCrack.json,ViCrack/scoop-bucket
 windterm_ViCrack.json,ViCrack/scoop-bucket
@@ -9864,7 +9865,7 @@ network-profile-name-changer_DoveBoy.json,DoveBoy/Apps
 picturecleaner.json,DoveBoy/Apps
 r3play.json,DoveBoy/Apps
 readest_DoveBoy.json,DoveBoy/Apps
-neteaseuu_DoveBoy.json,DoveBoy/Apps
+neteaseuu.json,DoveBoy/Apps
 w64devkit_DoveBoy.json,DoveBoy/Apps
 gitalias.json,DoveBoy/Apps
 freecontrol.json,DoveBoy/Apps
@@ -9889,7 +9890,7 @@ ytplayer.json,DoveBoy/Apps
 b0pass.json,DoveBoy/Apps
 ffmpeg_DoveBoy.json,DoveBoy/Apps
 chromium_DoveBoy.json,DoveBoy/Apps
-heu-kms-activator_DoveBoy.json,DoveBoy/Apps
+heu-kms-activator.json,DoveBoy/Apps
 unigetui_DoveBoy.json,DoveBoy/Apps
 go-drive.json,DoveBoy/Apps
 pdfqfz.json,DoveBoy/Apps
@@ -14250,7 +14251,7 @@ win-theme-toggle-mini.json,maboloshi/scoop-private
 PowerShell_maboloshi.json,maboloshi/scoop-private
 miktex_maboloshi.json,maboloshi/scoop-private
 uv_maboloshi.json,maboloshi/scoop-private
-sublime-text_maboloshi.json,maboloshi/scoop-private
+sublime-text.json,maboloshi/scoop-private
 n-m3u8dl-cli-simpleg_list.json,maboloshi/scoop-private
 todesk_maboloshi.json,maboloshi/scoop-private
 WinEdt11.json,maboloshi/scoop-private
