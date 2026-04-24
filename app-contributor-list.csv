@@ -3092,7 +3092,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -7899,6 +7899,7 @@ ecode.json,dodorz/scoop
 PicoClaw.json,dodorz/scoop
 aget.json,dodorz/scoop
 CMDFocus.json,dodorz/scoop
+ZCode.json,dodorz/scoop
 Xpdf-tools_dodorz.json,dodorz/scoop
 FCrackZip.json,dodorz/scoop
 ssr.json,dodorz/scoop
@@ -8226,7 +8227,7 @@ NexusFile.json,dodorz/scoop
 Hanama.json,dodorz/scoop
 CopyHandler.json,dodorz/scoop
 md5sums.json,dodorz/scoop
-SoloMD.json,dodorz/scoop
+SoloMD_dodorz.json,dodorz/scoop
 CoverYourTracks.json,dodorz/scoop
 Glint.json,dodorz/scoop
 ScreenCapture.json,dodorz/scoop
@@ -8267,7 +8268,7 @@ PowerOFF_dodorz.json,dodorz/scoop
 HtmlDocEdit_dodorz.json,dodorz/scoop
 ArcThemALL.json,dodorz/scoop
 MicroEmacs.json,dodorz/scoop
-LyX.json,dodorz/scoop
+LyX_dodorz.json,dodorz/scoop
 WriteMonkey3.json,dodorz/scoop
 DownKyi_dodorz.json,dodorz/scoop
 BestTrace.json,dodorz/scoop
@@ -8293,7 +8294,7 @@ NaotuMini.json,dodorz/scoop
 LightAlloy.json,dodorz/scoop
 CloverPdf.json,dodorz/scoop
 Capture2Text_dodorz.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 YoudaoDict.json,dodorz/scoop
 Jamjams.json,dodorz/scoop
 ssed.json,dodorz/scoop
@@ -8503,7 +8504,6 @@ ShutterEncoder.json,dodorz/scoop
 Umi-OCR-Paddle_dodorz.json,dodorz/scoop
 FeiQ.json,dodorz/scoop
 Uzi.json,dodorz/scoop
-Z-Code.json,dodorz/scoop
 KNot.json,dodorz/scoop
 adobe-source-han-sans-cn-fonts.json,dodorz/scoop
 TorchBrowser.json,dodorz/scoop
@@ -11559,7 +11559,7 @@ git_WinApps-share.json,WinApps-share/WinApps-bucket
 ocauxiliarytools_WinApps-share.json,WinApps-share/WinApps-bucket
 draw.io_WinApps-share.json,WinApps-share/WinApps-bucket
 ab-download-manager.json,WinApps-share/WinApps-bucket
-pixpin.json,WinApps-share/WinApps-bucket
+pixpin_WinApps-share.json,WinApps-share/WinApps-bucket
 clean-my-wechat.json,WinApps-share/WinApps-bucket
 7zip_WinApps-share.json,WinApps-share/WinApps-bucket
 whynot-win11.json,WinApps-share/WinApps-bucket
@@ -14902,7 +14902,6 @@ winsetview_404NetworkError.json,404NetworkError/scoop-bucket
 lamexp-qaac-nightly.json,404NetworkError/scoop-bucket
 yumi_404NetworkError.json,404NetworkError/scoop-bucket
 gopherrenewed.json,404NetworkError/scoop-bucket
-ferrite.json,404NetworkError/scoop-bucket
 mullvadvpn-nightly-np.json,404NetworkError/scoop-bucket
 bdinfo_404NetworkError.json,404NetworkError/scoop-bucket
 curseforge.json,404NetworkError/scoop-bucket
