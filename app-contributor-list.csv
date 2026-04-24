@@ -8226,7 +8226,7 @@ NexusFile.json,dodorz/scoop
 Hanama.json,dodorz/scoop
 CopyHandler.json,dodorz/scoop
 md5sums.json,dodorz/scoop
-SoloMD_dodorz.json,dodorz/scoop
+SoloMD.json,dodorz/scoop
 CoverYourTracks.json,dodorz/scoop
 Glint.json,dodorz/scoop
 ScreenCapture.json,dodorz/scoop
@@ -8267,7 +8267,7 @@ PowerOFF_dodorz.json,dodorz/scoop
 HtmlDocEdit_dodorz.json,dodorz/scoop
 ArcThemALL.json,dodorz/scoop
 MicroEmacs.json,dodorz/scoop
-LyX_dodorz.json,dodorz/scoop
+LyX.json,dodorz/scoop
 WriteMonkey3.json,dodorz/scoop
 DownKyi_dodorz.json,dodorz/scoop
 BestTrace.json,dodorz/scoop
@@ -8293,7 +8293,7 @@ NaotuMini.json,dodorz/scoop
 LightAlloy.json,dodorz/scoop
 CloverPdf.json,dodorz/scoop
 Capture2Text_dodorz.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 YoudaoDict.json,dodorz/scoop
 Jamjams.json,dodorz/scoop
 ssed.json,dodorz/scoop
@@ -8429,7 +8429,7 @@ adobe-source-han-sans-hk-fonts.json,dodorz/scoop
 Voicebox.json,dodorz/scoop
 Qute.json,dodorz/scoop
 Jarte.json,dodorz/scoop
-Kiro_dodorz.json,dodorz/scoop
+Kiro.json,dodorz/scoop
 IndexYourFiles.json,dodorz/scoop
 Ferrite.json,dodorz/scoop
 NpackdCL.json,dodorz/scoop
@@ -12130,6 +12130,7 @@ jj_aliesbelik.json,aliesbelik/poldi
 hl.json,aliesbelik/poldi
 bepass_aliesbelik.json,aliesbelik/poldi
 keep-alive.json,aliesbelik/poldi
+lazyjira.json,aliesbelik/poldi
 dnsping.json,aliesbelik/poldi
 yamlfmt_aliesbelik.json,aliesbelik/poldi
 termscp_aliesbelik.json,aliesbelik/poldi
@@ -12656,7 +12657,7 @@ pinentry-w32-ncg.json,iquiw/scoop-bucket
 proxify_iquiw.json,iquiw/scoop-bucket
 hackgen.json,iquiw/scoop-bucket
 hunspell.json,iquiw/scoop-bucket
-comrak.json,iquiw/scoop-bucket
+comrak_iquiw.json,iquiw/scoop-bucket
 cinc-auditor.json,iquiw/scoop-bucket
 hackgennerd.json,iquiw/scoop-bucket
 emacs30-tree-sitter-module.json,iquiw/scoop-bucket
@@ -12741,6 +12742,7 @@ displaycal_starise.json,starise/Scoop-Confetti
 sacd-extract-gui.json,starise/Scoop-Confetti
 win10-virtual-desktop-enhancer.json,starise/Scoop-Confetti
 shutter_starise.json,starise/Scoop-Confetti
+borderless-toggle.json,starise/Scoop-Confetti
 colors.json,starise/Scoop-Confetti
 forgecode.json,starise/Scoop-Confetti
 link-shell-extension_starise.json,starise/Scoop-Confetti
@@ -14959,6 +14961,7 @@ phartools.json,404NetworkError/scoop-bucket
 windowsdesktop-runtime-lts_404NetworkError.json,404NetworkError/scoop-bucket
 ondsel-es-weekly.json,404NetworkError/scoop-bucket
 ps-sfta-nightly.json,404NetworkError/scoop-bucket
+win-hid-dump.json,404NetworkError/scoop-bucket
 wigui_404NetworkError.json,404NetworkError/scoop-bucket
 chaptermaker.json,404NetworkError/scoop-bucket
 qrencode_404NetworkError.json,404NetworkError/scoop-bucket
