@@ -3093,7 +3093,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -9592,7 +9592,7 @@ visualvm_TheRandomLabs.json,TheRandomLabs/Scoop-Bucket
 win10-initial-setup-script.json,TheRandomLabs/Scoop-Bucket
 ffmpeg-for-audacity.json,TheRandomLabs/Scoop-Bucket
 neovim-dev.json,TheRandomLabs/Scoop-Bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
@@ -14741,6 +14741,7 @@ sshfs-win-manager-aoks.json,AntonOks/scoop-aoks
 dotnet-desktop-runtime-aoks.json,AntonOks/scoop-aoks
 Network_Drive_Control-aoks.json,AntonOks/scoop-aoks
 ofgb-aoks.json,AntonOks/scoop-aoks
+logseq-aoks.json,AntonOks/scoop-aoks
 agebox-aoks.json,AntonOks/scoop-aoks
 virtualbox-aoks.json,AntonOks/scoop-aoks
 tortoisegit-aoks.json,AntonOks/scoop-aoks
@@ -14757,6 +14758,7 @@ desktopOK-aoks.json,AntonOks/scoop-aoks
 filelist-aoks.json,AntonOks/scoop-aoks
 xinorbis-aoks.json,AntonOks/scoop-aoks
 semaphore-aoks.json,AntonOks/scoop-aoks
+quarkdown-aoks.json,AntonOks/scoop-aoks
 link-shell-extension-aoks.json,AntonOks/scoop-aoks
 gpt4all-aoks.json,AntonOks/scoop-aoks
 transwiz-aoks.json,AntonOks/scoop-aoks
