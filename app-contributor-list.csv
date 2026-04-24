@@ -6425,6 +6425,7 @@ voicemeeter-banana-np.json,ScoopInstaller/Nonportable
 pdf24-creator-np.json,ScoopInstaller/Nonportable
 autohotkey-np.json,ScoopInstaller/Nonportable
 nodejs-np.json,ScoopInstaller/Nonportable
+gpg-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 qttabbar-np.json,ScoopInstaller/Nonportable
 iddsampledriver-ge9-np.json,ScoopInstaller/Nonportable
 qttabbar-indiff-np.json,ScoopInstaller/Nonportable
@@ -7791,6 +7792,7 @@ AppGet.json,dodorz/scoop
 oculante_dodorz.json,dodorz/scoop
 Yabasic.json,dodorz/scoop
 IcecreamPDFEditor.json,dodorz/scoop
+CopySpeak.json,dodorz/scoop
 DoubleKiller.json,dodorz/scoop
 VirtualDub_dodorz.json,dodorz/scoop
 flacout.json,dodorz/scoop
@@ -8519,6 +8521,7 @@ MdCharm.json,dodorz/scoop
 Console2_dodorz.json,dodorz/scoop
 fortune.json,dodorz/scoop
 edge-TTS-record.json,dodorz/scoop
+KeyTone.json,dodorz/scoop
 NormCap-cn.json,dodorz/scoop
 Notepad4_zh-Hans-AVX2.json,dodorz/scoop
 jump.json,dodorz/scoop
@@ -8987,7 +8990,7 @@ dudesuite_ViCrack.json,ViCrack/scoop-bucket
 fab.json,ViCrack/scoop-bucket
 pidkey.json,ViCrack/scoop-bucket
 postcat.json,ViCrack/scoop-bucket
-yakit_ViCrack.json,ViCrack/scoop-bucket
+yakit.json,ViCrack/scoop-bucket
 mayenano.json,ViCrack/scoop-bucket
 newfiletime_ViCrack.json,ViCrack/scoop-bucket
 crawlergo_ViCrack.json,ViCrack/scoop-bucket
@@ -11090,6 +11093,7 @@ screenshot-captor.json,naderi/scoop-bucket
 chrome-canary-portable.json,naderi/scoop-bucket
 mitec-json-viewer.json,naderi/scoop-bucket
 font-farbod.json,naderi/scoop-bucket
+encrypto.json,naderi/scoop-bucket
 cherry-studio_naderi.json,naderi/scoop-bucket
 totalcommander-beta-portable.json,naderi/scoop-bucket
 rtools_naderi.json,naderi/scoop-bucket
@@ -11381,7 +11385,7 @@ knocker-core.json,noql-net/scoop
 warp-plus.json,noql-net/scoop
 nekoray_noql-net.json,noql-net/scoop
 throne_noql-net.json,noql-net/scoop
-v2rayn_noql-net.json,noql-net/scoop
+v2rayn.json,noql-net/scoop
 securednsclient.json,noql-net/scoop
 flclash_noql-net.json,noql-net/scoop
 hiddify-next_noql-net.json,noql-net/scoop
@@ -11449,7 +11453,7 @@ brave-np.json,WinApps-share/WinApps-bucket
 wgestures_WinApps-share.json,WinApps-share/WinApps-bucket
 keyviz_WinApps-share.json,WinApps-share/WinApps-bucket
 jianqiezhushou.json,WinApps-share/WinApps-bucket
-motrixnext_WinApps-share.json,WinApps-share/WinApps-bucket
+motrixnext.json,WinApps-share/WinApps-bucket
 musicfree.json,WinApps-share/WinApps-bucket
 weasel_WinApps-share.json,WinApps-share/WinApps-bucket
 everything-np_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -12490,7 +12494,7 @@ g_batkiz.json,batkiz/backit
 tokei_batkiz.json,batkiz/backit
 fselect_batkiz.json,batkiz/backit
 racket-cs.json,batkiz/backit
-sq_batkiz.json,batkiz/backit
+sq.json,batkiz/backit
 dolt_batkiz.json,batkiz/backit
 tinytex_batkiz.json,batkiz/backit
 rehex_batkiz.json,batkiz/backit
