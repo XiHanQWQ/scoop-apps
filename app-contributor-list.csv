@@ -3093,7 +3093,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -6457,6 +6457,7 @@ burp-suite-community-np.json,ScoopInstaller/Nonportable
 ti-connect-ce-software-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 workman-uk-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 portmaster-np.json,ScoopInstaller/Nonportable
+link-shell-extension-np.json,ScoopInstaller/Nonportable
 anki-np.json,ScoopInstaller/Nonportable
 nelson-np.json,ScoopInstaller/Nonportable
 winbtrfs-np_ScoopInstaller.json,ScoopInstaller/Nonportable
@@ -9592,7 +9593,7 @@ visualvm_TheRandomLabs.json,TheRandomLabs/Scoop-Bucket
 win10-initial-setup-script.json,TheRandomLabs/Scoop-Bucket
 ffmpeg-for-audacity.json,TheRandomLabs/Scoop-Bucket
 neovim-dev.json,TheRandomLabs/Scoop-Bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
@@ -10070,7 +10071,7 @@ snappy-driver-installer-origin_DoveBoy.json,DoveBoy/Apps
 mediacreationtool-bat.json,DoveBoy/Apps
 gui-for-clash_DoveBoy.json,DoveBoy/Apps
 any-listen-desktop-legacy.json,DoveBoy/Apps
-bilibilidown.json,DoveBoy/Apps
+bilibilidown_DoveBoy.json,DoveBoy/Apps
 aria2_DoveBoy.json,DoveBoy/Apps
 wpsoffice-cn.json,DoveBoy/Apps
 hackbrowserdata_DoveBoy.json,DoveBoy/Apps
@@ -11366,7 +11367,7 @@ yae-achievement.json,Small-Ku/turbo-bucket
 mort.json,Small-Ku/turbo-bucket
 qbittorrent-enhanced_Small-Ku.json,Small-Ku/turbo-bucket
 sarasa-super-ttc.json,Small-Ku/turbo-bucket
-ruffle_Small-Ku.json,Small-Ku/turbo-bucket
+ruffle.json,Small-Ku/turbo-bucket
 reshade-addon.json,Small-Ku/turbo-bucket
 imageglass-beta.json,Small-Ku/turbo-bucket
 psst.json,Small-Ku/turbo-bucket
@@ -12494,7 +12495,7 @@ g_batkiz.json,batkiz/backit
 tokei_batkiz.json,batkiz/backit
 fselect_batkiz.json,batkiz/backit
 racket-cs.json,batkiz/backit
-sq.json,batkiz/backit
+sq_batkiz.json,batkiz/backit
 dolt_batkiz.json,batkiz/backit
 tinytex_batkiz.json,batkiz/backit
 rehex_batkiz.json,batkiz/backit
@@ -14977,7 +14978,7 @@ windowsdesktop-runtime-9.0_404NetworkError.json,404NetworkError/scoop-bucket
 uutils-findutils_404NetworkError.json,404NetworkError/scoop-bucket
 lamexp-nightly.json,404NetworkError/scoop-bucket
 spek-alternative.json,404NetworkError/scoop-bucket
-link-shell-extension-np.json,404NetworkError/scoop-bucket
+link-shell-extension-np_404NetworkError.json,404NetworkError/scoop-bucket
 uutils-diffutils.json,404NetworkError/scoop-bucket
 infrarecorder.json,404NetworkError/scoop-bucket
 xenu_404NetworkError.json,404NetworkError/scoop-bucket
