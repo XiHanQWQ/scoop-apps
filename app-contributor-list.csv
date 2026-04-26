@@ -1086,6 +1086,7 @@ EasySpider.json,sliots/ScoopBucket
 BiliCLOnline.json,sliots/ScoopBucket
 exhentai-manga-manager-portable.json,sliots/ScoopBucket
 BilibiliDown.json,sliots/ScoopBucket
+GithubStarsManager_sliots.json,sliots/ScoopBucket
 beszel-agent.json,sliots/ScoopBucket
 imhex.json,ScoopInstaller/Extras
 yasb.json,ScoopInstaller/Extras
@@ -8939,7 +8940,7 @@ rubick.json,ViCrack/scoop-bucket
 z0scan.json,ViCrack/scoop-bucket
 blueteamtools_ViCrack.json,ViCrack/scoop-bucket
 cudatext-cn.json,ViCrack/scoop-bucket
-ddns-go.json,ViCrack/scoop-bucket
+ddns-go_ViCrack.json,ViCrack/scoop-bucket
 struts2vulsscantools.json,ViCrack/scoop-bucket
 igdm_ViCrack.json,ViCrack/scoop-bucket
 chat2db.json,ViCrack/scoop-bucket
@@ -11455,7 +11456,7 @@ brave-np.json,WinApps-share/WinApps-bucket
 wgestures_WinApps-share.json,WinApps-share/WinApps-bucket
 keyviz_WinApps-share.json,WinApps-share/WinApps-bucket
 jianqiezhushou.json,WinApps-share/WinApps-bucket
-motrixnext.json,WinApps-share/WinApps-bucket
+motrixnext_WinApps-share.json,WinApps-share/WinApps-bucket
 musicfree.json,WinApps-share/WinApps-bucket
 weasel_WinApps-share.json,WinApps-share/WinApps-bucket
 everything-np_WinApps-share.json,WinApps-share/WinApps-bucket
