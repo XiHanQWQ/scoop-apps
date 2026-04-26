@@ -4173,6 +4173,7 @@ baidupcs-go.json,Scoopforge/Extras-CN
 regester.json,Scoopforge/Extras-CN
 mpv.net-cm.json,Scoopforge/Extras-CN
 aigcpanel.json,Scoopforge/Extras-CN
+tts-vue-next.json,Scoopforge/Extras-CN
 quicker.json,Scoopforge/Extras-CN
 ting-fr.json,Scoopforge/Extras-CN
 bilitools.json,Scoopforge/Extras-CN
@@ -12466,7 +12467,7 @@ tree-sitter_batkiz.json,batkiz/backit
 cpufetch_batkiz.json,batkiz/backit
 murphysec.json,batkiz/backit
 office-tool-plus-with-runtime.json,batkiz/backit
-muffet_batkiz.json,batkiz/backit
+muffet.json,batkiz/backit
 xh_batkiz.json,batkiz/backit
 pdm.json,batkiz/backit
 teal.json,batkiz/backit
@@ -15039,6 +15040,7 @@ openjdk18_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 JetBrainsMono_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 r-4.2.1.json,ShuguangSun/sgs-scoop-bucket
 jags-4.3.1.json,ShuguangSun/sgs-scoop-bucket
+emacs_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 Maple-Mono-otf_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 git-lfs_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 xpdf-tools_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
