@@ -5255,7 +5255,7 @@ r41.json,ScoopInstaller/Versions
 nodejs010.json,ScoopInstaller/Versions
 go124.json,ScoopInstaller/Versions
 olive-editor-nightly.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 go121.json,ScoopInstaller/Versions
 cuda11.0.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
@@ -8298,7 +8298,7 @@ NaotuMini.json,dodorz/scoop
 LightAlloy.json,dodorz/scoop
 CloverPdf.json,dodorz/scoop
 Capture2Text_dodorz.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 YoudaoDict.json,dodorz/scoop
 Jamjams.json,dodorz/scoop
 ssed.json,dodorz/scoop
@@ -8663,7 +8663,7 @@ fceux.json,hermanjustnu/scoop-emulators
 mednaffe_hermanjustnu.json,hermanjustnu/scoop-emulators
 yuzu.json,hermanjustnu/scoop-emulators
 model-b.json,hermanjustnu/scoop-emulators
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 stella_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 steam-rom-manager_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -9986,7 +9986,7 @@ ftpserver.json,DoveBoy/Apps
 picotorrent_DoveBoy.json,DoveBoy/Apps
 convert.net_DoveBoy.json,DoveBoy/Apps
 cheat-engine_DoveBoy.json,DoveBoy/Apps
-dandanplay.json,DoveBoy/Apps
+dandanplay_DoveBoy.json,DoveBoy/Apps
 so-novel.json,DoveBoy/Apps
 joplin-pre_DoveBoy.json,DoveBoy/Apps
 psreadline_DoveBoy.json,DoveBoy/Apps
@@ -10489,7 +10489,7 @@ oleviewdotnet.json,wzv5/ScoopBucket
 aliyundrive_wzv5.json,wzv5/ScoopBucket
 lx-music-desktop_wzv5.json,wzv5/ScoopBucket
 yy-thunks.json,wzv5/ScoopBucket
-kazumi.json,wzv5/ScoopBucket
+kazumi_wzv5.json,wzv5/ScoopBucket
 vc-ltl.json,wzv5/ScoopBucket
 qqmusic.json,wzv5/ScoopBucket
 winsw_wzv5.json,wzv5/ScoopBucket
@@ -11744,7 +11744,6 @@ rusty-twinkle-tray.json,brian6932/dank-scoop
 dotnetversionlister.json,brian6932/dank-scoop
 mpv-user-input.json,brian6932/dank-scoop
 mercury.json,brian6932/dank-scoop
-vtm_brian6932.json,brian6932/dank-scoop
 termsvg.json,brian6932/dank-scoop
 apng2gif-cli.json,brian6932/dank-scoop
 mpv-sub-select.json,brian6932/dank-scoop
