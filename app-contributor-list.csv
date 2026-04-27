@@ -3095,7 +3095,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -3609,7 +3609,7 @@ mine-imator.json,chawyehsu/dorado
 podman-desktop_chawyehsu.json,chawyehsu/dorado
 autodarkmode.json,chawyehsu/dorado
 geth_chawyehsu.json,chawyehsu/dorado
-chezscheme.json,chawyehsu/dorado
+chezscheme_chawyehsu.json,chawyehsu/dorado
 nano_chawyehsu.json,chawyehsu/dorado
 runany.json,chawyehsu/dorado
 capcut.json,chawyehsu/dorado
@@ -9639,7 +9639,7 @@ MicrosoftYaHeiMono.json,everyx/scoop-bucket
 CascadiaCode.json,everyx/scoop-bucket
 EnableLoopbackUtility.json,everyx/scoop-bucket
 yacd.json,everyx/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
@@ -9798,7 +9798,6 @@ screenbroadcaster-net8.json,DoveBoy/Apps
 deeplx_DoveBoy.json,DoveBoy/Apps
 lively_DoveBoy.json,DoveBoy/Apps
 winupdateminitool.json,DoveBoy/Apps
-winmerge_DoveBoy.json,DoveBoy/Apps
 varia-portable.json,DoveBoy/Apps
 baidupcs-go_DoveBoy.json,DoveBoy/Apps
 glow_DoveBoy.json,DoveBoy/Apps
@@ -9954,7 +9953,6 @@ ipinfo.json,DoveBoy/Apps
 speedtest-cli_DoveBoy.json,DoveBoy/Apps
 pydebloatx.json,DoveBoy/Apps
 gitextensions_DoveBoy.json,DoveBoy/Apps
-ayugram_DoveBoy.json,DoveBoy/Apps
 qq-nt_DoveBoy.json,DoveBoy/Apps
 localsqueeze.json,DoveBoy/Apps
 splayer.json,DoveBoy/Apps
@@ -13048,7 +13046,7 @@ citron.json,babo4d/scoop-xrtools
 vtolvr-modloader.json,babo4d/scoop-xrtools
 shadps4_babo4d.json,babo4d/scoop-xrtools
 php74-nts.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn.json,aoisummer/scoop-bucket
 kiwix_aoisummer.json,aoisummer/scoop-bucket
 you-get_aoisummer.json,aoisummer/scoop-bucket
 clash-for-windows_aoisummer.json,aoisummer/scoop-bucket
