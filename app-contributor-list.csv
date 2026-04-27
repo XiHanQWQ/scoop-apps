@@ -4225,9 +4225,9 @@ cajviewer_Scoopforge.json,Scoopforge/Extras-CN
 obs-studio-cn.json,Scoopforge/Extras-CN
 revoke-msg-patcher.json,Scoopforge/Extras-CN
 navicat-premium-lite-cn.json,Scoopforge/Extras-CN
+retain-pdf.json,Scoopforge/Extras-CN
 lx-music.json,Scoopforge/Extras-CN
 pot-desktop.json,Scoopforge/Extras-CN
-vscode-win7.json,Scoopforge/Extras-CN
 adrive.json,Scoopforge/Extras-CN
 hbuilderx.json,Scoopforge/Extras-CN
 jianying-pro.json,Scoopforge/Extras-CN
@@ -8069,7 +8069,7 @@ Yu-Writer.json,dodorz/scoop
 LaunchyQt.json,dodorz/scoop
 TraeCN.json,dodorz/scoop
 Feep.json,dodorz/scoop
-QQMusic.json,dodorz/scoop
+QQMusic_dodorz.json,dodorz/scoop
 FastCSViewer.json,dodorz/scoop
 Squeak.json,dodorz/scoop
 Zback.json,dodorz/scoop
@@ -9969,7 +9969,6 @@ wxdatviewerautoexportrust.json,DoveBoy/Apps
 ntrace-core.json,DoveBoy/Apps
 onlyoffice-desktopeditors_DoveBoy.json,DoveBoy/Apps
 anyportal.json,DoveBoy/Apps
-reinstall.json,DoveBoy/Apps
 1remote_DoveBoy.json,DoveBoy/Apps
 yasocut.json,DoveBoy/Apps
 scoop-search_DoveBoy.json,DoveBoy/Apps
@@ -10113,7 +10112,6 @@ winget_DoveBoy.json,DoveBoy/Apps
 powerping_DoveBoy.json,DoveBoy/Apps
 tiny11builder.json,DoveBoy/Apps
 sudo_DoveBoy.json,DoveBoy/Apps
-winrar-keygen-gui.json,DoveBoy/Apps
 nvm-windows_DoveBoy.json,DoveBoy/Apps
 ventoy_DoveBoy.json,DoveBoy/Apps
 hydrogen-music-portable.json,DoveBoy/Apps
@@ -10301,7 +10299,6 @@ crystaldiskinfo-shizuku-edition_DoveBoy.json,DoveBoy/Apps
 zoxide_DoveBoy.json,DoveBoy/Apps
 cleanmywechat.json,DoveBoy/Apps
 openbbterminal.json,DoveBoy/Apps
-winrar-keygen-cli.json,DoveBoy/Apps
 openbbterminal-pre.json,DoveBoy/Apps
 wx-channels-download.json,DoveBoy/Apps
 windows-update-disabler.json,DoveBoy/Apps
@@ -11101,6 +11098,7 @@ screenshot-captor.json,naderi/scoop-bucket
 chrome-canary-portable.json,naderi/scoop-bucket
 mitec-json-viewer.json,naderi/scoop-bucket
 font-farbod.json,naderi/scoop-bucket
+encrypto_naderi.json,naderi/scoop-bucket
 cherry-studio_naderi.json,naderi/scoop-bucket
 totalcommander-beta-portable.json,naderi/scoop-bucket
 rtools_naderi.json,naderi/scoop-bucket
