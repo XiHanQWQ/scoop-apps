@@ -1082,6 +1082,7 @@ dlsite-doujin-renamer.json,sliots/ScoopBucket
 SynologyCloudSyncDecryptionTool.json,sliots/ScoopBucket
 fetch-github-hosts.json,sliots/ScoopBucket
 snaz.json,sliots/ScoopBucket
+Windows-Update-Delayer.json,sliots/ScoopBucket
 EasySpider.json,sliots/ScoopBucket
 BiliCLOnline.json,sliots/ScoopBucket
 exhentai-manga-manager-portable.json,sliots/ScoopBucket
@@ -2151,7 +2152,7 @@ midicsv.json,ScoopInstaller/Extras
 tumblthree.json,ScoopInstaller/Extras
 bleachbit.json,ScoopInstaller/Extras
 video-thumbnails-maker.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 ip2location-io-cli.json,ScoopInstaller/Extras
 qefi-entry-manager.json,ScoopInstaller/Extras
 ddu.json,ScoopInstaller/Extras
@@ -3094,7 +3095,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -9553,7 +9554,6 @@ pup_akirco.json,akirco/aki-apps
 time_akirco.json,akirco/aki-apps
 vcredist2010_akirco.json,akirco/aki-apps
 dingtalk_akirco.json,akirco/aki-apps
-fluent-reader_akirco.json,akirco/aki-apps
 svtplay-dl_akirco.json,akirco/aki-apps
 git-town_akirco.json,akirco/aki-apps
 bob.json,akirco/aki-apps
@@ -9969,6 +9969,7 @@ wxdatviewerautoexportrust.json,DoveBoy/Apps
 ntrace-core.json,DoveBoy/Apps
 onlyoffice-desktopeditors_DoveBoy.json,DoveBoy/Apps
 anyportal.json,DoveBoy/Apps
+reinstall.json,DoveBoy/Apps
 1remote_DoveBoy.json,DoveBoy/Apps
 yasocut.json,DoveBoy/Apps
 scoop-search_DoveBoy.json,DoveBoy/Apps
@@ -10112,6 +10113,7 @@ winget_DoveBoy.json,DoveBoy/Apps
 powerping_DoveBoy.json,DoveBoy/Apps
 tiny11builder.json,DoveBoy/Apps
 sudo_DoveBoy.json,DoveBoy/Apps
+winrar-keygen-gui.json,DoveBoy/Apps
 nvm-windows_DoveBoy.json,DoveBoy/Apps
 ventoy_DoveBoy.json,DoveBoy/Apps
 hydrogen-music-portable.json,DoveBoy/Apps
@@ -10299,6 +10301,7 @@ crystaldiskinfo-shizuku-edition_DoveBoy.json,DoveBoy/Apps
 zoxide_DoveBoy.json,DoveBoy/Apps
 cleanmywechat.json,DoveBoy/Apps
 openbbterminal.json,DoveBoy/Apps
+winrar-keygen-cli.json,DoveBoy/Apps
 openbbterminal-pre.json,DoveBoy/Apps
 wx-channels-download.json,DoveBoy/Apps
 windows-update-disabler.json,DoveBoy/Apps
@@ -12469,7 +12472,7 @@ tree-sitter_batkiz.json,batkiz/backit
 cpufetch_batkiz.json,batkiz/backit
 murphysec.json,batkiz/backit
 office-tool-plus-with-runtime.json,batkiz/backit
-muffet.json,batkiz/backit
+muffet_batkiz.json,batkiz/backit
 xh_batkiz.json,batkiz/backit
 pdm.json,batkiz/backit
 teal.json,batkiz/backit
