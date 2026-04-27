@@ -3094,7 +3094,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -8300,7 +8300,7 @@ NaotuMini.json,dodorz/scoop
 LightAlloy.json,dodorz/scoop
 CloverPdf.json,dodorz/scoop
 Capture2Text_dodorz.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 YoudaoDict.json,dodorz/scoop
 Jamjams.json,dodorz/scoop
 ssed.json,dodorz/scoop
@@ -9553,6 +9553,7 @@ pup_akirco.json,akirco/aki-apps
 time_akirco.json,akirco/aki-apps
 vcredist2010_akirco.json,akirco/aki-apps
 dingtalk_akirco.json,akirco/aki-apps
+fluent-reader_akirco.json,akirco/aki-apps
 svtplay-dl_akirco.json,akirco/aki-apps
 git-town_akirco.json,akirco/aki-apps
 bob.json,akirco/aki-apps
@@ -13492,6 +13493,7 @@ flutter_rivy.json,rivy/scoop-bucket
 fnm@1.35.1.json,rivy/scoop-bucket
 perl@5.26+gcc.json,rivy/scoop-bucket
 go_rivy.json,rivy/scoop-bucket
+gsudo@2.6.1.json,rivy/scoop-bucket
 deno@0.31.0.json,rivy/scoop-bucket
 nodejs@lts-6.10.3.json,rivy/scoop-bucket
 nsis@3.08.json,rivy/scoop-bucket
@@ -13870,15 +13872,18 @@ restic@0.8.2.json,rivy/scoop-bucket
 ghcup_rivy.json,rivy/scoop-bucket
 lego@4.23.1.json,rivy/scoop-bucket
 go@1.10.json,rivy/scoop-bucket
+vlang.json,rivy/scoop-bucket
 gcc@8.1.0-x64+x32.json,rivy/scoop-bucket
 busybox@1.37.0.json,rivy/scoop-bucket
 gcc@9.2.0-multilib+x32.json,rivy/scoop-bucket
 clang@21.1.8.json,rivy/scoop-bucket
 msvc@2019.json,rivy/scoop-bucket
+git@2.54.0.json,rivy/scoop-bucket
 iconv@1.14-3.json,rivy/scoop-bucket
 git@2.27.0.json,rivy/scoop-bucket
 watchman_rivy.json,rivy/scoop-bucket
 python@mini-2.7.16.json,rivy/scoop-bucket
+fnm@1.39.0.json,rivy/scoop-bucket
 unison@2.53.8.json,rivy/scoop-bucket
 smerge.json,rivy/scoop-bucket
 gcc_rivy.json,rivy/scoop-bucket
@@ -13890,6 +13895,7 @@ nim@1.0.4-x64.json,rivy/scoop-bucket
 clang@20.1.8.json,rivy/scoop-bucket
 clang@8.0.0.json,rivy/scoop-bucket
 doctl_rivy.json,rivy/scoop-bucket
+pwsh@7.6.1.json,rivy/scoop-bucket
 git@2.43.0.json,rivy/scoop-bucket
 bitwarden-cli_rivy.json,rivy/scoop-bucket
 biome@1.9.4.json,rivy/scoop-bucket
@@ -13935,6 +13941,7 @@ volta_rivy.json,rivy/scoop-bucket
 restic_rivy.json,rivy/scoop-bucket
 djgpp@3.1-gcc-10.2.0.json,rivy/scoop-bucket
 colortool@1.0.6564.32947.json,rivy/scoop-bucket
+pwsh_rivy.json,rivy/scoop-bucket
 fzf@0.29.0.json,rivy/scoop-bucket
 perl@5.20.3.3+PDL.json,rivy/scoop-bucket
 haskell-stack.json,rivy/scoop-bucket
