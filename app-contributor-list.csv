@@ -4702,7 +4702,9 @@ temurin19-nightly-jdk.json,ScoopInstaller/Java
 corretto17-jdk.json,ScoopInstaller/Java
 ojdkbuild9-full.json,ScoopInstaller/Java
 jmc.json,ScoopInstaller/Java
+intellij-jbr25.json,ScoopInstaller/Java
 graalvm-oracle-21jdk.json,ScoopInstaller/Java
+intellij-jbr25-sdk-jcef.json,ScoopInstaller/Java
 zulu10-jdk.json,ScoopInstaller/Java
 icedtea-web.json,ScoopInstaller/Java
 liberica12-jdk.json,ScoopInstaller/Java
@@ -4770,6 +4772,7 @@ ojdkbuild9.json,ScoopInstaller/Java
 liberica15-full-jre.json,ScoopInstaller/Java
 zulu22-jre.json,ScoopInstaller/Java
 openjdk20.json,ScoopInstaller/Java
+intellij-jbr25-sdk.json,ScoopInstaller/Java
 graalvm-nightly-jdk17.json,ScoopInstaller/Java
 temurin23-jdk.json,ScoopInstaller/Java
 gluon-openjfx-monocle-sdk-ea.json,ScoopInstaller/Java
@@ -4832,6 +4835,7 @@ liberica11-full-jdk.json,ScoopInstaller/Java
 zulufx25-jre.json,ScoopInstaller/Java
 liberica17-jdk.json,ScoopInstaller/Java
 openjdk9.json,ScoopInstaller/Java
+intellij-jbr25-jcef.json,ScoopInstaller/Java
 graalvm20.json,ScoopInstaller/Java
 intellij-jbr17.json,ScoopInstaller/Java
 temurin22-jdk.json,ScoopInstaller/Java
@@ -5564,6 +5568,7 @@ nodejs8.json,ScoopInstaller/Versions
 slack-beta.json,ScoopInstaller/Versions
 haxe-dev.json,ScoopInstaller/Versions
 nodejs24.json,ScoopInstaller/Versions
+rufus-beta.json,ScoopInstaller/Versions
 go116.json,ScoopInstaller/Versions
 ruby30.json,ScoopInstaller/Versions
 idea-eap.json,ScoopInstaller/Versions
@@ -11098,7 +11103,6 @@ screenshot-captor.json,naderi/scoop-bucket
 chrome-canary-portable.json,naderi/scoop-bucket
 mitec-json-viewer.json,naderi/scoop-bucket
 font-farbod.json,naderi/scoop-bucket
-encrypto_naderi.json,naderi/scoop-bucket
 cherry-studio_naderi.json,naderi/scoop-bucket
 totalcommander-beta-portable.json,naderi/scoop-bucket
 rtools_naderi.json,naderi/scoop-bucket
