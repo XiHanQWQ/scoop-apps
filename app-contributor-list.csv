@@ -3095,7 +3095,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -3546,7 +3546,7 @@ reicon_chawyehsu.json,chawyehsu/dorado
 uninstallview.json,chawyehsu/dorado
 justcolorpicker.json,chawyehsu/dorado
 texlive.json,chawyehsu/dorado
-wechatwork.json,chawyehsu/dorado
+wechatwork_chawyehsu.json,chawyehsu/dorado
 swift-nightly.json,chawyehsu/dorado
 milkytracker_chawyehsu.json,chawyehsu/dorado
 go-cn.json,chawyehsu/dorado
@@ -8577,6 +8577,7 @@ Sqliteman.json,dodorz/scoop
 MessageBox.json,dodorz/scoop
 FocusWriter.json,dodorz/scoop
 PDFMatePDFMerger.json,dodorz/scoop
+RetainPDF.json,dodorz/scoop
 LastPassPocket.json,dodorz/scoop
 SocksCap64.json,dodorz/scoop
 QtPass_dodorz.json,dodorz/scoop
@@ -9638,7 +9639,7 @@ MicrosoftYaHeiMono.json,everyx/scoop-bucket
 CascadiaCode.json,everyx/scoop-bucket
 EnableLoopbackUtility.json,everyx/scoop-bucket
 yacd.json,everyx/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
@@ -10291,7 +10292,7 @@ kopia-cli.json,DoveBoy/Apps
 nping.json,DoveBoy/Apps
 scoop-tab-completion.json,DoveBoy/Apps
 chatbox_DoveBoy.json,DoveBoy/Apps
-karing.json,DoveBoy/Apps
+karing_DoveBoy.json,DoveBoy/Apps
 bili-cli-rs.json,DoveBoy/Apps
 trafficmonitor_DoveBoy.json,DoveBoy/Apps
 xray_DoveBoy.json,DoveBoy/Apps
