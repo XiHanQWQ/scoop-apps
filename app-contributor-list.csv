@@ -3546,7 +3546,7 @@ reicon_chawyehsu.json,chawyehsu/dorado
 uninstallview.json,chawyehsu/dorado
 justcolorpicker.json,chawyehsu/dorado
 texlive.json,chawyehsu/dorado
-wechatwork_chawyehsu.json,chawyehsu/dorado
+wechatwork.json,chawyehsu/dorado
 swift-nightly.json,chawyehsu/dorado
 milkytracker_chawyehsu.json,chawyehsu/dorado
 go-cn.json,chawyehsu/dorado
@@ -8876,7 +8876,7 @@ xemu_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
-shadps4.json,borger/scoop-emulators
+shadps4_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 shipwright_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
@@ -9297,7 +9297,6 @@ lepton_akirco.json,akirco/aki-apps
 gdu_akirco.json,akirco/aki-apps
 flutter_akirco.json,akirco/aki-apps
 cpu-z_akirco.json,akirco/aki-apps
-bilibili-livehime.json,akirco/aki-apps
 nali_akirco.json,akirco/aki-apps
 netcat_akirco.json,akirco/aki-apps
 wechat_akirco.json,akirco/aki-apps
@@ -10012,6 +10011,7 @@ wxdatviewerautoexportrust.json,DoveBoy/Apps
 ntrace-core.json,DoveBoy/Apps
 onlyoffice-desktopeditors_DoveBoy.json,DoveBoy/Apps
 anyportal.json,DoveBoy/Apps
+reinstall.json,DoveBoy/Apps
 1remote_DoveBoy.json,DoveBoy/Apps
 yasocut.json,DoveBoy/Apps
 scoop-search_DoveBoy.json,DoveBoy/Apps
@@ -12256,6 +12256,7 @@ tfmv.json,aliesbelik/poldi
 muffet.json,aliesbelik/poldi
 helmsman_aliesbelik.json,aliesbelik/poldi
 termframe.json,aliesbelik/poldi
+sheets.json,aliesbelik/poldi
 dijo.json,aliesbelik/poldi
 rq.json,aliesbelik/poldi
 todoist-cli.json,aliesbelik/poldi
@@ -13046,7 +13047,7 @@ citron.json,babo4d/scoop-xrtools
 vtolvr-modloader.json,babo4d/scoop-xrtools
 shadps4_babo4d.json,babo4d/scoop-xrtools
 php74-nts.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 kiwix_aoisummer.json,aoisummer/scoop-bucket
 you-get_aoisummer.json,aoisummer/scoop-bucket
 clash-for-windows_aoisummer.json,aoisummer/scoop-bucket
@@ -14514,7 +14515,7 @@ ps3-firmware.json,Deide/deide-bucket
 openra_Deide.json,Deide/deide-bucket
 polymc.json,Deide/deide-bucket
 gogdl_Deide.json,Deide/deide-bucket
-azahar.json,Deide/deide-bucket
+azahar_Deide.json,Deide/deide-bucket
 edtracker.json,Deide/deide-bucket
 project64.json,Deide/deide-bucket
 athenas-ass-mh4U.json,Deide/deide-bucket
