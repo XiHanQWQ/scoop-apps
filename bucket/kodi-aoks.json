@@ -27,7 +27,7 @@
         ]
     ],
     "checkver": {
-        "url": "https://mirrors.kodi.tv/releases/windows/win64/",
+        "url": "https://kodi.tv/download/windows",
         "regex": "kodi-([\\d.]+)-(?<codename>\\w+)-x64.exe"
     },
     "autoupdate": {
