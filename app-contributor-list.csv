@@ -3319,7 +3319,7 @@ wincdemu.json,ScoopInstaller/Extras
 mp3tag.json,ScoopInstaller/Extras
 mednafen.json,ScoopInstaller/Extras
 tinode-mysql.json,ScoopInstaller/Extras
-g-helper.json,ScoopInstaller/Extras
+g-helper_ScoopInstaller.json,ScoopInstaller/Extras
 liquidsoap.json,ScoopInstaller/Extras
 fritzing.json,ScoopInstaller/Extras
 clustal-omega.json,ScoopInstaller/Extras
@@ -3607,7 +3607,7 @@ mcedit.json,chawyehsu/dorado
 filebrowser.json,chawyehsu/dorado
 neteaseuuvoice.json,chawyehsu/dorado
 mine-imator.json,chawyehsu/dorado
-podman-desktop_chawyehsu.json,chawyehsu/dorado
+podman-desktop.json,chawyehsu/dorado
 autodarkmode.json,chawyehsu/dorado
 geth_chawyehsu.json,chawyehsu/dorado
 chezscheme_chawyehsu.json,chawyehsu/dorado
@@ -4255,6 +4255,7 @@ mesa3d-mingw.json,Calinou/scoop-games
 ascii-sector.json,Calinou/scoop-games
 spearmint.json,Calinou/scoop-games
 chiaki-ng.json,Calinou/scoop-games
+yanu.json,Calinou/scoop-games
 cdogs-sdl.json,Calinou/scoop-games
 bombermaaan.json,Calinou/scoop-games
 vdrift.json,Calinou/scoop-games
@@ -4281,6 +4282,7 @@ clonehero.json,Calinou/scoop-games
 vita3k.json,Calinou/scoop-games
 fteqw.json,Calinou/scoop-games
 pso2-tweaker.json,Calinou/scoop-games
+classicube.json,Calinou/scoop-games
 wowup.json,Calinou/scoop-games
 openhv.json,Calinou/scoop-games
 veloren-weekly.json,Calinou/scoop-games
@@ -4469,6 +4471,7 @@ q2pro.json,Calinou/scoop-games
 opendungeons.json,Calinou/scoop-games
 enigma.json,Calinou/scoop-games
 asset-ripper.json,Calinou/scoop-games
+betacraft-launcher.json,Calinou/scoop-games
 bedrockupdater.json,Calinou/scoop-games
 epic-games-launcher.json,Calinou/scoop-games
 flashpoint.json,Calinou/scoop-games
@@ -4590,9 +4593,11 @@ pcsx2.json,Calinou/scoop-games
 atlauncher.json,Calinou/scoop-games
 alephone-marathon-trilogy.json,Calinou/scoop-games
 sak.json,Calinou/scoop-games
+avalonia86.json,Calinou/scoop-games
 fmodel.json,Calinou/scoop-games
 shadps4.json,Calinou/scoop-games
 angband.json,Calinou/scoop-games
+betacraft-launcher-v2.json,Calinou/scoop-games
 duelyst.json,Calinou/scoop-games
 prboom-plus.json,Calinou/scoop-games
 assaultcube.json,Calinou/scoop-games
@@ -9354,7 +9359,7 @@ obs-studio_akirco.json,akirco/aki-apps
 silentcmd_akirco.json,akirco/aki-apps
 trae-cn_akirco.json,akirco/aki-apps
 dvm_akirco.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 warp_akirco.json,akirco/aki-apps
 shim_akirco.json,akirco/aki-apps
 mdcat_akirco.json,akirco/aki-apps
@@ -10034,7 +10039,7 @@ ftpserver.json,DoveBoy/Apps
 picotorrent_DoveBoy.json,DoveBoy/Apps
 convert.net_DoveBoy.json,DoveBoy/Apps
 cheat-engine_DoveBoy.json,DoveBoy/Apps
-dandanplay.json,DoveBoy/Apps
+dandanplay_DoveBoy.json,DoveBoy/Apps
 so-novel.json,DoveBoy/Apps
 joplin-pre_DoveBoy.json,DoveBoy/Apps
 psreadline_DoveBoy.json,DoveBoy/Apps
@@ -14548,7 +14553,7 @@ xenia_Deide.json,Deide/deide-bucket
 ryujinx_Deide.json,Deide/deide-bucket
 ripcord_Deide.json,Deide/deide-bucket
 visualboyadvance-m_Deide.json,Deide/deide-bucket
-playnite_Deide.json,Deide/deide-bucket
+playnite.json,Deide/deide-bucket
 lunarips.json,Deide/deide-bucket
 ukmm.json,Deide/deide-bucket
 zelda-oot-ultraship.json,Deide/deide-bucket
