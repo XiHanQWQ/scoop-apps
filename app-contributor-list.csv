@@ -1463,6 +1463,7 @@ treex.json,ScoopInstaller/Extras
 solvespace.json,ScoopInstaller/Extras
 gpg4win.json,ScoopInstaller/Extras
 ft2-clone.json,ScoopInstaller/Extras
+snapmaker-orcaslicer.json,ScoopInstaller/Extras
 harmony.json,ScoopInstaller/Extras
 tribler.json,ScoopInstaller/Extras
 natron.json,ScoopInstaller/Extras
@@ -2591,7 +2592,7 @@ kanata-cmd.json,ScoopInstaller/Extras
 fastcopy.json,ScoopInstaller/Extras
 cascadeur.json,ScoopInstaller/Extras
 mongodb-compass.json,ScoopInstaller/Extras
-vscode_ScoopInstaller.json,ScoopInstaller/Extras
+vscode.json,ScoopInstaller/Extras
 gui-for-clash.json,ScoopInstaller/Extras
 jasper.json,ScoopInstaller/Extras
 cookiecutter.json,ScoopInstaller/Extras
@@ -5301,6 +5302,7 @@ kdenlive-nightly.json,ScoopInstaller/Versions
 yt-dlp-master.json,ScoopInstaller/Versions
 de4dot-net35.json,ScoopInstaller/Versions
 godot-alpha.json,ScoopInstaller/Versions
+llrt-beta.json,ScoopInstaller/Versions
 1password-cli1.json,ScoopInstaller/Versions
 chromedriver-canary.json,ScoopInstaller/Versions
 yt-dlp-nightly.json,ScoopInstaller/Versions
@@ -6355,7 +6357,7 @@ procmon.json,scoopcn/scoopcn
 kwmusic.json,scoopcn/scoopcn
 dingtalk-gov.json,scoopcn/scoopcn
 neo4jbrowser.json,scoopcn/scoopcn
-feishu_scoopcn.json,scoopcn/scoopcn
+feishu.json,scoopcn/scoopcn
 unity3d.json,scoopcn/scoopcn
 apifox_scoopcn.json,scoopcn/scoopcn
 xt800agent.json,scoopcn/scoopcn
@@ -9011,7 +9013,7 @@ dudesuite_ViCrack.json,ViCrack/scoop-bucket
 fab.json,ViCrack/scoop-bucket
 pidkey.json,ViCrack/scoop-bucket
 postcat.json,ViCrack/scoop-bucket
-yakit_ViCrack.json,ViCrack/scoop-bucket
+yakit.json,ViCrack/scoop-bucket
 mayenano.json,ViCrack/scoop-bucket
 newfiletime_ViCrack.json,ViCrack/scoop-bucket
 crawlergo_ViCrack.json,ViCrack/scoop-bucket
@@ -9373,7 +9375,7 @@ tup_akirco.json,akirco/aki-apps
 yq_akirco.json,akirco/aki-apps
 zoom_akirco.json,akirco/aki-apps
 wrangler_akirco.json,akirco/aki-apps
-feishu.json,akirco/aki-apps
+feishu_akirco.json,akirco/aki-apps
 listen1desktop_akirco.json,akirco/aki-apps
 bilibili_akirco.json,akirco/aki-apps
 rnr_akirco.json,akirco/aki-apps
@@ -15437,7 +15439,7 @@ hello.json,younger-1/scoop-it
 neovide_younger-1.json,younger-1/scoop-it
 diskonaut.todo.json,younger-1/scoop-it
 silver.todo.json,younger-1/scoop-it
-pbgopy.json,jcwillox/scoop-bucket
+pbgopy_jcwillox.json,jcwillox/scoop-bucket
 tedit.json,jcwillox/scoop-bucket
 handbrake-portable_jcwillox.json,jcwillox/scoop-bucket
 multimc_jcwillox.json,jcwillox/scoop-bucket
