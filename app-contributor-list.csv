@@ -2155,7 +2155,7 @@ midicsv.json,ScoopInstaller/Extras
 tumblthree.json,ScoopInstaller/Extras
 bleachbit.json,ScoopInstaller/Extras
 video-thumbnails-maker.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 ip2location-io-cli.json,ScoopInstaller/Extras
 qefi-entry-manager.json,ScoopInstaller/Extras
 ddu.json,ScoopInstaller/Extras
@@ -5274,7 +5274,7 @@ r41.json,ScoopInstaller/Versions
 nodejs010.json,ScoopInstaller/Versions
 go124.json,ScoopInstaller/Versions
 olive-editor-nightly.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 go121.json,ScoopInstaller/Versions
 cuda11.0.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
@@ -5297,6 +5297,7 @@ pycharm-latest.json,ScoopInstaller/Versions
 freerdp-nightly.json,ScoopInstaller/Versions
 gradle6.json,ScoopInstaller/Versions
 firefox-beta.json,ScoopInstaller/Versions
+librehardwaremonitor-nigthly.json,ScoopInstaller/Versions
 dotnet3-sdk.json,ScoopInstaller/Versions
 clion-rc.json,ScoopInstaller/Versions
 kdenlive-nightly.json,ScoopInstaller/Versions
@@ -5448,6 +5449,7 @@ mingw-winlibs-llvm-msvcrt.json,ScoopInstaller/Versions
 de4dot-netcoreapp3.1.json,ScoopInstaller/Versions
 miniconda2_ScoopInstaller.json,ScoopInstaller/Versions
 idea-ultimate-eap.json,ScoopInstaller/Versions
+librehardwaremonitor-dotnet10-nightly.json,ScoopInstaller/Versions
 vlc-nightly.json,ScoopInstaller/Versions
 vscode-insiders.json,ScoopInstaller/Versions
 nodejs20.json,ScoopInstaller/Versions
@@ -9739,7 +9741,7 @@ pnpm-tab-completion.json,DoveBoy/Apps
 throne_DoveBoy.json,DoveBoy/Apps
 compactgui.json,DoveBoy/Apps
 gopeed-web.json,DoveBoy/Apps
-everything-alpha_DoveBoy.json,DoveBoy/Apps
+everything-alpha.json,DoveBoy/Apps
 apprhyme.json,DoveBoy/Apps
 tcping_DoveBoy.json,DoveBoy/Apps
 kando_DoveBoy.json,DoveBoy/Apps
@@ -9822,7 +9824,6 @@ mrrss_DoveBoy.json,DoveBoy/Apps
 imagemagick_DoveBoy.json,DoveBoy/Apps
 picacomic-downloader-portable.json,DoveBoy/Apps
 openssl_DoveBoy.json,DoveBoy/Apps
-apkeep.json,DoveBoy/Apps
 lux_DoveBoy.json,DoveBoy/Apps
 experimental-clash.json,DoveBoy/Apps
 officetoolplus_DoveBoy.json,DoveBoy/Apps
@@ -9997,6 +9998,7 @@ helix_DoveBoy.json,DoveBoy/Apps
 ttime.json,DoveBoy/Apps
 ripgrep_DoveBoy.json,DoveBoy/Apps
 treesize_DoveBoy.json,DoveBoy/Apps
+electerm_DoveBoy.json,DoveBoy/Apps
 mpv-git_DoveBoy.json,DoveBoy/Apps
 calctus.json,DoveBoy/Apps
 googletranslateipcheck.json,DoveBoy/Apps
@@ -15134,7 +15136,7 @@ msys2_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 public-sans.json,ShuguangSun/sgs-scoop-bucket
 sumatrapdf-stable.json,ShuguangSun/sgs-scoop-bucket
 miktex_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-chatbox.json,ShuguangSun/sgs-scoop-bucket
+chatbox_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 vscodium_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 wpsoffice.json,ShuguangSun/sgs-scoop-bucket
 r-4.2.0.json,ShuguangSun/sgs-scoop-bucket
