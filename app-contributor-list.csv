@@ -2592,7 +2592,7 @@ kanata-cmd.json,ScoopInstaller/Extras
 fastcopy.json,ScoopInstaller/Extras
 cascadeur.json,ScoopInstaller/Extras
 mongodb-compass.json,ScoopInstaller/Extras
-vscode.json,ScoopInstaller/Extras
+vscode_ScoopInstaller.json,ScoopInstaller/Extras
 gui-for-clash.json,ScoopInstaller/Extras
 jasper.json,ScoopInstaller/Extras
 cookiecutter.json,ScoopInstaller/Extras
@@ -4187,7 +4187,7 @@ qqmusic.json,Scoopforge/Extras-CN
 weasel.json,Scoopforge/Extras-CN
 clash-mi.json,Scoopforge/Extras-CN
 kingdraw.json,Scoopforge/Extras-CN
-feishu.json,Scoopforge/Extras-CN
+feishu_Scoopforge.json,Scoopforge/Extras-CN
 lky-officetools.json,Scoopforge/Extras-CN
 ting-en.json,Scoopforge/Extras-CN
 dashplayer.json,Scoopforge/Extras-CN
@@ -10047,7 +10047,7 @@ ftpserver.json,DoveBoy/Apps
 picotorrent_DoveBoy.json,DoveBoy/Apps
 convert.net_DoveBoy.json,DoveBoy/Apps
 cheat-engine_DoveBoy.json,DoveBoy/Apps
-dandanplay.json,DoveBoy/Apps
+dandanplay_DoveBoy.json,DoveBoy/Apps
 so-novel.json,DoveBoy/Apps
 joplin-pre_DoveBoy.json,DoveBoy/Apps
 psreadline_DoveBoy.json,DoveBoy/Apps
@@ -12762,7 +12762,7 @@ cpachecker.json,seumsc/scoop-seu
 videosubfinder.json,seumsc/scoop-seu
 kindlegen_seumsc.json,seumsc/scoop-seu
 autowikibrowser.json,seumsc/scoop-seu
-kook.json,seumsc/scoop-seu
+kook_seumsc.json,seumsc/scoop-seu
 archisteamfarm-generic.json,seumsc/scoop-seu
 musicdecrypto.json,seumsc/scoop-seu
 shterm-alt.json,seumsc/scoop-seu
@@ -15085,7 +15085,7 @@ emacs-aot.json,ShuguangSun/sgs-scoop-bucket
 r-4.5.json,ShuguangSun/sgs-scoop-bucket
 vale_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 diff-pdf_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-micromamba.json,ShuguangSun/sgs-scoop-bucket
+micromamba_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 cherry-studio-1.0.6.json,ShuguangSun/sgs-scoop-bucket
 r-4.5.3.json,ShuguangSun/sgs-scoop-bucket
 ark_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
@@ -15301,7 +15301,6 @@ mdview_windedge.json,windedge/ladle-bucket
 godot3_windedge.json,windedge/ladle-bucket
 godot3-kotlin-jvm.json,windedge/ladle-bucket
 lem.json,windedge/ladle-bucket
-scooper_windedge.json,windedge/ladle-bucket
 gotify-tray.json,windedge/ladle-bucket
 scia-reto.json,windedge/ladle-bucket
 forgecode_windedge.json,windedge/ladle-bucket
