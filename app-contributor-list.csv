@@ -3099,7 +3099,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -9709,6 +9709,7 @@ logi-options-plus-mini.json,DoveBoy/Apps
 vocal-separate.json,DoveBoy/Apps
 text-generation-webui.json,DoveBoy/Apps
 cloudreve.json,DoveBoy/Apps
+shotcut_DoveBoy.json,DoveBoy/Apps
 fileconverter.json,DoveBoy/Apps
 compresso.json,DoveBoy/Apps
 irfanview-lean_DoveBoy.json,DoveBoy/Apps
@@ -9999,7 +10000,6 @@ lan-mouse_DoveBoy.json,DoveBoy/Apps
 helix_DoveBoy.json,DoveBoy/Apps
 ttime.json,DoveBoy/Apps
 ripgrep_DoveBoy.json,DoveBoy/Apps
-cudatext_DoveBoy.json,DoveBoy/Apps
 treesize_DoveBoy.json,DoveBoy/Apps
 mpv-git_DoveBoy.json,DoveBoy/Apps
 calctus.json,DoveBoy/Apps
@@ -13276,7 +13276,7 @@ crystaldiskmark-shizuku.json,aoisummer/scoop-bucket
 snapraid_aoisummer.json,aoisummer/scoop-bucket
 crystaldiskinfo-shizuku.json,aoisummer/scoop-bucket
 crystaldiskinfo-aoi.json,aoisummer/scoop-bucket
-firefox-esr-zh-cn_aoisummer.json,aoisummer/scoop-bucket
+firefox-esr-zh-cn.json,aoisummer/scoop-bucket
 dandanplay_aoisummer.json,aoisummer/scoop-bucket
 bbdown_aoisummer.json,aoisummer/scoop-bucket
 poi.json,aoisummer/scoop-bucket
@@ -13417,6 +13417,7 @@ LyX_cc713.json,cc713/ownscoop
 qimgv-dev.json,cc713/ownscoop
 nomacs_cc713.json,cc713/ownscoop
 OpenHashTab_cc713.json,cc713/ownscoop
+zyfun_cc713.json,cc713/ownscoop
 mpv.net-DW.json,cc713/ownscoop
 LunaTranslator_cc713.json,cc713/ownscoop
 lx-music_cc713.json,cc713/ownscoop
