@@ -5297,13 +5297,13 @@ pycharm-latest.json,ScoopInstaller/Versions
 freerdp-nightly.json,ScoopInstaller/Versions
 gradle6.json,ScoopInstaller/Versions
 firefox-beta.json,ScoopInstaller/Versions
-librehardwaremonitor-nigthly.json,ScoopInstaller/Versions
 dotnet3-sdk.json,ScoopInstaller/Versions
 clion-rc.json,ScoopInstaller/Versions
 kdenlive-nightly.json,ScoopInstaller/Versions
 yt-dlp-master.json,ScoopInstaller/Versions
 de4dot-net35.json,ScoopInstaller/Versions
 godot-alpha.json,ScoopInstaller/Versions
+librehardwaremonitor-dotnet10.json,ScoopInstaller/Versions
 llrt-beta.json,ScoopInstaller/Versions
 1password-cli1.json,ScoopInstaller/Versions
 chromedriver-canary.json,ScoopInstaller/Versions
@@ -5516,6 +5516,7 @@ haskell863.json,ScoopInstaller/Versions
 poppler068.json,ScoopInstaller/Versions
 php54-xdebug.json,ScoopInstaller/Versions
 caret-beta.json,ScoopInstaller/Versions
+gcc-arm-none-eabi10.3.json,ScoopInstaller/Versions
 cuda9.1.json,ScoopInstaller/Versions
 windowsdesktop-runtime-9.0.json,ScoopInstaller/Versions
 yazi-nightly.json,ScoopInstaller/Versions
@@ -5607,6 +5608,7 @@ taiga-beta.json,ScoopInstaller/Versions
 php81-xdebug.json,ScoopInstaller/Versions
 php55.json,ScoopInstaller/Versions
 mingw-winlibs-ucrt.json,ScoopInstaller/Versions
+librehardwaremonitor-nightly.json,ScoopInstaller/Versions
 espanso-pre.json,ScoopInstaller/Versions
 chromium-dev.json,ScoopInstaller/Versions
 strawberry-nightly.json,ScoopInstaller/Versions
@@ -9998,7 +10000,6 @@ helix_DoveBoy.json,DoveBoy/Apps
 ttime.json,DoveBoy/Apps
 ripgrep_DoveBoy.json,DoveBoy/Apps
 treesize_DoveBoy.json,DoveBoy/Apps
-electerm_DoveBoy.json,DoveBoy/Apps
 mpv-git_DoveBoy.json,DoveBoy/Apps
 calctus.json,DoveBoy/Apps
 googletranslateipcheck.json,DoveBoy/Apps
@@ -10102,6 +10103,8 @@ esearch_DoveBoy.json,DoveBoy/Apps
 bilibili-manga-downloader.json,DoveBoy/Apps
 hysteria_DoveBoy.json,DoveBoy/Apps
 maple-file.json,DoveBoy/Apps
+libreoffice_DoveBoy.json,DoveBoy/Apps
+rufus_DoveBoy.json,DoveBoy/Apps
 retrieval-based-voice-conversion-webui.json,DoveBoy/Apps
 deskreen_DoveBoy.json,DoveBoy/Apps
 final2x.json,DoveBoy/Apps
@@ -15304,12 +15307,15 @@ mdview_windedge.json,windedge/ladle-bucket
 godot3_windedge.json,windedge/ladle-bucket
 godot3-kotlin-jvm.json,windedge/ladle-bucket
 lem.json,windedge/ladle-bucket
+scooper_windedge.json,windedge/ladle-bucket
 gotify-tray.json,windedge/ladle-bucket
 scia-reto.json,windedge/ladle-bucket
 forgecode_windedge.json,windedge/ladle-bucket
 weasyprint_windedge.json,windedge/ladle-bucket
 temurin20-jdk_windedge.json,windedge/ladle-bucket
 tiny-rdm.json,windedge/ladle-bucket
+askimo.json,windedge/ladle-bucket
+askimo-desktop.json,windedge/ladle-bucket
 godot-kotlin-jvm.json,windedge/ladle-bucket
 llama-cpp-ipex-llm-npu.json,windedge/ladle-bucket
 5ire_windedge.json,windedge/ladle-bucket
