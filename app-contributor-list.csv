@@ -8954,6 +8954,7 @@ cpuz-cn.json,ViCrack/scoop-bucket
 fapro.json,ViCrack/scoop-bucket
 tls_proxy.json,ViCrack/scoop-bucket
 pot_ViCrack.json,ViCrack/scoop-bucket
+upterm.json,ViCrack/scoop-bucket
 ffuf_ViCrack.json,ViCrack/scoop-bucket
 verycapture.json,ViCrack/scoop-bucket
 TscanPlus_ViCrack.json,ViCrack/scoop-bucket
@@ -11620,7 +11621,7 @@ sideloadly.json,WinApps-share/WinApps-bucket
 lanzouyun-disk_WinApps-share.json,WinApps-share/WinApps-bucket
 lx-music-np.json,WinApps-share/WinApps-bucket
 gui-for-singbox_WinApps-share.json,WinApps-share/WinApps-bucket
-lx-music_WinApps-share.json,WinApps-share/WinApps-bucket
+lx-music.json,WinApps-share/WinApps-bucket
 vmware.json,WinApps-share/WinApps-bucket
 pot-desktop_WinApps-share.json,WinApps-share/WinApps-bucket
 git-np.json,WinApps-share/WinApps-bucket
