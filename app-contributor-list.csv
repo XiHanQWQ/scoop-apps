@@ -2155,7 +2155,7 @@ midicsv.json,ScoopInstaller/Extras
 tumblthree.json,ScoopInstaller/Extras
 bleachbit.json,ScoopInstaller/Extras
 video-thumbnails-maker.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 ip2location-io-cli.json,ScoopInstaller/Extras
 qefi-entry-manager.json,ScoopInstaller/Extras
 ddu.json,ScoopInstaller/Extras
@@ -3099,7 +3099,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -4561,7 +4561,7 @@ ps3-system-software.json,Calinou/scoop-games
 battlenet.json,Calinou/scoop-games
 dreamm.json,Calinou/scoop-games
 nugget-doom.json,Calinou/scoop-games
-hmcl_Calinou.json,Calinou/scoop-games
+hmcl.json,Calinou/scoop-games
 mindustry-server.json,Calinou/scoop-games
 triplea.json,Calinou/scoop-games
 shatteredpixeldungeon.json,Calinou/scoop-games
@@ -10551,7 +10551,7 @@ vnote_wzv5.json,wzv5/ScoopBucket
 nodejs-bin.json,wzv5/ScoopBucket
 oleviewdotnet.json,wzv5/ScoopBucket
 aliyundrive_wzv5.json,wzv5/ScoopBucket
-lx-music-desktop_wzv5.json,wzv5/ScoopBucket
+lx-music-desktop.json,wzv5/ScoopBucket
 yy-thunks.json,wzv5/ScoopBucket
 kazumi_wzv5.json,wzv5/ScoopBucket
 vc-ltl.json,wzv5/ScoopBucket
@@ -11160,6 +11160,7 @@ screenshot-captor.json,naderi/scoop-bucket
 chrome-canary-portable.json,naderi/scoop-bucket
 mitec-json-viewer.json,naderi/scoop-bucket
 font-farbod.json,naderi/scoop-bucket
+encrypto.json,naderi/scoop-bucket
 cherry-studio_naderi.json,naderi/scoop-bucket
 totalcommander-beta-portable.json,naderi/scoop-bucket
 rtools_naderi.json,naderi/scoop-bucket
@@ -11461,7 +11462,7 @@ yae-achievement.json,Small-Ku/turbo-bucket
 mort.json,Small-Ku/turbo-bucket
 qbittorrent-enhanced_Small-Ku.json,Small-Ku/turbo-bucket
 sarasa-super-ttc.json,Small-Ku/turbo-bucket
-ruffle_Small-Ku.json,Small-Ku/turbo-bucket
+ruffle.json,Small-Ku/turbo-bucket
 reshade-addon.json,Small-Ku/turbo-bucket
 imageglass-beta.json,Small-Ku/turbo-bucket
 psst.json,Small-Ku/turbo-bucket
@@ -15029,7 +15030,7 @@ mozlz4_404NetworkError.json,404NetworkError/scoop-bucket
 libation-nightly.json,404NetworkError/scoop-bucket
 microbenchx.json,404NetworkError/scoop-bucket
 spek.json,404NetworkError/scoop-bucket
-markpad_404NetworkError.json,404NetworkError/scoop-bucket
+markpad.json,404NetworkError/scoop-bucket
 depotdownloader.json,404NetworkError/scoop-bucket
 hash-suite-free.json,404NetworkError/scoop-bucket
 xenu-beta.json,404NetworkError/scoop-bucket
