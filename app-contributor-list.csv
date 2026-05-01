@@ -3099,7 +3099,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -9467,7 +9467,7 @@ nano_akirco.json,akirco/aki-apps
 lsd_akirco.json,akirco/aki-apps
 jabba_akirco.json,akirco/aki-apps
 nvs_akirco.json,akirco/aki-apps
-vscode_akirco.json,akirco/aki-apps
+vscode.json,akirco/aki-apps
 aria2_akirco.json,akirco/aki-apps
 qrcp_akirco.json,akirco/aki-apps
 translucenttb_akirco.json,akirco/aki-apps
@@ -9622,7 +9622,7 @@ visualvm_TheRandomLabs.json,TheRandomLabs/Scoop-Bucket
 win10-initial-setup-script.json,TheRandomLabs/Scoop-Bucket
 ffmpeg-for-audacity.json,TheRandomLabs/Scoop-Bucket
 neovim-dev.json,TheRandomLabs/Scoop-Bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
@@ -10228,6 +10228,7 @@ splayer-beta.json,DoveBoy/Apps
 webcam-on-off_DoveBoy.json,DoveBoy/Apps
 biu-portable.json,DoveBoy/Apps
 baidupanfilestransfers_DoveBoy.json,DoveBoy/Apps
+forkgram_DoveBoy.json,DoveBoy/Apps
 keymap.json,DoveBoy/Apps
 winhance.json,DoveBoy/Apps
 opentrace_DoveBoy.json,DoveBoy/Apps
@@ -13240,7 +13241,7 @@ font-migu-1p.json,mo-san/scoop-bucket
 font-migmix-1p.json,mo-san/scoop-bucket
 renovate_mo-san.json,mo-san/scoop-bucket
 php74-nts.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn.json,aoisummer/scoop-bucket
 kiwix_aoisummer.json,aoisummer/scoop-bucket
 you-get_aoisummer.json,aoisummer/scoop-bucket
 clash-for-windows_aoisummer.json,aoisummer/scoop-bucket
@@ -14273,6 +14274,7 @@ supermario-64-ultraship.json,Deide/deide-bucket
 athenas-ass-mhGen.json,Deide/deide-bucket
 glfw_Deide.json,Deide/deide-bucket
 gog-galaxy.json,Deide/deide-bucket
+wezterm-nightly_Deide.json,Deide/deide-bucket
 ontopreplica_Deide.json,Deide/deide-bucket
 SwitchArmyKnife.json,Deide/deide-bucket
 ludo_Deide.json,Deide/deide-bucket
