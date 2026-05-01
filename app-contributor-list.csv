@@ -5274,7 +5274,7 @@ r41.json,ScoopInstaller/Versions
 nodejs010.json,ScoopInstaller/Versions
 go124.json,ScoopInstaller/Versions
 olive-editor-nightly.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 go121.json,ScoopInstaller/Versions
 cuda11.0.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
@@ -9709,7 +9709,6 @@ logi-options-plus-mini.json,DoveBoy/Apps
 vocal-separate.json,DoveBoy/Apps
 text-generation-webui.json,DoveBoy/Apps
 cloudreve.json,DoveBoy/Apps
-shotcut_DoveBoy.json,DoveBoy/Apps
 fileconverter.json,DoveBoy/Apps
 compresso.json,DoveBoy/Apps
 irfanview-lean_DoveBoy.json,DoveBoy/Apps
@@ -11462,7 +11461,7 @@ yae-achievement.json,Small-Ku/turbo-bucket
 mort.json,Small-Ku/turbo-bucket
 qbittorrent-enhanced_Small-Ku.json,Small-Ku/turbo-bucket
 sarasa-super-ttc.json,Small-Ku/turbo-bucket
-ruffle.json,Small-Ku/turbo-bucket
+ruffle_Small-Ku.json,Small-Ku/turbo-bucket
 reshade-addon.json,Small-Ku/turbo-bucket
 imageglass-beta.json,Small-Ku/turbo-bucket
 psst.json,Small-Ku/turbo-bucket
@@ -15111,7 +15110,6 @@ mdview_windedge.json,windedge/ladle-bucket
 godot3_windedge.json,windedge/ladle-bucket
 godot3-kotlin-jvm.json,windedge/ladle-bucket
 lem.json,windedge/ladle-bucket
-scooper_windedge.json,windedge/ladle-bucket
 gotify-tray.json,windedge/ladle-bucket
 scia-reto.json,windedge/ladle-bucket
 forgecode_windedge.json,windedge/ladle-bucket
