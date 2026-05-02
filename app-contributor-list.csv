@@ -2155,7 +2155,7 @@ midicsv.json,ScoopInstaller/Extras
 tumblthree.json,ScoopInstaller/Extras
 bleachbit.json,ScoopInstaller/Extras
 video-thumbnails-maker.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 ip2location-io-cli.json,ScoopInstaller/Extras
 qefi-entry-manager.json,ScoopInstaller/Extras
 ddu.json,ScoopInstaller/Extras
@@ -2184,7 +2184,7 @@ pspad.json,ScoopInstaller/Extras
 vapoursyntheditor.json,ScoopInstaller/Extras
 snipaste.json,ScoopInstaller/Extras
 confuser-ex.json,ScoopInstaller/Extras
-waifu2x-extension-gui_ScoopInstaller.json,ScoopInstaller/Extras
+waifu2x-extension-gui.json,ScoopInstaller/Extras
 beaver-notes.json,ScoopInstaller/Extras
 windirstat.json,ScoopInstaller/Extras
 commandbox.json,ScoopInstaller/Extras
@@ -3099,7 +3099,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -9467,7 +9467,7 @@ nano_akirco.json,akirco/aki-apps
 lsd_akirco.json,akirco/aki-apps
 jabba_akirco.json,akirco/aki-apps
 nvs_akirco.json,akirco/aki-apps
-vscode.json,akirco/aki-apps
+vscode_akirco.json,akirco/aki-apps
 aria2_akirco.json,akirco/aki-apps
 qrcp_akirco.json,akirco/aki-apps
 translucenttb_akirco.json,akirco/aki-apps
@@ -9622,7 +9622,7 @@ visualvm_TheRandomLabs.json,TheRandomLabs/Scoop-Bucket
 win10-initial-setup-script.json,TheRandomLabs/Scoop-Bucket
 ffmpeg-for-audacity.json,TheRandomLabs/Scoop-Bucket
 neovim-dev.json,TheRandomLabs/Scoop-Bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
