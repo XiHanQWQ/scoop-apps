@@ -4561,7 +4561,7 @@ ps3-system-software.json,Calinou/scoop-games
 battlenet.json,Calinou/scoop-games
 dreamm.json,Calinou/scoop-games
 nugget-doom.json,Calinou/scoop-games
-hmcl.json,Calinou/scoop-games
+hmcl_Calinou.json,Calinou/scoop-games
 mindustry-server.json,Calinou/scoop-games
 triplea.json,Calinou/scoop-games
 shatteredpixeldungeon.json,Calinou/scoop-games
@@ -5274,7 +5274,7 @@ r41.json,ScoopInstaller/Versions
 nodejs010.json,ScoopInstaller/Versions
 go124.json,ScoopInstaller/Versions
 olive-editor-nightly.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 go121.json,ScoopInstaller/Versions
 cuda11.0.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
@@ -10228,7 +10228,6 @@ splayer-beta.json,DoveBoy/Apps
 webcam-on-off_DoveBoy.json,DoveBoy/Apps
 biu-portable.json,DoveBoy/Apps
 baidupanfilestransfers_DoveBoy.json,DoveBoy/Apps
-forkgram_DoveBoy.json,DoveBoy/Apps
 keymap.json,DoveBoy/Apps
 winhance.json,DoveBoy/Apps
 opentrace_DoveBoy.json,DoveBoy/Apps
@@ -11162,7 +11161,6 @@ screenshot-captor.json,naderi/scoop-bucket
 chrome-canary-portable.json,naderi/scoop-bucket
 mitec-json-viewer.json,naderi/scoop-bucket
 font-farbod.json,naderi/scoop-bucket
-encrypto.json,naderi/scoop-bucket
 cherry-studio_naderi.json,naderi/scoop-bucket
 totalcommander-beta-portable.json,naderi/scoop-bucket
 rtools_naderi.json,naderi/scoop-bucket
@@ -11233,7 +11231,7 @@ winamp.json,naderi/scoop-bucket
 transmission-portable_naderi.json,naderi/scoop-bucket
 thunderbird-beta.json,naderi/scoop-bucket
 gvim-portable.json,naderi/scoop-bucket
-thunderbird-portable_naderi.json,naderi/scoop-bucket
+thunderbird-portable.json,naderi/scoop-bucket
 texniccenter_naderi.json,naderi/scoop-bucket
 openwebstart.json,naderi/scoop-bucket
 font-sahel.json,naderi/scoop-bucket
@@ -13241,7 +13239,7 @@ font-migu-1p.json,mo-san/scoop-bucket
 font-migmix-1p.json,mo-san/scoop-bucket
 renovate_mo-san.json,mo-san/scoop-bucket
 php74-nts.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 kiwix_aoisummer.json,aoisummer/scoop-bucket
 you-get_aoisummer.json,aoisummer/scoop-bucket
 clash-for-windows_aoisummer.json,aoisummer/scoop-bucket
@@ -15516,7 +15514,7 @@ mozlz4_404NetworkError.json,404NetworkError/scoop-bucket
 libation-nightly.json,404NetworkError/scoop-bucket
 microbenchx.json,404NetworkError/scoop-bucket
 spek.json,404NetworkError/scoop-bucket
-markpad.json,404NetworkError/scoop-bucket
+markpad_404NetworkError.json,404NetworkError/scoop-bucket
 depotdownloader.json,404NetworkError/scoop-bucket
 hash-suite-free.json,404NetworkError/scoop-bucket
 xenu-beta.json,404NetworkError/scoop-bucket
