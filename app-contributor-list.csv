@@ -11632,7 +11632,7 @@ airpods-desktop.json,WinApps-share/WinApps-bucket
 ollama_WinApps-share.json,WinApps-share/WinApps-bucket
 google-chrome.json,WinApps-share/WinApps-bucket
 g-helper_WinApps-share.json,WinApps-share/WinApps-bucket
-dbeaver_WinApps-share.json,WinApps-share/WinApps-bucket
+dbeaver.json,WinApps-share/WinApps-bucket
 dropit_WinApps-share.json,WinApps-share/WinApps-bucket
 MemProcFS.json,kengwang/scoop-ctftools-bucket
 ZipCracker.json,kengwang/scoop-ctftools-bucket
