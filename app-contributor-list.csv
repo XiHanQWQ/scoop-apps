@@ -9549,7 +9549,7 @@ zstd_akirco.json,akirco/aki-apps
 shellcheck_akirco.json,akirco/aki-apps
 win32-openssh.json,akirco/aki-apps
 7zip_akirco.json,akirco/aki-apps
-powertoys.json,akirco/aki-apps
+powertoys_akirco.json,akirco/aki-apps
 oxipng_akirco.json,akirco/aki-apps
 hellofont_akirco.json,akirco/aki-apps
 oss-browser_akirco.json,akirco/aki-apps
@@ -9869,6 +9869,7 @@ umi-ocr-rapid_DoveBoy.json,DoveBoy/Apps
 grep_DoveBoy.json,DoveBoy/Apps
 windows-manage-tool.json,DoveBoy/Apps
 motrixnext.json,DoveBoy/Apps
+youtube-dl-gui_DoveBoy.json,DoveBoy/Apps
 clashwarden.json,DoveBoy/Apps
 imfile.json,DoveBoy/Apps
 saber_DoveBoy.json,DoveBoy/Apps
@@ -10052,7 +10053,7 @@ ftpserver.json,DoveBoy/Apps
 picotorrent_DoveBoy.json,DoveBoy/Apps
 convert.net_DoveBoy.json,DoveBoy/Apps
 cheat-engine_DoveBoy.json,DoveBoy/Apps
-dandanplay_DoveBoy.json,DoveBoy/Apps
+dandanplay.json,DoveBoy/Apps
 so-novel.json,DoveBoy/Apps
 joplin-pre_DoveBoy.json,DoveBoy/Apps
 psreadline_DoveBoy.json,DoveBoy/Apps
@@ -10293,6 +10294,7 @@ ruffle.json,DoveBoy/Apps
 shadowsocksr-hmbsbige-full.json,DoveBoy/Apps
 clash-rev-cgo.json,DoveBoy/Apps
 clash-party-portable.json,DoveBoy/Apps
+scoop-completion_DoveBoy.json,DoveBoy/Apps
 github_DoveBoy.json,DoveBoy/Apps
 hummingbird.json,DoveBoy/Apps
 pwsh_DoveBoy.json,DoveBoy/Apps
@@ -11161,6 +11163,7 @@ screenshot-captor.json,naderi/scoop-bucket
 chrome-canary-portable.json,naderi/scoop-bucket
 mitec-json-viewer.json,naderi/scoop-bucket
 font-farbod.json,naderi/scoop-bucket
+encrypto_naderi.json,naderi/scoop-bucket
 cherry-studio_naderi.json,naderi/scoop-bucket
 totalcommander-beta-portable.json,naderi/scoop-bucket
 rtools_naderi.json,naderi/scoop-bucket
@@ -14344,7 +14347,7 @@ xenia_Deide.json,Deide/deide-bucket
 ryujinx_Deide.json,Deide/deide-bucket
 ripcord_Deide.json,Deide/deide-bucket
 visualboyadvance-m_Deide.json,Deide/deide-bucket
-playnite.json,Deide/deide-bucket
+playnite_Deide.json,Deide/deide-bucket
 lunarips.json,Deide/deide-bucket
 ukmm.json,Deide/deide-bucket
 zelda-oot-ultraship.json,Deide/deide-bucket
