@@ -2793,7 +2793,7 @@ plantuml.json,ScoopInstaller/Extras
 enpass.json,ScoopInstaller/Extras
 opensca-cli.json,ScoopInstaller/Extras
 remove-empty-directories.json,ScoopInstaller/Extras
-autohotkey_ScoopInstaller.json,ScoopInstaller/Extras
+autohotkey.json,ScoopInstaller/Extras
 conemu-color-themes.json,ScoopInstaller/Extras
 tailscale.json,ScoopInstaller/Extras
 sd-card-formatter.json,ScoopInstaller/Extras
@@ -11237,7 +11237,7 @@ winamp.json,naderi/scoop-bucket
 transmission-portable_naderi.json,naderi/scoop-bucket
 thunderbird-beta.json,naderi/scoop-bucket
 gvim-portable.json,naderi/scoop-bucket
-thunderbird-portable.json,naderi/scoop-bucket
+thunderbird-portable_naderi.json,naderi/scoop-bucket
 texniccenter_naderi.json,naderi/scoop-bucket
 openwebstart.json,naderi/scoop-bucket
 font-sahel.json,naderi/scoop-bucket
