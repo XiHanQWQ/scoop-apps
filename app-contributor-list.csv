@@ -3099,7 +3099,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -4476,6 +4476,7 @@ enigma.json,Calinou/scoop-games
 asset-ripper.json,Calinou/scoop-games
 betacraft-launcher.json,Calinou/scoop-games
 bedrockupdater.json,Calinou/scoop-games
+wand.json,Calinou/scoop-games
 epic-games-launcher.json,Calinou/scoop-games
 flashpoint.json,Calinou/scoop-games
 doomrunner.json,Calinou/scoop-games
@@ -5434,6 +5435,7 @@ winpython38ps2.json,ScoopInstaller/Versions
 rstudio11.json,ScoopInstaller/Versions
 python35.json,ScoopInstaller/Versions
 openssl1-light.json,ScoopInstaller/Versions
+7zip-dark.json,ScoopInstaller/Versions
 git19.json,ScoopInstaller/Versions
 odin.json,ScoopInstaller/Versions
 qbittorrent-nightly.json,ScoopInstaller/Versions
@@ -8214,7 +8216,7 @@ MParallel.json,dodorz/scoop
 Virtualgo.json,dodorz/scoop
 Getmail.json,dodorz/scoop
 CreaWriter.json,dodorz/scoop
-Cliamp.json,dodorz/scoop
+Cliamp_dodorz.json,dodorz/scoop
 Notepad4_HD_zh-Hans.json,dodorz/scoop
 Frameless.json,dodorz/scoop
 Droid.json,dodorz/scoop
@@ -11523,7 +11525,7 @@ clash-verge-rev-np.json,WinApps-share/WinApps-bucket
 honeyview_WinApps-share.json,WinApps-share/WinApps-bucket
 directx-repair.json,WinApps-share/WinApps-bucket
 softcnkiller.json,WinApps-share/WinApps-bucket
-unigetui_WinApps-share.json,WinApps-share/WinApps-bucket
+unigetui.json,WinApps-share/WinApps-bucket
 reqable-np.json,WinApps-share/WinApps-bucket
 listary_WinApps-share.json,WinApps-share/WinApps-bucket
 pdfqfz_WinApps-share.json,WinApps-share/WinApps-bucket
