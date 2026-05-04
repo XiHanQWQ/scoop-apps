@@ -5274,7 +5274,7 @@ r41.json,ScoopInstaller/Versions
 nodejs010.json,ScoopInstaller/Versions
 go124.json,ScoopInstaller/Versions
 olive-editor-nightly.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 go121.json,ScoopInstaller/Versions
 cuda11.0.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
@@ -10055,7 +10055,7 @@ ftpserver.json,DoveBoy/Apps
 picotorrent_DoveBoy.json,DoveBoy/Apps
 convert.net_DoveBoy.json,DoveBoy/Apps
 cheat-engine_DoveBoy.json,DoveBoy/Apps
-dandanplay.json,DoveBoy/Apps
+dandanplay_DoveBoy.json,DoveBoy/Apps
 so-novel.json,DoveBoy/Apps
 joplin-pre_DoveBoy.json,DoveBoy/Apps
 psreadline_DoveBoy.json,DoveBoy/Apps
@@ -11632,7 +11632,7 @@ airpods-desktop.json,WinApps-share/WinApps-bucket
 ollama_WinApps-share.json,WinApps-share/WinApps-bucket
 google-chrome.json,WinApps-share/WinApps-bucket
 g-helper_WinApps-share.json,WinApps-share/WinApps-bucket
-dbeaver.json,WinApps-share/WinApps-bucket
+dbeaver_WinApps-share.json,WinApps-share/WinApps-bucket
 dropit_WinApps-share.json,WinApps-share/WinApps-bucket
 MemProcFS.json,kengwang/scoop-ctftools-bucket
 ZipCracker.json,kengwang/scoop-ctftools-bucket
@@ -12326,6 +12326,7 @@ sq.json,aliesbelik/poldi
 brows.json,aliesbelik/poldi
 reqstress_aliesbelik.json,aliesbelik/poldi
 plow.json,aliesbelik/poldi
+serpl.json,aliesbelik/poldi
 byedpi.json,aliesbelik/poldi
 gocannon.json,aliesbelik/poldi
 ntttcp.json,aliesbelik/poldi
