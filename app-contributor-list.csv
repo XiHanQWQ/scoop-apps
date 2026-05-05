@@ -9767,7 +9767,7 @@ sandboxie-plus-np_DoveBoy.json,DoveBoy/Apps
 innounp_DoveBoy.json,DoveBoy/Apps
 dnsjumper_DoveBoy.json,DoveBoy/Apps
 pytranscriber.json,DoveBoy/Apps
-v2rayn_DoveBoy.json,DoveBoy/Apps
+v2rayn.json,DoveBoy/Apps
 final2x-portable.json,DoveBoy/Apps
 biliup-rs.json,DoveBoy/Apps
 pikapika.json,DoveBoy/Apps
@@ -9791,7 +9791,6 @@ nvm_DoveBoy.json,DoveBoy/Apps
 hgrep.json,DoveBoy/Apps
 fancontrol-net4.8-portable.json,DoveBoy/Apps
 etcher-portable.json,DoveBoy/Apps
-kotatogram-beta_DoveBoy.json,DoveBoy/Apps
 energystarx.json,DoveBoy/Apps
 clianpro.json,DoveBoy/Apps
 pdfarranger_DoveBoy.json,DoveBoy/Apps
@@ -9826,7 +9825,6 @@ winupdateminitool.json,DoveBoy/Apps
 varia-portable.json,DoveBoy/Apps
 baidupcs-go_DoveBoy.json,DoveBoy/Apps
 glow_DoveBoy.json,DoveBoy/Apps
-bulk-crap-uninstaller_DoveBoy.json,DoveBoy/Apps
 quicklook_DoveBoy.json,DoveBoy/Apps
 rustdesk_DoveBoy.json,DoveBoy/Apps
 mrrss_DoveBoy.json,DoveBoy/Apps
@@ -9978,7 +9976,6 @@ ipinfo.json,DoveBoy/Apps
 speedtest-cli_DoveBoy.json,DoveBoy/Apps
 pydebloatx.json,DoveBoy/Apps
 gitextensions_DoveBoy.json,DoveBoy/Apps
-ayugram_DoveBoy.json,DoveBoy/Apps
 qq-nt_DoveBoy.json,DoveBoy/Apps
 localsqueeze.json,DoveBoy/Apps
 splayer.json,DoveBoy/Apps
@@ -10008,7 +10005,6 @@ helix_DoveBoy.json,DoveBoy/Apps
 ttime.json,DoveBoy/Apps
 ripgrep_DoveBoy.json,DoveBoy/Apps
 treesize_DoveBoy.json,DoveBoy/Apps
-electerm_DoveBoy.json,DoveBoy/Apps
 mpv-git_DoveBoy.json,DoveBoy/Apps
 calctus.json,DoveBoy/Apps
 googletranslateipcheck.json,DoveBoy/Apps
@@ -10073,7 +10069,6 @@ telegram_DoveBoy.json,DoveBoy/Apps
 bbdown_DoveBoy.json,DoveBoy/Apps
 musicfreedesktop.json,DoveBoy/Apps
 fd_DoveBoy.json,DoveBoy/Apps
-64gram_DoveBoy.json,DoveBoy/Apps
 b23downloader_DoveBoy.json,DoveBoy/Apps
 game-cheats-manager_DoveBoy.json,DoveBoy/Apps
 doc-downloader.json,DoveBoy/Apps
@@ -10289,7 +10284,6 @@ min_DoveBoy.json,DoveBoy/Apps
 qbittorrent-enhanced_DoveBoy.json,DoveBoy/Apps
 backup-start-menu-layout_DoveBoy.json,DoveBoy/Apps
 mediago-beta.json,DoveBoy/Apps
-fiddler_DoveBoy.json,DoveBoy/Apps
 scrcpy_DoveBoy.json,DoveBoy/Apps
 coco.json,DoveBoy/Apps
 binggpt.json,DoveBoy/Apps
@@ -10320,7 +10314,7 @@ kopia-cli.json,DoveBoy/Apps
 nping.json,DoveBoy/Apps
 scoop-tab-completion.json,DoveBoy/Apps
 chatbox_DoveBoy.json,DoveBoy/Apps
-karing_DoveBoy.json,DoveBoy/Apps
+karing.json,DoveBoy/Apps
 bili-cli-rs.json,DoveBoy/Apps
 trafficmonitor_DoveBoy.json,DoveBoy/Apps
 xray_DoveBoy.json,DoveBoy/Apps
@@ -11443,7 +11437,7 @@ yae-achievement.json,Small-Ku/turbo-bucket
 mort.json,Small-Ku/turbo-bucket
 qbittorrent-enhanced_Small-Ku.json,Small-Ku/turbo-bucket
 sarasa-super-ttc.json,Small-Ku/turbo-bucket
-ruffle.json,Small-Ku/turbo-bucket
+ruffle_Small-Ku.json,Small-Ku/turbo-bucket
 reshade-addon.json,Small-Ku/turbo-bucket
 imageglass-beta.json,Small-Ku/turbo-bucket
 psst.json,Small-Ku/turbo-bucket
@@ -11502,7 +11496,7 @@ brave-np.json,WinApps-share/WinApps-bucket
 wgestures_WinApps-share.json,WinApps-share/WinApps-bucket
 keyviz_WinApps-share.json,WinApps-share/WinApps-bucket
 jianqiezhushou.json,WinApps-share/WinApps-bucket
-motrixnext.json,WinApps-share/WinApps-bucket
+motrixnext_WinApps-share.json,WinApps-share/WinApps-bucket
 musicfree.json,WinApps-share/WinApps-bucket
 weasel_WinApps-share.json,WinApps-share/WinApps-bucket
 everything-np_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -11921,7 +11915,7 @@ knocker-core.json,noql-net/scoop
 warp-plus.json,noql-net/scoop
 nekoray_noql-net.json,noql-net/scoop
 throne_noql-net.json,noql-net/scoop
-v2rayn.json,noql-net/scoop
+v2rayn_noql-net.json,noql-net/scoop
 securednsclient.json,noql-net/scoop
 flclash_noql-net.json,noql-net/scoop
 hiddify-next_noql-net.json,noql-net/scoop
@@ -12328,7 +12322,7 @@ oq.json,aliesbelik/poldi
 sq.json,aliesbelik/poldi
 brows.json,aliesbelik/poldi
 reqstress_aliesbelik.json,aliesbelik/poldi
-plow.json,aliesbelik/poldi
+plow_aliesbelik.json,aliesbelik/poldi
 serpl.json,aliesbelik/poldi
 byedpi.json,aliesbelik/poldi
 gocannon.json,aliesbelik/poldi
