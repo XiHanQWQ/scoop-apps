@@ -3099,7 +3099,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -8963,7 +8963,7 @@ ffuf_ViCrack.json,ViCrack/scoop-bucket
 verycapture.json,ViCrack/scoop-bucket
 TscanPlus_ViCrack.json,ViCrack/scoop-bucket
 mdut_ViCrack.json,ViCrack/scoop-bucket
-katana.json,ViCrack/scoop-bucket
+katana_ViCrack.json,ViCrack/scoop-bucket
 hide-from-uninstall-list.json,ViCrack/scoop-bucket
 rubick.json,ViCrack/scoop-bucket
 z0scan.json,ViCrack/scoop-bucket
@@ -8987,7 +8987,7 @@ winmemorycleaner_ViCrack.json,ViCrack/scoop-bucket
 frpc-desktop.json,ViCrack/scoop-bucket
 rshell.json,ViCrack/scoop-bucket
 treesize_ViCrack.json,ViCrack/scoop-bucket
-naabu.json,ViCrack/scoop-bucket
+naabu_ViCrack.json,ViCrack/scoop-bucket
 git-repo-clean.json,ViCrack/scoop-bucket
 filezilla_ViCrack.json,ViCrack/scoop-bucket
 windterm_ViCrack.json,ViCrack/scoop-bucket
@@ -12082,6 +12082,7 @@ BaiduNetdisk-green.json,ygguorun/scoop-bucket
 diskusage.json,aliesbelik/poldi
 gossl.json,aliesbelik/poldi
 pict.json,aliesbelik/poldi
+cq_aliesbelik.json,aliesbelik/poldi
 lazyworktree.json,aliesbelik/poldi
 tuifeed.json,aliesbelik/poldi
 claws.json,aliesbelik/poldi
@@ -12248,6 +12249,7 @@ karing_aliesbelik.json,aliesbelik/poldi
 tf-summarize_aliesbelik.json,aliesbelik/poldi
 superfile_aliesbelik.json,aliesbelik/poldi
 tlrc_aliesbelik.json,aliesbelik/poldi
+plow_aliesbelik.json,aliesbelik/poldi
 dirx.json,aliesbelik/poldi
 changie.json,aliesbelik/poldi
 cassowary.json,aliesbelik/poldi
@@ -12322,7 +12324,6 @@ oq.json,aliesbelik/poldi
 sq.json,aliesbelik/poldi
 brows.json,aliesbelik/poldi
 reqstress_aliesbelik.json,aliesbelik/poldi
-plow_aliesbelik.json,aliesbelik/poldi
 serpl.json,aliesbelik/poldi
 byedpi.json,aliesbelik/poldi
 gocannon.json,aliesbelik/poldi
