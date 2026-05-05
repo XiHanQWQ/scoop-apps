@@ -2793,7 +2793,7 @@ plantuml.json,ScoopInstaller/Extras
 enpass.json,ScoopInstaller/Extras
 opensca-cli.json,ScoopInstaller/Extras
 remove-empty-directories.json,ScoopInstaller/Extras
-autohotkey.json,ScoopInstaller/Extras
+autohotkey_ScoopInstaller.json,ScoopInstaller/Extras
 conemu-color-themes.json,ScoopInstaller/Extras
 tailscale.json,ScoopInstaller/Extras
 sd-card-formatter.json,ScoopInstaller/Extras
@@ -3099,7 +3099,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -9626,7 +9626,7 @@ visualvm_TheRandomLabs.json,TheRandomLabs/Scoop-Bucket
 win10-initial-setup-script.json,TheRandomLabs/Scoop-Bucket
 ffmpeg-for-audacity.json,TheRandomLabs/Scoop-Bucket
 neovim-dev.json,TheRandomLabs/Scoop-Bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
@@ -9767,7 +9767,7 @@ sandboxie-plus-np_DoveBoy.json,DoveBoy/Apps
 innounp_DoveBoy.json,DoveBoy/Apps
 dnsjumper_DoveBoy.json,DoveBoy/Apps
 pytranscriber.json,DoveBoy/Apps
-v2rayn.json,DoveBoy/Apps
+v2rayn_DoveBoy.json,DoveBoy/Apps
 final2x-portable.json,DoveBoy/Apps
 biliup-rs.json,DoveBoy/Apps
 pikapika.json,DoveBoy/Apps
@@ -10008,6 +10008,7 @@ helix_DoveBoy.json,DoveBoy/Apps
 ttime.json,DoveBoy/Apps
 ripgrep_DoveBoy.json,DoveBoy/Apps
 treesize_DoveBoy.json,DoveBoy/Apps
+electerm_DoveBoy.json,DoveBoy/Apps
 mpv-git_DoveBoy.json,DoveBoy/Apps
 calctus.json,DoveBoy/Apps
 googletranslateipcheck.json,DoveBoy/Apps
@@ -10288,6 +10289,7 @@ min_DoveBoy.json,DoveBoy/Apps
 qbittorrent-enhanced_DoveBoy.json,DoveBoy/Apps
 backup-start-menu-layout_DoveBoy.json,DoveBoy/Apps
 mediago-beta.json,DoveBoy/Apps
+fiddler_DoveBoy.json,DoveBoy/Apps
 scrcpy_DoveBoy.json,DoveBoy/Apps
 coco.json,DoveBoy/Apps
 binggpt.json,DoveBoy/Apps
@@ -11441,7 +11443,7 @@ yae-achievement.json,Small-Ku/turbo-bucket
 mort.json,Small-Ku/turbo-bucket
 qbittorrent-enhanced_Small-Ku.json,Small-Ku/turbo-bucket
 sarasa-super-ttc.json,Small-Ku/turbo-bucket
-ruffle_Small-Ku.json,Small-Ku/turbo-bucket
+ruffle.json,Small-Ku/turbo-bucket
 reshade-addon.json,Small-Ku/turbo-bucket
 imageglass-beta.json,Small-Ku/turbo-bucket
 psst.json,Small-Ku/turbo-bucket
@@ -11500,7 +11502,7 @@ brave-np.json,WinApps-share/WinApps-bucket
 wgestures_WinApps-share.json,WinApps-share/WinApps-bucket
 keyviz_WinApps-share.json,WinApps-share/WinApps-bucket
 jianqiezhushou.json,WinApps-share/WinApps-bucket
-motrixnext_WinApps-share.json,WinApps-share/WinApps-bucket
+motrixnext.json,WinApps-share/WinApps-bucket
 musicfree.json,WinApps-share/WinApps-bucket
 weasel_WinApps-share.json,WinApps-share/WinApps-bucket
 everything-np_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -11919,7 +11921,7 @@ knocker-core.json,noql-net/scoop
 warp-plus.json,noql-net/scoop
 nekoray_noql-net.json,noql-net/scoop
 throne_noql-net.json,noql-net/scoop
-v2rayn_noql-net.json,noql-net/scoop
+v2rayn.json,noql-net/scoop
 securednsclient.json,noql-net/scoop
 flclash_noql-net.json,noql-net/scoop
 hiddify-next_noql-net.json,noql-net/scoop
