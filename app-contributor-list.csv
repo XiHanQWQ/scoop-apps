@@ -9001,7 +9001,7 @@ bluelife-keyfreeze.json,ViCrack/scoop-bucket
 quake_rs_ViCrack.json,ViCrack/scoop-bucket
 chmac.json,ViCrack/scoop-bucket
 transfer.json,ViCrack/scoop-bucket
-apifox.json,ViCrack/scoop-bucket
+apifox_ViCrack.json,ViCrack/scoop-bucket
 oxideterm.json,ViCrack/scoop-bucket
 revokemsgpatcher_ViCrack.json,ViCrack/scoop-bucket
 feishurevokemsgpatcher_ViCrack.json,ViCrack/scoop-bucket
@@ -9822,6 +9822,7 @@ sed_DoveBoy.json,DoveBoy/Apps
 hok_DoveBoy.json,DoveBoy/Apps
 winfetch_DoveBoy.json,DoveBoy/Apps
 video-subtitle-extractor-cpu.json,DoveBoy/Apps
+sharex_DoveBoy.json,DoveBoy/Apps
 proxypin_DoveBoy.json,DoveBoy/Apps
 wechatdownload.json,DoveBoy/Apps
 malware-patch_DoveBoy.json,DoveBoy/Apps
@@ -11173,6 +11174,7 @@ screenshot-captor.json,naderi/scoop-bucket
 chrome-canary-portable.json,naderi/scoop-bucket
 mitec-json-viewer.json,naderi/scoop-bucket
 font-farbod.json,naderi/scoop-bucket
+encrypto_naderi.json,naderi/scoop-bucket
 cherry-studio_naderi.json,naderi/scoop-bucket
 totalcommander-beta-portable.json,naderi/scoop-bucket
 rtools_naderi.json,naderi/scoop-bucket
