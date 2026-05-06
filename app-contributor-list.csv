@@ -9026,6 +9026,7 @@ pidkey.json,ViCrack/scoop-bucket
 postcat.json,ViCrack/scoop-bucket
 yakit_ViCrack.json,ViCrack/scoop-bucket
 mayenano.json,ViCrack/scoop-bucket
+clash-speedtest.json,ViCrack/scoop-bucket
 newfiletime_ViCrack.json,ViCrack/scoop-bucket
 crawlergo_ViCrack.json,ViCrack/scoop-bucket
 easy-context-menu_ViCrack.json,ViCrack/scoop-bucket
@@ -10023,7 +10024,6 @@ clash-mini.json,DoveBoy/Apps
 qqlive.json,DoveBoy/Apps
 procs_DoveBoy.json,DoveBoy/Apps
 crossdesk.json,DoveBoy/Apps
-ani.json,DoveBoy/Apps
 anto.json,DoveBoy/Apps
 qtunblockneteasemusic.json,DoveBoy/Apps
 yank-note.json,DoveBoy/Apps
@@ -10178,6 +10178,7 @@ winget_DoveBoy.json,DoveBoy/Apps
 powerping_DoveBoy.json,DoveBoy/Apps
 tiny11builder.json,DoveBoy/Apps
 sudo_DoveBoy.json,DoveBoy/Apps
+winrar-keygen-gui.json,DoveBoy/Apps
 nvm-windows_DoveBoy.json,DoveBoy/Apps
 ventoy_DoveBoy.json,DoveBoy/Apps
 hydrogen-music-portable.json,DoveBoy/Apps
@@ -10266,7 +10267,6 @@ liveautorecord.json,DoveBoy/Apps
 pikatorrent.json,DoveBoy/Apps
 clink-completions_DoveBoy.json,DoveBoy/Apps
 magpie_DoveBoy.json,DoveBoy/Apps
-ani-beta.json,DoveBoy/Apps
 pscalendar.json,DoveBoy/Apps
 psgithub_DoveBoy.json,DoveBoy/Apps
 pot-desktop_DoveBoy.json,DoveBoy/Apps
@@ -10364,6 +10364,7 @@ crystaldiskinfo-shizuku-edition_DoveBoy.json,DoveBoy/Apps
 zoxide_DoveBoy.json,DoveBoy/Apps
 cleanmywechat.json,DoveBoy/Apps
 openbbterminal.json,DoveBoy/Apps
+winrar-keygen-cli.json,DoveBoy/Apps
 openbbterminal-pre.json,DoveBoy/Apps
 wx-channels-download.json,DoveBoy/Apps
 windows-update-disabler.json,DoveBoy/Apps
@@ -10425,6 +10426,7 @@ ama.json,DoveBoy/Apps
 study-xxqg-sjkhsl.json,DoveBoy/Apps
 clash-for-windows-np_DoveBoy.json,DoveBoy/Apps
 kotatsu-dl.json,DoveBoy/Apps
+ani.json,DoveBoy/Apps
 raptor_DoveBoy.json,DoveBoy/Apps
 64gram-beta.json,DoveBoy/Apps
 bbdown-beta.json,DoveBoy/Apps
@@ -10454,6 +10456,7 @@ kcleaner_DoveBoy.json,DoveBoy/Apps
 lsix_DoveBoy.json,DoveBoy/Apps
 wingetui_DoveBoy.json,DoveBoy/Apps
 clash.meta-alpha.json,DoveBoy/Apps
+ani-beta.json,DoveBoy/Apps
 fideo-live-record.json,DoveBoy/Apps
 wechatmoments.json,DoveBoy/Apps
 pywxdump.json,DoveBoy/Apps
@@ -10871,7 +10874,7 @@ arturo-nightly.json,amorphobia/siku
 mihomo-v3.json,amorphobia/siku
 rust-sl.json,amorphobia/siku
 mdict_amorphobia.json,amorphobia/siku
-filebrowser.json,amorphobia/siku
+filebrowser_amorphobia.json,amorphobia/siku
 imazing-converter.json,amorphobia/siku
 gitea-runner.json,amorphobia/siku
 cargo-binstall_amorphobia.json,amorphobia/siku
