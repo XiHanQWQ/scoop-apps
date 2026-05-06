@@ -2592,7 +2592,7 @@ kanata-cmd.json,ScoopInstaller/Extras
 fastcopy.json,ScoopInstaller/Extras
 cascadeur.json,ScoopInstaller/Extras
 mongodb-compass.json,ScoopInstaller/Extras
-vscode_ScoopInstaller.json,ScoopInstaller/Extras
+vscode.json,ScoopInstaller/Extras
 gui-for-clash.json,ScoopInstaller/Extras
 jasper.json,ScoopInstaller/Extras
 cookiecutter.json,ScoopInstaller/Extras
@@ -7598,6 +7598,7 @@ roborev.json,cderv/r-bucket
 quarto_cderv.json,cderv/r-bucket
 tree.json,cderv/r-bucket
 r-release.json,cderv/r-bucket
+rstudio-2026.04.json,cderv/r-bucket
 dashlane-cli.json,cderv/r-bucket
 mq-lsp.json,cderv/r-bucket
 verapdf-docker.json,cderv/r-bucket
@@ -7611,6 +7612,7 @@ positron-prerelease.json,cderv/r-bucket
 beads.json,cderv/r-bucket
 chezmoi-modify-manager.json,cderv/r-bucket
 rstudio-2022.07.json,cderv/r-bucket
+rstudio-2024.12.json,cderv/r-bucket
 beads-task-issue-tracker.json,cderv/r-bucket
 rstudio-2024.04.json,cderv/r-bucket
 quarto-prerelease.json,cderv/r-bucket
@@ -7628,9 +7630,12 @@ rstudio-2023.09.json,cderv/r-bucket
 msgvault.json,cderv/r-bucket
 r-devel.json,cderv/r-bucket
 qvm.json,cderv/r-bucket
+rstudio-2025.05.json,cderv/r-bucket
+rstudio-2025.09.json,cderv/r-bucket
 tinytex-extra.json,cderv/r-bucket
 rsvg-convert.json,cderv/r-bucket
 rstudio-1.3.json,cderv/r-bucket
+rstudio-2024.09.json,cderv/r-bucket
 rstudio-release.json,cderv/r-bucket
 sass-migrator.json,cderv/r-bucket
 github-mcp-server.json,cderv/r-bucket
@@ -7642,6 +7647,7 @@ proton-pass-cli.json,cderv/r-bucket
 mq-dbg.json,cderv/r-bucket
 rstudio-2023.03.json,cderv/r-bucket
 fq_cderv.json,cderv/r-bucket
+rstudio-2026.01.json,cderv/r-bucket
 rstudio-2023.12.json,cderv/r-bucket
 rstudio-2022.02.json,cderv/r-bucket
 rstudio-1.4.json,cderv/r-bucket
@@ -9374,7 +9380,7 @@ dim.json,akirco/aki-apps
 aya.json,akirco/aki-apps
 obs-studio_akirco.json,akirco/aki-apps
 silentcmd_akirco.json,akirco/aki-apps
-trae-cn_akirco.json,akirco/aki-apps
+trae-cn.json,akirco/aki-apps
 dvm_akirco.json,akirco/aki-apps
 firefox-zh-cn_akirco.json,akirco/aki-apps
 warp_akirco.json,akirco/aki-apps
@@ -10056,7 +10062,7 @@ ftpserver.json,DoveBoy/Apps
 picotorrent_DoveBoy.json,DoveBoy/Apps
 convert.net_DoveBoy.json,DoveBoy/Apps
 cheat-engine_DoveBoy.json,DoveBoy/Apps
-dandanplay_DoveBoy.json,DoveBoy/Apps
+dandanplay.json,DoveBoy/Apps
 so-novel.json,DoveBoy/Apps
 joplin-pre_DoveBoy.json,DoveBoy/Apps
 psreadline_DoveBoy.json,DoveBoy/Apps
