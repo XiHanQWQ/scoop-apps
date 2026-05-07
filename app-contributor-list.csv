@@ -5276,7 +5276,7 @@ r41.json,ScoopInstaller/Versions
 nodejs010.json,ScoopInstaller/Versions
 go124.json,ScoopInstaller/Versions
 olive-editor-nightly.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 go121.json,ScoopInstaller/Versions
 cuda11.0.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
@@ -9146,7 +9146,7 @@ pfm.json,wangzq/scoop-bucket
 kaxaml.json,wangzq/scoop-bucket
 fsharp.core.json,wangzq/scoop-bucket
 protogen.json,wangzq/scoop-bucket
-portqry.json,wangzq/scoop-bucket
+portqry_wangzq.json,wangzq/scoop-bucket
 selenium-dotnet.json,wangzq/scoop-bucket
 cpustress.json,wangzq/scoop-bucket
 apiport.json,wangzq/scoop-bucket
@@ -10109,7 +10109,6 @@ doggo_DoveBoy.json,DoveBoy/Apps
 algermusicplayer.json,DoveBoy/Apps
 iobit-unlocker_DoveBoy.json,DoveBoy/Apps
 iobit-system-information.json,DoveBoy/Apps
-clash-verge-rev-portable.json,DoveBoy/Apps
 translumo.json,DoveBoy/Apps
 yazi_DoveBoy.json,DoveBoy/Apps
 esearch_DoveBoy.json,DoveBoy/Apps
@@ -10217,7 +10216,6 @@ res-downloader.json,DoveBoy/Apps
 crystaldiskinfo-kureikei.json,DoveBoy/Apps
 douyu.json,DoveBoy/Apps
 spacedrive.json,DoveBoy/Apps
-network-proxy-flutter.json,DoveBoy/Apps
 psscripttools.json,DoveBoy/Apps
 biu.json,DoveBoy/Apps
 pmas.json,DoveBoy/Apps
@@ -10457,6 +10455,7 @@ typoracracker.json,DoveBoy/Apps
 cnnettool.json,DoveBoy/Apps
 mihomo-cgo.json,DoveBoy/Apps
 study-xxqg-beta.json,DoveBoy/Apps
+clash-verge-rev-portable.json,DoveBoy/Apps
 mihomo-compatible-go120.json,DoveBoy/Apps
 mameui_DoveBoy.json,DoveBoy/Apps
 wechatdownload-qiye45.json,DoveBoy/Apps
@@ -10466,6 +10465,7 @@ clashy.json,DoveBoy/Apps
 hitomi-downloader.json,DoveBoy/Apps
 kcleaner_DoveBoy.json,DoveBoy/Apps
 lsix_DoveBoy.json,DoveBoy/Apps
+network-proxy-flutter.json,DoveBoy/Apps
 wingetui_DoveBoy.json,DoveBoy/Apps
 clash.meta-alpha.json,DoveBoy/Apps
 ani-beta.json,DoveBoy/Apps
@@ -10997,7 +10997,7 @@ dm2_naderi.json,naderi/scoop-bucket
 strokes-plus.json,naderi/scoop-bucket
 eventlogviewer.json,naderi/scoop-bucket
 unicsved_naderi.json,naderi/scoop-bucket
-compresso.json,naderi/scoop-bucket
+compresso_naderi.json,naderi/scoop-bucket
 winshell.json,naderi/scoop-bucket
 tad_naderi.json,naderi/scoop-bucket
 lyx_naderi.json,naderi/scoop-bucket
@@ -12160,7 +12160,7 @@ clobbr-cli.json,aliesbelik/poldi
 hey.json,aliesbelik/poldi
 hetty.json,aliesbelik/poldi
 slumber.json,aliesbelik/poldi
-sqlc.json,aliesbelik/poldi
+sqlc_aliesbelik.json,aliesbelik/poldi
 terrap.json,aliesbelik/poldi
 doxx_aliesbelik.json,aliesbelik/poldi
 flog.json,aliesbelik/poldi
@@ -15504,7 +15504,7 @@ figma_LaelLuo.json,LaelLuo/scoop
 workbuddy.json,LaelLuo/scoop
 codex-rust.json,LaelLuo/scoop
 easytshark_LaelLuo.json,LaelLuo/scoop
-droid.json,LaelLuo/scoop
+droid_LaelLuo.json,LaelLuo/scoop
 douyin-ide_LaelLuo.json,LaelLuo/scoop
 trae-cn_LaelLuo.json,LaelLuo/scoop
 feishu_LaelLuo.json,LaelLuo/scoop
@@ -15512,7 +15512,7 @@ github-stars-manager.json,LaelLuo/scoop
 qq-nt_LaelLuo.json,LaelLuo/scoop
 kiro_LaelLuo.json,LaelLuo/scoop
 cursor_LaelLuo.json,LaelLuo/scoop
-crossdesk_LaelLuo.json,LaelLuo/scoop
+crossdesk.json,LaelLuo/scoop
 lm-studio_LaelLuo.json,LaelLuo/scoop
 pocketbase_LaelLuo.json,LaelLuo/scoop
 cherry-studio_LaelLuo.json,LaelLuo/scoop
@@ -15562,7 +15562,7 @@ mozlz4_404NetworkError.json,404NetworkError/scoop-bucket
 libation-nightly.json,404NetworkError/scoop-bucket
 microbenchx.json,404NetworkError/scoop-bucket
 spek.json,404NetworkError/scoop-bucket
-markpad_404NetworkError.json,404NetworkError/scoop-bucket
+markpad.json,404NetworkError/scoop-bucket
 depotdownloader.json,404NetworkError/scoop-bucket
 hash-suite-free.json,404NetworkError/scoop-bucket
 xenu-beta.json,404NetworkError/scoop-bucket
