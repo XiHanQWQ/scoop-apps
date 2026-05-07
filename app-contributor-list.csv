@@ -3099,7 +3099,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -9633,7 +9633,7 @@ visualvm_TheRandomLabs.json,TheRandomLabs/Scoop-Bucket
 win10-initial-setup-script.json,TheRandomLabs/Scoop-Bucket
 ffmpeg-for-audacity.json,TheRandomLabs/Scoop-Bucket
 neovim-dev.json,TheRandomLabs/Scoop-Bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
@@ -9871,6 +9871,7 @@ videofusion.json,DoveBoy/Apps
 droppoint-portable_DoveBoy.json,DoveBoy/Apps
 mediamux.json,DoveBoy/Apps
 freebox.json,DoveBoy/Apps
+kotatogram_DoveBoy.json,DoveBoy/Apps
 kaf-wifi.json,DoveBoy/Apps
 mrrss-portable.json,DoveBoy/Apps
 keyviz.json,DoveBoy/Apps
@@ -9896,6 +9897,7 @@ jo_DoveBoy.json,DoveBoy/Apps
 sandboxie-classic-np_DoveBoy.json,DoveBoy/Apps
 computerlock.json,DoveBoy/Apps
 mycomputermanager.json,DoveBoy/Apps
+ydl-ui_DoveBoy.json,DoveBoy/Apps
 aya_DoveBoy.json,DoveBoy/Apps
 clash-rev-compatible.json,DoveBoy/Apps
 zipideo.json,DoveBoy/Apps
@@ -9926,6 +9928,7 @@ officetoolplus-with-runtime.json,DoveBoy/Apps
 flyoobe.json,DoveBoy/Apps
 python-tab-completion.json,DoveBoy/Apps
 linuxdoc.json,DoveBoy/Apps
+darktable_DoveBoy.json,DoveBoy/Apps
 cmder-full_DoveBoy.json,DoveBoy/Apps
 nextai-translator_DoveBoy.json,DoveBoy/Apps
 wiliwili_DoveBoy.json,DoveBoy/Apps
@@ -10123,7 +10126,7 @@ github-beta_DoveBoy.json,DoveBoy/Apps
 imagemagick-lean_DoveBoy.json,DoveBoy/Apps
 vutronmusic.json,DoveBoy/Apps
 ariang-native_DoveBoy.json,DoveBoy/Apps
-mame_DoveBoy.json,DoveBoy/Apps
+mame.json,DoveBoy/Apps
 zyplayer.json,DoveBoy/Apps
 dua_DoveBoy.json,DoveBoy/Apps
 unblockneteasemusic-git.json,DoveBoy/Apps
@@ -10144,6 +10147,7 @@ clip-share-server.json,DoveBoy/Apps
 nilesoft-shell_DoveBoy.json,DoveBoy/Apps
 snappy-driver-installer-origin_DoveBoy.json,DoveBoy/Apps
 mediacreationtool-bat.json,DoveBoy/Apps
+shadowsocks_DoveBoy.json,DoveBoy/Apps
 gui-for-clash_DoveBoy.json,DoveBoy/Apps
 any-listen-desktop-legacy.json,DoveBoy/Apps
 bilibilidown_DoveBoy.json,DoveBoy/Apps
@@ -10302,6 +10306,7 @@ ruffle.json,DoveBoy/Apps
 shadowsocksr-hmbsbige-full.json,DoveBoy/Apps
 clash-rev-cgo.json,DoveBoy/Apps
 clash-party-portable.json,DoveBoy/Apps
+scoop-completion_DoveBoy.json,DoveBoy/Apps
 github_DoveBoy.json,DoveBoy/Apps
 hummingbird.json,DoveBoy/Apps
 pwsh_DoveBoy.json,DoveBoy/Apps
@@ -10326,6 +10331,7 @@ trafficmonitor_DoveBoy.json,DoveBoy/Apps
 xray_DoveBoy.json,DoveBoy/Apps
 inputshare.json,DoveBoy/Apps
 chromedriver_DoveBoy.json,DoveBoy/Apps
+modernflyouts_DoveBoy.json,DoveBoy/Apps
 scoop-sd_DoveBoy.json,DoveBoy/Apps
 deoldify-net.json,DoveBoy/Apps
 tiktokdownloader.json,DoveBoy/Apps
@@ -10566,7 +10572,7 @@ oleviewdotnet.json,wzv5/ScoopBucket
 aliyundrive_wzv5.json,wzv5/ScoopBucket
 lx-music-desktop_wzv5.json,wzv5/ScoopBucket
 yy-thunks.json,wzv5/ScoopBucket
-kazumi.json,wzv5/ScoopBucket
+kazumi_wzv5.json,wzv5/ScoopBucket
 vc-ltl.json,wzv5/ScoopBucket
 qqmusic.json,wzv5/ScoopBucket
 winsw_wzv5.json,wzv5/ScoopBucket
@@ -11173,7 +11179,6 @@ screenshot-captor.json,naderi/scoop-bucket
 chrome-canary-portable.json,naderi/scoop-bucket
 mitec-json-viewer.json,naderi/scoop-bucket
 font-farbod.json,naderi/scoop-bucket
-encrypto_naderi.json,naderi/scoop-bucket
 cherry-studio_naderi.json,naderi/scoop-bucket
 totalcommander-beta-portable.json,naderi/scoop-bucket
 rtools_naderi.json,naderi/scoop-bucket
@@ -15499,7 +15504,7 @@ figma_LaelLuo.json,LaelLuo/scoop
 workbuddy.json,LaelLuo/scoop
 codex-rust.json,LaelLuo/scoop
 easytshark_LaelLuo.json,LaelLuo/scoop
-droid_LaelLuo.json,LaelLuo/scoop
+droid.json,LaelLuo/scoop
 douyin-ide_LaelLuo.json,LaelLuo/scoop
 trae-cn_LaelLuo.json,LaelLuo/scoop
 feishu_LaelLuo.json,LaelLuo/scoop
@@ -15515,7 +15520,7 @@ autoglm_LaelLuo.json,LaelLuo/scoop
 virtual-browser_LaelLuo.json,LaelLuo/scoop
 capcut_LaelLuo.json,LaelLuo/scoop
 utools_LaelLuo.json,LaelLuo/scoop
-qoder_LaelLuo.json,LaelLuo/scoop
+qoder.json,LaelLuo/scoop
 moonbit.json,LaelLuo/scoop
 yuanbao.json,LaelLuo/scoop
 codex-flow_LaelLuo.json,LaelLuo/scoop
