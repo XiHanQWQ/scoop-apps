@@ -3099,7 +3099,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -12220,7 +12220,6 @@ helmify.json,aliesbelik/poldi
 goku.json,aliesbelik/poldi
 nap.json,aliesbelik/poldi
 hitt.json,aliesbelik/poldi
-mcat_aliesbelik.json,aliesbelik/poldi
 updo.json,aliesbelik/poldi
 dawn_aliesbelik.json,aliesbelik/poldi
 schemacheck.json,aliesbelik/poldi
@@ -12289,6 +12288,7 @@ lazysql_aliesbelik.json,aliesbelik/poldi
 bandwhich_aliesbelik.json,aliesbelik/poldi
 jo_aliesbelik.json,aliesbelik/poldi
 octosql_aliesbelik.json,aliesbelik/poldi
+mcat_aliesbelik.json,aliesbelik/poldi
 ddosify_aliesbelik.json,aliesbelik/poldi
 bombardier_aliesbelik.json,aliesbelik/poldi
 mqtt-cli_aliesbelik.json,aliesbelik/poldi
@@ -12346,6 +12346,7 @@ tfmv.json,aliesbelik/poldi
 muffet.json,aliesbelik/poldi
 helmsman_aliesbelik.json,aliesbelik/poldi
 termframe.json,aliesbelik/poldi
+hevi.json,aliesbelik/poldi
 sheets.json,aliesbelik/poldi
 dijo.json,aliesbelik/poldi
 rq.json,aliesbelik/poldi
@@ -13190,7 +13191,6 @@ beatsaber-modmanager.json,babo4d/scoop-xrtools
 hyper-dbz.json,babo4d/scoop-xrtools
 opentrack_babo4d.json,babo4d/scoop-xrtools
 emuvr.json,babo4d/scoop-xrtools
-tts-voice-wizard_babo4d.json,babo4d/scoop-xrtools
 openra-combined-arms.json,babo4d/scoop-xrtools
 ikemen-go.json,babo4d/scoop-xrtools
 drl.json,babo4d/scoop-xrtools
@@ -13462,7 +13462,7 @@ qimgv_cc713.json,cc713/ownscoop
 GARbro-Mod.json,cc713/ownscoop
 Types.json,cc713/ownscoop
 gitg.json,cc713/ownscoop
-thunderbird-zh-cn_cc713.json,cc713/ownscoop
+thunderbird-zh-cn.json,cc713/ownscoop
 keepass-plugin-KPSimpleBackup.json,cc713/ownscoop
 kiwix-tools.json,cc713/ownscoop
 Pixeval_cc713.json,cc713/ownscoop
