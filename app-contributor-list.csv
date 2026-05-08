@@ -3099,7 +3099,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -5276,7 +5276,7 @@ r41.json,ScoopInstaller/Versions
 nodejs010.json,ScoopInstaller/Versions
 go124.json,ScoopInstaller/Versions
 olive-editor-nightly.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 go121.json,ScoopInstaller/Versions
 cuda11.0.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
@@ -8398,6 +8398,7 @@ PDF-XChange-Viewer.json,dodorz/scoop
 eSpeak.json,dodorz/scoop
 GetWindowText.json,dodorz/scoop
 Diffuse.json,dodorz/scoop
+LobeHub.json,dodorz/scoop
 Notepad4_HD_zh-Hans-AVX512.json,dodorz/scoop
 tuios.json,dodorz/scoop
 UpNote.json,dodorz/scoop
@@ -9974,7 +9975,6 @@ psreadlineviextension.json,DoveBoy/Apps
 ytplayer.json,DoveBoy/Apps
 b0pass.json,DoveBoy/Apps
 ffmpeg_DoveBoy.json,DoveBoy/Apps
-chromium_DoveBoy.json,DoveBoy/Apps
 heu-kms-activator_DoveBoy.json,DoveBoy/Apps
 unigetui_DoveBoy.json,DoveBoy/Apps
 go-drive.json,DoveBoy/Apps
@@ -12174,7 +12174,7 @@ helmify.json,aliesbelik/poldi
 goku.json,aliesbelik/poldi
 nap.json,aliesbelik/poldi
 hitt.json,aliesbelik/poldi
-mcat.json,aliesbelik/poldi
+mcat_aliesbelik.json,aliesbelik/poldi
 updo.json,aliesbelik/poldi
 dawn_aliesbelik.json,aliesbelik/poldi
 schemacheck.json,aliesbelik/poldi
@@ -12405,6 +12405,7 @@ next-ai-drawio.json,Scoopforge/Extras-Plus
 scihubeva_Scoopforge.json,Scoopforge/Extras-Plus
 cytoscape.json,Scoopforge/Extras-Plus
 jupyterlab-desktop.json,Scoopforge/Extras-Plus
+aionui_Scoopforge.json,Scoopforge/Extras-Plus
 voov-meeting.json,Scoopforge/Extras-Plus
 catime_Scoopforge.json,Scoopforge/Extras-Plus
 veracrypt.json,Scoopforge/Extras-Plus
@@ -15498,7 +15499,7 @@ mozlz4_404NetworkError.json,404NetworkError/scoop-bucket
 libation-nightly.json,404NetworkError/scoop-bucket
 microbenchx.json,404NetworkError/scoop-bucket
 spek.json,404NetworkError/scoop-bucket
-markpad.json,404NetworkError/scoop-bucket
+markpad_404NetworkError.json,404NetworkError/scoop-bucket
 depotdownloader.json,404NetworkError/scoop-bucket
 hash-suite-free.json,404NetworkError/scoop-bucket
 xenu-beta.json,404NetworkError/scoop-bucket
@@ -15658,7 +15659,7 @@ figma_LaelLuo.json,LaelLuo/scoop
 workbuddy.json,LaelLuo/scoop
 codex-rust.json,LaelLuo/scoop
 easytshark_LaelLuo.json,LaelLuo/scoop
-droid.json,LaelLuo/scoop
+droid_LaelLuo.json,LaelLuo/scoop
 douyin-ide_LaelLuo.json,LaelLuo/scoop
 trae-cn_LaelLuo.json,LaelLuo/scoop
 feishu_LaelLuo.json,LaelLuo/scoop
