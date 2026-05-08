@@ -5276,7 +5276,7 @@ r41.json,ScoopInstaller/Versions
 nodejs010.json,ScoopInstaller/Versions
 go124.json,ScoopInstaller/Versions
 olive-editor-nightly.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 go121.json,ScoopInstaller/Versions
 cuda11.0.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
@@ -6423,7 +6423,6 @@ flash-drive-tester-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 everything-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 google-japanese-input-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 sandboxie-classic-np.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-full-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 omnidb-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 file-converter-np.json,ScoopInstaller/Nonportable
 glasswire-lite-np.json,ScoopInstaller/Nonportable
@@ -6451,7 +6450,6 @@ innosetup-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 virtualbox-np.json,ScoopInstaller/Nonportable
 goodsync-np.json,ScoopInstaller/Nonportable
 voicemeeter-banana-np.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-mega-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 8gadgetpack-np.json,ScoopInstaller/Nonportable
 pdf24-creator-np.json,ScoopInstaller/Nonportable
 autohotkey-np.json,ScoopInstaller/Nonportable
@@ -6479,7 +6477,6 @@ lockhunter-np.json,ScoopInstaller/Nonportable
 darktable-np.json,ScoopInstaller/Nonportable
 10x-np.json,ScoopInstaller/Nonportable
 xampp-np.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-standard-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 peace-np.json,ScoopInstaller/Nonportable
 wireguard-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 nsis-np_ScoopInstaller.json,ScoopInstaller/Nonportable
@@ -9330,7 +9327,6 @@ lepton_akirco.json,akirco/aki-apps
 gdu_akirco.json,akirco/aki-apps
 flutter_akirco.json,akirco/aki-apps
 cpu-z_akirco.json,akirco/aki-apps
-bilibili-livehime.json,akirco/aki-apps
 nali_akirco.json,akirco/aki-apps
 netcat_akirco.json,akirco/aki-apps
 wechat_akirco.json,akirco/aki-apps
@@ -9386,7 +9382,7 @@ obs-studio_akirco.json,akirco/aki-apps
 silentcmd_akirco.json,akirco/aki-apps
 trae-cn_akirco.json,akirco/aki-apps
 dvm_akirco.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 warp_akirco.json,akirco/aki-apps
 shim_akirco.json,akirco/aki-apps
 mdcat_akirco.json,akirco/aki-apps
@@ -9415,7 +9411,7 @@ mdbook_akirco.json,akirco/aki-apps
 mvndaemon_akirco.json,akirco/aki-apps
 ffmpeg_akirco.json,akirco/aki-apps
 chromium_akirco.json,akirco/aki-apps
-go-cn.json,akirco/aki-apps
+go-cn_akirco.json,akirco/aki-apps
 musicfox.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
 z_akirco.json,akirco/aki-apps
@@ -9978,6 +9974,7 @@ psreadlineviextension.json,DoveBoy/Apps
 ytplayer.json,DoveBoy/Apps
 b0pass.json,DoveBoy/Apps
 ffmpeg_DoveBoy.json,DoveBoy/Apps
+chromium_DoveBoy.json,DoveBoy/Apps
 heu-kms-activator_DoveBoy.json,DoveBoy/Apps
 unigetui_DoveBoy.json,DoveBoy/Apps
 go-drive.json,DoveBoy/Apps
@@ -12794,7 +12791,7 @@ cpachecker.json,seumsc/scoop-seu
 videosubfinder.json,seumsc/scoop-seu
 kindlegen_seumsc.json,seumsc/scoop-seu
 autowikibrowser.json,seumsc/scoop-seu
-kook.json,seumsc/scoop-seu
+kook_seumsc.json,seumsc/scoop-seu
 archisteamfarm-generic.json,seumsc/scoop-seu
 musicdecrypto.json,seumsc/scoop-seu
 shterm-alt.json,seumsc/scoop-seu
@@ -15661,7 +15658,7 @@ figma_LaelLuo.json,LaelLuo/scoop
 workbuddy.json,LaelLuo/scoop
 codex-rust.json,LaelLuo/scoop
 easytshark_LaelLuo.json,LaelLuo/scoop
-droid_LaelLuo.json,LaelLuo/scoop
+droid.json,LaelLuo/scoop
 douyin-ide_LaelLuo.json,LaelLuo/scoop
 trae-cn_LaelLuo.json,LaelLuo/scoop
 feishu_LaelLuo.json,LaelLuo/scoop
