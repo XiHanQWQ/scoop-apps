@@ -13298,7 +13298,7 @@ wezterm-gf3-darksoft-deux.json,ocodo/wezterm-alt-windows-icon-builds
 wezterm-gf3-darkultra-song.json,ocodo/wezterm-alt-windows-icon-builds
 php74-nts.json,aoisummer/scoop-bucket
 firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
-kiwix_aoisummer.json,aoisummer/scoop-bucket
+kiwix.json,aoisummer/scoop-bucket
 you-get_aoisummer.json,aoisummer/scoop-bucket
 clash-for-windows_aoisummer.json,aoisummer/scoop-bucket
 vlmcsd_aoisummer.json,aoisummer/scoop-bucket
@@ -15910,7 +15910,7 @@ PSLazyCompletion.json,jcwillox/scoop-bucket
 npiperelay_jcwillox.json,jcwillox/scoop-bucket
 terramap.json,jcwillox/scoop-bucket
 PSFolderSize.json,jcwillox/scoop-bucket
-gns3_jcwillox.json,jcwillox/scoop-bucket
+gns3.json,jcwillox/scoop-bucket
 pyflasher.json,jcwillox/scoop-bucket
 pwsh-search-web.json,jcwillox/scoop-bucket
 ipinfo_jcwillox.json,jcwillox/scoop-bucket
