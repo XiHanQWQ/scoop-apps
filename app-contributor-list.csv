@@ -13584,6 +13584,7 @@ make@3.81.json,rivy/scoop-bucket
 premake@5.0.0-alpha8.json,rivy/scoop-bucket
 conan_rivy.json,rivy/scoop-bucket
 mailsend-go_rivy.json,rivy/scoop-bucket
+yarn@1.22.22.json,rivy/scoop-bucket
 flutter_rivy.json,rivy/scoop-bucket
 fnm@1.35.1.json,rivy/scoop-bucket
 perl@5.26+gcc.json,rivy/scoop-bucket
