@@ -2176,6 +2176,7 @@ bencode-editor.json,ScoopInstaller/Extras
 azuredatastudio.json,ScoopInstaller/Extras
 monokle.json,ScoopInstaller/Extras
 klogg.json,ScoopInstaller/Extras
+dmde.json,ScoopInstaller/Extras
 windowtextextractor.json,ScoopInstaller/Extras
 windterm.json,ScoopInstaller/Extras
 masvis.json,ScoopInstaller/Extras
@@ -5276,7 +5277,7 @@ r41.json,ScoopInstaller/Versions
 nodejs010.json,ScoopInstaller/Versions
 go124.json,ScoopInstaller/Versions
 olive-editor-nightly.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 go121.json,ScoopInstaller/Versions
 cuda11.0.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
@@ -11181,6 +11182,7 @@ screenshot-captor.json,naderi/scoop-bucket
 chrome-canary-portable.json,naderi/scoop-bucket
 mitec-json-viewer.json,naderi/scoop-bucket
 font-farbod.json,naderi/scoop-bucket
+encrypto_naderi.json,naderi/scoop-bucket
 cherry-studio_naderi.json,naderi/scoop-bucket
 totalcommander-beta-portable.json,naderi/scoop-bucket
 rtools_naderi.json,naderi/scoop-bucket
@@ -11819,7 +11821,7 @@ bgutil-ytdlp-pot-provider.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 svg_to_ico.json,brian6932/dank-scoop
 cotp.json,brian6932/dank-scoop
-dmde.json,brian6932/dank-scoop
+dmde_brian6932.json,brian6932/dank-scoop
 luminous-ttv.json,brian6932/dank-scoop
 chapters-for-mpv.json,brian6932/dank-scoop
 DexiosGUI.json,brian6932/dank-scoop
@@ -15908,6 +15910,7 @@ mdview_windedge.json,windedge/ladle-bucket
 godot3_windedge.json,windedge/ladle-bucket
 godot3-kotlin-jvm.json,windedge/ladle-bucket
 lem.json,windedge/ladle-bucket
+scooper_windedge.json,windedge/ladle-bucket
 gotify-tray.json,windedge/ladle-bucket
 scia-reto.json,windedge/ladle-bucket
 forgecode_windedge.json,windedge/ladle-bucket
