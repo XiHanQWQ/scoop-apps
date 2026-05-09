@@ -3099,7 +3099,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -9634,7 +9634,7 @@ visualvm_TheRandomLabs.json,TheRandomLabs/Scoop-Bucket
 win10-initial-setup-script.json,TheRandomLabs/Scoop-Bucket
 ffmpeg-for-audacity.json,TheRandomLabs/Scoop-Bucket
 neovim-dev.json,TheRandomLabs/Scoop-Bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
@@ -10406,7 +10406,6 @@ clashmi.json,DoveBoy/Apps
 go-musicfox.json,DoveBoy/Apps
 registry-key-jumper_DoveBoy.json,DoveBoy/Apps
 energystar.json,DoveBoy/Apps
-revokemsgpatcher-nightly.json,DoveBoy/Apps
 folder-painter_DoveBoy.json,DoveBoy/Apps
 hiddify_DoveBoy.json,DoveBoy/Apps
 daisy.json,DoveBoy/Apps
@@ -10483,6 +10482,7 @@ so-novel-with-jre.json,DoveBoy/Apps
 deskreen-portable.json,DoveBoy/Apps
 betterncm.json,DoveBoy/Apps
 book-searcher-desktop.json,DoveBoy/Apps
+revokemsgpatcher-nightly.json,DoveBoy/Apps
 clash.meta-cgo.json,DoveBoy/Apps
 element_EFLKumo.json,EFLKumo/jam
 con-terminal.json,EFLKumo/jam
@@ -15500,7 +15500,7 @@ mozlz4_404NetworkError.json,404NetworkError/scoop-bucket
 libation-nightly.json,404NetworkError/scoop-bucket
 microbenchx.json,404NetworkError/scoop-bucket
 spek.json,404NetworkError/scoop-bucket
-markpad.json,404NetworkError/scoop-bucket
+markpad_404NetworkError.json,404NetworkError/scoop-bucket
 depotdownloader.json,404NetworkError/scoop-bucket
 hash-suite-free.json,404NetworkError/scoop-bucket
 xenu-beta.json,404NetworkError/scoop-bucket
@@ -15619,7 +15619,7 @@ figma_LaelLuo.json,LaelLuo/scoop
 workbuddy.json,LaelLuo/scoop
 codex-rust.json,LaelLuo/scoop
 easytshark_LaelLuo.json,LaelLuo/scoop
-droid.json,LaelLuo/scoop
+droid_LaelLuo.json,LaelLuo/scoop
 douyin-ide_LaelLuo.json,LaelLuo/scoop
 trae-cn_LaelLuo.json,LaelLuo/scoop
 feishu_LaelLuo.json,LaelLuo/scoop
