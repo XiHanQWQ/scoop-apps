@@ -5276,7 +5276,7 @@ r41.json,ScoopInstaller/Versions
 nodejs010.json,ScoopInstaller/Versions
 go124.json,ScoopInstaller/Versions
 olive-editor-nightly.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 go121.json,ScoopInstaller/Versions
 cuda11.0.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
@@ -9634,7 +9634,7 @@ visualvm_TheRandomLabs.json,TheRandomLabs/Scoop-Bucket
 win10-initial-setup-script.json,TheRandomLabs/Scoop-Bucket
 ffmpeg-for-audacity.json,TheRandomLabs/Scoop-Bucket
 neovim-dev.json,TheRandomLabs/Scoop-Bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
@@ -13462,7 +13462,7 @@ qimgv_cc713.json,cc713/ownscoop
 GARbro-Mod.json,cc713/ownscoop
 Types.json,cc713/ownscoop
 gitg.json,cc713/ownscoop
-thunderbird-zh-cn.json,cc713/ownscoop
+thunderbird-zh-cn_cc713.json,cc713/ownscoop
 keepass-plugin-KPSimpleBackup.json,cc713/ownscoop
 kiwix-tools.json,cc713/ownscoop
 Pixeval_cc713.json,cc713/ownscoop
@@ -15500,7 +15500,7 @@ mozlz4_404NetworkError.json,404NetworkError/scoop-bucket
 libation-nightly.json,404NetworkError/scoop-bucket
 microbenchx.json,404NetworkError/scoop-bucket
 spek.json,404NetworkError/scoop-bucket
-markpad_404NetworkError.json,404NetworkError/scoop-bucket
+markpad.json,404NetworkError/scoop-bucket
 depotdownloader.json,404NetworkError/scoop-bucket
 hash-suite-free.json,404NetworkError/scoop-bucket
 xenu-beta.json,404NetworkError/scoop-bucket
@@ -15619,7 +15619,7 @@ figma_LaelLuo.json,LaelLuo/scoop
 workbuddy.json,LaelLuo/scoop
 codex-rust.json,LaelLuo/scoop
 easytshark_LaelLuo.json,LaelLuo/scoop
-droid_LaelLuo.json,LaelLuo/scoop
+droid.json,LaelLuo/scoop
 douyin-ide_LaelLuo.json,LaelLuo/scoop
 trae-cn_LaelLuo.json,LaelLuo/scoop
 feishu_LaelLuo.json,LaelLuo/scoop
