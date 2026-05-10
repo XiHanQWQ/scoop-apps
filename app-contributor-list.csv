@@ -7855,6 +7855,7 @@ LMStudio.json,dodorz/scoop
 Splat.json,dodorz/scoop
 Ito.json,dodorz/scoop
 DismPlusPlus_dodorz.json,dodorz/scoop
+con-terminal.json,dodorz/scoop
 FreeVD.json,dodorz/scoop
 PartAssist_dodorz.json,dodorz/scoop
 manpages-zh.json,dodorz/scoop
@@ -10486,7 +10487,7 @@ book-searcher-desktop.json,DoveBoy/Apps
 revokemsgpatcher-nightly.json,DoveBoy/Apps
 clash.meta-cgo.json,DoveBoy/Apps
 element_EFLKumo.json,EFLKumo/jam
-con-terminal.json,EFLKumo/jam
+con-terminal_EFLKumo.json,EFLKumo/jam
 signal_EFLKumo.json,EFLKumo/jam
 pot_EFLKumo.json,EFLKumo/jam
 siyuan-unlock.json,EFLKumo/jam
