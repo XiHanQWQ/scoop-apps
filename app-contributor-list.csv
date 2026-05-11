@@ -8490,7 +8490,7 @@ Inpaint-np.json,dodorz/scoop
 Unison-GUI.json,dodorz/scoop
 JaneReader.json,dodorz/scoop
 RegSeeker.json,dodorz/scoop
-Notepad--.json,dodorz/scoop
+Notepad--_dodorz.json,dodorz/scoop
 OfficeCLI.json,dodorz/scoop
 justmd.json,dodorz/scoop
 EvilPlayer.json,dodorz/scoop
@@ -8562,6 +8562,7 @@ fortune.json,dodorz/scoop
 edge-TTS-record.json,dodorz/scoop
 KeyTone.json,dodorz/scoop
 NormCap-cn.json,dodorz/scoop
+CC-Switch-CLI.json,dodorz/scoop
 Notepad4_zh-Hans-AVX2.json,dodorz/scoop
 jump.json,dodorz/scoop
 lolcat.json,dodorz/scoop
@@ -12771,7 +12772,7 @@ iosevka.json,iquiw/scoop-bucket
 mo.json,iquiw/scoop-bucket
 ghc96.json,iquiw/scoop-bucket
 rawrite32.json,iquiw/scoop-bucket
-zizmor.json,iquiw/scoop-bucket
+zizmor_iquiw.json,iquiw/scoop-bucket
 cica.json,iquiw/scoop-bucket
 docker-cli.json,iquiw/scoop-bucket
 evtx_dump.json,iquiw/scoop-bucket
@@ -15886,7 +15887,7 @@ godot3-kotlin-jvm.json,windedge/ladle-bucket
 lem.json,windedge/ladle-bucket
 gotify-tray.json,windedge/ladle-bucket
 scia-reto.json,windedge/ladle-bucket
-forgecode.json,windedge/ladle-bucket
+forgecode_windedge.json,windedge/ladle-bucket
 weasyprint_windedge.json,windedge/ladle-bucket
 temurin20-jdk_windedge.json,windedge/ladle-bucket
 tiny-rdm.json,windedge/ladle-bucket
