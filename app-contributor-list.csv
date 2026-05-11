@@ -9779,7 +9779,7 @@ sandboxie-plus-np_DoveBoy.json,DoveBoy/Apps
 innounp_DoveBoy.json,DoveBoy/Apps
 dnsjumper_DoveBoy.json,DoveBoy/Apps
 pytranscriber.json,DoveBoy/Apps
-v2rayn.json,DoveBoy/Apps
+v2rayn_DoveBoy.json,DoveBoy/Apps
 final2x-portable.json,DoveBoy/Apps
 biliup-rs.json,DoveBoy/Apps
 pikapika.json,DoveBoy/Apps
@@ -10876,6 +10876,7 @@ gitea-runner.json,amorphobia/siku
 cargo-binstall_amorphobia.json,amorphobia/siku
 microdicom-dicom-viewer.json,amorphobia/siku
 bind-lean.json,amorphobia/siku
+tcc_amorphobia.json,amorphobia/siku
 tally-marks.json,amorphobia/siku
 vuetorrent.json,amorphobia/siku
 odin_amorphobia.json,amorphobia/siku
@@ -11603,7 +11604,7 @@ flipIt.json,WinApps-share/WinApps-bucket
 cpuz.json,WinApps-share/WinApps-bucket
 itunes-old.json,WinApps-share/WinApps-bucket
 macast_WinApps-share.json,WinApps-share/WinApps-bucket
-edge.json,WinApps-share/WinApps-bucket
+edge_WinApps-share.json,WinApps-share/WinApps-bucket
 utools_WinApps-share.json,WinApps-share/WinApps-bucket
 equalizer-apo.json,WinApps-share/WinApps-bucket
 ventoy_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -15666,6 +15667,7 @@ python312_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 bibclean.json,ShuguangSun/sgs-scoop-bucket
 r-4.1.2.json,ShuguangSun/sgs-scoop-bucket
 qui.json,Rinkerbel/scooped
+mangayomi.json,Rinkerbel/scooped
 seanime-server-canary.json,Rinkerbel/scooped
 TwitchChannelPointsMiner.json,Rinkerbel/scooped
 seanime-denshi-canary.json,Rinkerbel/scooped
