@@ -4388,7 +4388,7 @@ supermodel.json,Calinou/scoop-games
 infraarcana.json,Calinou/scoop-games
 flycast.json,Calinou/scoop-games
 eve-iph.json,Calinou/scoop-games
-starward_Calinou.json,Calinou/scoop-games
+starward.json,Calinou/scoop-games
 simutrans.json,Calinou/scoop-games
 megaglest.json,Calinou/scoop-games
 supertux.json,Calinou/scoop-games
@@ -5277,7 +5277,7 @@ r41.json,ScoopInstaller/Versions
 nodejs010.json,ScoopInstaller/Versions
 go124.json,ScoopInstaller/Versions
 olive-editor-nightly.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 go121.json,ScoopInstaller/Versions
 cuda11.0.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
@@ -11190,7 +11190,6 @@ screenshot-captor.json,naderi/scoop-bucket
 chrome-canary-portable.json,naderi/scoop-bucket
 mitec-json-viewer.json,naderi/scoop-bucket
 font-farbod.json,naderi/scoop-bucket
-encrypto_naderi.json,naderi/scoop-bucket
 cherry-studio_naderi.json,naderi/scoop-bucket
 totalcommander-beta-portable.json,naderi/scoop-bucket
 rtools_naderi.json,naderi/scoop-bucket
@@ -11432,7 +11431,7 @@ crapfixer_Small-Ku.json,Small-Ku/turbo-bucket
 llama-cpp-rocm-gfx110x.json,Small-Ku/turbo-bucket
 process-lasso.json,Small-Ku/turbo-bucket
 letta-code.json,Small-Ku/turbo-bucket
-starward.json,Small-Ku/turbo-bucket
+starward_Small-Ku.json,Small-Ku/turbo-bucket
 compressonator.json,Small-Ku/turbo-bucket
 exiftool_Small-Ku.json,Small-Ku/turbo-bucket
 maaend_Small-Ku.json,Small-Ku/turbo-bucket
@@ -12704,7 +12703,7 @@ g_batkiz.json,batkiz/backit
 tokei_batkiz.json,batkiz/backit
 fselect_batkiz.json,batkiz/backit
 racket-cs.json,batkiz/backit
-sq_batkiz.json,batkiz/backit
+sq.json,batkiz/backit
 dolt_batkiz.json,batkiz/backit
 tinytex_batkiz.json,batkiz/backit
 rehex_batkiz.json,batkiz/backit
@@ -12832,7 +12831,7 @@ writingTools.json,TianXiaTech/scoop-txt
 qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
 kugou.json,TianXiaTech/scoop-txt
 Noi_TianXiaTech.json,TianXiaTech/scoop-txt
-baidunetdisk_TianXiaTech.json,TianXiaTech/scoop-txt
+baidunetdisk.json,TianXiaTech/scoop-txt
 cc-switch_TianXiaTech.json,TianXiaTech/scoop-txt
 ffmpegFreeUI_TianXiaTech.json,TianXiaTech/scoop-txt
 360wallpaper.json,TianXiaTech/scoop-txt
@@ -12948,7 +12947,7 @@ cpachecker.json,seumsc/scoop-seu
 videosubfinder.json,seumsc/scoop-seu
 kindlegen_seumsc.json,seumsc/scoop-seu
 autowikibrowser.json,seumsc/scoop-seu
-kook_seumsc.json,seumsc/scoop-seu
+kook.json,seumsc/scoop-seu
 archisteamfarm-generic.json,seumsc/scoop-seu
 musicdecrypto.json,seumsc/scoop-seu
 shterm-alt.json,seumsc/scoop-seu
@@ -14316,7 +14315,7 @@ archisteamfarm_HUMORCE.json,HUMORCE/nuke
 gdu_HUMORCE.json,HUMORCE/nuke
 flutter_HUMORCE.json,HUMORCE/nuke
 source2viewer.json,HUMORCE/nuke
-ungoogled-chromium_HUMORCE.json,HUMORCE/nuke
+ungoogled-chromium.json,HUMORCE/nuke
 xpdf-tools-t1fonts.json,HUMORCE/nuke
 multipass_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP-thai.json,HUMORCE/nuke
@@ -14460,7 +14459,7 @@ n-m3u8dl-cli_maboloshi.json,maboloshi/scoop-private
 everything-alpha_maboloshi.json,maboloshi/scoop-private
 wechat_maboloshi.json,maboloshi/scoop-private
 monitorian_maboloshi.json,maboloshi/scoop-private
-ima-copilot_maboloshi.json,maboloshi/scoop-private
+ima-copilot.json,maboloshi/scoop-private
 sublime-merge_maboloshi.json,maboloshi/scoop-private
 pot_maboloshi.json,maboloshi/scoop-private
 brave_maboloshi.json,maboloshi/scoop-private
@@ -15667,7 +15666,6 @@ python312_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 bibclean.json,ShuguangSun/sgs-scoop-bucket
 r-4.1.2.json,ShuguangSun/sgs-scoop-bucket
 qui.json,Rinkerbel/scooped
-mangayomi.json,Rinkerbel/scooped
 seanime-server-canary.json,Rinkerbel/scooped
 TwitchChannelPointsMiner.json,Rinkerbel/scooped
 seanime-denshi-canary.json,Rinkerbel/scooped
@@ -15810,7 +15808,7 @@ virtual-browser.json,LaelLuo/scoop
 capcut_LaelLuo.json,LaelLuo/scoop
 utools_LaelLuo.json,LaelLuo/scoop
 cunzhi.json,LaelLuo/scoop
-qoder_LaelLuo.json,LaelLuo/scoop
+qoder.json,LaelLuo/scoop
 moonbit.json,LaelLuo/scoop
 yuanbao_LaelLuo.json,LaelLuo/scoop
 codex-flow.json,LaelLuo/scoop
@@ -15852,7 +15850,7 @@ autoglm_LaelLuo.json,LaelLuo/scoop
 virtual-browser_LaelLuo.json,LaelLuo/scoop
 capcut_LaelLuo.json,LaelLuo/scoop
 utools_LaelLuo.json,LaelLuo/scoop
-qoder_LaelLuo.json,LaelLuo/scoop
+qoder.json,LaelLuo/scoop
 moonbit.json,LaelLuo/scoop
 yuanbao.json,LaelLuo/scoop
 codex-flow_LaelLuo.json,LaelLuo/scoop
