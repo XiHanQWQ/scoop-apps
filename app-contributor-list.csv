@@ -3100,7 +3100,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -9637,7 +9637,7 @@ visualvm_TheRandomLabs.json,TheRandomLabs/Scoop-Bucket
 win10-initial-setup-script.json,TheRandomLabs/Scoop-Bucket
 ffmpeg-for-audacity.json,TheRandomLabs/Scoop-Bucket
 neovim-dev.json,TheRandomLabs/Scoop-Bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
@@ -10126,7 +10126,7 @@ final2x.json,DoveBoy/Apps
 xiaochao.json,DoveBoy/Apps
 audio-share-gui.json,DoveBoy/Apps
 resizem.json,DoveBoy/Apps
-github-beta_DoveBoy.json,DoveBoy/Apps
+github-beta.json,DoveBoy/Apps
 imagemagick-lean_DoveBoy.json,DoveBoy/Apps
 vutronmusic.json,DoveBoy/Apps
 ariang-native_DoveBoy.json,DoveBoy/Apps
