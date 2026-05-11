@@ -9768,6 +9768,7 @@ sharpthief.json,DoveBoy/Apps
 alisthelper-portable.json,DoveBoy/Apps
 wechat_DoveBoy.json,DoveBoy/Apps
 navidrome-portable.json,DoveBoy/Apps
+driveck.json,DoveBoy/Apps
 bilineo.json,DoveBoy/Apps
 realesrgan-gui.json,DoveBoy/Apps
 doxx.json,DoveBoy/Apps
@@ -9806,6 +9807,7 @@ clianpro.json,DoveBoy/Apps
 pdfarranger_DoveBoy.json,DoveBoy/Apps
 mootool-portable.json,DoveBoy/Apps
 mobilecontrolguru.json,DoveBoy/Apps
+fl-studio-patcher.json,DoveBoy/Apps
 lsar.json,DoveBoy/Apps
 clink-flex-prompt_DoveBoy.json,DoveBoy/Apps
 r3playx.json,DoveBoy/Apps
@@ -10141,6 +10143,7 @@ kaf-cli.json,DoveBoy/Apps
 powerline-go_DoveBoy.json,DoveBoy/Apps
 autodarkmode_DoveBoy.json,DoveBoy/Apps
 qr_DoveBoy.json,DoveBoy/Apps
+omniget.json,DoveBoy/Apps
 nano_DoveBoy.json,DoveBoy/Apps
 lsd_DoveBoy.json,DoveBoy/Apps
 sshwifty.json,DoveBoy/Apps
@@ -10158,6 +10161,7 @@ hackbrowserdata_DoveBoy.json,DoveBoy/Apps
 xx-net-win7.json,DoveBoy/Apps
 qrcp_DoveBoy.json,DoveBoy/Apps
 b23downloader-win7.json,DoveBoy/Apps
+stemdeck.json,DoveBoy/Apps
 clashxw.json,DoveBoy/Apps
 ytdownloader.json,DoveBoy/Apps
 q-dns_DoveBoy.json,DoveBoy/Apps
@@ -10356,6 +10360,7 @@ qqgame.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
 clash-party_DoveBoy.json,DoveBoy/Apps
 clash-rev-go120.json,DoveBoy/Apps
+omniget-portable.json,DoveBoy/Apps
 freefilesync_DoveBoy.json,DoveBoy/Apps
 zy-player_DoveBoy.json,DoveBoy/Apps
 everything-beta_DoveBoy.json,DoveBoy/Apps
@@ -12148,6 +12153,7 @@ csvi.json,aliesbelik/poldi
 goku-bench.json,aliesbelik/poldi
 fm.json,aliesbelik/poldi
 loggo.json,aliesbelik/poldi
+rsql.json,aliesbelik/poldi
 xq_aliesbelik.json,aliesbelik/poldi
 see-cat.json,aliesbelik/poldi
 goawk_aliesbelik.json,aliesbelik/poldi
@@ -15701,6 +15707,7 @@ imdisktoolkit-np.json,404NetworkError/scoop-bucket
 pbzip2.json,404NetworkError/scoop-bucket
 dlss-swapper-latest.json,404NetworkError/scoop-bucket
 intro-detection-info.json,404NetworkError/scoop-bucket
+space-cadet.json,404NetworkError/scoop-bucket
 tsmuxer_404NetworkError.json,404NetworkError/scoop-bucket
 auto-unlocker_404NetworkError.json,404NetworkError/scoop-bucket
 mozlz4_404NetworkError.json,404NetworkError/scoop-bucket
@@ -15879,7 +15886,7 @@ godot3-kotlin-jvm.json,windedge/ladle-bucket
 lem.json,windedge/ladle-bucket
 gotify-tray.json,windedge/ladle-bucket
 scia-reto.json,windedge/ladle-bucket
-forgecode_windedge.json,windedge/ladle-bucket
+forgecode.json,windedge/ladle-bucket
 weasyprint_windedge.json,windedge/ladle-bucket
 temurin20-jdk_windedge.json,windedge/ladle-bucket
 tiny-rdm.json,windedge/ladle-bucket
