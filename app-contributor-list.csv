@@ -3100,7 +3100,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -4241,7 +4241,7 @@ wegame.json,Scoopforge/Extras-CN
 pixpin.json,Scoopforge/Extras-CN
 lceda.json,Scoopforge/Extras-CN
 tencent-meeting.json,Scoopforge/Extras-CN
-baidunetdisk.json,Scoopforge/Extras-CN
+baidunetdisk_Scoopforge.json,Scoopforge/Extras-CN
 edrawmax.json,Scoopforge/Extras-CN
 misakatranslator.json,Scoopforge/Extras-CN
 wechatdevtools_Scoopforge.json,Scoopforge/Extras-CN
@@ -5277,7 +5277,7 @@ r41.json,ScoopInstaller/Versions
 nodejs010.json,ScoopInstaller/Versions
 go124.json,ScoopInstaller/Versions
 olive-editor-nightly.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 go121.json,ScoopInstaller/Versions
 cuda11.0.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
@@ -8335,7 +8335,7 @@ NaotuMini.json,dodorz/scoop
 LightAlloy.json,dodorz/scoop
 CloverPdf.json,dodorz/scoop
 Capture2Text_dodorz.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 YoudaoDict.json,dodorz/scoop
 Jamjams.json,dodorz/scoop
 ssed.json,dodorz/scoop
@@ -9331,6 +9331,7 @@ lepton_akirco.json,akirco/aki-apps
 gdu_akirco.json,akirco/aki-apps
 flutter_akirco.json,akirco/aki-apps
 cpu-z_akirco.json,akirco/aki-apps
+bilibili-livehime.json,akirco/aki-apps
 nali_akirco.json,akirco/aki-apps
 netcat_akirco.json,akirco/aki-apps
 wechat_akirco.json,akirco/aki-apps
@@ -9637,7 +9638,7 @@ visualvm_TheRandomLabs.json,TheRandomLabs/Scoop-Bucket
 win10-initial-setup-script.json,TheRandomLabs/Scoop-Bucket
 ffmpeg-for-audacity.json,TheRandomLabs/Scoop-Bucket
 neovim-dev.json,TheRandomLabs/Scoop-Bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
 charm-gum_charmbracelet.json,charmbracelet/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
@@ -9991,7 +9992,7 @@ ipinfo.json,DoveBoy/Apps
 speedtest-cli_DoveBoy.json,DoveBoy/Apps
 pydebloatx.json,DoveBoy/Apps
 gitextensions_DoveBoy.json,DoveBoy/Apps
-qq-nt_DoveBoy.json,DoveBoy/Apps
+qq-nt.json,DoveBoy/Apps
 localsqueeze.json,DoveBoy/Apps
 splayer.json,DoveBoy/Apps
 hibituninstaller.json,DoveBoy/Apps
@@ -11190,6 +11191,7 @@ screenshot-captor.json,naderi/scoop-bucket
 chrome-canary-portable.json,naderi/scoop-bucket
 mitec-json-viewer.json,naderi/scoop-bucket
 font-farbod.json,naderi/scoop-bucket
+encrypto.json,naderi/scoop-bucket
 cherry-studio_naderi.json,naderi/scoop-bucket
 totalcommander-beta-portable.json,naderi/scoop-bucket
 rtools_naderi.json,naderi/scoop-bucket
@@ -11239,7 +11241,6 @@ zed-cli.json,naderi/scoop-bucket
 font-tanha.json,naderi/scoop-bucket
 xnview-classic-full.json,naderi/scoop-bucket
 programmers-notepad.json,naderi/scoop-bucket
-cudatext-portable.json,naderi/scoop-bucket
 caffeinated.json,naderi/scoop-bucket
 wezterm-portable.json,naderi/scoop-bucket
 buzz_naderi.json,naderi/scoop-bucket
@@ -11348,6 +11349,7 @@ java-editor_naderi.json,naderi/scoop-bucket
 ant-renamer.json,naderi/scoop-bucket
 pie.json,naderi/scoop-bucket
 xpdf-reader.json,naderi/scoop-bucket
+csviewer.json,naderi/scoop-bucket
 affine_naderi.json,naderi/scoop-bucket
 windows-update-viewer.json,naderi/scoop-bucket
 adblink.json,naderi/scoop-bucket
@@ -12227,6 +12229,7 @@ curli.json,aliesbelik/poldi
 gonzo.json,aliesbelik/poldi
 lnko.json,aliesbelik/poldi
 helmify.json,aliesbelik/poldi
+kubetui.json,aliesbelik/poldi
 goku.json,aliesbelik/poldi
 nap.json,aliesbelik/poldi
 hitt.json,aliesbelik/poldi
@@ -12703,7 +12706,7 @@ g_batkiz.json,batkiz/backit
 tokei_batkiz.json,batkiz/backit
 fselect_batkiz.json,batkiz/backit
 racket-cs.json,batkiz/backit
-sq.json,batkiz/backit
+sq_batkiz.json,batkiz/backit
 dolt_batkiz.json,batkiz/backit
 tinytex_batkiz.json,batkiz/backit
 rehex_batkiz.json,batkiz/backit
