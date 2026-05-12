@@ -5626,7 +5626,7 @@ processhacker-nightly.json,ScoopInstaller/Versions
 winget1.5.json,ScoopInstaller/Versions
 spark-scala2.13.json,ScoopInstaller/Versions
 archi44.json,ScoopInstaller/Versions
-spicetify-themes_TheRandomLabs.json,TheRandomLabs/Scoop-Spotify
+spicetify-themes.json,TheRandomLabs/Scoop-Spotify
 spotify-with-blockthespot.json,TheRandomLabs/Scoop-Spotify
 spicetify-cli_TheRandomLabs.json,TheRandomLabs/Scoop-Spotify
 spotify-tui_TheRandomLabs.json,TheRandomLabs/Scoop-Spotify
@@ -8963,7 +8963,7 @@ java-chains.json,ViCrack/scoop-bucket
 fvuln_ViCrack.json,ViCrack/scoop-bucket
 xjavafxtool.json,ViCrack/scoop-bucket
 pyxis.json,ViCrack/scoop-bucket
-jyso_ViCrack.json,ViCrack/scoop-bucket
+jyso.json,ViCrack/scoop-bucket
 cpuz-cn.json,ViCrack/scoop-bucket
 fapro.json,ViCrack/scoop-bucket
 tls_proxy.json,ViCrack/scoop-bucket
@@ -10071,7 +10071,7 @@ ftpserver.json,DoveBoy/Apps
 picotorrent_DoveBoy.json,DoveBoy/Apps
 convert.net_DoveBoy.json,DoveBoy/Apps
 cheat-engine_DoveBoy.json,DoveBoy/Apps
-dandanplay_DoveBoy.json,DoveBoy/Apps
+dandanplay.json,DoveBoy/Apps
 so-novel.json,DoveBoy/Apps
 joplin-pre_DoveBoy.json,DoveBoy/Apps
 psreadline_DoveBoy.json,DoveBoy/Apps
@@ -11610,7 +11610,7 @@ sharex-setup.json,WinApps-share/WinApps-bucket
 altserver.json,WinApps-share/WinApps-bucket
 watt-toolkit_WinApps-share.json,WinApps-share/WinApps-bucket
 cherry-studio_WinApps-share.json,WinApps-share/WinApps-bucket
-telegram_WinApps-share.json,WinApps-share/WinApps-bucket
+telegram.json,WinApps-share/WinApps-bucket
 bbdown_WinApps-share.json,WinApps-share/WinApps-bucket
 bypass_WinApps-share.json,WinApps-share/WinApps-bucket
 unigetui-np.json,WinApps-share/WinApps-bucket
@@ -15971,7 +15971,7 @@ pbgopy_jcwillox.json,jcwillox/scoop-bucket
 tedit.json,jcwillox/scoop-bucket
 handbrake-portable_jcwillox.json,jcwillox/scoop-bucket
 multimc_jcwillox.json,jcwillox/scoop-bucket
-vortex_jcwillox.json,jcwillox/scoop-bucket
+vortex.json,jcwillox/scoop-bucket
 sonoff-diy-tool.json,jcwillox/scoop-bucket
 PSLazyCompletion.json,jcwillox/scoop-bucket
 npiperelay_jcwillox.json,jcwillox/scoop-bucket
