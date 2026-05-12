@@ -2593,7 +2593,7 @@ kanata-cmd.json,ScoopInstaller/Extras
 fastcopy.json,ScoopInstaller/Extras
 cascadeur.json,ScoopInstaller/Extras
 mongodb-compass.json,ScoopInstaller/Extras
-vscode_ScoopInstaller.json,ScoopInstaller/Extras
+vscode.json,ScoopInstaller/Extras
 gui-for-clash.json,ScoopInstaller/Extras
 jasper.json,ScoopInstaller/Extras
 cookiecutter.json,ScoopInstaller/Extras
@@ -3100,7 +3100,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -4514,7 +4514,7 @@ angband-dev.json,Calinou/scoop-games
 ufoai.json,Calinou/scoop-games
 sm64coopdx.json,Calinou/scoop-games
 pyfa.json,Calinou/scoop-games
-nbtexplorer_Calinou.json,Calinou/scoop-games
+nbtexplorer.json,Calinou/scoop-games
 runelite.json,Calinou/scoop-games
 kindandfair.json,Calinou/scoop-games
 odamex.json,Calinou/scoop-games
@@ -11663,7 +11663,7 @@ git_WinApps-share.json,WinApps-share/WinApps-bucket
 ocauxiliarytools_WinApps-share.json,WinApps-share/WinApps-bucket
 draw.io_WinApps-share.json,WinApps-share/WinApps-bucket
 ab-download-manager.json,WinApps-share/WinApps-bucket
-pixpin_WinApps-share.json,WinApps-share/WinApps-bucket
+pixpin.json,WinApps-share/WinApps-bucket
 clean-my-wechat.json,WinApps-share/WinApps-bucket
 7zip_WinApps-share.json,WinApps-share/WinApps-bucket
 whynot-win11.json,WinApps-share/WinApps-bucket
@@ -15536,7 +15536,7 @@ qrencode_404NetworkError.json,404NetworkError/scoop-bucket
 qbittorrent-enhanced_404NetworkError.json,404NetworkError/scoop-bucket
 windowsdesktop-runtime_404NetworkError.json,404NetworkError/scoop-bucket
 winobjex64_404NetworkError.json,404NetworkError/scoop-bucket
-windowsdesktop-runtime-9.0_404NetworkError.json,404NetworkError/scoop-bucket
+windowsdesktop-runtime-9.0.json,404NetworkError/scoop-bucket
 uutils-findutils_404NetworkError.json,404NetworkError/scoop-bucket
 lamexp-nightly.json,404NetworkError/scoop-bucket
 spek-alternative.json,404NetworkError/scoop-bucket
