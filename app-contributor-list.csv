@@ -4388,7 +4388,7 @@ supermodel.json,Calinou/scoop-games
 infraarcana.json,Calinou/scoop-games
 flycast.json,Calinou/scoop-games
 eve-iph.json,Calinou/scoop-games
-starward.json,Calinou/scoop-games
+starward_Calinou.json,Calinou/scoop-games
 simutrans.json,Calinou/scoop-games
 megaglest.json,Calinou/scoop-games
 supertux.json,Calinou/scoop-games
@@ -5277,7 +5277,7 @@ r41.json,ScoopInstaller/Versions
 nodejs010.json,ScoopInstaller/Versions
 go124.json,ScoopInstaller/Versions
 olive-editor-nightly.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 go121.json,ScoopInstaller/Versions
 cuda11.0.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
@@ -12803,7 +12803,7 @@ cpachecker.json,seumsc/scoop-seu
 videosubfinder.json,seumsc/scoop-seu
 kindlegen_seumsc.json,seumsc/scoop-seu
 autowikibrowser.json,seumsc/scoop-seu
-kook.json,seumsc/scoop-seu
+kook_seumsc.json,seumsc/scoop-seu
 archisteamfarm-generic.json,seumsc/scoop-seu
 musicdecrypto.json,seumsc/scoop-seu
 shterm-alt.json,seumsc/scoop-seu
@@ -13307,7 +13307,7 @@ wezterm-grapao-pastel.json,ocodo/wezterm-alt-windows-icon-builds
 wezterm-gf3-darksoft-deux.json,ocodo/wezterm-alt-windows-icon-builds
 wezterm-gf3-darkultra-song.json,ocodo/wezterm-alt-windows-icon-builds
 php74-nts.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 kiwix.json,aoisummer/scoop-bucket
 you-get_aoisummer.json,aoisummer/scoop-bucket
 clash-for-windows_aoisummer.json,aoisummer/scoop-bucket
