@@ -6455,6 +6455,7 @@ voicemeeter-banana-np.json,ScoopInstaller/Nonportable
 pdf24-creator-np.json,ScoopInstaller/Nonportable
 autohotkey-np.json,ScoopInstaller/Nonportable
 nodejs-np.json,ScoopInstaller/Nonportable
+gpg-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 qttabbar-np.json,ScoopInstaller/Nonportable
 iddsampledriver-ge9-np.json,ScoopInstaller/Nonportable
 qttabbar-indiff-np.json,ScoopInstaller/Nonportable
@@ -9956,7 +9957,7 @@ bongocat.json,DoveBoy/Apps
 network-profile-name-changer_DoveBoy.json,DoveBoy/Apps
 picturecleaner.json,DoveBoy/Apps
 readest_DoveBoy.json,DoveBoy/Apps
-neteaseuu_DoveBoy.json,DoveBoy/Apps
+neteaseuu.json,DoveBoy/Apps
 w64devkit_DoveBoy.json,DoveBoy/Apps
 gitalias.json,DoveBoy/Apps
 freecontrol.json,DoveBoy/Apps
@@ -12985,7 +12986,6 @@ iosevka.json,iquiw/scoop-bucket
 mo.json,iquiw/scoop-bucket
 ghc96.json,iquiw/scoop-bucket
 rawrite32.json,iquiw/scoop-bucket
-zizmor_iquiw.json,iquiw/scoop-bucket
 cica.json,iquiw/scoop-bucket
 docker-cli.json,iquiw/scoop-bucket
 evtx_dump.json,iquiw/scoop-bucket
@@ -15685,7 +15685,7 @@ emacs-aot.json,ShuguangSun/sgs-scoop-bucket
 r-4.5.json,ShuguangSun/sgs-scoop-bucket
 vale_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 diff-pdf_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-micromamba_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+micromamba.json,ShuguangSun/sgs-scoop-bucket
 cherry-studio-1.0.6.json,ShuguangSun/sgs-scoop-bucket
 r-4.5.3.json,ShuguangSun/sgs-scoop-bucket
 ark_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
@@ -15914,7 +15914,7 @@ virtual-browser.json,LaelLuo/scoop
 capcut_LaelLuo.json,LaelLuo/scoop
 utools_LaelLuo.json,LaelLuo/scoop
 cunzhi.json,LaelLuo/scoop
-qoder_LaelLuo.json,LaelLuo/scoop
+qoder.json,LaelLuo/scoop
 moonbit.json,LaelLuo/scoop
 yuanbao_LaelLuo.json,LaelLuo/scoop
 codex-flow.json,LaelLuo/scoop
@@ -15956,7 +15956,7 @@ autoglm_LaelLuo.json,LaelLuo/scoop
 virtual-browser_LaelLuo.json,LaelLuo/scoop
 capcut_LaelLuo.json,LaelLuo/scoop
 utools_LaelLuo.json,LaelLuo/scoop
-qoder_LaelLuo.json,LaelLuo/scoop
+qoder.json,LaelLuo/scoop
 moonbit.json,LaelLuo/scoop
 yuanbao.json,LaelLuo/scoop
 codex-flow_LaelLuo.json,LaelLuo/scoop
