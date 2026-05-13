@@ -2593,7 +2593,7 @@ kanata-cmd.json,ScoopInstaller/Extras
 fastcopy.json,ScoopInstaller/Extras
 cascadeur.json,ScoopInstaller/Extras
 mongodb-compass.json,ScoopInstaller/Extras
-vscode.json,ScoopInstaller/Extras
+vscode_ScoopInstaller.json,ScoopInstaller/Extras
 gui-for-clash.json,ScoopInstaller/Extras
 jasper.json,ScoopInstaller/Extras
 cookiecutter.json,ScoopInstaller/Extras
@@ -5277,7 +5277,7 @@ r41.json,ScoopInstaller/Versions
 nodejs010.json,ScoopInstaller/Versions
 go124.json,ScoopInstaller/Versions
 olive-editor-nightly.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 go121.json,ScoopInstaller/Versions
 cuda11.0.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
@@ -8335,7 +8335,7 @@ NaotuMini.json,dodorz/scoop
 LightAlloy.json,dodorz/scoop
 CloverPdf.json,dodorz/scoop
 Capture2Text_dodorz.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 YoudaoDict.json,dodorz/scoop
 Jamjams.json,dodorz/scoop
 ssed.json,dodorz/scoop
@@ -9331,7 +9331,6 @@ lepton_akirco.json,akirco/aki-apps
 gdu_akirco.json,akirco/aki-apps
 flutter_akirco.json,akirco/aki-apps
 cpu-z_akirco.json,akirco/aki-apps
-bilibili-livehime.json,akirco/aki-apps
 nali_akirco.json,akirco/aki-apps
 netcat_akirco.json,akirco/aki-apps
 wechat_akirco.json,akirco/aki-apps
@@ -9387,7 +9386,7 @@ obs-studio_akirco.json,akirco/aki-apps
 silentcmd_akirco.json,akirco/aki-apps
 trae-cn_akirco.json,akirco/aki-apps
 dvm_akirco.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 warp_akirco.json,akirco/aki-apps
 shim_akirco.json,akirco/aki-apps
 mdcat_akirco.json,akirco/aki-apps
@@ -10071,7 +10070,7 @@ ftpserver.json,DoveBoy/Apps
 picotorrent_DoveBoy.json,DoveBoy/Apps
 convert.net_DoveBoy.json,DoveBoy/Apps
 cheat-engine_DoveBoy.json,DoveBoy/Apps
-dandanplay.json,DoveBoy/Apps
+dandanplay_DoveBoy.json,DoveBoy/Apps
 so-novel.json,DoveBoy/Apps
 joplin-pre_DoveBoy.json,DoveBoy/Apps
 psreadline_DoveBoy.json,DoveBoy/Apps
@@ -12122,6 +12121,7 @@ prom2json.json,aliesbelik/poldi
 spoofdpi.json,aliesbelik/poldi
 dblab.json,aliesbelik/poldi
 dnstrace.json,aliesbelik/poldi
+leaf_aliesbelik.json,aliesbelik/poldi
 speedtest-go_aliesbelik.json,aliesbelik/poldi
 grpcui.json,aliesbelik/poldi
 clobbr-cli.json,aliesbelik/poldi
@@ -12519,14 +12519,11 @@ asimov-vcard-module.json,asimov-platform/scoop-bucket
 asimov-luma-module.json,asimov-platform/scoop-bucket
 asimov-ipfs-module.json,asimov-platform/scoop-bucket
 tiger-vncviewer.json,liaoya/scoop-bucket
-mingw-winlibs-llvm-ucrt.json,liaoya/scoop-bucket
 codeblocks-nightly.json,liaoya/scoop-bucket
 pyscripter_liaoya.json,liaoya/scoop-bucket
-mingw-winlibs-mcf.json,liaoya/scoop-bucket
 gtm.json,liaoya/scoop-bucket
 rhash_liaoya.json,liaoya/scoop-bucket
 ppink_liaoya.json,liaoya/scoop-bucket
-codelite.json,liaoya/scoop-bucket
 mingw-winlibs-ucrt_liaoya.json,liaoya/scoop-bucket
 eclipse-installer.json,liaoya/scoop-bucket
 ezwinports.json,liaoya/scoop-bucket
@@ -12539,6 +12536,7 @@ usbit.json,liaoya/scoop-bucket
 kubeval_liaoya.json,liaoya/scoop-bucket
 Win32-OpenSSH_liaoya.json,liaoya/scoop-bucket
 MinGit_liaoya.json,liaoya/scoop-bucket
+mingw-winlibs-llvm-ucrt.json,liaoya/scoop-bucket
 yq_liaoya.json,liaoya/scoop-bucket
 ojdkbuild9_liaoya.json,liaoya/scoop-bucket
 codeblocks_liaoya.json,liaoya/scoop-bucket
@@ -12550,6 +12548,7 @@ greenshot_liaoya.json,liaoya/scoop-bucket
 strawberryperl.json,liaoya/scoop-bucket
 idea-goland.json,liaoya/scoop-bucket
 zulu-openjdk9.json,liaoya/scoop-bucket
+mingw-winlibs-mcf.json,liaoya/scoop-bucket
 winmerge-jp.json,liaoya/scoop-bucket
 jabba_liaoya.json,liaoya/scoop-bucket
 ideaIC.json,liaoya/scoop-bucket
@@ -15536,8 +15535,9 @@ qrencode_404NetworkError.json,404NetworkError/scoop-bucket
 qbittorrent-enhanced_404NetworkError.json,404NetworkError/scoop-bucket
 windowsdesktop-runtime_404NetworkError.json,404NetworkError/scoop-bucket
 winobjex64_404NetworkError.json,404NetworkError/scoop-bucket
-windowsdesktop-runtime-9.0.json,404NetworkError/scoop-bucket
+windowsdesktop-runtime-9.0_404NetworkError.json,404NetworkError/scoop-bucket
 uutils-findutils_404NetworkError.json,404NetworkError/scoop-bucket
+chaptereditor_404NetworkError.json,404NetworkError/scoop-bucket
 lamexp-nightly.json,404NetworkError/scoop-bucket
 spek-alternative.json,404NetworkError/scoop-bucket
 link-shell-extension-np_404NetworkError.json,404NetworkError/scoop-bucket
