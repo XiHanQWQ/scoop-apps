@@ -2155,7 +2155,7 @@ midicsv.json,ScoopInstaller/Extras
 tumblthree.json,ScoopInstaller/Extras
 bleachbit.json,ScoopInstaller/Extras
 video-thumbnails-maker.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 ip2location-io-cli.json,ScoopInstaller/Extras
 qefi-entry-manager.json,ScoopInstaller/Extras
 ddu.json,ScoopInstaller/Extras
@@ -3100,7 +3100,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -5277,7 +5277,7 @@ r41.json,ScoopInstaller/Versions
 nodejs010.json,ScoopInstaller/Versions
 go124.json,ScoopInstaller/Versions
 olive-editor-nightly.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 go121.json,ScoopInstaller/Versions
 cuda11.0.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
@@ -8703,7 +8703,7 @@ fceux.json,hermanjustnu/scoop-emulators
 mednaffe_hermanjustnu.json,hermanjustnu/scoop-emulators
 yuzu.json,hermanjustnu/scoop-emulators
 model-b.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 stella_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 steam-rom-manager_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -9779,7 +9779,7 @@ sandboxie-plus-np_DoveBoy.json,DoveBoy/Apps
 innounp_DoveBoy.json,DoveBoy/Apps
 dnsjumper_DoveBoy.json,DoveBoy/Apps
 pytranscriber.json,DoveBoy/Apps
-v2rayn_DoveBoy.json,DoveBoy/Apps
+v2rayn.json,DoveBoy/Apps
 final2x-portable.json,DoveBoy/Apps
 biliup-rs.json,DoveBoy/Apps
 pikapika.json,DoveBoy/Apps
@@ -12604,7 +12604,7 @@ forcebindip_batkiz.json,batkiz/backit
 git-branch-stash.json,batkiz/backit
 switchfin.json,batkiz/backit
 dog_batkiz.json,batkiz/backit
-ls-lint.json,batkiz/backit
+ls-lint_batkiz.json,batkiz/backit
 glow_batkiz.json,batkiz/backit
 irust.json,batkiz/backit
 obs-cli.json,batkiz/backit
