@@ -8108,6 +8108,7 @@ Squeak.json,dodorz/scoop
 Zback.json,dodorz/scoop
 OpenProj.json,dodorz/scoop
 FileTime.json,dodorz/scoop
+Oatmeal.json,dodorz/scoop
 HE.json,dodorz/scoop
 MarkdownViewer.json,dodorz/scoop
 KillEmAllMini.json,dodorz/scoop
@@ -8526,6 +8527,7 @@ JPEGView.json,dodorz/scoop
 FreeCAD_dodorz.json,dodorz/scoop
 FluentSearch.json,dodorz/scoop
 QianWen.json,dodorz/scoop
+Terax.json,dodorz/scoop
 adobe-source-han-serif-cn-fonts.json,dodorz/scoop
 SlimPDF.json,dodorz/scoop
 Nomad.NET.json,dodorz/scoop
@@ -9009,7 +9011,7 @@ transfer.json,ViCrack/scoop-bucket
 apifox_ViCrack.json,ViCrack/scoop-bucket
 oxideterm.json,ViCrack/scoop-bucket
 revokemsgpatcher_ViCrack.json,ViCrack/scoop-bucket
-feishurevokemsgpatcher_ViCrack.json,ViCrack/scoop-bucket
+feishurevokemsgpatcher.json,ViCrack/scoop-bucket
 rakshasa.json,ViCrack/scoop-bucket
 1remote.json,ViCrack/scoop-bucket
 siyuan-ce.json,ViCrack/scoop-bucket
@@ -12308,6 +12310,7 @@ werf.json,aliesbelik/poldi
 tt.json,aliesbelik/poldi
 gopayloader.json,aliesbelik/poldi
 mani.json,aliesbelik/poldi
+hloader.json,aliesbelik/poldi
 waitforit.json,aliesbelik/poldi
 tcping-go.json,aliesbelik/poldi
 tfmv.json,aliesbelik/poldi
