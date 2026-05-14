@@ -2155,7 +2155,7 @@ midicsv.json,ScoopInstaller/Extras
 tumblthree.json,ScoopInstaller/Extras
 bleachbit.json,ScoopInstaller/Extras
 video-thumbnails-maker.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 ip2location-io-cli.json,ScoopInstaller/Extras
 qefi-entry-manager.json,ScoopInstaller/Extras
 ddu.json,ScoopInstaller/Extras
@@ -3100,7 +3100,7 @@ aptakube.json,ScoopInstaller/Extras
 speedfan.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
 ryzen-controller.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 siyuan-note.json,ScoopInstaller/Extras
 shutter-encoder.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -5277,7 +5277,7 @@ r41.json,ScoopInstaller/Versions
 nodejs010.json,ScoopInstaller/Versions
 go124.json,ScoopInstaller/Versions
 olive-editor-nightly.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 go121.json,ScoopInstaller/Versions
 cuda11.0.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
@@ -7823,6 +7823,7 @@ TCC-LE.json,dodorz/scoop
 VieasEx.json,dodorz/scoop
 Quicker_dodorz.json,dodorz/scoop
 PersonalEditor.json,dodorz/scoop
+HotkeyDetective.json,dodorz/scoop
 mawk.json,dodorz/scoop
 Xidel_dodorz.json,dodorz/scoop
 AppGet.json,dodorz/scoop
@@ -10493,7 +10494,7 @@ book-searcher-desktop.json,DoveBoy/Apps
 revokemsgpatcher-nightly.json,DoveBoy/Apps
 clash.meta-cgo.json,DoveBoy/Apps
 element_EFLKumo.json,EFLKumo/jam
-con-terminal.json,EFLKumo/jam
+con-terminal_EFLKumo.json,EFLKumo/jam
 signal_EFLKumo.json,EFLKumo/jam
 pot_EFLKumo.json,EFLKumo/jam
 siyuan-unlock.json,EFLKumo/jam
