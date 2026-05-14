@@ -2593,7 +2593,7 @@ kanata-cmd.json,ScoopInstaller/Extras
 fastcopy.json,ScoopInstaller/Extras
 cascadeur.json,ScoopInstaller/Extras
 mongodb-compass.json,ScoopInstaller/Extras
-vscode.json,ScoopInstaller/Extras
+vscode_ScoopInstaller.json,ScoopInstaller/Extras
 gui-for-clash.json,ScoopInstaller/Extras
 jasper.json,ScoopInstaller/Extras
 cookiecutter.json,ScoopInstaller/Extras
@@ -4209,7 +4209,7 @@ quickbib.json,Scoopforge/Extras-CN
 blender-cn.json,Scoopforge/Extras-CN
 aboboo.json,Scoopforge/Extras-CN
 fishing-funds.json,Scoopforge/Extras-CN
-lceda-pro.json,Scoopforge/Extras-CN
+lceda-pro_Scoopforge.json,Scoopforge/Extras-CN
 videocaptioner.json,Scoopforge/Extras-CN
 mogan-cn.json,Scoopforge/Extras-CN
 goldendict-ng.json,Scoopforge/Extras-CN
@@ -5277,7 +5277,7 @@ r41.json,ScoopInstaller/Versions
 nodejs010.json,ScoopInstaller/Versions
 go124.json,ScoopInstaller/Versions
 olive-editor-nightly.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 go121.json,ScoopInstaller/Versions
 cuda11.0.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
@@ -8335,7 +8335,7 @@ NaotuMini.json,dodorz/scoop
 LightAlloy.json,dodorz/scoop
 CloverPdf.json,dodorz/scoop
 Capture2Text_dodorz.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 YoudaoDict.json,dodorz/scoop
 Jamjams.json,dodorz/scoop
 ssed.json,dodorz/scoop
@@ -9956,7 +9956,7 @@ bongocat.json,DoveBoy/Apps
 network-profile-name-changer_DoveBoy.json,DoveBoy/Apps
 picturecleaner.json,DoveBoy/Apps
 readest_DoveBoy.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 w64devkit_DoveBoy.json,DoveBoy/Apps
 gitalias.json,DoveBoy/Apps
 freecontrol.json,DoveBoy/Apps
@@ -10060,7 +10060,7 @@ urlfinder.json,DoveBoy/Apps
 ccleaner_DoveBoy.json,DoveBoy/Apps
 bililive-go.json,DoveBoy/Apps
 clumsy_DoveBoy.json,DoveBoy/Apps
-animeko.json,DoveBoy/Apps
+animeko_DoveBoy.json,DoveBoy/Apps
 pixivutil2.json,DoveBoy/Apps
 explorerpatcher.json,DoveBoy/Apps
 pansy.json,DoveBoy/Apps
@@ -10293,7 +10293,7 @@ memreduct_DoveBoy.json,DoveBoy/Apps
 waifu2x-ncnn-vulkan_DoveBoy.json,DoveBoy/Apps
 freerenamer.json,DoveBoy/Apps
 gnupg1_DoveBoy.json,DoveBoy/Apps
-gnupg-np.json,DoveBoy/Apps
+gnupg-np_DoveBoy.json,DoveBoy/Apps
 video-subtitle-extractor-gpu.json,DoveBoy/Apps
 min_DoveBoy.json,DoveBoy/Apps
 qbittorrent-enhanced_DoveBoy.json,DoveBoy/Apps
@@ -10493,7 +10493,7 @@ book-searcher-desktop.json,DoveBoy/Apps
 revokemsgpatcher-nightly.json,DoveBoy/Apps
 clash.meta-cgo.json,DoveBoy/Apps
 element_EFLKumo.json,EFLKumo/jam
-con-terminal_EFLKumo.json,EFLKumo/jam
+con-terminal.json,EFLKumo/jam
 signal_EFLKumo.json,EFLKumo/jam
 pot_EFLKumo.json,EFLKumo/jam
 siyuan-unlock.json,EFLKumo/jam
@@ -12791,7 +12791,7 @@ cpachecker.json,seumsc/scoop-seu
 videosubfinder.json,seumsc/scoop-seu
 kindlegen_seumsc.json,seumsc/scoop-seu
 autowikibrowser.json,seumsc/scoop-seu
-kook.json,seumsc/scoop-seu
+kook_seumsc.json,seumsc/scoop-seu
 archisteamfarm-generic.json,seumsc/scoop-seu
 musicdecrypto.json,seumsc/scoop-seu
 shterm-alt.json,seumsc/scoop-seu
@@ -13299,7 +13299,7 @@ NapeConsole.json,AkariiinMKII/Scoop4kariiin
 PsTools_AkariiinMKII.json,AkariiinMKII/Scoop4kariiin
 ryujinx-ava.json,AkariiinMKII/Scoop4kariiin
 php74-nts.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 kiwix.json,aoisummer/scoop-bucket
 you-get_aoisummer.json,aoisummer/scoop-bucket
 clash-for-windows_aoisummer.json,aoisummer/scoop-bucket
@@ -15608,7 +15608,7 @@ emacs-aot.json,ShuguangSun/sgs-scoop-bucket
 r-4.5.json,ShuguangSun/sgs-scoop-bucket
 vale_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 diff-pdf_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-micromamba.json,ShuguangSun/sgs-scoop-bucket
+micromamba_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 cherry-studio-1.0.6.json,ShuguangSun/sgs-scoop-bucket
 r-4.5.3.json,ShuguangSun/sgs-scoop-bucket
 ark_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
@@ -15905,7 +15905,7 @@ virtual-browser.json,LaelLuo/scoop
 capcut_LaelLuo.json,LaelLuo/scoop
 utools_LaelLuo.json,LaelLuo/scoop
 cunzhi.json,LaelLuo/scoop
-qoder.json,LaelLuo/scoop
+qoder_LaelLuo.json,LaelLuo/scoop
 moonbit.json,LaelLuo/scoop
 yuanbao_LaelLuo.json,LaelLuo/scoop
 codex-flow.json,LaelLuo/scoop
@@ -15947,7 +15947,7 @@ autoglm_LaelLuo.json,LaelLuo/scoop
 virtual-browser_LaelLuo.json,LaelLuo/scoop
 capcut_LaelLuo.json,LaelLuo/scoop
 utools_LaelLuo.json,LaelLuo/scoop
-qoder.json,LaelLuo/scoop
+qoder_LaelLuo.json,LaelLuo/scoop
 moonbit.json,LaelLuo/scoop
 yuanbao.json,LaelLuo/scoop
 codex-flow_LaelLuo.json,LaelLuo/scoop
