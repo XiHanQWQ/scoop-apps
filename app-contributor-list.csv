@@ -8953,7 +8953,7 @@ jyso_ViCrack.json,ViCrack/scoop-bucket
 rubick.json,ViCrack/scoop-bucket
 igdm_ViCrack.json,ViCrack/scoop-bucket
 proguard_ViCrack.json,ViCrack/scoop-bucket
-yakit_ViCrack.json,ViCrack/scoop-bucket
+yakit.json,ViCrack/scoop-bucket
 simple-dnscrypt.json,ViCrack/scoop-bucket
 extremedumper.json,ViCrack/scoop-bucket
 fapro.json,ViCrack/scoop-bucket
@@ -9654,7 +9654,7 @@ pop.json,charmbracelet/scoop-bucket
 soft-serve.json,charmbracelet/scoop-bucket
 melt.json,charmbracelet/scoop-bucket
 markscribe.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 SourceHanSerifJP.json,everyx/scoop-bucket
 xmind.json,everyx/scoop-bucket
 SourceHanSansKR.json,everyx/scoop-bucket
@@ -10498,8 +10498,8 @@ typoracracker.json,DoveBoy/Apps
 mpv-config.json,EFLKumo/jam
 readest_EFLKumo.json,EFLKumo/jam
 signal_EFLKumo.json,EFLKumo/jam
+tolaria.json,EFLKumo/jam
 element_EFLKumo.json,EFLKumo/jam
-void_EFLKumo.json,EFLKumo/jam
 keyguard.json,EFLKumo/jam
 siyuan-unlock.json,EFLKumo/jam
 googlechrome_EFLKumo.json,EFLKumo/jam
