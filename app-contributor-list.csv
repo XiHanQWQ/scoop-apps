@@ -2217,7 +2217,7 @@ task-coach.json,ScoopInstaller/Extras
 super-productivity.json,ScoopInstaller/Extras
 godot-manager.json,ScoopInstaller/Extras
 rimage.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 qimgv.json,ScoopInstaller/Extras
 expresso.json,ScoopInstaller/Extras
 fontbase.json,ScoopInstaller/Extras
@@ -9654,7 +9654,7 @@ pop.json,charmbracelet/scoop-bucket
 soft-serve.json,charmbracelet/scoop-bucket
 melt.json,charmbracelet/scoop-bucket
 markscribe.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 SourceHanSerifJP.json,everyx/scoop-bucket
 xmind.json,everyx/scoop-bucket
 SourceHanSansKR.json,everyx/scoop-bucket
@@ -10848,7 +10848,7 @@ microdicom-dicom-viewer.json,amorphobia/siku
 clash-verge_amorphobia.json,amorphobia/siku
 powercolorls.json,amorphobia/siku
 tcc_amorphobia.json,amorphobia/siku
-plain-craft-launcher_amorphobia.json,amorphobia/siku
+plain-craft-launcher.json,amorphobia/siku
 revokemsgpatcher_amorphobia.json,amorphobia/siku
 adrive_amorphobia.json,amorphobia/siku
 arturo_amorphobia.json,amorphobia/siku
