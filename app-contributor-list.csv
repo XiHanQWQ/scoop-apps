@@ -2870,7 +2870,7 @@ lens.json,ScoopInstaller/Extras
 xnviewmp.json,ScoopInstaller/Extras
 googlechrome.json,ScoopInstaller/Extras
 jabref.json,ScoopInstaller/Extras
-g-helper.json,ScoopInstaller/Extras
+g-helper_ScoopInstaller.json,ScoopInstaller/Extras
 warp-terminal.json,ScoopInstaller/Extras
 eask-cli.json,ScoopInstaller/Extras
 inkscape-extension-sozi.json,ScoopInstaller/Extras
@@ -5419,7 +5419,7 @@ gradle6.json,ScoopInstaller/Versions
 llrt-beta.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
 php71.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 winpython37.json,ScoopInstaller/Versions
 dart-dev.json,ScoopInstaller/Versions
 windows-terminal-preview.json,ScoopInstaller/Versions
@@ -8273,7 +8273,7 @@ Brief.json,dodorz/scoop
 PicPick_dodorz.json,dodorz/scoop
 9pm.json,dodorz/scoop
 webd.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 vs-ghostwriter.json,dodorz/scoop
 FullSync.json,dodorz/scoop
 MicroEmacs.json,dodorz/scoop
@@ -15747,7 +15747,6 @@ pdf4teachers.json,windedge/ladle-bucket
 askimo.json,windedge/ladle-bucket
 godot3-kotlin-jvm.json,windedge/ladle-bucket
 nekoray2.json,windedge/ladle-bucket
-scooper_windedge.json,windedge/ladle-bucket
 rtk_windedge.json,windedge/ladle-bucket
 heimer.json,windedge/ladle-bucket
 markflowy_windedge.json,windedge/ladle-bucket
