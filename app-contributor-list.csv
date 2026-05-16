@@ -2217,7 +2217,7 @@ task-coach.json,ScoopInstaller/Extras
 super-productivity.json,ScoopInstaller/Extras
 godot-manager.json,ScoopInstaller/Extras
 rimage.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 qimgv.json,ScoopInstaller/Extras
 expresso.json,ScoopInstaller/Extras
 fontbase.json,ScoopInstaller/Extras
@@ -5419,7 +5419,7 @@ gradle6.json,ScoopInstaller/Versions
 llrt-beta.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
 php71.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 winpython37.json,ScoopInstaller/Versions
 dart-dev.json,ScoopInstaller/Versions
 windows-terminal-preview.json,ScoopInstaller/Versions
@@ -9654,7 +9654,7 @@ pop.json,charmbracelet/scoop-bucket
 soft-serve.json,charmbracelet/scoop-bucket
 melt.json,charmbracelet/scoop-bucket
 markscribe.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 SourceHanSerifJP.json,everyx/scoop-bucket
 xmind.json,everyx/scoop-bucket
 SourceHanSansKR.json,everyx/scoop-bucket
@@ -11601,7 +11601,7 @@ wps_WinApps-share.json,WinApps-share/WinApps-bucket
 frame.json,WinApps-share/WinApps-bucket
 wepe_WinApps-share.json,WinApps-share/WinApps-bucket
 tianruo-ocr.json,WinApps-share/WinApps-bucket
-edge_WinApps-share.json,WinApps-share/WinApps-bucket
+edge.json,WinApps-share/WinApps-bucket
 google-chrome.json,WinApps-share/WinApps-bucket
 clash-for-windows_WinApps-share.json,WinApps-share/WinApps-bucket
 office-tool-plus_WinApps-share.json,WinApps-share/WinApps-bucket
