@@ -8080,7 +8080,7 @@ PDFPresenter.json,dodorz/scoop
 Markpad.json,dodorz/scoop
 depi.json,dodorz/scoop
 WFPQuery.json,dodorz/scoop
-UsbTreeView_dodorz.json,dodorz/scoop
+UsbTreeView.json,dodorz/scoop
 Kawa.json,dodorz/scoop
 Cliamp_dodorz.json,dodorz/scoop
 DesktopNoteOK.json,dodorz/scoop
@@ -8892,7 +8892,7 @@ snes9x_borger.json,borger/scoop-emulators
 spaghettikart.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 starship_borger.json,borger/scoop-emulators
@@ -9753,7 +9753,7 @@ opensearcher-win7.json,DoveBoy/Apps
 typioca_DoveBoy.json,DoveBoy/Apps
 kando_DoveBoy.json,DoveBoy/Apps
 github-store.json,DoveBoy/Apps
-sandboxie-plus_DoveBoy.json,DoveBoy/Apps
+sandboxie-plus.json,DoveBoy/Apps
 vim_DoveBoy.json,DoveBoy/Apps
 youtube-dl_DoveBoy.json,DoveBoy/Apps
 scoop-tab-completion.json,DoveBoy/Apps
@@ -15692,7 +15692,7 @@ vmware-macos-unlocker.json,404NetworkError/scoop-bucket
 windowsdesktop-runtime_404NetworkError.json,404NetworkError/scoop-bucket
 qrencode_404NetworkError.json,404NetworkError/scoop-bucket
 mullvadvpn-nightly-np.json,404NetworkError/scoop-bucket
-usbtreeview.json,404NetworkError/scoop-bucket
+usbtreeview_404NetworkError.json,404NetworkError/scoop-bucket
 link-shell-extension-np_404NetworkError.json,404NetworkError/scoop-bucket
 spek.json,404NetworkError/scoop-bucket
 bdinfo-beta.json,404NetworkError/scoop-bucket
