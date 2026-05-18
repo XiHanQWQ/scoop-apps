@@ -5420,7 +5420,7 @@ gradle6.json,ScoopInstaller/Versions
 llrt-beta.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
 php71.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 winpython37.json,ScoopInstaller/Versions
 dart-dev.json,ScoopInstaller/Versions
 windows-terminal-preview.json,ScoopInstaller/Versions
@@ -8080,7 +8080,7 @@ PDFPresenter.json,dodorz/scoop
 Markpad.json,dodorz/scoop
 depi.json,dodorz/scoop
 WFPQuery.json,dodorz/scoop
-UsbTreeView.json,dodorz/scoop
+UsbTreeView_dodorz.json,dodorz/scoop
 Kawa.json,dodorz/scoop
 Cliamp_dodorz.json,dodorz/scoop
 DesktopNoteOK.json,dodorz/scoop
@@ -8872,7 +8872,7 @@ vita3k_borger.json,borger/scoop-emulators
 bsnes-nightly.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
 shadps4_borger.json,borger/scoop-emulators
-eden_borger.json,borger/scoop-emulators
+eden.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
@@ -8892,7 +8892,7 @@ snes9x_borger.json,borger/scoop-emulators
 spaghettikart.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 starship_borger.json,borger/scoop-emulators
@@ -10794,7 +10794,7 @@ python-doc-zh-cn.json,wzv5/ScoopBucket
 zabbix-agent2.json,wzv5/ScoopBucket
 python-doc.json,wzv5/ScoopBucket
 pspad_wzv5.json,wzv5/ScoopBucket
-qqlive.json,wzv5/ScoopBucket
+qqlive_wzv5.json,wzv5/ScoopBucket
 phpmyadmin.json,wzv5/ScoopBucket
 python_wzv5.json,wzv5/ScoopBucket
 vnote_wzv5.json,wzv5/ScoopBucket
@@ -10894,7 +10894,7 @@ pcl2-ce.json,amorphobia/siku
 tautulli.json,amorphobia/siku
 odin_amorphobia.json,amorphobia/siku
 parsify-desktop.json,amorphobia/siku
-filebrowser.json,amorphobia/siku
+filebrowser_amorphobia.json,amorphobia/siku
 mihomo-v2.json,amorphobia/siku
 ddns-go_amorphobia.json,amorphobia/siku
 dsynchronize-zh-cn.json,amorphobia/siku
@@ -11043,7 +11043,6 @@ crapfixer.json,naderi/scoop-bucket
 xnview-classic-min.json,naderi/scoop-bucket
 screenshot-captor.json,naderi/scoop-bucket
 everything-toolbar.json,naderi/scoop-bucket
-encrypto_naderi.json,naderi/scoop-bucket
 auryo.json,naderi/scoop-bucket
 font-nahid.json,naderi/scoop-bucket
 chrome-portable.json,naderi/scoop-bucket
@@ -11931,7 +11930,7 @@ comicrack-ce-nightly.json,brian6932/dank-scoop
 mtpmount.json,brian6932/dank-scoop
 cfl.json,brian6932/dank-scoop
 capturer.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 openzfs.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 remnant-overseer.json,brian6932/dank-scoop
@@ -14548,7 +14547,7 @@ project64.json,Deide/deide-bucket
 gogdl_Deide.json,Deide/deide-bucket
 nester_Deide.json,Deide/deide-bucket
 alacritty_Deide.json,Deide/deide-bucket
-eden_Deide.json,Deide/deide-bucket
+eden.json,Deide/deide-bucket
 wlines.json,Deide/deide-bucket
 glfw_Deide.json,Deide/deide-bucket
 yakyak_Deide.json,Deide/deide-bucket
