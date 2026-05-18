@@ -8954,7 +8954,7 @@ jyso_ViCrack.json,ViCrack/scoop-bucket
 rubick.json,ViCrack/scoop-bucket
 igdm_ViCrack.json,ViCrack/scoop-bucket
 proguard_ViCrack.json,ViCrack/scoop-bucket
-yakit_ViCrack.json,ViCrack/scoop-bucket
+yakit.json,ViCrack/scoop-bucket
 simple-dnscrypt.json,ViCrack/scoop-bucket
 extremedumper.json,ViCrack/scoop-bucket
 fapro.json,ViCrack/scoop-bucket
@@ -11043,6 +11043,7 @@ crapfixer.json,naderi/scoop-bucket
 xnview-classic-min.json,naderi/scoop-bucket
 screenshot-captor.json,naderi/scoop-bucket
 everything-toolbar.json,naderi/scoop-bucket
+encrypto.json,naderi/scoop-bucket
 auryo.json,naderi/scoop-bucket
 font-nahid.json,naderi/scoop-bucket
 chrome-portable.json,naderi/scoop-bucket
