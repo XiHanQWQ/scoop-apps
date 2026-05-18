@@ -7947,7 +7947,7 @@ JPEGView.json,dodorz/scoop
 PyGPT.json,dodorz/scoop
 ColorStorm.json,dodorz/scoop
 Iron.json,dodorz/scoop
-Notepad--_dodorz.json,dodorz/scoop
+Notepad--.json,dodorz/scoop
 Sc1_dodorz.json,dodorz/scoop
 AlistHelper.json,dodorz/scoop
 eza-ls.json,dodorz/scoop
@@ -9072,7 +9072,7 @@ gost_ViCrack.json,ViCrack/scoop-bucket
 winasar.json,ViCrack/scoop-bucket
 BowPad.json,ViCrack/scoop-bucket
 quake_rs_ViCrack.json,ViCrack/scoop-bucket
-dudesuite_ViCrack.json,ViCrack/scoop-bucket
+dudesuite.json,ViCrack/scoop-bucket
 edx.json,ViCrack/scoop-bucket
 xjavafxtool.json,ViCrack/scoop-bucket
 woodpecker_ViCrack.json,ViCrack/scoop-bucket
@@ -9753,7 +9753,7 @@ opensearcher-win7.json,DoveBoy/Apps
 typioca_DoveBoy.json,DoveBoy/Apps
 kando_DoveBoy.json,DoveBoy/Apps
 github-store.json,DoveBoy/Apps
-sandboxie-plus.json,DoveBoy/Apps
+sandboxie-plus_DoveBoy.json,DoveBoy/Apps
 vim_DoveBoy.json,DoveBoy/Apps
 youtube-dl_DoveBoy.json,DoveBoy/Apps
 scoop-tab-completion.json,DoveBoy/Apps
@@ -10794,7 +10794,7 @@ python-doc-zh-cn.json,wzv5/ScoopBucket
 zabbix-agent2.json,wzv5/ScoopBucket
 python-doc.json,wzv5/ScoopBucket
 pspad_wzv5.json,wzv5/ScoopBucket
-qqlive_wzv5.json,wzv5/ScoopBucket
+qqlive.json,wzv5/ScoopBucket
 phpmyadmin.json,wzv5/ScoopBucket
 python_wzv5.json,wzv5/ScoopBucket
 vnote_wzv5.json,wzv5/ScoopBucket
@@ -11604,7 +11604,7 @@ wps_WinApps-share.json,WinApps-share/WinApps-bucket
 frame.json,WinApps-share/WinApps-bucket
 wepe_WinApps-share.json,WinApps-share/WinApps-bucket
 tianruo-ocr.json,WinApps-share/WinApps-bucket
-edge.json,WinApps-share/WinApps-bucket
+edge_WinApps-share.json,WinApps-share/WinApps-bucket
 google-chrome.json,WinApps-share/WinApps-bucket
 clash-for-windows_WinApps-share.json,WinApps-share/WinApps-bucket
 office-tool-plus_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -11629,6 +11629,7 @@ so-novel_WinApps-share.json,WinApps-share/WinApps-bucket
 zotero-np.json,WinApps-share/WinApps-bucket
 everything-np_WinApps-share.json,WinApps-share/WinApps-bucket
 rubick_WinApps-share.json,WinApps-share/WinApps-bucket
+vcredist-aio_WinApps-share.json,WinApps-share/WinApps-bucket
 tai_WinApps-share.json,WinApps-share/WinApps-bucket
 utools_WinApps-share.json,WinApps-share/WinApps-bucket
 zotero_WinApps-share.json,WinApps-share/WinApps-bucket
