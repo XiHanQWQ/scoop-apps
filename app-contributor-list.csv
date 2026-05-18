@@ -8954,7 +8954,7 @@ jyso_ViCrack.json,ViCrack/scoop-bucket
 rubick.json,ViCrack/scoop-bucket
 igdm_ViCrack.json,ViCrack/scoop-bucket
 proguard_ViCrack.json,ViCrack/scoop-bucket
-yakit.json,ViCrack/scoop-bucket
+yakit_ViCrack.json,ViCrack/scoop-bucket
 simple-dnscrypt.json,ViCrack/scoop-bucket
 extremedumper.json,ViCrack/scoop-bucket
 fapro.json,ViCrack/scoop-bucket
@@ -9072,7 +9072,7 @@ gost_ViCrack.json,ViCrack/scoop-bucket
 winasar.json,ViCrack/scoop-bucket
 BowPad.json,ViCrack/scoop-bucket
 quake_rs_ViCrack.json,ViCrack/scoop-bucket
-dudesuite.json,ViCrack/scoop-bucket
+dudesuite_ViCrack.json,ViCrack/scoop-bucket
 edx.json,ViCrack/scoop-bucket
 xjavafxtool.json,ViCrack/scoop-bucket
 woodpecker_ViCrack.json,ViCrack/scoop-bucket
@@ -10854,7 +10854,7 @@ powercolorls.json,amorphobia/siku
 tcc_amorphobia.json,amorphobia/siku
 plain-craft-launcher_amorphobia.json,amorphobia/siku
 revokemsgpatcher_amorphobia.json,amorphobia/siku
-adrive_amorphobia.json,amorphobia/siku
+adrive.json,amorphobia/siku
 arturo_amorphobia.json,amorphobia/siku
 setacl-studio.json,amorphobia/siku
 scoop-hook.json,amorphobia/siku
