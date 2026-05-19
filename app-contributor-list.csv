@@ -2213,7 +2213,7 @@ task-coach.json,ScoopInstaller/Extras
 super-productivity.json,ScoopInstaller/Extras
 godot-manager.json,ScoopInstaller/Extras
 rimage.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 qimgv.json,ScoopInstaller/Extras
 expresso.json,ScoopInstaller/Extras
 fontbase.json,ScoopInstaller/Extras
@@ -9655,7 +9655,7 @@ pop.json,charmbracelet/scoop-bucket
 soft-serve.json,charmbracelet/scoop-bucket
 melt.json,charmbracelet/scoop-bucket
 markscribe.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 SourceHanSerifJP.json,everyx/scoop-bucket
 xmind.json,everyx/scoop-bucket
 SourceHanSansKR.json,everyx/scoop-bucket
@@ -9819,7 +9819,6 @@ ftpserver.json,DoveBoy/Apps
 quickclipboard-portable.json,DoveBoy/Apps
 so-novel.json,DoveBoy/Apps
 v2ray_DoveBoy.json,DoveBoy/Apps
-ytdlp-interface_DoveBoy.json,DoveBoy/Apps
 idcard-generator.json,DoveBoy/Apps
 showkeyboard-node.json,DoveBoy/Apps
 treesize_DoveBoy.json,DoveBoy/Apps
@@ -10135,6 +10134,7 @@ hummingbird.json,DoveBoy/Apps
 nu_DoveBoy.json,DoveBoy/Apps
 gopeed-web.json,DoveBoy/Apps
 host-editor_DoveBoy.json,DoveBoy/Apps
+zephyr-portable.json,DoveBoy/Apps
 chsrc_DoveBoy.json,DoveBoy/Apps
 aria2_DoveBoy.json,DoveBoy/Apps
 shadowsocks-qtun-plugin_DoveBoy.json,DoveBoy/Apps
@@ -10377,6 +10377,7 @@ perl_DoveBoy.json,DoveBoy/Apps
 syncthing-beta.json,DoveBoy/Apps
 whisper.json,DoveBoy/Apps
 cyrenemusic.json,DoveBoy/Apps
+zephyr.json,DoveBoy/Apps
 clash-verge-rev_DoveBoy.json,DoveBoy/Apps
 stable-diffusion-webui.json,DoveBoy/Apps
 vivetool_DoveBoy.json,DoveBoy/Apps
