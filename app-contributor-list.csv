@@ -7852,6 +7852,7 @@ CoColor.json,dodorz/scoop
 MParallel.json,dodorz/scoop
 TCC-RT.json,dodorz/scoop
 BestTrace.json,dodorz/scoop
+OSC.json,dodorz/scoop
 DismPlusPlus_dodorz.json,dodorz/scoop
 WinGPG.json,dodorz/scoop
 BaiduPanFilesTransfers.json,dodorz/scoop
@@ -9434,7 +9435,7 @@ topgrade_akirco.json,akirco/aki-apps
 gh_akirco.json,akirco/aki-apps
 netcat_akirco.json,akirco/aki-apps
 spotube_akirco.json,akirco/aki-apps
-feishu_akirco.json,akirco/aki-apps
+feishu.json,akirco/aki-apps
 monolith_akirco.json,akirco/aki-apps
 wsc.json,akirco/aki-apps
 instaloader.json,akirco/aki-apps
@@ -9463,7 +9464,7 @@ win32-openssh.json,akirco/aki-apps
 youtube-dl-wpf.json,akirco/aki-apps
 termscp_akirco.json,akirco/aki-apps
 svtplay-dl_akirco.json,akirco/aki-apps
-Qoder_akirco.json,akirco/aki-apps
+Qoder.json,akirco/aki-apps
 helix_akirco.json,akirco/aki-apps
 tar_akirco.json,akirco/aki-apps
 xidel_akirco.json,akirco/aki-apps
