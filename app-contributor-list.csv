@@ -6367,7 +6367,7 @@ unity3d.json,scoopcn/scoopcn
 procexp.json,scoopcn/scoopcn
 lx-music-desktop_scoopcn.json,scoopcn/scoopcn
 neo4jbrowser.json,scoopcn/scoopcn
-feishu_scoopcn.json,scoopcn/scoopcn
+feishu.json,scoopcn/scoopcn
 todesk.json,scoopcn/scoopcn
 wechat-beta.json,scoopcn/scoopcn
 procmon.json,scoopcn/scoopcn
@@ -9435,7 +9435,7 @@ topgrade_akirco.json,akirco/aki-apps
 gh_akirco.json,akirco/aki-apps
 netcat_akirco.json,akirco/aki-apps
 spotube_akirco.json,akirco/aki-apps
-feishu.json,akirco/aki-apps
+feishu_akirco.json,akirco/aki-apps
 monolith_akirco.json,akirco/aki-apps
 wsc.json,akirco/aki-apps
 instaloader.json,akirco/aki-apps
@@ -9780,7 +9780,7 @@ motrix_DoveBoy.json,DoveBoy/Apps
 spacedrive.json,DoveBoy/Apps
 bat_DoveBoy.json,DoveBoy/Apps
 voice-pro.json,DoveBoy/Apps
-onlyoffice-desktopeditors_DoveBoy.json,DoveBoy/Apps
+onlyoffice-desktopeditors.json,DoveBoy/Apps
 github-beta.json,DoveBoy/Apps
 hysteria_DoveBoy.json,DoveBoy/Apps
 littletips.json,DoveBoy/Apps
@@ -11689,6 +11689,7 @@ lx-music-np.json,WinApps-share/WinApps-bucket
 flclash_WinApps-share.json,WinApps-share/WinApps-bucket
 sharex_WinApps-share.json,WinApps-share/WinApps-bucket
 autodarkmode-np.json,WinApps-share/WinApps-bucket
+testdisk_WinApps-share.json,WinApps-share/WinApps-bucket
 ab-download-manager.json,WinApps-share/WinApps-bucket
 notepad--_WinApps-share.json,WinApps-share/WinApps-bucket
 altserver.json,WinApps-share/WinApps-bucket
@@ -12214,7 +12215,7 @@ diffnav_aliesbelik.json,aliesbelik/poldi
 envfetch.json,aliesbelik/poldi
 hq.json,aliesbelik/poldi
 meteor.json,aliesbelik/poldi
-sq.json,aliesbelik/poldi
+sq_aliesbelik.json,aliesbelik/poldi
 mado.json,aliesbelik/poldi
 netfetch.json,aliesbelik/poldi
 klog.json,aliesbelik/poldi
