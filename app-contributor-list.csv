@@ -8274,7 +8274,7 @@ Brief.json,dodorz/scoop
 PicPick_dodorz.json,dodorz/scoop
 9pm.json,dodorz/scoop
 webd.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 vs-ghostwriter.json,dodorz/scoop
 FullSync.json,dodorz/scoop
 MicroEmacs.json,dodorz/scoop
@@ -9818,8 +9818,8 @@ tabby_DoveBoy.json,DoveBoy/Apps
 ftpserver.json,DoveBoy/Apps
 quickclipboard-portable.json,DoveBoy/Apps
 so-novel.json,DoveBoy/Apps
-crystaldiskinfo-aoi-edition.json,DoveBoy/Apps
 v2ray_DoveBoy.json,DoveBoy/Apps
+ytdlp-interface_DoveBoy.json,DoveBoy/Apps
 idcard-generator.json,DoveBoy/Apps
 showkeyboard-node.json,DoveBoy/Apps
 treesize_DoveBoy.json,DoveBoy/Apps
@@ -10091,7 +10091,7 @@ iobit-software-updater.json,DoveBoy/Apps
 cmwtat-digital-edition.json,DoveBoy/Apps
 iobit-system-information.json,DoveBoy/Apps
 cromite_DoveBoy.json,DoveBoy/Apps
-crystaldiskinfo-shizuku-edition.json,DoveBoy/Apps
+crystaldiskinfo-shizuku-edition_DoveBoy.json,DoveBoy/Apps
 cacert_DoveBoy.json,DoveBoy/Apps
 lemonpush.json,DoveBoy/Apps
 gotop_DoveBoy.json,DoveBoy/Apps
@@ -11934,7 +11934,7 @@ comicrack-ce-nightly.json,brian6932/dank-scoop
 mtpmount.json,brian6932/dank-scoop
 cfl.json,brian6932/dank-scoop
 capturer.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 openzfs.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 remnant-overseer.json,brian6932/dank-scoop
@@ -15754,7 +15754,6 @@ pdf4teachers.json,windedge/ladle-bucket
 askimo.json,windedge/ladle-bucket
 godot3-kotlin-jvm.json,windedge/ladle-bucket
 nekoray2.json,windedge/ladle-bucket
-scooper_windedge.json,windedge/ladle-bucket
 rtk_windedge.json,windedge/ladle-bucket
 heimer.json,windedge/ladle-bucket
 markflowy_windedge.json,windedge/ladle-bucket
