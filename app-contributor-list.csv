@@ -2121,7 +2121,7 @@ notion.json,ScoopInstaller/Extras
 mathpix.json,ScoopInstaller/Extras
 jkrypto.json,ScoopInstaller/Extras
 komf.json,ScoopInstaller/Extras
-vscode_ScoopInstaller.json,ScoopInstaller/Extras
+vscode.json,ScoopInstaller/Extras
 baretail.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
 koffee.json,ScoopInstaller/Extras
@@ -8276,7 +8276,7 @@ Brief.json,dodorz/scoop
 PicPick_dodorz.json,dodorz/scoop
 9pm.json,dodorz/scoop
 webd.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 vs-ghostwriter.json,dodorz/scoop
 FullSync.json,dodorz/scoop
 MicroEmacs.json,dodorz/scoop
@@ -10167,6 +10167,7 @@ openlist_DoveBoy.json,DoveBoy/Apps
 zyplayer.json,DoveBoy/Apps
 qqlive.json,DoveBoy/Apps
 tiny11builder.json,DoveBoy/Apps
+universal-video-downloader.json,DoveBoy/Apps
 gopeed_DoveBoy.json,DoveBoy/Apps
 scoop-shim_DoveBoy.json,DoveBoy/Apps
 pikapika.json,DoveBoy/Apps
