@@ -4191,7 +4191,7 @@ obs-studio-cn.json,Scoopforge/Extras-CN
 jianying-pro.json,Scoopforge/Extras-CN
 adrive.json,Scoopforge/Extras-CN
 goldendict-ng.json,Scoopforge/Extras-CN
-feishu.json,Scoopforge/Extras-CN
+feishu_Scoopforge.json,Scoopforge/Extras-CN
 ffmpegfreeui.json,Scoopforge/Extras-CN
 clash-mi.json,Scoopforge/Extras-CN
 mogan-cn.json,Scoopforge/Extras-CN
@@ -4647,6 +4647,7 @@ cambridge.json,Calinou/scoop-games
 advanced-combat-tracker.json,Calinou/scoop-games
 tf2-hud-editor.json,Calinou/scoop-games
 collapse-launcher.json,Calinou/scoop-games
+uzdoom.json,Calinou/scoop-games
 pathofbuilding-community.json,Calinou/scoop-games
 amulet-map-editor.json,Calinou/scoop-games
 hedgewars.json,Calinou/scoop-games
@@ -5420,7 +5421,7 @@ gradle6.json,ScoopInstaller/Versions
 llrt-beta.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
 php71.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 winpython37.json,ScoopInstaller/Versions
 dart-dev.json,ScoopInstaller/Versions
 windows-terminal-preview.json,ScoopInstaller/Versions
@@ -9512,7 +9513,6 @@ vcredist2022_akirco.json,akirco/aki-apps
 nano_akirco.json,akirco/aki-apps
 qtscrcpy_akirco.json,akirco/aki-apps
 git_akirco.json,akirco/aki-apps
-bilibili-livehime.json,akirco/aki-apps
 typora_akirco.json,akirco/aki-apps
 tesseract-languages_akirco.json,akirco/aki-apps
 baidudisk.json,akirco/aki-apps
@@ -9545,7 +9545,7 @@ llvm_akirco.json,akirco/aki-apps
 flutter_akirco.json,akirco/aki-apps
 directory-predictor.json,akirco/aki-apps
 touch_akirco.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 time_akirco.json,akirco/aki-apps
 winfetch_akirco.json,akirco/aki-apps
 qt-creator_akirco.json,akirco/aki-apps
@@ -11937,7 +11937,7 @@ comicrack-ce-nightly.json,brian6932/dank-scoop
 mtpmount.json,brian6932/dank-scoop
 cfl.json,brian6932/dank-scoop
 capturer.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 openzfs.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 remnant-overseer.json,brian6932/dank-scoop
