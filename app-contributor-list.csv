@@ -5421,7 +5421,7 @@ gradle6.json,ScoopInstaller/Versions
 llrt-beta.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
 php71.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 winpython37.json,ScoopInstaller/Versions
 dart-dev.json,ScoopInstaller/Versions
 windows-terminal-preview.json,ScoopInstaller/Versions
@@ -9458,6 +9458,7 @@ draw.io_akirco.json,akirco/aki-apps
 neofetch_akirco.json,akirco/aki-apps
 zstd_akirco.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
+bin_akirco.json,akirco/aki-apps
 fat32format_akirco.json,akirco/aki-apps
 prs_akirco.json,akirco/aki-apps
 gdu_akirco.json,akirco/aki-apps
@@ -9491,6 +9492,7 @@ xh_akirco.json,akirco/aki-apps
 gdrive_akirco.json,akirco/aki-apps
 postman_akirco.json,akirco/aki-apps
 vcredist2010_akirco.json,akirco/aki-apps
+sogou-input.json,akirco/aki-apps
 f2_akirco.json,akirco/aki-apps
 figlet_akirco.json,akirco/aki-apps
 figma_akirco.json,akirco/aki-apps
@@ -11938,7 +11940,7 @@ comicrack-ce-nightly.json,brian6932/dank-scoop
 mtpmount.json,brian6932/dank-scoop
 cfl.json,brian6932/dank-scoop
 capturer.json,brian6932/dank-scoop
-mpv-git_brian6932.json,brian6932/dank-scoop
+mpv-git.json,brian6932/dank-scoop
 openzfs.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 remnant-overseer.json,brian6932/dank-scoop
