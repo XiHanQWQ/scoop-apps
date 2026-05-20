@@ -8941,7 +8941,7 @@ contextmenumanager_ViCrack.json,ViCrack/scoop-bucket
 gda_ViCrack.json,ViCrack/scoop-bucket
 chmac.json,ViCrack/scoop-bucket
 trilium-cn.json,ViCrack/scoop-bucket
-apifox_ViCrack.json,ViCrack/scoop-bucket
+apifox.json,ViCrack/scoop-bucket
 glider.json,ViCrack/scoop-bucket
 ysomap.json,ViCrack/scoop-bucket
 bluelife-host-editor.json,ViCrack/scoop-bucket
@@ -11991,6 +11991,7 @@ CefDetector.json,ygguorun/scoop-bucket
 winscppwd.json,ygguorun/scoop-bucket
 eaio.json,ygguorun/scoop-bucket
 FileMonitor.json,ygguorun/scoop-bucket
+QuickSwitch-JoyHak.json,ygguorun/scoop-bucket
 BilibiliLiveRecordDownLoader.json,ygguorun/scoop-bucket
 apifox_ygguorun.json,ygguorun/scoop-bucket
 PingFangTC.json,ygguorun/scoop-bucket
