@@ -2214,7 +2214,7 @@ task-coach.json,ScoopInstaller/Extras
 super-productivity.json,ScoopInstaller/Extras
 godot-manager.json,ScoopInstaller/Extras
 rimage.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 qimgv.json,ScoopInstaller/Extras
 expresso.json,ScoopInstaller/Extras
 fontbase.json,ScoopInstaller/Extras
@@ -8762,7 +8762,7 @@ mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 mgba_hermanjustnu.json,hermanjustnu/scoop-emulators
 bsnes_hermanjustnu.json,hermanjustnu/scoop-emulators
 mesen-s_hermanjustnu.json,hermanjustnu/scoop-emulators
-snes9x-dev.json,hermanjustnu/scoop-emulators
+snes9x-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2-sse4-qt.json,hermanjustnu/scoop-emulators
 dosbox_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -8988,7 +8988,7 @@ kscan_ViCrack.json,ViCrack/scoop-bucket
 ffuf_ViCrack.json,ViCrack/scoop-bucket
 reality.json,ViCrack/scoop-bucket
 ztasker.json,ViCrack/scoop-bucket
-jar-analyzer.json,ViCrack/scoop-bucket
+jar-analyzer_ViCrack.json,ViCrack/scoop-bucket
 siyuan.json,ViCrack/scoop-bucket
 postcat.json,ViCrack/scoop-bucket
 blueteamtools_ViCrack.json,ViCrack/scoop-bucket
@@ -10861,7 +10861,7 @@ microdicom-dicom-viewer.json,amorphobia/siku
 clash-verge_amorphobia.json,amorphobia/siku
 powercolorls.json,amorphobia/siku
 tcc_amorphobia.json,amorphobia/siku
-plain-craft-launcher_amorphobia.json,amorphobia/siku
+plain-craft-launcher.json,amorphobia/siku
 revokemsgpatcher_amorphobia.json,amorphobia/siku
 adrive.json,amorphobia/siku
 arturo_amorphobia.json,amorphobia/siku
@@ -11014,7 +11014,7 @@ autorun-organizer.json,naderi/scoop-bucket
 font-nika.json,naderi/scoop-bucket
 ganjoor.json,naderi/scoop-bucket
 lyx_naderi.json,naderi/scoop-bucket
-thunderbird-portable.json,naderi/scoop-bucket
+thunderbird-portable_naderi.json,naderi/scoop-bucket
 mdsilo.json,naderi/scoop-bucket
 bat-to-exe-converter.json,naderi/scoop-bucket
 font-sahel.json,naderi/scoop-bucket
@@ -12903,6 +12903,7 @@ komorebi-tray.json,starise/Scoop-Confetti
 shutter_starise.json,starise/Scoop-Confetti
 borderless-toggle.json,starise/Scoop-Confetti
 bluetooth-version-finder.json,starise/Scoop-Confetti
+codexbar.json,starise/Scoop-Confetti
 audiotester.json,starise/Scoop-Confetti
 link-shell-extension_starise.json,starise/Scoop-Confetti
 epub-metadata-editor.json,starise/Scoop-Confetti
