@@ -3094,6 +3094,7 @@ mpc-qt.json,ScoopInstaller/Extras
 sc1.json,ScoopInstaller/Extras
 eclipse-embedcpp.json,ScoopInstaller/Extras
 bifrost.json,ScoopInstaller/Extras
+motrix-next.json,ScoopInstaller/Extras
 emax64-pdumper.json,ScoopInstaller/Extras
 dbgl.json,ScoopInstaller/Extras
 mailspring.json,ScoopInstaller/Extras
@@ -5200,6 +5201,7 @@ pycharm-rc.json,ScoopInstaller/Versions
 influxdb1.json,ScoopInstaller/Versions
 llama.cpp-opencl.json,ScoopInstaller/Versions
 dbeaver-ea.json,ScoopInstaller/Versions
+bun1.3.json,ScoopInstaller/Versions
 python38.json,ScoopInstaller/Versions
 cuda7.5.json,ScoopInstaller/Versions
 pycharm-eap.json,ScoopInstaller/Versions
@@ -5422,7 +5424,7 @@ gradle6.json,ScoopInstaller/Versions
 llrt-beta.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
 php71.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 winpython37.json,ScoopInstaller/Versions
 dart-dev.json,ScoopInstaller/Versions
 windows-terminal-preview.json,ScoopInstaller/Versions
@@ -8278,7 +8280,7 @@ Brief.json,dodorz/scoop
 PicPick_dodorz.json,dodorz/scoop
 9pm.json,dodorz/scoop
 webd.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 vs-ghostwriter.json,dodorz/scoop
 FullSync.json,dodorz/scoop
 MicroEmacs.json,dodorz/scoop
@@ -10021,7 +10023,7 @@ sunloginclientsos.json,DoveBoy/Apps
 algermusicplayer.json,DoveBoy/Apps
 clumsy_DoveBoy.json,DoveBoy/Apps
 jasmine.json,DoveBoy/Apps
-neteaseuu_DoveBoy.json,DoveBoy/Apps
+neteaseuu.json,DoveBoy/Apps
 driveck.json,DoveBoy/Apps
 waifu2x-extension-gui-beta.json,DoveBoy/Apps
 ecopaste.json,DoveBoy/Apps
@@ -10271,7 +10273,7 @@ eartrumpet_DoveBoy.json,DoveBoy/Apps
 flyoobe-classic.json,DoveBoy/Apps
 zipideo.json,DoveBoy/Apps
 anyportal.json,DoveBoy/Apps
-github_DoveBoy.json,DoveBoy/Apps
+github.json,DoveBoy/Apps
 audio-share.json,DoveBoy/Apps
 dark_DoveBoy.json,DoveBoy/Apps
 openssh_DoveBoy.json,DoveBoy/Apps
@@ -14821,7 +14823,7 @@ project64.json,Deide/deide-bucket
 gogdl_Deide.json,Deide/deide-bucket
 nester_Deide.json,Deide/deide-bucket
 alacritty_Deide.json,Deide/deide-bucket
-eden.json,Deide/deide-bucket
+eden_Deide.json,Deide/deide-bucket
 wlines.json,Deide/deide-bucket
 glfw_Deide.json,Deide/deide-bucket
 yakyak_Deide.json,Deide/deide-bucket
