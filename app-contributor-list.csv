@@ -2122,7 +2122,7 @@ notion.json,ScoopInstaller/Extras
 mathpix.json,ScoopInstaller/Extras
 jkrypto.json,ScoopInstaller/Extras
 komf.json,ScoopInstaller/Extras
-vscode.json,ScoopInstaller/Extras
+vscode_ScoopInstaller.json,ScoopInstaller/Extras
 baretail.json,ScoopInstaller/Extras
 encryptpad.json,ScoopInstaller/Extras
 koffee.json,ScoopInstaller/Extras
@@ -5422,7 +5422,7 @@ gradle6.json,ScoopInstaller/Versions
 llrt-beta.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
 php71.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 winpython37.json,ScoopInstaller/Versions
 dart-dev.json,ScoopInstaller/Versions
 windows-terminal-preview.json,ScoopInstaller/Versions
@@ -8277,7 +8277,7 @@ Brief.json,dodorz/scoop
 PicPick_dodorz.json,dodorz/scoop
 9pm.json,dodorz/scoop
 webd.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 vs-ghostwriter.json,dodorz/scoop
 FullSync.json,dodorz/scoop
 MicroEmacs.json,dodorz/scoop
@@ -8762,7 +8762,7 @@ mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 mgba_hermanjustnu.json,hermanjustnu/scoop-emulators
 bsnes_hermanjustnu.json,hermanjustnu/scoop-emulators
 mesen-s_hermanjustnu.json,hermanjustnu/scoop-emulators
-snes9x-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+snes9x-dev.json,hermanjustnu/scoop-emulators
 pcsx2-sse4-qt.json,hermanjustnu/scoop-emulators
 dosbox_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -10619,7 +10619,7 @@ xnview_wzv5.json,wzv5/ScoopBucket
 nattypetester_wzv5.json,wzv5/ScoopBucket
 regex-tool.json,wzv5/ScoopBucket
 nodejs-bin.json,wzv5/ScoopBucket
-kazumi_wzv5.json,wzv5/ScoopBucket
+kazumi.json,wzv5/ScoopBucket
 winscp_wzv5.json,wzv5/ScoopBucket
 overture.json,wzv5/ScoopBucket
 winsw_wzv5.json,wzv5/ScoopBucket
@@ -10861,7 +10861,7 @@ microdicom-dicom-viewer.json,amorphobia/siku
 clash-verge_amorphobia.json,amorphobia/siku
 powercolorls.json,amorphobia/siku
 tcc_amorphobia.json,amorphobia/siku
-plain-craft-launcher.json,amorphobia/siku
+plain-craft-launcher_amorphobia.json,amorphobia/siku
 revokemsgpatcher_amorphobia.json,amorphobia/siku
 adrive.json,amorphobia/siku
 arturo_amorphobia.json,amorphobia/siku
@@ -11941,7 +11941,7 @@ comicrack-ce-nightly.json,brian6932/dank-scoop
 mtpmount.json,brian6932/dank-scoop
 cfl.json,brian6932/dank-scoop
 capturer.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 openzfs.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 remnant-overseer.json,brian6932/dank-scoop
@@ -12288,6 +12288,7 @@ sou.json,aliesbelik/poldi
 httplab.json,aliesbelik/poldi
 pewpew.json,aliesbelik/poldi
 beast.json,aliesbelik/poldi
+feedo.json,aliesbelik/poldi
 hitt.json,aliesbelik/poldi
 dsq.json,aliesbelik/poldi
 atlas-ce.json,aliesbelik/poldi
