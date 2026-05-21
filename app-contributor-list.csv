@@ -4512,6 +4512,7 @@ rgbds.json,Calinou/scoop-games
 bzflag.json,Calinou/scoop-games
 xenia-canary.json,Calinou/scoop-games
 sixcells.json,Calinou/scoop-games
+pandoralauncher.json,Calinou/scoop-games
 toontownoffline.json,Calinou/scoop-games
 atlauncher.json,Calinou/scoop-games
 nanosaur-2.json,Calinou/scoop-games
@@ -9700,6 +9701,7 @@ SourceHanSerifKR.json,everyx/scoop-bucket
 MicrosoftYaHeiMono.json,everyx/scoop-bucket
 CascadiaCode.json,everyx/scoop-bucket
 gost_everyx.json,everyx/scoop-bucket
+chromium_DoveBoy.json,DoveBoy/Apps
 chatbox_DoveBoy.json,DoveBoy/Apps
 quickclipboard.json,DoveBoy/Apps
 screencapture_DoveBoy.json,DoveBoy/Apps
@@ -10097,7 +10099,7 @@ qq-nt_DoveBoy.json,DoveBoy/Apps
 iobit-software-updater.json,DoveBoy/Apps
 cmwtat-digital-edition.json,DoveBoy/Apps
 iobit-system-information.json,DoveBoy/Apps
-cromite_DoveBoy.json,DoveBoy/Apps
+cromite.json,DoveBoy/Apps
 crystaldiskinfo-shizuku-edition_DoveBoy.json,DoveBoy/Apps
 cacert_DoveBoy.json,DoveBoy/Apps
 lemonpush.json,DoveBoy/Apps
@@ -12568,7 +12570,7 @@ hoyo.gacha_batkiz.json,batkiz/backit
 fscan_batkiz.json,batkiz/backit
 httpie-go_batkiz.json,batkiz/backit
 capslock-plus.json,batkiz/backit
-muffet_batkiz.json,batkiz/backit
+muffet.json,batkiz/backit
 mdcat_batkiz.json,batkiz/backit
 tinytex-min_batkiz.json,batkiz/backit
 ptex-ng.json,batkiz/backit
