@@ -3476,7 +3476,7 @@ musicbrainz-picard.json,chawyehsu/dorado
 kitch.json,chawyehsu/dorado
 pstools.json,chawyehsu/dorado
 imewlconverter.json,chawyehsu/dorado
-podman-desktop_chawyehsu.json,chawyehsu/dorado
+podman-desktop.json,chawyehsu/dorado
 rustup-msvc-np.json,chawyehsu/dorado
 trash.json,chawyehsu/dorado
 beekeeper.json,chawyehsu/dorado
@@ -5425,7 +5425,7 @@ gradle6.json,ScoopInstaller/Versions
 llrt-beta.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
 php71.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 winpython37.json,ScoopInstaller/Versions
 dart-dev.json,ScoopInstaller/Versions
 windows-terminal-preview.json,ScoopInstaller/Versions
@@ -8281,7 +8281,7 @@ Brief.json,dodorz/scoop
 PicPick_dodorz.json,dodorz/scoop
 9pm.json,dodorz/scoop
 webd.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 vs-ghostwriter.json,dodorz/scoop
 FullSync.json,dodorz/scoop
 MicroEmacs.json,dodorz/scoop
@@ -9552,7 +9552,7 @@ llvm_akirco.json,akirco/aki-apps
 flutter_akirco.json,akirco/aki-apps
 directory-predictor.json,akirco/aki-apps
 touch_akirco.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 time_akirco.json,akirco/aki-apps
 winfetch_akirco.json,akirco/aki-apps
 qt-creator_akirco.json,akirco/aki-apps
@@ -9701,7 +9701,6 @@ SourceHanSerifKR.json,everyx/scoop-bucket
 MicrosoftYaHeiMono.json,everyx/scoop-bucket
 CascadiaCode.json,everyx/scoop-bucket
 gost_everyx.json,everyx/scoop-bucket
-chromium_DoveBoy.json,DoveBoy/Apps
 chatbox_DoveBoy.json,DoveBoy/Apps
 quickclipboard.json,DoveBoy/Apps
 screencapture_DoveBoy.json,DoveBoy/Apps
@@ -10025,7 +10024,7 @@ sunloginclientsos.json,DoveBoy/Apps
 algermusicplayer.json,DoveBoy/Apps
 clumsy_DoveBoy.json,DoveBoy/Apps
 jasmine.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 driveck.json,DoveBoy/Apps
 waifu2x-extension-gui-beta.json,DoveBoy/Apps
 ecopaste.json,DoveBoy/Apps
@@ -10158,7 +10157,7 @@ n_m3u8dl-re.json,DoveBoy/Apps
 fnm_DoveBoy.json,DoveBoy/Apps
 krita_DoveBoy.json,DoveBoy/Apps
 so-novel-beta.json,DoveBoy/Apps
-typora_DoveBoy.json,DoveBoy/Apps
+typora.json,DoveBoy/Apps
 monit.json,DoveBoy/Apps
 gallery-dl_DoveBoy.json,DoveBoy/Apps
 gui-for-clash_DoveBoy.json,DoveBoy/Apps
@@ -10908,7 +10907,7 @@ pcl2-ce.json,amorphobia/siku
 tautulli.json,amorphobia/siku
 odin_amorphobia.json,amorphobia/siku
 parsify-desktop.json,amorphobia/siku
-filebrowser.json,amorphobia/siku
+filebrowser_amorphobia.json,amorphobia/siku
 mihomo-v2.json,amorphobia/siku
 ddns-go_amorphobia.json,amorphobia/siku
 dsynchronize-zh-cn.json,amorphobia/siku
@@ -11946,7 +11945,7 @@ comicrack-ce-nightly.json,brian6932/dank-scoop
 mtpmount.json,brian6932/dank-scoop
 cfl.json,brian6932/dank-scoop
 capturer.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 openzfs.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 remnant-overseer.json,brian6932/dank-scoop
