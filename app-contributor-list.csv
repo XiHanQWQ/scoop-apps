@@ -2067,6 +2067,7 @@ notion-enhanced.json,ScoopInstaller/Extras
 eclipse-dsl.json,ScoopInstaller/Extras
 yubioath.json,ScoopInstaller/Extras
 rectanglewin.json,ScoopInstaller/Extras
+lmstudio.json,ScoopInstaller/Extras
 opennetmeter.json,ScoopInstaller/Extras
 reduce-memory.json,ScoopInstaller/Extras
 sdl2-image.json,ScoopInstaller/Extras
@@ -3556,7 +3557,7 @@ feishu.json,chawyehsu/dorado
 cargo-zigbuild.json,chawyehsu/dorado
 setuna.json,chawyehsu/dorado
 mubu.json,chawyehsu/dorado
-lmstudio.json,chawyehsu/dorado
+lmstudio_chawyehsu.json,chawyehsu/dorado
 liko-12.json,chawyehsu/dorado
 minify_chawyehsu.json,chawyehsu/dorado
 qqmusic.json,chawyehsu/dorado
@@ -5425,7 +5426,7 @@ gradle6.json,ScoopInstaller/Versions
 llrt-beta.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
 php71.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 winpython37.json,ScoopInstaller/Versions
 dart-dev.json,ScoopInstaller/Versions
 windows-terminal-preview.json,ScoopInstaller/Versions
@@ -6445,6 +6446,7 @@ windscribe-np.json,ScoopInstaller/Nonportable
 nvidia-display-driver-np.json,ScoopInstaller/Nonportable
 fluent-terminal-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 voicemeeter-banana-np.json,ScoopInstaller/Nonportable
+putty-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 open-shell-np.json,ScoopInstaller/Nonportable
 vmware-horizon-client-np.json,ScoopInstaller/Nonportable
 dshidmini-np.json,ScoopInstaller/Nonportable
@@ -6484,6 +6486,7 @@ qttabbar-indiff-np.json,ScoopInstaller/Nonportable
 zadig-np.json,ScoopInstaller/Nonportable
 xampp-np.json,ScoopInstaller/Nonportable
 innosetup-np_ScoopInstaller.json,ScoopInstaller/Nonportable
+veyon-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 protonvpn-np.json,ScoopInstaller/Nonportable
 goodsync-np.json,ScoopInstaller/Nonportable
 vpnc-front-end-np_ScoopInstaller.json,ScoopInstaller/Nonportable
@@ -8281,7 +8284,7 @@ Brief.json,dodorz/scoop
 PicPick_dodorz.json,dodorz/scoop
 9pm.json,dodorz/scoop
 webd.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 vs-ghostwriter.json,dodorz/scoop
 FullSync.json,dodorz/scoop
 MicroEmacs.json,dodorz/scoop
@@ -8516,7 +8519,7 @@ MusicLake.json,dodorz/scoop
 win32pad.json,dodorz/scoop
 dtouch.json,dodorz/scoop
 lsd_dodorz.json,dodorz/scoop
-LMStudio.json,dodorz/scoop
+LMStudio_dodorz.json,dodorz/scoop
 DirectoryCompare.json,dodorz/scoop
 AccountManager.json,dodorz/scoop
 TEDNPad.json,dodorz/scoop
@@ -10077,7 +10080,6 @@ animeko-pre.json,DoveBoy/Apps
 crystaldiskinfo_DoveBoy.json,DoveBoy/Apps
 dua_DoveBoy.json,DoveBoy/Apps
 quasar_DoveBoy.json,DoveBoy/Apps
-picpick_DoveBoy.json,DoveBoy/Apps
 fzf_DoveBoy.json,DoveBoy/Apps
 game-cheats-manager_DoveBoy.json,DoveBoy/Apps
 waifu2x-converter-cpp_DoveBoy.json,DoveBoy/Apps
@@ -10124,7 +10126,7 @@ tidyos.json,DoveBoy/Apps
 microsoft-activation-scripts.json,DoveBoy/Apps
 audio-share-gui.json,DoveBoy/Apps
 starship_DoveBoy.json,DoveBoy/Apps
-deeplx_DoveBoy.json,DoveBoy/Apps
+deeplx.json,DoveBoy/Apps
 videofusion.json,DoveBoy/Apps
 bililive-go.json,DoveBoy/Apps
 fancontrol-net10.0-portable.json,DoveBoy/Apps
@@ -12816,7 +12818,7 @@ nextai-translator_TianXiaTech.json,TianXiaTech/scoop-txt
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
 miru-app.json,TianXiaTech/scoop-txt
 audioVisual.json,TianXiaTech/scoop-txt
-baidunetdisk_TianXiaTech.json,TianXiaTech/scoop-txt
+baidunetdisk.json,TianXiaTech/scoop-txt
 cursor_TianXiaTech.json,TianXiaTech/scoop-txt
 ffmpegFreeUI_TianXiaTech.json,TianXiaTech/scoop-txt
 douyu_TianXiaTech.json,TianXiaTech/scoop-txt
