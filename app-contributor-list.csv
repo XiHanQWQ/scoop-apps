@@ -8386,6 +8386,7 @@ grepWin_dodorz.json,dodorz/scoop
 DeltaCopy.json,dodorz/scoop
 base64_dodorz.json,dodorz/scoop
 uniCSVed.json,dodorz/scoop
+QoderCN.json,dodorz/scoop
 BookXNotePro.json,dodorz/scoop
 FlashPad.json,dodorz/scoop
 md5.json,dodorz/scoop
@@ -10122,7 +10123,7 @@ tidyos.json,DoveBoy/Apps
 microsoft-activation-scripts.json,DoveBoy/Apps
 audio-share-gui.json,DoveBoy/Apps
 starship_DoveBoy.json,DoveBoy/Apps
-deeplx_DoveBoy.json,DoveBoy/Apps
+deeplx.json,DoveBoy/Apps
 videofusion.json,DoveBoy/Apps
 bililive-go.json,DoveBoy/Apps
 fancontrol-net10.0-portable.json,DoveBoy/Apps
@@ -11617,7 +11618,7 @@ wps_WinApps-share.json,WinApps-share/WinApps-bucket
 frame.json,WinApps-share/WinApps-bucket
 wepe_WinApps-share.json,WinApps-share/WinApps-bucket
 tianruo-ocr.json,WinApps-share/WinApps-bucket
-edge_WinApps-share.json,WinApps-share/WinApps-bucket
+edge.json,WinApps-share/WinApps-bucket
 google-chrome.json,WinApps-share/WinApps-bucket
 clash-for-windows_WinApps-share.json,WinApps-share/WinApps-bucket
 office-tool-plus_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -12569,7 +12570,7 @@ hoyo.gacha_batkiz.json,batkiz/backit
 fscan_batkiz.json,batkiz/backit
 httpie-go_batkiz.json,batkiz/backit
 capslock-plus.json,batkiz/backit
-muffet.json,batkiz/backit
+muffet_batkiz.json,batkiz/backit
 mdcat_batkiz.json,batkiz/backit
 tinytex-min_batkiz.json,batkiz/backit
 ptex-ng.json,batkiz/backit
@@ -14693,7 +14694,7 @@ dingtalk@7.0.10.1026.json,maboloshi/scoop-private
 todesk_maboloshi.json,maboloshi/scoop-private
 beyondcompare5-zh.json,maboloshi/scoop-private
 weixin.json,maboloshi/scoop-private
-microsoftedge-beta_maboloshi.json,maboloshi/scoop-private
+microsoftedge-beta.json,maboloshi/scoop-private
 sublime-merge_maboloshi.json,maboloshi/scoop-private
 dingtalk.json,maboloshi/scoop-private
 cmirror.json,maboloshi/scoop-private
