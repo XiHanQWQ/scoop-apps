@@ -3476,7 +3476,7 @@ musicbrainz-picard.json,chawyehsu/dorado
 kitch.json,chawyehsu/dorado
 pstools.json,chawyehsu/dorado
 imewlconverter.json,chawyehsu/dorado
-podman-desktop.json,chawyehsu/dorado
+podman-desktop_chawyehsu.json,chawyehsu/dorado
 rustup-msvc-np.json,chawyehsu/dorado
 trash.json,chawyehsu/dorado
 beekeeper.json,chawyehsu/dorado
@@ -10077,6 +10077,7 @@ animeko-pre.json,DoveBoy/Apps
 crystaldiskinfo_DoveBoy.json,DoveBoy/Apps
 dua_DoveBoy.json,DoveBoy/Apps
 quasar_DoveBoy.json,DoveBoy/Apps
+picpick_DoveBoy.json,DoveBoy/Apps
 fzf_DoveBoy.json,DoveBoy/Apps
 game-cheats-manager_DoveBoy.json,DoveBoy/Apps
 waifu2x-converter-cpp_DoveBoy.json,DoveBoy/Apps
@@ -10123,7 +10124,7 @@ tidyos.json,DoveBoy/Apps
 microsoft-activation-scripts.json,DoveBoy/Apps
 audio-share-gui.json,DoveBoy/Apps
 starship_DoveBoy.json,DoveBoy/Apps
-deeplx.json,DoveBoy/Apps
+deeplx_DoveBoy.json,DoveBoy/Apps
 videofusion.json,DoveBoy/Apps
 bililive-go.json,DoveBoy/Apps
 fancontrol-net10.0-portable.json,DoveBoy/Apps
