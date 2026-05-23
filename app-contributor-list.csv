@@ -5426,7 +5426,7 @@ gradle6.json,ScoopInstaller/Versions
 llrt-beta.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
 php71.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 winpython37.json,ScoopInstaller/Versions
 dart-dev.json,ScoopInstaller/Versions
 windows-terminal-preview.json,ScoopInstaller/Versions
@@ -8282,7 +8282,7 @@ Brief.json,dodorz/scoop
 PicPick_dodorz.json,dodorz/scoop
 9pm.json,dodorz/scoop
 webd.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 vs-ghostwriter.json,dodorz/scoop
 FullSync.json,dodorz/scoop
 MicroEmacs.json,dodorz/scoop
@@ -11947,7 +11947,7 @@ comicrack-ce-nightly.json,brian6932/dank-scoop
 mtpmount.json,brian6932/dank-scoop
 cfl.json,brian6932/dank-scoop
 capturer.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 openzfs.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 remnant-overseer.json,brian6932/dank-scoop
@@ -13372,7 +13372,7 @@ crystaldiskinfo-kureikei_aoisummer.json,aoisummer/scoop-bucket
 cinebench23.json,aoisummer/scoop-bucket
 qbittorrent-enhanced_aoisummer.json,aoisummer/scoop-bucket
 crystaldiskinfo-aoi_aoisummer.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 sakura-launcher-gui.json,aoisummer/scoop-bucket
 komelia.json,aoisummer/scoop-bucket
 lz4_aoisummer.json,aoisummer/scoop-bucket
@@ -14552,7 +14552,7 @@ dingtalk@7.0.10.1026.json,maboloshi/scoop-private
 todesk_maboloshi.json,maboloshi/scoop-private
 beyondcompare5-zh.json,maboloshi/scoop-private
 weixin.json,maboloshi/scoop-private
-microsoftedge-beta.json,maboloshi/scoop-private
+microsoftedge-beta_maboloshi.json,maboloshi/scoop-private
 sublime-merge_maboloshi.json,maboloshi/scoop-private
 dingtalk.json,maboloshi/scoop-private
 cmirror.json,maboloshi/scoop-private
