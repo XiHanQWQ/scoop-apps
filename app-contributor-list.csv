@@ -6401,6 +6401,7 @@ nodejs-lts-np.json,ScoopInstaller/Nonportable
 link-shell-extension-np.json,ScoopInstaller/Nonportable
 calibre-np.json,ScoopInstaller/Nonportable
 fman-np_ScoopInstaller.json,ScoopInstaller/Nonportable
+files-preview-np.json,ScoopInstaller/Nonportable
 office-365-apps-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 dokany-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 icaros-np_ScoopInstaller.json,ScoopInstaller/Nonportable
@@ -6447,7 +6448,6 @@ nvidia-display-driver-np.json,ScoopInstaller/Nonportable
 fluent-terminal-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 voicemeeter-banana-np.json,ScoopInstaller/Nonportable
 open-shell-np.json,ScoopInstaller/Nonportable
-vmware-horizon-client-np.json,ScoopInstaller/Nonportable
 dshidmini-np.json,ScoopInstaller/Nonportable
 vokoscreenng-np.json,ScoopInstaller/Nonportable
 sandboxie-classic-np.json,ScoopInstaller/Nonportable
@@ -6507,6 +6507,7 @@ workman-uk-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 pgadmin4-np.json,ScoopInstaller/Nonportable
 hp-support-assistant-np.json,ScoopInstaller/Nonportable
 textpad-np.json,ScoopInstaller/Nonportable
+vmware-horizon-client-np.json,ScoopInstaller/Nonportable
 fine.json,tldrw/scoop-security
 dddd.json,tldrw/scoop-security
 AuxTools.json,tldrw/scoop-security
@@ -8487,7 +8488,7 @@ DeleteProfiles.json,dodorz/scoop
 Xidel_dodorz.json,dodorz/scoop
 LibgenDesktop.json,dodorz/scoop
 Kiro_dodorz.json,dodorz/scoop
-Baulk_dodorz.json,dodorz/scoop
+Baulk.json,dodorz/scoop
 WindowsManager.json,dodorz/scoop
 ASharperScaling.json,dodorz/scoop
 FAAC.json,dodorz/scoop
@@ -10160,7 +10161,7 @@ n_m3u8dl-re.json,DoveBoy/Apps
 fnm_DoveBoy.json,DoveBoy/Apps
 krita_DoveBoy.json,DoveBoy/Apps
 so-novel-beta.json,DoveBoy/Apps
-typora.json,DoveBoy/Apps
+typora_DoveBoy.json,DoveBoy/Apps
 monit.json,DoveBoy/Apps
 gallery-dl_DoveBoy.json,DoveBoy/Apps
 gui-for-clash_DoveBoy.json,DoveBoy/Apps
