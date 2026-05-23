@@ -5426,7 +5426,7 @@ gradle6.json,ScoopInstaller/Versions
 llrt-beta.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
 php71.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 winpython37.json,ScoopInstaller/Versions
 dart-dev.json,ScoopInstaller/Versions
 windows-terminal-preview.json,ScoopInstaller/Versions
@@ -6431,7 +6431,7 @@ stevedore-np.json,ScoopInstaller/Nonportable
 workman-p-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 voicemeeter-potato-np.json,ScoopInstaller/Nonportable
 translucenttb-np.json,ScoopInstaller/Nonportable
-everything-beta-np_ScoopInstaller.json,ScoopInstaller/Nonportable
+everything-beta-np.json,ScoopInstaller/Nonportable
 lav-filters-megamix-np.json,ScoopInstaller/Nonportable
 grammarly-np.json,ScoopInstaller/Nonportable
 virtualbox-with-extension-pack-np.json,ScoopInstaller/Nonportable
@@ -14344,6 +14344,7 @@ DbVisualizer-aoks.json,AntonOks/scoop-aoks
 projectlibre-aoks.json,AntonOks/scoop-aoks
 qtemu-aoks.json,AntonOks/scoop-aoks
 jujutsu-aoks.json,AntonOks/scoop-aoks
+s3browser-aoks.json,AntonOks/scoop-aoks
 actionlint-aoks.json,AntonOks/scoop-aoks
 sftpgo-aoks.json,AntonOks/scoop-aoks
 openbao-aoks.json,AntonOks/scoop-aoks
@@ -14923,7 +14924,7 @@ fantasquesansmono-llh-nlk.json,KnotUntied/scoop-fonts
 fantasquesansmono-nlk.json,KnotUntied/scoop-fonts
 xkcd.json,KnotUntied/scoop-fonts
 atkinson-hyperlegible-mono.json,KnotUntied/scoop-fonts
-iosevka_KnotUntied.json,KnotUntied/scoop-fonts
+iosevka.json,KnotUntied/scoop-fonts
 agave-slashed.json,KnotUntied/scoop-fonts
 oxygenmono.json,KnotUntied/scoop-fonts
 cascadiacode-static.json,KnotUntied/scoop-fonts
