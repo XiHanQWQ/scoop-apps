@@ -4178,7 +4178,7 @@ edrawmax8.json,Scoopforge/Extras-CN
 autotyper.json,Scoopforge/Extras-CN
 subrenamer.json,Scoopforge/Extras-CN
 utools_Scoopforge.json,Scoopforge/Extras-CN
-baidunetdisk.json,Scoopforge/Extras-CN
+baidunetdisk_Scoopforge.json,Scoopforge/Extras-CN
 tencent-meeting.json,Scoopforge/Extras-CN
 weasel.json,Scoopforge/Extras-CN
 malware-patch.json,Scoopforge/Extras-CN
@@ -8131,7 +8131,7 @@ adobe-source-han-serif-cn-fonts.json,dodorz/scoop
 Xpdf-tools-CJK.json,dodorz/scoop
 lolcat.json,dodorz/scoop
 single-file.json,dodorz/scoop
-diffnav.json,dodorz/scoop
+diffnav_dodorz.json,dodorz/scoop
 PicoClaw.json,dodorz/scoop
 RimageGUI.json,dodorz/scoop
 clib.json,dodorz/scoop
@@ -9666,7 +9666,7 @@ pop.json,charmbracelet/scoop-bucket
 soft-serve.json,charmbracelet/scoop-bucket
 melt.json,charmbracelet/scoop-bucket
 markscribe.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 SourceHanSerifJP.json,everyx/scoop-bucket
 xmind.json,everyx/scoop-bucket
 SourceHanSansKR.json,everyx/scoop-bucket
@@ -9829,6 +9829,7 @@ tabby_DoveBoy.json,DoveBoy/Apps
 ftpserver.json,DoveBoy/Apps
 quickclipboard-portable.json,DoveBoy/Apps
 so-novel.json,DoveBoy/Apps
+crystaldiskinfo-aoi-edition.json,DoveBoy/Apps
 v2ray_DoveBoy.json,DoveBoy/Apps
 idcard-generator.json,DoveBoy/Apps
 showkeyboard-node.json,DoveBoy/Apps
@@ -10101,7 +10102,7 @@ iobit-software-updater.json,DoveBoy/Apps
 cmwtat-digital-edition.json,DoveBoy/Apps
 iobit-system-information.json,DoveBoy/Apps
 cromite.json,DoveBoy/Apps
-crystaldiskinfo-shizuku-edition_DoveBoy.json,DoveBoy/Apps
+crystaldiskinfo-shizuku-edition.json,DoveBoy/Apps
 cacert_DoveBoy.json,DoveBoy/Apps
 lemonpush.json,DoveBoy/Apps
 gotop_DoveBoy.json,DoveBoy/Apps
@@ -12149,7 +12150,7 @@ gitql_aliesbelik.json,aliesbelik/poldi
 tgpt_aliesbelik.json,aliesbelik/poldi
 werf.json,aliesbelik/poldi
 jj_aliesbelik.json,aliesbelik/poldi
-hl.json,aliesbelik/poldi
+hl_aliesbelik.json,aliesbelik/poldi
 csvi.json,aliesbelik/poldi
 epoch.json,aliesbelik/poldi
 goreplay.json,aliesbelik/poldi
