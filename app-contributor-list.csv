@@ -2307,7 +2307,7 @@ squashfs-tools.json,ScoopInstaller/Extras
 util-linux-ng.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
 mobalivecd.json,ScoopInstaller/Extras
-telegram-downloader.json,ScoopInstaller/Extras
+telegram-downloader_ScoopInstaller.json,ScoopInstaller/Extras
 color-cop.json,ScoopInstaller/Extras
 mongosh.json,ScoopInstaller/Extras
 aimp.json,ScoopInstaller/Extras
@@ -5426,7 +5426,7 @@ gradle6.json,ScoopInstaller/Versions
 llrt-beta.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
 php71.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 winpython37.json,ScoopInstaller/Versions
 dart-dev.json,ScoopInstaller/Versions
 windows-terminal-preview.json,ScoopInstaller/Versions
@@ -8488,7 +8488,7 @@ DeleteProfiles.json,dodorz/scoop
 Xidel_dodorz.json,dodorz/scoop
 LibgenDesktop.json,dodorz/scoop
 Kiro_dodorz.json,dodorz/scoop
-Baulk.json,dodorz/scoop
+Baulk_dodorz.json,dodorz/scoop
 WindowsManager.json,dodorz/scoop
 ASharperScaling.json,dodorz/scoop
 FAAC.json,dodorz/scoop
@@ -9830,7 +9830,7 @@ tabby_DoveBoy.json,DoveBoy/Apps
 ftpserver.json,DoveBoy/Apps
 quickclipboard-portable.json,DoveBoy/Apps
 so-novel.json,DoveBoy/Apps
-crystaldiskinfo-aoi-edition.json,DoveBoy/Apps
+crystaldiskinfo-aoi-edition_DoveBoy.json,DoveBoy/Apps
 v2ray_DoveBoy.json,DoveBoy/Apps
 idcard-generator.json,DoveBoy/Apps
 showkeyboard-node.json,DoveBoy/Apps
@@ -10103,7 +10103,7 @@ iobit-software-updater.json,DoveBoy/Apps
 cmwtat-digital-edition.json,DoveBoy/Apps
 iobit-system-information.json,DoveBoy/Apps
 cromite.json,DoveBoy/Apps
-crystaldiskinfo-shizuku-edition.json,DoveBoy/Apps
+crystaldiskinfo-shizuku-edition_DoveBoy.json,DoveBoy/Apps
 cacert_DoveBoy.json,DoveBoy/Apps
 lemonpush.json,DoveBoy/Apps
 gotop_DoveBoy.json,DoveBoy/Apps
@@ -10339,7 +10339,7 @@ nvm-completion.json,DoveBoy/Apps
 ntrace-v1.json,DoveBoy/Apps
 translumo.json,DoveBoy/Apps
 hydrogen-music-portable.json,DoveBoy/Apps
-crystaldiskmark-shizuku-edition.json,DoveBoy/Apps
+crystaldiskmark-shizuku-edition_DoveBoy.json,DoveBoy/Apps
 reqable_DoveBoy.json,DoveBoy/Apps
 text-generation-webui.json,DoveBoy/Apps
 mame.json,DoveBoy/Apps
@@ -11951,7 +11951,7 @@ comicrack-ce-nightly.json,brian6932/dank-scoop
 mtpmount.json,brian6932/dank-scoop
 cfl.json,brian6932/dank-scoop
 capturer.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 openzfs.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 remnant-overseer.json,brian6932/dank-scoop
@@ -14276,7 +14276,7 @@ fantasquesansmono-llh-nlk.json,KnotUntied/scoop-fonts
 fantasquesansmono-nlk.json,KnotUntied/scoop-fonts
 xkcd.json,KnotUntied/scoop-fonts
 atkinson-hyperlegible-mono.json,KnotUntied/scoop-fonts
-iosevka.json,KnotUntied/scoop-fonts
+iosevka_KnotUntied.json,KnotUntied/scoop-fonts
 agave-slashed.json,KnotUntied/scoop-fonts
 oxygenmono.json,KnotUntied/scoop-fonts
 cascadiacode-static.json,KnotUntied/scoop-fonts
