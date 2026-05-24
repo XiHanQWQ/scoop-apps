@@ -2999,7 +2999,7 @@ suwayomi-jui.json,ScoopInstaller/Extras
 totalcommander.json,ScoopInstaller/Extras
 notepadnext.json,ScoopInstaller/Extras
 gedit.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 lite.json,ScoopInstaller/Extras
 mongodb-compass.json,ScoopInstaller/Extras
 status.json,ScoopInstaller/Extras
@@ -9721,7 +9721,7 @@ reicon_DoveBoy.json,DoveBoy/Apps
 streamcap.json,DoveBoy/Apps
 fluent-m3u8.json,DoveBoy/Apps
 clink-flex-prompt_DoveBoy.json,DoveBoy/Apps
-animeko_DoveBoy.json,DoveBoy/Apps
+animeko.json,DoveBoy/Apps
 vcpkg_DoveBoy.json,DoveBoy/Apps
 windterm_DoveBoy.json,DoveBoy/Apps
 b23downloader-win7.json,DoveBoy/Apps
