@@ -3045,7 +3045,7 @@ mediacreationtool.json,ScoopInstaller/Extras
 escrcpy.json,ScoopInstaller/Extras
 nmkoder.json,ScoopInstaller/Extras
 xampp.json,ScoopInstaller/Extras
-registry-finder_ScoopInstaller.json,ScoopInstaller/Extras
+registry-finder.json,ScoopInstaller/Extras
 squalr.json,ScoopInstaller/Extras
 tomboy-ng.json,ScoopInstaller/Extras
 fspy.json,ScoopInstaller/Extras
@@ -9462,7 +9462,7 @@ rnr_akirco.json,akirco/aki-apps
 pypy3_akirco.json,akirco/aki-apps
 notion_akirco.json,akirco/aki-apps
 shellcheck_akirco.json,akirco/aki-apps
-vscode_akirco.json,akirco/aki-apps
+vscode.json,akirco/aki-apps
 draw.io_akirco.json,akirco/aki-apps
 neofetch_akirco.json,akirco/aki-apps
 zstd_akirco.json,akirco/aki-apps
@@ -9811,7 +9811,6 @@ sniffnet_DoveBoy.json,DoveBoy/Apps
 gopeed-portable.json,DoveBoy/Apps
 pytranscriber.json,DoveBoy/Apps
 lessmsi_DoveBoy.json,DoveBoy/Apps
-mkvtoolnix_DoveBoy.json,DoveBoy/Apps
 ytdownloader-portable.json,DoveBoy/Apps
 reader_DoveBoy.json,DoveBoy/Apps
 picturecleaner.json,DoveBoy/Apps
@@ -11264,7 +11263,7 @@ microdicom-dicom-viewer.json,amorphobia/siku
 clash-verge_amorphobia.json,amorphobia/siku
 powercolorls.json,amorphobia/siku
 tcc_amorphobia.json,amorphobia/siku
-plain-craft-launcher_amorphobia.json,amorphobia/siku
+plain-craft-launcher.json,amorphobia/siku
 revokemsgpatcher_amorphobia.json,amorphobia/siku
 adrive.json,amorphobia/siku
 arturo_amorphobia.json,amorphobia/siku
@@ -11862,6 +11861,7 @@ save-playlist.json,brian6932/dank-scoop
 gql.json,brian6932/dank-scoop
 polling-rate-viewer.json,brian6932/dank-scoop
 routedns.json,brian6932/dank-scoop
+twitch-pubsub-server-test.json,brian6932/dank-scoop
 ConvertFrom-SourceTable.json,brian6932/dank-scoop
 qview-jdp-nightly.json,brian6932/dank-scoop
 capsblock.json,brian6932/dank-scoop
