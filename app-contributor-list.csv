@@ -2215,7 +2215,7 @@ task-coach.json,ScoopInstaller/Extras
 super-productivity.json,ScoopInstaller/Extras
 godot-manager.json,ScoopInstaller/Extras
 rimage.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 qimgv.json,ScoopInstaller/Extras
 expresso.json,ScoopInstaller/Extras
 fontbase.json,ScoopInstaller/Extras
@@ -3045,7 +3045,7 @@ mediacreationtool.json,ScoopInstaller/Extras
 escrcpy.json,ScoopInstaller/Extras
 nmkoder.json,ScoopInstaller/Extras
 xampp.json,ScoopInstaller/Extras
-registry-finder.json,ScoopInstaller/Extras
+registry-finder_ScoopInstaller.json,ScoopInstaller/Extras
 squalr.json,ScoopInstaller/Extras
 tomboy-ng.json,ScoopInstaller/Extras
 fspy.json,ScoopInstaller/Extras
@@ -7730,6 +7730,7 @@ claunch.json,echoiron/echo-scoop
 centbrowser_echoiron.json,echoiron/echo-scoop
 bitcomet.json,echoiron/echo-scoop
 mobaxterm_echoiron.json,echoiron/echo-scoop
+boxplayer.json,echoiron/echo-scoop
 xtools.json,echoiron/echo-scoop
 pdf-xchange-editor-plus.json,echoiron/echo-scoop
 uninstalltool.json,echoiron/echo-scoop
@@ -7761,7 +7762,6 @@ hdtune.json,echoiron/echo-scoop
 emeditor_echoiron.json,echoiron/echo-scoop
 everedit.json,echoiron/echo-scoop
 pdfpatcher.json,echoiron/echo-scoop
-alixby.json,echoiron/echo-scoop
 renamer_echoiron.json,echoiron/echo-scoop
 chrome.json,echoiron/echo-scoop
 kbootopt.json,echoiron/echo-scoop
@@ -9462,7 +9462,7 @@ rnr_akirco.json,akirco/aki-apps
 pypy3_akirco.json,akirco/aki-apps
 notion_akirco.json,akirco/aki-apps
 shellcheck_akirco.json,akirco/aki-apps
-vscode.json,akirco/aki-apps
+vscode_akirco.json,akirco/aki-apps
 draw.io_akirco.json,akirco/aki-apps
 neofetch_akirco.json,akirco/aki-apps
 zstd_akirco.json,akirco/aki-apps
@@ -10030,7 +10030,7 @@ sunloginclientsos.json,DoveBoy/Apps
 algermusicplayer.json,DoveBoy/Apps
 clumsy_DoveBoy.json,DoveBoy/Apps
 jasmine.json,DoveBoy/Apps
-neteaseuu_DoveBoy.json,DoveBoy/Apps
+neteaseuu.json,DoveBoy/Apps
 driveck.json,DoveBoy/Apps
 waifu2x-extension-gui-beta.json,DoveBoy/Apps
 ecopaste.json,DoveBoy/Apps
@@ -14781,7 +14781,7 @@ miktex_maboloshi.json,maboloshi/scoop-private
 clip.json,maboloshi/scoop-private
 directoryopus-cn.json,maboloshi/scoop-private
 n-m3u8dl-cli-simpleg_list.json,maboloshi/scoop-private
-ima-copilot_maboloshi.json,maboloshi/scoop-private
+ima-copilot.json,maboloshi/scoop-private
 notepad4_maboloshi.json,maboloshi/scoop-private
 dingtalk@7.0.10.1026.json,maboloshi/scoop-private
 todesk_maboloshi.json,maboloshi/scoop-private
