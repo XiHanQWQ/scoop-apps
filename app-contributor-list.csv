@@ -2215,7 +2215,7 @@ task-coach.json,ScoopInstaller/Extras
 super-productivity.json,ScoopInstaller/Extras
 godot-manager.json,ScoopInstaller/Extras
 rimage.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 qimgv.json,ScoopInstaller/Extras
 expresso.json,ScoopInstaller/Extras
 fontbase.json,ScoopInstaller/Extras
@@ -5426,7 +5426,7 @@ gradle6.json,ScoopInstaller/Versions
 llrt-beta.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
 php71.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 winpython37.json,ScoopInstaller/Versions
 dart-dev.json,ScoopInstaller/Versions
 windows-terminal-preview.json,ScoopInstaller/Versions
@@ -8284,7 +8284,7 @@ Brief.json,dodorz/scoop
 PicPick_dodorz.json,dodorz/scoop
 9pm.json,dodorz/scoop
 webd.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 vs-ghostwriter.json,dodorz/scoop
 FullSync.json,dodorz/scoop
 MicroEmacs.json,dodorz/scoop
@@ -9723,7 +9723,7 @@ reicon_DoveBoy.json,DoveBoy/Apps
 streamcap.json,DoveBoy/Apps
 fluent-m3u8.json,DoveBoy/Apps
 clink-flex-prompt_DoveBoy.json,DoveBoy/Apps
-animeko.json,DoveBoy/Apps
+animeko_DoveBoy.json,DoveBoy/Apps
 vcpkg_DoveBoy.json,DoveBoy/Apps
 windterm_DoveBoy.json,DoveBoy/Apps
 b23downloader-win7.json,DoveBoy/Apps
@@ -11263,7 +11263,7 @@ microdicom-dicom-viewer.json,amorphobia/siku
 clash-verge_amorphobia.json,amorphobia/siku
 powercolorls.json,amorphobia/siku
 tcc_amorphobia.json,amorphobia/siku
-plain-craft-launcher.json,amorphobia/siku
+plain-craft-launcher_amorphobia.json,amorphobia/siku
 revokemsgpatcher_amorphobia.json,amorphobia/siku
 adrive.json,amorphobia/siku
 arturo_amorphobia.json,amorphobia/siku
@@ -11954,7 +11954,7 @@ comicrack-ce-nightly.json,brian6932/dank-scoop
 mtpmount.json,brian6932/dank-scoop
 cfl.json,brian6932/dank-scoop
 capturer.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 openzfs.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 remnant-overseer.json,brian6932/dank-scoop
@@ -12156,7 +12156,6 @@ gitql_aliesbelik.json,aliesbelik/poldi
 tgpt_aliesbelik.json,aliesbelik/poldi
 werf.json,aliesbelik/poldi
 jj_aliesbelik.json,aliesbelik/poldi
-hl_aliesbelik.json,aliesbelik/poldi
 csvi.json,aliesbelik/poldi
 epoch.json,aliesbelik/poldi
 goreplay.json,aliesbelik/poldi
@@ -12358,6 +12357,7 @@ jo_aliesbelik.json,aliesbelik/poldi
 riff_aliesbelik.json,aliesbelik/poldi
 dnslookup_aliesbelik.json,aliesbelik/poldi
 restfox_aliesbelik.json,aliesbelik/poldi
+hl_aliesbelik.json,aliesbelik/poldi
 tlrc_aliesbelik.json,aliesbelik/poldi
 nbping_aliesbelik.json,aliesbelik/poldi
 lazysql_aliesbelik.json,aliesbelik/poldi
