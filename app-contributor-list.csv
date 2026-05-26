@@ -2215,7 +2215,7 @@ task-coach.json,ScoopInstaller/Extras
 super-productivity.json,ScoopInstaller/Extras
 godot-manager.json,ScoopInstaller/Extras
 rimage.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 qimgv.json,ScoopInstaller/Extras
 expresso.json,ScoopInstaller/Extras
 fontbase.json,ScoopInstaller/Extras
@@ -5491,6 +5491,7 @@ haxe-dev.json,ScoopInstaller/Versions
 winpython3741.json,ScoopInstaller/Versions
 okular-nightly.json,ScoopInstaller/Versions
 obs-studio27.json,ScoopInstaller/Versions
+cuda13.3.json,ScoopInstaller/Versions
 tesseract3-languages.json,ScoopInstaller/Versions
 python312.json,ScoopInstaller/Versions
 datagrip-eap.json,ScoopInstaller/Versions
@@ -9463,7 +9464,7 @@ nmap-portable.json,akirco/aki-apps
 scrcpy-gui_akirco.json,akirco/aki-apps
 rnr_akirco.json,akirco/aki-apps
 pypy3_akirco.json,akirco/aki-apps
-notion_akirco.json,akirco/aki-apps
+notion.json,akirco/aki-apps
 shellcheck_akirco.json,akirco/aki-apps
 vscode_akirco.json,akirco/aki-apps
 draw.io_akirco.json,akirco/aki-apps
