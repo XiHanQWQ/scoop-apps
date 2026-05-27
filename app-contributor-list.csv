@@ -5427,7 +5427,7 @@ gradle6.json,ScoopInstaller/Versions
 llrt-beta.json,ScoopInstaller/Versions
 typora-dev.json,ScoopInstaller/Versions
 php71.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 winpython37.json,ScoopInstaller/Versions
 dart-dev.json,ScoopInstaller/Versions
 windows-terminal-preview.json,ScoopInstaller/Versions
@@ -8288,7 +8288,7 @@ Brief.json,dodorz/scoop
 PicPick_dodorz.json,dodorz/scoop
 9pm.json,dodorz/scoop
 webd.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 vs-ghostwriter.json,dodorz/scoop
 FullSync.json,dodorz/scoop
 MicroEmacs.json,dodorz/scoop
@@ -9464,7 +9464,7 @@ nmap-portable.json,akirco/aki-apps
 scrcpy-gui_akirco.json,akirco/aki-apps
 rnr_akirco.json,akirco/aki-apps
 pypy3_akirco.json,akirco/aki-apps
-notion.json,akirco/aki-apps
+notion_akirco.json,akirco/aki-apps
 shellcheck_akirco.json,akirco/aki-apps
 vscode_akirco.json,akirco/aki-apps
 draw.io_akirco.json,akirco/aki-apps
@@ -9528,7 +9528,6 @@ vcredist2022_akirco.json,akirco/aki-apps
 nano_akirco.json,akirco/aki-apps
 qtscrcpy_akirco.json,akirco/aki-apps
 git_akirco.json,akirco/aki-apps
-bilibili-livehime.json,akirco/aki-apps
 typora_akirco.json,akirco/aki-apps
 tesseract-languages_akirco.json,akirco/aki-apps
 baidudisk.json,akirco/aki-apps
@@ -9562,7 +9561,7 @@ llvm_akirco.json,akirco/aki-apps
 flutter_akirco.json,akirco/aki-apps
 directory-predictor.json,akirco/aki-apps
 touch_akirco.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 time_akirco.json,akirco/aki-apps
 winfetch_akirco.json,akirco/aki-apps
 qt-creator_akirco.json,akirco/aki-apps
@@ -9728,7 +9727,7 @@ reicon_DoveBoy.json,DoveBoy/Apps
 streamcap.json,DoveBoy/Apps
 fluent-m3u8.json,DoveBoy/Apps
 clink-flex-prompt_DoveBoy.json,DoveBoy/Apps
-animeko.json,DoveBoy/Apps
+animeko_DoveBoy.json,DoveBoy/Apps
 vcpkg_DoveBoy.json,DoveBoy/Apps
 windterm_DoveBoy.json,DoveBoy/Apps
 b23downloader-win7.json,DoveBoy/Apps
@@ -9799,7 +9798,7 @@ spacedrive.json,DoveBoy/Apps
 bat_DoveBoy.json,DoveBoy/Apps
 voice-pro.json,DoveBoy/Apps
 onlyoffice-desktopeditors.json,DoveBoy/Apps
-github-beta.json,DoveBoy/Apps
+github-beta_DoveBoy.json,DoveBoy/Apps
 hysteria_DoveBoy.json,DoveBoy/Apps
 littletips.json,DoveBoy/Apps
 nextai-translator_DoveBoy.json,DoveBoy/Apps
@@ -11959,7 +11958,7 @@ comicrack-ce-nightly.json,brian6932/dank-scoop
 mtpmount.json,brian6932/dank-scoop
 cfl.json,brian6932/dank-scoop
 capturer.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 openzfs.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 remnant-overseer.json,brian6932/dank-scoop
