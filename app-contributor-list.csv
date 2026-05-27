@@ -2215,7 +2215,7 @@ task-coach.json,ScoopInstaller/Extras
 super-productivity.json,ScoopInstaller/Extras
 godot-manager.json,ScoopInstaller/Extras
 rimage.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 qimgv.json,ScoopInstaller/Extras
 expresso.json,ScoopInstaller/Extras
 fontbase.json,ScoopInstaller/Extras
@@ -9733,7 +9733,7 @@ windterm_DoveBoy.json,DoveBoy/Apps
 b23downloader-win7.json,DoveBoy/Apps
 xhs-downloader.json,DoveBoy/Apps
 openbbterminal.json,DoveBoy/Apps
-ungoogled-chromium.json,DoveBoy/Apps
+ungoogled-chromium_DoveBoy.json,DoveBoy/Apps
 bbdown_DoveBoy.json,DoveBoy/Apps
 ghostdownloader3.json,DoveBoy/Apps
 npm-tab-completion.json,DoveBoy/Apps
@@ -10108,7 +10108,7 @@ qq-nt_DoveBoy.json,DoveBoy/Apps
 iobit-software-updater.json,DoveBoy/Apps
 cmwtat-digital-edition.json,DoveBoy/Apps
 iobit-system-information.json,DoveBoy/Apps
-cromite.json,DoveBoy/Apps
+cromite_DoveBoy.json,DoveBoy/Apps
 crystaldiskinfo-shizuku-edition_DoveBoy.json,DoveBoy/Apps
 cacert_DoveBoy.json,DoveBoy/Apps
 lemonpush.json,DoveBoy/Apps
@@ -11958,7 +11958,7 @@ comicrack-ce-nightly.json,brian6932/dank-scoop
 mtpmount.json,brian6932/dank-scoop
 cfl.json,brian6932/dank-scoop
 capturer.json,brian6932/dank-scoop
-mpv-git_brian6932.json,brian6932/dank-scoop
+mpv-git.json,brian6932/dank-scoop
 openzfs.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 remnant-overseer.json,brian6932/dank-scoop
