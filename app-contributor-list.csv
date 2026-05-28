@@ -3000,7 +3000,7 @@ suwayomi-jui.json,ScoopInstaller/Extras
 totalcommander.json,ScoopInstaller/Extras
 notepadnext.json,ScoopInstaller/Extras
 gedit.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 lite.json,ScoopInstaller/Extras
 mongodb-compass.json,ScoopInstaller/Extras
 status.json,ScoopInstaller/Extras
@@ -9865,7 +9865,7 @@ clashn.json,DoveBoy/Apps
 note-gen.json,DoveBoy/Apps
 m3u8d-ui.json,DoveBoy/Apps
 ss.json,DoveBoy/Apps
-openspeedy_DoveBoy.json,DoveBoy/Apps
+openspeedy.json,DoveBoy/Apps
 anto.json,DoveBoy/Apps
 b23downloader_DoveBoy.json,DoveBoy/Apps
 pixivbiu.json,DoveBoy/Apps
@@ -9901,7 +9901,7 @@ mpv-lazy.json,DoveBoy/Apps
 qtunblockneteasemusic.json,DoveBoy/Apps
 sandboxie-classic.json,DoveBoy/Apps
 unblockneteasemusic.json,DoveBoy/Apps
-malware-patch_DoveBoy.json,DoveBoy/Apps
+malware-patch.json,DoveBoy/Apps
 litespeedtest.json,DoveBoy/Apps
 alisthelper_DoveBoy.json,DoveBoy/Apps
 refreshenv_DoveBoy.json,DoveBoy/Apps
