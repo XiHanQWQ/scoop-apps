@@ -9715,7 +9715,7 @@ CascadiaCodePL.json,everyx/scoop-bucket
 fping.json,everyx/scoop-bucket
 clash-rev.json,DoveBoy/Apps
 typora-plugin.json,DoveBoy/Apps
-unigetui.json,DoveBoy/Apps
+unigetui_DoveBoy.json,DoveBoy/Apps
 fscapture_DoveBoy.json,DoveBoy/Apps
 magpie_DoveBoy.json,DoveBoy/Apps
 easyserviceoptimizer_DoveBoy.json,DoveBoy/Apps
@@ -11603,6 +11603,7 @@ brave-np.json,WinApps-share/WinApps-bucket
 n-m3u8dl-cli_WinApps-share.json,WinApps-share/WinApps-bucket
 compresso_WinApps-share.json,WinApps-share/WinApps-bucket
 geek-uninstaller.json,WinApps-share/WinApps-bucket
+gopeed_WinApps-share.json,WinApps-share/WinApps-bucket
 reqable_WinApps-share.json,WinApps-share/WinApps-bucket
 ppduck3.json,WinApps-share/WinApps-bucket
 lx-music-np.json,WinApps-share/WinApps-bucket
@@ -11652,6 +11653,7 @@ todesk-lite.json,WinApps-share/WinApps-bucket
 g-helper_WinApps-share.json,WinApps-share/WinApps-bucket
 frame.json,WinApps-share/WinApps-bucket
 nanazip_WinApps-share.json,WinApps-share/WinApps-bucket
+gopeed-np.json,WinApps-share/WinApps-bucket
 quicker.json,WinApps-share/WinApps-bucket
 vlc-np.json,WinApps-share/WinApps-bucket
 autohotkey_WinApps-share.json,WinApps-share/WinApps-bucket
