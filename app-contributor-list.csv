@@ -3232,7 +3232,7 @@ readest.json,ScoopInstaller/Extras
 ldplayer.json,ScoopInstaller/Extras
 speedyfox.json,ScoopInstaller/Extras
 folge.json,ScoopInstaller/Extras
-vscode_ScoopInstaller.json,ScoopInstaller/Extras
+vscode.json,ScoopInstaller/Extras
 dnsjumper.json,ScoopInstaller/Extras
 mpc-hc.json,ScoopInstaller/Extras
 yapa2.json,ScoopInstaller/Extras
@@ -12390,7 +12390,7 @@ aDrive_ygguorun.json,ygguorun/scoop-bucket
 RevokeMsgPatcher_ygguorun.json,ygguorun/scoop-bucket
 simplenotepad.json,ygguorun/scoop-bucket
 copy-translator-rust.json,ygguorun/scoop-bucket
-BaiduNetdisk_ygguorun.json,ygguorun/scoop-bucket
+BaiduNetdisk.json,ygguorun/scoop-bucket
 CefDetector.json,ygguorun/scoop-bucket
 JianYingSRT.json,ygguorun/scoop-bucket
 excel-regex-tool.json,ygguorun/scoop-bucket
