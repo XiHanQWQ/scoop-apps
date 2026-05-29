@@ -9605,7 +9605,7 @@ snipaste_akirco.json,akirco/aki-apps
 python_akirco.json,akirco/aki-apps
 nano_akirco.json,akirco/aki-apps
 rclone_akirco.json,akirco/aki-apps
-vscode_akirco.json,akirco/aki-apps
+vscode.json,akirco/aki-apps
 restic_akirco.json,akirco/aki-apps
 time_akirco.json,akirco/aki-apps
 lsd_akirco.json,akirco/aki-apps
@@ -10018,7 +10018,6 @@ nali_DoveBoy.json,DoveBoy/Apps
 littletips.json,DoveBoy/Apps
 fancontrol-net10.0-portable.json,DoveBoy/Apps
 pnpm-tab-completion.json,DoveBoy/Apps
-helium_DoveBoy.json,DoveBoy/Apps
 webcam-on-off_DoveBoy.json,DoveBoy/Apps
 ytdownloader.json,DoveBoy/Apps
 navidrome_DoveBoy.json,DoveBoy/Apps
@@ -11948,7 +11947,7 @@ KryptorGUI.json,brian6932/dank-scoop
 linpack-xtreme.json,brian6932/dank-scoop
 bulk-extractor.json,brian6932/dank-scoop
 jointbilateral.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 pwsh-man-highlighting.json,brian6932/dank-scoop
 moonlight-nightly.json,brian6932/dank-scoop
 bcdstore.json,brian6932/dank-scoop
@@ -12804,7 +12803,7 @@ cruiser.json,seumsc/scoop-seu
 videosubfinder.json,seumsc/scoop-seu
 hmcl-dev.json,seumsc/scoop-seu
 prom-lite.json,seumsc/scoop-seu
-kook.json,seumsc/scoop-seu
+kook_seumsc.json,seumsc/scoop-seu
 shterm-alt.json,seumsc/scoop-seu
 anime4kcpp-cli.json,seumsc/scoop-seu
 fiddler-everywhere.json,seumsc/scoop-seu
@@ -15699,7 +15698,7 @@ JetBrainsMono_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 naotu.json,ShuguangSun/sgs-scoop-bucket
 LXGWWenKaiMono_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 r-4.5.0.json,ShuguangSun/sgs-scoop-bucket
-micromamba.json,ShuguangSun/sgs-scoop-bucket
+micromamba_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 busybox_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 r-4.1.3.json,ShuguangSun/sgs-scoop-bucket
 python312_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
