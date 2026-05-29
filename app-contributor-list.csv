@@ -1902,7 +1902,7 @@ hack-font.json,ScoopInstaller/Extras
 tsukimi.json,ScoopInstaller/Extras
 everything-powertoys.json,ScoopInstaller/Extras
 pyzo.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 qmk-toolbox.json,ScoopInstaller/Extras
 simplenote.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -8117,7 +8117,7 @@ Notepad4-AVX512.json,dodorz/scoop
 Locate.json,dodorz/scoop
 Xpdf-tools-CJK.json,dodorz/scoop
 SimilarImagesFinder.json,dodorz/scoop
-llamafile_dodorz.json,dodorz/scoop
+llamafile.json,dodorz/scoop
 PicoClaw.json,dodorz/scoop
 Capture2Text-zh-cn.json,dodorz/scoop
 imgcat.json,dodorz/scoop
@@ -9681,7 +9681,7 @@ confettysh.json,charmbracelet/scoop-bucket
 markscribe.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 clash_everyx.json,everyx/scoop-bucket
 SourceHanSerifTW.json,everyx/scoop-bucket
 clash-premium.json,everyx/scoop-bucket
