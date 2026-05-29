@@ -8086,6 +8086,7 @@ pTeX-NG.json,dodorz/scoop
 CodeBuddyCN.json,dodorz/scoop
 WavePad.json,dodorz/scoop
 Windows10VirtualDesktopEnhancer.json,dodorz/scoop
+DoRun.json,dodorz/scoop
 Gapminder.json,dodorz/scoop
 Jan_dodorz.json,dodorz/scoop
 DTSdec.json,dodorz/scoop
@@ -9605,7 +9606,7 @@ snipaste_akirco.json,akirco/aki-apps
 python_akirco.json,akirco/aki-apps
 nano_akirco.json,akirco/aki-apps
 rclone_akirco.json,akirco/aki-apps
-vscode.json,akirco/aki-apps
+vscode_akirco.json,akirco/aki-apps
 restic_akirco.json,akirco/aki-apps
 time_akirco.json,akirco/aki-apps
 lsd_akirco.json,akirco/aki-apps
@@ -9677,7 +9678,7 @@ confettysh.json,charmbracelet/scoop-bucket
 markscribe.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 clash_everyx.json,everyx/scoop-bucket
 SourceHanSerifTW.json,everyx/scoop-bucket
 clash-premium.json,everyx/scoop-bucket
@@ -9785,6 +9786,7 @@ video-srt-windows.json,DoveBoy/Apps
 ipcalc_DoveBoy.json,DoveBoy/Apps
 draw.io_DoveBoy.json,DoveBoy/Apps
 ttime-portable.json,DoveBoy/Apps
+marktext.json,DoveBoy/Apps
 openspeedy.json,DoveBoy/Apps
 min_DoveBoy.json,DoveBoy/Apps
 clashwarden.json,DoveBoy/Apps
@@ -10140,7 +10142,7 @@ kando-portable.json,DoveBoy/Apps
 anyportal.json,DoveBoy/Apps
 googletranslateipcheck.json,DoveBoy/Apps
 upscayl_DoveBoy.json,DoveBoy/Apps
-qq-nt_DoveBoy.json,DoveBoy/Apps
+qq-nt.json,DoveBoy/Apps
 xcmusic.json,DoveBoy/Apps
 everything-beta_DoveBoy.json,DoveBoy/Apps
 kopia-ui.json,DoveBoy/Apps
@@ -10429,7 +10431,7 @@ ruffle.json,DoveBoy/Apps
 wxdatviewerautoexportrust.json,DoveBoy/Apps
 animeko-pre.json,DoveBoy/Apps
 posh-git_DoveBoy.json,DoveBoy/Apps
-v2rayn_DoveBoy.json,DoveBoy/Apps
+v2rayn.json,DoveBoy/Apps
 onlyoffice-desktopeditors_DoveBoy.json,DoveBoy/Apps
 pot-desktop_DoveBoy.json,DoveBoy/Apps
 cloc_DoveBoy.json,DoveBoy/Apps
