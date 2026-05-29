@@ -2828,7 +2828,7 @@ vidcutter.json,ScoopInstaller/Extras
 real.json,ScoopInstaller/Extras
 wiztree.json,ScoopInstaller/Extras
 buckets.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 tailblazer.json,ScoopInstaller/Extras
 litedb-studio.json,ScoopInstaller/Extras
 pcem.json,ScoopInstaller/Extras
@@ -5162,6 +5162,7 @@ thorium-avx2.json,ScoopInstaller/Versions
 chromedriver-canary.json,ScoopInstaller/Versions
 tomcat10.json,ScoopInstaller/Versions
 ds4windows-circumspector-pre.json,ScoopInstaller/Versions
+llama.cpp-cu133-dll.json,ScoopInstaller/Versions
 miniconda3-py311.json,ScoopInstaller/Versions
 ruffle-nightly.json,ScoopInstaller/Versions
 zip-beta.json,ScoopInstaller/Versions
@@ -5312,6 +5313,7 @@ cuda11.4.json,ScoopInstaller/Versions
 wox-beta.json,ScoopInstaller/Versions
 filelight-nightly.json,ScoopInstaller/Versions
 emacs27.2.json,ScoopInstaller/Versions
+llama.cpp-cu133.json,ScoopInstaller/Versions
 rtools35.json,ScoopInstaller/Versions
 oracle-instant-client-sqlplus21.json,ScoopInstaller/Versions
 llama.cpp-hip-gfx1100.json,ScoopInstaller/Versions
@@ -10273,6 +10275,7 @@ chatbox_DoveBoy.json,DoveBoy/Apps
 perl_DoveBoy.json,DoveBoy/Apps
 lessmsi_DoveBoy.json,DoveBoy/Apps
 python-tab-completion.json,DoveBoy/Apps
+electerm_DoveBoy.json,DoveBoy/Apps
 cleanmywechat.json,DoveBoy/Apps
 cloudreve-beta.json,DoveBoy/Apps
 clianpro.json,DoveBoy/Apps
@@ -10451,7 +10454,7 @@ openoffice_DoveBoy.json,DoveBoy/Apps
 omniget.json,DoveBoy/Apps
 sniffnet_DoveBoy.json,DoveBoy/Apps
 pwsh_DoveBoy.json,DoveBoy/Apps
-neteaseuu_DoveBoy.json,DoveBoy/Apps
+neteaseuu.json,DoveBoy/Apps
 7zip-beta_DoveBoy.json,DoveBoy/Apps
 clash-rev-compatible-go120.json,DoveBoy/Apps
 speedtest-go_DoveBoy.json,DoveBoy/Apps
@@ -10540,6 +10543,8 @@ signal_EFLKumo.json,EFLKumo/jam
 keyguard.json,EFLKumo/jam
 mpv-config.json,EFLKumo/jam
 cherry-studio_EFLKumo.json,EFLKumo/jam
+zed_EFLKumo.json,EFLKumo/jam
+yazi_EFLKumo.json,EFLKumo/jam
 readest_EFLKumo.json,EFLKumo/jam
 pot_EFLKumo.json,EFLKumo/jam
 element_EFLKumo.json,EFLKumo/jam
