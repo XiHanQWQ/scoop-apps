@@ -3232,7 +3232,7 @@ readest.json,ScoopInstaller/Extras
 ldplayer.json,ScoopInstaller/Extras
 speedyfox.json,ScoopInstaller/Extras
 folge.json,ScoopInstaller/Extras
-vscode.json,ScoopInstaller/Extras
+vscode_ScoopInstaller.json,ScoopInstaller/Extras
 dnsjumper.json,ScoopInstaller/Extras
 mpc-hc.json,ScoopInstaller/Extras
 yapa2.json,ScoopInstaller/Extras
@@ -8117,7 +8117,7 @@ Notepad4-AVX512.json,dodorz/scoop
 Locate.json,dodorz/scoop
 Xpdf-tools-CJK.json,dodorz/scoop
 SimilarImagesFinder.json,dodorz/scoop
-llamafile.json,dodorz/scoop
+llamafile_dodorz.json,dodorz/scoop
 PicoClaw.json,dodorz/scoop
 Capture2Text-zh-cn.json,dodorz/scoop
 imgcat.json,dodorz/scoop
@@ -9390,7 +9390,6 @@ qpdf_akirco.json,akirco/aki-apps
 highlight_akirco.json,akirco/aki-apps
 nircmd_akirco.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
-bilibili-livehime.json,akirco/aki-apps
 wechat-work.json,akirco/aki-apps
 Qoder.json,akirco/aki-apps
 tar_akirco.json,akirco/aki-apps
@@ -10454,7 +10453,7 @@ openoffice_DoveBoy.json,DoveBoy/Apps
 omniget.json,DoveBoy/Apps
 sniffnet_DoveBoy.json,DoveBoy/Apps
 pwsh_DoveBoy.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 7zip-beta_DoveBoy.json,DoveBoy/Apps
 clash-rev-compatible-go120.json,DoveBoy/Apps
 speedtest-go_DoveBoy.json,DoveBoy/Apps
