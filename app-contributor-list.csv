@@ -1902,7 +1902,7 @@ hack-font.json,ScoopInstaller/Extras
 tsukimi.json,ScoopInstaller/Extras
 everything-powertoys.json,ScoopInstaller/Extras
 pyzo.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 qmk-toolbox.json,ScoopInstaller/Extras
 simplenote.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -2828,7 +2828,7 @@ vidcutter.json,ScoopInstaller/Extras
 real.json,ScoopInstaller/Extras
 wiztree.json,ScoopInstaller/Extras
 buckets.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 tailblazer.json,ScoopInstaller/Extras
 litedb-studio.json,ScoopInstaller/Extras
 pcem.json,ScoopInstaller/Extras
@@ -4239,7 +4239,7 @@ navicat-premium-lite-cn.json,Scoopforge/Extras-CN
 cnkiexpress.json,Scoopforge/Extras-CN
 edrawmax.json,Scoopforge/Extras-CN
 dashplayer.json,Scoopforge/Extras-CN
-baidunetdisk.json,Scoopforge/Extras-CN
+baidunetdisk_Scoopforge.json,Scoopforge/Extras-CN
 miniforge-cn.json,Scoopforge/Extras-CN
 partition-assistant.json,Scoopforge/Extras-CN
 cockpit-tools.json,Scoopforge/Extras-CN
@@ -9680,7 +9680,7 @@ confettysh.json,charmbracelet/scoop-bucket
 markscribe.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 clash_everyx.json,everyx/scoop-bucket
 SourceHanSerifTW.json,everyx/scoop-bucket
 clash-premium.json,everyx/scoop-bucket
@@ -9770,7 +9770,7 @@ pdfarranger_DoveBoy.json,DoveBoy/Apps
 gpg_DoveBoy.json,DoveBoy/Apps
 mapdownload.json,DoveBoy/Apps
 imfile.json,DoveBoy/Apps
-karing.json,DoveBoy/Apps
+karing_DoveBoy.json,DoveBoy/Apps
 quasar_DoveBoy.json,DoveBoy/Apps
 officetoolplus_DoveBoy.json,DoveBoy/Apps
 nssm_DoveBoy.json,DoveBoy/Apps
