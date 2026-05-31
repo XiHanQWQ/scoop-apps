@@ -8380,7 +8380,7 @@ EUX.json,dodorz/scoop
 jsdb.json,dodorz/scoop
 Voicebox.json,dodorz/scoop
 BaiduCDP.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 DM2.json,dodorz/scoop
 goawk.json,dodorz/scoop
 sK1.json,dodorz/scoop
@@ -11954,7 +11954,7 @@ KryptorGUI.json,brian6932/dank-scoop
 linpack-xtreme.json,brian6932/dank-scoop
 bulk-extractor.json,brian6932/dank-scoop
 jointbilateral.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 pwsh-man-highlighting.json,brian6932/dank-scoop
 moonlight-nightly.json,brian6932/dank-scoop
 bcdstore.json,brian6932/dank-scoop
@@ -13055,6 +13055,7 @@ msedge-beta.json,42wim/scoop-bucket
 matterbridge_42wim.json,42wim/scoop-bucket
 osc-chat-tools.json,babo4d/scoop-xrtools
 openra-openhv.json,babo4d/scoop-xrtools
+dusklight.json,babo4d/scoop-xrtools
 retroarch-emuvr.json,babo4d/scoop-xrtools
 beatsaber-modmanager.json,babo4d/scoop-xrtools
 openra-combined-arms.json,babo4d/scoop-xrtools
@@ -15817,7 +15818,7 @@ LLC.json,Locietta/sniffer
 zju-connect-for-win.json,Locietta/sniffer
 xanmod-WSL2-addons-lts-x64v2.json,Locietta/sniffer
 xanmod-WSL2-lts-x64v3.json,Locietta/sniffer
-emeditor_Locietta.json,Locietta/sniffer
+emeditor.json,Locietta/sniffer
 foxmail_Locietta.json,Locietta/sniffer
 xanmod-WSL2-lts-skylake.json,Locietta/sniffer
 xanmod-WSL2-addons.json,Locietta/sniffer
