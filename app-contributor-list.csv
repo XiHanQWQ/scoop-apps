@@ -1085,6 +1085,7 @@ EasySpider.json,sliots/ScoopBucket
 CompactGUI.json,sliots/ScoopBucket
 dlsite-doujin-renamer.json,sliots/ScoopBucket
 fetch-github-hosts.json,sliots/ScoopBucket
+napcatqq-desktop.json,sliots/ScoopBucket
 arc_unpacker.json,sliots/ScoopBucket
 exhentai-manga-manager-portable.json,sliots/ScoopBucket
 SynologyCloudSyncDecryptionTool.json,sliots/ScoopBucket
@@ -1902,7 +1903,7 @@ hack-font.json,ScoopInstaller/Extras
 tsukimi.json,ScoopInstaller/Extras
 everything-powertoys.json,ScoopInstaller/Extras
 pyzo.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 qmk-toolbox.json,ScoopInstaller/Extras
 simplenote.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -8646,7 +8647,7 @@ Cardo.json,dodorz/scoop
 ScratchJr.json,dodorz/scoop
 Listary_dodorz.json,dodorz/scoop
 InterityDownloader.json,dodorz/scoop
-clever-ffmpeg_dodorz.json,dodorz/scoop
+clever-ffmpeg.json,dodorz/scoop
 WeChat_dodorz.json,dodorz/scoop
 ExplorerXP.json,dodorz/scoop
 Vibe.json,dodorz/scoop
@@ -13473,7 +13474,7 @@ lx-music_cc713.json,cc713/ownscoop
 NeeView_cc713.json,cc713/ownscoop
 kazumi_cc713.json,cc713/ownscoop
 opencomic.json,cc713/ownscoop
-gitextensions.json,cc713/ownscoop
+gitextensions_cc713.json,cc713/ownscoop
 Pixeval_cc713.json,cc713/ownscoop
 scribus-dev_cc713.json,cc713/ownscoop
 qimgv_cc713.json,cc713/ownscoop
@@ -13529,6 +13530,7 @@ pinga.json,natecohen/scoop-av
 tsmuxer.json,natecohen/scoop-av
 dgmpgdec_natecohen.json,natecohen/scoop-av
 ffbitrateviewer.json,natecohen/scoop-av
+vspreview-rs.json,natecohen/scoop-av
 pingo.json,natecohen/scoop-av
 rav1e-weekly.json,natecohen/scoop-av
 nvencc.json,natecohen/scoop-av
