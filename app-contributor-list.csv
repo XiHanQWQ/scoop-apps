@@ -8381,7 +8381,7 @@ EUX.json,dodorz/scoop
 jsdb.json,dodorz/scoop
 Voicebox.json,dodorz/scoop
 BaiduCDP.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 DM2.json,dodorz/scoop
 goawk.json,dodorz/scoop
 sK1.json,dodorz/scoop
@@ -10436,7 +10436,7 @@ ruffle.json,DoveBoy/Apps
 wxdatviewerautoexportrust.json,DoveBoy/Apps
 animeko-pre.json,DoveBoy/Apps
 posh-git_DoveBoy.json,DoveBoy/Apps
-v2rayn.json,DoveBoy/Apps
+v2rayn_DoveBoy.json,DoveBoy/Apps
 onlyoffice-desktopeditors_DoveBoy.json,DoveBoy/Apps
 pot-desktop_DoveBoy.json,DoveBoy/Apps
 cloc_DoveBoy.json,DoveBoy/Apps
@@ -11957,7 +11957,7 @@ KryptorGUI.json,brian6932/dank-scoop
 linpack-xtreme.json,brian6932/dank-scoop
 bulk-extractor.json,brian6932/dank-scoop
 jointbilateral.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 pwsh-man-highlighting.json,brian6932/dank-scoop
 moonlight-nightly.json,brian6932/dank-scoop
 bcdstore.json,brian6932/dank-scoop
@@ -12183,6 +12183,7 @@ hey.json,aliesbelik/poldi
 gojq.json,aliesbelik/poldi
 kubewall.json,aliesbelik/poldi
 werf-v2.json,aliesbelik/poldi
+sqluv.json,aliesbelik/poldi
 helmify.json,aliesbelik/poldi
 kcli.json,aliesbelik/poldi
 updo.json,aliesbelik/poldi
@@ -13474,7 +13475,7 @@ lx-music_cc713.json,cc713/ownscoop
 NeeView_cc713.json,cc713/ownscoop
 kazumi_cc713.json,cc713/ownscoop
 opencomic.json,cc713/ownscoop
-gitextensions_cc713.json,cc713/ownscoop
+gitextensions.json,cc713/ownscoop
 Pixeval_cc713.json,cc713/ownscoop
 scribus-dev_cc713.json,cc713/ownscoop
 qimgv_cc713.json,cc713/ownscoop
@@ -15816,7 +15817,6 @@ godot3_windedge.json,windedge/ladle-bucket
 jet-pilot.json,windedge/ladle-bucket
 kotlin-language-server.json,windedge/ladle-bucket
 glaxnimate.json,windedge/ladle-bucket
-scooper_windedge.json,windedge/ladle-bucket
 pdf4teachers.json,windedge/ladle-bucket
 seabird.json,windedge/ladle-bucket
 weasyprint_windedge.json,windedge/ladle-bucket
