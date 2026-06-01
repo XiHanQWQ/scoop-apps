@@ -222,6 +222,7 @@ uv-portable-cn.json,Weidows-projects/scoop-3rd
 Bongocat-Mver.json,Weidows-projects/scoop-3rd
 fuck-u-code.json,Weidows-projects/scoop-3rd
 bottom_Weidows-projects.json,Weidows-projects/scoop-3rd
+VirtualDesktopSwitcher.json,Weidows-projects/scoop-3rd
 AIStarter.json,Weidows-projects/scoop-3rd
 windows-defender-control.json,Weidows-projects/scoop-3rd
 utools-install.json,Weidows-projects/scoop-3rd
@@ -1224,7 +1225,6 @@ bes.json,ScoopInstaller/Extras
 omenmon.json,ScoopInstaller/Extras
 insomnia-designer.json,ScoopInstaller/Extras
 nvda.json,ScoopInstaller/Extras
-dlss-swapper.json,ScoopInstaller/Extras
 raylib.json,ScoopInstaller/Extras
 wavosaur.json,ScoopInstaller/Extras
 pixitracker.json,ScoopInstaller/Extras
@@ -1258,7 +1258,6 @@ lighttpd.json,ScoopInstaller/Extras
 zedis.json,ScoopInstaller/Extras
 yumi-uefi.json,ScoopInstaller/Extras
 bizhawk.json,ScoopInstaller/Extras
-idea-ultimate.json,ScoopInstaller/Extras
 vott.json,ScoopInstaller/Extras
 oni.json,ScoopInstaller/Extras
 patchcleaner.json,ScoopInstaller/Extras
@@ -1423,7 +1422,6 @@ pritunl-client.json,ScoopInstaller/Extras
 010editor.json,ScoopInstaller/Extras
 album-art-downloader.json,ScoopInstaller/Extras
 thonny.json,ScoopInstaller/Extras
-openai-translator.json,ScoopInstaller/Extras
 cv4pve-pepper.json,ScoopInstaller/Extras
 television.json,ScoopInstaller/Extras
 floorp.json,ScoopInstaller/Extras
@@ -2106,7 +2104,6 @@ umi-ocr.json,ScoopInstaller/Extras
 rbtray.json,ScoopInstaller/Extras
 megui.json,ScoopInstaller/Extras
 sublime-text.json,ScoopInstaller/Extras
-pycharm-professional.json,ScoopInstaller/Extras
 gmkvextractgui.json,ScoopInstaller/Extras
 termite.json,ScoopInstaller/Extras
 trae.json,ScoopInstaller/Extras
@@ -2376,6 +2373,7 @@ notepad2.json,ScoopInstaller/Extras
 free-manga-downloader2.json,ScoopInstaller/Extras
 theia-ide.json,ScoopInstaller/Extras
 clustal-omega.json,ScoopInstaller/Extras
+inlyne.json,ScoopInstaller/Extras
 zsh-patina.json,ScoopInstaller/Extras
 biblioteq.json,ScoopInstaller/Extras
 discord.json,ScoopInstaller/Extras
@@ -2664,7 +2662,6 @@ vibing.json,ScoopInstaller/Extras
 mailspring.json,ScoopInstaller/Extras
 mp3directcut.json,ScoopInstaller/Extras
 rxrepl.json,ScoopInstaller/Extras
-youtube-music.json,ScoopInstaller/Extras
 hexchat.json,ScoopInstaller/Extras
 rustrover.json,ScoopInstaller/Extras
 zulip.json,ScoopInstaller/Extras
@@ -2857,7 +2854,6 @@ vncviewer.json,ScoopInstaller/Extras
 brave.json,ScoopInstaller/Extras
 stranslate.json,ScoopInstaller/Extras
 tcno-acc-switcher.json,ScoopInstaller/Extras
-mambaforge.json,ScoopInstaller/Extras
 dolphin.json,ScoopInstaller/Extras
 gtk-sharp.json,ScoopInstaller/Extras
 sdl2-image.json,ScoopInstaller/Extras
@@ -3397,6 +3393,8 @@ librewolf.json,ScoopInstaller/Extras
 pureref.json,ScoopInstaller/Extras
 ferdi.json,ScoopInstaller/Extras
 p4merge.json,ScoopInstaller/Extras
+dlss-swapper.json,ScoopInstaller/Extras
+idea-ultimate.json,ScoopInstaller/Extras
 sagemath.json,ScoopInstaller/Extras
 pandownload.json,ScoopInstaller/Extras
 miru.json,ScoopInstaller/Extras
@@ -3423,6 +3421,7 @@ echoargs.json,ScoopInstaller/Extras
 popcorn-time.json,ScoopInstaller/Extras
 shinjiru.json,ScoopInstaller/Extras
 kicad-lite.json,ScoopInstaller/Extras
+pycharm-professional.json,ScoopInstaller/Extras
 deepl.json,ScoopInstaller/Extras
 qtranslate.json,ScoopInstaller/Extras
 gammy.json,ScoopInstaller/Extras
@@ -3436,6 +3435,7 @@ strawberry.json,ScoopInstaller/Extras
 jaspersoft-studio.json,ScoopInstaller/Extras
 chefdk.json,ScoopInstaller/Extras
 authy.json,ScoopInstaller/Extras
+mambaforge.json,ScoopInstaller/Extras
 nekoray.json,ScoopInstaller/Extras
 sumo.json,ScoopInstaller/Extras
 automake.json,ScoopInstaller/Extras
@@ -3734,7 +3734,7 @@ miniconda2.json,chawyehsu/dorado
 clash-verge_chawyehsu.json,chawyehsu/dorado
 notion_chawyehsu.json,chawyehsu/dorado
 clash-for-windows-np.json,chawyehsu/dorado
-openai-translator_chawyehsu.json,chawyehsu/dorado
+openai-translator.json,chawyehsu/dorado
 docker-cli.json,chawyehsu/dorado
 wpsoffice-zh-cn.json,chawyehsu/dorado
 koodo-reader_chawyehsu.json,chawyehsu/dorado
@@ -4522,7 +4522,7 @@ alephone-marathon-trilogy.json,Calinou/scoop-games
 game-backup-monitor.json,Calinou/scoop-games
 xemu.json,Calinou/scoop-games
 rgbds.json,Calinou/scoop-games
-hmcl_Calinou.json,Calinou/scoop-games
+hmcl.json,Calinou/scoop-games
 nugget-doom.json,Calinou/scoop-games
 teeworlds.json,Calinou/scoop-games
 azahar.json,Calinou/scoop-games
@@ -6364,7 +6364,7 @@ clojure-lsp.json,littleli/scoop-clojure
 eql-cli.json,littleli/scoop-clojure
 bb-http-server.json,littleli/scoop-clojure
 pathom-viz.json,littleli/scoop-clojure
-cq.json,littleli/scoop-clojure
+cq_littleli.json,littleli/scoop-clojure
 trenchman.json,littleli/scoop-clojure
 deps.clj.json,littleli/scoop-clojure
 babashka.json,littleli/scoop-clojure
@@ -8647,7 +8647,7 @@ Cardo.json,dodorz/scoop
 ScratchJr.json,dodorz/scoop
 Listary_dodorz.json,dodorz/scoop
 InterityDownloader.json,dodorz/scoop
-clever-ffmpeg.json,dodorz/scoop
+clever-ffmpeg_dodorz.json,dodorz/scoop
 WeChat_dodorz.json,dodorz/scoop
 ExplorerXP.json,dodorz/scoop
 Vibe.json,dodorz/scoop
@@ -11640,6 +11640,7 @@ office-tool-plus_WinApps-share.json,WinApps-share/WinApps-bucket
 altserver.json,WinApps-share/WinApps-bucket
 piclist.json,WinApps-share/WinApps-bucket
 testdisk_WinApps-share.json,WinApps-share/WinApps-bucket
+filepilot.json,WinApps-share/WinApps-bucket
 snowshot-np.json,WinApps-share/WinApps-bucket
 nextai-translator_WinApps-share.json,WinApps-share/WinApps-bucket
 mocreak-np.json,WinApps-share/WinApps-bucket
@@ -11937,7 +11938,7 @@ yt-dlp-get-pot-rustypipe.json,brian6932/dank-scoop
 ddu-lean.json,brian6932/dank-scoop
 winfsp-np-beta.json,brian6932/dank-scoop
 bcd.json,brian6932/dank-scoop
-filepilot.json,brian6932/dank-scoop
+filepilot_brian6932.json,brian6932/dank-scoop
 dzsalauncher.json,brian6932/dank-scoop
 pbkit.json,brian6932/dank-scoop
 twitch-hls-client-uri-protocol.json,brian6932/dank-scoop
@@ -11957,7 +11958,7 @@ KryptorGUI.json,brian6932/dank-scoop
 linpack-xtreme.json,brian6932/dank-scoop
 bulk-extractor.json,brian6932/dank-scoop
 jointbilateral.json,brian6932/dank-scoop
-mpv-git_brian6932.json,brian6932/dank-scoop
+mpv-git.json,brian6932/dank-scoop
 pwsh-man-highlighting.json,brian6932/dank-scoop
 moonlight-nightly.json,brian6932/dank-scoop
 bcdstore.json,brian6932/dank-scoop
@@ -12901,7 +12902,7 @@ writingTools.json,TianXiaTech/scoop-txt
 baidunetdisk_TianXiaTech.json,TianXiaTech/scoop-txt
 neohtop_TianXiaTech.json,TianXiaTech/scoop-txt
 recordly.json,TianXiaTech/scoop-txt
-openai-translator_TianXiaTech.json,TianXiaTech/scoop-txt
+openai-translator.json,TianXiaTech/scoop-txt
 tencentVideo.json,TianXiaTech/scoop-txt
 zyplayer_TianXiaTech.json,TianXiaTech/scoop-txt
 clash-for-windows_TianXiaTech.json,TianXiaTech/scoop-txt
@@ -13381,7 +13382,7 @@ aegisub_aoisummer.json,aoisummer/scoop-bucket
 qbittorrent-enhanced_aoisummer.json,aoisummer/scoop-bucket
 php83-nts.json,aoisummer/scoop-bucket
 php74-nts.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn.json,aoisummer/scoop-bucket
 autoruns_aoisummer.json,aoisummer/scoop-bucket
 ddtv2.json,aoisummer/scoop-bucket
 cinebench20.json,aoisummer/scoop-bucket
@@ -14613,7 +14614,7 @@ notepadnext_maboloshi.json,maboloshi/scoop-private
 brave_maboloshi.json,maboloshi/scoop-private
 weixin.json,maboloshi/scoop-private
 regworkshop.json,maboloshi/scoop-private
-ima-copilot_maboloshi.json,maboloshi/scoop-private
+ima-copilot.json,maboloshi/scoop-private
 clickmonitorddc-cn.json,maboloshi/scoop-private
 pot_maboloshi.json,maboloshi/scoop-private
 sublime-merge_maboloshi.json,maboloshi/scoop-private
