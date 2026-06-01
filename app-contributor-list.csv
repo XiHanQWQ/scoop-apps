@@ -1903,7 +1903,7 @@ hack-font.json,ScoopInstaller/Extras
 tsukimi.json,ScoopInstaller/Extras
 everything-powertoys.json,ScoopInstaller/Extras
 pyzo.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 qmk-toolbox.json,ScoopInstaller/Extras
 simplenote.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -2830,7 +2830,7 @@ vidcutter.json,ScoopInstaller/Extras
 real.json,ScoopInstaller/Extras
 wiztree.json,ScoopInstaller/Extras
 buckets.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 tailblazer.json,ScoopInstaller/Extras
 litedb-studio.json,ScoopInstaller/Extras
 pcem.json,ScoopInstaller/Extras
