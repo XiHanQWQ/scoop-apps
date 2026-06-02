@@ -4209,7 +4209,7 @@ autotyper.json,Scoopforge/Extras-CN
 ting-de.json,Scoopforge/Extras-CN
 clash-mi.json,Scoopforge/Extras-CN
 evcapture.json,Scoopforge/Extras-CN
-lceda-pro.json,Scoopforge/Extras-CN
+lceda-pro_Scoopforge.json,Scoopforge/Extras-CN
 wifi-crack-tool.json,Scoopforge/Extras-CN
 phpstudy-lagecy-scoop_Scoopforge.json,Scoopforge/Extras-CN
 dingtalk.json,Scoopforge/Extras-CN
@@ -4511,6 +4511,7 @@ witchblast.json,Calinou/scoop-games
 bgb.json,Calinou/scoop-games
 speed-dreams.json,Calinou/scoop-games
 steam-game-idler.json,Calinou/scoop-games
+perfect-dark.json,Calinou/scoop-games
 xenia-canary.json,Calinou/scoop-games
 quake-injector.json,Calinou/scoop-games
 q2pro.json,Calinou/scoop-games
@@ -4523,7 +4524,7 @@ alephone-marathon-trilogy.json,Calinou/scoop-games
 game-backup-monitor.json,Calinou/scoop-games
 xemu.json,Calinou/scoop-games
 rgbds.json,Calinou/scoop-games
-hmcl.json,Calinou/scoop-games
+hmcl_Calinou.json,Calinou/scoop-games
 nugget-doom.json,Calinou/scoop-games
 teeworlds.json,Calinou/scoop-games
 azahar.json,Calinou/scoop-games
@@ -10056,7 +10057,6 @@ zephyr-portable.json,DoveBoy/Apps
 qtunblockneteasemusic.json,DoveBoy/Apps
 flclash_DoveBoy.json,DoveBoy/Apps
 clash-nyanpasu-portable.json,DoveBoy/Apps
-cudatext_DoveBoy.json,DoveBoy/Apps
 bilibilidown_DoveBoy.json,DoveBoy/Apps
 iobit-software-updater.json,DoveBoy/Apps
 v2ray_DoveBoy.json,DoveBoy/Apps
@@ -11959,7 +11959,7 @@ KryptorGUI.json,brian6932/dank-scoop
 linpack-xtreme.json,brian6932/dank-scoop
 bulk-extractor.json,brian6932/dank-scoop
 jointbilateral.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 pwsh-man-highlighting.json,brian6932/dank-scoop
 moonlight-nightly.json,brian6932/dank-scoop
 bcdstore.json,brian6932/dank-scoop
@@ -13383,7 +13383,7 @@ aegisub_aoisummer.json,aoisummer/scoop-bucket
 qbittorrent-enhanced_aoisummer.json,aoisummer/scoop-bucket
 php83-nts.json,aoisummer/scoop-bucket
 php74-nts.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 autoruns_aoisummer.json,aoisummer/scoop-bucket
 ddtv2.json,aoisummer/scoop-bucket
 cinebench20.json,aoisummer/scoop-bucket
@@ -14600,7 +14600,7 @@ n-m3u8dl-cli_maboloshi.json,maboloshi/scoop-private
 FileLocatorPro.json,maboloshi/scoop-private
 RevokeMsgPatcher_maboloshi.json,maboloshi/scoop-private
 clip.json,maboloshi/scoop-private
-microsoftedge-beta.json,maboloshi/scoop-private
+microsoftedge-beta_maboloshi.json,maboloshi/scoop-private
 sarasa-gothic-sc-excerpt.json,maboloshi/scoop-private
 googlechrome-beta_maboloshi.json,maboloshi/scoop-private
 clash-verge-rev_maboloshi.json,maboloshi/scoop-private
