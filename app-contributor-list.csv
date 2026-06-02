@@ -2719,7 +2719,7 @@ diskcheckup.json,ScoopInstaller/Extras
 cuetools.json,ScoopInstaller/Extras
 deluge.json,ScoopInstaller/Extras
 furmark.json,ScoopInstaller/Extras
-waifu2x-extension-gui_ScoopInstaller.json,ScoopInstaller/Extras
+waifu2x-extension-gui.json,ScoopInstaller/Extras
 github.json,ScoopInstaller/Extras
 consolez.json,ScoopInstaller/Extras
 akelpad.json,ScoopInstaller/Extras
@@ -2827,7 +2827,7 @@ vidcutter.json,ScoopInstaller/Extras
 real.json,ScoopInstaller/Extras
 wiztree.json,ScoopInstaller/Extras
 buckets.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 tailblazer.json,ScoopInstaller/Extras
 litedb-studio.json,ScoopInstaller/Extras
 pcem.json,ScoopInstaller/Extras
@@ -5172,6 +5172,7 @@ ruffle-nightly.json,ScoopInstaller/Versions
 zip-beta.json,ScoopInstaller/Versions
 postgresql14.json,ScoopInstaller/Versions
 postgresql13.json,ScoopInstaller/Versions
+buck2-pre.json,ScoopInstaller/Versions
 tesseract4.json,ScoopInstaller/Versions
 ruby32.json,ScoopInstaller/Versions
 elasticsearch5.json,ScoopInstaller/Versions
@@ -8019,7 +8020,7 @@ Iron.json,dodorz/scoop
 Umi-OCR-Rapid.json,dodorz/scoop
 FluentSearch.json,dodorz/scoop
 Echosync.json,dodorz/scoop
-Notepad3_dodorz.json,dodorz/scoop
+Notepad3.json,dodorz/scoop
 Qoder.json,dodorz/scoop
 DeltaCopy.json,dodorz/scoop
 CMsort.json,dodorz/scoop
@@ -9395,6 +9396,7 @@ qpdf_akirco.json,akirco/aki-apps
 highlight_akirco.json,akirco/aki-apps
 nircmd_akirco.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
+bilibili-livehime.json,akirco/aki-apps
 wechat-work.json,akirco/aki-apps
 Qoder.json,akirco/aki-apps
 tar_akirco.json,akirco/aki-apps
@@ -9752,7 +9754,7 @@ dark_DoveBoy.json,DoveBoy/Apps
 lan-mouse_DoveBoy.json,DoveBoy/Apps
 zy-player_DoveBoy.json,DoveBoy/Apps
 bililive-tools-portable.json,DoveBoy/Apps
-rustdesk_DoveBoy.json,DoveBoy/Apps
+rustdesk.json,DoveBoy/Apps
 vivetool_DoveBoy.json,DoveBoy/Apps
 any-listen-desktop-legacy.json,DoveBoy/Apps
 handbrake-cli_DoveBoy.json,DoveBoy/Apps
@@ -10437,7 +10439,7 @@ ruffle.json,DoveBoy/Apps
 wxdatviewerautoexportrust.json,DoveBoy/Apps
 animeko-pre.json,DoveBoy/Apps
 posh-git_DoveBoy.json,DoveBoy/Apps
-v2rayn_DoveBoy.json,DoveBoy/Apps
+v2rayn.json,DoveBoy/Apps
 onlyoffice-desktopeditors_DoveBoy.json,DoveBoy/Apps
 pot-desktop_DoveBoy.json,DoveBoy/Apps
 cloc_DoveBoy.json,DoveBoy/Apps
@@ -11959,7 +11961,7 @@ KryptorGUI.json,brian6932/dank-scoop
 linpack-xtreme.json,brian6932/dank-scoop
 bulk-extractor.json,brian6932/dank-scoop
 jointbilateral.json,brian6932/dank-scoop
-mpv-git_brian6932.json,brian6932/dank-scoop
+mpv-git.json,brian6932/dank-scoop
 pwsh-man-highlighting.json,brian6932/dank-scoop
 moonlight-nightly.json,brian6932/dank-scoop
 bcdstore.json,brian6932/dank-scoop
@@ -13503,7 +13505,7 @@ nomacs_cc713.json,cc713/ownscoop
 bililive-go_cc713.json,cc713/ownscoop
 OpenHashTab_cc713.json,cc713/ownscoop
 contextmenumanager_cc713.json,cc713/ownscoop
-subtitleedit_cc713.json,cc713/ownscoop
+subtitleedit.json,cc713/ownscoop
 cpu-z-cn.json,cc713/ownscoop
 foobox-cn.json,cc713/ownscoop
 qimgv-dev.json,cc713/ownscoop
