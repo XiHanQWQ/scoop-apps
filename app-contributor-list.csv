@@ -2827,7 +2827,7 @@ vidcutter.json,ScoopInstaller/Extras
 real.json,ScoopInstaller/Extras
 wiztree.json,ScoopInstaller/Extras
 buckets.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 tailblazer.json,ScoopInstaller/Extras
 litedb-studio.json,ScoopInstaller/Extras
 pcem.json,ScoopInstaller/Extras
@@ -9398,7 +9398,7 @@ highlight_akirco.json,akirco/aki-apps
 nircmd_akirco.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
 wechat-work.json,akirco/aki-apps
-Qoder.json,akirco/aki-apps
+Qoder_akirco.json,akirco/aki-apps
 tar_akirco.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
 php_akirco.json,akirco/aki-apps
@@ -9687,7 +9687,7 @@ confettysh.json,charmbracelet/scoop-bucket
 markscribe.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 clash_everyx.json,everyx/scoop-bucket
 SourceHanSerifTW.json,everyx/scoop-bucket
 clash-premium.json,everyx/scoop-bucket
@@ -9995,7 +9995,6 @@ binggpt.json,DoveBoy/Apps
 batterymode-portable.json,DoveBoy/Apps
 clickrun.json,DoveBoy/Apps
 pandaocrpro_DoveBoy.json,DoveBoy/Apps
-transmission_DoveBoy.json,DoveBoy/Apps
 unblockneteasemusic-git.json,DoveBoy/Apps
 retrieval-based-voice-conversion-webui.json,DoveBoy/Apps
 repairbadtweaks.json,DoveBoy/Apps
@@ -14460,7 +14459,7 @@ qemu_HUMORCE.json,HUMORCE/nuke
 sandboxie-plus_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP-hebrew.json,HUMORCE/nuke
 firefox_HUMORCE.json,HUMORCE/nuke
-ruffle-nightly_HUMORCE.json,HUMORCE/nuke
+ruffle-nightly.json,HUMORCE/nuke
 gdu_HUMORCE.json,HUMORCE/nuke
 telegram_HUMORCE.json,HUMORCE/nuke
 xpdf-tools_HUMORCE.json,HUMORCE/nuke
