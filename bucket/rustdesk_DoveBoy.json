@@ -1,28 +1,29 @@
 {
     "version": "1.4.7",
-    "description": "RustDesk. An open-source remote desktop software, written in Rust.",
+    "description": "An open-source remote desktop software, written in Rust.",
     "homepage": "https://github.com/rustdesk/rustdesk",
-    "license": "GPL-3.0-only",
-    "changelog": "https://github.com/rustdesk/rustdesk/releases",
+    "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
             "url": "https://github.com/rustdesk/rustdesk/releases/download/1.4.7/rustdesk-1.4.7-x86_64.exe",
-            "hash": "d3af4216c653e6ac0a98810dc59080ea26fb03045b79dbb6f859f3c954402c9f"
+            "hash": "ff8eef0acc727da21a5acc78be1d1b80511ac72042973b8e69b6db3eb689457d"
         },
         "32bit": {
             "url": "https://github.com/rustdesk/rustdesk/releases/download/1.4.7/rustdesk-1.4.7-x86-sciter.exe",
-            "hash": "b64a0b75678678e9bf7c501c5eed24005a5814f8d8cac6b6b67df973a03de22d"
+            "hash": "7aa45b7e36eea945dc3b7f8d4f397bb3ba598ab0c05e21157043c21b0c99697b"
         }
     },
     "shortcuts": [
         [
-            "rustdesk.exe",
+            "RustDesk.exe",
             "RustDesk"
         ]
     ],
-    "bin": "rustdesk.exe",
-    "pre_install": "Get-ChildItem \"$dir\" 'rustdesk-*.exe' | Select-Object -First 1 | Rename-Item -NewName 'rustdesk.exe'",
-    "checkver": "github",
+    "pre_install": "Get-ChildItem \"$dir\" 'rustdesk-*.exe' | Select-Object -First 1 | Rename-Item -NewName 'RustDesk.exe'",
+    "checkver": {
+        "url": "https://github.com/rustdesk/rustdesk/releases",
+        "regex": "/releases/tag/([\\d.]+)"
+    },
     "autoupdate": {
         "architecture": {
             "64bit": {
