@@ -2869,7 +2869,7 @@ hibit-startup-manager.json,ScoopInstaller/Extras
 legcord.json,ScoopInstaller/Extras
 cru.json,ScoopInstaller/Extras
 figma.json,ScoopInstaller/Extras
-g-helper_ScoopInstaller.json,ScoopInstaller/Extras
+g-helper.json,ScoopInstaller/Extras
 meshlab.json,ScoopInstaller/Extras
 lokalise2.json,ScoopInstaller/Extras
 gcc-aarch64-none-linux-gnu.json,ScoopInstaller/Extras
@@ -3230,7 +3230,7 @@ readest.json,ScoopInstaller/Extras
 ldplayer.json,ScoopInstaller/Extras
 speedyfox.json,ScoopInstaller/Extras
 folge.json,ScoopInstaller/Extras
-vscode_ScoopInstaller.json,ScoopInstaller/Extras
+vscode.json,ScoopInstaller/Extras
 dnsjumper.json,ScoopInstaller/Extras
 mpc-hc.json,ScoopInstaller/Extras
 yapa2.json,ScoopInstaller/Extras
@@ -6392,7 +6392,7 @@ xt800agent.json,scoopcn/scoopcn
 we-meet.json,scoopcn/scoopcn
 kugou.json,scoopcn/scoopcn
 kwmusic.json,scoopcn/scoopcn
-feishu_scoopcn.json,scoopcn/scoopcn
+feishu.json,scoopcn/scoopcn
 baidudisk.json,scoopcn/scoopcn
 lx-music-desktop_scoopcn.json,scoopcn/scoopcn
 sunlogin.json,scoopcn/scoopcn
@@ -8384,7 +8384,7 @@ EUX.json,dodorz/scoop
 jsdb.json,dodorz/scoop
 Voicebox.json,dodorz/scoop
 BaiduCDP.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 DM2.json,dodorz/scoop
 goawk.json,dodorz/scoop
 sK1.json,dodorz/scoop
@@ -10938,7 +10938,7 @@ microdicom-dicom-viewer.json,amorphobia/siku
 new-isofile.json,amorphobia/siku
 arturo-nightly.json,amorphobia/siku
 minesweeper-arbiter.json,amorphobia/siku
-filebrowser_amorphobia.json,amorphobia/siku
+filebrowser.json,amorphobia/siku
 bark-server-v4.json,amorphobia/siku
 wechatexporter.json,amorphobia/siku
 spim.json,amorphobia/siku
@@ -11961,7 +11961,7 @@ KryptorGUI.json,brian6932/dank-scoop
 linpack-xtreme.json,brian6932/dank-scoop
 bulk-extractor.json,brian6932/dank-scoop
 jointbilateral.json,brian6932/dank-scoop
-mpv-git_brian6932.json,brian6932/dank-scoop
+mpv-git.json,brian6932/dank-scoop
 pwsh-man-highlighting.json,brian6932/dank-scoop
 moonlight-nightly.json,brian6932/dank-scoop
 bcdstore.json,brian6932/dank-scoop
@@ -14333,6 +14333,7 @@ netlimiter-aoks.json,AntonOks/scoop-aoks
 tirith-aoks.json,AntonOks/scoop-aoks
 MailStoreHome-aoks.json,AntonOks/scoop-aoks
 WinfrGUI-aoks.json,AntonOks/scoop-aoks
+localstack_cli-aoks.json,AntonOks/scoop-aoks
 sshfs-win-manager-aoks.json,AntonOks/scoop-aoks
 wait4x-aoks.json,AntonOks/scoop-aoks
 desktopOK-aoks.json,AntonOks/scoop-aoks
@@ -14397,7 +14398,6 @@ boundary-desktop-aoks.json,AntonOks/scoop-aoks
 surrealdb-aoks.json,AntonOks/scoop-aoks
 gitnote-aoks.json,AntonOks/scoop-aoks
 questdb-aoks.json,AntonOks/scoop-aoks
-Git-Credential-Manager-for-Windows-aoks.json,AntonOks/scoop-aoks
 vcpkg-aoks.json,AntonOks/scoop-aoks
 setacl-aoks.json,AntonOks/scoop-aoks
 readeck-aoks.json,AntonOks/scoop-aoks
@@ -14459,7 +14459,7 @@ qemu_HUMORCE.json,HUMORCE/nuke
 sandboxie-plus_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP-hebrew.json,HUMORCE/nuke
 firefox_HUMORCE.json,HUMORCE/nuke
-ruffle-nightly.json,HUMORCE/nuke
+ruffle-nightly_HUMORCE.json,HUMORCE/nuke
 gdu_HUMORCE.json,HUMORCE/nuke
 telegram_HUMORCE.json,HUMORCE/nuke
 xpdf-tools_HUMORCE.json,HUMORCE/nuke
