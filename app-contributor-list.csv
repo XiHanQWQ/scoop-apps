@@ -9368,7 +9368,7 @@ typora_akirco.json,akirco/aki-apps
 dyad_akirco.json,akirco/aki-apps
 officetoolplus.json,akirco/aki-apps
 prs_akirco.json,akirco/aki-apps
-bilibili_akirco.json,akirco/aki-apps
+bilibili.json,akirco/aki-apps
 xmind_akirco.json,akirco/aki-apps
 wrangler_akirco.json,akirco/aki-apps
 instaloader.json,akirco/aki-apps
@@ -9400,7 +9400,7 @@ highlight_akirco.json,akirco/aki-apps
 nircmd_akirco.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
 wechat-work.json,akirco/aki-apps
-Qoder.json,akirco/aki-apps
+Qoder_akirco.json,akirco/aki-apps
 tar_akirco.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
 php_akirco.json,akirco/aki-apps
@@ -10940,7 +10940,7 @@ microdicom-dicom-viewer.json,amorphobia/siku
 new-isofile.json,amorphobia/siku
 arturo-nightly.json,amorphobia/siku
 minesweeper-arbiter.json,amorphobia/siku
-filebrowser_amorphobia.json,amorphobia/siku
+filebrowser.json,amorphobia/siku
 bark-server-v4.json,amorphobia/siku
 wechatexporter.json,amorphobia/siku
 spim.json,amorphobia/siku
@@ -12791,7 +12791,6 @@ lemon_ChungZH.json,ChungZH/peach
 apkstudio.json,ChungZH/peach
 runjs_ChungZH.json,ChungZH/peach
 swifty.json,ChungZH/peach
-buildkit_iquiw.json,iquiw/scoop-bucket
 ledger.json,iquiw/scoop-bucket
 ghc96.json,iquiw/scoop-bucket
 emacs30-tree-sitter-module.json,iquiw/scoop-bucket
@@ -16050,7 +16049,7 @@ pnpm_LaelLuo.json,LaelLuo/scoop
 wechat_LaelLuo.json,LaelLuo/scoop
 notion_LaelLuo.json,LaelLuo/scoop
 picacg-qt_LaelLuo.json,LaelLuo/scoop
-qoderwork_LaelLuo.json,LaelLuo/scoop
+qoderwork.json,LaelLuo/scoop
 utools_LaelLuo.json,LaelLuo/scoop
 codex-flow.json,LaelLuo/scoop
 github-stars-manager.json,LaelLuo/scoop
@@ -16077,15 +16076,16 @@ open-pencil.json,LaelLuo/scoop
 claude_LaelLuo.json,LaelLuo/scoop
 easytshark.json,LaelLuo/scoop
 oomol.json,LaelLuo/scoop
-yuanbao_LaelLuo.json,LaelLuo/scoop
+yuanbao.json,LaelLuo/scoop
 workbuddy.json,LaelLuo/scoop
 qoder_LaelLuo.json,LaelLuo/scoop
 bun_LaelLuo.json,LaelLuo/scoop
 feishu_LaelLuo.json,LaelLuo/scoop
 capcut_LaelLuo.json,LaelLuo/scoop
 figma_LaelLuo.json,LaelLuo/scoop
-trae-cn_LaelLuo.json,LaelLuo/scoop
+trae-cn.json,LaelLuo/scoop
 virtual-browser.json,LaelLuo/scoop
+oh-my-pi_LaelLuo.json,LaelLuo/scoop
 cherry-studio_LaelLuo.json,LaelLuo/scoop
 aionui_LaelLuo.json,LaelLuo/scoop
 crossdesk_LaelLuo.json,LaelLuo/scoop

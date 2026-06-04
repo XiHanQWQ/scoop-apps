@@ -1,51 +1,31 @@
 {
-    "version": "2.1.10",
-    "description": "Transform your command-line AI agent into a modern, efficient AI chat interface.",
-    "homepage": "https://www.aionui.com/",
-    "license": "Apache-2.0",
+    "version": "15.9.0",
+    "description": "终端优先的 AI 编码代理，内置文件编辑、搜索、浏览器、子代理与会话能力",
+    "homepage": "https://omp.sh/",
+    "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/iOfficeAI/AionUi/releases/download/v2.1.10/AionUi-2.1.10-win-x64.exe#/dl.7z",
-            "hash": "sha512:ba2cef0673a8a5677f44068f3eda6fc20e621ec1a796a46c403afedf1f5897cb67b08768e9147037eba4eff64dba7bde032d6d3846af6995c7e151fdddc1af7e",
-            "pre_install": [
-                "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
-                "Remove-Item \"$dir\\`$*\", \"$dir\\Uninstall*\" -Recurse -ErrorAction SilentlyContinue"
-            ]
-        },
-        "arm64": {
-            "url": "https://github.com/iOfficeAI/AionUi/releases/download/v2.1.10/AionUi-2.1.10-win-arm64.exe#/dl.7z",
-            "hash": "sha512:cce102def95c7a187017311e9d7536e16ae12e2561e68ee235b4f58fcc1f65f1e1055893cde719428acfc3ec40660d9e32ebde6963d91939725e00df10cdbbc4",
-            "pre_install": [
-                "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-arm64.7z\" \"$dir\"",
-                "Remove-Item \"$dir\\`$*\", \"$dir\\Uninstall*\" -Recurse -ErrorAction SilentlyContinue"
-            ]
+            "url": "https://github.com/can1357/oh-my-pi/releases/download/v15.9.0/omp-windows-x64.exe",
+            "hash": "648620c86df140d3bf0596c7533a0358dfa1bf893d10d528d449b5e66348c6e8"
         }
     },
-    "shortcuts": [
+    "bin": [
         [
-            "AionUi.exe",
-            "AionUi"
+            "omp-windows-x64.exe",
+            "omp"
         ]
     ],
-    "persist": "data",
+    "notes": [
+        "OMP 在 Windows 上完整使用通常需要 bash shell。建议安装 git 以提供 Git Bash。",
+        "如果未自动识别 bash，可在 ~/.omp/agent/settings.json 中设置 shellPath。"
+    ],
     "checkver": {
-        "github": "https://github.com/iOfficeAI/AionUi"
+        "github": "https://github.com/can1357/oh-my-pi"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/iOfficeAI/AionUi/releases/download/v$version/AionUi-$version-win-x64.exe#/dl.7z",
-                "hash": {
-                    "url": "$baseurl/latest.yml",
-                    "regex": "sha512:\\s+$base64"
-                }
-            },
-            "arm64": {
-                "url": "https://github.com/iOfficeAI/AionUi/releases/download/v$version/AionUi-$version-win-arm64.exe#/dl.7z",
-                "hash": {
-                    "url": "$baseurl/latest-win-arm64.yml",
-                    "regex": "sha512:\\s+$base64"
-                }
+                "url": "https://github.com/can1357/oh-my-pi/releases/download/v$version/omp-windows-x64.exe"
             }
         }
     },
@@ -187,8 +167,7 @@
         "}",
         "#endregion",
         "Invoke-PortableMappings -Action Install -Context @{ Dir = $dir; PersistDir = $persist_dir } -Mappings @(",
-        "    @{ Label = 'roaming'; Source = 'AppData/AionUi'; Target = \"$persist_dir/roaming\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' },",
-        "    @{ Label = 'updater'; Source = 'LocalAppData/aionui-updater'; Target = \"$persist_dir/local/aionui-updater\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'file' }",
+        "    @{ Label = 'home-omp'; Source = 'UserProfile/.omp'; Target = \"$persist_dir/home/.omp\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' }",
         ") -Log:$true"
     ],
     "pre_uninstall": [
@@ -329,8 +308,7 @@
         "}",
         "#endregion",
         "Invoke-PortableMappings -Action Uninstall -Context @{ Dir = $dir; PersistDir = $persist_dir } -Mappings @(",
-        "    @{ Label = 'roaming'; Source = 'AppData/AionUi'; Target = \"$persist_dir/roaming\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' },",
-        "    @{ Label = 'updater'; Source = 'LocalAppData/aionui-updater'; Target = \"$persist_dir/local/aionui-updater\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'file' }",
+        "    @{ Label = 'home-omp'; Source = 'UserProfile/.omp'; Target = \"$persist_dir/home/.omp\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' }",
         ") -Log:$true"
     ]
 }
