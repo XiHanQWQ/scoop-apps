@@ -2869,7 +2869,7 @@ hibit-startup-manager.json,ScoopInstaller/Extras
 legcord.json,ScoopInstaller/Extras
 cru.json,ScoopInstaller/Extras
 figma.json,ScoopInstaller/Extras
-g-helper.json,ScoopInstaller/Extras
+g-helper_ScoopInstaller.json,ScoopInstaller/Extras
 meshlab.json,ScoopInstaller/Extras
 lokalise2.json,ScoopInstaller/Extras
 gcc-aarch64-none-linux-gnu.json,ScoopInstaller/Extras
@@ -3230,7 +3230,7 @@ readest.json,ScoopInstaller/Extras
 ldplayer.json,ScoopInstaller/Extras
 speedyfox.json,ScoopInstaller/Extras
 folge.json,ScoopInstaller/Extras
-vscode.json,ScoopInstaller/Extras
+vscode_ScoopInstaller.json,ScoopInstaller/Extras
 dnsjumper.json,ScoopInstaller/Extras
 mpc-hc.json,ScoopInstaller/Extras
 yapa2.json,ScoopInstaller/Extras
@@ -4233,7 +4233,7 @@ jianying-pro.json,Scoopforge/Extras-CN
 tencent-meeting.json,Scoopforge/Extras-CN
 neteasemusic_Scoopforge.json,Scoopforge/Extras-CN
 retain-pdf.json,Scoopforge/Extras-CN
-feishu.json,Scoopforge/Extras-CN
+feishu_Scoopforge.json,Scoopforge/Extras-CN
 quickbib.json,Scoopforge/Extras-CN
 quicker.json,Scoopforge/Extras-CN
 freetex.json,Scoopforge/Extras-CN
@@ -8385,7 +8385,7 @@ EUX.json,dodorz/scoop
 jsdb.json,dodorz/scoop
 Voicebox.json,dodorz/scoop
 BaiduCDP.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 DM2.json,dodorz/scoop
 goawk.json,dodorz/scoop
 sK1.json,dodorz/scoop
@@ -10344,7 +10344,6 @@ potplayer_DoveBoy.json,DoveBoy/Apps
 wechatvideosniffer.json,DoveBoy/Apps
 crossdesk.json,DoveBoy/Apps
 hok_DoveBoy.json,DoveBoy/Apps
-rufus_DoveBoy.json,DoveBoy/Apps
 litespeedtest.json,DoveBoy/Apps
 scoop-completion_DoveBoy.json,DoveBoy/Apps
 jmcomic-downloader-portable.json,DoveBoy/Apps
@@ -10940,7 +10939,7 @@ microdicom-dicom-viewer.json,amorphobia/siku
 new-isofile.json,amorphobia/siku
 arturo-nightly.json,amorphobia/siku
 minesweeper-arbiter.json,amorphobia/siku
-filebrowser.json,amorphobia/siku
+filebrowser_amorphobia.json,amorphobia/siku
 bark-server-v4.json,amorphobia/siku
 wechatexporter.json,amorphobia/siku
 spim.json,amorphobia/siku
@@ -11963,7 +11962,7 @@ KryptorGUI.json,brian6932/dank-scoop
 linpack-xtreme.json,brian6932/dank-scoop
 bulk-extractor.json,brian6932/dank-scoop
 jointbilateral.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 pwsh-man-highlighting.json,brian6932/dank-scoop
 moonlight-nightly.json,brian6932/dank-scoop
 bcdstore.json,brian6932/dank-scoop
@@ -13389,7 +13388,7 @@ aegisub_aoisummer.json,aoisummer/scoop-bucket
 qbittorrent-enhanced_aoisummer.json,aoisummer/scoop-bucket
 php83-nts.json,aoisummer/scoop-bucket
 php74-nts.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 autoruns_aoisummer.json,aoisummer/scoop-bucket
 ddtv2.json,aoisummer/scoop-bucket
 cinebench20.json,aoisummer/scoop-bucket
