@@ -1901,7 +1901,7 @@ hack-font.json,ScoopInstaller/Extras
 tsukimi.json,ScoopInstaller/Extras
 everything-powertoys.json,ScoopInstaller/Extras
 pyzo.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 qmk-toolbox.json,ScoopInstaller/Extras
 simplenote.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -3054,6 +3054,7 @@ crystaldiskinfo.json,ScoopInstaller/Extras
 blink1control2.json,ScoopInstaller/Extras
 virgo.json,ScoopInstaller/Extras
 heynote.json,ScoopInstaller/Extras
+nip4.json,ScoopInstaller/Extras
 tumblthree.json,ScoopInstaller/Extras
 mozlz4.json,ScoopInstaller/Extras
 lark.json,ScoopInstaller/Extras
@@ -9778,7 +9779,7 @@ pdfarranger_DoveBoy.json,DoveBoy/Apps
 gpg_DoveBoy.json,DoveBoy/Apps
 mapdownload.json,DoveBoy/Apps
 imfile.json,DoveBoy/Apps
-karing_DoveBoy.json,DoveBoy/Apps
+karing.json,DoveBoy/Apps
 quasar_DoveBoy.json,DoveBoy/Apps
 officetoolplus_DoveBoy.json,DoveBoy/Apps
 nssm_DoveBoy.json,DoveBoy/Apps
@@ -11962,7 +11963,7 @@ KryptorGUI.json,brian6932/dank-scoop
 linpack-xtreme.json,brian6932/dank-scoop
 bulk-extractor.json,brian6932/dank-scoop
 jointbilateral.json,brian6932/dank-scoop
-mpv-git_brian6932.json,brian6932/dank-scoop
+mpv-git.json,brian6932/dank-scoop
 pwsh-man-highlighting.json,brian6932/dank-scoop
 moonlight-nightly.json,brian6932/dank-scoop
 bcdstore.json,brian6932/dank-scoop
@@ -12466,6 +12467,7 @@ tropy.json,Scoopforge/Extras-Plus
 musicat.json,Scoopforge/Extras-Plus
 jigdo.json,Scoopforge/Extras-Plus
 veracrypt.json,Scoopforge/Extras-Plus
+hermes-desktop.json,Scoopforge/Extras-Plus
 landrop-latest.json,Scoopforge/Extras-Plus
 ecopaste_Scoopforge.json,Scoopforge/Extras-Plus
 bitcomet_Scoopforge.json,Scoopforge/Extras-Plus
@@ -12479,7 +12481,6 @@ bananas.json,Scoopforge/Extras-Plus
 stirlingpdf.json,Scoopforge/Extras-Plus
 zlibrary.json,Scoopforge/Extras-Plus
 pdf4qt.json,Scoopforge/Extras-Plus
-alist-helper.json,Scoopforge/Extras-Plus
 navicat-premium-lite.json,Scoopforge/Extras-Plus
 buzz_Scoopforge.json,Scoopforge/Extras-Plus
 fancywm.json,Scoopforge/Extras-Plus
@@ -15787,6 +15788,7 @@ pasteex_Locietta.json,Locietta/sniffer
 llvm_Locietta.json,Locietta/sniffer
 xanmod-WSL2-skylake.json,Locietta/sniffer
 xanmod-WSL2-lts.json,Locietta/sniffer
+uutils-coreutils_Locietta.json,Locietta/sniffer
 xanmod-WSL2-addons-lts-zen3.json,Locietta/sniffer
 vulkansdk.json,Locietta/sniffer
 notepad4_Locietta.json,Locietta/sniffer
@@ -15798,6 +15800,7 @@ xanmod-WSL2-addons-zen3.json,Locietta/sniffer
 hmcl_Locietta.json,Locietta/sniffer
 xanmod-WSL2-addons-lts-skylake.json,Locietta/sniffer
 dxc_Locietta.json,Locietta/sniffer
+uutils-findutils_Locietta.json,Locietta/sniffer
 multi-frp.json,Locietta/sniffer
 wireguard-np_Locietta.json,Locietta/sniffer
 ygomaster.json,Locietta/sniffer
@@ -16110,7 +16113,6 @@ mcp-router_LaelLuo.json,LaelLuo/scoop
 lm-studio_LaelLuo.json,LaelLuo/scoop
 reqable_LaelLuo.json,LaelLuo/scoop
 anytype_LaelLuo.json,LaelLuo/scoop
-codex-rust_LaelLuo.json,LaelLuo/scoop
 qq-nt_LaelLuo.json,LaelLuo/scoop
 open-pencil_LaelLuo.json,LaelLuo/scoop
 claude_LaelLuo.json,LaelLuo/scoop
