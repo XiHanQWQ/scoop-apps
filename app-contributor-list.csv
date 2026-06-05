@@ -2827,7 +2827,7 @@ vidcutter.json,ScoopInstaller/Extras
 real.json,ScoopInstaller/Extras
 wiztree.json,ScoopInstaller/Extras
 buckets.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 tailblazer.json,ScoopInstaller/Extras
 litedb-studio.json,ScoopInstaller/Extras
 pcem.json,ScoopInstaller/Extras
@@ -4210,7 +4210,7 @@ autotyper.json,Scoopforge/Extras-CN
 ting-de.json,Scoopforge/Extras-CN
 clash-mi.json,Scoopforge/Extras-CN
 evcapture.json,Scoopforge/Extras-CN
-lceda-pro.json,Scoopforge/Extras-CN
+lceda-pro_Scoopforge.json,Scoopforge/Extras-CN
 wifi-crack-tool.json,Scoopforge/Extras-CN
 phpstudy-lagecy-scoop_Scoopforge.json,Scoopforge/Extras-CN
 dingtalk.json,Scoopforge/Extras-CN
@@ -8707,6 +8707,7 @@ Speex.json,dodorz/scoop
 Comate.json,dodorz/scoop
 BestTrace.json,dodorz/scoop
 tslt.json,dodorz/scoop
+KimiCode.json,dodorz/scoop
 clink-gizmos.json,dodorz/scoop
 Story-writer.json,dodorz/scoop
 Umi-OCR1-All-Language.json,dodorz/scoop
@@ -9368,7 +9369,7 @@ typora_akirco.json,akirco/aki-apps
 dyad_akirco.json,akirco/aki-apps
 officetoolplus.json,akirco/aki-apps
 prs_akirco.json,akirco/aki-apps
-bilibili.json,akirco/aki-apps
+bilibili_akirco.json,akirco/aki-apps
 xmind_akirco.json,akirco/aki-apps
 wrangler_akirco.json,akirco/aki-apps
 instaloader.json,akirco/aki-apps
@@ -10283,6 +10284,7 @@ chatbox_DoveBoy.json,DoveBoy/Apps
 perl_DoveBoy.json,DoveBoy/Apps
 lessmsi_DoveBoy.json,DoveBoy/Apps
 python-tab-completion.json,DoveBoy/Apps
+electerm_DoveBoy.json,DoveBoy/Apps
 cleanmywechat.json,DoveBoy/Apps
 cloudreve-beta.json,DoveBoy/Apps
 clianpro.json,DoveBoy/Apps
@@ -10940,7 +10942,7 @@ microdicom-dicom-viewer.json,amorphobia/siku
 new-isofile.json,amorphobia/siku
 arturo-nightly.json,amorphobia/siku
 minesweeper-arbiter.json,amorphobia/siku
-filebrowser.json,amorphobia/siku
+filebrowser_amorphobia.json,amorphobia/siku
 bark-server-v4.json,amorphobia/siku
 wechatexporter.json,amorphobia/siku
 spim.json,amorphobia/siku
@@ -11963,7 +11965,7 @@ KryptorGUI.json,brian6932/dank-scoop
 linpack-xtreme.json,brian6932/dank-scoop
 bulk-extractor.json,brian6932/dank-scoop
 jointbilateral.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 pwsh-man-highlighting.json,brian6932/dank-scoop
 moonlight-nightly.json,brian6932/dank-scoop
 bcdstore.json,brian6932/dank-scoop
@@ -12099,6 +12101,7 @@ akochan-reviewer.json,ygguorun/scoop-bucket
 LyricTools.json,ygguorun/scoop-bucket
 TextLocator_ygguorun.json,ygguorun/scoop-bucket
 youdaodict.json,ygguorun/scoop-bucket
+paseo.json,ygguorun/scoop-bucket
 COMTool.json,ygguorun/scoop-bucket
 DotNetVersions.json,ygguorun/scoop-bucket
 jpfont-nds.json,ygguorun/scoop-bucket
@@ -14669,7 +14672,7 @@ n-m3u8dl-cli_maboloshi.json,maboloshi/scoop-private
 FileLocatorPro.json,maboloshi/scoop-private
 RevokeMsgPatcher_maboloshi.json,maboloshi/scoop-private
 clip.json,maboloshi/scoop-private
-microsoftedge-beta.json,maboloshi/scoop-private
+microsoftedge-beta_maboloshi.json,maboloshi/scoop-private
 sarasa-gothic-sc-excerpt.json,maboloshi/scoop-private
 googlechrome-beta_maboloshi.json,maboloshi/scoop-private
 clash-verge-rev_maboloshi.json,maboloshi/scoop-private
@@ -15639,7 +15642,7 @@ cursor_LaelLuo.json,LaelLuo/scoop
 code-nexus.json,LaelLuo/scoop
 autoglm.json,LaelLuo/scoop
 cunzhi.json,LaelLuo/scoop
-droid.json,LaelLuo/scoop
+droid_LaelLuo.json,LaelLuo/scoop
 kiro_LaelLuo.json,LaelLuo/scoop
 moonbit_LaelLuo.json,LaelLuo/scoop
 pnpm_LaelLuo.json,LaelLuo/scoop
@@ -15816,7 +15819,7 @@ JetBrainsMono_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 naotu.json,ShuguangSun/sgs-scoop-bucket
 LXGWWenKaiMono_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 r-4.5.0.json,ShuguangSun/sgs-scoop-bucket
-micromamba.json,ShuguangSun/sgs-scoop-bucket
+micromamba_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 busybox_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 r-4.1.3.json,ShuguangSun/sgs-scoop-bucket
 python312_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
