@@ -2827,7 +2827,7 @@ vidcutter.json,ScoopInstaller/Extras
 real.json,ScoopInstaller/Extras
 wiztree.json,ScoopInstaller/Extras
 buckets.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 tailblazer.json,ScoopInstaller/Extras
 litedb-studio.json,ScoopInstaller/Extras
 pcem.json,ScoopInstaller/Extras
@@ -8675,7 +8675,7 @@ BareGrep_dodorz.json,dodorz/scoop
 Umi-OCR1-DLC-Language.json,dodorz/scoop
 FileMany.json,dodorz/scoop
 lsd_dodorz.json,dodorz/scoop
-Notepad--.json,dodorz/scoop
+Notepad--_dodorz.json,dodorz/scoop
 Metapad.json,dodorz/scoop
 icdiff.json,dodorz/scoop
 RegistryWorkshop-zh-cn.json,dodorz/scoop
@@ -10284,7 +10284,6 @@ chatbox_DoveBoy.json,DoveBoy/Apps
 perl_DoveBoy.json,DoveBoy/Apps
 lessmsi_DoveBoy.json,DoveBoy/Apps
 python-tab-completion.json,DoveBoy/Apps
-electerm_DoveBoy.json,DoveBoy/Apps
 cleanmywechat.json,DoveBoy/Apps
 cloudreve-beta.json,DoveBoy/Apps
 clianpro.json,DoveBoy/Apps
@@ -12318,7 +12317,7 @@ gat.json,aliesbelik/poldi
 gokey.json,aliesbelik/poldi
 hulak.json,aliesbelik/poldi
 flog.json,aliesbelik/poldi
-trdsql.json,aliesbelik/poldi
+trdsql_aliesbelik.json,aliesbelik/poldi
 dcv.json,aliesbelik/poldi
 yatto.json,aliesbelik/poldi
 assh.json,aliesbelik/poldi
@@ -15598,7 +15597,7 @@ pnpm_LaelLuo.json,LaelLuo/scoop
 wechat_LaelLuo.json,LaelLuo/scoop
 notion_LaelLuo.json,LaelLuo/scoop
 picacg-qt_LaelLuo.json,LaelLuo/scoop
-qoderwork.json,LaelLuo/scoop
+qoderwork_LaelLuo.json,LaelLuo/scoop
 utools_LaelLuo.json,LaelLuo/scoop
 codex-flow.json,LaelLuo/scoop
 github-stars-manager.json,LaelLuo/scoop
