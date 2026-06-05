@@ -8276,6 +8276,7 @@ FreeVD.json,dodorz/scoop
 QuickHash.json,dodorz/scoop
 SetSFN.json,dodorz/scoop
 ElevatedStartup.json,dodorz/scoop
+zot.json,dodorz/scoop
 Lingoes.json,dodorz/scoop
 K-Meleon.json,dodorz/scoop
 NpackdCL.json,dodorz/scoop
@@ -8386,7 +8387,7 @@ EUX.json,dodorz/scoop
 jsdb.json,dodorz/scoop
 Voicebox.json,dodorz/scoop
 BaiduCDP.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 DM2.json,dodorz/scoop
 goawk.json,dodorz/scoop
 sK1.json,dodorz/scoop
@@ -9004,7 +9005,7 @@ siyuan.json,ViCrack/scoop-bucket
 reality.json,ViCrack/scoop-bucket
 verycapture.json,ViCrack/scoop-bucket
 ztasker.json,ViCrack/scoop-bucket
-yakit_ViCrack.json,ViCrack/scoop-bucket
+yakit.json,ViCrack/scoop-bucket
 confuserex-gui.json,ViCrack/scoop-bucket
 1remote.json,ViCrack/scoop-bucket
 behinder_ViCrack.json,ViCrack/scoop-bucket
@@ -10230,6 +10231,7 @@ bestsub.json,DoveBoy/Apps
 douyu.json,DoveBoy/Apps
 gnupg_DoveBoy.json,DoveBoy/Apps
 dreamcreator-portable.json,DoveBoy/Apps
+libreoffice_DoveBoy.json,DoveBoy/Apps
 screenbroadcaster-net8.json,DoveBoy/Apps
 scoop-backup-knoxdev.json,DoveBoy/Apps
 pastebarapp.json,DoveBoy/Apps
@@ -10254,6 +10256,7 @@ lsar.json,DoveBoy/Apps
 refreshenv_DoveBoy.json,DoveBoy/Apps
 diskgenius_DoveBoy.json,DoveBoy/Apps
 calctus.json,DoveBoy/Apps
+forkgram_DoveBoy.json,DoveBoy/Apps
 neteasemusic_DoveBoy.json,DoveBoy/Apps
 kotatogram_DoveBoy.json,DoveBoy/Apps
 ripgrep_DoveBoy.json,DoveBoy/Apps
@@ -12691,7 +12694,7 @@ sonic-pi_batkiz.json,batkiz/backit
 revive.json,batkiz/backit
 less-windows.json,batkiz/backit
 pdm.json,batkiz/backit
-markra_batkiz.json,batkiz/backit
+markra.json,batkiz/backit
 fsql_batkiz.json,batkiz/backit
 muffet_batkiz.json,batkiz/backit
 fscan.json,batkiz/backit
