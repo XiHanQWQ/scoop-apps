@@ -1451,7 +1451,7 @@ kubevpn.json,ScoopInstaller/Extras
 postman.json,ScoopInstaller/Extras
 quiterss.json,ScoopInstaller/Extras
 choeazycopy.json,ScoopInstaller/Extras
-sourcetree_ScoopInstaller.json,ScoopInstaller/Extras
+sourcetree.json,ScoopInstaller/Extras
 appbuster.json,ScoopInstaller/Extras
 integerscaler.json,ScoopInstaller/Extras
 wexond.json,ScoopInstaller/Extras
@@ -9005,13 +9005,13 @@ siyuan.json,ViCrack/scoop-bucket
 reality.json,ViCrack/scoop-bucket
 verycapture.json,ViCrack/scoop-bucket
 ztasker.json,ViCrack/scoop-bucket
-yakit.json,ViCrack/scoop-bucket
+yakit_ViCrack.json,ViCrack/scoop-bucket
 confuserex-gui.json,ViCrack/scoop-bucket
 1remote.json,ViCrack/scoop-bucket
 behinder_ViCrack.json,ViCrack/scoop-bucket
 chatlab.json,ViCrack/scoop-bucket
 suo5_ViCrack.json,ViCrack/scoop-bucket
-apifox.json,ViCrack/scoop-bucket
+apifox_ViCrack.json,ViCrack/scoop-bucket
 kscan_ViCrack.json,ViCrack/scoop-bucket
 PowerRun.json,ViCrack/scoop-bucket
 feishurevokemsgpatcher_ViCrack.json,ViCrack/scoop-bucket
@@ -10231,7 +10231,6 @@ bestsub.json,DoveBoy/Apps
 douyu.json,DoveBoy/Apps
 gnupg_DoveBoy.json,DoveBoy/Apps
 dreamcreator-portable.json,DoveBoy/Apps
-libreoffice_DoveBoy.json,DoveBoy/Apps
 screenbroadcaster-net8.json,DoveBoy/Apps
 scoop-backup-knoxdev.json,DoveBoy/Apps
 pastebarapp.json,DoveBoy/Apps
@@ -10256,7 +10255,6 @@ lsar.json,DoveBoy/Apps
 refreshenv_DoveBoy.json,DoveBoy/Apps
 diskgenius_DoveBoy.json,DoveBoy/Apps
 calctus.json,DoveBoy/Apps
-forkgram_DoveBoy.json,DoveBoy/Apps
 neteasemusic_DoveBoy.json,DoveBoy/Apps
 kotatogram_DoveBoy.json,DoveBoy/Apps
 ripgrep_DoveBoy.json,DoveBoy/Apps
@@ -12694,7 +12692,7 @@ sonic-pi_batkiz.json,batkiz/backit
 revive.json,batkiz/backit
 less-windows.json,batkiz/backit
 pdm.json,batkiz/backit
-markra.json,batkiz/backit
+markra_batkiz.json,batkiz/backit
 fsql_batkiz.json,batkiz/backit
 muffet_batkiz.json,batkiz/backit
 fscan.json,batkiz/backit
