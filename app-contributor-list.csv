@@ -1901,7 +1901,7 @@ hack-font.json,ScoopInstaller/Extras
 tsukimi.json,ScoopInstaller/Extras
 everything-powertoys.json,ScoopInstaller/Extras
 pyzo.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 qmk-toolbox.json,ScoopInstaller/Extras
 simplenote.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -8628,7 +8628,7 @@ fmedia_dodorz.json,dodorz/scoop
 XVI32.json,dodorz/scoop
 jcode_dodorz.json,dodorz/scoop
 ecode.json,dodorz/scoop
-PixPin_dodorz.json,dodorz/scoop
+PixPin.json,dodorz/scoop
 winpty-msys2.json,dodorz/scoop
 MarkdownViewer.json,dodorz/scoop
 vDosPlus.json,dodorz/scoop
@@ -9701,7 +9701,7 @@ confettysh.json,charmbracelet/scoop-bucket
 markscribe.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 clash_everyx.json,everyx/scoop-bucket
 SourceHanSerifTW.json,everyx/scoop-bucket
 clash-premium.json,everyx/scoop-bucket
@@ -11731,7 +11731,7 @@ zotero-np.json,WinApps-share/WinApps-bucket
 directx-repair.json,WinApps-share/WinApps-bucket
 everything_WinApps-share.json,WinApps-share/WinApps-bucket
 pdfgear_WinApps-share.json,WinApps-share/WinApps-bucket
-pixpin.json,WinApps-share/WinApps-bucket
+pixpin_WinApps-share.json,WinApps-share/WinApps-bucket
 office-tool-plus_WinApps-share.json,WinApps-share/WinApps-bucket
 altserver.json,WinApps-share/WinApps-bucket
 piclist.json,WinApps-share/WinApps-bucket
@@ -12206,7 +12206,6 @@ brows.json,aliesbelik/poldi
 termora.json,aliesbelik/poldi
 naabu_aliesbelik.json,aliesbelik/poldi
 dblab.json,aliesbelik/poldi
-websocat_aliesbelik.json,aliesbelik/poldi
 gonzo.json,aliesbelik/poldi
 dstp.json,aliesbelik/poldi
 tfsort.json,aliesbelik/poldi
@@ -12233,6 +12232,7 @@ tlrc_aliesbelik.json,aliesbelik/poldi
 ov_aliesbelik.json,aliesbelik/poldi
 karing_aliesbelik.json,aliesbelik/poldi
 jo_aliesbelik.json,aliesbelik/poldi
+websocat_aliesbelik.json,aliesbelik/poldi
 restfox_aliesbelik.json,aliesbelik/poldi
 bandwhich_aliesbelik.json,aliesbelik/poldi
 bombardier_aliesbelik.json,aliesbelik/poldi
@@ -12252,6 +12252,7 @@ tcping_aliesbelik.json,aliesbelik/poldi
 fresh_aliesbelik.json,aliesbelik/poldi
 tailspin_aliesbelik.json,aliesbelik/poldi
 doggo_aliesbelik.json,aliesbelik/poldi
+trdsql_aliesbelik.json,aliesbelik/poldi
 riff_aliesbelik.json,aliesbelik/poldi
 taplo_aliesbelik.json,aliesbelik/poldi
 lazysql_aliesbelik.json,aliesbelik/poldi
@@ -12328,7 +12329,6 @@ gat.json,aliesbelik/poldi
 gokey.json,aliesbelik/poldi
 hulak.json,aliesbelik/poldi
 flog.json,aliesbelik/poldi
-trdsql_aliesbelik.json,aliesbelik/poldi
 dcv.json,aliesbelik/poldi
 yatto.json,aliesbelik/poldi
 assh.json,aliesbelik/poldi
@@ -12346,6 +12346,7 @@ hey.json,aliesbelik/poldi
 gojq.json,aliesbelik/poldi
 kubewall.json,aliesbelik/poldi
 werf-v2.json,aliesbelik/poldi
+t-req.json,aliesbelik/poldi
 sqluv.json,aliesbelik/poldi
 helmify.json,aliesbelik/poldi
 kcli.json,aliesbelik/poldi
