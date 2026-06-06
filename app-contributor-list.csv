@@ -1901,7 +1901,7 @@ hack-font.json,ScoopInstaller/Extras
 tsukimi.json,ScoopInstaller/Extras
 everything-powertoys.json,ScoopInstaller/Extras
 pyzo.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 qmk-toolbox.json,ScoopInstaller/Extras
 simplenote.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -4243,7 +4243,7 @@ navicat-premium-lite-cn.json,Scoopforge/Extras-CN
 cnkiexpress.json,Scoopforge/Extras-CN
 edrawmax.json,Scoopforge/Extras-CN
 dashplayer.json,Scoopforge/Extras-CN
-baidunetdisk.json,Scoopforge/Extras-CN
+baidunetdisk_Scoopforge.json,Scoopforge/Extras-CN
 miniforge-cn.json,Scoopforge/Extras-CN
 partition-assistant.json,Scoopforge/Extras-CN
 cockpit-tools.json,Scoopforge/Extras-CN
@@ -8628,7 +8628,7 @@ fmedia_dodorz.json,dodorz/scoop
 XVI32.json,dodorz/scoop
 jcode_dodorz.json,dodorz/scoop
 ecode.json,dodorz/scoop
-PixPin.json,dodorz/scoop
+PixPin_dodorz.json,dodorz/scoop
 winpty-msys2.json,dodorz/scoop
 MarkdownViewer.json,dodorz/scoop
 vDosPlus.json,dodorz/scoop
@@ -9701,7 +9701,7 @@ confettysh.json,charmbracelet/scoop-bucket
 markscribe.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 clash_everyx.json,everyx/scoop-bucket
 SourceHanSerifTW.json,everyx/scoop-bucket
 clash-premium.json,everyx/scoop-bucket
@@ -15653,7 +15653,7 @@ cursor_LaelLuo.json,LaelLuo/scoop
 code-nexus.json,LaelLuo/scoop
 autoglm.json,LaelLuo/scoop
 cunzhi.json,LaelLuo/scoop
-droid.json,LaelLuo/scoop
+droid_LaelLuo.json,LaelLuo/scoop
 kiro_LaelLuo.json,LaelLuo/scoop
 moonbit_LaelLuo.json,LaelLuo/scoop
 pnpm_LaelLuo.json,LaelLuo/scoop
