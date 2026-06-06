@@ -7929,7 +7929,6 @@ EvilPlayer.json,dodorz/scoop
 HTMLNotepad.json,dodorz/scoop
 XPShutdown.json,dodorz/scoop
 MP4Tools.json,dodorz/scoop
-IronClaw_dodorz.json,dodorz/scoop
 GetWindowText.json,dodorz/scoop
 IndexYourFiles.json,dodorz/scoop
 Jupyterlab.json,dodorz/scoop
@@ -8151,7 +8150,6 @@ Sysquake.json,dodorz/scoop
 jump.json,dodorz/scoop
 KeyTone.json,dodorz/scoop
 Whisper-cpp-blas.json,dodorz/scoop
-diffnav_dodorz.json,dodorz/scoop
 AdguardHome_dodorz.json,dodorz/scoop
 PngOptimizerCL.json,dodorz/scoop
 SetWallpaper.json,dodorz/scoop
@@ -8626,7 +8624,6 @@ single-file.json,dodorz/scoop
 WriteMonkey.json,dodorz/scoop
 fmedia_dodorz.json,dodorz/scoop
 XVI32.json,dodorz/scoop
-jcode_dodorz.json,dodorz/scoop
 ecode.json,dodorz/scoop
 PixPin_dodorz.json,dodorz/scoop
 winpty-msys2.json,dodorz/scoop
@@ -9116,7 +9113,7 @@ notepad--_ViCrack.json,ViCrack/scoop-bucket
 edx.json,ViCrack/scoop-bucket
 katana_ViCrack.json,ViCrack/scoop-bucket
 RegConverter.json,ViCrack/scoop-bucket
-cherry-studio_ViCrack.json,ViCrack/scoop-bucket
+cherry-studio.json,ViCrack/scoop-bucket
 7z-build-nsis.json,ViCrack/scoop-bucket
 reqstress.json,ViCrack/scoop-bucket
 screentogif_ViCrack.json,ViCrack/scoop-bucket
@@ -10952,7 +10949,7 @@ microdicom-dicom-viewer.json,amorphobia/siku
 new-isofile.json,amorphobia/siku
 arturo-nightly.json,amorphobia/siku
 minesweeper-arbiter.json,amorphobia/siku
-filebrowser_amorphobia.json,amorphobia/siku
+filebrowser.json,amorphobia/siku
 bark-server-v4.json,amorphobia/siku
 wechatexporter.json,amorphobia/siku
 spim.json,amorphobia/siku
