@@ -1451,7 +1451,7 @@ kubevpn.json,ScoopInstaller/Extras
 postman.json,ScoopInstaller/Extras
 quiterss.json,ScoopInstaller/Extras
 choeazycopy.json,ScoopInstaller/Extras
-sourcetree.json,ScoopInstaller/Extras
+sourcetree_ScoopInstaller.json,ScoopInstaller/Extras
 appbuster.json,ScoopInstaller/Extras
 integerscaler.json,ScoopInstaller/Extras
 wexond.json,ScoopInstaller/Extras
@@ -8397,7 +8397,7 @@ EUX.json,dodorz/scoop
 jsdb.json,dodorz/scoop
 Voicebox.json,dodorz/scoop
 BaiduCDP.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 DM2.json,dodorz/scoop
 goawk.json,dodorz/scoop
 sK1.json,dodorz/scoop
@@ -10473,7 +10473,7 @@ openoffice_DoveBoy.json,DoveBoy/Apps
 omniget.json,DoveBoy/Apps
 sniffnet_DoveBoy.json,DoveBoy/Apps
 pwsh_DoveBoy.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 7zip-beta_DoveBoy.json,DoveBoy/Apps
 clash-rev-compatible-go120.json,DoveBoy/Apps
 speedtest-go_DoveBoy.json,DoveBoy/Apps
@@ -11975,7 +11975,7 @@ KryptorGUI.json,brian6932/dank-scoop
 linpack-xtreme.json,brian6932/dank-scoop
 bulk-extractor.json,brian6932/dank-scoop
 jointbilateral.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 pwsh-man-highlighting.json,brian6932/dank-scoop
 moonlight-nightly.json,brian6932/dank-scoop
 bcdstore.json,brian6932/dank-scoop
@@ -13440,7 +13440,7 @@ aegisub_aoisummer.json,aoisummer/scoop-bucket
 qbittorrent-enhanced_aoisummer.json,aoisummer/scoop-bucket
 php83-nts.json,aoisummer/scoop-bucket
 php74-nts.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 autoruns_aoisummer.json,aoisummer/scoop-bucket
 ddtv2.json,aoisummer/scoop-bucket
 cinebench20.json,aoisummer/scoop-bucket
@@ -15653,7 +15653,7 @@ cursor_LaelLuo.json,LaelLuo/scoop
 code-nexus.json,LaelLuo/scoop
 autoglm.json,LaelLuo/scoop
 cunzhi.json,LaelLuo/scoop
-droid_LaelLuo.json,LaelLuo/scoop
+droid.json,LaelLuo/scoop
 kiro_LaelLuo.json,LaelLuo/scoop
 moonbit_LaelLuo.json,LaelLuo/scoop
 pnpm_LaelLuo.json,LaelLuo/scoop
