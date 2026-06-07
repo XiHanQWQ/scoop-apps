@@ -354,6 +354,7 @@ shion.json,Weidows-projects/scoop-3rd
 wwgjx-portable.json,Weidows-projects/scoop-3rd
 chrome-power-app.json,Weidows-projects/scoop-3rd
 bilibili-backup.json,Weidows-projects/scoop-3rd
+hermes-desktop-portable.json,Weidows-projects/scoop-3rd
 SD-LoRA-Manager.json,Weidows-projects/scoop-3rd
 bw_add_sshkeys.json,Weidows-projects/scoop-3rd
 vscode.json,Weidows-projects/scoop-3rd
@@ -4211,7 +4212,6 @@ ting-de.json,Scoopforge/Extras-CN
 clash-mi.json,Scoopforge/Extras-CN
 evcapture.json,Scoopforge/Extras-CN
 lceda-pro_Scoopforge.json,Scoopforge/Extras-CN
-wifi-crack-tool.json,Scoopforge/Extras-CN
 phpstudy-lagecy-scoop_Scoopforge.json,Scoopforge/Extras-CN
 dingtalk.json,Scoopforge/Extras-CN
 yuque_Scoopforge.json,Scoopforge/Extras-CN
@@ -6389,6 +6389,7 @@ cloudmusic.json,scoopcn/scoopcn
 procmon.json,scoopcn/scoopcn
 locaspace.json,scoopcn/scoopcn
 3dtile.json,scoopcn/scoopcn
+dingtalk_scoopcn.json,scoopcn/scoopcn
 ynote.json,scoopcn/scoopcn
 wps.json,scoopcn/scoopcn
 wxwork.json,scoopcn/scoopcn
@@ -8673,7 +8674,7 @@ md5.json,dodorz/scoop
 boxcutter.json,dodorz/scoop
 tkdiff.json,dodorz/scoop
 YeahWrite.json,dodorz/scoop
-QQMusic.json,dodorz/scoop
+QQMusic_dodorz.json,dodorz/scoop
 MediaCoder.json,dodorz/scoop
 TCC-LE.json,dodorz/scoop
 sqlite-gui-no-ciphers.json,dodorz/scoop
@@ -9875,7 +9876,7 @@ sumatrapdf-installer_DoveBoy.json,DoveBoy/Apps
 tidyos.json,DoveBoy/Apps
 shadowsocks_DoveBoy.json,DoveBoy/Apps
 tageditor_DoveBoy.json,DoveBoy/Apps
-sandboxie-plus_DoveBoy.json,DoveBoy/Apps
+sandboxie-plus.json,DoveBoy/Apps
 gopeed-portable.json,DoveBoy/Apps
 mpv-lazy.json,DoveBoy/Apps
 auto-unlocker.json,DoveBoy/Apps
@@ -9924,7 +9925,7 @@ sandboxie-classic.json,DoveBoy/Apps
 nvm-completion.json,DoveBoy/Apps
 waveterm_DoveBoy.json,DoveBoy/Apps
 ciyue.json,DoveBoy/Apps
-malware-patch.json,DoveBoy/Apps
+malware-patch_DoveBoy.json,DoveBoy/Apps
 eartrumpet_DoveBoy.json,DoveBoy/Apps
 go-music-dl.json,DoveBoy/Apps
 baidupanfilestransfers_DoveBoy.json,DoveBoy/Apps
@@ -10737,7 +10738,7 @@ cdnlookup.json,hu3rror/scoop-muggle
 cyberchef_hu3rror.json,hu3rror/scoop-muggle
 lapce_hu3rror.json,hu3rror/scoop-muggle
 cloudmusic-green.json,hu3rror/scoop-muggle
-goldendict-ng.json,hu3rror/scoop-muggle
+goldendict-ng_hu3rror.json,hu3rror/scoop-muggle
 MiSans.json,hu3rror/scoop-muggle
 mosdns_hu3rror.json,hu3rror/scoop-muggle
 umi-ocr-paddle_hu3rror.json,hu3rror/scoop-muggle
@@ -10765,7 +10766,7 @@ k2pdfopt.json,hu3rror/scoop-muggle
 scoop-backup-KNOXDEV_hu3rror.json,hu3rror/scoop-muggle
 mp3tag_hu3rror.json,hu3rror/scoop-muggle
 imagine_hu3rror.json,hu3rror/scoop-muggle
-ainiee.json,hu3rror/scoop-muggle
+ainiee_hu3rror.json,hu3rror/scoop-muggle
 sizer_hu3rror.json,hu3rror/scoop-muggle
 limitpng.json,hu3rror/scoop-muggle
 steamplusplus-legacy.json,hu3rror/scoop-muggle
@@ -11326,7 +11327,7 @@ iwck_amorphobia.json,amorphobia/siku
 uip.json,amorphobia/siku
 rabbit-nightly.json,amorphobia/siku
 qqplayer_amorphobia.json,amorphobia/siku
-ddns-go.json,amorphobia/siku
+ddns-go_amorphobia.json,amorphobia/siku
 smartzip_amorphobia.json,amorphobia/siku
 aget-rs.json,amorphobia/siku
 parallels-client.json,amorphobia/siku
@@ -11367,7 +11368,7 @@ microdicom-dicom-viewer.json,amorphobia/siku
 new-isofile.json,amorphobia/siku
 arturo-nightly.json,amorphobia/siku
 minesweeper-arbiter.json,amorphobia/siku
-filebrowser_amorphobia.json,amorphobia/siku
+filebrowser.json,amorphobia/siku
 bark-server-v4.json,amorphobia/siku
 wechatexporter.json,amorphobia/siku
 spim.json,amorphobia/siku
@@ -12158,7 +12159,7 @@ worsttrace.json,ygguorun/scoop-bucket
 CefDetectorX_ygguorun.json,ygguorun/scoop-bucket
 gaojitools.json,ygguorun/scoop-bucket
 FileMonitor.json,ygguorun/scoop-bucket
-fishing-funds.json,ygguorun/scoop-bucket
+fishing-funds_ygguorun.json,ygguorun/scoop-bucket
 sonixd_ygguorun.json,ygguorun/scoop-bucket
 OneCommander_ygguorun.json,ygguorun/scoop-bucket
 LinkShellExtension_ygguorun.json,ygguorun/scoop-bucket
@@ -12478,7 +12479,6 @@ ytdownloader_Scoopforge.json,Scoopforge/Extras-Plus
 cap.json,Scoopforge/Extras-Plus
 tropy.json,Scoopforge/Extras-Plus
 musicat.json,Scoopforge/Extras-Plus
-jigdo.json,Scoopforge/Extras-Plus
 veracrypt.json,Scoopforge/Extras-Plus
 hermes-desktop.json,Scoopforge/Extras-Plus
 landrop-latest.json,Scoopforge/Extras-Plus
@@ -14677,7 +14677,7 @@ miktex_maboloshi.json,maboloshi/scoop-private
 fonts-cesi.json,maboloshi/scoop-private
 sublime-text.json,maboloshi/scoop-private
 notepad4_maboloshi.json,maboloshi/scoop-private
-dingtalk.json,maboloshi/scoop-private
+dingtalk_maboloshi.json,maboloshi/scoop-private
 n-m3u8dl-cli_maboloshi.json,maboloshi/scoop-private
 FileLocatorPro.json,maboloshi/scoop-private
 RevokeMsgPatcher_maboloshi.json,maboloshi/scoop-private
@@ -16038,6 +16038,7 @@ totoro.json,Rinkerbel/scooped
 goanime.json,Rinkerbel/scooped
 seanime-denshi-canary.json,Rinkerbel/scooped
 seanime-server.json,Rinkerbel/scooped
+mangayomi.json,Rinkerbel/scooped
 toru.json,Rinkerbel/scooped
 TwitchChannelPointsMiner.json,Rinkerbel/scooped
 steamtokendumper.json,Rinkerbel/scooped
