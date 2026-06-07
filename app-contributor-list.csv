@@ -8395,7 +8395,7 @@ EUX.json,dodorz/scoop
 jsdb.json,dodorz/scoop
 Voicebox.json,dodorz/scoop
 BaiduCDP.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 DM2.json,dodorz/scoop
 goawk.json,dodorz/scoop
 sK1.json,dodorz/scoop
@@ -11365,7 +11365,7 @@ microdicom-dicom-viewer.json,amorphobia/siku
 new-isofile.json,amorphobia/siku
 arturo-nightly.json,amorphobia/siku
 minesweeper-arbiter.json,amorphobia/siku
-filebrowser.json,amorphobia/siku
+filebrowser_amorphobia.json,amorphobia/siku
 bark-server-v4.json,amorphobia/siku
 wechatexporter.json,amorphobia/siku
 spim.json,amorphobia/siku
@@ -11972,7 +11972,7 @@ KryptorGUI.json,brian6932/dank-scoop
 linpack-xtreme.json,brian6932/dank-scoop
 bulk-extractor.json,brian6932/dank-scoop
 jointbilateral.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 pwsh-man-highlighting.json,brian6932/dank-scoop
 moonlight-nightly.json,brian6932/dank-scoop
 bcdstore.json,brian6932/dank-scoop
@@ -13506,7 +13506,7 @@ mpv.net-DW.json,cc713/ownscoop
 ghostscript_cc713.json,cc713/ownscoop
 nekoray.json,cc713/ownscoop
 jpegview-fork_cc713.json,cc713/ownscoop
-zyfun.json,cc713/ownscoop
+zyfun_cc713.json,cc713/ownscoop
 keepass-plugin-KPSimpleBackup.json,cc713/ownscoop
 kiwix_cc713.json,cc713/ownscoop
 Irfanview_cc713.json,cc713/ownscoop
