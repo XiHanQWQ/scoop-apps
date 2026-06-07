@@ -10036,6 +10036,7 @@ bulk-crap-uninstaller_DoveBoy.json,DoveBoy/Apps
 keymousego.json,DoveBoy/Apps
 tldr_DoveBoy.json,DoveBoy/Apps
 serverbox_DoveBoy.json,DoveBoy/Apps
+driverstoreexplorer_DoveBoy.json,DoveBoy/Apps
 nali_DoveBoy.json,DoveBoy/Apps
 littletips.json,DoveBoy/Apps
 fancontrol-net10.0-portable.json,DoveBoy/Apps
@@ -10148,7 +10149,6 @@ chsrc_DoveBoy.json,DoveBoy/Apps
 cmder-full_DoveBoy.json,DoveBoy/Apps
 wechatrealfriends.json,DoveBoy/Apps
 binggpt-portable.json,DoveBoy/Apps
-ntrace-v1.json,DoveBoy/Apps
 dtv.json,DoveBoy/Apps
 text-generation-webui.json,DoveBoy/Apps
 wax.json,DoveBoy/Apps
@@ -10310,6 +10310,7 @@ realesrgan-gui.json,DoveBoy/Apps
 pdfpatcher_DoveBoy.json,DoveBoy/Apps
 zoomit_DoveBoy.json,DoveBoy/Apps
 nanazip_DoveBoy.json,DoveBoy/Apps
+bleachbit_DoveBoy.json,DoveBoy/Apps
 kaf-cli.json,DoveBoy/Apps
 cromite_DoveBoy.json,DoveBoy/Apps
 doc-downloader.json,DoveBoy/Apps
@@ -10440,6 +10441,7 @@ shadowsocksr-hmbsbige-full.json,DoveBoy/Apps
 picacomic-downloader.json,DoveBoy/Apps
 crosspaste.json,DoveBoy/Apps
 freefilesync_DoveBoy.json,DoveBoy/Apps
+ntrace-dev.json,DoveBoy/Apps
 urlfinder.json,DoveBoy/Apps
 lazygit_DoveBoy.json,DoveBoy/Apps
 psreadline_DoveBoy.json,DoveBoy/Apps
@@ -10450,7 +10452,7 @@ ruffle.json,DoveBoy/Apps
 wxdatviewerautoexportrust.json,DoveBoy/Apps
 animeko-pre.json,DoveBoy/Apps
 posh-git_DoveBoy.json,DoveBoy/Apps
-v2rayn_DoveBoy.json,DoveBoy/Apps
+v2rayn.json,DoveBoy/Apps
 onlyoffice-desktopeditors_DoveBoy.json,DoveBoy/Apps
 pot-desktop_DoveBoy.json,DoveBoy/Apps
 cloc_DoveBoy.json,DoveBoy/Apps
