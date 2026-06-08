@@ -8414,7 +8414,7 @@ jot.json,dodorz/scoop
 Wave-Terminal_dodorz.json,dodorz/scoop
 NSMusicS.json,dodorz/scoop
 Rolan.json,dodorz/scoop
-SoloMD.json,dodorz/scoop
+SoloMD_dodorz.json,dodorz/scoop
 SQLiteExpertPro.json,dodorz/scoop
 BomiPlayer.json,dodorz/scoop
 TextLocator.json,dodorz/scoop
@@ -9408,7 +9408,7 @@ highlight_akirco.json,akirco/aki-apps
 nircmd_akirco.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
 wechat-work.json,akirco/aki-apps
-Qoder_akirco.json,akirco/aki-apps
+Qoder.json,akirco/aki-apps
 tar_akirco.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
 php_akirco.json,akirco/aki-apps
@@ -10471,7 +10471,7 @@ openoffice_DoveBoy.json,DoveBoy/Apps
 omniget.json,DoveBoy/Apps
 sniffnet_DoveBoy.json,DoveBoy/Apps
 pwsh_DoveBoy.json,DoveBoy/Apps
-neteaseuu_DoveBoy.json,DoveBoy/Apps
+neteaseuu.json,DoveBoy/Apps
 7zip-beta_DoveBoy.json,DoveBoy/Apps
 clash-rev-compatible-go120.json,DoveBoy/Apps
 speedtest-go_DoveBoy.json,DoveBoy/Apps
@@ -12090,7 +12090,7 @@ aDrive_ygguorun.json,ygguorun/scoop-bucket
 RevokeMsgPatcher_ygguorun.json,ygguorun/scoop-bucket
 simplenotepad.json,ygguorun/scoop-bucket
 copy-translator-rust.json,ygguorun/scoop-bucket
-BaiduNetdisk_ygguorun.json,ygguorun/scoop-bucket
+BaiduNetdisk.json,ygguorun/scoop-bucket
 CefDetector.json,ygguorun/scoop-bucket
 JianYingSRT.json,ygguorun/scoop-bucket
 excel-regex-tool.json,ygguorun/scoop-bucket
@@ -12700,7 +12700,7 @@ sonic-pi_batkiz.json,batkiz/backit
 revive.json,batkiz/backit
 less-windows.json,batkiz/backit
 pdm.json,batkiz/backit
-markra.json,batkiz/backit
+markra_batkiz.json,batkiz/backit
 fsql_batkiz.json,batkiz/backit
 muffet_batkiz.json,batkiz/backit
 fscan.json,batkiz/backit
@@ -12990,7 +12990,7 @@ video2x_seumsc.json,seumsc/scoop-seu
 waifu2x-converter-cpp_seumsc.json,seumsc/scoop-seu
 proxifyre.json,seumsc/scoop-seu
 kindle-previewer.json,seumsc/scoop-seu
-cloudflare-speedtest.json,seumsc/scoop-seu
+cloudflare-speedtest_seumsc.json,seumsc/scoop-seu
 proto.json,seumsc/scoop-seu
 musicdecrypto.json,seumsc/scoop-seu
 autowikibrowser.json,seumsc/scoop-seu
