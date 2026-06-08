@@ -1492,6 +1492,7 @@ caprine.json,ScoopInstaller/Extras
 tad.json,ScoopInstaller/Extras
 mpc-hc-fork.json,ScoopInstaller/Extras
 baka-mplayer.json,ScoopInstaller/Extras
+ferrite.json,ScoopInstaller/Extras
 hydrogen.json,ScoopInstaller/Extras
 freerapid.json,ScoopInstaller/Extras
 garbro.json,ScoopInstaller/Extras
@@ -8522,7 +8523,7 @@ DiagramDesigner.json,dodorz/scoop
 RimageGUI.json,dodorz/scoop
 mpg123-dynamic.json,dodorz/scoop
 FreeMat.json,dodorz/scoop
-Ferrite.json,dodorz/scoop
+Ferrite_dodorz.json,dodorz/scoop
 Nomad.NET.json,dodorz/scoop
 FLVExtract_dodorz.json,dodorz/scoop
 WindowsManager.json,dodorz/scoop
@@ -8753,7 +8754,7 @@ fceux-qt.json,hermanjustnu/scoop-emulators
 hoxs64.json,hermanjustnu/scoop-emulators
 pcsx2_hermanjustnu.json,hermanjustnu/scoop-emulators
 xenia_hermanjustnu.json,hermanjustnu/scoop-emulators
-snes9x-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+snes9x-dev.json,hermanjustnu/scoop-emulators
 flycast_hermanjustnu.json,hermanjustnu/scoop-emulators
 visualboyadvance-m_hermanjustnu.json,hermanjustnu/scoop-emulators
 z26.json,hermanjustnu/scoop-emulators
@@ -12387,6 +12388,7 @@ grpcui.json,aliesbelik/poldi
 spoofdpi.json,aliesbelik/poldi
 bed.json,aliesbelik/poldi
 vi-mongo.json,aliesbelik/poldi
+memtui.json,aliesbelik/poldi
 klog.json,aliesbelik/poldi
 gomi.json,aliesbelik/poldi
 doxx_aliesbelik.json,aliesbelik/poldi
