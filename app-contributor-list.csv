@@ -4190,7 +4190,6 @@ malware-patch.json,Scoopforge/Extras-CN
 revoke-msg-patcher.json,Scoopforge/Extras-CN
 wechatdevtools_Scoopforge.json,Scoopforge/Extras-CN
 tim.json,Scoopforge/Extras-CN
-reader.json,Scoopforge/Extras-CN
 aboboo.json,Scoopforge/Extras-CN
 qt-creator-cn.json,Scoopforge/Extras-CN
 wegame.json,Scoopforge/Extras-CN
@@ -4212,7 +4211,6 @@ ting-de.json,Scoopforge/Extras-CN
 clash-mi.json,Scoopforge/Extras-CN
 evcapture.json,Scoopforge/Extras-CN
 lceda-pro_Scoopforge.json,Scoopforge/Extras-CN
-phpstudy-lagecy-scoop_Scoopforge.json,Scoopforge/Extras-CN
 dingtalk.json,Scoopforge/Extras-CN
 yuque_Scoopforge.json,Scoopforge/Extras-CN
 tts-vue-next.json,Scoopforge/Extras-CN
@@ -4229,8 +4227,8 @@ eudic.json,Scoopforge/Extras-CN
 qqmusic.json,Scoopforge/Extras-CN
 dehelper.json,Scoopforge/Extras-CN
 pixpin.json,Scoopforge/Extras-CN
-regester.json,Scoopforge/Extras-CN
 jianying-pro.json,Scoopforge/Extras-CN
+workbuddy.json,Scoopforge/Extras-CN
 tencent-meeting.json,Scoopforge/Extras-CN
 neteasemusic_Scoopforge.json,Scoopforge/Extras-CN
 retain-pdf.json,Scoopforge/Extras-CN
@@ -8250,7 +8248,7 @@ aardio.json,dodorz/scoop
 Halite.json,dodorz/scoop
 clib.json,dodorz/scoop
 BattleEncoderShirase.json,dodorz/scoop
-WorkBuddy.json,dodorz/scoop
+WorkBuddy_dodorz.json,dodorz/scoop
 iniTool.json,dodorz/scoop
 UnrealCommander.json,dodorz/scoop
 LaTeXDraw.json,dodorz/scoop
@@ -8416,7 +8414,7 @@ jot.json,dodorz/scoop
 Wave-Terminal_dodorz.json,dodorz/scoop
 NSMusicS.json,dodorz/scoop
 Rolan.json,dodorz/scoop
-SoloMD_dodorz.json,dodorz/scoop
+SoloMD.json,dodorz/scoop
 SQLiteExpertPro.json,dodorz/scoop
 BomiPlayer.json,dodorz/scoop
 TextLocator.json,dodorz/scoop
@@ -8547,7 +8545,7 @@ Notepad4-AVX2.json,dodorz/scoop
 Yosoro.json,dodorz/scoop
 pdftk-java.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
-Regester_dodorz.json,dodorz/scoop
+Regester.json,dodorz/scoop
 Oggenc.json,dodorz/scoop
 Jarte.json,dodorz/scoop
 TraeCN.json,dodorz/scoop
@@ -9763,7 +9761,6 @@ varia_DoveBoy.json,DoveBoy/Apps
 tai.json,DoveBoy/Apps
 winhance.json,DoveBoy/Apps
 dark_DoveBoy.json,DoveBoy/Apps
-vlc_DoveBoy.json,DoveBoy/Apps
 lan-mouse_DoveBoy.json,DoveBoy/Apps
 zy-player_DoveBoy.json,DoveBoy/Apps
 bililive-tools-portable.json,DoveBoy/Apps
@@ -9952,7 +9949,7 @@ energystarx.json,DoveBoy/Apps
 bili-cli-rs.json,DoveBoy/Apps
 walk_DoveBoy.json,DoveBoy/Apps
 screencapture_DoveBoy.json,DoveBoy/Apps
-reader_DoveBoy.json,DoveBoy/Apps
+reader.json,DoveBoy/Apps
 go-proxy-bingai.json,DoveBoy/Apps
 b23downloader_DoveBoy.json,DoveBoy/Apps
 vcredist-aio_DoveBoy.json,DoveBoy/Apps
@@ -11080,7 +11077,7 @@ cwtch.json,naderi/scoop-bucket
 hfs_naderi.json,naderi/scoop-bucket
 catsxp.json,naderi/scoop-bucket
 wfc.json,naderi/scoop-bucket
-eudic.json,naderi/scoop-bucket
+eudic_naderi.json,naderi/scoop-bucket
 dnsbench_naderi.json,naderi/scoop-bucket
 writemonkey_naderi.json,naderi/scoop-bucket
 unrar_naderi.json,naderi/scoop-bucket
@@ -11976,7 +11973,7 @@ KryptorGUI.json,brian6932/dank-scoop
 linpack-xtreme.json,brian6932/dank-scoop
 bulk-extractor.json,brian6932/dank-scoop
 jointbilateral.json,brian6932/dank-scoop
-mpv-git_brian6932.json,brian6932/dank-scoop
+mpv-git.json,brian6932/dank-scoop
 pwsh-man-highlighting.json,brian6932/dank-scoop
 moonlight-nightly.json,brian6932/dank-scoop
 bcdstore.json,brian6932/dank-scoop
@@ -12703,7 +12700,7 @@ sonic-pi_batkiz.json,batkiz/backit
 revive.json,batkiz/backit
 less-windows.json,batkiz/backit
 pdm.json,batkiz/backit
-markra_batkiz.json,batkiz/backit
+markra.json,batkiz/backit
 fsql_batkiz.json,batkiz/backit
 muffet_batkiz.json,batkiz/backit
 fscan.json,batkiz/backit
@@ -15637,7 +15634,7 @@ claude_LaelLuo.json,LaelLuo/scoop
 easytshark.json,LaelLuo/scoop
 oomol.json,LaelLuo/scoop
 yuanbao.json,LaelLuo/scoop
-workbuddy.json,LaelLuo/scoop
+workbuddy_LaelLuo.json,LaelLuo/scoop
 qoder_LaelLuo.json,LaelLuo/scoop
 bun_LaelLuo.json,LaelLuo/scoop
 feishu_LaelLuo.json,LaelLuo/scoop

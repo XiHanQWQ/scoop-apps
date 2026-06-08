@@ -1,31 +1,37 @@
 {
-    "version": "15.10.3",
-    "description": "终端优先的 AI 编码代理，内置文件编辑、搜索、浏览器、子代理与会话能力",
-    "homepage": "https://omp.sh/",
-    "license": "MIT",
+    "version": "5.0.2.29916712",
+    "description": "腾讯云代码助手推出的 AI Agent 办公工具，可自主规划并交付多模态复杂任务结果。",
+    "homepage": "https://www.codebuddy.cn/work/",
+    "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/can1357/oh-my-pi/releases/download/v15.10.3/omp-windows-x64.exe",
-            "hash": "1950f0d14983b6b905d83b9cd695f1e2842e037e32309f96309b12cffa0885fc"
+            "url": "https://download.codebuddy.cn/workbuddy/saas/win32-x64-user/WorkBuddy-win32-x64-user-5.0.2.29916712-0ce39ce2.exe",
+            "hash": "6b7dee1399f18240f2cfe1cc6abc0cefcf56f052b297b9b9059fad757751fe56"
         }
     },
+    "innosetup": true,
+    "extract_dir": "{code_GetDestDir}",
     "bin": [
         [
-            "omp-windows-x64.exe",
-            "omp"
+            "bin\\workbuddy.cmd",
+            "workbuddy"
         ]
     ],
-    "notes": [
-        "OMP 在 Windows 上完整使用通常需要 bash shell。建议安装 git 以提供 Git Bash。",
-        "如果未自动识别 bash，可在 ~/.omp/agent/settings.json 中设置 shellPath。"
+    "shortcuts": [
+        [
+            "WorkBuddy.exe",
+            "WorkBuddy"
+        ]
     ],
     "checkver": {
-        "github": "https://github.com/can1357/oh-my-pi"
+        "url": "https://www.codebuddy.cn/v2/update?platform=workbuddy-win32-x64-user",
+        "jsonpath": "$.url",
+        "regex": "(?<url>.*WorkBuddy-win32-x64-user-(?<version>[\\d.]+)-.*\\.exe)"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/can1357/oh-my-pi/releases/download/v$version/omp-windows-x64.exe"
+                "url": "$matchUrl"
             }
         }
     },
@@ -167,7 +173,8 @@
         "}",
         "#endregion",
         "Invoke-PortableMappings -Action Install -Context @{ Dir = $dir; PersistDir = $persist_dir } -Mappings @(",
-        "    @{ Label = 'home-omp'; Source = 'UserProfile/.omp'; Target = \"$persist_dir/home/.omp\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' }",
+        "    @{ Label = 'roaming'; Source = 'AppData/WorkBuddy'; Target = \"$persist_dir/roaming\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' },",
+        "    @{ Label = 'home-config'; Source = 'UserProfile/.workbuddy'; Target = \"$persist_dir/home\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' }",
         ") -Log:$true"
     ],
     "pre_uninstall": [
@@ -308,7 +315,8 @@
         "}",
         "#endregion",
         "Invoke-PortableMappings -Action Uninstall -Context @{ Dir = $dir; PersistDir = $persist_dir } -Mappings @(",
-        "    @{ Label = 'home-omp'; Source = 'UserProfile/.omp'; Target = \"$persist_dir/home/.omp\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' }",
+        "    @{ Label = 'roaming'; Source = 'AppData/WorkBuddy'; Target = \"$persist_dir/roaming\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' },",
+        "    @{ Label = 'home-config'; Source = 'UserProfile/.workbuddy'; Target = \"$persist_dir/home\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' }",
         ") -Log:$true"
     ]
 }
