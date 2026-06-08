@@ -9763,6 +9763,7 @@ varia_DoveBoy.json,DoveBoy/Apps
 tai.json,DoveBoy/Apps
 winhance.json,DoveBoy/Apps
 dark_DoveBoy.json,DoveBoy/Apps
+vlc_DoveBoy.json,DoveBoy/Apps
 lan-mouse_DoveBoy.json,DoveBoy/Apps
 zy-player_DoveBoy.json,DoveBoy/Apps
 bililive-tools-portable.json,DoveBoy/Apps
@@ -10667,7 +10668,7 @@ nattypetester_wzv5.json,wzv5/ScoopBucket
 aliyundrive_wzv5.json,wzv5/ScoopBucket
 lx-music-desktop_wzv5.json,wzv5/ScoopBucket
 vc-ltl.json,wzv5/ScoopBucket
-qqlive.json,wzv5/ScoopBucket
+qqlive_wzv5.json,wzv5/ScoopBucket
 sni.json,wzv5/ScoopBucket
 python_wzv5.json,wzv5/ScoopBucket
 nodejs-bin.json,wzv5/ScoopBucket
@@ -11368,7 +11369,7 @@ microdicom-dicom-viewer.json,amorphobia/siku
 new-isofile.json,amorphobia/siku
 arturo-nightly.json,amorphobia/siku
 minesweeper-arbiter.json,amorphobia/siku
-filebrowser.json,amorphobia/siku
+filebrowser_amorphobia.json,amorphobia/siku
 bark-server-v4.json,amorphobia/siku
 wechatexporter.json,amorphobia/siku
 spim.json,amorphobia/siku
@@ -11975,7 +11976,7 @@ KryptorGUI.json,brian6932/dank-scoop
 linpack-xtreme.json,brian6932/dank-scoop
 bulk-extractor.json,brian6932/dank-scoop
 jointbilateral.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 pwsh-man-highlighting.json,brian6932/dank-scoop
 moonlight-nightly.json,brian6932/dank-scoop
 bcdstore.json,brian6932/dank-scoop
@@ -16038,7 +16039,6 @@ totoro.json,Rinkerbel/scooped
 goanime.json,Rinkerbel/scooped
 seanime-denshi-canary.json,Rinkerbel/scooped
 seanime-server.json,Rinkerbel/scooped
-mangayomi.json,Rinkerbel/scooped
 toru.json,Rinkerbel/scooped
 TwitchChannelPointsMiner.json,Rinkerbel/scooped
 steamtokendumper.json,Rinkerbel/scooped
