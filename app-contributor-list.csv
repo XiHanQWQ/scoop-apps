@@ -4242,7 +4242,7 @@ navicat-premium-lite-cn.json,Scoopforge/Extras-CN
 cnkiexpress.json,Scoopforge/Extras-CN
 edrawmax.json,Scoopforge/Extras-CN
 dashplayer.json,Scoopforge/Extras-CN
-baidunetdisk.json,Scoopforge/Extras-CN
+baidunetdisk_Scoopforge.json,Scoopforge/Extras-CN
 miniforge-cn.json,Scoopforge/Extras-CN
 partition-assistant.json,Scoopforge/Extras-CN
 cockpit-tools.json,Scoopforge/Extras-CN
@@ -9784,8 +9784,9 @@ flyoobe.json,DoveBoy/Apps
 vget.json,DoveBoy/Apps
 twinkle-tray_DoveBoy.json,DoveBoy/Apps
 downkyi_DoveBoy.json,DoveBoy/Apps
+singcast.json,DoveBoy/Apps
 optimizer_DoveBoy.json,DoveBoy/Apps
-typora_DoveBoy.json,DoveBoy/Apps
+typora.json,DoveBoy/Apps
 pdfarranger_DoveBoy.json,DoveBoy/Apps
 gpg_DoveBoy.json,DoveBoy/Apps
 mapdownload.json,DoveBoy/Apps
@@ -10392,7 +10393,6 @@ mrrss-portable.json,DoveBoy/Apps
 starship_DoveBoy.json,DoveBoy/Apps
 pixeval.json,DoveBoy/Apps
 bbdown_DoveBoy.json,DoveBoy/Apps
-clash-for-flutter.json,DoveBoy/Apps
 imfile-portable.json,DoveBoy/Apps
 github-hosts.json,DoveBoy/Apps
 gping_DoveBoy.json,DoveBoy/Apps
@@ -15564,7 +15564,7 @@ cursor_LaelLuo.json,LaelLuo/scoop
 code-nexus.json,LaelLuo/scoop
 autoglm.json,LaelLuo/scoop
 cunzhi.json,LaelLuo/scoop
-droid.json,LaelLuo/scoop
+droid_LaelLuo.json,LaelLuo/scoop
 kiro_LaelLuo.json,LaelLuo/scoop
 moonbit_LaelLuo.json,LaelLuo/scoop
 pnpm_LaelLuo.json,LaelLuo/scoop
