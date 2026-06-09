@@ -9410,6 +9410,7 @@ qpdf_akirco.json,akirco/aki-apps
 highlight_akirco.json,akirco/aki-apps
 nircmd_akirco.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
+bilibili-livehime.json,akirco/aki-apps
 wechat-work.json,akirco/aki-apps
 Qoder.json,akirco/aki-apps
 tar_akirco.json,akirco/aki-apps
@@ -10074,6 +10075,7 @@ zephyr-portable.json,DoveBoy/Apps
 qtunblockneteasemusic.json,DoveBoy/Apps
 flclash_DoveBoy.json,DoveBoy/Apps
 clash-nyanpasu-portable.json,DoveBoy/Apps
+cudatext_DoveBoy.json,DoveBoy/Apps
 bilibilidown_DoveBoy.json,DoveBoy/Apps
 iobit-software-updater.json,DoveBoy/Apps
 v2ray_DoveBoy.json,DoveBoy/Apps
@@ -10454,7 +10456,7 @@ ruffle.json,DoveBoy/Apps
 wxdatviewerautoexportrust.json,DoveBoy/Apps
 animeko-pre.json,DoveBoy/Apps
 posh-git_DoveBoy.json,DoveBoy/Apps
-v2rayn.json,DoveBoy/Apps
+v2rayn_DoveBoy.json,DoveBoy/Apps
 onlyoffice-desktopeditors_DoveBoy.json,DoveBoy/Apps
 pot-desktop_DoveBoy.json,DoveBoy/Apps
 cloc_DoveBoy.json,DoveBoy/Apps
@@ -10557,6 +10559,7 @@ kcleaner_DoveBoy.json,DoveBoy/Apps
 raptor_DoveBoy.json,DoveBoy/Apps
 con-terminal_EFLKumo.json,EFLKumo/jam
 tolaria.json,EFLKumo/jam
+flclash_EFLKumo.json,EFLKumo/jam
 googlechrome_EFLKumo.json,EFLKumo/jam
 siyuan-unlock.json,EFLKumo/jam
 signal_EFLKumo.json,EFLKumo/jam
