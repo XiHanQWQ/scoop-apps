@@ -10474,7 +10474,7 @@ openoffice_DoveBoy.json,DoveBoy/Apps
 omniget.json,DoveBoy/Apps
 sniffnet_DoveBoy.json,DoveBoy/Apps
 pwsh_DoveBoy.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 7zip-beta_DoveBoy.json,DoveBoy/Apps
 clash-rev-compatible-go120.json,DoveBoy/Apps
 speedtest-go_DoveBoy.json,DoveBoy/Apps
@@ -11976,7 +11976,7 @@ KryptorGUI.json,brian6932/dank-scoop
 linpack-xtreme.json,brian6932/dank-scoop
 bulk-extractor.json,brian6932/dank-scoop
 jointbilateral.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 pwsh-man-highlighting.json,brian6932/dank-scoop
 moonlight-nightly.json,brian6932/dank-scoop
 bcdstore.json,brian6932/dank-scoop
@@ -13403,7 +13403,7 @@ aegisub_aoisummer.json,aoisummer/scoop-bucket
 qbittorrent-enhanced_aoisummer.json,aoisummer/scoop-bucket
 php83-nts.json,aoisummer/scoop-bucket
 php74-nts.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 autoruns_aoisummer.json,aoisummer/scoop-bucket
 ddtv2.json,aoisummer/scoop-bucket
 cinebench20.json,aoisummer/scoop-bucket
@@ -15564,7 +15564,7 @@ cursor_LaelLuo.json,LaelLuo/scoop
 code-nexus.json,LaelLuo/scoop
 autoglm.json,LaelLuo/scoop
 cunzhi.json,LaelLuo/scoop
-droid_LaelLuo.json,LaelLuo/scoop
+droid.json,LaelLuo/scoop
 kiro_LaelLuo.json,LaelLuo/scoop
 moonbit_LaelLuo.json,LaelLuo/scoop
 pnpm_LaelLuo.json,LaelLuo/scoop
@@ -15584,6 +15584,7 @@ mcp-router_LaelLuo.json,LaelLuo/scoop
 lm-studio_LaelLuo.json,LaelLuo/scoop
 reqable_LaelLuo.json,LaelLuo/scoop
 anytype_LaelLuo.json,LaelLuo/scoop
+codex-rust_LaelLuo.json,LaelLuo/scoop
 qq-nt_LaelLuo.json,LaelLuo/scoop
 open-pencil_LaelLuo.json,LaelLuo/scoop
 claude_LaelLuo.json,LaelLuo/scoop
