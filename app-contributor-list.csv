@@ -1904,7 +1904,7 @@ hack-font.json,ScoopInstaller/Extras
 tsukimi.json,ScoopInstaller/Extras
 everything-powertoys.json,ScoopInstaller/Extras
 pyzo.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 qmk-toolbox.json,ScoopInstaller/Extras
 simplenote.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
@@ -3235,7 +3235,7 @@ readest.json,ScoopInstaller/Extras
 ldplayer.json,ScoopInstaller/Extras
 speedyfox.json,ScoopInstaller/Extras
 folge.json,ScoopInstaller/Extras
-vscode_ScoopInstaller.json,ScoopInstaller/Extras
+vscode.json,ScoopInstaller/Extras
 dnsjumper.json,ScoopInstaller/Extras
 mpc-hc.json,ScoopInstaller/Extras
 yapa2.json,ScoopInstaller/Extras
@@ -10270,6 +10270,7 @@ lsar.json,DoveBoy/Apps
 refreshenv_DoveBoy.json,DoveBoy/Apps
 diskgenius_DoveBoy.json,DoveBoy/Apps
 calctus.json,DoveBoy/Apps
+forkgram_DoveBoy.json,DoveBoy/Apps
 neteasemusic_DoveBoy.json,DoveBoy/Apps
 kotatogram_DoveBoy.json,DoveBoy/Apps
 ripgrep_DoveBoy.json,DoveBoy/Apps
@@ -14691,7 +14692,7 @@ n-m3u8dl-cli_maboloshi.json,maboloshi/scoop-private
 FileLocatorPro.json,maboloshi/scoop-private
 RevokeMsgPatcher_maboloshi.json,maboloshi/scoop-private
 clip.json,maboloshi/scoop-private
-microsoftedge-beta_maboloshi.json,maboloshi/scoop-private
+microsoftedge-beta.json,maboloshi/scoop-private
 sarasa-gothic-sc-excerpt.json,maboloshi/scoop-private
 googlechrome-beta_maboloshi.json,maboloshi/scoop-private
 clash-verge-rev_maboloshi.json,maboloshi/scoop-private
@@ -15574,7 +15575,7 @@ gopherrenewed.json,404NetworkError/scoop-bucket
 startup-timer.json,404NetworkError/scoop-bucket
 winbin2iso.json,404NetworkError/scoop-bucket
 depotdownloader.json,404NetworkError/scoop-bucket
-windowsdesktop-runtime-9.0_404NetworkError.json,404NetworkError/scoop-bucket
+windowsdesktop-runtime-9.0.json,404NetworkError/scoop-bucket
 libation-nightly.json,404NetworkError/scoop-bucket
 usbtreeview-win7.json,404NetworkError/scoop-bucket
 dumpbin.json,404NetworkError/scoop-bucket
