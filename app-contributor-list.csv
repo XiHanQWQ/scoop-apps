@@ -12230,6 +12230,7 @@ s3scanner.json,aliesbelik/poldi
 loggo.json,aliesbelik/poldi
 bartib.json,aliesbelik/poldi
 gickup.json,aliesbelik/poldi
+ghgrab.json,aliesbelik/poldi
 prom2json.json,aliesbelik/poldi
 naabu_aliesbelik.json,aliesbelik/poldi
 gossl.json,aliesbelik/poldi
@@ -15790,7 +15791,7 @@ defineEditor.json,ShuguangSun/sgs-scoop-bucket
 MicrosoftYaHeiMono_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 emacs-pretest.json,ShuguangSun/sgs-scoop-bucket
 micromamba-cn.json,ShuguangSun/sgs-scoop-bucket
-python313.json,ShuguangSun/sgs-scoop-bucket
+python313_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 graphviz_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 r-4.2.0.json,ShuguangSun/sgs-scoop-bucket
 micromamba_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
