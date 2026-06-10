@@ -3235,7 +3235,7 @@ readest.json,ScoopInstaller/Extras
 ldplayer.json,ScoopInstaller/Extras
 speedyfox.json,ScoopInstaller/Extras
 folge.json,ScoopInstaller/Extras
-vscode.json,ScoopInstaller/Extras
+vscode_ScoopInstaller.json,ScoopInstaller/Extras
 dnsjumper.json,ScoopInstaller/Extras
 mpc-hc.json,ScoopInstaller/Extras
 yapa2.json,ScoopInstaller/Extras
@@ -9414,7 +9414,6 @@ qpdf_akirco.json,akirco/aki-apps
 highlight_akirco.json,akirco/aki-apps
 nircmd_akirco.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
-bilibili-livehime.json,akirco/aki-apps
 wechat-work.json,akirco/aki-apps
 Qoder.json,akirco/aki-apps
 tar_akirco.json,akirco/aki-apps
@@ -9625,7 +9624,7 @@ mdbook_akirco.json,akirco/aki-apps
 sayit_akirco.json,akirco/aki-apps
 ollama_akirco.json,akirco/aki-apps
 hwmonitor_akirco.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 gitui_akirco.json,akirco/aki-apps
 dim.json,akirco/aki-apps
 gow_akirco.json,akirco/aki-apps
@@ -10270,7 +10269,6 @@ lsar.json,DoveBoy/Apps
 refreshenv_DoveBoy.json,DoveBoy/Apps
 diskgenius_DoveBoy.json,DoveBoy/Apps
 calctus.json,DoveBoy/Apps
-forkgram_DoveBoy.json,DoveBoy/Apps
 neteasemusic_DoveBoy.json,DoveBoy/Apps
 kotatogram_DoveBoy.json,DoveBoy/Apps
 ripgrep_DoveBoy.json,DoveBoy/Apps
@@ -10480,7 +10478,7 @@ openoffice_DoveBoy.json,DoveBoy/Apps
 omniget.json,DoveBoy/Apps
 sniffnet_DoveBoy.json,DoveBoy/Apps
 pwsh_DoveBoy.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 7zip-beta_DoveBoy.json,DoveBoy/Apps
 clash-rev-compatible-go120.json,DoveBoy/Apps
 speedtest-go_DoveBoy.json,DoveBoy/Apps
@@ -11983,7 +11981,7 @@ KryptorGUI.json,brian6932/dank-scoop
 linpack-xtreme.json,brian6932/dank-scoop
 bulk-extractor.json,brian6932/dank-scoop
 jointbilateral.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 pwsh-man-highlighting.json,brian6932/dank-scoop
 moonlight-nightly.json,brian6932/dank-scoop
 bcdstore.json,brian6932/dank-scoop
@@ -14692,7 +14690,7 @@ n-m3u8dl-cli_maboloshi.json,maboloshi/scoop-private
 FileLocatorPro.json,maboloshi/scoop-private
 RevokeMsgPatcher_maboloshi.json,maboloshi/scoop-private
 clip.json,maboloshi/scoop-private
-microsoftedge-beta.json,maboloshi/scoop-private
+microsoftedge-beta_maboloshi.json,maboloshi/scoop-private
 sarasa-gothic-sc-excerpt.json,maboloshi/scoop-private
 googlechrome-beta_maboloshi.json,maboloshi/scoop-private
 clash-verge-rev_maboloshi.json,maboloshi/scoop-private
@@ -15575,7 +15573,7 @@ gopherrenewed.json,404NetworkError/scoop-bucket
 startup-timer.json,404NetworkError/scoop-bucket
 winbin2iso.json,404NetworkError/scoop-bucket
 depotdownloader.json,404NetworkError/scoop-bucket
-windowsdesktop-runtime-9.0.json,404NetworkError/scoop-bucket
+windowsdesktop-runtime-9.0_404NetworkError.json,404NetworkError/scoop-bucket
 libation-nightly.json,404NetworkError/scoop-bucket
 usbtreeview-win7.json,404NetworkError/scoop-bucket
 dumpbin.json,404NetworkError/scoop-bucket
