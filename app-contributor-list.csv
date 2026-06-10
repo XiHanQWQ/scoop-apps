@@ -8545,7 +8545,7 @@ eMule-community_dodorz.json,dodorz/scoop
 ToothTray.json,dodorz/scoop
 MiniHex.json,dodorz/scoop
 SwitchOff.json,dodorz/scoop
-Trae_dodorz.json,dodorz/scoop
+Trae.json,dodorz/scoop
 LazyTyper.json,dodorz/scoop
 EDX.json,dodorz/scoop
 Notepad4-AVX2.json,dodorz/scoop
@@ -10048,6 +10048,7 @@ nali_DoveBoy.json,DoveBoy/Apps
 littletips.json,DoveBoy/Apps
 fancontrol-net10.0-portable.json,DoveBoy/Apps
 pnpm-tab-completion.json,DoveBoy/Apps
+helium_DoveBoy.json,DoveBoy/Apps
 webcam-on-off_DoveBoy.json,DoveBoy/Apps
 ytdownloader.json,DoveBoy/Apps
 navidrome_DoveBoy.json,DoveBoy/Apps
@@ -10269,6 +10270,7 @@ lsar.json,DoveBoy/Apps
 refreshenv_DoveBoy.json,DoveBoy/Apps
 diskgenius_DoveBoy.json,DoveBoy/Apps
 calctus.json,DoveBoy/Apps
+forkgram_DoveBoy.json,DoveBoy/Apps
 neteasemusic_DoveBoy.json,DoveBoy/Apps
 kotatogram_DoveBoy.json,DoveBoy/Apps
 ripgrep_DoveBoy.json,DoveBoy/Apps
