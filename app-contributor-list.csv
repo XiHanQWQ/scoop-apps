@@ -1794,7 +1794,7 @@ processing.json,ScoopInstaller/Extras
 wxhexeditor.json,ScoopInstaller/Extras
 dosbox-staging.json,ScoopInstaller/Extras
 uninstall-tool.json,ScoopInstaller/Extras
-vscode.json,ScoopInstaller/Extras
+vscode_ScoopInstaller.json,ScoopInstaller/Extras
 nheko.json,ScoopInstaller/Extras
 npiperelay.json,ScoopInstaller/Extras
 syncback.json,ScoopInstaller/Extras
@@ -9743,6 +9743,7 @@ SourceHanSerifTW.json,everyx/scoop-bucket
 clash_everyx.json,everyx/scoop-bucket
 SourceHanSerifCN.json,everyx/scoop-bucket
 mihomo-go120.json,DoveBoy/Apps
+fl-studio-patcher.json,DoveBoy/Apps
 clash-for-windows_DoveBoy.json,DoveBoy/Apps
 bbdown-beta.json,DoveBoy/Apps
 cntv.json,DoveBoy/Apps
@@ -9824,7 +9825,6 @@ mobilecontrolguru.json,DoveBoy/Apps
 litespeedtest.json,DoveBoy/Apps
 v2raya.json,DoveBoy/Apps
 showkeyboard.json,DoveBoy/Apps
-fl-studio-patcher.json,DoveBoy/Apps
 wechatdownload.json,DoveBoy/Apps
 regjump_DoveBoy.json,DoveBoy/Apps
 qq-nt_DoveBoy.json,DoveBoy/Apps
