@@ -1455,7 +1455,7 @@ php-xdebug.json,ScoopInstaller/Extras
 cascadeur.json,ScoopInstaller/Extras
 github.json,ScoopInstaller/Extras
 upsource.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 keepass-plugin-keetheme.json,ScoopInstaller/Extras
 xl-converter.json,ScoopInstaller/Extras
 palemoon.json,ScoopInstaller/Extras
@@ -1795,7 +1795,7 @@ processing.json,ScoopInstaller/Extras
 wxhexeditor.json,ScoopInstaller/Extras
 dosbox-staging.json,ScoopInstaller/Extras
 uninstall-tool.json,ScoopInstaller/Extras
-vscode_ScoopInstaller.json,ScoopInstaller/Extras
+vscode.json,ScoopInstaller/Extras
 nheko.json,ScoopInstaller/Extras
 npiperelay.json,ScoopInstaller/Extras
 syncback.json,ScoopInstaller/Extras
@@ -5391,6 +5391,7 @@ idea-rc.json,ScoopInstaller/Versions
 winpython37.json,ScoopInstaller/Versions
 gradle5.json,ScoopInstaller/Versions
 scala2.json,ScoopInstaller/Versions
+v2rayn-desktop-pre.json,ScoopInstaller/Versions
 edgedriver-dev.json,ScoopInstaller/Versions
 inkscape-dev.json,ScoopInstaller/Versions
 sunshine-pre.json,ScoopInstaller/Versions
@@ -8625,7 +8626,6 @@ MPlayer-sherpya.json,dodorz/scoop
 eSpeak.json,dodorz/scoop
 Mogan.json,dodorz/scoop
 pdftk-java.json,dodorz/scoop
-zk_dodorz.json,dodorz/scoop
 SQLiteExpertPersonal.json,dodorz/scoop
 TCC-LE.json,dodorz/scoop
 Umi-OCR1-All-Language.json,dodorz/scoop
