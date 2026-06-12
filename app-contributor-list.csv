@@ -8531,7 +8531,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -9456,7 +9456,7 @@ oss-browser_akirco.json,akirco/aki-apps
 draw.io_akirco.json,akirco/aki-apps
 figlet_akirco.json,akirco/aki-apps
 uv_akirco.json,akirco/aki-apps
-bilibili.json,akirco/aki-apps
+bilibili_akirco.json,akirco/aki-apps
 cosbrowser_akirco.json,akirco/aki-apps
 rustdesk_akirco.json,akirco/aki-apps
 pwsh_akirco.json,akirco/aki-apps
@@ -10265,7 +10265,6 @@ dtv.json,DoveBoy/Apps
 compresso.json,DoveBoy/Apps
 cmwtat-digital-edition.json,DoveBoy/Apps
 fanqienovel-downloader.json,DoveBoy/Apps
-powertoys_DoveBoy.json,DoveBoy/Apps
 bilibilidown-with-jre.json,DoveBoy/Apps
 motrix_DoveBoy.json,DoveBoy/Apps
 ciyue.json,DoveBoy/Apps
@@ -14578,7 +14577,7 @@ mpc-video-renderer-np.json,404NetworkError/scoop-bucket
 everything-alpha_maboloshi.json,maboloshi/scoop-private
 we-meet_maboloshi.json,maboloshi/scoop-private
 ffmpeg-essentials_maboloshi.json,maboloshi/scoop-private
-microsoftedge-beta.json,maboloshi/scoop-private
+microsoftedge-beta_maboloshi.json,maboloshi/scoop-private
 cmirror.json,maboloshi/scoop-private
 clash-verge-rev_maboloshi.json,maboloshi/scoop-private
 WinEdt11.json,maboloshi/scoop-private
