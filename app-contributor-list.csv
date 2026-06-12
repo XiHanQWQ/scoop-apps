@@ -293,6 +293,7 @@ Sheas-Cealer.json,Weidows-projects/scoop-3rd
 pnpm_Weidows-projects.json,Weidows-projects/scoop-3rd
 ChatBox.json,Weidows-projects/scoop-3rd
 Waifu2x-Extension-GUI.json,Weidows-projects/scoop-3rd
+meetily.json,Weidows-projects/scoop-3rd
 FileTypesMan_Chinese.json,Weidows-projects/scoop-3rd
 Adwaita-for-Steam.json,Weidows-projects/scoop-3rd
 yas.json,Weidows-projects/scoop-3rd
@@ -5526,6 +5527,7 @@ ruby27.json,ScoopInstaller/Versions
 goland-eap.json,ScoopInstaller/Versions
 mingw-winlibs-ucrt-mcf.json,ScoopInstaller/Versions
 maven3.json,ScoopInstaller/Versions
+lua54.json,ScoopInstaller/Versions
 vlc-nightly.json,ScoopInstaller/Versions
 llama.cpp-cu117.json,ScoopInstaller/Versions
 cuda13.3.json,ScoopInstaller/Versions
@@ -8532,7 +8534,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -9082,7 +9084,7 @@ mdut-extend-release.json,ViCrack/scoop-bucket
 confuserex-cli.json,ViCrack/scoop-bucket
 java-echo-generator-release.json,ViCrack/scoop-bucket
 oxideterm.json,ViCrack/scoop-bucket
-yakit_ViCrack.json,ViCrack/scoop-bucket
+yakit.json,ViCrack/scoop-bucket
 cyberapi.json,ViCrack/scoop-bucket
 sublinkpro.json,ViCrack/scoop-bucket
 rad_ViCrack.json,ViCrack/scoop-bucket
@@ -9137,7 +9139,7 @@ fab.json,ViCrack/scoop-bucket
 jar-analyzer_ViCrack.json,ViCrack/scoop-bucket
 gowitness.json,ViCrack/scoop-bucket
 hide-from-uninstall-list.json,ViCrack/scoop-bucket
-newfiletime_ViCrack.json,ViCrack/scoop-bucket
+newfiletime.json,ViCrack/scoop-bucket
 igdm_ViCrack.json,ViCrack/scoop-bucket
 rakshasa.json,ViCrack/scoop-bucket
 xterminal.json,ViCrack/scoop-bucket
@@ -9572,7 +9574,7 @@ vcredist2019.json,akirco/aki-apps
 telegram_akirco.json,akirco/aki-apps
 feishu_akirco.json,akirco/aki-apps
 geekuninstaller_akirco.json,akirco/aki-apps
-Qoder.json,akirco/aki-apps
+Qoder_akirco.json,akirco/aki-apps
 netch_akirco.json,akirco/aki-apps
 z_akirco.json,akirco/aki-apps
 time_akirco.json,akirco/aki-apps
@@ -9989,7 +9991,7 @@ magpie_DoveBoy.json,DoveBoy/Apps
 nano_DoveBoy.json,DoveBoy/Apps
 pikatorrent.json,DoveBoy/Apps
 fancontrol-net10.0-portable.json,DoveBoy/Apps
-v2rayn_DoveBoy.json,DoveBoy/Apps
+v2rayn.json,DoveBoy/Apps
 b0pass.json,DoveBoy/Apps
 tcping_DoveBoy.json,DoveBoy/Apps
 escrcpy-portable.json,DoveBoy/Apps
@@ -10660,7 +10662,7 @@ applicationinspector.json,wzv5/ScoopBucket
 besttrace_wzv5.json,wzv5/ScoopBucket
 winscp_wzv5.json,wzv5/ScoopBucket
 python-doc.json,wzv5/ScoopBucket
-qqlive_wzv5.json,wzv5/ScoopBucket
+qqlive.json,wzv5/ScoopBucket
 aliyundrive_wzv5.json,wzv5/ScoopBucket
 utools_wzv5.json,wzv5/ScoopBucket
 regex-tool.json,wzv5/ScoopBucket
@@ -13003,7 +13005,7 @@ cc-switch_TianXiaTech.json,TianXiaTech/scoop-txt
 iconEase.json,TianXiaTech/scoop-txt
 whisper-cpp_TianXiaTech.json,TianXiaTech/scoop-txt
 mgtv_TianXiaTech.json,TianXiaTech/scoop-txt
-baidunetdisk_TianXiaTech.json,TianXiaTech/scoop-txt
+baidunetdisk.json,TianXiaTech/scoop-txt
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
 neohtop_TianXiaTech.json,TianXiaTech/scoop-txt
 kugou.json,TianXiaTech/scoop-txt
