@@ -4202,7 +4202,7 @@ subrenamer.json,Scoopforge/Extras-CN
 quarkclouddrive.json,Scoopforge/Extras-CN
 vlc-cn.json,Scoopforge/Extras-CN
 douyin.json,Scoopforge/Extras-CN
-baidunetdisk.json,Scoopforge/Extras-CN
+baidunetdisk_Scoopforge.json,Scoopforge/Extras-CN
 m3u8-downloader.json,Scoopforge/Extras-CN
 tts-vue-next.json,Scoopforge/Extras-CN
 retain-pdf.json,Scoopforge/Extras-CN
@@ -10339,7 +10339,7 @@ gui-for-clash_DoveBoy.json,DoveBoy/Apps
 lsar.json,DoveBoy/Apps
 scoop-search-multisource.json,DoveBoy/Apps
 clashtui_DoveBoy.json,DoveBoy/Apps
-treesize.json,DoveBoy/Apps
+treesize_DoveBoy.json,DoveBoy/Apps
 tiny11builder.json,DoveBoy/Apps
 wechatvideosniffer.json,DoveBoy/Apps
 doxx.json,DoveBoy/Apps
@@ -10539,7 +10539,6 @@ vget.json,DoveBoy/Apps
 speedtest-go_DoveBoy.json,DoveBoy/Apps
 hibituninstaller.json,DoveBoy/Apps
 clashmi.json,DoveBoy/Apps
-bulk-crap-uninstaller_DoveBoy.json,DoveBoy/Apps
 mingw_DoveBoy.json,DoveBoy/Apps
 b23downloader-win7.json,DoveBoy/Apps
 pdfpatcher_DoveBoy.json,DoveBoy/Apps
@@ -12457,7 +12456,7 @@ tgpt_aliesbelik.json,aliesbelik/poldi
 tcping-go.json,aliesbelik/poldi
 lazyjira.json,aliesbelik/poldi
 ego.json,aliesbelik/poldi
-filebrowser_aliesbelik.json,aliesbelik/poldi
+filebrowser.json,aliesbelik/poldi
 speedtest-go_aliesbelik.json,aliesbelik/poldi
 termora.json,aliesbelik/poldi
 dlm.json,aliesbelik/poldi
