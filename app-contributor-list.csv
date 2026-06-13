@@ -8255,6 +8255,7 @@ CLCL.json,dodorz/scoop
 MinimumProfitConsole.json,dodorz/scoop
 STDUViewer.json,dodorz/scoop
 Jarte.json,dodorz/scoop
+Velotype.json,dodorz/scoop
 Rem-Empty-Dir.json,dodorz/scoop
 Random.json,dodorz/scoop
 SciHubEVA.json,dodorz/scoop
@@ -8287,6 +8288,7 @@ ContextMenuManager_dodorz.json,dodorz/scoop
 LaunchyQt.json,dodorz/scoop
 pdf2htmlEX.json,dodorz/scoop
 UnstoppableCopier.json,dodorz/scoop
+FastClaw.json,dodorz/scoop
 AppGet.json,dodorz/scoop
 adobe-source-han-serif-tw-fonts.json,dodorz/scoop
 BlueJ.json,dodorz/scoop
@@ -9924,7 +9926,7 @@ final2x.json,DoveBoy/Apps
 qrcp_DoveBoy.json,DoveBoy/Apps
 syncclipboard-beta.json,DoveBoy/Apps
 mediago.json,DoveBoy/Apps
-lan-mouse_DoveBoy.json,DoveBoy/Apps
+lan-mouse.json,DoveBoy/Apps
 cleanmywechat.json,DoveBoy/Apps
 flut-renamer.json,DoveBoy/Apps
 clash-nyanpasu-portable.json,DoveBoy/Apps
@@ -10101,6 +10103,7 @@ driveck.json,DoveBoy/Apps
 fancontrol-net4.8-portable.json,DoveBoy/Apps
 mpv-lazy.json,DoveBoy/Apps
 yasocut.json,DoveBoy/Apps
+optimizerduck.json,DoveBoy/Apps
 unblockneteasemusic.json,DoveBoy/Apps
 aria2_DoveBoy.json,DoveBoy/Apps
 syncthing-beta.json,DoveBoy/Apps
@@ -10279,7 +10282,7 @@ mpv.net-beta_DoveBoy.json,DoveBoy/Apps
 pls.json,DoveBoy/Apps
 alist_DoveBoy.json,DoveBoy/Apps
 psreadlineviextension.json,DoveBoy/Apps
-telegram.json,DoveBoy/Apps
+telegram_DoveBoy.json,DoveBoy/Apps
 flyoobe-classic.json,DoveBoy/Apps
 bililive-tools.json,DoveBoy/Apps
 heu-kms-activator_DoveBoy.json,DoveBoy/Apps
@@ -11402,7 +11405,7 @@ arturo_amorphobia.json,amorphobia/siku
 vmping.json,amorphobia/siku
 pcl2-ce.json,amorphobia/siku
 ipatool_amorphobia.json,amorphobia/siku
-filebrowser_amorphobia.json,amorphobia/siku
+filebrowser.json,amorphobia/siku
 rubick_amorphobia.json,amorphobia/siku
 bcdown.json,amorphobia/siku
 jijidown.json,amorphobia/siku
@@ -12456,7 +12459,7 @@ tgpt_aliesbelik.json,aliesbelik/poldi
 tcping-go.json,aliesbelik/poldi
 lazyjira.json,aliesbelik/poldi
 ego.json,aliesbelik/poldi
-filebrowser.json,aliesbelik/poldi
+filebrowser_aliesbelik.json,aliesbelik/poldi
 speedtest-go_aliesbelik.json,aliesbelik/poldi
 termora.json,aliesbelik/poldi
 dlm.json,aliesbelik/poldi
@@ -12839,6 +12842,7 @@ emacs-tree-sitter-module.json,iquiw/scoop-bucket
 evtx_dump.json,iquiw/scoop-bucket
 password.json,iquiw/scoop-bucket
 hackgennerd.json,iquiw/scoop-bucket
+emacs-pretest.json,iquiw/scoop-bucket
 emacs30-tree-sitter-module-ucrt64.json,iquiw/scoop-bucket
 cinc-auditor.json,iquiw/scoop-bucket
 kubectl-klock.json,iquiw/scoop-bucket
@@ -14909,7 +14913,7 @@ zelda-oot-ultraship.json,Deide/deide-bucket
 athenas-ass-mh4U.json,Deide/deide-bucket
 snes9x_Deide.json,Deide/deide-bucket
 iosevka-ss10.json,KnotUntied/scoop-fonts
-iosevka_KnotUntied.json,KnotUntied/scoop-fonts
+iosevka.json,KnotUntied/scoop-fonts
 courierprime.json,KnotUntied/scoop-fonts
 monaspaceargon.json,KnotUntied/scoop-fonts
 notomusic.json,KnotUntied/scoop-fonts
@@ -15714,7 +15718,7 @@ cmake_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 ark_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 defineEditor.json,ShuguangSun/sgs-scoop-bucket
 MicrosoftYaHeiMono_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-emacs-pretest.json,ShuguangSun/sgs-scoop-bucket
+emacs-pretest_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 micromamba-cn.json,ShuguangSun/sgs-scoop-bucket
 python313_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 graphviz_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
