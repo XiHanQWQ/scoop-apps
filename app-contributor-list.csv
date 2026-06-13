@@ -1796,7 +1796,7 @@ processing.json,ScoopInstaller/Extras
 wxhexeditor.json,ScoopInstaller/Extras
 dosbox-staging.json,ScoopInstaller/Extras
 uninstall-tool.json,ScoopInstaller/Extras
-vscode.json,ScoopInstaller/Extras
+vscode_ScoopInstaller.json,ScoopInstaller/Extras
 nheko.json,ScoopInstaller/Extras
 npiperelay.json,ScoopInstaller/Extras
 dz6.json,ScoopInstaller/Extras
@@ -8535,7 +8535,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
