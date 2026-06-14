@@ -10551,6 +10551,7 @@ go-proxy-bingai.json,DoveBoy/Apps
 idcard-generator.json,DoveBoy/Apps
 p2p.json,DoveBoy/Apps
 wechat_DoveBoy.json,DoveBoy/Apps
+forkgram_DoveBoy.json,DoveBoy/Apps
 biu.json,DoveBoy/Apps
 vutronmusic.json,DoveBoy/Apps
 vivetool_DoveBoy.json,DoveBoy/Apps
@@ -13511,7 +13512,7 @@ mpv-lazy_cc713.json,cc713/ownscoop
 scribus-dev_cc713.json,cc713/ownscoop
 bililive-go_cc713.json,cc713/ownscoop
 lx-music_cc713.json,cc713/ownscoop
-gitextensions_cc713.json,cc713/ownscoop
+gitextensions.json,cc713/ownscoop
 qpdf_cc713.json,cc713/ownscoop
 manuskript_cc713.json,cc713/ownscoop
 GARbro-Mod.json,cc713/ownscoop
