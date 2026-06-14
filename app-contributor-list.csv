@@ -3660,7 +3660,7 @@ winlibs-mingw-msvcrt.json,chawyehsu/dorado
 isaac-save-installer.json,chawyehsu/dorado
 mixin-messenger.json,chawyehsu/dorado
 orwell-dev-cpp.json,chawyehsu/dorado
-llamafile.json,chawyehsu/dorado
+llamafile_chawyehsu.json,chawyehsu/dorado
 officetoolplus.json,chawyehsu/dorado
 ttplayer.json,chawyehsu/dorado
 cyberduck_chawyehsu.json,chawyehsu/dorado
@@ -8537,7 +8537,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -9474,6 +9474,7 @@ tar_akirco.json,akirco/aki-apps
 upscaler.json,akirco/aki-apps
 wkhtmltopdf_akirco.json,akirco/aki-apps
 gitui_akirco.json,akirco/aki-apps
+fluent-reader_akirco.json,akirco/aki-apps
 nu_akirco.json,akirco/aki-apps
 chromium_akirco.json,akirco/aki-apps
 vcredist2013_akirco.json,akirco/aki-apps
@@ -9854,7 +9855,7 @@ nvm-tab-completion.json,DoveBoy/Apps
 gsudo_DoveBoy.json,DoveBoy/Apps
 fancontrol-net4.8.json,DoveBoy/Apps
 aliyunpan_DoveBoy.json,DoveBoy/Apps
-hackbrowserdata_DoveBoy.json,DoveBoy/Apps
+hackbrowserdata.json,DoveBoy/Apps
 youtube-dl_DoveBoy.json,DoveBoy/Apps
 openlist_DoveBoy.json,DoveBoy/Apps
 w64devkit_DoveBoy.json,DoveBoy/Apps
@@ -11549,7 +11550,7 @@ endfield-gacha.json,Small-Ku/turbo-bucket
 stardb-exporter.json,Small-Ku/turbo-bucket
 wintun.json,Small-Ku/turbo-bucket
 kilo-code.json,Small-Ku/turbo-bucket
-ruffle_Small-Ku.json,Small-Ku/turbo-bucket
+ruffle.json,Small-Ku/turbo-bucket
 better-genshin-impact.json,Small-Ku/turbo-bucket
 ddu_Small-Ku.json,Small-Ku/turbo-bucket
 llama-cpp-rocm-gfx110x.json,Small-Ku/turbo-bucket
@@ -13554,7 +13555,7 @@ mpv-lazy_cc713.json,cc713/ownscoop
 scribus-dev_cc713.json,cc713/ownscoop
 bililive-go_cc713.json,cc713/ownscoop
 lx-music_cc713.json,cc713/ownscoop
-gitextensions.json,cc713/ownscoop
+gitextensions_cc713.json,cc713/ownscoop
 qpdf_cc713.json,cc713/ownscoop
 manuskript_cc713.json,cc713/ownscoop
 GARbro-Mod.json,cc713/ownscoop
@@ -14231,7 +14232,7 @@ vagrant_rivy.json,rivy/scoop-bucket
 7zip@18.04.json,rivy/scoop-bucket
 restic@0.8.2.json,rivy/scoop-bucket
 iosevka-ss10.json,KnotUntied/scoop-fonts
-iosevka.json,KnotUntied/scoop-fonts
+iosevka_KnotUntied.json,KnotUntied/scoop-fonts
 courierprime.json,KnotUntied/scoop-fonts
 monaspaceargon.json,KnotUntied/scoop-fonts
 notomusic.json,KnotUntied/scoop-fonts
