@@ -2889,6 +2889,7 @@ iwck.json,ScoopInstaller/Extras
 bzip3.json,ScoopInstaller/Extras
 zonvie.json,ScoopInstaller/Extras
 anyburn.json,ScoopInstaller/Extras
+process-compose.json,ScoopInstaller/Extras
 eraser.json,ScoopInstaller/Extras
 expresso.json,ScoopInstaller/Extras
 vieb.json,ScoopInstaller/Extras
@@ -8537,7 +8538,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -10551,7 +10552,6 @@ go-proxy-bingai.json,DoveBoy/Apps
 idcard-generator.json,DoveBoy/Apps
 p2p.json,DoveBoy/Apps
 wechat_DoveBoy.json,DoveBoy/Apps
-forkgram_DoveBoy.json,DoveBoy/Apps
 biu.json,DoveBoy/Apps
 vutronmusic.json,DoveBoy/Apps
 vivetool_DoveBoy.json,DoveBoy/Apps
@@ -12202,6 +12202,7 @@ PingFangSC.json,ygguorun/scoop-bucket
 AxGlyph.json,ygguorun/scoop-bucket
 tredis.json,aliesbelik/poldi
 dnglab.json,aliesbelik/poldi
+dibo.json,aliesbelik/poldi
 helmsman_aliesbelik.json,aliesbelik/poldi
 werf.json,aliesbelik/poldi
 dnsx_aliesbelik.json,aliesbelik/poldi
