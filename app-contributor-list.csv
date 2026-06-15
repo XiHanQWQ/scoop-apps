@@ -3056,6 +3056,7 @@ lenovolegiontoolkit.json,ScoopInstaller/Extras
 steamguard-cli.json,ScoopInstaller/Extras
 hadoop-winutils.json,ScoopInstaller/Extras
 everything-lite.json,ScoopInstaller/Extras
+openwork.json,ScoopInstaller/Extras
 caesium-image-compressor.json,ScoopInstaller/Extras
 kscript.json,ScoopInstaller/Extras
 ip2location-io-cli.json,ScoopInstaller/Extras
@@ -3681,6 +3682,7 @@ ediary.json,chawyehsu/dorado
 texlive.json,chawyehsu/dorado
 yy.json,chawyehsu/dorado
 uncia.json,chawyehsu/dorado
+pixpin.json,chawyehsu/dorado
 dps8m.json,chawyehsu/dorado
 feishu.json,chawyehsu/dorado
 another-redis-desktop-manager_chawyehsu.json,chawyehsu/dorado
@@ -8539,7 +8541,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -15803,7 +15805,7 @@ bibclean.json,ShuguangSun/sgs-scoop-bucket
 duck_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 rtools44_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 gimp-cn.json,ShuguangSun/sgs-scoop-bucket
-openwork.json,ShuguangSun/sgs-scoop-bucket
+openwork_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 positron-user.json,ShuguangSun/sgs-scoop-bucket
 officetopdf.json,ShuguangSun/sgs-scoop-bucket
 llvm_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
@@ -15938,6 +15940,7 @@ tahoma2d_windedge.json,windedge/ladle-bucket
 ollama-ipex-llm.json,windedge/ladle-bucket
 codex_windedge.json,windedge/ladle-bucket
 llama-cpp-ipex-llm.json,windedge/ladle-bucket
+peekdown.json,windedge/ladle-bucket
 itext-rups.json,windedge/ladle-bucket
 nekoray2.json,windedge/ladle-bucket
 glaxnimate.json,windedge/ladle-bucket
