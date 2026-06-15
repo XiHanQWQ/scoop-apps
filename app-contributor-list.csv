@@ -7635,6 +7635,7 @@ rstudio-pro-release.json,cderv/r-bucket
 mq-dbg.json,cderv/r-bucket
 rstudio-2022.02.json,cderv/r-bucket
 mq-edit.json,cderv/r-bucket
+q2.json,cderv/r-bucket
 rstudio-2023.09.json,cderv/r-bucket
 ggsql.json,cderv/r-bucket
 tree.json,cderv/r-bucket
@@ -8121,6 +8122,7 @@ Doubao.json,dodorz/scoop
 jump.json,dodorz/scoop
 SylphyHorn.json,dodorz/scoop
 KimiCode.json,dodorz/scoop
+CzkawkaGUI.json,dodorz/scoop
 MarkEditor.json,dodorz/scoop
 KShutdown.json,dodorz/scoop
 DoubleCommander.json,dodorz/scoop
@@ -8378,7 +8380,6 @@ NetAlias.json,dodorz/scoop
 MultiMarkdown_dodorz.json,dodorz/scoop
 OSC.json,dodorz/scoop
 ExitWindows.json,dodorz/scoop
-llamafile_dodorz.json,dodorz/scoop
 MemCheck.json,dodorz/scoop
 NanoEmacsWin.json,dodorz/scoop
 CSVsort.json,dodorz/scoop
@@ -8578,7 +8579,6 @@ LastPassPocket.json,dodorz/scoop
 imgcat.json,dodorz/scoop
 Wox_dodorz.json,dodorz/scoop
 VSubst.json,dodorz/scoop
-czkawka_dodorz.json,dodorz/scoop
 Halite.json,dodorz/scoop
 Gammadyne-CLI.json,dodorz/scoop
 Regshot.json,dodorz/scoop
@@ -11551,7 +11551,7 @@ endfield-gacha.json,Small-Ku/turbo-bucket
 stardb-exporter.json,Small-Ku/turbo-bucket
 wintun.json,Small-Ku/turbo-bucket
 kilo-code.json,Small-Ku/turbo-bucket
-ruffle.json,Small-Ku/turbo-bucket
+ruffle_Small-Ku.json,Small-Ku/turbo-bucket
 better-genshin-impact.json,Small-Ku/turbo-bucket
 ddu_Small-Ku.json,Small-Ku/turbo-bucket
 llama-cpp-rocm-gfx110x.json,Small-Ku/turbo-bucket
