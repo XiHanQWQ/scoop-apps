@@ -8924,7 +8924,7 @@ smoothie.json,couleur-tweak-tips/utils
 mouse-tester-fork.json,couleur-tweak-tips/utils
 usbtreeview_couleur-tweak-tips.json,couleur-tweak-tips/utils
 MediaDownloader.json,couleur-tweak-tips/utils
-snes9x-dev_borger.json,borger/scoop-emulators
+snes9x-dev.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 2ship2harkinian.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
@@ -9032,7 +9032,7 @@ curl-impersonate.json,ViCrack/scoop-bucket
 xxl-job-attack.json,ViCrack/scoop-bucket
 wub.json,ViCrack/scoop-bucket
 rebuild-shell-icon-cache.json,ViCrack/scoop-bucket
-apifox.json,ViCrack/scoop-bucket
+apifox_ViCrack.json,ViCrack/scoop-bucket
 MonitorOff.json,ViCrack/scoop-bucket
 mitan_ViCrack.json,ViCrack/scoop-bucket
 wechatdatabackup.json,ViCrack/scoop-bucket
@@ -10562,7 +10562,7 @@ clashxw.json,DoveBoy/Apps
 kobi.json,DoveBoy/Apps
 bleachbit_DoveBoy.json,DoveBoy/Apps
 fx_DoveBoy.json,DoveBoy/Apps
-neteaseuu_DoveBoy.json,DoveBoy/Apps
+neteaseuu.json,DoveBoy/Apps
 gopeed_DoveBoy.json,DoveBoy/Apps
 joplin_DoveBoy.json,DoveBoy/Apps
 hashcat_DoveBoy.json,DoveBoy/Apps
