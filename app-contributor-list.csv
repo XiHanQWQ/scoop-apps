@@ -1456,7 +1456,7 @@ php-xdebug.json,ScoopInstaller/Extras
 cascadeur.json,ScoopInstaller/Extras
 github.json,ScoopInstaller/Extras
 upsource.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 keepass-plugin-keetheme.json,ScoopInstaller/Extras
 xl-converter.json,ScoopInstaller/Extras
 palemoon.json,ScoopInstaller/Extras
@@ -7662,7 +7662,7 @@ rsvg-convert.json,cderv/r-bucket
 r-release.json,cderv/r-bucket
 beads_cderv.json,cderv/r-bucket
 tinytex-min.json,cderv/r-bucket
-rstudio-preview_cderv.json,cderv/r-bucket
+rstudio-preview.json,cderv/r-bucket
 rstudio-daily-electron.json,cderv/r-bucket
 rtk_cderv.json,cderv/r-bucket
 ollama_cderv.json,cderv/r-bucket
@@ -8749,7 +8749,7 @@ Wing101.json,dodorz/scoop
 ProcessCloser.json,dodorz/scoop
 NetSpeed.json,dodorz/scoop
 fceux-interim.json,hermanjustnu/scoop-emulators
-snes9x-dev.json,hermanjustnu/scoop-emulators
+snes9x-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2-sse4-vxwidgets.json,hermanjustnu/scoop-emulators
 b-em.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -8924,7 +8924,7 @@ smoothie.json,couleur-tweak-tips/utils
 mouse-tester-fork.json,couleur-tweak-tips/utils
 usbtreeview_couleur-tweak-tips.json,couleur-tweak-tips/utils
 MediaDownloader.json,couleur-tweak-tips/utils
-snes9x-dev.json,borger/scoop-emulators
+snes9x-dev_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 2ship2harkinian.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
@@ -10195,7 +10195,7 @@ mihomo_DoveBoy.json,DoveBoy/Apps
 winupdateminitool.json,DoveBoy/Apps
 host-editor_DoveBoy.json,DoveBoy/Apps
 registry-key-jumper_DoveBoy.json,DoveBoy/Apps
-unigetui.json,DoveBoy/Apps
+unigetui_DoveBoy.json,DoveBoy/Apps
 kotatogram_DoveBoy.json,DoveBoy/Apps
 etcher-portable.json,DoveBoy/Apps
 screencapture_DoveBoy.json,DoveBoy/Apps
@@ -11405,7 +11405,7 @@ fido.json,amorphobia/siku
 sound-keeper.json,amorphobia/siku
 uip.json,amorphobia/siku
 idm-trial-reset.json,amorphobia/siku
-firefox-zh-cn_amorphobia.json,amorphobia/siku
+firefox-zh-cn.json,amorphobia/siku
 arturo_amorphobia.json,amorphobia/siku
 vmping.json,amorphobia/siku
 pcl2-ce.json,amorphobia/siku
@@ -12851,7 +12851,7 @@ picgo_TianXiaTech.json,TianXiaTech/scoop-txt
 cc-switch_TianXiaTech.json,TianXiaTech/scoop-txt
 iconEase.json,TianXiaTech/scoop-txt
 whisper-cpp_TianXiaTech.json,TianXiaTech/scoop-txt
-mgtv_TianXiaTech.json,TianXiaTech/scoop-txt
+mgtv.json,TianXiaTech/scoop-txt
 baidunetdisk_TianXiaTech.json,TianXiaTech/scoop-txt
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
 neohtop_TianXiaTech.json,TianXiaTech/scoop-txt
@@ -13064,7 +13064,7 @@ uefitool-ne.json,seumsc/scoop-seu
 musicdecrypto.json,seumsc/scoop-seu
 jxl-winthumb_seumsc.json,seumsc/scoop-seu
 mahjong-helper_seumsc.json,seumsc/scoop-seu
-kook_seumsc.json,seumsc/scoop-seu
+kook.json,seumsc/scoop-seu
 cpachecker.json,seumsc/scoop-seu
 madvr-test.json,seumsc/scoop-seu
 winpkfilter.json,seumsc/scoop-seu
@@ -13419,7 +13419,7 @@ crystaldiskinfo-shizuku.json,aoisummer/scoop-bucket
 umaviewer.json,aoisummer/scoop-bucket
 vlmcsd_aoisummer.json,aoisummer/scoop-bucket
 poi.json,aoisummer/scoop-bucket
-firefox-esr-zh-cn.json,aoisummer/scoop-bucket
+firefox-esr-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 qbittorrent-enhanced_aoisummer.json,aoisummer/scoop-bucket
 rest-server.json,aoisummer/scoop-bucket
 monitorian.json,aoisummer/scoop-bucket
@@ -14363,6 +14363,7 @@ superproductivity-aoks.json,AntonOks/scoop-aoks
 filezilla-aoks.json,AntonOks/scoop-aoks
 fast-data-transfer-aoks.json,AntonOks/scoop-aoks
 sandboxie-plus-aoks.json,AntonOks/scoop-aoks
+openrefine-aoks.json,AntonOks/scoop-aoks
 marktext-aoks.json,AntonOks/scoop-aoks
 fio-aoks.json,AntonOks/scoop-aoks
 kubectl-crossplane-aoks.json,AntonOks/scoop-aoks
@@ -14953,7 +14954,7 @@ weixin.json,maboloshi/scoop-private
 uv_maboloshi.json,maboloshi/scoop-private
 beyondcompare5-zh.json,maboloshi/scoop-private
 dingtalk_maboloshi.json,maboloshi/scoop-private
-ima-copilot_maboloshi.json,maboloshi/scoop-private
+ima-copilot.json,maboloshi/scoop-private
 clickmonitorddc-cn.json,maboloshi/scoop-private
 PowerShell_maboloshi.json,maboloshi/scoop-private
 clash-for-windows-cn_maboloshi.json,maboloshi/scoop-private
