@@ -4475,7 +4475,7 @@ otto-matic.json,Calinou/scoop-games
 ecwolf.json,Calinou/scoop-games
 chunker-cli.json,Calinou/scoop-games
 weakauras-companion.json,Calinou/scoop-games
-starward_Calinou.json,Calinou/scoop-games
+starward.json,Calinou/scoop-games
 pso2-tweaker.json,Calinou/scoop-games
 wesnoth.json,Calinou/scoop-games
 golly.json,Calinou/scoop-games
@@ -6410,7 +6410,7 @@ kwmusic.json,scoopcn/scoopcn
 kugou.json,scoopcn/scoopcn
 xt800agent.json,scoopcn/scoopcn
 sunlogin.json,scoopcn/scoopcn
-feishu_scoopcn.json,scoopcn/scoopcn
+feishu.json,scoopcn/scoopcn
 wechat-devtools.json,scoopcn/scoopcn
 tim_scoopcn.json,scoopcn/scoopcn
 procexp.json,scoopcn/scoopcn
@@ -9515,6 +9515,7 @@ unzip_akirco.json,akirco/aki-apps
 aria2_akirco.json,akirco/aki-apps
 poppler_akirco.json,akirco/aki-apps
 win32-openssh.json,akirco/aki-apps
+bilibili-livehime.json,akirco/aki-apps
 vcredist2012_akirco.json,akirco/aki-apps
 windows-terminal-quake_akirco.json,akirco/aki-apps
 obs-studio_akirco.json,akirco/aki-apps
@@ -12781,7 +12782,7 @@ imgcat_batkiz.json,batkiz/backit
 goimports-reviser.json,batkiz/backit
 chr.json,batkiz/backit
 yarr_batkiz.json,batkiz/backit
-markra_batkiz.json,batkiz/backit
+markra.json,batkiz/backit
 dnote_batkiz.json,batkiz/backit
 llvm_batkiz.json,batkiz/backit
 csvq_batkiz.json,batkiz/backit
