@@ -8542,7 +8542,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -9653,7 +9653,7 @@ which_akirco.json,akirco/aki-apps
 qt-creator_akirco.json,akirco/aki-apps
 baidudisk.json,akirco/aki-apps
 scoop-completion_akirco.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 oxipng_akirco.json,akirco/aki-apps
 memo.json,akirco/aki-apps
 simple-live.json,akirco/aki-apps
@@ -9874,6 +9874,7 @@ musicbee_DoveBoy.json,DoveBoy/Apps
 pansy.json,DoveBoy/Apps
 gui-for-singbox_DoveBoy.json,DoveBoy/Apps
 tageditor-qt5.json,DoveBoy/Apps
+anibaka.json,DoveBoy/Apps
 clash-mini.json,DoveBoy/Apps
 res-downloader.json,DoveBoy/Apps
 tldr_DoveBoy.json,DoveBoy/Apps
@@ -9951,6 +9952,7 @@ ultimatevocalremovergui.json,DoveBoy/Apps
 flclash_DoveBoy.json,DoveBoy/Apps
 croc_DoveBoy.json,DoveBoy/Apps
 helix_DoveBoy.json,DoveBoy/Apps
+lynmusic.json,DoveBoy/Apps
 v2ray-rules-dat-git.json,DoveBoy/Apps
 music-you.json,DoveBoy/Apps
 windows-update-disabler.json,DoveBoy/Apps
@@ -10562,7 +10564,7 @@ clashxw.json,DoveBoy/Apps
 kobi.json,DoveBoy/Apps
 bleachbit_DoveBoy.json,DoveBoy/Apps
 fx_DoveBoy.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 gopeed_DoveBoy.json,DoveBoy/Apps
 joplin_DoveBoy.json,DoveBoy/Apps
 hashcat_DoveBoy.json,DoveBoy/Apps
@@ -10865,7 +10867,7 @@ applicationinspector.json,wzv5/ScoopBucket
 besttrace_wzv5.json,wzv5/ScoopBucket
 winscp_wzv5.json,wzv5/ScoopBucket
 python-doc.json,wzv5/ScoopBucket
-qqlive.json,wzv5/ScoopBucket
+qqlive_wzv5.json,wzv5/ScoopBucket
 aliyundrive_wzv5.json,wzv5/ScoopBucket
 utools_wzv5.json,wzv5/ScoopBucket
 regex-tool.json,wzv5/ScoopBucket
@@ -12881,7 +12883,7 @@ uefitool-ne.json,seumsc/scoop-seu
 musicdecrypto.json,seumsc/scoop-seu
 jxl-winthumb_seumsc.json,seumsc/scoop-seu
 mahjong-helper_seumsc.json,seumsc/scoop-seu
-kook.json,seumsc/scoop-seu
+kook_seumsc.json,seumsc/scoop-seu
 cpachecker.json,seumsc/scoop-seu
 madvr-test.json,seumsc/scoop-seu
 winpkfilter.json,seumsc/scoop-seu
@@ -13557,7 +13559,7 @@ OpenHashTab_cc713.json,cc713/ownscoop
 picacg-qt.json,cc713/ownscoop
 cpu-z-cn.json,cc713/ownscoop
 qview_cc713.json,cc713/ownscoop
-thunderbird-zh-cn.json,cc713/ownscoop
+thunderbird-zh-cn_cc713.json,cc713/ownscoop
 kiwix_cc713.json,cc713/ownscoop
 qimgv-dev.json,cc713/ownscoop
 kazumi_cc713.json,cc713/ownscoop
@@ -14659,7 +14661,7 @@ beyondcompare5-zh.json,maboloshi/scoop-private
 dingtalk_maboloshi.json,maboloshi/scoop-private
 ima-copilot_maboloshi.json,maboloshi/scoop-private
 clickmonitorddc-cn.json,maboloshi/scoop-private
-PowerShell.json,maboloshi/scoop-private
+PowerShell_maboloshi.json,maboloshi/scoop-private
 clash-for-windows-cn_maboloshi.json,maboloshi/scoop-private
 notepad4_maboloshi.json,maboloshi/scoop-private
 directoryopus-cn.json,maboloshi/scoop-private
