@@ -2084,7 +2084,7 @@ obs-plugin-droidcam.json,ScoopInstaller/Extras
 real.json,ScoopInstaller/Extras
 wifi-manager.json,ScoopInstaller/Extras
 screen-saver-control.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 godot-version-manager.json,ScoopInstaller/Extras
 vcredist2012.json,ScoopInstaller/Extras
 clustalw.json,ScoopInstaller/Extras
@@ -9582,7 +9582,7 @@ vcredist2019.json,akirco/aki-apps
 telegram_akirco.json,akirco/aki-apps
 feishu_akirco.json,akirco/aki-apps
 geekuninstaller_akirco.json,akirco/aki-apps
-Qoder.json,akirco/aki-apps
+Qoder_akirco.json,akirco/aki-apps
 netch_akirco.json,akirco/aki-apps
 z_akirco.json,akirco/aki-apps
 time_akirco.json,akirco/aki-apps
@@ -13251,7 +13251,7 @@ __template.json,mo-san/scoop-bucket
 psgetsid_mo-san.json,mo-san/scoop-bucket
 gom-player.json,mo-san/scoop-bucket
 winobj_mo-san.json,mo-san/scoop-bucket
-sysmon.json,mo-san/scoop-bucket
+sysmon_mo-san.json,mo-san/scoop-bucket
 sync_mo-san.json,mo-san/scoop-bucket
 leeyes.json,mo-san/scoop-bucket
 regjump_mo-san.json,mo-san/scoop-bucket
@@ -13272,14 +13272,14 @@ firefox-jp.json,mo-san/scoop-bucket
 font-hackgen35.json,mo-san/scoop-bucket
 registry-usage.json,mo-san/scoop-bucket
 bginfo_mo-san.json,mo-san/scoop-bucket
-livekd.json,mo-san/scoop-bucket
+livekd_mo-san.json,mo-san/scoop-bucket
 psinfo_mo-san.json,mo-san/scoop-bucket
 cassava_mo-san.json,mo-san/scoop-bucket
 pipelist_mo-san.json,mo-san/scoop-bucket
 sdelete_mo-san.json,mo-san/scoop-bucket
 pstools.json,mo-san/scoop-bucket
 pmx-editor.json,mo-san/scoop-bucket
-zoomit.json,mo-san/scoop-bucket
+zoomit_mo-san.json,mo-san/scoop-bucket
 notmyfault_mo-san.json,mo-san/scoop-bucket
 domino.json,mo-san/scoop-bucket
 font-migu-1m.json,mo-san/scoop-bucket
@@ -13309,7 +13309,7 @@ logonsessions_mo-san.json,mo-san/scoop-bucket
 font-hackgen35-console-nf.json,mo-san/scoop-bucket
 diskext_mo-san.json,mo-san/scoop-bucket
 accesschk_mo-san.json,mo-san/scoop-bucket
-coreinfo.json,mo-san/scoop-bucket
+coreinfo_mo-san.json,mo-san/scoop-bucket
 podesk.json,mo-san/scoop-bucket
 font-migmix-1m.json,mo-san/scoop-bucket
 contig_mo-san.json,mo-san/scoop-bucket
