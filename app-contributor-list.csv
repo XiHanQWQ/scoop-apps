@@ -1456,7 +1456,7 @@ php-xdebug.json,ScoopInstaller/Extras
 cascadeur.json,ScoopInstaller/Extras
 github.json,ScoopInstaller/Extras
 upsource.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 keepass-plugin-keetheme.json,ScoopInstaller/Extras
 xl-converter.json,ScoopInstaller/Extras
 palemoon.json,ScoopInstaller/Extras
@@ -4184,6 +4184,7 @@ ting-fr.json,Scoopforge/Extras-CN
 mpv.net-cm.json,Scoopforge/Extras-CN
 eudic.json,Scoopforge/Extras-CN
 wpsoffice-cn.json,Scoopforge/Extras-CN
+qoderwork-cn.json,Scoopforge/Extras-CN
 wechatdevtools_Scoopforge.json,Scoopforge/Extras-CN
 dashplayer.json,Scoopforge/Extras-CN
 miniforge-cn.json,Scoopforge/Extras-CN
@@ -6489,6 +6490,7 @@ resilio-sync-np.json,ScoopInstaller/Nonportable
 lockhunter-np.json,ScoopInstaller/Nonportable
 workman-p-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 10x-np.json,ScoopInstaller/Nonportable
+k-lite-codec-pack-standard-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 office-365-apps-minimal-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 rom-properties-np.json,ScoopInstaller/Nonportable
 iddsampledriver-ge9-np.json,ScoopInstaller/Nonportable
@@ -6509,6 +6511,7 @@ vmware-workstation-player-np.json,ScoopInstaller/Nonportable
 freelan-np.json,ScoopInstaller/Nonportable
 winrar-np.json,ScoopInstaller/Nonportable
 office-365-apps-np_ScoopInstaller.json,ScoopInstaller/Nonportable
+k-lite-codec-pack-full-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 notepads-np.json,ScoopInstaller/Nonportable
 workman-p-uk-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 grammarly-np.json,ScoopInstaller/Nonportable
@@ -6518,6 +6521,7 @@ calibre-np.json,ScoopInstaller/Nonportable
 nodejs-np.json,ScoopInstaller/Nonportable
 bluestacks4-hyperv-np.json,ScoopInstaller/Nonportable
 innosetup-np_ScoopInstaller.json,ScoopInstaller/Nonportable
+k-lite-codec-pack-basic-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 textpad8-np.json,ScoopInstaller/Nonportable
 pgadmin4-np.json,ScoopInstaller/Nonportable
 files-preview-np.json,ScoopInstaller/Nonportable
@@ -6531,6 +6535,7 @@ ivpn-client-np.json,ScoopInstaller/Nonportable
 asio4all-np.json,ScoopInstaller/Nonportable
 nelson-np.json,ScoopInstaller/Nonportable
 xampp-np.json,ScoopInstaller/Nonportable
+k-lite-codec-pack-mega-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 mullvadvpn-np.json,ScoopInstaller/Nonportable
 open-shell-np.json,ScoopInstaller/Nonportable
 burp-suite-community-np.json,ScoopInstaller/Nonportable
@@ -9091,7 +9096,7 @@ mdut-extend-release.json,ViCrack/scoop-bucket
 confuserex-cli.json,ViCrack/scoop-bucket
 java-echo-generator-release.json,ViCrack/scoop-bucket
 oxideterm.json,ViCrack/scoop-bucket
-yakit_ViCrack.json,ViCrack/scoop-bucket
+yakit.json,ViCrack/scoop-bucket
 cyberapi.json,ViCrack/scoop-bucket
 sublinkpro.json,ViCrack/scoop-bucket
 rad_ViCrack.json,ViCrack/scoop-bucket
@@ -14652,7 +14657,9 @@ Settings_404NetworkError.json,404NetworkError/scoop-bucket
 yumi-uefi_404NetworkError.json,404NetworkError/scoop-bucket
 rrox.json,404NetworkError/scoop-bucket
 yumi-legacy.json,404NetworkError/scoop-bucket
+ondsel-es-weekly.json,404NetworkError/scoop-bucket
 windowsdesktop-runtime-7.0_404NetworkError.json,404NetworkError/scoop-bucket
+ondsel-es.json,404NetworkError/scoop-bucket
 spek-alternative.json,404NetworkError/scoop-bucket
 gerbv.json,404NetworkError/scoop-bucket
 flawless-widescreen_404NetworkError.json,404NetworkError/scoop-bucket
@@ -14684,9 +14691,9 @@ tsmuxer_404NetworkError.json,404NetworkError/scoop-bucket
 chaptermaker.json,404NetworkError/scoop-bucket
 litedbexplorer.json,404NetworkError/scoop-bucket
 xenu-beta.json,404NetworkError/scoop-bucket
-ondsel-es-weekly.json,404NetworkError/scoop-bucket
 dumpbin.json,404NetworkError/scoop-bucket
 ps-sfta-nightly.json,404NetworkError/scoop-bucket
+tsmuxer-nightly.json,404NetworkError/scoop-bucket
 lamexp-qaac-nightly.json,404NetworkError/scoop-bucket
 windowsdesktop-runtime-9.0_404NetworkError.json,404NetworkError/scoop-bucket
 win-hid-dump.json,404NetworkError/scoop-bucket
@@ -14730,7 +14737,6 @@ vmware-macos-unlocker.json,404NetworkError/scoop-bucket
 fupx.json,404NetworkError/scoop-bucket
 qrencode_404NetworkError.json,404NetworkError/scoop-bucket
 curseforge.json,404NetworkError/scoop-bucket
-ondsel-es.json,404NetworkError/scoop-bucket
 dlss-swapper-latest.json,404NetworkError/scoop-bucket
 yumi_404NetworkError.json,404NetworkError/scoop-bucket
 libreoffice_404NetworkError.json,404NetworkError/scoop-bucket
