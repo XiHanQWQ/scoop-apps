@@ -1797,7 +1797,7 @@ processing.json,ScoopInstaller/Extras
 wxhexeditor.json,ScoopInstaller/Extras
 dosbox-staging.json,ScoopInstaller/Extras
 uninstall-tool.json,ScoopInstaller/Extras
-vscode.json,ScoopInstaller/Extras
+vscode_ScoopInstaller.json,ScoopInstaller/Extras
 nheko.json,ScoopInstaller/Extras
 npiperelay.json,ScoopInstaller/Extras
 dz6.json,ScoopInstaller/Extras
@@ -4235,7 +4235,7 @@ libreoffice-cn.json,Scoopforge/Extras-CN
 texstudio-cn.json,Scoopforge/Extras-CN
 fishing-funds.json,Scoopforge/Extras-CN
 pixpin_Scoopforge.json,Scoopforge/Extras-CN
-feishu.json,Scoopforge/Extras-CN
+feishu_Scoopforge.json,Scoopforge/Extras-CN
 adrive.json,Scoopforge/Extras-CN
 heu-kms-activator.json,Scoopforge/Extras-CN
 tencent-meeting.json,Scoopforge/Extras-CN
@@ -4475,7 +4475,7 @@ otto-matic.json,Calinou/scoop-games
 ecwolf.json,Calinou/scoop-games
 chunker-cli.json,Calinou/scoop-games
 weakauras-companion.json,Calinou/scoop-games
-starward.json,Calinou/scoop-games
+starward_Calinou.json,Calinou/scoop-games
 pso2-tweaker.json,Calinou/scoop-games
 wesnoth.json,Calinou/scoop-games
 golly.json,Calinou/scoop-games
@@ -9515,7 +9515,6 @@ unzip_akirco.json,akirco/aki-apps
 aria2_akirco.json,akirco/aki-apps
 poppler_akirco.json,akirco/aki-apps
 win32-openssh.json,akirco/aki-apps
-bilibili-livehime.json,akirco/aki-apps
 vcredist2012_akirco.json,akirco/aki-apps
 windows-terminal-quake_akirco.json,akirco/aki-apps
 obs-studio_akirco.json,akirco/aki-apps
@@ -13252,7 +13251,7 @@ __template.json,mo-san/scoop-bucket
 psgetsid_mo-san.json,mo-san/scoop-bucket
 gom-player.json,mo-san/scoop-bucket
 winobj_mo-san.json,mo-san/scoop-bucket
-sysmon_mo-san.json,mo-san/scoop-bucket
+sysmon.json,mo-san/scoop-bucket
 sync_mo-san.json,mo-san/scoop-bucket
 leeyes.json,mo-san/scoop-bucket
 regjump_mo-san.json,mo-san/scoop-bucket
@@ -13273,14 +13272,14 @@ firefox-jp.json,mo-san/scoop-bucket
 font-hackgen35.json,mo-san/scoop-bucket
 registry-usage.json,mo-san/scoop-bucket
 bginfo_mo-san.json,mo-san/scoop-bucket
-livekd_mo-san.json,mo-san/scoop-bucket
+livekd.json,mo-san/scoop-bucket
 psinfo_mo-san.json,mo-san/scoop-bucket
 cassava_mo-san.json,mo-san/scoop-bucket
 pipelist_mo-san.json,mo-san/scoop-bucket
 sdelete_mo-san.json,mo-san/scoop-bucket
 pstools.json,mo-san/scoop-bucket
 pmx-editor.json,mo-san/scoop-bucket
-zoomit_mo-san.json,mo-san/scoop-bucket
+zoomit.json,mo-san/scoop-bucket
 notmyfault_mo-san.json,mo-san/scoop-bucket
 domino.json,mo-san/scoop-bucket
 font-migu-1m.json,mo-san/scoop-bucket
@@ -13310,7 +13309,7 @@ logonsessions_mo-san.json,mo-san/scoop-bucket
 font-hackgen35-console-nf.json,mo-san/scoop-bucket
 diskext_mo-san.json,mo-san/scoop-bucket
 accesschk_mo-san.json,mo-san/scoop-bucket
-coreinfo_mo-san.json,mo-san/scoop-bucket
+coreinfo.json,mo-san/scoop-bucket
 podesk.json,mo-san/scoop-bucket
 font-migmix-1m.json,mo-san/scoop-bucket
 contig_mo-san.json,mo-san/scoop-bucket
@@ -13408,7 +13407,7 @@ imgdrive.json,aoisummer/scoop-bucket
 aegisub_aoisummer.json,aoisummer/scoop-bucket
 windowgrid_aoisummer.json,aoisummer/scoop-bucket
 komelia.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 autologon_aoisummer.json,aoisummer/scoop-bucket
 sakura-launcher-gui.json,aoisummer/scoop-bucket
 bbdown_aoisummer.json,aoisummer/scoop-bucket
