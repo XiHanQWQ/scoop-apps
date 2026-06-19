@@ -1331,6 +1331,7 @@ cyanrip.json,ScoopInstaller/Extras
 kiro.json,ScoopInstaller/Extras
 snoop.json,ScoopInstaller/Extras
 digikam.json,ScoopInstaller/Extras
+zcode.json,ScoopInstaller/Extras
 trilium.json,ScoopInstaller/Extras
 syncplay.json,ScoopInstaller/Extras
 deeplx.json,ScoopInstaller/Extras
@@ -1797,7 +1798,7 @@ processing.json,ScoopInstaller/Extras
 wxhexeditor.json,ScoopInstaller/Extras
 dosbox-staging.json,ScoopInstaller/Extras
 uninstall-tool.json,ScoopInstaller/Extras
-vscode_ScoopInstaller.json,ScoopInstaller/Extras
+vscode.json,ScoopInstaller/Extras
 nheko.json,ScoopInstaller/Extras
 npiperelay.json,ScoopInstaller/Extras
 dz6.json,ScoopInstaller/Extras
@@ -8280,7 +8281,7 @@ QuickHash.json,dodorz/scoop
 ClaudeCode.json,dodorz/scoop
 CMDFocus.json,dodorz/scoop
 FullSync.json,dodorz/scoop
-ZCode.json,dodorz/scoop
+ZCode_dodorz.json,dodorz/scoop
 xmlbar.json,dodorz/scoop
 8uftp.json,dodorz/scoop
 SpleeterCLI.json,dodorz/scoop
@@ -9710,7 +9711,7 @@ charm.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
 soft-serve.json,charmbracelet/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 freeze.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
 mods_charmbracelet.json,charmbracelet/scoop-bucket
@@ -10004,7 +10005,7 @@ magpie_DoveBoy.json,DoveBoy/Apps
 nano_DoveBoy.json,DoveBoy/Apps
 pikatorrent.json,DoveBoy/Apps
 fancontrol-net10.0-portable.json,DoveBoy/Apps
-v2rayn_DoveBoy.json,DoveBoy/Apps
+v2rayn.json,DoveBoy/Apps
 b0pass.json,DoveBoy/Apps
 tcping_DoveBoy.json,DoveBoy/Apps
 escrcpy-portable.json,DoveBoy/Apps
