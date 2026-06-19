@@ -9655,7 +9655,7 @@ which_akirco.json,akirco/aki-apps
 qt-creator_akirco.json,akirco/aki-apps
 baidudisk.json,akirco/aki-apps
 scoop-completion_akirco.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 oxipng_akirco.json,akirco/aki-apps
 memo.json,akirco/aki-apps
 simple-live.json,akirco/aki-apps
@@ -11558,7 +11558,7 @@ endfield-gacha.json,Small-Ku/turbo-bucket
 stardb-exporter.json,Small-Ku/turbo-bucket
 wintun.json,Small-Ku/turbo-bucket
 kilo-code.json,Small-Ku/turbo-bucket
-ruffle_Small-Ku.json,Small-Ku/turbo-bucket
+ruffle.json,Small-Ku/turbo-bucket
 better-genshin-impact.json,Small-Ku/turbo-bucket
 ddu_Small-Ku.json,Small-Ku/turbo-bucket
 llama-cpp-rocm-gfx110x.json,Small-Ku/turbo-bucket
@@ -12341,6 +12341,7 @@ mado.json,aliesbelik/poldi
 trubka.json,aliesbelik/poldi
 qrtool.json,aliesbelik/poldi
 hgrep_aliesbelik.json,aliesbelik/poldi
+jwt-ui.json,aliesbelik/poldi
 ktea.json,aliesbelik/poldi
 sqluv.json,aliesbelik/poldi
 mani.json,aliesbelik/poldi
