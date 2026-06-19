@@ -1456,7 +1456,7 @@ php-xdebug.json,ScoopInstaller/Extras
 cascadeur.json,ScoopInstaller/Extras
 github.json,ScoopInstaller/Extras
 upsource.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 keepass-plugin-keetheme.json,ScoopInstaller/Extras
 xl-converter.json,ScoopInstaller/Extras
 palemoon.json,ScoopInstaller/Extras
@@ -9947,6 +9947,7 @@ npm-completion_DoveBoy.json,DoveBoy/Apps
 v2ray-rules-dat.json,DoveBoy/Apps
 reqable_DoveBoy.json,DoveBoy/Apps
 upx_DoveBoy.json,DoveBoy/Apps
+komi-store.json,DoveBoy/Apps
 ariang-native_DoveBoy.json,DoveBoy/Apps
 scoop-search_DoveBoy.json,DoveBoy/Apps
 freebox.json,DoveBoy/Apps
@@ -10461,7 +10462,6 @@ streamcap.json,DoveBoy/Apps
 act_DoveBoy.json,DoveBoy/Apps
 mpv_DoveBoy.json,DoveBoy/Apps
 fnm_DoveBoy.json,DoveBoy/Apps
-github-store.json,DoveBoy/Apps
 fix-print-spooler_DoveBoy.json,DoveBoy/Apps
 calctus.json,DoveBoy/Apps
 linkandroid.json,DoveBoy/Apps
@@ -11271,7 +11271,7 @@ focus-writer.json,naderi/scoop-bucket
 icofx.json,naderi/scoop-bucket
 encfs.json,naderi/scoop-bucket
 xdm_naderi.json,naderi/scoop-bucket
-teracopy.json,naderi/scoop-bucket
+teracopy_naderi.json,naderi/scoop-bucket
 grep-win.json,naderi/scoop-bucket
 clipx_naderi.json,naderi/scoop-bucket
 font-vazir.json,naderi/scoop-bucket
@@ -11558,7 +11558,7 @@ endfield-gacha.json,Small-Ku/turbo-bucket
 stardb-exporter.json,Small-Ku/turbo-bucket
 wintun.json,Small-Ku/turbo-bucket
 kilo-code.json,Small-Ku/turbo-bucket
-ruffle.json,Small-Ku/turbo-bucket
+ruffle_Small-Ku.json,Small-Ku/turbo-bucket
 better-genshin-impact.json,Small-Ku/turbo-bucket
 ddu_Small-Ku.json,Small-Ku/turbo-bucket
 llama-cpp-rocm-gfx110x.json,Small-Ku/turbo-bucket
