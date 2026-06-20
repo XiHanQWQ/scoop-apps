@@ -2876,6 +2876,7 @@ dxwnd.json,ScoopInstaller/Extras
 bioedit.json,ScoopInstaller/Extras
 php-nts-xdebug.json,ScoopInstaller/Extras
 smartgit.json,ScoopInstaller/Extras
+codiff.json,ScoopInstaller/Extras
 plantuml.json,ScoopInstaller/Extras
 manifold.json,ScoopInstaller/Extras
 tutanota.json,ScoopInstaller/Extras
@@ -7687,7 +7688,7 @@ arf.json,cderv/r-bucket
 rv_cderv.json,cderv/r-bucket
 rstudio-2023.06.json,cderv/r-bucket
 mq-check.json,cderv/r-bucket
-agentsview.json,cderv/r-bucket
+agentsview_cderv.json,cderv/r-bucket
 verapdf-docker.json,cderv/r-bucket
 rstudio-1.2.json,cderv/r-bucket
 tinitex.json,cderv/r-bucket
@@ -9712,7 +9713,7 @@ charm.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
 soft-serve.json,charmbracelet/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 freeze.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
 mods_charmbracelet.json,charmbracelet/scoop-bucket
@@ -9883,6 +9884,7 @@ clash-mini.json,DoveBoy/Apps
 res-downloader.json,DoveBoy/Apps
 tldr_DoveBoy.json,DoveBoy/Apps
 deeplx_DoveBoy.json,DoveBoy/Apps
+miru_DoveBoy.json,DoveBoy/Apps
 trippy_DoveBoy.json,DoveBoy/Apps
 fzf_DoveBoy.json,DoveBoy/Apps
 nextai-translator_DoveBoy.json,DoveBoy/Apps
@@ -9921,6 +9923,7 @@ dwarfs.json,DoveBoy/Apps
 any-listen-desktop.json,DoveBoy/Apps
 vimtutor_DoveBoy.json,DoveBoy/Apps
 bookget.json,DoveBoy/Apps
+qmc-decoder.json,DoveBoy/Apps
 github_DoveBoy.json,DoveBoy/Apps
 typora-dev_DoveBoy.json,DoveBoy/Apps
 opentrace_DoveBoy.json,DoveBoy/Apps
@@ -10023,6 +10026,7 @@ audio-share.json,DoveBoy/Apps
 ghostdownloader3.json,DoveBoy/Apps
 reicon_DoveBoy.json,DoveBoy/Apps
 stemdeck.json,DoveBoy/Apps
+miru-portable.json,DoveBoy/Apps
 bestsub.json,DoveBoy/Apps
 littletips-portable.json,DoveBoy/Apps
 modernflyouts_DoveBoy.json,DoveBoy/Apps
@@ -10040,7 +10044,7 @@ nvm-completion.json,DoveBoy/Apps
 clash-rev-compatible.json,DoveBoy/Apps
 driverstoreexplorer_DoveBoy.json,DoveBoy/Apps
 psscripttools.json,DoveBoy/Apps
-winget-preview_DoveBoy.json,DoveBoy/Apps
+winget-preview.json,DoveBoy/Apps
 jellyfin-media-player_DoveBoy.json,DoveBoy/Apps
 iobit-undelete_DoveBoy.json,DoveBoy/Apps
 buzz_DoveBoy.json,DoveBoy/Apps
@@ -10122,6 +10126,7 @@ syncthing-beta.json,DoveBoy/Apps
 qqlive.json,DoveBoy/Apps
 czkawka-gui_DoveBoy.json,DoveBoy/Apps
 windirstat_DoveBoy.json,DoveBoy/Apps
+ximalaya-downloader.json,DoveBoy/Apps
 fancontrol-net10.0.json,DoveBoy/Apps
 bililive-go.json,DoveBoy/Apps
 kaf-wifi.json,DoveBoy/Apps
@@ -10136,6 +10141,7 @@ crystaldiskinfo-shizuku-edition_DoveBoy.json,DoveBoy/Apps
 zyplayer.json,DoveBoy/Apps
 sumatrapdf-installer_DoveBoy.json,DoveBoy/Apps
 npm-tab-completion.json,DoveBoy/Apps
+pano-scrobbler.json,DoveBoy/Apps
 biu-portable.json,DoveBoy/Apps
 gitextensions_DoveBoy.json,DoveBoy/Apps
 sing-box-beta.json,DoveBoy/Apps
@@ -10206,6 +10212,7 @@ unigetui_DoveBoy.json,DoveBoy/Apps
 kotatogram_DoveBoy.json,DoveBoy/Apps
 etcher-portable.json,DoveBoy/Apps
 screencapture_DoveBoy.json,DoveBoy/Apps
+tmall-miao.json,DoveBoy/Apps
 linuxdoc.json,DoveBoy/Apps
 diskcheckup_DoveBoy.json,DoveBoy/Apps
 leagueakari.json,DoveBoy/Apps
@@ -10218,6 +10225,7 @@ clink_DoveBoy.json,DoveBoy/Apps
 winsw_DoveBoy.json,DoveBoy/Apps
 folo_DoveBoy.json,DoveBoy/Apps
 repairbadtweaks.json,DoveBoy/Apps
+pilinara.json,DoveBoy/Apps
 so-novel-beta.json,DoveBoy/Apps
 scoop-backup-knoxdev.json,DoveBoy/Apps
 moekoemusic.json,DoveBoy/Apps
@@ -10227,6 +10235,7 @@ ungoogled-chromium_DoveBoy.json,DoveBoy/Apps
 runastool_DoveBoy.json,DoveBoy/Apps
 wx-channels-download.json,DoveBoy/Apps
 baidupcs-go_DoveBoy.json,DoveBoy/Apps
+piliplus.json,DoveBoy/Apps
 godmode.json,DoveBoy/Apps
 lazygit_DoveBoy.json,DoveBoy/Apps
 officetoolplus-with-runtime.json,DoveBoy/Apps
@@ -10297,6 +10306,7 @@ psreadlineviextension.json,DoveBoy/Apps
 telegram_DoveBoy.json,DoveBoy/Apps
 flyoobe-classic.json,DoveBoy/Apps
 bililive-tools.json,DoveBoy/Apps
+piliplus-portable.json,DoveBoy/Apps
 heu-kms-activator_DoveBoy.json,DoveBoy/Apps
 animeko_DoveBoy.json,DoveBoy/Apps
 bbk-cli_DoveBoy.json,DoveBoy/Apps
@@ -10534,6 +10544,7 @@ clip-share-server.json,DoveBoy/Apps
 zyperwinoptimize.json,DoveBoy/Apps
 sandboxie-classic-portable.json,DoveBoy/Apps
 ugrep_DoveBoy.json,DoveBoy/Apps
+pilinara-portable.json,DoveBoy/Apps
 kazumi.json,DoveBoy/Apps
 readest_DoveBoy.json,DoveBoy/Apps
 dandanplay_DoveBoy.json,DoveBoy/Apps
@@ -10676,7 +10687,7 @@ applicationinspector.json,wzv5/ScoopBucket
 besttrace_wzv5.json,wzv5/ScoopBucket
 winscp_wzv5.json,wzv5/ScoopBucket
 python-doc.json,wzv5/ScoopBucket
-qqlive.json,wzv5/ScoopBucket
+qqlive_wzv5.json,wzv5/ScoopBucket
 aliyundrive_wzv5.json,wzv5/ScoopBucket
 utools_wzv5.json,wzv5/ScoopBucket
 regex-tool.json,wzv5/ScoopBucket
