@@ -2979,6 +2979,7 @@ deltachat.json,ScoopInstaller/Extras
 flutter.json,ScoopInstaller/Extras
 odict.json,ScoopInstaller/Extras
 notepad2.json,ScoopInstaller/Extras
+boosterx.json,ScoopInstaller/Extras
 raspberry-pi-imager.json,ScoopInstaller/Extras
 f3d.json,ScoopInstaller/Extras
 beatdrop.json,ScoopInstaller/Extras
@@ -8495,7 +8496,7 @@ FreeFileSync.json,dodorz/scoop
 TidGi.json,dodorz/scoop
 grepWin_dodorz.json,dodorz/scoop
 viu.json,dodorz/scoop
-SoloMD.json,dodorz/scoop
+SoloMD_dodorz.json,dodorz/scoop
 Craft.json,dodorz/scoop
 UltraSearch.json,dodorz/scoop
 Uzi.json,dodorz/scoop
