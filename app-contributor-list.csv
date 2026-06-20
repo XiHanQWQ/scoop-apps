@@ -1798,7 +1798,7 @@ processing.json,ScoopInstaller/Extras
 wxhexeditor.json,ScoopInstaller/Extras
 dosbox-staging.json,ScoopInstaller/Extras
 uninstall-tool.json,ScoopInstaller/Extras
-vscode.json,ScoopInstaller/Extras
+vscode_ScoopInstaller.json,ScoopInstaller/Extras
 nheko.json,ScoopInstaller/Extras
 npiperelay.json,ScoopInstaller/Extras
 dz6.json,ScoopInstaller/Extras
@@ -10721,6 +10721,7 @@ oh-my-posh_hu3rror.json,hu3rror/scoop-muggle
 scapple.json,hu3rror/scoop-muggle
 xanmod-WSL2-lts-skylake.json,hu3rror/scoop-muggle
 foobox-cn.json,hu3rror/scoop-muggle
+hitomi-downloader_hu3rror.json,hu3rror/scoop-muggle
 xanmod-WSL2-lts-x64v2.json,hu3rror/scoop-muggle
 chatgpt-next-web.json,hu3rror/scoop-muggle
 animation-garden-dev.json,hu3rror/scoop-muggle
@@ -10838,7 +10839,6 @@ space-cli.json,hu3rror/scoop-muggle
 ilyrics.json,hu3rror/scoop-muggle
 game-cheats-manager_hu3rror.json,hu3rror/scoop-muggle
 watt-toolkit.json,hu3rror/scoop-muggle
-hitomi-downloader_hu3rror.json,hu3rror/scoop-muggle
 spotx.json,hu3rror/scoop-muggle
 bg3-mod-manager.json,hu3rror/scoop-muggle
 pixivbiu_hu3rror.json,hu3rror/scoop-muggle
@@ -10850,6 +10850,7 @@ desktopnaotu_hu3rror.json,hu3rror/scoop-muggle
 gingko.json,hu3rror/scoop-muggle
 nora.json,hu3rror/scoop-muggle
 163MusicLyrics-pro-6.5.json,hu3rror/scoop-muggle
+imewlconverter.json,hu3rror/scoop-muggle
 heynote_hu3rror.json,hu3rror/scoop-muggle
 run-hidden-console.json,hu3rror/scoop-muggle
 tsftool.json,hu3rror/scoop-muggle
@@ -11719,7 +11720,7 @@ qbittorrent-enhanced_WinApps-share.json,WinApps-share/WinApps-bucket
 7zip_WinApps-share.json,WinApps-share/WinApps-bucket
 keyviz_WinApps-share.json,WinApps-share/WinApps-bucket
 lanzouyun-disk_WinApps-share.json,WinApps-share/WinApps-bucket
-everything-toolbar_WinApps-share.json,WinApps-share/WinApps-bucket
+everything-toolbar.json,WinApps-share/WinApps-bucket
 lively_WinApps-share.json,WinApps-share/WinApps-bucket
 ditto_WinApps-share.json,WinApps-share/WinApps-bucket
 ecopaste.json,WinApps-share/WinApps-bucket
@@ -12998,7 +12999,7 @@ qqplayer_TianXiaTech.json,TianXiaTech/scoop-txt
 writingTools.json,TianXiaTech/scoop-txt
 whisper-cpp-blas_TianXiaTech.json,TianXiaTech/scoop-txt
 whisper-cpp-cublas-1180.json,TianXiaTech/scoop-txt
-imewlconverter.json,TianXiaTech/scoop-txt
+imewlconverter_TianXiaTech.json,TianXiaTech/scoop-txt
 recordly.json,TianXiaTech/scoop-txt
 zyfun.json,TianXiaTech/scoop-txt
 blinko.json,TianXiaTech/scoop-txt
