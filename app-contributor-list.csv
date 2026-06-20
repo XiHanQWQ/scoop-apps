@@ -8495,7 +8495,7 @@ FreeFileSync.json,dodorz/scoop
 TidGi.json,dodorz/scoop
 grepWin_dodorz.json,dodorz/scoop
 viu.json,dodorz/scoop
-SoloMD_dodorz.json,dodorz/scoop
+SoloMD.json,dodorz/scoop
 Craft.json,dodorz/scoop
 UltraSearch.json,dodorz/scoop
 Uzi.json,dodorz/scoop
@@ -9035,7 +9035,7 @@ curl-impersonate.json,ViCrack/scoop-bucket
 xxl-job-attack.json,ViCrack/scoop-bucket
 wub.json,ViCrack/scoop-bucket
 rebuild-shell-icon-cache.json,ViCrack/scoop-bucket
-apifox_ViCrack.json,ViCrack/scoop-bucket
+apifox.json,ViCrack/scoop-bucket
 MonitorOff.json,ViCrack/scoop-bucket
 mitan_ViCrack.json,ViCrack/scoop-bucket
 wechatdatabackup.json,ViCrack/scoop-bucket
@@ -9711,7 +9711,7 @@ charm.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
 soft-serve.json,charmbracelet/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 freeze.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
 mods_charmbracelet.json,charmbracelet/scoop-bucket
@@ -10730,6 +10730,7 @@ systeminformer-nightly_hu3rror.json,hu3rror/scoop-muggle
 pixeval_hu3rror.json,hu3rror/scoop-muggle
 xanmod-WSL2-lts-x64v4.json,hu3rror/scoop-muggle
 xanmod-WSL2-x64v2.json,hu3rror/scoop-muggle
+cyberchef_hu3rror.json,hu3rror/scoop-muggle
 iso-creator-tool.json,hu3rror/scoop-muggle
 newrain-duplicate-photo-finder.json,hu3rror/scoop-muggle
 RyuSAK_hu3rror.json,hu3rror/scoop-muggle
@@ -10881,7 +10882,6 @@ animeko-alpha.json,hu3rror/scoop-muggle
 kopiaui_hu3rror.json,hu3rror/scoop-muggle
 context-menu-manager_hu3rror.json,hu3rror/scoop-muggle
 get-childitemcolor.json,hu3rror/scoop-muggle
-cyberchef_hu3rror.json,hu3rror/scoop-muggle
 pdfpatcher_hu3rror.json,hu3rror/scoop-muggle
 pget_hu3rror.json,hu3rror/scoop-muggle
 logseq-nightly_hu3rror.json,hu3rror/scoop-muggle
