@@ -3138,6 +3138,7 @@ vcredist2010.json,ScoopInstaller/Extras
 soulseekqt.json,ScoopInstaller/Extras
 vibing.json,ScoopInstaller/Extras
 mozbackup.json,ScoopInstaller/Extras
+gitas.json,ScoopInstaller/Extras
 fix-print-spooler.json,ScoopInstaller/Extras
 xnconvert.json,ScoopInstaller/Extras
 koharu.json,ScoopInstaller/Extras
@@ -13592,7 +13593,7 @@ Hitomi-Downloader_cc713.json,cc713/ownscoop
 KeymouseGo_cc713.json,cc713/ownscoop
 ghostscript_cc713.json,cc713/ownscoop
 RegCool-Portable_cc713.json,cc713/ownscoop
-nomacs_cc713.json,cc713/ownscoop
+nomacs.json,cc713/ownscoop
 x64dbg_cc713.json,cc713/ownscoop
 mpv.net-DW.json,cc713/ownscoop
 cudatext-addons.json,cc713/ownscoop
