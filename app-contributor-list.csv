@@ -4480,7 +4480,7 @@ otto-matic.json,Calinou/scoop-games
 ecwolf.json,Calinou/scoop-games
 chunker-cli.json,Calinou/scoop-games
 weakauras-companion.json,Calinou/scoop-games
-starward.json,Calinou/scoop-games
+starward_Calinou.json,Calinou/scoop-games
 pso2-tweaker.json,Calinou/scoop-games
 wesnoth.json,Calinou/scoop-games
 golly.json,Calinou/scoop-games
@@ -8547,7 +8547,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -8929,17 +8929,20 @@ smoothie.json,couleur-tweak-tips/utils
 mouse-tester-fork.json,couleur-tweak-tips/utils
 usbtreeview_couleur-tweak-tips.json,couleur-tweak-tips/utils
 MediaDownloader.json,couleur-tweak-tips/utils
+autofix-checkver-report.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 2ship2harkinian.json,borger/scoop-emulators
-ares_borger.json,borger/scoop-emulators
 shadps4_borger.json,borger/scoop-emulators
-desmume_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
+shadps4-dev_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
+goldeneye-recomp.json,borger/scoop-emulators
 eden_borger.json,borger/scoop-emulators
+eden-nightly_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
+bsnes-mt_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 azahar_borger.json,borger/scoop-emulators
@@ -8973,6 +8976,7 @@ xenia-canary_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
+xemu-dev_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 bsnes-nightly.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
@@ -14335,7 +14339,7 @@ qbittorrent-enhanced_404NetworkError.json,404NetworkError/scoop-bucket
 intro-detection-info.json,404NetworkError/scoop-bucket
 nvflash.json,404NetworkError/scoop-bucket
 uutils-diffutils_404NetworkError.json,404NetworkError/scoop-bucket
-spaghettikart.json,404NetworkError/scoop-bucket
+spaghettikart_404NetworkError.json,404NetworkError/scoop-bucket
 vmware-macos-unlocker.json,404NetworkError/scoop-bucket
 fupx.json,404NetworkError/scoop-bucket
 qrencode_404NetworkError.json,404NetworkError/scoop-bucket
