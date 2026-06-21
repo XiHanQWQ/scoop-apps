@@ -8547,7 +8547,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -8932,6 +8932,7 @@ MediaDownloader.json,couleur-tweak-tips/utils
 snes9x-dev_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 2ship2harkinian.json,borger/scoop-emulators
+ares_borger.json,borger/scoop-emulators
 shadps4_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 shadps4-dev_borger.json,borger/scoop-emulators
@@ -8953,6 +8954,7 @@ cxbx-reloaded_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
+retroarch_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 mupen64plus.json,borger/scoop-emulators
@@ -12925,6 +12927,7 @@ openai-translator_TianXiaTech.json,TianXiaTech/scoop-txt
 geekdesk.json,TianXiaTech/scoop-txt
 360wallpaper.json,TianXiaTech/scoop-txt
 Noi_TianXiaTech.json,TianXiaTech/scoop-txt
+tolaria.json,TianXiaTech/scoop-txt
 winsw-alpha.json,TianXiaTech/scoop-txt
 cherry-studio_TianXiaTech.json,TianXiaTech/scoop-txt
 cntv_TianXiaTech.json,TianXiaTech/scoop-txt
