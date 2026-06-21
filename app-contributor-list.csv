@@ -8929,7 +8929,6 @@ smoothie.json,couleur-tweak-tips/utils
 mouse-tester-fork.json,couleur-tweak-tips/utils
 usbtreeview_couleur-tweak-tips.json,couleur-tweak-tips/utils
 MediaDownloader.json,couleur-tweak-tips/utils
-autofix-checkver-report.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 2ship2harkinian.json,borger/scoop-emulators
@@ -10215,7 +10214,7 @@ registry-key-jumper_DoveBoy.json,DoveBoy/Apps
 unigetui_DoveBoy.json,DoveBoy/Apps
 kotatogram_DoveBoy.json,DoveBoy/Apps
 etcher-portable.json,DoveBoy/Apps
-screencapture_DoveBoy.json,DoveBoy/Apps
+screencapture.json,DoveBoy/Apps
 tmall-miao.json,DoveBoy/Apps
 linuxdoc.json,DoveBoy/Apps
 diskcheckup_DoveBoy.json,DoveBoy/Apps
@@ -10305,6 +10304,7 @@ ripgrep_DoveBoy.json,DoveBoy/Apps
 optimizer_DoveBoy.json,DoveBoy/Apps
 mpv.net-beta_DoveBoy.json,DoveBoy/Apps
 pls.json,DoveBoy/Apps
+winmole.json,DoveBoy/Apps
 alist_DoveBoy.json,DoveBoy/Apps
 psreadlineviextension.json,DoveBoy/Apps
 telegram_DoveBoy.json,DoveBoy/Apps
@@ -11706,7 +11706,7 @@ potplayer_WinApps-share.json,WinApps-share/WinApps-bucket
 mocreak-np.json,WinApps-share/WinApps-bucket
 rufus-portable_WinApps-share.json,WinApps-share/WinApps-bucket
 compresso_WinApps-share.json,WinApps-share/WinApps-bucket
-pixpin_WinApps-share.json,WinApps-share/WinApps-bucket
+pixpin.json,WinApps-share/WinApps-bucket
 powertoys_WinApps-share.json,WinApps-share/WinApps-bucket
 motrix_WinApps-share.json,WinApps-share/WinApps-bucket
 telegram_WinApps-share.json,WinApps-share/WinApps-bucket
