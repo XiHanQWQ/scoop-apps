@@ -8966,7 +8966,7 @@ mesen-s_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
@@ -14398,6 +14398,7 @@ fio-aoks.json,AntonOks/scoop-aoks
 kubectl-crossplane-aoks.json,AntonOks/scoop-aoks
 talosctl-aoks.json,AntonOks/scoop-aoks
 IntelliJIDEA-aoks.json,AntonOks/scoop-aoks
+winscript-aoks.json,AntonOks/scoop-aoks
 incus-aoks.json,AntonOks/scoop-aoks
 xcaddy-aoks.json,AntonOks/scoop-aoks
 kopiaUI-aoks.json,AntonOks/scoop-aoks
