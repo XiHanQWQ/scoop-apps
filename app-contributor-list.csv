@@ -8548,7 +8548,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -9842,6 +9842,7 @@ youku.json,DoveBoy/Apps
 clash_DoveBoy.json,DoveBoy/Apps
 openssh_DoveBoy.json,DoveBoy/Apps
 monit.json,DoveBoy/Apps
+kamusic.json,DoveBoy/Apps
 jmcomic-downloader.json,DoveBoy/Apps
 pdfqfz.json,DoveBoy/Apps
 jq_DoveBoy.json,DoveBoy/Apps
@@ -10081,7 +10082,6 @@ quarkpantool.json,DoveBoy/Apps
 whisper.json,DoveBoy/Apps
 quickclipboard-portable.json,DoveBoy/Apps
 sed_DoveBoy.json,DoveBoy/Apps
-darktable_DoveBoy.json,DoveBoy/Apps
 spacedrive.json,DoveBoy/Apps
 twinkle-tray_DoveBoy.json,DoveBoy/Apps
 ofgb-with-runtime.json,DoveBoy/Apps
@@ -10353,6 +10353,7 @@ joinersplitter.json,DoveBoy/Apps
 xmusicdownloader.json,DoveBoy/Apps
 gnupg_DoveBoy.json,DoveBoy/Apps
 pixivbiu.json,DoveBoy/Apps
+kamusic-portable.json,DoveBoy/Apps
 webcam-on-off_DoveBoy.json,DoveBoy/Apps
 esearch_DoveBoy.json,DoveBoy/Apps
 karing-portable.json,DoveBoy/Apps
@@ -11105,7 +11106,7 @@ boom_naderi.json,naderi/scoop-bucket
 leomoon-parsinegar.json,naderi/scoop-bucket
 foxmail_naderi.json,naderi/scoop-bucket
 windowgrid.json,naderi/scoop-bucket
-onthespot_naderi.json,naderi/scoop-bucket
+onthespot.json,naderi/scoop-bucket
 locate_naderi.json,naderi/scoop-bucket
 lyx_naderi.json,naderi/scoop-bucket
 openwebstart.json,naderi/scoop-bucket
@@ -11739,7 +11740,7 @@ qbittorrent-enhanced_WinApps-share.json,WinApps-share/WinApps-bucket
 7zip_WinApps-share.json,WinApps-share/WinApps-bucket
 keyviz_WinApps-share.json,WinApps-share/WinApps-bucket
 lanzouyun-disk_WinApps-share.json,WinApps-share/WinApps-bucket
-everything-toolbar.json,WinApps-share/WinApps-bucket
+everything-toolbar_WinApps-share.json,WinApps-share/WinApps-bucket
 lively_WinApps-share.json,WinApps-share/WinApps-bucket
 ditto_WinApps-share.json,WinApps-share/WinApps-bucket
 ecopaste.json,WinApps-share/WinApps-bucket
@@ -12465,6 +12466,7 @@ hulak.json,aliesbelik/poldi
 qv.json,aliesbelik/poldi
 taws.json,aliesbelik/poldi
 srgn.json,aliesbelik/poldi
+mapcidr.json,aliesbelik/poldi
 csvq.json,aliesbelik/poldi
 xq_aliesbelik.json,aliesbelik/poldi
 g_aliesbelik.json,aliesbelik/poldi
