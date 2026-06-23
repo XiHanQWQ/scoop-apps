@@ -3711,7 +3711,7 @@ dotnet-install.json,chawyehsu/dorado
 kitch.json,chawyehsu/dorado
 stable-diffusion-cpp.json,chawyehsu/dorado
 lhmouse-gcc-mcf-snapshot-ucrt.json,chawyehsu/dorado
-podman-desktop.json,chawyehsu/dorado
+podman-desktop_chawyehsu.json,chawyehsu/dorado
 electron-cash_chawyehsu.json,chawyehsu/dorado
 dotnet-uninstall-tool.json,chawyehsu/dorado
 qtscrcpy_chawyehsu.json,chawyehsu/dorado
@@ -7644,6 +7644,7 @@ rstudio-pro-release.json,cderv/r-bucket
 mq-dbg.json,cderv/r-bucket
 rstudio-2022.02.json,cderv/r-bucket
 mq-edit.json,cderv/r-bucket
+kata.json,cderv/r-bucket
 q2.json,cderv/r-bucket
 rstudio-2023.09.json,cderv/r-bucket
 ggsql.json,cderv/r-bucket
