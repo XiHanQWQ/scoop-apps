@@ -3711,7 +3711,7 @@ dotnet-install.json,chawyehsu/dorado
 kitch.json,chawyehsu/dorado
 stable-diffusion-cpp.json,chawyehsu/dorado
 lhmouse-gcc-mcf-snapshot-ucrt.json,chawyehsu/dorado
-podman-desktop_chawyehsu.json,chawyehsu/dorado
+podman-desktop.json,chawyehsu/dorado
 electron-cash_chawyehsu.json,chawyehsu/dorado
 dotnet-uninstall-tool.json,chawyehsu/dorado
 qtscrcpy_chawyehsu.json,chawyehsu/dorado
@@ -8548,7 +8548,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -8966,7 +8966,7 @@ mesen-s_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
@@ -13434,7 +13434,7 @@ imgdrive.json,aoisummer/scoop-bucket
 aegisub_aoisummer.json,aoisummer/scoop-bucket
 windowgrid_aoisummer.json,aoisummer/scoop-bucket
 komelia.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 autologon_aoisummer.json,aoisummer/scoop-bucket
 sakura-launcher-gui.json,aoisummer/scoop-bucket
 bbdown_aoisummer.json,aoisummer/scoop-bucket
@@ -14769,7 +14769,7 @@ mediamtx_HUMORCE.json,HUMORCE/nuke
 everything-alpha_maboloshi.json,maboloshi/scoop-private
 we-meet_maboloshi.json,maboloshi/scoop-private
 ffmpeg-essentials_maboloshi.json,maboloshi/scoop-private
-microsoftedge-beta.json,maboloshi/scoop-private
+microsoftedge-beta_maboloshi.json,maboloshi/scoop-private
 cmirror.json,maboloshi/scoop-private
 clash-verge-rev_maboloshi.json,maboloshi/scoop-private
 WinEdt11.json,maboloshi/scoop-private
