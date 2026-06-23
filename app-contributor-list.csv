@@ -8614,6 +8614,7 @@ IniFile.json,dodorz/scoop
 Appetizer.json,dodorz/scoop
 lanzou.json,dodorz/scoop
 dnote.json,dodorz/scoop
+ZQFS.json,dodorz/scoop
 WACUP.json,dodorz/scoop
 VDM.json,dodorz/scoop
 FireAlpaca.json,dodorz/scoop
@@ -8966,7 +8967,7 @@ mesen-s_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
