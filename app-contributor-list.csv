@@ -1457,7 +1457,7 @@ php-xdebug.json,ScoopInstaller/Extras
 cascadeur.json,ScoopInstaller/Extras
 github.json,ScoopInstaller/Extras
 upsource.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 keepass-plugin-keetheme.json,ScoopInstaller/Extras
 xl-converter.json,ScoopInstaller/Extras
 palemoon.json,ScoopInstaller/Extras
@@ -8972,7 +8972,7 @@ mesen_borger.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
-rpcs3_borger.json,borger/scoop-emulators
+rpcs3.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -9935,7 +9935,6 @@ vimtutor_DoveBoy.json,DoveBoy/Apps
 bookget.json,DoveBoy/Apps
 qmc-decoder.json,DoveBoy/Apps
 github_DoveBoy.json,DoveBoy/Apps
-electerm_DoveBoy.json,DoveBoy/Apps
 typora-dev_DoveBoy.json,DoveBoy/Apps
 opentrace_DoveBoy.json,DoveBoy/Apps
 clash-rev-cgo.json,DoveBoy/Apps
@@ -12929,7 +12928,7 @@ uefitool-ne.json,seumsc/scoop-seu
 musicdecrypto.json,seumsc/scoop-seu
 jxl-winthumb_seumsc.json,seumsc/scoop-seu
 mahjong-helper_seumsc.json,seumsc/scoop-seu
-kook_seumsc.json,seumsc/scoop-seu
+kook.json,seumsc/scoop-seu
 cpachecker.json,seumsc/scoop-seu
 madvr-test.json,seumsc/scoop-seu
 winpkfilter.json,seumsc/scoop-seu
