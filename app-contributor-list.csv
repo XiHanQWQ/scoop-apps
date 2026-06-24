@@ -1457,7 +1457,7 @@ php-xdebug.json,ScoopInstaller/Extras
 cascadeur.json,ScoopInstaller/Extras
 github.json,ScoopInstaller/Extras
 upsource.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 keepass-plugin-keetheme.json,ScoopInstaller/Extras
 xl-converter.json,ScoopInstaller/Extras
 palemoon.json,ScoopInstaller/Extras
@@ -3718,7 +3718,7 @@ qtscrcpy_chawyehsu.json,chawyehsu/dorado
 pixi_chawyehsu.json,chawyehsu/dorado
 firefox-beta-zh-cn.json,chawyehsu/dorado
 clipber.json,chawyehsu/dorado
-wechatwork_chawyehsu.json,chawyehsu/dorado
+wechatwork.json,chawyehsu/dorado
 imewlconverter.json,chawyehsu/dorado
 libarchive.json,chawyehsu/dorado
 gpac_chawyehsu.json,chawyehsu/dorado
@@ -3798,7 +3798,7 @@ process-explorer.json,chawyehsu/dorado
 chinesesubtitleconversiontool.json,chawyehsu/dorado
 beekeeper.json,chawyehsu/dorado
 pincat.json,chawyehsu/dorado
-kodi_chawyehsu.json,chawyehsu/dorado
+kodi.json,chawyehsu/dorado
 neteaseuu.json,chawyehsu/dorado
 todesk.json,chawyehsu/dorado
 activitywatch_chawyehsu.json,chawyehsu/dorado
@@ -4439,7 +4439,7 @@ pacmc.json,Calinou/scoop-games
 endless-sky.json,Calinou/scoop-games
 cemu.json,Calinou/scoop-games
 openrct2.json,Calinou/scoop-games
-hmcl.json,Calinou/scoop-games
+hmcl_Calinou.json,Calinou/scoop-games
 goggalaxy.json,Calinou/scoop-games
 minutor.json,Calinou/scoop-games
 pandoralauncher.json,Calinou/scoop-games
@@ -6618,6 +6618,7 @@ GooFuzz.json,tldrw/scoop-security
 Crypto.json,tldrw/scoop-security
 ehole.json,tldrw/scoop-security
 JMG.json,tldrw/scoop-security
+ImHex_tldrw.json,tldrw/scoop-security
 yakit.json,tldrw/scoop-security
 rad.json,tldrw/scoop-security
 AntSword.json,tldrw/scoop-security
@@ -8549,7 +8550,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -9528,7 +9529,6 @@ unzip_akirco.json,akirco/aki-apps
 aria2_akirco.json,akirco/aki-apps
 poppler_akirco.json,akirco/aki-apps
 win32-openssh.json,akirco/aki-apps
-bilibili-livehime.json,akirco/aki-apps
 vcredist2012_akirco.json,akirco/aki-apps
 windows-terminal-quake_akirco.json,akirco/aki-apps
 obs-studio_akirco.json,akirco/aki-apps
@@ -9667,7 +9667,7 @@ which_akirco.json,akirco/aki-apps
 qt-creator_akirco.json,akirco/aki-apps
 baidudisk.json,akirco/aki-apps
 scoop-completion_akirco.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 oxipng_akirco.json,akirco/aki-apps
 memo.json,akirco/aki-apps
 simple-live.json,akirco/aki-apps
@@ -9935,6 +9935,7 @@ vimtutor_DoveBoy.json,DoveBoy/Apps
 bookget.json,DoveBoy/Apps
 qmc-decoder.json,DoveBoy/Apps
 github_DoveBoy.json,DoveBoy/Apps
+electerm_DoveBoy.json,DoveBoy/Apps
 typora-dev_DoveBoy.json,DoveBoy/Apps
 opentrace_DoveBoy.json,DoveBoy/Apps
 clash-rev-cgo.json,DoveBoy/Apps
@@ -11439,7 +11440,7 @@ arturo_amorphobia.json,amorphobia/siku
 vmping.json,amorphobia/siku
 pcl2-ce.json,amorphobia/siku
 ipatool_amorphobia.json,amorphobia/siku
-filebrowser.json,amorphobia/siku
+filebrowser_amorphobia.json,amorphobia/siku
 rubick_amorphobia.json,amorphobia/siku
 bcdown.json,amorphobia/siku
 jijidown.json,amorphobia/siku
