@@ -8551,7 +8551,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -9449,7 +9449,7 @@ git-town_akirco.json,akirco/aki-apps
 nvs_akirco.json,akirco/aki-apps
 yq_akirco.json,akirco/aki-apps
 neofetch_akirco.json,akirco/aki-apps
-github.json,akirco/aki-apps
+github_akirco.json,akirco/aki-apps
 electerm_akirco.json,akirco/aki-apps
 selenium_akirco.json,akirco/aki-apps
 tomcat8_akirco.json,akirco/aki-apps
@@ -10301,7 +10301,6 @@ dtv.json,DoveBoy/Apps
 compresso.json,DoveBoy/Apps
 cmwtat-digital-edition.json,DoveBoy/Apps
 fanqienovel-downloader.json,DoveBoy/Apps
-powertoys.json,DoveBoy/Apps
 bilibilidown-with-jre.json,DoveBoy/Apps
 motrix_DoveBoy.json,DoveBoy/Apps
 ciyue.json,DoveBoy/Apps
@@ -10499,7 +10498,7 @@ bottom_DoveBoy.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
 github-hosts.json,DoveBoy/Apps
 mpv-git_DoveBoy.json,DoveBoy/Apps
-ventoy_DoveBoy.json,DoveBoy/Apps
+ventoy.json,DoveBoy/Apps
 zephyr-portable.json,DoveBoy/Apps
 obs-studio-pre_DoveBoy.json,DoveBoy/Apps
 chfs-tab-completion.json,DoveBoy/Apps
@@ -11724,7 +11723,7 @@ weasel_WinApps-share.json,WinApps-share/WinApps-bucket
 musicfree-np.json,WinApps-share/WinApps-bucket
 cherry-studio-np.json,WinApps-share/WinApps-bucket
 watt-toolkit_WinApps-share.json,WinApps-share/WinApps-bucket
-notepad--_WinApps-share.json,WinApps-share/WinApps-bucket
+notepad--.json,WinApps-share/WinApps-bucket
 git-np.json,WinApps-share/WinApps-bucket
 bandizip_WinApps-share.json,WinApps-share/WinApps-bucket
 ppduck3.json,WinApps-share/WinApps-bucket
@@ -12563,7 +12562,7 @@ pdf4qt.json,Scoopforge/Extras-Plus
 ecopaste_Scoopforge.json,Scoopforge/Extras-Plus
 winhance_Scoopforge.json,Scoopforge/Extras-Plus
 scihubeva_Scoopforge.json,Scoopforge/Extras-Plus
-linkandroid_Scoopforge.json,Scoopforge/Extras-Plus
+linkandroid.json,Scoopforge/Extras-Plus
 doxygen-gui.json,Scoopforge/Extras-Plus
 bitcomet_Scoopforge.json,Scoopforge/Extras-Plus
 dbgate.json,Scoopforge/Extras-Plus
