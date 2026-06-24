@@ -1798,7 +1798,7 @@ processing.json,ScoopInstaller/Extras
 wxhexeditor.json,ScoopInstaller/Extras
 dosbox-staging.json,ScoopInstaller/Extras
 uninstall-tool.json,ScoopInstaller/Extras
-vscode_ScoopInstaller.json,ScoopInstaller/Extras
+vscode.json,ScoopInstaller/Extras
 nheko.json,ScoopInstaller/Extras
 npiperelay.json,ScoopInstaller/Extras
 dz6.json,ScoopInstaller/Extras
@@ -7987,6 +7987,7 @@ QoderCN.json,dodorz/scoop
 CoverYourTracks.json,dodorz/scoop
 tagLyst.json,dodorz/scoop
 AquaSnapPersonal.json,dodorz/scoop
+F4Menu.json,dodorz/scoop
 OhMyPPT.json,dodorz/scoop
 ElevateToSystem.json,dodorz/scoop
 UGit.json,dodorz/scoop
@@ -8972,7 +8973,7 @@ mesen_borger.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
-rpcs3.json,borger/scoop-emulators
+rpcs3_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -9448,7 +9449,7 @@ git-town_akirco.json,akirco/aki-apps
 nvs_akirco.json,akirco/aki-apps
 yq_akirco.json,akirco/aki-apps
 neofetch_akirco.json,akirco/aki-apps
-github_akirco.json,akirco/aki-apps
+github.json,akirco/aki-apps
 electerm_akirco.json,akirco/aki-apps
 selenium_akirco.json,akirco/aki-apps
 tomcat8_akirco.json,akirco/aki-apps
@@ -10034,7 +10035,6 @@ mrrss-portable.json,DoveBoy/Apps
 winrar-keygen-cli.json,DoveBoy/Apps
 audio-share.json,DoveBoy/Apps
 ghostdownloader3.json,DoveBoy/Apps
-reicon_DoveBoy.json,DoveBoy/Apps
 stemdeck.json,DoveBoy/Apps
 miru-portable.json,DoveBoy/Apps
 bestsub.json,DoveBoy/Apps
@@ -10301,6 +10301,7 @@ dtv.json,DoveBoy/Apps
 compresso.json,DoveBoy/Apps
 cmwtat-digital-edition.json,DoveBoy/Apps
 fanqienovel-downloader.json,DoveBoy/Apps
+powertoys.json,DoveBoy/Apps
 bilibilidown-with-jre.json,DoveBoy/Apps
 motrix_DoveBoy.json,DoveBoy/Apps
 ciyue.json,DoveBoy/Apps
