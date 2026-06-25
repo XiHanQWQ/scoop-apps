@@ -6,11 +6,6 @@
     "url": "https://github.com/ventoy/Ventoy/releases/download/v1.1.15/ventoy-1.1.15-windows.zip",
     "hash": "d5af29281ba8b57d7c398f452d31a5d031f6dcb460bdb0a67b2115dfef372b76",
     "extract_dir": "ventoy-1.1.15",
-    "pre_install": [
-        "'log.txt', 'Ventoy2Disk.ini' | ForEach-Object {",
-        "    if (!(Test-Path \"$persist_dir\\$_\")) { New-Item \"$dir\\$_\" -ItemType File | Out-Null }",
-        "}"
-    ],
     "architecture": {
         "64bit": {
             "bin": [
@@ -77,6 +72,11 @@
             ]
         }
     },
+    "pre_install": [
+        "'log.txt', 'Ventoy2Disk.ini' | ForEach-Object {",
+        "    if (-not (Test-Path \"$persist_dir\\$_\")) { New-Item -Path \"$dir\\$_\" -ItemType File -Force | Out-Null }",
+        "}"
+    ],
     "persist": [
         "log.txt",
         "Ventoy2Disk.ini"
@@ -87,7 +87,7 @@
     "autoupdate": {
         "url": "https://github.com/ventoy/Ventoy/releases/download/v$version/ventoy-$version-windows.zip",
         "hash": {
-            "url": "$baseurl/sha256.txt"
+            "url": "https://github.com/ventoy/Ventoy/releases/tag/v$version"
         },
         "extract_dir": "ventoy-$version"
     }

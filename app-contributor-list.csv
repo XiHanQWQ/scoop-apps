@@ -2085,7 +2085,7 @@ obs-plugin-droidcam.json,ScoopInstaller/Extras
 real.json,ScoopInstaller/Extras
 wifi-manager.json,ScoopInstaller/Extras
 screen-saver-control.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 godot-version-manager.json,ScoopInstaller/Extras
 vcredist2012.json,ScoopInstaller/Extras
 clustalw.json,ScoopInstaller/Extras
@@ -3718,7 +3718,7 @@ qtscrcpy_chawyehsu.json,chawyehsu/dorado
 pixi_chawyehsu.json,chawyehsu/dorado
 firefox-beta-zh-cn.json,chawyehsu/dorado
 clipber.json,chawyehsu/dorado
-wechatwork.json,chawyehsu/dorado
+wechatwork_chawyehsu.json,chawyehsu/dorado
 imewlconverter.json,chawyehsu/dorado
 libarchive.json,chawyehsu/dorado
 gpac_chawyehsu.json,chawyehsu/dorado
@@ -6472,7 +6472,7 @@ qttabbar-np.json,ScoopInstaller/Nonportable
 everything-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 sandboxie-plus-np.json,ScoopInstaller/Nonportable
 link-shell-extension-np.json,ScoopInstaller/Nonportable
-teracopy-np_ScoopInstaller.json,ScoopInstaller/Nonportable
+teracopy-np.json,ScoopInstaller/Nonportable
 protonvpn-np.json,ScoopInstaller/Nonportable
 qttabbar-indiff-np.json,ScoopInstaller/Nonportable
 voicemeeter-np.json,ScoopInstaller/Nonportable
@@ -8953,7 +8953,7 @@ mgba_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 azahar_borger.json,borger/scoop-emulators
 visualboyadvance-m.json,borger/scoop-emulators
-duckstation-preview_borger.json,borger/scoop-emulators
+duckstation-preview.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
@@ -9944,7 +9944,7 @@ varia_DoveBoy.json,DoveBoy/Apps
 videofusion.json,DoveBoy/Apps
 vidbee.json,DoveBoy/Apps
 windows-manage-tool.json,DoveBoy/Apps
-cudatext_DoveBoy.json,DoveBoy/Apps
+cudatext.json,DoveBoy/Apps
 cheat-engine_DoveBoy.json,DoveBoy/Apps
 onlyoffice-desktopeditors_DoveBoy.json,DoveBoy/Apps
 gnupg-np_DoveBoy.json,DoveBoy/Apps
@@ -10202,6 +10202,7 @@ gns3.json,DoveBoy/Apps
 wechatrealfriends.json,DoveBoy/Apps
 quicklook_DoveBoy.json,DoveBoy/Apps
 picturecleaner.json,DoveBoy/Apps
+skiff.json,DoveBoy/Apps
 compactgui.json,DoveBoy/Apps
 go-musicfox.json,DoveBoy/Apps
 pnpm_DoveBoy.json,DoveBoy/Apps
@@ -10448,6 +10449,7 @@ idm.json,DoveBoy/Apps
 7zip_DoveBoy.json,DoveBoy/Apps
 czkawka_DoveBoy.json,DoveBoy/Apps
 zy-player_DoveBoy.json,DoveBoy/Apps
+gtweak.json,DoveBoy/Apps
 keyviz.json,DoveBoy/Apps
 doggo_DoveBoy.json,DoveBoy/Apps
 lanzouyun-disk.json,DoveBoy/Apps
@@ -10469,9 +10471,9 @@ xhs-downloader.json,DoveBoy/Apps
 winhance.json,DoveBoy/Apps
 shadowsocks_DoveBoy.json,DoveBoy/Apps
 everything-lite_DoveBoy.json,DoveBoy/Apps
-karing.json,DoveBoy/Apps
+karing_DoveBoy.json,DoveBoy/Apps
 speedtest-cli_DoveBoy.json,DoveBoy/Apps
-joplin-pre.json,DoveBoy/Apps
+joplin-pre_DoveBoy.json,DoveBoy/Apps
 waveterm_DoveBoy.json,DoveBoy/Apps
 iobit-uninstaller.json,DoveBoy/Apps
 pixeval.json,DoveBoy/Apps
@@ -10500,7 +10502,7 @@ bottom_DoveBoy.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
 github-hosts.json,DoveBoy/Apps
 mpv-git_DoveBoy.json,DoveBoy/Apps
-ventoy.json,DoveBoy/Apps
+ventoy_DoveBoy.json,DoveBoy/Apps
 zephyr-portable.json,DoveBoy/Apps
 obs-studio-pre_DoveBoy.json,DoveBoy/Apps
 chfs-tab-completion.json,DoveBoy/Apps
