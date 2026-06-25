@@ -49,12 +49,12 @@
     "checkver": {
         "github": "https://api.github.com/repos/stark81/VutronMusic/releases",
         "jsonpath": "$[0].assets[*].browser_download_url",
-        "regex": "/releases/download/v([\\d.]+)/VutronMusic-([\\d.]+)_win_x64.exe"
+        "regex": "/releases/download/(?<tag>[\\w.-]+)/VutronMusic-([\\d.]+)_win_x64.exe"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/stark81/VutronMusic/releases/download/v$version/VutronMusic-$version_win_x64.exe#/dl.7z",
+                "url": "https://github.com/stark81/VutronMusic/releases/download/$matchTag/VutronMusic-$version_win_x64.exe#/dl.7z",
                 "hash": {
                     "url": "$baseurl/latest.yml",
                     "mode": "extract",
@@ -62,7 +62,7 @@
                 }
             },
             "arm64": {
-                "url": "https://github.com/stark81/VutronMusic/releases/download/v$version/VutronMusic-$version_win_arm64.exe#/dl.7z",
+                "url": "https://github.com/stark81/VutronMusic/releases/download/$matchTag/VutronMusic-$version_win_arm64.exe#/dl.7z",
                 "hash": {
                     "url": "$baseurl/latest.yml",
                     "mode": "extract",

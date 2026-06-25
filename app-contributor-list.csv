@@ -1798,7 +1798,7 @@ processing.json,ScoopInstaller/Extras
 wxhexeditor.json,ScoopInstaller/Extras
 dosbox-staging.json,ScoopInstaller/Extras
 uninstall-tool.json,ScoopInstaller/Extras
-vscode.json,ScoopInstaller/Extras
+vscode_ScoopInstaller.json,ScoopInstaller/Extras
 nheko.json,ScoopInstaller/Extras
 npiperelay.json,ScoopInstaller/Extras
 dz6.json,ScoopInstaller/Extras
@@ -4500,6 +4500,7 @@ r2modman.json,Calinou/scoop-games
 steam-achievement-manager.json,Calinou/scoop-games
 umoria.json,Calinou/scoop-games
 bedrock-launcher.json,Calinou/scoop-games
+es-de.json,Calinou/scoop-games
 supermodel.json,Calinou/scoop-games
 freeorion.json,Calinou/scoop-games
 pegasus.json,Calinou/scoop-games
@@ -8551,7 +8552,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -9943,6 +9944,7 @@ varia_DoveBoy.json,DoveBoy/Apps
 videofusion.json,DoveBoy/Apps
 vidbee.json,DoveBoy/Apps
 windows-manage-tool.json,DoveBoy/Apps
+cudatext_DoveBoy.json,DoveBoy/Apps
 cheat-engine_DoveBoy.json,DoveBoy/Apps
 onlyoffice-desktopeditors_DoveBoy.json,DoveBoy/Apps
 gnupg-np_DoveBoy.json,DoveBoy/Apps
@@ -10143,7 +10145,6 @@ lettura.json,DoveBoy/Apps
 imagemagick_DoveBoy.json,DoveBoy/Apps
 ps-guicompletion.json,DoveBoy/Apps
 7zip-beta_DoveBoy.json,DoveBoy/Apps
-helium_DoveBoy.json,DoveBoy/Apps
 anyportal-portable.json,DoveBoy/Apps
 retrieval-based-voice-conversion-webui.json,DoveBoy/Apps
 downkyi_DoveBoy.json,DoveBoy/Apps
@@ -10470,7 +10471,7 @@ shadowsocks_DoveBoy.json,DoveBoy/Apps
 everything-lite_DoveBoy.json,DoveBoy/Apps
 karing.json,DoveBoy/Apps
 speedtest-cli_DoveBoy.json,DoveBoy/Apps
-joplin-pre_DoveBoy.json,DoveBoy/Apps
+joplin-pre.json,DoveBoy/Apps
 waveterm_DoveBoy.json,DoveBoy/Apps
 iobit-uninstaller.json,DoveBoy/Apps
 pixeval.json,DoveBoy/Apps
@@ -10499,7 +10500,7 @@ bottom_DoveBoy.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
 github-hosts.json,DoveBoy/Apps
 mpv-git_DoveBoy.json,DoveBoy/Apps
-ventoy_DoveBoy.json,DoveBoy/Apps
+ventoy.json,DoveBoy/Apps
 zephyr-portable.json,DoveBoy/Apps
 obs-studio-pre_DoveBoy.json,DoveBoy/Apps
 chfs-tab-completion.json,DoveBoy/Apps
@@ -10699,7 +10700,7 @@ applicationinspector.json,wzv5/ScoopBucket
 besttrace_wzv5.json,wzv5/ScoopBucket
 winscp_wzv5.json,wzv5/ScoopBucket
 python-doc.json,wzv5/ScoopBucket
-qqlive.json,wzv5/ScoopBucket
+qqlive_wzv5.json,wzv5/ScoopBucket
 aliyundrive_wzv5.json,wzv5/ScoopBucket
 utools_wzv5.json,wzv5/ScoopBucket
 regex-tool.json,wzv5/ScoopBucket
@@ -12047,6 +12048,7 @@ mpv-sponsorblock-minimal.json,brian6932/dank-scoop
 moldau.json,brian6932/dank-scoop
 thorium_brian6932.json,brian6932/dank-scoop
 winbtrfs.json,brian6932/dank-scoop
+keyboard-inspector.json,brian6932/dank-scoop
 rquickshare.json,brian6932/dank-scoop
 mouse-monitor.json,brian6932/dank-scoop
 sync-dis-boi.json,brian6932/dank-scoop
@@ -12352,6 +12354,7 @@ chrono.json,aliesbelik/poldi
 gopayloader.json,aliesbelik/poldi
 pingu.json,aliesbelik/poldi
 sql-studio_aliesbelik.json,aliesbelik/poldi
+hunk.json,aliesbelik/poldi
 pingy.json,aliesbelik/poldi
 cq_aliesbelik.json,aliesbelik/poldi
 kubectl-explore.json,aliesbelik/poldi
@@ -12929,7 +12932,7 @@ uefitool-ne.json,seumsc/scoop-seu
 musicdecrypto.json,seumsc/scoop-seu
 jxl-winthumb_seumsc.json,seumsc/scoop-seu
 mahjong-helper_seumsc.json,seumsc/scoop-seu
-kook.json,seumsc/scoop-seu
+kook_seumsc.json,seumsc/scoop-seu
 cpachecker.json,seumsc/scoop-seu
 madvr-test.json,seumsc/scoop-seu
 winpkfilter.json,seumsc/scoop-seu
@@ -13439,7 +13442,7 @@ imgdrive.json,aoisummer/scoop-bucket
 aegisub_aoisummer.json,aoisummer/scoop-bucket
 windowgrid_aoisummer.json,aoisummer/scoop-bucket
 komelia.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 autologon_aoisummer.json,aoisummer/scoop-bucket
 sakura-launcher-gui.json,aoisummer/scoop-bucket
 bbdown_aoisummer.json,aoisummer/scoop-bucket
