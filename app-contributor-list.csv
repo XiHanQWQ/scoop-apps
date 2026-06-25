@@ -192,6 +192,7 @@ wps-photoplus.json,Weidows-projects/scoop-3rd
 obs-plugin-droidcam_fixed.json,Weidows-projects/scoop-3rd
 UsbEAm-Hosts-Editor.json,Weidows-projects/scoop-3rd
 Fluent-for-Steam.json,Weidows-projects/scoop-3rd
+bun_Weidows-projects.json,Weidows-projects/scoop-3rd
 vscode-portable-association.json,Weidows-projects/scoop-3rd
 MicrosoftEdge-dev-portable.json,Weidows-projects/scoop-3rd
 tickeys.json,Weidows-projects/scoop-3rd
@@ -381,7 +382,6 @@ UmaAi.json,Weidows-projects/scoop-3rd
 DnsTools.json,Weidows-projects/scoop-3rd
 psmodule-PowerShellAI.json,Weidows-projects/scoop-3rd
 ApiPost.json,Weidows-projects/scoop-3rd
-bun_Weidows-projects.json,Weidows-projects/scoop-3rd
 widgets.json,Weidows-projects/scoop-3rd
 Sapphire-EnhancedDesktop.json,Weidows-projects/scoop-3rd
 tbtool.json,Weidows-projects/scoop-3rd
@@ -2085,7 +2085,7 @@ obs-plugin-droidcam.json,ScoopInstaller/Extras
 real.json,ScoopInstaller/Extras
 wifi-manager.json,ScoopInstaller/Extras
 screen-saver-control.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 godot-version-manager.json,ScoopInstaller/Extras
 vcredist2012.json,ScoopInstaller/Extras
 clustalw.json,ScoopInstaller/Extras
@@ -9728,7 +9728,7 @@ charm.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
 soft-serve.json,charmbracelet/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 freeze.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
 mods_charmbracelet.json,charmbracelet/scoop-bucket
@@ -12850,13 +12850,13 @@ tinytex-extra_batkiz.json,batkiz/backit
 switchfin.json,batkiz/backit
 poetry_Weidows-projects.json,Weidows-projects/scoop-3rd
 ollama_Weidows-projects.json,Weidows-projects/scoop-3rd
+bun_Weidows-projects.json,Weidows-projects/scoop-3rd
 nvm_Weidows-projects.json,Weidows-projects/scoop-3rd
 pnpm_Weidows-projects.json,Weidows-projects/scoop-3rd
 eva_Weidows-projects.json,Weidows-projects/scoop-3rd
 Air_Weidows-projects.json,Weidows-projects/scoop-3rd
 bottom_Weidows-projects.json,Weidows-projects/scoop-3rd
 sshpass_Weidows-projects.json,Weidows-projects/scoop-3rd
-bun_Weidows-projects.json,Weidows-projects/scoop-3rd
 wezterm-grapao-green.json,ocodo/wezterm-alt-windows-icon-builds
 wezterm-grapao-base.json,ocodo/wezterm-alt-windows-icon-builds
 wezterm-gf3-darkultra-nueng.json,ocodo/wezterm-alt-windows-icon-builds
