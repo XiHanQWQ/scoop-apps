@@ -5277,6 +5277,7 @@ docker-nightly.json,ScoopInstaller/Versions
 neovim-nightly.json,ScoopInstaller/Versions
 postman-canary.json,ScoopInstaller/Versions
 de4dot-net45.json,ScoopInstaller/Versions
+llama.cpp-cu13.json,ScoopInstaller/Versions
 biber-prev.json,ScoopInstaller/Versions
 php82.json,ScoopInstaller/Versions
 elasticsearch2.json,ScoopInstaller/Versions
@@ -5651,6 +5652,7 @@ cuda11.3.json,ScoopInstaller/Versions
 maven4.json,ScoopInstaller/Versions
 reshade-addons.json,ScoopInstaller/Versions
 caret-beta.json,ScoopInstaller/Versions
+llama.cpp-cu13-dll.json,ScoopInstaller/Versions
 dart-dev.json,ScoopInstaller/Versions
 godot-alpha.json,ScoopInstaller/Versions
 llama.cpp-cu124-dll.json,ScoopInstaller/Versions
@@ -8344,6 +8346,7 @@ XnViewClassic-Full.json,dodorz/scoop
 PyScripter.json,dodorz/scoop
 TCC-RT.json,dodorz/scoop
 TuxPaint.json,dodorz/scoop
+Kun.json,dodorz/scoop
 KillCopy.json,dodorz/scoop
 imgcatr.json,dodorz/scoop
 DocFetcher.json,dodorz/scoop
@@ -8415,6 +8418,7 @@ odiff.json,dodorz/scoop
 ProcessKO.json,dodorz/scoop
 DiagramDesigner.json,dodorz/scoop
 Xion.json,dodorz/scoop
+ReasonixCLI.json,dodorz/scoop
 MinerU.json,dodorz/scoop
 OpenCC_dodorz.json,dodorz/scoop
 TweakPower.json,dodorz/scoop
@@ -8953,7 +8957,7 @@ mgba_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 azahar_borger.json,borger/scoop-emulators
 visualboyadvance-m.json,borger/scoop-emulators
-duckstation-preview.json,borger/scoop-emulators
+duckstation-preview_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
@@ -11239,6 +11243,7 @@ edge-portable-beta.json,naderi/scoop-bucket
 wlx2explorer.json,naderi/scoop-bucket
 cpod_naderi.json,naderi/scoop-bucket
 1by1_naderi.json,naderi/scoop-bucket
+encrypto_naderi.json,naderi/scoop-bucket
 iconview_naderi.json,naderi/scoop-bucket
 font-tanha.json,naderi/scoop-bucket
 youtube-downloader-hd.json,naderi/scoop-bucket
