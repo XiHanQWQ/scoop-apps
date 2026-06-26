@@ -2197,7 +2197,7 @@ freemove.json,ScoopInstaller/Extras
 launchy.json,ScoopInstaller/Extras
 shotcut.json,ScoopInstaller/Extras
 iris.json,ScoopInstaller/Extras
-g-helper_ScoopInstaller.json,ScoopInstaller/Extras
+g-helper.json,ScoopInstaller/Extras
 mps.json,ScoopInstaller/Extras
 filelight.json,ScoopInstaller/Extras
 firewallappblocker.json,ScoopInstaller/Extras
@@ -4356,6 +4356,7 @@ skyemu.json,Calinou/scoop-games
 eden.json,Calinou/scoop-games
 openmsx-dev.json,Calinou/scoop-games
 openmw-nightly.json,Calinou/scoop-games
+arcade-manager.json,Calinou/scoop-games
 eden-nightly.json,Calinou/scoop-games
 taisei.json,Calinou/scoop-games
 crewchief.json,Calinou/scoop-games
@@ -4571,6 +4572,7 @@ megameklab-dev.json,Calinou/scoop-games
 dsda-doom.json,Calinou/scoop-games
 nanosaur-2.json,Calinou/scoop-games
 simple64.json,Calinou/scoop-games
+arcade-manager-console.json,Calinou/scoop-games
 redream.json,Calinou/scoop-games
 openspades.json,Calinou/scoop-games
 wii-backup-manager.json,Calinou/scoop-games
@@ -14837,7 +14839,7 @@ tic80.json,littleli/Scoop-littleli
 everything-alpha_maboloshi.json,maboloshi/scoop-private
 we-meet_maboloshi.json,maboloshi/scoop-private
 ffmpeg-essentials_maboloshi.json,maboloshi/scoop-private
-microsoftedge-beta_maboloshi.json,maboloshi/scoop-private
+microsoftedge-beta.json,maboloshi/scoop-private
 cmirror.json,maboloshi/scoop-private
 clash-verge-rev_maboloshi.json,maboloshi/scoop-private
 WinEdt11.json,maboloshi/scoop-private
