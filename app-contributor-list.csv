@@ -9528,7 +9528,7 @@ hwmonitor_akirco.json,akirco/aki-apps
 crush.json,akirco/aki-apps
 spotube_akirco.json,akirco/aki-apps
 cpu-z_akirco.json,akirco/aki-apps
-jianyingpro.json,akirco/aki-apps
+jianyingpro_akirco.json,akirco/aki-apps
 biyi_akirco.json,akirco/aki-apps
 hub_akirco.json,akirco/aki-apps
 unzip_akirco.json,akirco/aki-apps
@@ -9673,7 +9673,7 @@ which_akirco.json,akirco/aki-apps
 qt-creator_akirco.json,akirco/aki-apps
 baidudisk.json,akirco/aki-apps
 scoop-completion_akirco.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 oxipng_akirco.json,akirco/aki-apps
 memo.json,akirco/aki-apps
 simple-live.json,akirco/aki-apps
@@ -10598,7 +10598,7 @@ clashxw.json,DoveBoy/Apps
 kobi.json,DoveBoy/Apps
 bleachbit_DoveBoy.json,DoveBoy/Apps
 fx_DoveBoy.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 gopeed_DoveBoy.json,DoveBoy/Apps
 joplin_DoveBoy.json,DoveBoy/Apps
 hashcat_DoveBoy.json,DoveBoy/Apps
@@ -11753,7 +11753,7 @@ qbittorrent-enhanced_WinApps-share.json,WinApps-share/WinApps-bucket
 7zip_WinApps-share.json,WinApps-share/WinApps-bucket
 keyviz_WinApps-share.json,WinApps-share/WinApps-bucket
 lanzouyun-disk_WinApps-share.json,WinApps-share/WinApps-bucket
-everything-toolbar_WinApps-share.json,WinApps-share/WinApps-bucket
+everything-toolbar.json,WinApps-share/WinApps-bucket
 lively_WinApps-share.json,WinApps-share/WinApps-bucket
 ditto_WinApps-share.json,WinApps-share/WinApps-bucket
 ecopaste.json,WinApps-share/WinApps-bucket
@@ -11778,7 +11778,7 @@ listen1-np.json,WinApps-share/WinApps-bucket
 dropit_WinApps-share.json,WinApps-share/WinApps-bucket
 motrix-np.json,WinApps-share/WinApps-bucket
 wechat_WinApps-share.json,WinApps-share/WinApps-bucket
-cursor_WinApps-share.json,WinApps-share/WinApps-bucket
+cursor.json,WinApps-share/WinApps-bucket
 wps_WinApps-share.json,WinApps-share/WinApps-bucket
 dbeaver_WinApps-share.json,WinApps-share/WinApps-bucket
 localsend-setup.json,WinApps-share/WinApps-bucket
