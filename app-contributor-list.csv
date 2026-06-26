@@ -2222,6 +2222,7 @@ peazip.json,ScoopInstaller/Extras
 termius.json,ScoopInstaller/Extras
 clingo.json,ScoopInstaller/Extras
 displaycal.json,ScoopInstaller/Extras
+bloatynosy.json,ScoopInstaller/Extras
 zen-browser.json,ScoopInstaller/Extras
 umi-ocr-paddle.json,ScoopInstaller/Extras
 lightscreen.json,ScoopInstaller/Extras
@@ -9088,7 +9089,7 @@ mdut-extend-release.json,ViCrack/scoop-bucket
 confuserex-cli.json,ViCrack/scoop-bucket
 java-echo-generator-release.json,ViCrack/scoop-bucket
 oxideterm.json,ViCrack/scoop-bucket
-yakit_ViCrack.json,ViCrack/scoop-bucket
+yakit.json,ViCrack/scoop-bucket
 cyberapi.json,ViCrack/scoop-bucket
 sublinkpro.json,ViCrack/scoop-bucket
 rad_ViCrack.json,ViCrack/scoop-bucket
@@ -10150,6 +10151,7 @@ lettura.json,DoveBoy/Apps
 imagemagick_DoveBoy.json,DoveBoy/Apps
 ps-guicompletion.json,DoveBoy/Apps
 7zip-beta_DoveBoy.json,DoveBoy/Apps
+helium_DoveBoy.json,DoveBoy/Apps
 anyportal-portable.json,DoveBoy/Apps
 retrieval-based-voice-conversion-webui.json,DoveBoy/Apps
 downkyi_DoveBoy.json,DoveBoy/Apps
