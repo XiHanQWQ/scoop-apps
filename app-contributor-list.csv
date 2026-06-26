@@ -1457,7 +1457,7 @@ php-xdebug.json,ScoopInstaller/Extras
 cascadeur.json,ScoopInstaller/Extras
 github.json,ScoopInstaller/Extras
 upsource.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 keepass-plugin-keetheme.json,ScoopInstaller/Extras
 xl-converter.json,ScoopInstaller/Extras
 palemoon.json,ScoopInstaller/Extras
@@ -2085,7 +2085,7 @@ obs-plugin-droidcam.json,ScoopInstaller/Extras
 real.json,ScoopInstaller/Extras
 wifi-manager.json,ScoopInstaller/Extras
 screen-saver-control.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 godot-version-manager.json,ScoopInstaller/Extras
 vcredist2012.json,ScoopInstaller/Extras
 clustalw.json,ScoopInstaller/Extras
@@ -3100,6 +3100,7 @@ cpu-z-arm64.json,ScoopInstaller/Extras
 dont-sleep.json,ScoopInstaller/Extras
 yesplaymusic.json,ScoopInstaller/Extras
 mobaxterm.json,ScoopInstaller/Extras
+igv.json,ScoopInstaller/Extras
 translucenttb.json,ScoopInstaller/Extras
 upscayl.json,ScoopInstaller/Extras
 streamwriter.json,ScoopInstaller/Extras
@@ -4241,7 +4242,7 @@ libreoffice-cn.json,Scoopforge/Extras-CN
 texstudio-cn.json,Scoopforge/Extras-CN
 fishing-funds.json,Scoopforge/Extras-CN
 pixpin_Scoopforge.json,Scoopforge/Extras-CN
-feishu_Scoopforge.json,Scoopforge/Extras-CN
+feishu.json,Scoopforge/Extras-CN
 adrive.json,Scoopforge/Extras-CN
 heu-kms-activator.json,Scoopforge/Extras-CN
 tencent-meeting.json,Scoopforge/Extras-CN
@@ -7855,7 +7856,6 @@ ShowMyPC.json,dodorz/scoop
 PyNGWallpaper.json,dodorz/scoop
 AstroNvim.json,dodorz/scoop
 Feem_dodorz.json,dodorz/scoop
-CAJViewer_dodorz.json,dodorz/scoop
 SocksCap64.json,dodorz/scoop
 Vuze.json,dodorz/scoop
 Qoder-CLI.json,dodorz/scoop
@@ -8014,6 +8014,7 @@ Nimbalyst.json,dodorz/scoop
 Lingoes.json,dodorz/scoop
 WinMemoryCleaner_dodorz.json,dodorz/scoop
 RainlendarLite.json,dodorz/scoop
+CAJViewer.json,dodorz/scoop
 SoftMakerFreeOffice.json,dodorz/scoop
 LMStudio_dodorz.json,dodorz/scoop
 clink-gizmos.json,dodorz/scoop
@@ -8556,7 +8557,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -8978,7 +8979,7 @@ mesen_borger.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
-rpcs3_borger.json,borger/scoop-emulators
+rpcs3.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
