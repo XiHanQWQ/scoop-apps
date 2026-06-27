@@ -2197,7 +2197,7 @@ freemove.json,ScoopInstaller/Extras
 launchy.json,ScoopInstaller/Extras
 shotcut.json,ScoopInstaller/Extras
 iris.json,ScoopInstaller/Extras
-g-helper.json,ScoopInstaller/Extras
+g-helper_ScoopInstaller.json,ScoopInstaller/Extras
 mps.json,ScoopInstaller/Extras
 filelight.json,ScoopInstaller/Extras
 firewallappblocker.json,ScoopInstaller/Extras
@@ -4244,7 +4244,7 @@ libreoffice-cn.json,Scoopforge/Extras-CN
 texstudio-cn.json,Scoopforge/Extras-CN
 fishing-funds.json,Scoopforge/Extras-CN
 pixpin_Scoopforge.json,Scoopforge/Extras-CN
-feishu.json,Scoopforge/Extras-CN
+feishu_Scoopforge.json,Scoopforge/Extras-CN
 adrive.json,Scoopforge/Extras-CN
 heu-kms-activator.json,Scoopforge/Extras-CN
 tencent-meeting.json,Scoopforge/Extras-CN
@@ -8561,7 +8561,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -10188,6 +10188,7 @@ anyportal.json,DoveBoy/Apps
 ffmpeg_DoveBoy.json,DoveBoy/Apps
 brackets_DoveBoy.json,DoveBoy/Apps
 min_DoveBoy.json,DoveBoy/Apps
+shotcut_DoveBoy.json,DoveBoy/Apps
 iris.json,DoveBoy/Apps
 firewallappblocker_DoveBoy.json,DoveBoy/Apps
 chatbox_DoveBoy.json,DoveBoy/Apps
@@ -13457,7 +13458,7 @@ imgdrive.json,aoisummer/scoop-bucket
 aegisub_aoisummer.json,aoisummer/scoop-bucket
 windowgrid_aoisummer.json,aoisummer/scoop-bucket
 komelia.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 autologon_aoisummer.json,aoisummer/scoop-bucket
 sakura-launcher-gui.json,aoisummer/scoop-bucket
 bbdown_aoisummer.json,aoisummer/scoop-bucket
@@ -14839,7 +14840,7 @@ tic80.json,littleli/Scoop-littleli
 everything-alpha_maboloshi.json,maboloshi/scoop-private
 we-meet_maboloshi.json,maboloshi/scoop-private
 ffmpeg-essentials_maboloshi.json,maboloshi/scoop-private
-microsoftedge-beta.json,maboloshi/scoop-private
+microsoftedge-beta_maboloshi.json,maboloshi/scoop-private
 cmirror.json,maboloshi/scoop-private
 clash-verge-rev_maboloshi.json,maboloshi/scoop-private
 WinEdt11.json,maboloshi/scoop-private
