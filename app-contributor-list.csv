@@ -12825,6 +12825,7 @@ datastation.json,batkiz/backit
 uni.json,batkiz/backit
 EnergyStar_batkiz.json,batkiz/backit
 cranko.json,batkiz/backit
+pi-desktop.json,batkiz/backit
 lunatic.json,batkiz/backit
 gojq_batkiz.json,batkiz/backit
 racket-minimal-cs.json,batkiz/backit
@@ -14961,7 +14962,7 @@ mediamtx_HUMORCE.json,HUMORCE/nuke
 everything-alpha_maboloshi.json,maboloshi/scoop-private
 we-meet_maboloshi.json,maboloshi/scoop-private
 ffmpeg-essentials_maboloshi.json,maboloshi/scoop-private
-microsoftedge-beta_maboloshi.json,maboloshi/scoop-private
+microsoftedge-beta.json,maboloshi/scoop-private
 cmirror.json,maboloshi/scoop-private
 clash-verge-rev_maboloshi.json,maboloshi/scoop-private
 WinEdt11.json,maboloshi/scoop-private
