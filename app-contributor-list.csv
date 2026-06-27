@@ -394,6 +394,7 @@ BADownloaderUI.json,Weidows-projects/scoop-3rd
 clash.net.json,Weidows-projects/scoop-3rd
 Kemono-scraper.json,Weidows-projects/scoop-3rd
 UltraUXThemePatcher.json,Weidows-projects/scoop-3rd
+MaaNTE.json,Weidows-projects/scoop-3rd
 GPT-SoVITS-nvidia50.json,Weidows-projects/scoop-3rd
 jvms.json,Weidows-projects/scoop-3rd
 xmanager.json,SayCV/scoop-cvp
@@ -2161,6 +2162,7 @@ antigravity.json,ScoopInstaller/Extras
 saturn.json,ScoopInstaller/Extras
 fork.json,ScoopInstaller/Extras
 ddc-toolbox.json,ScoopInstaller/Extras
+snoretoast.json,ScoopInstaller/Extras
 komokana.json,ScoopInstaller/Extras
 gpg4win.json,ScoopInstaller/Extras
 wsl2-distro-manager.json,ScoopInstaller/Extras
@@ -2421,6 +2423,7 @@ cyberduck.json,ScoopInstaller/Extras
 q-dir.json,ScoopInstaller/Extras
 ocat.json,ScoopInstaller/Extras
 eclipse-reporting.json,ScoopInstaller/Extras
+gmic-qt.json,ScoopInstaller/Extras
 drive-letter-changer.json,ScoopInstaller/Extras
 fladder.json,ScoopInstaller/Extras
 laigter.json,ScoopInstaller/Extras
@@ -4345,7 +4348,7 @@ prboom-plus.json,Calinou/scoop-games
 powdertoy.json,Calinou/scoop-games
 uvtt2fgu.json,Calinou/scoop-games
 shadps4-dev.json,Calinou/scoop-games
-dlss-swapper_Calinou.json,Calinou/scoop-games
+dlss-swapper.json,Calinou/scoop-games
 gdidrop.json,Calinou/scoop-games
 raine.json,Calinou/scoop-games
 xemu.json,Calinou/scoop-games
@@ -8561,7 +8564,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -10835,6 +10838,7 @@ imagine_hu3rror.json,hu3rror/scoop-muggle
 mpv-lazy_hu3rror.json,hu3rror/scoop-muggle
 usbeam-consoles-dns.json,hu3rror/scoop-muggle
 qaac_hu3rror.json,hu3rror/scoop-muggle
+goclashz.json,hu3rror/scoop-muggle
 qaac-qtfiles.json,hu3rror/scoop-muggle
 gluttonyPNG.json,hu3rror/scoop-muggle
 bilibili-manga-downloader_hu3rror.json,hu3rror/scoop-muggle
@@ -12366,7 +12370,7 @@ chrono.json,aliesbelik/poldi
 gopayloader.json,aliesbelik/poldi
 pingu.json,aliesbelik/poldi
 sql-studio_aliesbelik.json,aliesbelik/poldi
-hunk.json,aliesbelik/poldi
+hunk_aliesbelik.json,aliesbelik/poldi
 pingy.json,aliesbelik/poldi
 cq_aliesbelik.json,aliesbelik/poldi
 kubectl-explore.json,aliesbelik/poldi
