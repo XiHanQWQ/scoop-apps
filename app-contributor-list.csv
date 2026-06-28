@@ -8953,7 +8953,7 @@ ppsspp_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 shadps4_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
-shadps4-dev_borger.json,borger/scoop-emulators
+shadps4-dev.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 goldeneye-recomp.json,borger/scoop-emulators
 eden_borger.json,borger/scoop-emulators
@@ -8965,7 +8965,7 @@ mgba_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 azahar_borger.json,borger/scoop-emulators
 visualboyadvance-m.json,borger/scoop-emulators
-duckstation-preview_borger.json,borger/scoop-emulators
+duckstation-preview.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
@@ -10062,7 +10062,6 @@ nu_DoveBoy.json,DoveBoy/Apps
 deoldify-net.json,DoveBoy/Apps
 cmder-full_DoveBoy.json,DoveBoy/Apps
 easy-context-menu_DoveBoy.json,DoveBoy/Apps
-chromium_DoveBoy.json,DoveBoy/Apps
 explorerpatcher.json,DoveBoy/Apps
 revokemsgpatcher_DoveBoy.json,DoveBoy/Apps
 nvm-completion.json,DoveBoy/Apps
@@ -13029,7 +13028,6 @@ audiotester.json,starise/Scoop-Confetti
 HammerPDF.json,Darkatse/Scoop-Darkatse
 MicrobenchmarksGui.json,Darkatse/Scoop-Darkatse
 HeroicGamesLauncher.json,Darkatse/Scoop-Darkatse
-TestMem5_Darkatse.json,Darkatse/Scoop-Darkatse
 LinpackXtreme.json,Darkatse/Scoop-Darkatse
 Brook.json,Darkatse/Scoop-Darkatse
 DLSS-Swapper_Darkatse.json,Darkatse/Scoop-Darkatse
@@ -13038,7 +13036,6 @@ JHenTai.json,Darkatse/Scoop-Darkatse
 ZenTimings.json,Darkatse/Scoop-Darkatse
 Poe.json,Darkatse/Scoop-Darkatse
 ShanaEncoderCN.json,Darkatse/Scoop-Darkatse
-Snap.Genshin.json,Darkatse/Scoop-Darkatse
 Charles_Darkatse.json,Darkatse/Scoop-Darkatse
 Movie_Data_Capture_GUI.json,Darkatse/Scoop-Darkatse
 vesta_Darkatse.json,Darkatse/Scoop-Darkatse
@@ -13046,9 +13043,8 @@ ChatBox_Darkatse.json,Darkatse/Scoop-Darkatse
 YogaDNS.json,Darkatse/Scoop-Darkatse
 Hiddify_Darkatse.json,Darkatse/Scoop-Darkatse
 steamcommunity-302.json,Darkatse/Scoop-Darkatse
-Cinebench2024.json,Darkatse/Scoop-Darkatse
-Shanaencoder_Darkatse.json,Darkatse/Scoop-Darkatse
 MaaX.json,Darkatse/Scoop-Darkatse
+Cinebench2026.json,Darkatse/Scoop-Darkatse
 KeqingNiuza.json,Darkatse/Scoop-Darkatse
 Genshin.Launcher.Plus.json,Darkatse/Scoop-Darkatse
 ToastFish.json,Darkatse/Scoop-Darkatse
@@ -13059,7 +13055,7 @@ Genshin-Wish-Export.json,Darkatse/Scoop-Darkatse
 RevokeMsgPatcher_Darkatse.json,Darkatse/Scoop-Darkatse
 Termius-Beta.json,Darkatse/Scoop-Darkatse
 memtest.json,Darkatse/Scoop-Darkatse
-UsbEAm-Hosts-Editor_Darkatse.json,Darkatse/Scoop-Darkatse
+UsbEAm-Hosts-Editor.json,Darkatse/Scoop-Darkatse
 ZXPInstaller.json,Darkatse/Scoop-Darkatse
 Netch_Darkatse.json,Darkatse/Scoop-Darkatse
 Movie_Data_Capture.json,Darkatse/Scoop-Darkatse
@@ -13512,7 +13508,7 @@ bbdown_aoisummer.json,aoisummer/scoop-bucket
 shadowsocks-rust-gnu.json,aoisummer/scoop-bucket
 exwrapper.json,aoisummer/scoop-bucket
 netch_aoisummer.json,aoisummer/scoop-bucket
-cinebench2024_aoisummer.json,aoisummer/scoop-bucket
+cinebench2024.json,aoisummer/scoop-bucket
 firefox-esr-115-zh-cn.json,aoisummer/scoop-bucket
 usbtreeview_aoisummer.json,aoisummer/scoop-bucket
 crystaldiskinfo-shizuku_aoisummer.json,aoisummer/scoop-bucket
