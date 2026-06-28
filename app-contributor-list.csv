@@ -7792,7 +7792,7 @@ aida64.json,echoiron/echo-scoop
 q-dir_echoiron.json,echoiron/echo-scoop
 notepad4_echoiron.json,echoiron/echo-scoop
 ultraiso_echoiron.json,echoiron/echo-scoop
-notepad3_echoiron.json,echoiron/echo-scoop
+notepad3.json,echoiron/echo-scoop
 fscapture_echoiron.json,echoiron/echo-scoop
 iqiyi.json,echoiron/echo-scoop
 centbrowser_echoiron.json,echoiron/echo-scoop
@@ -7800,12 +7800,12 @@ potplayer_echoiron.json,echoiron/echo-scoop
 ksoftmgr.json,echoiron/echo-scoop
 pixpin_echoiron.json,echoiron/echo-scoop
 myhash.json,echoiron/echo-scoop
-ccleaner_echoiron.json,echoiron/echo-scoop
+ccleaner.json,echoiron/echo-scoop
 foobar2000_echoiron.json,echoiron/echo-scoop
 adrive_echoiron.json,echoiron/echo-scoop
 pdf-xchange-editor-plus.json,echoiron/echo-scoop
 xshellplus.json,echoiron/echo-scoop
-typora_echoiron.json,echoiron/echo-scoop
+typora.json,echoiron/echo-scoop
 xiaoji.json,echoiron/echo-scoop
 acmekit.json,echoiron/echo-scoop
 2345pic.json,echoiron/echo-scoop
@@ -8366,7 +8366,7 @@ Nomad.NET.json,dodorz/scoop
 RetainPDF.json,dodorz/scoop
 QR-Desktop.json,dodorz/scoop
 SysInternals_dodorz.json,dodorz/scoop
-Notepad3.json,dodorz/scoop
+Notepad3_dodorz.json,dodorz/scoop
 TablacusExplorer.json,dodorz/scoop
 WinFR.json,dodorz/scoop
 ExplorerPlusPlus_dodorz.json,dodorz/scoop
@@ -10333,7 +10333,7 @@ flyoobe-classic.json,DoveBoy/Apps
 bililive-tools.json,DoveBoy/Apps
 piliplus-portable.json,DoveBoy/Apps
 heu-kms-activator_DoveBoy.json,DoveBoy/Apps
-animeko_DoveBoy.json,DoveBoy/Apps
+animeko.json,DoveBoy/Apps
 bbk-cli_DoveBoy.json,DoveBoy/Apps
 nekoray_DoveBoy.json,DoveBoy/Apps
 kando_DoveBoy.json,DoveBoy/Apps
@@ -10365,7 +10365,7 @@ abdownloadmanager_DoveBoy.json,DoveBoy/Apps
 n_m3u8dl-re.json,DoveBoy/Apps
 pscalendar.json,DoveBoy/Apps
 scoop-validator_DoveBoy.json,DoveBoy/Apps
-typora.json,DoveBoy/Apps
+typora_DoveBoy.json,DoveBoy/Apps
 alisthelper_DoveBoy.json,DoveBoy/Apps
 joinersplitter.json,DoveBoy/Apps
 xmusicdownloader.json,DoveBoy/Apps
@@ -10533,7 +10533,7 @@ crystaldiskinfo-kureikei.json,DoveBoy/Apps
 opensearcher_DoveBoy.json,DoveBoy/Apps
 dua_DoveBoy.json,DoveBoy/Apps
 clash-nyanpasu_DoveBoy.json,DoveBoy/Apps
-sandboxie-plus.json,DoveBoy/Apps
+sandboxie-plus_DoveBoy.json,DoveBoy/Apps
 python-tab-completion.json,DoveBoy/Apps
 ydl-ui_DoveBoy.json,DoveBoy/Apps
 mycomputermanager.json,DoveBoy/Apps
@@ -12843,7 +12843,7 @@ g_batkiz.json,batkiz/backit
 fscan.json,batkiz/backit
 fnm_batkiz.json,batkiz/backit
 RevokeMsgPatcher_batkiz.json,batkiz/backit
-scoop-completion_batkiz.json,batkiz/backit
+scoop-completion.json,batkiz/backit
 embarcadero-dev-cpp.json,batkiz/backit
 revive.json,batkiz/backit
 lite_batkiz.json,batkiz/backit
@@ -15884,6 +15884,7 @@ milkman.json,windedge/ladle-bucket
 httpie-desktop.json,windedge/ladle-bucket
 onyx.json,windedge/ladle-bucket
 throne_windedge.json,windedge/ladle-bucket
+gozen.json,windedge/ladle-bucket
 godot-kotlin-jvm.json,windedge/ladle-bucket
 temurin20-jdk_windedge.json,windedge/ladle-bucket
 heimer.json,windedge/ladle-bucket
