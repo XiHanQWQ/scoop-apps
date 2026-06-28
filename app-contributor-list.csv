@@ -4446,7 +4446,7 @@ pacmc.json,Calinou/scoop-games
 endless-sky.json,Calinou/scoop-games
 cemu.json,Calinou/scoop-games
 openrct2.json,Calinou/scoop-games
-hmcl.json,Calinou/scoop-games
+hmcl_Calinou.json,Calinou/scoop-games
 goggalaxy.json,Calinou/scoop-games
 minutor.json,Calinou/scoop-games
 pandoralauncher.json,Calinou/scoop-games
@@ -8564,7 +8564,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -10062,6 +10062,7 @@ nu_DoveBoy.json,DoveBoy/Apps
 deoldify-net.json,DoveBoy/Apps
 cmder-full_DoveBoy.json,DoveBoy/Apps
 easy-context-menu_DoveBoy.json,DoveBoy/Apps
+chromium_DoveBoy.json,DoveBoy/Apps
 explorerpatcher.json,DoveBoy/Apps
 revokemsgpatcher_DoveBoy.json,DoveBoy/Apps
 nvm-completion.json,DoveBoy/Apps
@@ -11457,7 +11458,7 @@ arturo_amorphobia.json,amorphobia/siku
 vmping.json,amorphobia/siku
 pcl2-ce.json,amorphobia/siku
 ipatool_amorphobia.json,amorphobia/siku
-filebrowser.json,amorphobia/siku
+filebrowser_amorphobia.json,amorphobia/siku
 rubick_amorphobia.json,amorphobia/siku
 bcdown.json,amorphobia/siku
 jijidown.json,amorphobia/siku
@@ -14651,7 +14652,7 @@ leocad.json,404NetworkError/scoop-bucket
 winobjex64_404NetworkError.json,404NetworkError/scoop-bucket
 mpc-video-renderer-np.json,404NetworkError/scoop-bucket
 iosevka-ss10.json,KnotUntied/scoop-fonts
-iosevka.json,KnotUntied/scoop-fonts
+iosevka_KnotUntied.json,KnotUntied/scoop-fonts
 courierprime.json,KnotUntied/scoop-fonts
 monaspaceargon.json,KnotUntied/scoop-fonts
 notomusic.json,KnotUntied/scoop-fonts
@@ -14962,7 +14963,7 @@ mediamtx_HUMORCE.json,HUMORCE/nuke
 everything-alpha_maboloshi.json,maboloshi/scoop-private
 we-meet_maboloshi.json,maboloshi/scoop-private
 ffmpeg-essentials_maboloshi.json,maboloshi/scoop-private
-microsoftedge-beta.json,maboloshi/scoop-private
+microsoftedge-beta_maboloshi.json,maboloshi/scoop-private
 cmirror.json,maboloshi/scoop-private
 clash-verge-rev_maboloshi.json,maboloshi/scoop-private
 WinEdt11.json,maboloshi/scoop-private
