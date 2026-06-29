@@ -3726,7 +3726,7 @@ qtscrcpy_chawyehsu.json,chawyehsu/dorado
 pixi_chawyehsu.json,chawyehsu/dorado
 firefox-beta-zh-cn.json,chawyehsu/dorado
 clipber.json,chawyehsu/dorado
-wechatwork_chawyehsu.json,chawyehsu/dorado
+wechatwork.json,chawyehsu/dorado
 imewlconverter.json,chawyehsu/dorado
 libarchive.json,chawyehsu/dorado
 gpac_chawyehsu.json,chawyehsu/dorado
@@ -10335,7 +10335,7 @@ flyoobe-classic.json,DoveBoy/Apps
 bililive-tools.json,DoveBoy/Apps
 piliplus-portable.json,DoveBoy/Apps
 heu-kms-activator_DoveBoy.json,DoveBoy/Apps
-animeko.json,DoveBoy/Apps
+animeko_DoveBoy.json,DoveBoy/Apps
 bbk-cli_DoveBoy.json,DoveBoy/Apps
 nekoray_DoveBoy.json,DoveBoy/Apps
 kando_DoveBoy.json,DoveBoy/Apps
@@ -11254,7 +11254,6 @@ edge-portable-beta.json,naderi/scoop-bucket
 wlx2explorer.json,naderi/scoop-bucket
 cpod_naderi.json,naderi/scoop-bucket
 1by1_naderi.json,naderi/scoop-bucket
-encrypto_naderi.json,naderi/scoop-bucket
 iconview_naderi.json,naderi/scoop-bucket
 font-tanha.json,naderi/scoop-bucket
 youtube-downloader-hd.json,naderi/scoop-bucket
@@ -11291,7 +11290,7 @@ focus-writer.json,naderi/scoop-bucket
 icofx.json,naderi/scoop-bucket
 encfs.json,naderi/scoop-bucket
 xdm_naderi.json,naderi/scoop-bucket
-teracopy_naderi.json,naderi/scoop-bucket
+teracopy.json,naderi/scoop-bucket
 grep-win.json,naderi/scoop-bucket
 clipx_naderi.json,naderi/scoop-bucket
 font-vazir.json,naderi/scoop-bucket
@@ -11764,7 +11763,7 @@ qbittorrent-enhanced_WinApps-share.json,WinApps-share/WinApps-bucket
 7zip_WinApps-share.json,WinApps-share/WinApps-bucket
 keyviz_WinApps-share.json,WinApps-share/WinApps-bucket
 lanzouyun-disk_WinApps-share.json,WinApps-share/WinApps-bucket
-everything-toolbar.json,WinApps-share/WinApps-bucket
+everything-toolbar_WinApps-share.json,WinApps-share/WinApps-bucket
 lively_WinApps-share.json,WinApps-share/WinApps-bucket
 ditto_WinApps-share.json,WinApps-share/WinApps-bucket
 ecopaste.json,WinApps-share/WinApps-bucket
@@ -12106,7 +12105,6 @@ capsblock.json,brian6932/dank-scoop
 apngopt-gui.json,brian6932/dank-scoop
 termsvg.json,brian6932/dank-scoop
 pandoc-templates.json,brian6932/dank-scoop
-thumbfast-fork.json,brian6932/dank-scoop
 google-usb-driver.json,brian6932/dank-scoop
 twitch-pubsub-server-test.json,brian6932/dank-scoop
 aerochat.json,brian6932/dank-scoop
@@ -13003,6 +13001,7 @@ firetools.json,seumsc/scoop-seu
 lltskb.json,seumsc/scoop-seu
 proxifyre.json,seumsc/scoop-seu
 gamutvision.json,seumsc/scoop-seu
+optiscaler-client.json,seumsc/scoop-seu
 npcap_seumsc.json,seumsc/scoop-seu
 navicat-premium-lite_seumsc.json,seumsc/scoop-seu
 shterm-alt.json,seumsc/scoop-seu
@@ -13042,6 +13041,7 @@ uefitool-ne.json,seumsc/scoop-seu
 musicdecrypto.json,seumsc/scoop-seu
 jxl-winthumb_seumsc.json,seumsc/scoop-seu
 mahjong-helper_seumsc.json,seumsc/scoop-seu
+mpc-video-renderer.json,seumsc/scoop-seu
 kook_seumsc.json,seumsc/scoop-seu
 cpachecker.json,seumsc/scoop-seu
 madvr-test.json,seumsc/scoop-seu
@@ -14364,6 +14364,7 @@ actionlint-aoks.json,AntonOks/scoop-aoks
 undelete_plus-aoks.json,AntonOks/scoop-aoks
 notepadplusplus-aoks.json,AntonOks/scoop-aoks
 aws-session-manager-plugin-aoks.json,AntonOks/scoop-aoks
+remote-desktop-manager-aoks.json,AntonOks/scoop-aoks
 strelaysrv-aoks.json,AntonOks/scoop-aoks
 projectlibre-aoks.json,AntonOks/scoop-aoks
 cobianbackup-aoks.json,AntonOks/scoop-aoks
@@ -14428,7 +14429,6 @@ fio-aoks.json,AntonOks/scoop-aoks
 kubectl-crossplane-aoks.json,AntonOks/scoop-aoks
 talosctl-aoks.json,AntonOks/scoop-aoks
 IntelliJIDEA-aoks.json,AntonOks/scoop-aoks
-winscript-aoks.json,AntonOks/scoop-aoks
 incus-aoks.json,AntonOks/scoop-aoks
 xcaddy-aoks.json,AntonOks/scoop-aoks
 kopiaUI-aoks.json,AntonOks/scoop-aoks
