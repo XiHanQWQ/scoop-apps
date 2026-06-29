@@ -266,6 +266,7 @@ Lively-Wallpaper.json,Weidows-projects/scoop-3rd
 DevEco-Studio.json,Weidows-projects/scoop-3rd
 hermes-desktop-portable.json,Weidows-projects/scoop-3rd
 SD-LoRA-Manager.json,Weidows-projects/scoop-3rd
+XHS-Downloader.json,Weidows-projects/scoop-3rd
 XYplorer.json,Weidows-projects/scoop-3rd
 gamebuff.json,Weidows-projects/scoop-3rd
 Windows-Theme-HighContract-Tokyo-Night.json,Weidows-projects/scoop-3rd
@@ -1458,7 +1459,7 @@ php-xdebug.json,ScoopInstaller/Extras
 cascadeur.json,ScoopInstaller/Extras
 github.json,ScoopInstaller/Extras
 upsource.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 keepass-plugin-keetheme.json,ScoopInstaller/Extras
 xl-converter.json,ScoopInstaller/Extras
 palemoon.json,ScoopInstaller/Extras
@@ -2955,6 +2956,7 @@ juce.json,ScoopInstaller/Extras
 owncloud.json,ScoopInstaller/Extras
 mu-editor.json,ScoopInstaller/Extras
 mancy.json,ScoopInstaller/Extras
+quickclipboard.json,ScoopInstaller/Extras
 xc.json,ScoopInstaller/Extras
 infekt.json,ScoopInstaller/Extras
 cairo-desktop.json,ScoopInstaller/Extras
@@ -4213,7 +4215,6 @@ aigcpanel.json,Scoopforge/Extras-CN
 freetex.json,Scoopforge/Extras-CN
 obs-studio-cn.json,Scoopforge/Extras-CN
 cajviewer_Scoopforge.json,Scoopforge/Extras-CN
-dingtalk.json,Scoopforge/Extras-CN
 edrawmax.json,Scoopforge/Extras-CN
 frhelper.json,Scoopforge/Extras-CN
 subrenamer.json,Scoopforge/Extras-CN
@@ -6422,7 +6423,7 @@ cloudmusic.json,scoopcn/scoopcn
 locaspace.json,scoopcn/scoopcn
 wechat-beta.json,scoopcn/scoopcn
 wxwork.json,scoopcn/scoopcn
-dingtalk_scoopcn.json,scoopcn/scoopcn
+dingtalk.json,scoopcn/scoopcn
 ade.json,scoopcn/scoopcn
 xt800.json,scoopcn/scoopcn
 kwmusic.json,scoopcn/scoopcn
@@ -8988,7 +8989,7 @@ mesen_borger.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
-rpcs3_borger.json,borger/scoop-emulators
+rpcs3.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -9038,7 +9039,7 @@ curl-impersonate.json,ViCrack/scoop-bucket
 xxl-job-attack.json,ViCrack/scoop-bucket
 wub.json,ViCrack/scoop-bucket
 rebuild-shell-icon-cache.json,ViCrack/scoop-bucket
-apifox_ViCrack.json,ViCrack/scoop-bucket
+apifox.json,ViCrack/scoop-bucket
 MonitorOff.json,ViCrack/scoop-bucket
 mitan_ViCrack.json,ViCrack/scoop-bucket
 wechatdatabackup.json,ViCrack/scoop-bucket
@@ -10453,7 +10454,7 @@ q-dns_DoveBoy.json,DoveBoy/Apps
 dust_DoveBoy.json,DoveBoy/Apps
 crystaldiskinfo-aoi-edition_DoveBoy.json,DoveBoy/Apps
 mapdownload.json,DoveBoy/Apps
-quickclipboard.json,DoveBoy/Apps
+quickclipboard_DoveBoy.json,DoveBoy/Apps
 yarn-completion.json,DoveBoy/Apps
 xray_DoveBoy.json,DoveBoy/Apps
 nilesoft-shell_DoveBoy.json,DoveBoy/Apps
@@ -10481,7 +10482,7 @@ cmder_DoveBoy.json,DoveBoy/Apps
 bilibilitoolpro.json,DoveBoy/Apps
 esearch-portable.json,DoveBoy/Apps
 ecopaste.json,DoveBoy/Apps
-xhs-downloader.json,DoveBoy/Apps
+xhs-downloader_DoveBoy.json,DoveBoy/Apps
 winhance.json,DoveBoy/Apps
 shadowsocks_DoveBoy.json,DoveBoy/Apps
 everything-lite_DoveBoy.json,DoveBoy/Apps
@@ -12584,6 +12585,7 @@ pdf4qt.json,Scoopforge/Extras-Plus
 ecopaste_Scoopforge.json,Scoopforge/Extras-Plus
 winhance_Scoopforge.json,Scoopforge/Extras-Plus
 scihubeva_Scoopforge.json,Scoopforge/Extras-Plus
+dingtalk-en.json,Scoopforge/Extras-Plus
 linkandroid_Scoopforge.json,Scoopforge/Extras-Plus
 doxygen-gui.json,Scoopforge/Extras-Plus
 bitcomet_Scoopforge.json,Scoopforge/Extras-Plus
@@ -15027,7 +15029,7 @@ sublime-merge_maboloshi.json,maboloshi/scoop-private
 weixin.json,maboloshi/scoop-private
 uv_maboloshi.json,maboloshi/scoop-private
 beyondcompare5-zh.json,maboloshi/scoop-private
-dingtalk_maboloshi.json,maboloshi/scoop-private
+dingtalk.json,maboloshi/scoop-private
 ima-copilot_maboloshi.json,maboloshi/scoop-private
 clickmonitorddc-cn.json,maboloshi/scoop-private
 PowerShell_maboloshi.json,maboloshi/scoop-private
