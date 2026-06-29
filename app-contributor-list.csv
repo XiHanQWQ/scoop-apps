@@ -1258,6 +1258,7 @@ vrcx.json,ScoopInstaller/Extras
 aws-nosql-workbench.json,ScoopInstaller/Extras
 hydrus-network.json,ScoopInstaller/Extras
 opensca-cli.json,ScoopInstaller/Extras
+hongdown.json,ScoopInstaller/Extras
 electron-fiddle.json,ScoopInstaller/Extras
 tomcat.json,ScoopInstaller/Extras
 assume-role.json,ScoopInstaller/Extras
@@ -9039,7 +9040,7 @@ curl-impersonate.json,ViCrack/scoop-bucket
 xxl-job-attack.json,ViCrack/scoop-bucket
 wub.json,ViCrack/scoop-bucket
 rebuild-shell-icon-cache.json,ViCrack/scoop-bucket
-apifox.json,ViCrack/scoop-bucket
+apifox_ViCrack.json,ViCrack/scoop-bucket
 MonitorOff.json,ViCrack/scoop-bucket
 mitan_ViCrack.json,ViCrack/scoop-bucket
 wechatdatabackup.json,ViCrack/scoop-bucket
@@ -10609,7 +10610,7 @@ clashxw.json,DoveBoy/Apps
 kobi.json,DoveBoy/Apps
 bleachbit_DoveBoy.json,DoveBoy/Apps
 fx_DoveBoy.json,DoveBoy/Apps
-neteaseuu_DoveBoy.json,DoveBoy/Apps
+neteaseuu.json,DoveBoy/Apps
 gopeed_DoveBoy.json,DoveBoy/Apps
 joplin_DoveBoy.json,DoveBoy/Apps
 hashcat_DoveBoy.json,DoveBoy/Apps
@@ -10841,7 +10842,7 @@ logseq_hu3rror.json,hu3rror/scoop-muggle
 rimage_hu3rror.json,hu3rror/scoop-muggle
 mosdns-cn_hu3rror.json,hu3rror/scoop-muggle
 animeko_hu3rror.json,hu3rror/scoop-muggle
-goldendict-ng_hu3rror.json,hu3rror/scoop-muggle
+goldendict-ng.json,hu3rror/scoop-muggle
 space-cli.json,hu3rror/scoop-muggle
 ilyrics.json,hu3rror/scoop-muggle
 game-cheats-manager_hu3rror.json,hu3rror/scoop-muggle
@@ -11255,6 +11256,7 @@ edge-portable-beta.json,naderi/scoop-bucket
 wlx2explorer.json,naderi/scoop-bucket
 cpod_naderi.json,naderi/scoop-bucket
 1by1_naderi.json,naderi/scoop-bucket
+encrypto.json,naderi/scoop-bucket
 iconview_naderi.json,naderi/scoop-bucket
 font-tanha.json,naderi/scoop-bucket
 youtube-downloader-hd.json,naderi/scoop-bucket
@@ -11677,7 +11679,7 @@ vscode-np.json,WinApps-share/WinApps-bucket
 twinkle-tray_WinApps-share.json,WinApps-share/WinApps-bucket
 winscp_WinApps-share.json,WinApps-share/WinApps-bucket
 wgestures_WinApps-share.json,WinApps-share/WinApps-bucket
-everything-np_WinApps-share.json,WinApps-share/WinApps-bucket
+everything-np.json,WinApps-share/WinApps-bucket
 clean-my-wechat.json,WinApps-share/WinApps-bucket
 wiztree-np.json,WinApps-share/WinApps-bucket
 proxypin-np.json,WinApps-share/WinApps-bucket
@@ -11702,7 +11704,7 @@ g-helper_WinApps-share.json,WinApps-share/WinApps-bucket
 obs-np.json,WinApps-share/WinApps-bucket
 gopeed-np.json,WinApps-share/WinApps-bucket
 peazip_WinApps-share.json,WinApps-share/WinApps-bucket
-everything_WinApps-share.json,WinApps-share/WinApps-bucket
+everything.json,WinApps-share/WinApps-bucket
 centbrowser-setup.json,WinApps-share/WinApps-bucket
 quicklook_WinApps-share.json,WinApps-share/WinApps-bucket
 testdisk_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -12183,7 +12185,7 @@ DDMonitor.json,ygguorun/scoop-bucket
 CJK-character-count_ygguorun.json,ygguorun/scoop-bucket
 otfcc_ygguorun.json,ygguorun/scoop-bucket
 jy-srt-tools.json,ygguorun/scoop-bucket
-BaiduNetdisk_ygguorun.json,ygguorun/scoop-bucket
+BaiduNetdisk.json,ygguorun/scoop-bucket
 bililive-go_ygguorun.json,ygguorun/scoop-bucket
 gluttonyFLIF.json,ygguorun/scoop-bucket
 paseo.json,ygguorun/scoop-bucket
@@ -13005,7 +13007,7 @@ proxifyre.json,seumsc/scoop-seu
 gamutvision.json,seumsc/scoop-seu
 optiscaler-client.json,seumsc/scoop-seu
 npcap_seumsc.json,seumsc/scoop-seu
-navicat-premium-lite_seumsc.json,seumsc/scoop-seu
+navicat-premium-lite.json,seumsc/scoop-seu
 shterm-alt.json,seumsc/scoop-seu
 winipbroadcast.json,seumsc/scoop-seu
 video2x_seumsc.json,seumsc/scoop-seu
@@ -15030,7 +15032,7 @@ weixin.json,maboloshi/scoop-private
 uv_maboloshi.json,maboloshi/scoop-private
 beyondcompare5-zh.json,maboloshi/scoop-private
 dingtalk.json,maboloshi/scoop-private
-ima-copilot_maboloshi.json,maboloshi/scoop-private
+ima-copilot.json,maboloshi/scoop-private
 clickmonitorddc-cn.json,maboloshi/scoop-private
 PowerShell_maboloshi.json,maboloshi/scoop-private
 clash-for-windows-cn_maboloshi.json,maboloshi/scoop-private
@@ -15713,9 +15715,11 @@ godot3-kotlin-jvm.json,windedge/ladle-bucket
 mdview_windedge.json,windedge/ladle-bucket
 zap.json,windedge/ladle-bucket
 milkman.json,windedge/ladle-bucket
+llama-cpp-openvino.json,windedge/ladle-bucket
 httpie-desktop.json,windedge/ladle-bucket
 onyx.json,windedge/ladle-bucket
 throne_windedge.json,windedge/ladle-bucket
+llama-cpp-vulkan.json,windedge/ladle-bucket
 gozen.json,windedge/ladle-bucket
 godot-kotlin-jvm.json,windedge/ladle-bucket
 temurin20-jdk_windedge.json,windedge/ladle-bucket
