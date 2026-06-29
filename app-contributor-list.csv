@@ -7685,7 +7685,7 @@ rsvg-convert.json,cderv/r-bucket
 r-release.json,cderv/r-bucket
 beads_cderv.json,cderv/r-bucket
 tinytex-min.json,cderv/r-bucket
-rstudio-preview.json,cderv/r-bucket
+rstudio-preview_cderv.json,cderv/r-bucket
 rstudio-daily-electron.json,cderv/r-bucket
 rtk_cderv.json,cderv/r-bucket
 ollama_cderv.json,cderv/r-bucket
@@ -7717,7 +7717,7 @@ rstudio-2023.03.json,cderv/r-bucket
 just-lsp.json,cderv/r-bucket
 rstudio-pro-preview.json,cderv/r-bucket
 mqcr.json,cderv/r-bucket
-rstudio-daily.json,cderv/r-bucket
+rstudio-daily_cderv.json,cderv/r-bucket
 qvm.json,cderv/r-bucket
 braid.json,cderv/r-bucket
 rstudio-2022.07.json,cderv/r-bucket
@@ -9740,7 +9740,7 @@ charm.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
 soft-serve.json,charmbracelet/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 freeze.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
 mods_charmbracelet.json,charmbracelet/scoop-bucket
@@ -9881,7 +9881,6 @@ openssl_DoveBoy.json,DoveBoy/Apps
 crystaldiskinfo_DoveBoy.json,DoveBoy/Apps
 ofgb.json,DoveBoy/Apps
 umi-ocr-rapid_DoveBoy.json,DoveBoy/Apps
-beyondcompare_DoveBoy.json,DoveBoy/Apps
 qr_DoveBoy.json,DoveBoy/Apps
 everything-alpha_DoveBoy.json,DoveBoy/Apps
 tinypng.json,DoveBoy/Apps
@@ -13508,7 +13507,7 @@ imgdrive.json,aoisummer/scoop-bucket
 aegisub_aoisummer.json,aoisummer/scoop-bucket
 windowgrid_aoisummer.json,aoisummer/scoop-bucket
 komelia.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn.json,aoisummer/scoop-bucket
 autologon_aoisummer.json,aoisummer/scoop-bucket
 sakura-launcher-gui.json,aoisummer/scoop-bucket
 bbdown_aoisummer.json,aoisummer/scoop-bucket
