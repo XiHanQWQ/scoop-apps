@@ -1460,7 +1460,7 @@ php-xdebug.json,ScoopInstaller/Extras
 cascadeur.json,ScoopInstaller/Extras
 github.json,ScoopInstaller/Extras
 upsource.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 keepass-plugin-keetheme.json,ScoopInstaller/Extras
 xl-converter.json,ScoopInstaller/Extras
 palemoon.json,ScoopInstaller/Extras
@@ -2089,7 +2089,7 @@ obs-plugin-droidcam.json,ScoopInstaller/Extras
 real.json,ScoopInstaller/Extras
 wifi-manager.json,ScoopInstaller/Extras
 screen-saver-control.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 godot-version-manager.json,ScoopInstaller/Extras
 vcredist2012.json,ScoopInstaller/Extras
 clustalw.json,ScoopInstaller/Extras
@@ -3729,7 +3729,7 @@ qtscrcpy_chawyehsu.json,chawyehsu/dorado
 pixi_chawyehsu.json,chawyehsu/dorado
 firefox-beta-zh-cn.json,chawyehsu/dorado
 clipber.json,chawyehsu/dorado
-wechatwork.json,chawyehsu/dorado
+wechatwork_chawyehsu.json,chawyehsu/dorado
 imewlconverter.json,chawyehsu/dorado
 libarchive.json,chawyehsu/dorado
 gpac_chawyehsu.json,chawyehsu/dorado
@@ -4222,7 +4222,7 @@ subrenamer.json,Scoopforge/Extras-CN
 quarkclouddrive.json,Scoopforge/Extras-CN
 vlc-cn.json,Scoopforge/Extras-CN
 douyin.json,Scoopforge/Extras-CN
-baidunetdisk.json,Scoopforge/Extras-CN
+baidunetdisk_Scoopforge.json,Scoopforge/Extras-CN
 m3u8-downloader.json,Scoopforge/Extras-CN
 tts-vue-next.json,Scoopforge/Extras-CN
 retain-pdf.json,Scoopforge/Extras-CN
@@ -8963,7 +8963,7 @@ goldeneye-recomp.json,borger/scoop-emulators
 eden_borger.json,borger/scoop-emulators
 eden-nightly_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
-dolphin-dev_borger.json,borger/scoop-emulators
+dolphin-dev.json,borger/scoop-emulators
 bsnes-mt_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
@@ -8974,7 +8974,7 @@ cemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
-dolphin_borger.json,borger/scoop-emulators
+dolphin.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
@@ -9403,7 +9403,7 @@ vcredist2019.json,akirco/aki-apps
 telegram_akirco.json,akirco/aki-apps
 feishu_akirco.json,akirco/aki-apps
 geekuninstaller_akirco.json,akirco/aki-apps
-Qoder.json,akirco/aki-apps
+Qoder_akirco.json,akirco/aki-apps
 netch_akirco.json,akirco/aki-apps
 z_akirco.json,akirco/aki-apps
 time_akirco.json,akirco/aki-apps
@@ -9740,7 +9740,7 @@ charm.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
 soft-serve.json,charmbracelet/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 freeze.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
 mods_charmbracelet.json,charmbracelet/scoop-bucket
@@ -10239,7 +10239,7 @@ registry-key-jumper_DoveBoy.json,DoveBoy/Apps
 unigetui_DoveBoy.json,DoveBoy/Apps
 kotatogram_DoveBoy.json,DoveBoy/Apps
 etcher-portable.json,DoveBoy/Apps
-screencapture.json,DoveBoy/Apps
+screencapture_DoveBoy.json,DoveBoy/Apps
 tmall-miao.json,DoveBoy/Apps
 linuxdoc.json,DoveBoy/Apps
 diskcheckup_DoveBoy.json,DoveBoy/Apps
@@ -12578,7 +12578,7 @@ texlive_Scoopforge.json,Scoopforge/Extras-Plus
 notegen_Scoopforge.json,Scoopforge/Extras-Plus
 watt-toolkit_Scoopforge.json,Scoopforge/Extras-Plus
 musicat.json,Scoopforge/Extras-Plus
-mineru_Scoopforge.json,Scoopforge/Extras-Plus
+mineru.json,Scoopforge/Extras-Plus
 jupyterlab-desktop.json,Scoopforge/Extras-Plus
 defender-remover.json,Scoopforge/Extras-Plus
 dorion_Scoopforge.json,Scoopforge/Extras-Plus
@@ -14854,7 +14854,7 @@ nekomata.json,Deide/deide-bucket
 pkg2zip.json,Deide/deide-bucket
 athenas-ass-mhGen.json,Deide/deide-bucket
 gajim.json,Deide/deide-bucket
-dolphin.json,Deide/deide-bucket
+dolphin_Deide.json,Deide/deide-bucket
 retroarch_Deide.json,Deide/deide-bucket
 noodlemanager.json,Deide/deide-bucket
 soldat.json,Deide/deide-bucket
