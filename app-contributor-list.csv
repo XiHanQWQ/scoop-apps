@@ -1816,6 +1816,7 @@ mpc-hc-fork.json,ScoopInstaller/Extras
 jellyfin-media-player.json,ScoopInstaller/Extras
 waifu2x-extension-gui_ScoopInstaller.json,ScoopInstaller/Extras
 quicktextpaste.json,ScoopInstaller/Extras
+github-copilot.json,ScoopInstaller/Extras
 meow.json,ScoopInstaller/Extras
 kdoc-formatter.json,ScoopInstaller/Extras
 sabnzbd.json,ScoopInstaller/Extras
@@ -8078,6 +8079,7 @@ NanoEmacs.json,dodorz/scoop
 JPEGView.json,dodorz/scoop
 Jupyterlab.json,dodorz/scoop
 FARR.json,dodorz/scoop
+Herdr.json,dodorz/scoop
 YeahWrite.json,dodorz/scoop
 Sejda-console.json,dodorz/scoop
 DismPlusPlus_dodorz.json,dodorz/scoop
@@ -8259,6 +8261,7 @@ Getmail.json,dodorz/scoop
 ToolBox.json,dodorz/scoop
 Jamjams.json,dodorz/scoop
 Npackd.json,dodorz/scoop
+TraeWorkCN.json,dodorz/scoop
 K-Meleon.json,dodorz/scoop
 CJK-character-count.json,dodorz/scoop
 DTSdec.json,dodorz/scoop
@@ -9336,6 +9339,7 @@ unzip_akirco.json,akirco/aki-apps
 aria2_akirco.json,akirco/aki-apps
 poppler_akirco.json,akirco/aki-apps
 win32-openssh.json,akirco/aki-apps
+bilibili-livehime.json,akirco/aki-apps
 vcredist2012_akirco.json,akirco/aki-apps
 windows-terminal-quake_akirco.json,akirco/aki-apps
 obs-studio_akirco.json,akirco/aki-apps
@@ -10520,6 +10524,7 @@ github-hosts.json,DoveBoy/Apps
 mpv-git_DoveBoy.json,DoveBoy/Apps
 ventoy_DoveBoy.json,DoveBoy/Apps
 zephyr-portable.json,DoveBoy/Apps
+ddu.json,DoveBoy/Apps
 obs-studio-pre_DoveBoy.json,DoveBoy/Apps
 chfs-tab-completion.json,DoveBoy/Apps
 ghostdownloader3-portable.json,DoveBoy/Apps
@@ -11143,7 +11148,7 @@ unigetui_naderi.json,naderi/scoop-bucket
 fontviewok.json,naderi/scoop-bucket
 pushbullet.json,naderi/scoop-bucket
 eventlogviewer.json,naderi/scoop-bucket
-nuclear_naderi.json,naderi/scoop-bucket
+nuclear.json,naderi/scoop-bucket
 super-msconfig.json,naderi/scoop-bucket
 officetoolplus_naderi.json,naderi/scoop-bucket
 dogecoin-core.json,naderi/scoop-bucket
@@ -11256,7 +11261,6 @@ edge-portable-beta.json,naderi/scoop-bucket
 wlx2explorer.json,naderi/scoop-bucket
 cpod_naderi.json,naderi/scoop-bucket
 1by1_naderi.json,naderi/scoop-bucket
-encrypto.json,naderi/scoop-bucket
 iconview_naderi.json,naderi/scoop-bucket
 font-tanha.json,naderi/scoop-bucket
 youtube-downloader-hd.json,naderi/scoop-bucket
@@ -15735,6 +15739,7 @@ enve.json,windedge/ladle-bucket
 crush_windedge.json,windedge/ladle-bucket
 anytype_windedge.json,windedge/ladle-bucket
 seabird.json,windedge/ladle-bucket
+hfdownloader.json,windedge/ladle-bucket
 5ire_windedge.json,windedge/ladle-bucket
 paseo-desktop.json,windedge/ladle-bucket
 rtk_windedge.json,windedge/ladle-bucket
@@ -15746,7 +15751,7 @@ ganttproject.json,windedge/ladle-bucket
 markflowy_windedge.json,windedge/ladle-bucket
 gotify-tray.json,windedge/ladle-bucket
 forgecode_windedge.json,windedge/ladle-bucket
-herdr.json,windedge/ladle-bucket
+herdr_windedge.json,windedge/ladle-bucket
 coraldesk.json,windedge/ladle-bucket
 ki.json,windedge/ladle-bucket
 scia-reto.json,windedge/ladle-bucket
@@ -16112,7 +16117,7 @@ trae-cn.json,LaelLuo/scoop
 oomol_LaelLuo.json,LaelLuo/scoop
 yuanbao_LaelLuo.json,LaelLuo/scoop
 capcut_LaelLuo.json,LaelLuo/scoop
-codebuddy.json,LaelLuo/scoop
+codebuddy_LaelLuo.json,LaelLuo/scoop
 project-graph_LaelLuo.json,LaelLuo/scoop
 bun_LaelLuo.json,LaelLuo/scoop
 wechat_LaelLuo.json,LaelLuo/scoop
