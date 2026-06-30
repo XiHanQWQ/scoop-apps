@@ -6473,7 +6473,7 @@ auto-dark-mode-np.json,ScoopInstaller/Nonportable
 8gadgetpack-np.json,ScoopInstaller/Nonportable
 translucenttb-np.json,ScoopInstaller/Nonportable
 ti-connect-ce-software-np_ScoopInstaller.json,ScoopInstaller/Nonportable
-virtualbox-np.json,ScoopInstaller/Nonportable
+virtualbox-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 tunnelbear-np.json,ScoopInstaller/Nonportable
 fluent-terminal-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 file-converter-np.json,ScoopInstaller/Nonportable
@@ -6496,7 +6496,7 @@ icaros-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 nvidia-display-driver-dch-np.json,ScoopInstaller/Nonportable
 unity-hub-np.json,ScoopInstaller/Nonportable
 sshfs-np.json,ScoopInstaller/Nonportable
-virtualbox-with-extension-pack-np.json,ScoopInstaller/Nonportable
+virtualbox-with-extension-pack-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 winfsp-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 zerotier-np.json,ScoopInstaller/Nonportable
 xysubfilter-libass-np.json,ScoopInstaller/Nonportable
@@ -12920,6 +12920,7 @@ kindlegen_seumsc.json,seumsc/scoop-seu
 nusmv.json,seumsc/scoop-seu
 prom-lite.json,seumsc/scoop-seu
 firetools.json,seumsc/scoop-seu
+qcad.json,seumsc/scoop-seu
 lltskb.json,seumsc/scoop-seu
 proxifyre.json,seumsc/scoop-seu
 gamutvision.json,seumsc/scoop-seu
@@ -12971,6 +12972,7 @@ winpkfilter.json,seumsc/scoop-seu
 srmd-ncnn-vulkan.json,seumsc/scoop-seu
 librescore.json,seumsc/scoop-seu
 shellexview-zhs.json,seumsc/scoop-seu
+qcadcam.json,seumsc/scoop-seu
 anime4kcpp-cli.json,seumsc/scoop-seu
 cruiser.json,seumsc/scoop-seu
 rascal.json,seumsc/scoop-seu
