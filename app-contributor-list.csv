@@ -8571,7 +8571,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -10576,6 +10576,7 @@ perl_DoveBoy.json,DoveBoy/Apps
 scoop-search-chriscp.json,DoveBoy/Apps
 qqmusic_DoveBoy.json,DoveBoy/Apps
 wiliwili_DoveBoy.json,DoveBoy/Apps
+rufus_DoveBoy.json,DoveBoy/Apps
 clip-share-server.json,DoveBoy/Apps
 zyperwinoptimize.json,DoveBoy/Apps
 sandboxie-classic-portable.json,DoveBoy/Apps
@@ -12586,6 +12587,7 @@ mineru.json,Scoopforge/Extras-Plus
 jupyterlab-desktop.json,Scoopforge/Extras-Plus
 defender-remover.json,Scoopforge/Extras-Plus
 dorion_Scoopforge.json,Scoopforge/Extras-Plus
+comfyui-manager.json,Scoopforge/Extras-Plus
 cap.json,Scoopforge/Extras-Plus
 pdf4qt.json,Scoopforge/Extras-Plus
 ecopaste_Scoopforge.json,Scoopforge/Extras-Plus
@@ -13036,7 +13038,7 @@ baidunetdisk_TianXiaTech.json,TianXiaTech/scoop-txt
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
 neohtop_TianXiaTech.json,TianXiaTech/scoop-txt
 kugou.json,TianXiaTech/scoop-txt
-paseo_TianXiaTech.json,TianXiaTech/scoop-txt
+paseo.json,TianXiaTech/scoop-txt
 aliyundrive_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 codexPlusPlus.json,TianXiaTech/scoop-txt
@@ -15751,7 +15753,7 @@ ganttproject.json,windedge/ladle-bucket
 markflowy_windedge.json,windedge/ladle-bucket
 gotify-tray.json,windedge/ladle-bucket
 forgecode_windedge.json,windedge/ladle-bucket
-herdr_windedge.json,windedge/ladle-bucket
+herdr.json,windedge/ladle-bucket
 coraldesk.json,windedge/ladle-bucket
 ki.json,windedge/ladle-bucket
 scia-reto.json,windedge/ladle-bucket
