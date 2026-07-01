@@ -8571,7 +8571,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -9339,7 +9339,6 @@ unzip_akirco.json,akirco/aki-apps
 aria2_akirco.json,akirco/aki-apps
 poppler_akirco.json,akirco/aki-apps
 win32-openssh.json,akirco/aki-apps
-bilibili-livehime.json,akirco/aki-apps
 vcredist2012_akirco.json,akirco/aki-apps
 windows-terminal-quake_akirco.json,akirco/aki-apps
 obs-studio_akirco.json,akirco/aki-apps
@@ -9478,7 +9477,7 @@ which_akirco.json,akirco/aki-apps
 qt-creator_akirco.json,akirco/aki-apps
 baidudisk.json,akirco/aki-apps
 scoop-completion_akirco.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 oxipng_akirco.json,akirco/aki-apps
 memo.json,akirco/aki-apps
 simple-live.json,akirco/aki-apps
@@ -10784,6 +10783,7 @@ tiddlydesktop-prerelease.json,hu3rror/scoop-muggle
 manhuagui-downloader.json,hu3rror/scoop-muggle
 qbldx-mod.json,hu3rror/scoop-muggle
 emby_carnival.json,hu3rror/scoop-muggle
+sparkle.json,hu3rror/scoop-muggle
 smartsystemmenu_hu3rror.json,hu3rror/scoop-muggle
 sing-box-pre.json,hu3rror/scoop-muggle
 chromium_hu3rror.json,hu3rror/scoop-muggle
@@ -10846,6 +10846,7 @@ vcredist-aio_hu3rror.json,hu3rror/scoop-muggle
 logseq_hu3rror.json,hu3rror/scoop-muggle
 rimage_hu3rror.json,hu3rror/scoop-muggle
 mosdns-cn_hu3rror.json,hu3rror/scoop-muggle
+clash-nyanpasu-nightly.json,hu3rror/scoop-muggle
 animeko_hu3rror.json,hu3rror/scoop-muggle
 goldendict-ng_hu3rror.json,hu3rror/scoop-muggle
 space-cli.json,hu3rror/scoop-muggle
@@ -10900,7 +10901,6 @@ logseq-nightly_hu3rror.json,hu3rror/scoop-muggle
 scoop-backup-KNOXDEV_hu3rror.json,hu3rror/scoop-muggle
 yomikiru.json,hu3rror/scoop-muggle
 dopamine-preview.json,hu3rror/scoop-muggle
-clash-nyanpasu-nightly.json,hu3rror/scoop-muggle
 gopeed_hu3rror.json,hu3rror/scoop-muggle
 terminusplayer.json,hu3rror/scoop-muggle
 NatTypeTester_hu3rror.json,hu3rror/scoop-muggle
@@ -12965,7 +12965,7 @@ musicdecrypto.json,seumsc/scoop-seu
 jxl-winthumb_seumsc.json,seumsc/scoop-seu
 mahjong-helper_seumsc.json,seumsc/scoop-seu
 mpc-video-renderer.json,seumsc/scoop-seu
-kook.json,seumsc/scoop-seu
+kook_seumsc.json,seumsc/scoop-seu
 cpachecker.json,seumsc/scoop-seu
 madvr-test.json,seumsc/scoop-seu
 winpkfilter.json,seumsc/scoop-seu
@@ -15754,7 +15754,7 @@ tiny-rdm.json,windedge/ladle-bucket
 ganttproject.json,windedge/ladle-bucket
 markflowy_windedge.json,windedge/ladle-bucket
 gotify-tray.json,windedge/ladle-bucket
-forgecode_windedge.json,windedge/ladle-bucket
+forgecode.json,windedge/ladle-bucket
 herdr.json,windedge/ladle-bucket
 coraldesk.json,windedge/ladle-bucket
 ki.json,windedge/ladle-bucket
