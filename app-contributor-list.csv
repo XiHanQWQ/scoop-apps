@@ -5515,6 +5515,7 @@ tesseract4-languages.json,ScoopInstaller/Versions
 python39.json,ScoopInstaller/Versions
 git-flow-next-pre.json,ScoopInstaller/Versions
 zls-dev.json,ScoopInstaller/Versions
+llama.cpp-openvino.json,ScoopInstaller/Versions
 rust-nightly.json,ScoopInstaller/Versions
 kdenlive-nightly.json,ScoopInstaller/Versions
 zed-pre.json,ScoopInstaller/Versions
@@ -6473,7 +6474,7 @@ auto-dark-mode-np.json,ScoopInstaller/Nonportable
 8gadgetpack-np.json,ScoopInstaller/Nonportable
 translucenttb-np.json,ScoopInstaller/Nonportable
 ti-connect-ce-software-np_ScoopInstaller.json,ScoopInstaller/Nonportable
-virtualbox-np_ScoopInstaller.json,ScoopInstaller/Nonportable
+virtualbox-np.json,ScoopInstaller/Nonportable
 tunnelbear-np.json,ScoopInstaller/Nonportable
 fluent-terminal-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 file-converter-np.json,ScoopInstaller/Nonportable
@@ -6496,7 +6497,7 @@ icaros-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 nvidia-display-driver-dch-np.json,ScoopInstaller/Nonportable
 unity-hub-np.json,ScoopInstaller/Nonportable
 sshfs-np.json,ScoopInstaller/Nonportable
-virtualbox-with-extension-pack-np_ScoopInstaller.json,ScoopInstaller/Nonportable
+virtualbox-with-extension-pack-np.json,ScoopInstaller/Nonportable
 winfsp-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 zerotier-np.json,ScoopInstaller/Nonportable
 xysubfilter-libass-np.json,ScoopInstaller/Nonportable
@@ -12452,7 +12453,7 @@ bandwhich_aliesbelik.json,aliesbelik/poldi
 doggo_aliesbelik.json,aliesbelik/poldi
 mcat_aliesbelik.json,aliesbelik/poldi
 fresh_aliesbelik.json,aliesbelik/poldi
-karing_aliesbelik.json,aliesbelik/poldi
+karing.json,aliesbelik/poldi
 tlrc_aliesbelik.json,aliesbelik/poldi
 hl_aliesbelik.json,aliesbelik/poldi
 vegeta_aliesbelik.json,aliesbelik/poldi
@@ -12558,6 +12559,7 @@ navicat-premium-lite.json,Scoopforge/Extras-Plus
 vibe_Scoopforge.json,Scoopforge/Extras-Plus
 veracrypt.json,Scoopforge/Extras-Plus
 netlogo.json,Scoopforge/Extras-Plus
+affinity.json,Scoopforge/Extras-Plus
 next-ai-drawio.json,Scoopforge/Extras-Plus
 filecentipede.json,Scoopforge/Extras-Plus
 fancywm.json,Scoopforge/Extras-Plus
@@ -12583,7 +12585,7 @@ texlive_Scoopforge.json,Scoopforge/Extras-Plus
 notegen_Scoopforge.json,Scoopforge/Extras-Plus
 watt-toolkit_Scoopforge.json,Scoopforge/Extras-Plus
 musicat.json,Scoopforge/Extras-Plus
-mineru.json,Scoopforge/Extras-Plus
+mineru_Scoopforge.json,Scoopforge/Extras-Plus
 jupyterlab-desktop.json,Scoopforge/Extras-Plus
 defender-remover.json,Scoopforge/Extras-Plus
 dorion_Scoopforge.json,Scoopforge/Extras-Plus
@@ -13628,7 +13630,7 @@ OpenHashTab_cc713.json,cc713/ownscoop
 picacg-qt.json,cc713/ownscoop
 cpu-z-cn.json,cc713/ownscoop
 qview_cc713.json,cc713/ownscoop
-thunderbird-zh-cn_cc713.json,cc713/ownscoop
+thunderbird-zh-cn.json,cc713/ownscoop
 kiwix_cc713.json,cc713/ownscoop
 qimgv-dev.json,cc713/ownscoop
 kazumi_cc713.json,cc713/ownscoop
@@ -15754,7 +15756,7 @@ tiny-rdm.json,windedge/ladle-bucket
 ganttproject.json,windedge/ladle-bucket
 markflowy_windedge.json,windedge/ladle-bucket
 gotify-tray.json,windedge/ladle-bucket
-forgecode.json,windedge/ladle-bucket
+forgecode_windedge.json,windedge/ladle-bucket
 herdr.json,windedge/ladle-bucket
 coraldesk.json,windedge/ladle-bucket
 ki.json,windedge/ladle-bucket
