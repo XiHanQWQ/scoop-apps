@@ -1801,7 +1801,7 @@ processing.json,ScoopInstaller/Extras
 wxhexeditor.json,ScoopInstaller/Extras
 dosbox-staging.json,ScoopInstaller/Extras
 uninstall-tool.json,ScoopInstaller/Extras
-vscode_ScoopInstaller.json,ScoopInstaller/Extras
+vscode.json,ScoopInstaller/Extras
 nheko.json,ScoopInstaller/Extras
 npiperelay.json,ScoopInstaller/Extras
 dz6.json,ScoopInstaller/Extras
@@ -4493,7 +4493,7 @@ otto-matic.json,Calinou/scoop-games
 ecwolf.json,Calinou/scoop-games
 chunker-cli.json,Calinou/scoop-games
 weakauras-companion.json,Calinou/scoop-games
-starward_Calinou.json,Calinou/scoop-games
+starward.json,Calinou/scoop-games
 pso2-tweaker.json,Calinou/scoop-games
 wesnoth.json,Calinou/scoop-games
 golly.json,Calinou/scoop-games
@@ -9459,7 +9459,7 @@ redis-desktop-manager_akirco.json,akirco/aki-apps
 httpstat_akirco.json,akirco/aki-apps
 pikpak.json,akirco/aki-apps
 fastbootEnhance.json,akirco/aki-apps
-wegame_akirco.json,akirco/aki-apps
+wegame.json,akirco/aki-apps
 fat32format_akirco.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
 trae-cn.json,akirco/aki-apps
@@ -10922,7 +10922,7 @@ applicationinspector.json,wzv5/ScoopBucket
 besttrace_wzv5.json,wzv5/ScoopBucket
 winscp_wzv5.json,wzv5/ScoopBucket
 python-doc.json,wzv5/ScoopBucket
-qqlive_wzv5.json,wzv5/ScoopBucket
+qqlive.json,wzv5/ScoopBucket
 aliyundrive_wzv5.json,wzv5/ScoopBucket
 utools_wzv5.json,wzv5/ScoopBucket
 regex-tool.json,wzv5/ScoopBucket
@@ -12453,7 +12453,7 @@ bandwhich_aliesbelik.json,aliesbelik/poldi
 doggo_aliesbelik.json,aliesbelik/poldi
 mcat_aliesbelik.json,aliesbelik/poldi
 fresh_aliesbelik.json,aliesbelik/poldi
-karing.json,aliesbelik/poldi
+karing_aliesbelik.json,aliesbelik/poldi
 tlrc_aliesbelik.json,aliesbelik/poldi
 hl_aliesbelik.json,aliesbelik/poldi
 vegeta_aliesbelik.json,aliesbelik/poldi
@@ -12970,11 +12970,13 @@ mpc-video-renderer.json,seumsc/scoop-seu
 kook_seumsc.json,seumsc/scoop-seu
 cpachecker.json,seumsc/scoop-seu
 madvr-test.json,seumsc/scoop-seu
+qgis-server.json,seumsc/scoop-seu
 winpkfilter.json,seumsc/scoop-seu
 srmd-ncnn-vulkan.json,seumsc/scoop-seu
 librescore.json,seumsc/scoop-seu
 shellexview-zhs.json,seumsc/scoop-seu
 qcadcam.json,seumsc/scoop-seu
+qgis-ltr-server.json,seumsc/scoop-seu
 anime4kcpp-cli.json,seumsc/scoop-seu
 cruiser.json,seumsc/scoop-seu
 rascal.json,seumsc/scoop-seu
