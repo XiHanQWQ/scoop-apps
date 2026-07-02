@@ -2090,7 +2090,7 @@ obs-plugin-droidcam.json,ScoopInstaller/Extras
 real.json,ScoopInstaller/Extras
 wifi-manager.json,ScoopInstaller/Extras
 screen-saver-control.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 godot-version-manager.json,ScoopInstaller/Extras
 vcredist2012.json,ScoopInstaller/Extras
 clustalw.json,ScoopInstaller/Extras
@@ -8240,7 +8240,7 @@ Clash-for-Windows_dodorz.json,dodorz/scoop
 CyLog.json,dodorz/scoop
 WikidPad.json,dodorz/scoop
 BywaterBASIC.json,dodorz/scoop
-BitComet_dodorz.json,dodorz/scoop
+BitComet.json,dodorz/scoop
 Skills-Hub.json,dodorz/scoop
 Bulk-Rename-Utility_dodorz.json,dodorz/scoop
 HelloFont_dodorz.json,dodorz/scoop
@@ -8961,11 +8961,11 @@ ppsspp_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 shadps4_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
-shadps4-dev.json,borger/scoop-emulators
+shadps4-dev_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 goldeneye-recomp.json,borger/scoop-emulators
 eden_borger.json,borger/scoop-emulators
-eden-nightly_borger.json,borger/scoop-emulators
+eden-nightly.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 dolphin-dev.json,borger/scoop-emulators
 bsnes-mt_borger.json,borger/scoop-emulators
@@ -8973,7 +8973,7 @@ mgba_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 azahar_borger.json,borger/scoop-emulators
 visualboyadvance-m.json,borger/scoop-emulators
-duckstation-preview.json,borger/scoop-emulators
+duckstation-preview_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
