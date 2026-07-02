@@ -1801,7 +1801,7 @@ processing.json,ScoopInstaller/Extras
 wxhexeditor.json,ScoopInstaller/Extras
 dosbox-staging.json,ScoopInstaller/Extras
 uninstall-tool.json,ScoopInstaller/Extras
-vscode.json,ScoopInstaller/Extras
+vscode_ScoopInstaller.json,ScoopInstaller/Extras
 nheko.json,ScoopInstaller/Extras
 npiperelay.json,ScoopInstaller/Extras
 dz6.json,ScoopInstaller/Extras
@@ -4493,7 +4493,7 @@ otto-matic.json,Calinou/scoop-games
 ecwolf.json,Calinou/scoop-games
 chunker-cli.json,Calinou/scoop-games
 weakauras-companion.json,Calinou/scoop-games
-starward.json,Calinou/scoop-games
+starward_Calinou.json,Calinou/scoop-games
 pso2-tweaker.json,Calinou/scoop-games
 wesnoth.json,Calinou/scoop-games
 golly.json,Calinou/scoop-games
@@ -8572,7 +8572,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -13073,7 +13073,7 @@ baidunetdisk_TianXiaTech.json,TianXiaTech/scoop-txt
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
 neohtop_TianXiaTech.json,TianXiaTech/scoop-txt
 kugou.json,TianXiaTech/scoop-txt
-paseo_TianXiaTech.json,TianXiaTech/scoop-txt
+paseo.json,TianXiaTech/scoop-txt
 aliyundrive_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 codexPlusPlus.json,TianXiaTech/scoop-txt
@@ -13520,7 +13520,7 @@ imgdrive.json,aoisummer/scoop-bucket
 aegisub_aoisummer.json,aoisummer/scoop-bucket
 windowgrid_aoisummer.json,aoisummer/scoop-bucket
 komelia.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 autologon_aoisummer.json,aoisummer/scoop-bucket
 sakura-launcher-gui.json,aoisummer/scoop-bucket
 bbdown_aoisummer.json,aoisummer/scoop-bucket
@@ -13651,7 +13651,7 @@ OpenHashTab_cc713.json,cc713/ownscoop
 picacg-qt.json,cc713/ownscoop
 cpu-z-cn.json,cc713/ownscoop
 qview_cc713.json,cc713/ownscoop
-thunderbird-zh-cn.json,cc713/ownscoop
+thunderbird-zh-cn_cc713.json,cc713/ownscoop
 kiwix_cc713.json,cc713/ownscoop
 qimgv-dev.json,cc713/ownscoop
 kazumi_cc713.json,cc713/ownscoop
