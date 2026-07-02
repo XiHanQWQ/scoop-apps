@@ -13309,7 +13309,7 @@ flawless-widescreen.json,starise/Scoop-Gaming
 uniws-patcher.json,starise/Scoop-Gaming
 sam.json,starise/Scoop-Gaming
 idlemaster-extended_starise.json,starise/Scoop-Gaming
-steam-game-idler.json,starise/Scoop-Gaming
+steam-game-idler_starise.json,starise/Scoop-Gaming
 dlss-swapper_starise.json,starise/Scoop-Gaming
 nvidia-profile-inspector-beta.json,starise/Scoop-Gaming
 ihateborders.json,starise/Scoop-Gaming
@@ -15881,7 +15881,7 @@ r-4.1.0.json,ShuguangSun/sgs-scoop-bucket
 docsim.json,ShuguangSun/sgs-scoop-bucket
 emacs-mplscorwin.json,ShuguangSun/sgs-scoop-bucket
 cherry-studio-1.2.2.json,ShuguangSun/sgs-scoop-bucket
-r-devel.json,ShuguangSun/sgs-scoop-bucket
+r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 sumatrapdf.json,ShuguangSun/sgs-scoop-bucket
 llama-cpp-sycl.json,windedge/ladle-bucket
 askimo.json,windedge/ladle-bucket
