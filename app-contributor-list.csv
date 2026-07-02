@@ -1814,7 +1814,7 @@ easytier.json,ScoopInstaller/Extras
 snaketail.json,ScoopInstaller/Extras
 mpc-hc-fork.json,ScoopInstaller/Extras
 jellyfin-media-player.json,ScoopInstaller/Extras
-waifu2x-extension-gui_ScoopInstaller.json,ScoopInstaller/Extras
+waifu2x-extension-gui.json,ScoopInstaller/Extras
 quicktextpaste.json,ScoopInstaller/Extras
 github-copilot.json,ScoopInstaller/Extras
 meow.json,ScoopInstaller/Extras
@@ -12305,7 +12305,7 @@ s3scanner.json,aliesbelik/poldi
 loggo.json,aliesbelik/poldi
 bartib.json,aliesbelik/poldi
 gickup.json,aliesbelik/poldi
-ghgrab.json,aliesbelik/poldi
+ghgrab_aliesbelik.json,aliesbelik/poldi
 prom2json.json,aliesbelik/poldi
 naabu_aliesbelik.json,aliesbelik/poldi
 gossl.json,aliesbelik/poldi
