@@ -1497,7 +1497,7 @@ markdown-monster.json,ScoopInstaller/Extras
 gpu-z.json,ScoopInstaller/Extras
 hydrogen.json,ScoopInstaller/Extras
 winfile-original.json,ScoopInstaller/Extras
-jetbrains-toolbox.json,ScoopInstaller/Extras
+jetbrains-toolbox_ScoopInstaller.json,ScoopInstaller/Extras
 vieas.json,ScoopInstaller/Extras
 3d-fix-manager.json,ScoopInstaller/Extras
 weasel-pageant.json,ScoopInstaller/Extras
@@ -1814,7 +1814,7 @@ easytier.json,ScoopInstaller/Extras
 snaketail.json,ScoopInstaller/Extras
 mpc-hc-fork.json,ScoopInstaller/Extras
 jellyfin-media-player.json,ScoopInstaller/Extras
-waifu2x-extension-gui.json,ScoopInstaller/Extras
+waifu2x-extension-gui_ScoopInstaller.json,ScoopInstaller/Extras
 quicktextpaste.json,ScoopInstaller/Extras
 github-copilot.json,ScoopInstaller/Extras
 meow.json,ScoopInstaller/Extras
@@ -8965,7 +8965,7 @@ shadps4-dev_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 goldeneye-recomp.json,borger/scoop-emulators
 eden_borger.json,borger/scoop-emulators
-eden-nightly.json,borger/scoop-emulators
+eden-nightly_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 dolphin-dev.json,borger/scoop-emulators
 bsnes-mt_borger.json,borger/scoop-emulators
@@ -8988,7 +8988,7 @@ fceux.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
 mednafen_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
-mgba-dev_borger.json,borger/scoop-emulators
+mgba-dev.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
@@ -9967,7 +9967,7 @@ windows-manage-tool.json,DoveBoy/Apps
 cudatext.json,DoveBoy/Apps
 cheat-engine_DoveBoy.json,DoveBoy/Apps
 onlyoffice-desktopeditors_DoveBoy.json,DoveBoy/Apps
-gnupg-np.json,DoveBoy/Apps
+gnupg-np_DoveBoy.json,DoveBoy/Apps
 final2x.json,DoveBoy/Apps
 qrcp_DoveBoy.json,DoveBoy/Apps
 syncclipboard-beta.json,DoveBoy/Apps
@@ -10525,7 +10525,7 @@ mpv-git_DoveBoy.json,DoveBoy/Apps
 ventoy_DoveBoy.json,DoveBoy/Apps
 zephyr-portable.json,DoveBoy/Apps
 ddu.json,DoveBoy/Apps
-obs-studio-pre_DoveBoy.json,DoveBoy/Apps
+obs-studio-pre.json,DoveBoy/Apps
 chfs-tab-completion.json,DoveBoy/Apps
 ghostdownloader3-portable.json,DoveBoy/Apps
 cromite_DoveBoy.json,DoveBoy/Apps
@@ -10607,6 +10607,7 @@ mame.json,DoveBoy/Apps
 go-proxy-bingai.json,DoveBoy/Apps
 idcard-generator.json,DoveBoy/Apps
 p2p.json,DoveBoy/Apps
+horsemd.json,DoveBoy/Apps
 wechat_DoveBoy.json,DoveBoy/Apps
 biu.json,DoveBoy/Apps
 vutronmusic.json,DoveBoy/Apps
@@ -14446,6 +14447,7 @@ fio-aoks.json,AntonOks/scoop-aoks
 kubectl-crossplane-aoks.json,AntonOks/scoop-aoks
 talosctl-aoks.json,AntonOks/scoop-aoks
 IntelliJIDEA-aoks.json,AntonOks/scoop-aoks
+winscript-aoks.json,AntonOks/scoop-aoks
 incus-aoks.json,AntonOks/scoop-aoks
 xcaddy-aoks.json,AntonOks/scoop-aoks
 kopiaUI-aoks.json,AntonOks/scoop-aoks
