@@ -1460,7 +1460,7 @@ php-xdebug.json,ScoopInstaller/Extras
 cascadeur.json,ScoopInstaller/Extras
 github.json,ScoopInstaller/Extras
 upsource.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 keepass-plugin-keetheme.json,ScoopInstaller/Extras
 xl-converter.json,ScoopInstaller/Extras
 palemoon.json,ScoopInstaller/Extras
@@ -8117,7 +8117,7 @@ SodaPlayer.json,dodorz/scoop
 NetView.json,dodorz/scoop
 Kimi.json,dodorz/scoop
 Syncany-GUI.json,dodorz/scoop
-Octarine_dodorz.json,dodorz/scoop
+Octarine.json,dodorz/scoop
 PrecCalc.json,dodorz/scoop
 MParallel.json,dodorz/scoop
 ink.json,dodorz/scoop
@@ -8572,7 +8572,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -8973,7 +8973,7 @@ mgba_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 azahar_borger.json,borger/scoop-emulators
 visualboyadvance-m.json,borger/scoop-emulators
-duckstation-preview.json,borger/scoop-emulators
+duckstation-preview_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
@@ -8989,7 +8989,7 @@ xenia_borger.json,borger/scoop-emulators
 mednafen_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
-ppsspp-dev_borger.json,borger/scoop-emulators
+ppsspp-dev.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
@@ -10609,6 +10609,7 @@ idcard-generator.json,DoveBoy/Apps
 p2p.json,DoveBoy/Apps
 horsemd.json,DoveBoy/Apps
 wechat_DoveBoy.json,DoveBoy/Apps
+forkgram_DoveBoy.json,DoveBoy/Apps
 biu.json,DoveBoy/Apps
 vutronmusic.json,DoveBoy/Apps
 vivetool_DoveBoy.json,DoveBoy/Apps
@@ -11777,7 +11778,7 @@ lanzouyun-disk_WinApps-share.json,WinApps-share/WinApps-bucket
 everything-toolbar_WinApps-share.json,WinApps-share/WinApps-bucket
 lively_WinApps-share.json,WinApps-share/WinApps-bucket
 ditto_WinApps-share.json,WinApps-share/WinApps-bucket
-ecopaste.json,WinApps-share/WinApps-bucket
+ecopaste_WinApps-share.json,WinApps-share/WinApps-bucket
 iloader.json,WinApps-share/WinApps-bucket
 bcuninstaller-np.json,WinApps-share/WinApps-bucket
 ocauxiliarytools_WinApps-share.json,WinApps-share/WinApps-bucket
