@@ -2095,7 +2095,7 @@ obs-plugin-droidcam.json,ScoopInstaller/Extras
 real.json,ScoopInstaller/Extras
 wifi-manager.json,ScoopInstaller/Extras
 screen-saver-control.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 godot-version-manager.json,ScoopInstaller/Extras
 vcredist2012.json,ScoopInstaller/Extras
 clustalw.json,ScoopInstaller/Extras
@@ -2485,6 +2485,7 @@ zeronet.json,ScoopInstaller/Extras
 freelens.json,ScoopInstaller/Extras
 icecast.json,ScoopInstaller/Extras
 catalyst.json,ScoopInstaller/Extras
+minilpa.json,ScoopInstaller/Extras
 abricotine.json,ScoopInstaller/Extras
 jetaudio-basic.json,ScoopInstaller/Extras
 fwup.json,ScoopInstaller/Extras
@@ -8075,6 +8076,7 @@ AlpineWSL_dodorz.json,dodorz/scoop
 VenetaViewer.json,dodorz/scoop
 eza-ls.json,dodorz/scoop
 EvilPlayer.json,dodorz/scoop
+OxideTerm.json,dodorz/scoop
 shandianshuo.json,dodorz/scoop
 Notepad4_HD-AVX2.json,dodorz/scoop
 cht.sh.json,dodorz/scoop
@@ -9022,7 +9024,7 @@ mesen-s_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
@@ -9133,7 +9135,7 @@ java-memshell-generator.json,ViCrack/scoop-bucket
 mdut-extend-release.json,ViCrack/scoop-bucket
 confuserex-cli.json,ViCrack/scoop-bucket
 java-echo-generator-release.json,ViCrack/scoop-bucket
-oxideterm.json,ViCrack/scoop-bucket
+oxideterm_ViCrack.json,ViCrack/scoop-bucket
 yakit_ViCrack.json,ViCrack/scoop-bucket
 cyberapi.json,ViCrack/scoop-bucket
 sublinkpro.json,ViCrack/scoop-bucket
@@ -14881,7 +14883,7 @@ sublime-text.json,maboloshi/scoop-private
 n-m3u8dl-cli_maboloshi.json,maboloshi/scoop-private
 FileLocatorPro.json,maboloshi/scoop-private
 pot_maboloshi.json,maboloshi/scoop-private
-monitorian.json,maboloshi/scoop-private
+monitorian_maboloshi.json,maboloshi/scoop-private
 CascadiaMono-NF-Mono_maboloshi.json,maboloshi/scoop-private
 RevokeMsgPatcher_maboloshi.json,maboloshi/scoop-private
 manggo.json,maboloshi/scoop-private
