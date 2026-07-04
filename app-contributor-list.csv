@@ -1497,7 +1497,7 @@ markdown-monster.json,ScoopInstaller/Extras
 gpu-z.json,ScoopInstaller/Extras
 hydrogen.json,ScoopInstaller/Extras
 winfile-original.json,ScoopInstaller/Extras
-jetbrains-toolbox.json,ScoopInstaller/Extras
+jetbrains-toolbox_ScoopInstaller.json,ScoopInstaller/Extras
 vieas.json,ScoopInstaller/Extras
 3d-fix-manager.json,ScoopInstaller/Extras
 weasel-pageant.json,ScoopInstaller/Extras
@@ -8577,7 +8577,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -8996,7 +8996,7 @@ mesen-s_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
@@ -10588,7 +10588,7 @@ ugrep_DoveBoy.json,DoveBoy/Apps
 pilinara-portable.json,DoveBoy/Apps
 kazumi.json,DoveBoy/Apps
 readest_DoveBoy.json,DoveBoy/Apps
-dandanplay.json,DoveBoy/Apps
+dandanplay_DoveBoy.json,DoveBoy/Apps
 easyserviceoptimizer_DoveBoy.json,DoveBoy/Apps
 douyu.json,DoveBoy/Apps
 winrar-keygen-gui.json,DoveBoy/Apps
@@ -10621,7 +10621,7 @@ clashxw.json,DoveBoy/Apps
 kobi.json,DoveBoy/Apps
 bleachbit_DoveBoy.json,DoveBoy/Apps
 fx_DoveBoy.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 gopeed_DoveBoy.json,DoveBoy/Apps
 joplin_DoveBoy.json,DoveBoy/Apps
 hashcat_DoveBoy.json,DoveBoy/Apps
@@ -12557,7 +12557,7 @@ cassowary.json,aliesbelik/poldi
 yai.json,aliesbelik/poldi
 gat.json,aliesbelik/poldi
 rewrk.json,aliesbelik/poldi
-jvms.json,aliesbelik/poldi
+jvms_aliesbelik.json,aliesbelik/poldi
 hwatch.json,aliesbelik/poldi
 landrop-latest.json,Scoopforge/Extras-Plus
 flying-carpet.json,Scoopforge/Extras-Plus
@@ -13528,7 +13528,7 @@ imgdrive.json,aoisummer/scoop-bucket
 aegisub_aoisummer.json,aoisummer/scoop-bucket
 windowgrid_aoisummer.json,aoisummer/scoop-bucket
 komelia.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 autologon_aoisummer.json,aoisummer/scoop-bucket
 sakura-launcher-gui.json,aoisummer/scoop-bucket
 bbdown_aoisummer.json,aoisummer/scoop-bucket
