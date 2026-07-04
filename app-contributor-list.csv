@@ -1642,6 +1642,7 @@ graphicsgale.json,ScoopInstaller/Extras
 zlocation.json,ScoopInstaller/Extras
 choeazycopy.json,ScoopInstaller/Extras
 tortoisemerge.json,ScoopInstaller/Extras
+pinkbin.json,ScoopInstaller/Extras
 win-portacle.json,ScoopInstaller/Extras
 tsshd.json,ScoopInstaller/Extras
 pdfsam.json,ScoopInstaller/Extras
@@ -2370,6 +2371,7 @@ free42.json,ScoopInstaller/Extras
 microsoft-powerapps-cli.json,ScoopInstaller/Extras
 octant.json,ScoopInstaller/Extras
 folo.json,ScoopInstaller/Extras
+parabolic.json,ScoopInstaller/Extras
 flux_ScoopInstaller.json,ScoopInstaller/Extras
 argyllcms.json,ScoopInstaller/Extras
 screentogif.json,ScoopInstaller/Extras
@@ -8577,7 +8579,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -10789,6 +10791,7 @@ iso-creator-tool.json,hu3rror/scoop-muggle
 newrain-duplicate-photo-finder.json,hu3rror/scoop-muggle
 RyuSAK_hu3rror.json,hu3rror/scoop-muggle
 8bitdo-ultimate-software-v2.json,hu3rror/scoop-muggle
+winsw-mihomo-service.json,hu3rror/scoop-muggle
 limitpng.json,hu3rror/scoop-muggle
 umi-ocr-rapid_hu3rror.json,hu3rror/scoop-muggle
 PicaComic.json,hu3rror/scoop-muggle
@@ -11475,7 +11478,7 @@ arturo_amorphobia.json,amorphobia/siku
 vmping.json,amorphobia/siku
 pcl2-ce.json,amorphobia/siku
 ipatool_amorphobia.json,amorphobia/siku
-filebrowser_amorphobia.json,amorphobia/siku
+filebrowser.json,amorphobia/siku
 rubick_amorphobia.json,amorphobia/siku
 bcdown.json,amorphobia/siku
 jijidown.json,amorphobia/siku
@@ -14811,6 +14814,7 @@ pot_maboloshi.json,maboloshi/scoop-private
 monitorian_maboloshi.json,maboloshi/scoop-private
 CascadiaMono-NF-Mono_maboloshi.json,maboloshi/scoop-private
 RevokeMsgPatcher_maboloshi.json,maboloshi/scoop-private
+manggo.json,maboloshi/scoop-private
 dingtalk@7.0.10.1026.json,maboloshi/scoop-private
 brave_maboloshi.json,maboloshi/scoop-private
 clip.json,maboloshi/scoop-private
@@ -15891,7 +15895,7 @@ r-4.1.0.json,ShuguangSun/sgs-scoop-bucket
 docsim.json,ShuguangSun/sgs-scoop-bucket
 emacs-mplscorwin.json,ShuguangSun/sgs-scoop-bucket
 cherry-studio-1.2.2.json,ShuguangSun/sgs-scoop-bucket
-r-devel.json,ShuguangSun/sgs-scoop-bucket
+r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 sumatrapdf.json,ShuguangSun/sgs-scoop-bucket
 seanime-desktop.json,Rinkerbel/scooped
 shiru.json,Rinkerbel/scooped
