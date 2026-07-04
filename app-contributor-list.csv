@@ -1460,7 +1460,7 @@ php-xdebug.json,ScoopInstaller/Extras
 cascadeur.json,ScoopInstaller/Extras
 github.json,ScoopInstaller/Extras
 upsource.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 keepass-plugin-keetheme.json,ScoopInstaller/Extras
 xl-converter.json,ScoopInstaller/Extras
 palemoon.json,ScoopInstaller/Extras
@@ -10877,6 +10877,7 @@ cloudmusic-green.json,hu3rror/scoop-muggle
 chatall_hu3rror.json,hu3rror/scoop-muggle
 jpegview-fork_hu3rror.json,hu3rror/scoop-muggle
 pot-desktop_hu3rror.json,hu3rror/scoop-muggle
+mihomo_hu3rror.json,hu3rror/scoop-muggle
 neeview_hu3rror.json,hu3rror/scoop-muggle
 chk-hashtool.json,hu3rror/scoop-muggle
 baidupcs-go_hu3rror.json,hu3rror/scoop-muggle
@@ -12198,7 +12199,7 @@ DDMonitor.json,ygguorun/scoop-bucket
 CJK-character-count_ygguorun.json,ygguorun/scoop-bucket
 otfcc_ygguorun.json,ygguorun/scoop-bucket
 jy-srt-tools.json,ygguorun/scoop-bucket
-BaiduNetdisk.json,ygguorun/scoop-bucket
+BaiduNetdisk_ygguorun.json,ygguorun/scoop-bucket
 bililive-go_ygguorun.json,ygguorun/scoop-bucket
 gluttonyFLIF.json,ygguorun/scoop-bucket
 paseo.json,ygguorun/scoop-bucket
@@ -12594,7 +12595,7 @@ texlive_Scoopforge.json,Scoopforge/Extras-Plus
 notegen_Scoopforge.json,Scoopforge/Extras-Plus
 watt-toolkit_Scoopforge.json,Scoopforge/Extras-Plus
 musicat.json,Scoopforge/Extras-Plus
-mineru.json,Scoopforge/Extras-Plus
+mineru_Scoopforge.json,Scoopforge/Extras-Plus
 jupyterlab-desktop.json,Scoopforge/Extras-Plus
 defender-remover.json,Scoopforge/Extras-Plus
 dorion_Scoopforge.json,Scoopforge/Extras-Plus
@@ -15890,7 +15891,7 @@ r-4.1.0.json,ShuguangSun/sgs-scoop-bucket
 docsim.json,ShuguangSun/sgs-scoop-bucket
 emacs-mplscorwin.json,ShuguangSun/sgs-scoop-bucket
 cherry-studio-1.2.2.json,ShuguangSun/sgs-scoop-bucket
-r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+r-devel.json,ShuguangSun/sgs-scoop-bucket
 sumatrapdf.json,ShuguangSun/sgs-scoop-bucket
 seanime-desktop.json,Rinkerbel/scooped
 shiru.json,Rinkerbel/scooped
@@ -15974,7 +15975,6 @@ glaxnimate.json,windedge/ladle-bucket
 hoppscotch_windedge.json,windedge/ladle-bucket
 pdfbox-debugger.json,windedge/ladle-bucket
 mkeditor.json,windedge/ladle-bucket
-jvms_windedge.json,windedge/ladle-bucket
 ferium_The-Simples.json,The-Simples/scoop-minecraft
 packsquash.json,The-Simples/scoop-minecraft
 prism.json,The-Simples/scoop-minecraft
