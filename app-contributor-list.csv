@@ -8990,7 +8990,7 @@ smoothie.json,couleur-tweak-tips/utils
 mouse-tester-fork.json,couleur-tweak-tips/utils
 usbtreeview_couleur-tweak-tips.json,couleur-tweak-tips/utils
 MediaDownloader.json,couleur-tweak-tips/utils
-snes9x-dev_borger.json,borger/scoop-emulators
+snes9x-dev.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 2ship2harkinian.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
@@ -9969,6 +9969,7 @@ dark_DoveBoy.json,DoveBoy/Apps
 lanzou-gui.json,DoveBoy/Apps
 mihomo-compatible.json,DoveBoy/Apps
 fd_DoveBoy.json,DoveBoy/Apps
+mkvtoolnix_DoveBoy.json,DoveBoy/Apps
 gotop_DoveBoy.json,DoveBoy/Apps
 auto-unlocker.json,DoveBoy/Apps
 sniffnet_DoveBoy.json,DoveBoy/Apps
