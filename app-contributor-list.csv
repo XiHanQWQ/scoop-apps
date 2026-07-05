@@ -8604,7 +8604,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -9024,7 +9024,7 @@ mesen-s_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
@@ -11461,7 +11461,7 @@ posh-cargo.json,amorphobia/siku
 pocket-id.json,amorphobia/siku
 massigra.json,amorphobia/siku
 iris_amorphobia.json,amorphobia/siku
-plain-craft-launcher.json,amorphobia/siku
+plain-craft-launcher_amorphobia.json,amorphobia/siku
 rabbit-nightly.json,amorphobia/siku
 rabbit.json,amorphobia/siku
 imazing-converter.json,amorphobia/siku
@@ -11505,7 +11505,7 @@ arturo_amorphobia.json,amorphobia/siku
 vmping.json,amorphobia/siku
 pcl2-ce.json,amorphobia/siku
 ipatool_amorphobia.json,amorphobia/siku
-filebrowser.json,amorphobia/siku
+filebrowser_amorphobia.json,amorphobia/siku
 rubick_amorphobia.json,amorphobia/siku
 bcdown.json,amorphobia/siku
 jijidown.json,amorphobia/siku
@@ -14819,7 +14819,7 @@ multipass_HUMORCE.json,HUMORCE/nuke
 telegram_HUMORCE.json,HUMORCE/nuke
 slam.json,HUMORCE/nuke
 xenos.json,HUMORCE/nuke
-ruffle-nightly_HUMORCE.json,HUMORCE/nuke
+ruffle-nightly.json,HUMORCE/nuke
 fiddler-classic.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 hkbtest.json,HUMORCE/nuke
@@ -16026,6 +16026,7 @@ glaxnimate.json,windedge/ladle-bucket
 hoppscotch_windedge.json,windedge/ladle-bucket
 pdfbox-debugger.json,windedge/ladle-bucket
 mkeditor.json,windedge/ladle-bucket
+jvms_windedge.json,windedge/ladle-bucket
 pdm_jcwillox.json,jcwillox/scoop-python
 mcstatus.json,jcwillox/scoop-python
 python313-np.json,jcwillox/scoop-python
