@@ -1083,6 +1083,7 @@ Bundletool_sliots.json,sliots/ScoopBucket
 BiliCLOnline.json,sliots/ScoopBucket
 BilibiliDown.json,sliots/ScoopBucket
 PhotoTimeFix.json,sliots/ScoopBucket
+yt-dlp-tauri.json,sliots/ScoopBucket
 EasySpider.json,sliots/ScoopBucket
 napcatqq-desktop.json,sliots/ScoopBucket
 arc_unpacker.json,sliots/ScoopBucket
@@ -9006,7 +9007,7 @@ mgba_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 azahar_borger.json,borger/scoop-emulators
 visualboyadvance-m.json,borger/scoop-emulators
-duckstation-preview.json,borger/scoop-emulators
+duckstation-preview_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
@@ -10184,7 +10185,6 @@ driveck.json,DoveBoy/Apps
 fancontrol-net4.8-portable.json,DoveBoy/Apps
 mpv-lazy.json,DoveBoy/Apps
 yasocut.json,DoveBoy/Apps
-mpv-easy-player_DoveBoy.json,DoveBoy/Apps
 optimizerduck.json,DoveBoy/Apps
 unblockneteasemusic.json,DoveBoy/Apps
 aria2_DoveBoy.json,DoveBoy/Apps
