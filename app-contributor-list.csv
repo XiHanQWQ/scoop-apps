@@ -6808,7 +6808,7 @@ samsung-magician-np.json,rasa/scoops
 policy-analyzer.json,rasa/scoops
 sysinternals_rasa.json,rasa/scoops
 kpcli.json,rasa/scoops
-brave_rasa.json,rasa/scoops
+brave.json,rasa/scoops
 git-all_rasa.json,rasa/scoops
 wfc.json,rasa/scoops
 hash-explorer.json,rasa/scoops
@@ -8990,7 +8990,7 @@ smoothie.json,couleur-tweak-tips/utils
 mouse-tester-fork.json,couleur-tweak-tips/utils
 usbtreeview_couleur-tweak-tips.json,couleur-tweak-tips/utils
 MediaDownloader.json,couleur-tweak-tips/utils
-snes9x-dev.json,borger/scoop-emulators
+snes9x-dev_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 2ship2harkinian.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
@@ -9969,7 +9969,6 @@ dark_DoveBoy.json,DoveBoy/Apps
 lanzou-gui.json,DoveBoy/Apps
 mihomo-compatible.json,DoveBoy/Apps
 fd_DoveBoy.json,DoveBoy/Apps
-mkvtoolnix_DoveBoy.json,DoveBoy/Apps
 gotop_DoveBoy.json,DoveBoy/Apps
 auto-unlocker.json,DoveBoy/Apps
 sniffnet_DoveBoy.json,DoveBoy/Apps
@@ -10544,7 +10543,6 @@ liveautorecord.json,DoveBoy/Apps
 superrdp.json,DoveBoy/Apps
 streamcap.json,DoveBoy/Apps
 act_DoveBoy.json,DoveBoy/Apps
-mpv_DoveBoy.json,DoveBoy/Apps
 fnm_DoveBoy.json,DoveBoy/Apps
 fix-print-spooler_DoveBoy.json,DoveBoy/Apps
 calctus.json,DoveBoy/Apps
@@ -10558,7 +10556,6 @@ pikapika.json,DoveBoy/Apps
 bottom_DoveBoy.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
 github-hosts.json,DoveBoy/Apps
-mpv-git.json,DoveBoy/Apps
 ventoy_DoveBoy.json,DoveBoy/Apps
 zephyr-portable.json,DoveBoy/Apps
 ddu.json,DoveBoy/Apps
@@ -11838,7 +11835,7 @@ listen1-np.json,WinApps-share/WinApps-bucket
 dropit_WinApps-share.json,WinApps-share/WinApps-bucket
 motrix-np.json,WinApps-share/WinApps-bucket
 wechat_WinApps-share.json,WinApps-share/WinApps-bucket
-cursor.json,WinApps-share/WinApps-bucket
+cursor_WinApps-share.json,WinApps-share/WinApps-bucket
 wps_WinApps-share.json,WinApps-share/WinApps-bucket
 dbeaver_WinApps-share.json,WinApps-share/WinApps-bucket
 localsend-setup.json,WinApps-share/WinApps-bucket
@@ -14823,7 +14820,7 @@ multipass_HUMORCE.json,HUMORCE/nuke
 telegram_HUMORCE.json,HUMORCE/nuke
 slam.json,HUMORCE/nuke
 xenos.json,HUMORCE/nuke
-ruffle-nightly_HUMORCE.json,HUMORCE/nuke
+ruffle-nightly.json,HUMORCE/nuke
 fiddler-classic.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 hkbtest.json,HUMORCE/nuke
@@ -16031,6 +16028,7 @@ glaxnimate.json,windedge/ladle-bucket
 hoppscotch_windedge.json,windedge/ladle-bucket
 pdfbox-debugger.json,windedge/ladle-bucket
 mkeditor.json,windedge/ladle-bucket
+jvms_windedge.json,windedge/ladle-bucket
 pdm_jcwillox.json,jcwillox/scoop-python
 mcstatus.json,jcwillox/scoop-python
 python313-np.json,jcwillox/scoop-python
