@@ -1649,6 +1649,7 @@ win-portacle.json,ScoopInstaller/Extras
 tsshd.json,ScoopInstaller/Extras
 pdfsam.json,ScoopInstaller/Extras
 moonlight.json,ScoopInstaller/Extras
+wsl-ui.json,ScoopInstaller/Extras
 ugene.json,ScoopInstaller/Extras
 zotero.json,ScoopInstaller/Extras
 altsnap.json,ScoopInstaller/Extras
@@ -1893,6 +1894,7 @@ ytmdesktop.json,ScoopInstaller/Extras
 nomeiryoui.json,ScoopInstaller/Extras
 weebp.json,ScoopInstaller/Extras
 vscodium.json,ScoopInstaller/Extras
+wsl-dashboard.json,ScoopInstaller/Extras
 stone-soup.json,ScoopInstaller/Extras
 museeks.json,ScoopInstaller/Extras
 resizer2.json,ScoopInstaller/Extras
@@ -3049,6 +3051,7 @@ scene-builder.json,ScoopInstaller/Extras
 defendnot.json,ScoopInstaller/Extras
 winauth.json,ScoopInstaller/Extras
 thorium-reader.json,ScoopInstaller/Extras
+diskus.json,ScoopInstaller/Extras
 flow-launcher.json,ScoopInstaller/Extras
 yarr.json,ScoopInstaller/Extras
 find-java.json,ScoopInstaller/Extras
@@ -9008,7 +9011,7 @@ mgba_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 azahar_borger.json,borger/scoop-emulators
 visualboyadvance-m.json,borger/scoop-emulators
-duckstation-preview.json,borger/scoop-emulators
+duckstation-preview_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
@@ -10557,6 +10560,7 @@ pikapika.json,DoveBoy/Apps
 bottom_DoveBoy.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
 github-hosts.json,DoveBoy/Apps
+mpv-git_DoveBoy.json,DoveBoy/Apps
 ventoy_DoveBoy.json,DoveBoy/Apps
 zephyr-portable.json,DoveBoy/Apps
 ddu.json,DoveBoy/Apps
@@ -10651,7 +10655,7 @@ clashxw.json,DoveBoy/Apps
 kobi.json,DoveBoy/Apps
 bleachbit_DoveBoy.json,DoveBoy/Apps
 fx_DoveBoy.json,DoveBoy/Apps
-neteaseuu_DoveBoy.json,DoveBoy/Apps
+neteaseuu.json,DoveBoy/Apps
 gopeed_DoveBoy.json,DoveBoy/Apps
 joplin_DoveBoy.json,DoveBoy/Apps
 hashcat_DoveBoy.json,DoveBoy/Apps
@@ -12130,7 +12134,7 @@ sioyek-preview.json,brian6932/dank-scoop
 testmem5.json,brian6932/dank-scoop
 qft.json,brian6932/dank-scoop
 gif2apng-cli.json,brian6932/dank-scoop
-mpv-git.json,brian6932/dank-scoop
+mpv-git_brian6932.json,brian6932/dank-scoop
 npcap-np.json,brian6932/dank-scoop
 whocrashed.json,brian6932/dank-scoop
 jiq.json,brian6932/dank-scoop
@@ -12536,7 +12540,7 @@ terjang.json,aliesbelik/poldi
 tdu.json,aliesbelik/poldi
 gocker.json,aliesbelik/poldi
 claws.json,aliesbelik/poldi
-diskus.json,aliesbelik/poldi
+diskus_aliesbelik.json,aliesbelik/poldi
 hulak.json,aliesbelik/poldi
 qv.json,aliesbelik/poldi
 taws.json,aliesbelik/poldi
@@ -14868,7 +14872,7 @@ weixin.json,maboloshi/scoop-private
 uv_maboloshi.json,maboloshi/scoop-private
 beyondcompare5-zh.json,maboloshi/scoop-private
 dingtalk.json,maboloshi/scoop-private
-ima-copilot_maboloshi.json,maboloshi/scoop-private
+ima-copilot.json,maboloshi/scoop-private
 doubao.json,maboloshi/scoop-private
 clickmonitorddc-cn.json,maboloshi/scoop-private
 PowerShell_maboloshi.json,maboloshi/scoop-private
@@ -15789,6 +15793,7 @@ openjdk20_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 miniforge3-cn.json,ShuguangSun/sgs-scoop-bucket
 python_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 wpsoffice.json,ShuguangSun/sgs-scoop-bucket
+r-4.6.1.json,ShuguangSun/sgs-scoop-bucket
 r-4.3.2.json,ShuguangSun/sgs-scoop-bucket
 HandyOutliner.json,ShuguangSun/sgs-scoop-bucket
 emacs_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
@@ -15858,6 +15863,7 @@ ydict.json,ShuguangSun/sgs-scoop-bucket
 robotoslab.json,ShuguangSun/sgs-scoop-bucket
 r-openblas.json,ShuguangSun/sgs-scoop-bucket
 r-4.4.2.json,ShuguangSun/sgs-scoop-bucket
+jags-4.3.2.json,ShuguangSun/sgs-scoop-bucket
 r_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 juliamono_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 openjdk16_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
