@@ -9039,7 +9039,7 @@ redream_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 shipwright_borger.json,borger/scoop-emulators
-xenia-canary_borger.json,borger/scoop-emulators
+xenia-canary.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
@@ -14406,6 +14406,7 @@ filevoyager-aoks.json,AntonOks/scoop-aoks
 setacl-aoks.json,AntonOks/scoop-aoks
 ticker-aoks.json,AntonOks/scoop-aoks
 iobit-unlocker-aoks.json,AntonOks/scoop-aoks
+task-aoks.json,AntonOks/scoop-aoks
 taskctl-aoks.json,AntonOks/scoop-aoks
 xpipe-aoks.json,AntonOks/scoop-aoks
 VictoriaMetrics-cluster-aoks.json,AntonOks/scoop-aoks
@@ -16095,6 +16096,7 @@ epick.json,younger-1/scoop-it
 wave.json,younger-1/scoop-it
 tai_younger-1.json,younger-1/scoop-it
 selene_younger-1.json,younger-1/scoop-it
+ccpocket.json,LaelLuo/scoop
 qq-nt_LaelLuo.json,LaelLuo/scoop
 claude_LaelLuo.json,LaelLuo/scoop
 codex-local.json,LaelLuo/scoop
@@ -16150,14 +16152,14 @@ open-pencil.json,LaelLuo/scoop
 wechatdevtools_LaelLuo.json,LaelLuo/scoop
 reqable_LaelLuo.json,LaelLuo/scoop
 notion_LaelLuo.json,LaelLuo/scoop
-mcp-router_LaelLuo.json,LaelLuo/scoop
+mcp-router.json,LaelLuo/scoop
 codex-flow.json,LaelLuo/scoop
 virtual-browser.json,LaelLuo/scoop
 trae_LaelLuo.json,LaelLuo/scoop
 qoder_LaelLuo.json,LaelLuo/scoop
 google-antigravity_LaelLuo.json,LaelLuo/scoop
 anytype_LaelLuo.json,LaelLuo/scoop
-qoderwork_LaelLuo.json,LaelLuo/scoop
+qoderwork.json,LaelLuo/scoop
 droid_LaelLuo.json,LaelLuo/scoop
 crossdesk_LaelLuo.json,LaelLuo/scoop
 utools_LaelLuo.json,LaelLuo/scoop
@@ -16179,7 +16181,7 @@ trae-cn.json,LaelLuo/scoop
 oomol_LaelLuo.json,LaelLuo/scoop
 yuanbao_LaelLuo.json,LaelLuo/scoop
 capcut_LaelLuo.json,LaelLuo/scoop
-codebuddy_LaelLuo.json,LaelLuo/scoop
+codebuddy.json,LaelLuo/scoop
 project-graph_LaelLuo.json,LaelLuo/scoop
 bun_LaelLuo.json,LaelLuo/scoop
 wechat_LaelLuo.json,LaelLuo/scoop
