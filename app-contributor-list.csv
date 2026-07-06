@@ -3593,7 +3593,6 @@ winlibs-mingw-ucrt.json,chawyehsu/dorado
 anchor-cli.json,chawyehsu/dorado
 orwell-dev-cpp-no-compiler.json,chawyehsu/dorado
 zap.json,chawyehsu/dorado
-electerm_chawyehsu.json,chawyehsu/dorado
 wasm-pack.json,chawyehsu/dorado
 opentrace_chawyehsu.json,chawyehsu/dorado
 nbtexplorer.json,chawyehsu/dorado
@@ -4264,7 +4263,7 @@ libreoffice-cn.json,Scoopforge/Extras-CN
 texstudio-cn.json,Scoopforge/Extras-CN
 fishing-funds.json,Scoopforge/Extras-CN
 pixpin_Scoopforge.json,Scoopforge/Extras-CN
-feishu_Scoopforge.json,Scoopforge/Extras-CN
+feishu.json,Scoopforge/Extras-CN
 adrive.json,Scoopforge/Extras-CN
 heu-kms-activator.json,Scoopforge/Extras-CN
 tencent-meeting.json,Scoopforge/Extras-CN
@@ -8171,6 +8170,7 @@ JSONedit.json,dodorz/scoop
 INetGet.json,dodorz/scoop
 ShellExecute.json,dodorz/scoop
 SpeedCrunch_dodorz.json,dodorz/scoop
+SnapPaddleOCR.json,dodorz/scoop
 TinyPlay.json,dodorz/scoop
 Marp-deprecated.json,dodorz/scoop
 KISSPlayer.json,dodorz/scoop
@@ -9008,7 +9008,7 @@ mgba_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 azahar_borger.json,borger/scoop-emulators
 visualboyadvance-m.json,borger/scoop-emulators
-duckstation-preview_borger.json,borger/scoop-emulators
+duckstation-preview.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
@@ -9193,7 +9193,7 @@ fab.json,ViCrack/scoop-bucket
 jar-analyzer_ViCrack.json,ViCrack/scoop-bucket
 gowitness.json,ViCrack/scoop-bucket
 hide-from-uninstall-list.json,ViCrack/scoop-bucket
-newfiletime.json,ViCrack/scoop-bucket
+newfiletime_ViCrack.json,ViCrack/scoop-bucket
 igdm_ViCrack.json,ViCrack/scoop-bucket
 rakshasa.json,ViCrack/scoop-bucket
 xterminal.json,ViCrack/scoop-bucket
@@ -9993,6 +9993,7 @@ vimtutor_DoveBoy.json,DoveBoy/Apps
 bookget.json,DoveBoy/Apps
 qmc-decoder.json,DoveBoy/Apps
 github_DoveBoy.json,DoveBoy/Apps
+electerm_DoveBoy.json,DoveBoy/Apps
 typora-dev_DoveBoy.json,DoveBoy/Apps
 opentrace_DoveBoy.json,DoveBoy/Apps
 clash-rev-cgo.json,DoveBoy/Apps
@@ -11686,7 +11687,7 @@ itunes-old.json,WinApps-share/WinApps-bucket
 honeyview-np.json,WinApps-share/WinApps-bucket
 pdfgear_WinApps-share.json,WinApps-share/WinApps-bucket
 jianying.json,WinApps-share/WinApps-bucket
-edge.json,WinApps-share/WinApps-bucket
+edge_WinApps-share.json,WinApps-share/WinApps-bucket
 apifox_WinApps-share.json,WinApps-share/WinApps-bucket
 openscreen.json,WinApps-share/WinApps-bucket
 piclist.json,WinApps-share/WinApps-bucket
@@ -12626,7 +12627,7 @@ texlive_Scoopforge.json,Scoopforge/Extras-Plus
 notegen_Scoopforge.json,Scoopforge/Extras-Plus
 watt-toolkit_Scoopforge.json,Scoopforge/Extras-Plus
 musicat.json,Scoopforge/Extras-Plus
-mineru_Scoopforge.json,Scoopforge/Extras-Plus
+mineru.json,Scoopforge/Extras-Plus
 jupyterlab-desktop.json,Scoopforge/Extras-Plus
 defender-remover.json,Scoopforge/Extras-Plus
 dorion_Scoopforge.json,Scoopforge/Extras-Plus
@@ -14820,7 +14821,7 @@ multipass_HUMORCE.json,HUMORCE/nuke
 telegram_HUMORCE.json,HUMORCE/nuke
 slam.json,HUMORCE/nuke
 xenos.json,HUMORCE/nuke
-ruffle-nightly.json,HUMORCE/nuke
+ruffle-nightly_HUMORCE.json,HUMORCE/nuke
 fiddler-classic.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 hkbtest.json,HUMORCE/nuke
@@ -14868,6 +14869,7 @@ uv_maboloshi.json,maboloshi/scoop-private
 beyondcompare5-zh.json,maboloshi/scoop-private
 dingtalk.json,maboloshi/scoop-private
 ima-copilot_maboloshi.json,maboloshi/scoop-private
+doubao.json,maboloshi/scoop-private
 clickmonitorddc-cn.json,maboloshi/scoop-private
 PowerShell_maboloshi.json,maboloshi/scoop-private
 clash-for-windows-cn_maboloshi.json,maboloshi/scoop-private
@@ -16028,7 +16030,6 @@ glaxnimate.json,windedge/ladle-bucket
 hoppscotch_windedge.json,windedge/ladle-bucket
 pdfbox-debugger.json,windedge/ladle-bucket
 mkeditor.json,windedge/ladle-bucket
-jvms_windedge.json,windedge/ladle-bucket
 pdm_jcwillox.json,jcwillox/scoop-python
 mcstatus.json,jcwillox/scoop-python
 python313-np.json,jcwillox/scoop-python
