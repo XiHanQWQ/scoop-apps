@@ -2101,7 +2101,7 @@ obs-plugin-droidcam.json,ScoopInstaller/Extras
 real.json,ScoopInstaller/Extras
 wifi-manager.json,ScoopInstaller/Extras
 screen-saver-control.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 godot-version-manager.json,ScoopInstaller/Extras
 vcredist2012.json,ScoopInstaller/Extras
 clustalw.json,ScoopInstaller/Extras
@@ -7706,6 +7706,7 @@ tree.json,cderv/r-bucket
 msgvault.json,cderv/r-bucket
 rstudio-2022.12.json,cderv/r-bucket
 rsvg-convert-miyako.json,cderv/r-bucket
+braid-viewer.json,cderv/r-bucket
 roborev.json,cderv/r-bucket
 rstudio-2024.12.json,cderv/r-bucket
 mq-lsp.json,cderv/r-bucket
@@ -9030,7 +9031,7 @@ xenia_borger.json,borger/scoop-emulators
 mednafen_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
-ppsspp-dev_borger.json,borger/scoop-emulators
+ppsspp-dev.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
@@ -9535,7 +9536,7 @@ lwc_akirco.json,akirco/aki-apps
 hellofont_akirco.json,akirco/aki-apps
 far_akirco.json,akirco/aki-apps
 qqmusic.json,akirco/aki-apps
-go-cn_akirco.json,akirco/aki-apps
+go-cn.json,akirco/aki-apps
 rufus_akirco.json,akirco/aki-apps
 tokei_akirco.json,akirco/aki-apps
 gow_akirco.json,akirco/aki-apps
@@ -12379,6 +12380,7 @@ phraze.json,aliesbelik/poldi
 nap.json,aliesbelik/poldi
 mqttui.json,aliesbelik/poldi
 pdu.json,aliesbelik/poldi
+ldapx.json,aliesbelik/poldi
 slumber.json,aliesbelik/poldi
 hq.json,aliesbelik/poldi
 dcv.json,aliesbelik/poldi
@@ -14884,8 +14886,8 @@ uv_maboloshi.json,maboloshi/scoop-private
 beyondcompare5-zh.json,maboloshi/scoop-private
 startallback.json,maboloshi/scoop-private
 dingtalk.json,maboloshi/scoop-private
-ima-copilot.json,maboloshi/scoop-private
-doubao.json,maboloshi/scoop-private
+ima-copilot_maboloshi.json,maboloshi/scoop-private
+doubao_maboloshi.json,maboloshi/scoop-private
 clickmonitorddc-cn.json,maboloshi/scoop-private
 PowerShell_maboloshi.json,maboloshi/scoop-private
 clash-for-windows-cn_maboloshi.json,maboloshi/scoop-private
