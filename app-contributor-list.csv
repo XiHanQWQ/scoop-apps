@@ -2100,7 +2100,7 @@ obs-plugin-droidcam.json,ScoopInstaller/Extras
 real.json,ScoopInstaller/Extras
 wifi-manager.json,ScoopInstaller/Extras
 screen-saver-control.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 godot-version-manager.json,ScoopInstaller/Extras
 vcredist2012.json,ScoopInstaller/Extras
 clustalw.json,ScoopInstaller/Extras
@@ -8616,7 +8616,6 @@ QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
 Rusl.json,dodorz/scoop
 HashCodes.json,dodorz/scoop
-ReasonixDesktop.json,dodorz/scoop
 PdfRotate.json,dodorz/scoop
 Yosoro.json,dodorz/scoop
 SweetHome3D_dodorz.json,dodorz/scoop
@@ -10440,7 +10439,7 @@ gui-for-clash_DoveBoy.json,DoveBoy/Apps
 lsar.json,DoveBoy/Apps
 scoop-search-multisource.json,DoveBoy/Apps
 clashtui_DoveBoy.json,DoveBoy/Apps
-treesize.json,DoveBoy/Apps
+treesize_DoveBoy.json,DoveBoy/Apps
 tiny11builder.json,DoveBoy/Apps
 wechatvideosniffer.json,DoveBoy/Apps
 doxx_DoveBoy.json,DoveBoy/Apps
@@ -10842,6 +10841,7 @@ ImTip.json,hu3rror/scoop-muggle
 JumpToFolder.json,hu3rror/scoop-muggle
 mosdns_hu3rror.json,hu3rror/scoop-muggle
 uup-download-wizard-converter.json,hu3rror/scoop-muggle
+ControllerMeta.json,hu3rror/scoop-muggle
 wpd.json,hu3rror/scoop-muggle
 mpv-handler.json,hu3rror/scoop-muggle
 rimage-next.json,hu3rror/scoop-muggle
@@ -11748,6 +11748,7 @@ snipaste_WinApps-share.json,WinApps-share/WinApps-bucket
 bili.copilot.json,WinApps-share/WinApps-bucket
 quicker_WinApps-share.json,WinApps-share/WinApps-bucket
 utools_WinApps-share.json,WinApps-share/WinApps-bucket
+wetype.json,WinApps-share/WinApps-bucket
 ollama_WinApps-share.json,WinApps-share/WinApps-bucket
 bcuninstaller.json,WinApps-share/WinApps-bucket
 g-helper_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -12633,7 +12634,7 @@ texlive_Scoopforge.json,Scoopforge/Extras-Plus
 notegen_Scoopforge.json,Scoopforge/Extras-Plus
 watt-toolkit_Scoopforge.json,Scoopforge/Extras-Plus
 musicat.json,Scoopforge/Extras-Plus
-mineru.json,Scoopforge/Extras-Plus
+mineru_Scoopforge.json,Scoopforge/Extras-Plus
 jupyterlab-desktop.json,Scoopforge/Extras-Plus
 defender-remover.json,Scoopforge/Extras-Plus
 dorion_Scoopforge.json,Scoopforge/Extras-Plus
@@ -14736,7 +14737,7 @@ multipass_HUMORCE.json,HUMORCE/nuke
 telegram_HUMORCE.json,HUMORCE/nuke
 slam.json,HUMORCE/nuke
 xenos.json,HUMORCE/nuke
-ruffle-nightly.json,HUMORCE/nuke
+ruffle-nightly_HUMORCE.json,HUMORCE/nuke
 fiddler-classic.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 hkbtest.json,HUMORCE/nuke
@@ -16168,7 +16169,7 @@ pnpm_LaelLuo.json,LaelLuo/scoop
 figma_LaelLuo.json,LaelLuo/scoop
 github-stars-manager.json,LaelLuo/scoop
 pocketbase_LaelLuo.json,LaelLuo/scoop
-workbuddy_LaelLuo.json,LaelLuo/scoop
+workbuddy.json,LaelLuo/scoop
 feishu_LaelLuo.json,LaelLuo/scoop
 autoglm_LaelLuo.json,LaelLuo/scoop
 autoclaw.json,LaelLuo/scoop
