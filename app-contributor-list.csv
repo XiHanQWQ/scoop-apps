@@ -2008,6 +2008,7 @@ fvie.json,ScoopInstaller/Extras
 auto-screenshot.json,ScoopInstaller/Extras
 baka-mplayer.json,ScoopInstaller/Extras
 unetbootin.json,ScoopInstaller/Extras
+nightingale.json,ScoopInstaller/Extras
 winmemorycleaner.json,ScoopInstaller/Extras
 cpu-z.json,ScoopInstaller/Extras
 blush.json,ScoopInstaller/Extras
@@ -9380,6 +9381,7 @@ unzip_akirco.json,akirco/aki-apps
 aria2_akirco.json,akirco/aki-apps
 poppler_akirco.json,akirco/aki-apps
 win32-openssh.json,akirco/aki-apps
+bilibili-livehime.json,akirco/aki-apps
 vcredist2012_akirco.json,akirco/aki-apps
 windows-terminal-quake_akirco.json,akirco/aki-apps
 obs-studio_akirco.json,akirco/aki-apps
@@ -9997,7 +9999,6 @@ vimtutor_DoveBoy.json,DoveBoy/Apps
 bookget.json,DoveBoy/Apps
 qmc-decoder.json,DoveBoy/Apps
 github_DoveBoy.json,DoveBoy/Apps
-electerm_DoveBoy.json,DoveBoy/Apps
 typora-dev_DoveBoy.json,DoveBoy/Apps
 opentrace_DoveBoy.json,DoveBoy/Apps
 clash-rev-cgo.json,DoveBoy/Apps
@@ -10216,6 +10217,7 @@ npm-tab-completion.json,DoveBoy/Apps
 pano-scrobbler.json,DoveBoy/Apps
 biu-portable.json,DoveBoy/Apps
 gitextensions_DoveBoy.json,DoveBoy/Apps
+nyaterm-portable.json,DoveBoy/Apps
 sing-box-beta.json,DoveBoy/Apps
 bilibili-manga-downloader.json,DoveBoy/Apps
 sox_DoveBoy.json,DoveBoy/Apps
@@ -10251,6 +10253,7 @@ computerlock.json,DoveBoy/Apps
 binggpt-portable.json,DoveBoy/Apps
 musicfreedesktop.json,DoveBoy/Apps
 gnirehtet_DoveBoy.json,DoveBoy/Apps
+lightc-portable.json,DoveBoy/Apps
 pixiv-omina.json,DoveBoy/Apps
 umi-ocr-paddle_DoveBoy.json,DoveBoy/Apps
 ttyd_DoveBoy.json,DoveBoy/Apps
@@ -10374,6 +10377,7 @@ ripgrep_DoveBoy.json,DoveBoy/Apps
 optimizer_DoveBoy.json,DoveBoy/Apps
 mpv.net-beta_DoveBoy.json,DoveBoy/Apps
 pls.json,DoveBoy/Apps
+losslesscut_DoveBoy.json,DoveBoy/Apps
 winmole.json,DoveBoy/Apps
 alist_DoveBoy.json,DoveBoy/Apps
 psreadlineviextension.json,DoveBoy/Apps
@@ -10424,7 +10428,9 @@ kamusic-portable.json,DoveBoy/Apps
 webcam-on-off_DoveBoy.json,DoveBoy/Apps
 esearch_DoveBoy.json,DoveBoy/Apps
 karing-portable.json,DoveBoy/Apps
+lightc.json,DoveBoy/Apps
 ntrace-core.json,DoveBoy/Apps
+bettbox.json,DoveBoy/Apps
 termscp_DoveBoy.json,DoveBoy/Apps
 marktext_DoveBoy.json,DoveBoy/Apps
 energystar.json,DoveBoy/Apps
@@ -10433,6 +10439,7 @@ r3nzskin.json,DoveBoy/Apps
 deskreen_DoveBoy.json,DoveBoy/Apps
 lx-music-desktop-win7.json,DoveBoy/Apps
 navidrome_DoveBoy.json,DoveBoy/Apps
+nyaterm.json,DoveBoy/Apps
 pwsh-beta_DoveBoy.json,DoveBoy/Apps
 subtitle-ass-shifter.json,DoveBoy/Apps
 gui-for-clash_DoveBoy.json,DoveBoy/Apps
@@ -10561,7 +10568,6 @@ pikapika.json,DoveBoy/Apps
 bottom_DoveBoy.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
 github-hosts.json,DoveBoy/Apps
-mpv-git_DoveBoy.json,DoveBoy/Apps
 ventoy_DoveBoy.json,DoveBoy/Apps
 zephyr-portable.json,DoveBoy/Apps
 ddu.json,DoveBoy/Apps
@@ -13509,7 +13515,7 @@ you-get_aoisummer.json,aoisummer/scoop-bucket
 cinebench15.json,aoisummer/scoop-bucket
 aliwangwang_aoisummer.json,aoisummer/scoop-bucket
 cinebench23.json,aoisummer/scoop-bucket
-ente-auth.json,aoisummer/scoop-bucket
+ente-auth_aoisummer.json,aoisummer/scoop-bucket
 veracrypt-legacy-np.json,aoisummer/scoop-bucket
 crystaldiskmark-shizuku.json,aoisummer/scoop-bucket
 clash-for-windows_aoisummer.json,aoisummer/scoop-bucket
