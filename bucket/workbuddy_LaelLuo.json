@@ -1,59 +1,40 @@
 {
-    "version": "0.9.10",
-    "description": "QoderWork - Beyond chat, get it done",
-    "homepage": "https://qoder.com/qoderwork",
-    "license": {
-        "identifier": "Proprietary",
-        "url": "https://qoder.com/product-service"
-    },
+    "version": "5.2.3.32357678",
+    "description": "腾讯云代码助手推出的 AI Agent 办公工具，可自主规划并交付多模态复杂任务结果。",
+    "homepage": "https://www.codebuddy.cn/work/",
+    "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://download.qoder.com/qoder-work/releases/latest/QoderWork-Setup-User-x64.exe#/dl.7z",
-            "hash": "c9771ce9d35cdb286f39d1b8ae91a5c99393da70326a92911a6587a5e2404a4f",
-            "pre_install": [
-                "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
-                "Remove-Item \"$dir\\`$*\" -Recurse"
-            ]
+            "url": "https://download.codebuddy.cn/workbuddy/saas/win32-x64-user/WorkBuddy-win32-x64-user-5.2.3.32357678-3865830d.exe",
+            "hash": "9372cad515cec59b22f5a3cdb33d5d2e9407f6fc6481bd8ef620b431c834a741"
         }
     },
-    "shortcuts": [
+    "innosetup": true,
+    "extract_dir": "{code_GetDestDir}",
+    "bin": [
         [
-            "QoderWork.exe",
-            "QoderWork"
+            "bin\\workbuddy.cmd",
+            "workbuddy"
         ]
     ],
-    "persist": "data",
+    "shortcuts": [
+        [
+            "WorkBuddy.exe",
+            "WorkBuddy"
+        ]
+    ],
     "checkver": {
-        "script": [
-            "$downloadUrl = 'https://download.qoder.com/qoder-work/releases/latest/QoderWork-Setup-User-x64.exe'",
-            "$headers = @{ Range = 'bytes=0-3145727' }",
-            "$tmpFile = Join-Path $env:TEMP ('qoderwork_' + [guid]::NewGuid().ToString() + '.exe')",
-            "try {",
-            "    Invoke-WebRequest -Uri $downloadUrl -Headers $headers -UseBasicParsing -OutFile $tmpFile",
-            "    $version = (Get-Item $tmpFile).VersionInfo.FileVersion",
-            "    if (-not $version) { throw 'Unable to read QoderWork version from installer metadata.' }",
-            "    Write-Output ($downloadUrl + '|' + $version)",
-            "}",
-            "finally {",
-            "    if (Test-Path $tmpFile) { Remove-Item $tmpFile -Force -ErrorAction SilentlyContinue }",
-            "}"
-        ],
-        "regex": "^(?<url>.+)\\|(?<version>[\\d.]+)$"
+        "url": "https://www.codebuddy.cn/v2/update?platform=workbuddy-win32-x64-user",
+        "jsonpath": "$.url",
+        "regex": "(?<url>.*WorkBuddy-win32-x64-user-(?<version>[\\d.]+)-.*\\.exe)"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "$matchUrl#/dl.7z"
+                "url": "$matchUrl"
             }
         }
     },
-    "notes": [
-        "QoderWork 使用官方 latest 安装器直链。",
-        "实机首启已确认：~\\.qoderwork -> persist/qoderwork/home/config。",
-        "~\\.qoder 属于 qoder 侧目录，当前清单不做持久化。",
-        "checkver 通过请求安装器前 3 MiB 分片并读取文件版本号实现。",
-        "当前尚未观察到 %APPDATA%\\QoderWork 的首启写入；若后续发现额外数据目录，可再补充 portableProfile。"
-    ],
     "post_install": [
         "#region scoop-portable-profile",
         "# Portable profile helpers for Scoop manifests.",
@@ -192,7 +173,8 @@
         "}",
         "#endregion",
         "Invoke-PortableMappings -Action Install -Context @{ Dir = $dir; PersistDir = $persist_dir } -Mappings @(",
-        "    @{ Label = 'home-config'; Source = 'UserProfile/.qoderwork'; Target = \"$persist_dir/home/config\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' }",
+        "    @{ Label = 'roaming'; Source = 'AppData/WorkBuddy'; Target = \"$persist_dir/roaming\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' },",
+        "    @{ Label = 'home-config'; Source = 'UserProfile/.workbuddy'; Target = \"$persist_dir/home\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' }",
         ") -Log:$true"
     ],
     "pre_uninstall": [
@@ -333,7 +315,8 @@
         "}",
         "#endregion",
         "Invoke-PortableMappings -Action Uninstall -Context @{ Dir = $dir; PersistDir = $persist_dir } -Mappings @(",
-        "    @{ Label = 'home-config'; Source = 'UserProfile/.qoderwork'; Target = \"$persist_dir/home/config\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' }",
+        "    @{ Label = 'roaming'; Source = 'AppData/WorkBuddy'; Target = \"$persist_dir/roaming\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' },",
+        "    @{ Label = 'home-config'; Source = 'UserProfile/.workbuddy'; Target = \"$persist_dir/home\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' }",
         ") -Log:$true"
     ]
 }
