@@ -4268,7 +4268,7 @@ libreoffice-cn.json,Scoopforge/Extras-CN
 texstudio-cn.json,Scoopforge/Extras-CN
 fishing-funds.json,Scoopforge/Extras-CN
 pixpin_Scoopforge.json,Scoopforge/Extras-CN
-feishu.json,Scoopforge/Extras-CN
+feishu_Scoopforge.json,Scoopforge/Extras-CN
 adrive.json,Scoopforge/Extras-CN
 heu-kms-activator.json,Scoopforge/Extras-CN
 tencent-meeting.json,Scoopforge/Extras-CN
@@ -8610,7 +8610,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -10657,7 +10657,7 @@ clashxw.json,DoveBoy/Apps
 kobi.json,DoveBoy/Apps
 bleachbit_DoveBoy.json,DoveBoy/Apps
 fx_DoveBoy.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 gopeed_DoveBoy.json,DoveBoy/Apps
 joplin_DoveBoy.json,DoveBoy/Apps
 hashcat_DoveBoy.json,DoveBoy/Apps
@@ -13528,7 +13528,7 @@ imgdrive.json,aoisummer/scoop-bucket
 aegisub_aoisummer.json,aoisummer/scoop-bucket
 windowgrid_aoisummer.json,aoisummer/scoop-bucket
 komelia.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 autologon_aoisummer.json,aoisummer/scoop-bucket
 sakura-launcher-gui.json,aoisummer/scoop-bucket
 bbdown_aoisummer.json,aoisummer/scoop-bucket
@@ -14736,7 +14736,7 @@ multipass_HUMORCE.json,HUMORCE/nuke
 telegram_HUMORCE.json,HUMORCE/nuke
 slam.json,HUMORCE/nuke
 xenos.json,HUMORCE/nuke
-ruffle-nightly_HUMORCE.json,HUMORCE/nuke
+ruffle-nightly.json,HUMORCE/nuke
 fiddler-classic.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 hkbtest.json,HUMORCE/nuke
