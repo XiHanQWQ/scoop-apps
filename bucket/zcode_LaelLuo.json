@@ -1,79 +1,36 @@
 {
-    "version": "1.9.12",
-    "description": "A desktop client that supports for multiple LLM providers.",
-    "homepage": "https://cherry-ai.com",
-    "license": "Apache-2.0",
+    "version": "3.3.1",
+    "description": "智谱 ZCode - GLM 官方适配的 AI 编程开发工具（IDE）。",
+    "homepage": "https://zcode.z.ai/cn",
+    "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/CherryHQ/cherry-studio/releases/download/v1.9.12/Cherry-Studio-1.9.12-x64-setup.exe#/dl.7z",
-            "hash": "sha512:67460a434a7180e30254522a51d04868e36118765d31998980f96f433324988a17173092be973bcb6042c4d3e2b8abb5763d33858c215c46766aeccfd5b3a48b",
-            "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\""
-        },
-        "arm64": {
-            "url": "https://github.com/CherryHQ/cherry-studio/releases/download/v1.9.12/Cherry-Studio-1.9.12-arm64-setup.exe#/dl.7z",
-            "hash": "9a4220b280c3a2a107776198e3045dbd4fe6d0e8b53554e9c2cc9155d2986da0",
-            "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-arm64.7z\" \"$dir\""
+            "url": "https://cdn-zcode.z.ai/zcode/electron/releases/3.3.1/ZCode-3.3.1-win-x64.exe#/dl.7z",
+            "hash": "52366c3c58cdbc6596f0c153a35b81563f9781d21df867ed43ed8530f2add4d3"
         }
     },
+    "pre_install": [
+        "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
+        "Remove-Item \"$dir\\`$*\", \"$dir\\Uninstall*\" -Recurse -ErrorAction SilentlyContinue"
+    ],
     "shortcuts": [
         [
-            "Cherry Studio.exe",
-            "Cherry Studio"
+            "ZCode.exe",
+            "ZCode"
         ]
     ],
+    "checkver": {
+        "url": "https://zcode.z.ai/cn/changelog",
+        "regex": "font-mono text-sm\">([\\d.]+)</span>"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://cdn-zcode.z.ai/zcode/electron/releases/$version/ZCode-$version-win-x64.exe#/dl.7z"
+            }
+        }
+    },
     "post_install": [
-        "# Clean installer leftovers (from 7zip extraction)",
-        "Remove-Item \"$dir\\`$*\", \"$dir\\Uninstall*\" -Recurse -ErrorAction SilentlyContinue",
-        "$homeConfig = Join-Path $persist_dir 'home\\config'",
-        "$roamingDir = Join-Path $persist_dir 'roaming'",
-        "$csBin = Join-Path $homeConfig 'bin'",
-        "foreach ($path in @($homeConfig, $roamingDir, $csBin)) { if (-not (Test-Path $path)) { New-Item -ItemType Directory -Path $path -Force | Out-Null } }",
-        "# Link system bun/uv into Cherry Studio local bin if available",
-        "# bun (do not overwrite existing)",
-        "$bunCmd = Get-Command bun -ErrorAction SilentlyContinue",
-        "if ($bunCmd) {",
-        "  $bunTarget = $bunCmd.Source",
-        "  $bunExe = Join-Path $csBin 'bun.exe'",
-        "  $bunShim = Join-Path $csBin 'bun.cmd'",
-        "  if ((Test-Path $bunExe) -or (Test-Path $bunShim)) {",
-        "    info '[Cherry Studio] bun already present in ~/.cherrystudio/bin; skipping'",
-        "  } else {",
-        "    try {",
-        "      New-Item -ItemType SymbolicLink -Path $bunExe -Target $bunTarget -Force | Out-Null",
-        "      info \"[Cherry Studio] Linked bun -> $bunTarget\"",
-        "    } catch {",
-        "      warn \"[Cherry Studio] Symlink bun failed, creating shim: $_\"",
-        "      $shimContent = '@echo off' + \"`n\" + '\"' + $bunTarget + '\" %*'",
-        "      Set-Content -Path $bunShim -Value $shimContent -Encoding Ascii",
-        "    }",
-        "  }",
-        "} else {",
-        "  info '[Cherry Studio] bun not found in PATH; skipping link'",
-        "}",
-        "# uv + uvx + uvw (do not overwrite existing)",
-        "$uvNames = @('uv', 'uvx', 'uvw')",
-        "foreach ($name in $uvNames) {",
-        "  $cmdInfo = Get-Command $name -ErrorAction SilentlyContinue",
-        "  if ($cmdInfo) {",
-        "    $target = $cmdInfo.Source",
-        "    $exePath = Join-Path $csBin (\"$name.exe\")",
-        "    $cmdPath = Join-Path $csBin (\"$name.cmd\")",
-        "    if ((Test-Path $exePath) -or (Test-Path $cmdPath)) {",
-        "      info \"[Cherry Studio] $name already present in ~/.cherrystudio/bin; skipping\"",
-        "      continue",
-        "    }",
-        "    try {",
-        "      New-Item -ItemType SymbolicLink -Path $exePath -Target $target -Force | Out-Null",
-        "      info \"[Cherry Studio] Linked $name -> $target\"",
-        "    } catch {",
-        "      warn \"[Cherry Studio] Symlink $name failed, creating shim: $_\"",
-        "      $shimContent = '@echo off' + \"`n\" + '\"' + $target + '\" %*'",
-        "      Set-Content -Path $cmdPath -Value $shimContent -Encoding Ascii",
-        "    }",
-        "  } else {",
-        "    info \"[Cherry Studio] $name not found in PATH; skipping link\"",
-        "  }",
-        "}",
         "#region scoop-portable-profile",
         "# Portable profile helpers for Scoop manifests.",
         "# 说明：构建阶段会把该文件的内容内联进 post_install/pre_uninstall。",
@@ -211,30 +168,11 @@
         "}",
         "#endregion",
         "Invoke-PortableMappings -Action Install -Context @{ Dir = $dir; PersistDir = $persist_dir } -Mappings @(",
-        "    @{ Label = 'roaming'; Source = 'AppData/CherryStudio'; Target = \"$persist_dir/roaming\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' },",
-        "    @{ Label = 'home-config'; Source = 'UserProfile/.cherrystudio'; Target = \"$persist_dir/home/config\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' }",
+        "    @{ Label = 'home'; Source = 'UserProfile/.zcode'; Target = \"$persist_dir/home\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' },",
+        "    @{ Label = 'roaming'; Source = 'AppData/ZCode'; Target = \"$persist_dir/roaming\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' },",
+        "    @{ Label = 'updater'; Source = 'LocalAppData/@zcodedesktop-updater'; Target = \"$persist_dir/local/zcode-updater\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'file' }",
         ") -Log:$true"
     ],
-    "notes": [
-        "Cherry Studio 将 bun/uv 等命令映射到 ~/.cherrystudio/bin 目录中，首次运行时会自动创建软链接，可在应用内直接使用。"
-    ],
-    "checkver": {
-        "github": "https://github.com/CherryHQ/cherry-studio"
-    },
-    "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": "https://github.com/CherryHQ/cherry-studio/releases/download/v$version/Cherry-Studio-$version-x64-setup.exe#/dl.7z",
-                "hash": {
-                    "url": "$baseurl/latest.yml",
-                    "regex": "sha512: $base64"
-                }
-            },
-            "arm64": {
-                "url": "https://github.com/CherryHQ/cherry-studio/releases/download/v$version/Cherry-Studio-$version-arm64-setup.exe#/dl.7z"
-            }
-        }
-    },
     "pre_uninstall": [
         "#region scoop-portable-profile",
         "# Portable profile helpers for Scoop manifests.",
@@ -373,8 +311,9 @@
         "}",
         "#endregion",
         "Invoke-PortableMappings -Action Uninstall -Context @{ Dir = $dir; PersistDir = $persist_dir } -Mappings @(",
-        "    @{ Label = 'roaming'; Source = 'AppData/CherryStudio'; Target = \"$persist_dir/roaming\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' },",
-        "    @{ Label = 'home-config'; Source = 'UserProfile/.cherrystudio'; Target = \"$persist_dir/home/config\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' }",
+        "    @{ Label = 'home'; Source = 'UserProfile/.zcode'; Target = \"$persist_dir/home\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' },",
+        "    @{ Label = 'roaming'; Source = 'AppData/ZCode'; Target = \"$persist_dir/roaming\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' },",
+        "    @{ Label = 'updater'; Source = 'LocalAppData/@zcodedesktop-updater'; Target = \"$persist_dir/local/zcode-updater\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'file' }",
         ") -Log:$true"
     ]
 }
