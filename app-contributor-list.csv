@@ -6813,7 +6813,7 @@ samsung-magician-np.json,rasa/scoops
 policy-analyzer.json,rasa/scoops
 sysinternals_rasa.json,rasa/scoops
 kpcli.json,rasa/scoops
-brave.json,rasa/scoops
+brave_rasa.json,rasa/scoops
 git-all_rasa.json,rasa/scoops
 wfc.json,rasa/scoops
 hash-explorer.json,rasa/scoops
@@ -9030,7 +9030,7 @@ xenia_borger.json,borger/scoop-emulators
 mednafen_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
-ppsspp-dev_borger.json,borger/scoop-emulators
+ppsspp-dev.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
@@ -9040,7 +9040,7 @@ redream_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 shipwright_borger.json,borger/scoop-emulators
-xenia-canary.json,borger/scoop-emulators
+xenia-canary_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
@@ -9786,7 +9786,7 @@ charm.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
 soft-serve.json,charmbracelet/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 freeze.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
 mods_charmbracelet.json,charmbracelet/scoop-bucket
@@ -10126,7 +10126,6 @@ buzz_DoveBoy.json,DoveBoy/Apps
 powertoys-np_DoveBoy.json,DoveBoy/Apps
 scoop-tab-completion.json,DoveBoy/Apps
 clashmi-portable.json,DoveBoy/Apps
-hwinfo_DoveBoy.json,DoveBoy/Apps
 mootool-portable.json,DoveBoy/Apps
 kopia-ui-portable.json,DoveBoy/Apps
 realesrgan-gui.json,DoveBoy/Apps
@@ -10209,7 +10208,6 @@ lettura.json,DoveBoy/Apps
 imagemagick_DoveBoy.json,DoveBoy/Apps
 ps-guicompletion.json,DoveBoy/Apps
 7zip-beta_DoveBoy.json,DoveBoy/Apps
-helium_DoveBoy.json,DoveBoy/Apps
 anyportal-portable.json,DoveBoy/Apps
 retrieval-based-voice-conversion-webui.json,DoveBoy/Apps
 downkyi_DoveBoy.json,DoveBoy/Apps
@@ -10572,6 +10570,7 @@ pikapika.json,DoveBoy/Apps
 bottom_DoveBoy.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
 github-hosts.json,DoveBoy/Apps
+mpv-git_DoveBoy.json,DoveBoy/Apps
 ventoy_DoveBoy.json,DoveBoy/Apps
 zephyr-portable.json,DoveBoy/Apps
 ddu.json,DoveBoy/Apps
