@@ -10571,7 +10571,6 @@ pikapika.json,DoveBoy/Apps
 bottom_DoveBoy.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
 github-hosts.json,DoveBoy/Apps
-mpv-git_DoveBoy.json,DoveBoy/Apps
 ventoy_DoveBoy.json,DoveBoy/Apps
 zephyr-portable.json,DoveBoy/Apps
 ddu.json,DoveBoy/Apps
@@ -14904,6 +14903,7 @@ miktex_maboloshi.json,maboloshi/scoop-private
 notepadnext_maboloshi.json,maboloshi/scoop-private
 guoheview.json,maboloshi/scoop-private
 chatgpt-next-web_maboloshi.json,maboloshi/scoop-private
+hok.json,maboloshi/scoop-private
 sublime-text.json,maboloshi/scoop-private
 n-m3u8dl-cli_maboloshi.json,maboloshi/scoop-private
 FileLocatorPro.json,maboloshi/scoop-private
