@@ -1807,7 +1807,7 @@ processing.json,ScoopInstaller/Extras
 wxhexeditor.json,ScoopInstaller/Extras
 dosbox-staging.json,ScoopInstaller/Extras
 uninstall-tool.json,ScoopInstaller/Extras
-vscode.json,ScoopInstaller/Extras
+vscode_ScoopInstaller.json,ScoopInstaller/Extras
 nheko.json,ScoopInstaller/Extras
 npiperelay.json,ScoopInstaller/Extras
 dz6.json,ScoopInstaller/Extras
@@ -2101,7 +2101,7 @@ obs-plugin-droidcam.json,ScoopInstaller/Extras
 real.json,ScoopInstaller/Extras
 wifi-manager.json,ScoopInstaller/Extras
 screen-saver-control.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 godot-version-manager.json,ScoopInstaller/Extras
 vcredist2012.json,ScoopInstaller/Extras
 clustalw.json,ScoopInstaller/Extras
@@ -4590,6 +4590,7 @@ nanosaur.json,Calinou/scoop-games
 advanced-combat-tracker.json,Calinou/scoop-games
 atlauncher.json,Calinou/scoop-games
 ultraplusmanager.json,Calinou/scoop-games
+millennium-installer.json,Calinou/scoop-games
 shatteredpixeldungeon.json,Calinou/scoop-games
 rayman-control-panel.json,Calinou/scoop-games
 ark-smart-breeding.json,Calinou/scoop-games
@@ -8612,7 +8613,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -9030,7 +9031,7 @@ xenia_borger.json,borger/scoop-emulators
 mednafen_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
-ppsspp-dev.json,borger/scoop-emulators
+ppsspp-dev_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
@@ -10570,7 +10571,6 @@ pikapika.json,DoveBoy/Apps
 bottom_DoveBoy.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
 github-hosts.json,DoveBoy/Apps
-mpv-git_DoveBoy.json,DoveBoy/Apps
 ventoy_DoveBoy.json,DoveBoy/Apps
 zephyr-portable.json,DoveBoy/Apps
 ddu.json,DoveBoy/Apps
@@ -10632,7 +10632,7 @@ ugrep_DoveBoy.json,DoveBoy/Apps
 pilinara-portable.json,DoveBoy/Apps
 kazumi.json,DoveBoy/Apps
 readest_DoveBoy.json,DoveBoy/Apps
-dandanplay.json,DoveBoy/Apps
+dandanplay_DoveBoy.json,DoveBoy/Apps
 easyserviceoptimizer_DoveBoy.json,DoveBoy/Apps
 douyu.json,DoveBoy/Apps
 winrar-keygen-gui.json,DoveBoy/Apps
@@ -14840,7 +14840,7 @@ multipass_HUMORCE.json,HUMORCE/nuke
 telegram_HUMORCE.json,HUMORCE/nuke
 slam.json,HUMORCE/nuke
 xenos.json,HUMORCE/nuke
-ruffle-nightly_HUMORCE.json,HUMORCE/nuke
+ruffle-nightly.json,HUMORCE/nuke
 fiddler-classic.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 hkbtest.json,HUMORCE/nuke
@@ -15852,6 +15852,7 @@ qoder.json,LaelLuo/scoop
 google-antigravity_LaelLuo.json,LaelLuo/scoop
 anytype_LaelLuo.json,LaelLuo/scoop
 qoderwork.json,LaelLuo/scoop
+droid_LaelLuo.json,LaelLuo/scoop
 crossdesk_LaelLuo.json,LaelLuo/scoop
 utools_LaelLuo.json,LaelLuo/scoop
 aionui_LaelLuo.json,LaelLuo/scoop
