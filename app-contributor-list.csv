@@ -1417,6 +1417,7 @@ task-coach.json,ScoopInstaller/Extras
 mesonlsp.json,ScoopInstaller/Extras
 winutil.json,ScoopInstaller/Extras
 beebeep.json,ScoopInstaller/Extras
+brows3.json,ScoopInstaller/Extras
 lark.json,ScoopInstaller/Extras
 librespeed-cli.json,ScoopInstaller/Extras
 diffinity.json,ScoopInstaller/Extras
@@ -2161,6 +2162,7 @@ seafile-syncing-client.json,ScoopInstaller/Extras
 mqtt-explorer.json,ScoopInstaller/Extras
 zsharp.json,ScoopInstaller/Extras
 bandcamp-downloader.json,ScoopInstaller/Extras
+dgdemux.json,ScoopInstaller/Extras
 ipfs-desktop.json,ScoopInstaller/Extras
 openmpt.json,ScoopInstaller/Extras
 integerscaler.json,ScoopInstaller/Extras
@@ -8613,7 +8615,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -9007,7 +9009,7 @@ shadps4-dev_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 goldeneye-recomp.json,borger/scoop-emulators
 eden_borger.json,borger/scoop-emulators
-eden-nightly_borger.json,borger/scoop-emulators
+eden-nightly.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 dolphin-dev.json,borger/scoop-emulators
 bsnes-mt_borger.json,borger/scoop-emulators
@@ -9051,7 +9053,7 @@ bsnes-nightly.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 spaghettikart.json,borger/scoop-emulators
-gopher64.json,borger/scoop-emulators
+gopher64_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 mame.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
@@ -9090,7 +9092,7 @@ apifox_ViCrack.json,ViCrack/scoop-bucket
 MonitorOff.json,ViCrack/scoop-bucket
 mitan_ViCrack.json,ViCrack/scoop-bucket
 wechatdatabackup.json,ViCrack/scoop-bucket
-httpx.json,ViCrack/scoop-bucket
+httpx_ViCrack.json,ViCrack/scoop-bucket
 ddns-go_ViCrack.json,ViCrack/scoop-bucket
 RegConverter.json,ViCrack/scoop-bucket
 contextmenumanager_ViCrack.json,ViCrack/scoop-bucket
@@ -9427,7 +9429,7 @@ officetoolplus.json,akirco/aki-apps
 oh-my-posh_akirco.json,akirco/aki-apps
 netcat_akirco.json,akirco/aki-apps
 cyberduck_akirco.json,akirco/aki-apps
-miniconda3.json,akirco/aki-apps
+miniconda3_akirco.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
 lf_akirco.json,akirco/aki-apps
 wsc.json,akirco/aki-apps
@@ -9450,7 +9452,7 @@ vcredist2019.json,akirco/aki-apps
 telegram_akirco.json,akirco/aki-apps
 feishu_akirco.json,akirco/aki-apps
 geekuninstaller_akirco.json,akirco/aki-apps
-Qoder.json,akirco/aki-apps
+Qoder_akirco.json,akirco/aki-apps
 netch_akirco.json,akirco/aki-apps
 z_akirco.json,akirco/aki-apps
 time_akirco.json,akirco/aki-apps
@@ -10114,6 +10116,7 @@ nu_DoveBoy.json,DoveBoy/Apps
 deoldify-net.json,DoveBoy/Apps
 cmder-full_DoveBoy.json,DoveBoy/Apps
 easy-context-menu_DoveBoy.json,DoveBoy/Apps
+chromium_DoveBoy.json,DoveBoy/Apps
 explorerpatcher.json,DoveBoy/Apps
 revokemsgpatcher_DoveBoy.json,DoveBoy/Apps
 nvm-completion.json,DoveBoy/Apps
@@ -13729,7 +13732,7 @@ vspreview-rs.json,natecohen/scoop-av
 aegisub_natecohen.json,natecohen/scoop-av
 dovi_tool.json,natecohen/scoop-av
 avs2yuv.json,natecohen/scoop-av
-dgdemux.json,natecohen/scoop-av
+dgdemux_natecohen.json,natecohen/scoop-av
 eac3to-updated-libs.json,natecohen/scoop-av
 pgcdemux.json,natecohen/scoop-av
 mis2x264.json,natecohen/scoop-av
@@ -15804,7 +15807,7 @@ mcp-router.json,LaelLuo/scoop
 codex-flow.json,LaelLuo/scoop
 virtual-browser.json,LaelLuo/scoop
 trae_LaelLuo.json,LaelLuo/scoop
-qoder_LaelLuo.json,LaelLuo/scoop
+qoder.json,LaelLuo/scoop
 google-antigravity.json,LaelLuo/scoop
 anytype_LaelLuo.json,LaelLuo/scoop
 droid_LaelLuo.json,LaelLuo/scoop
@@ -15853,18 +15856,17 @@ qoder_LaelLuo.json,LaelLuo/scoop
 google-antigravity_LaelLuo.json,LaelLuo/scoop
 anytype_LaelLuo.json,LaelLuo/scoop
 qoderwork.json,LaelLuo/scoop
-droid_LaelLuo.json,LaelLuo/scoop
 crossdesk_LaelLuo.json,LaelLuo/scoop
 utools_LaelLuo.json,LaelLuo/scoop
 aionui_LaelLuo.json,LaelLuo/scoop
 pnpm_LaelLuo.json,LaelLuo/scoop
 figma_LaelLuo.json,LaelLuo/scoop
-github-stars-manager.json,LaelLuo/scoop
+github-stars-manager_LaelLuo.json,LaelLuo/scoop
 pocketbase_LaelLuo.json,LaelLuo/scoop
 workbuddy_LaelLuo.json,LaelLuo/scoop
 feishu_LaelLuo.json,LaelLuo/scoop
 autoglm_LaelLuo.json,LaelLuo/scoop
-autoclaw.json,LaelLuo/scoop
+autoclaw_LaelLuo.json,LaelLuo/scoop
 zedis_LaelLuo.json,LaelLuo/scoop
 lm-studio_LaelLuo.json,LaelLuo/scoop
 douyin-ide_LaelLuo.json,LaelLuo/scoop
