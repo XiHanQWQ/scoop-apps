@@ -9033,7 +9033,7 @@ mesen-s_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
@@ -10086,7 +10086,7 @@ magpie_DoveBoy.json,DoveBoy/Apps
 nano_DoveBoy.json,DoveBoy/Apps
 pikatorrent.json,DoveBoy/Apps
 fancontrol-net10.0-portable.json,DoveBoy/Apps
-v2rayn.json,DoveBoy/Apps
+v2rayn_DoveBoy.json,DoveBoy/Apps
 b0pass.json,DoveBoy/Apps
 tcping_DoveBoy.json,DoveBoy/Apps
 escrcpy-portable.json,DoveBoy/Apps
@@ -10542,7 +10542,7 @@ xhs-downloader_DoveBoy.json,DoveBoy/Apps
 winhance.json,DoveBoy/Apps
 shadowsocks_DoveBoy.json,DoveBoy/Apps
 everything-lite_DoveBoy.json,DoveBoy/Apps
-karing_DoveBoy.json,DoveBoy/Apps
+karing.json,DoveBoy/Apps
 speedtest-cli_DoveBoy.json,DoveBoy/Apps
 joplin-pre_DoveBoy.json,DoveBoy/Apps
 waveterm_DoveBoy.json,DoveBoy/Apps
