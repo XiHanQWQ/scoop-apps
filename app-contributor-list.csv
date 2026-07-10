@@ -6509,6 +6509,7 @@ pdf24-creator-np.json,ScoopInstaller/Nonportable
 bluestacks4-np.json,ScoopInstaller/Nonportable
 fman-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 auto-dark-mode-np.json,ScoopInstaller/Nonportable
+veyon-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 8gadgetpack-np.json,ScoopInstaller/Nonportable
 translucenttb-np.json,ScoopInstaller/Nonportable
 ti-connect-ce-software-np_ScoopInstaller.json,ScoopInstaller/Nonportable
@@ -9009,7 +9010,7 @@ shadps4-dev_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 goldeneye-recomp.json,borger/scoop-emulators
 eden_borger.json,borger/scoop-emulators
-eden-nightly_borger.json,borger/scoop-emulators
+eden-nightly.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 dolphin-dev.json,borger/scoop-emulators
 bsnes-mt_borger.json,borger/scoop-emulators
@@ -9017,7 +9018,7 @@ mgba_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 azahar_borger.json,borger/scoop-emulators
 visualboyadvance-m.json,borger/scoop-emulators
-duckstation-preview.json,borger/scoop-emulators
+duckstation-preview_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
@@ -9033,7 +9034,7 @@ xenia_borger.json,borger/scoop-emulators
 mednafen_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
-ppsspp-dev_borger.json,borger/scoop-emulators
+ppsspp-dev.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 pcsx2-dev.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
@@ -10212,7 +10213,6 @@ lettura.json,DoveBoy/Apps
 imagemagick_DoveBoy.json,DoveBoy/Apps
 ps-guicompletion.json,DoveBoy/Apps
 7zip-beta_DoveBoy.json,DoveBoy/Apps
-helium_DoveBoy.json,DoveBoy/Apps
 anyportal-portable.json,DoveBoy/Apps
 retrieval-based-voice-conversion-webui.json,DoveBoy/Apps
 downkyi_DoveBoy.json,DoveBoy/Apps
@@ -10575,6 +10575,7 @@ pikapika.json,DoveBoy/Apps
 bottom_DoveBoy.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
 github-hosts.json,DoveBoy/Apps
+mpv-git_DoveBoy.json,DoveBoy/Apps
 ventoy_DoveBoy.json,DoveBoy/Apps
 zephyr-portable.json,DoveBoy/Apps
 ddu.json,DoveBoy/Apps
@@ -10799,6 +10800,7 @@ python-doc-zh-cn.json,wzv5/ScoopBucket
 kazumi_wzv5.json,wzv5/ScoopBucket
 winobjex64.json,wzv5/ScoopBucket
 logseq-legacy.json,hu3rror/scoop-muggle
+winsw-mihomo-service.json,hu3rror/scoop-muggle
 tuya_hu3rror.json,hu3rror/scoop-muggle
 telegram-beta.json,hu3rror/scoop-muggle
 ungoogled-chromium-portable.json,hu3rror/scoop-muggle
@@ -10837,7 +10839,6 @@ iso-creator-tool.json,hu3rror/scoop-muggle
 newrain-duplicate-photo-finder.json,hu3rror/scoop-muggle
 RyuSAK_hu3rror.json,hu3rror/scoop-muggle
 8bitdo-ultimate-software-v2.json,hu3rror/scoop-muggle
-winsw-mihomo-service.json,hu3rror/scoop-muggle
 limitpng.json,hu3rror/scoop-muggle
 umi-ocr-rapid_hu3rror.json,hu3rror/scoop-muggle
 PicaComic.json,hu3rror/scoop-muggle
@@ -10943,7 +10944,8 @@ rimage_hu3rror.json,hu3rror/scoop-muggle
 mosdns-cn_hu3rror.json,hu3rror/scoop-muggle
 clash-nyanpasu-nightly.json,hu3rror/scoop-muggle
 animeko_hu3rror.json,hu3rror/scoop-muggle
-goldendict-ng_hu3rror.json,hu3rror/scoop-muggle
+goldendict-ng.json,hu3rror/scoop-muggle
+mihomo-shawl-service.json,hu3rror/scoop-muggle
 space-cli.json,hu3rror/scoop-muggle
 ilyrics.json,hu3rror/scoop-muggle
 game-cheats-manager_hu3rror.json,hu3rror/scoop-muggle
@@ -13143,7 +13145,7 @@ baidunetdisk_TianXiaTech.json,TianXiaTech/scoop-txt
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
 neohtop_TianXiaTech.json,TianXiaTech/scoop-txt
 kugou.json,TianXiaTech/scoop-txt
-paseo_TianXiaTech.json,TianXiaTech/scoop-txt
+paseo.json,TianXiaTech/scoop-txt
 aliyundrive_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 codexPlusPlus.json,TianXiaTech/scoop-txt
@@ -16823,7 +16825,7 @@ dtmf-decoder.json,bright-angel/scoop-bucket
 ENScan_GO.json,bright-angel/scoop-bucket
 chrome-BucketTool.json,bright-angel/scoop-bucket
 fab_bright-angel.json,bright-angel/scoop-bucket
-fscan.json,bright-angel/scoop-bucket
+fscan_bright-angel.json,bright-angel/scoop-bucket
 Tp_Attack_GUI.json,bright-angel/scoop-bucket
 SharpXDecrypt.json,bright-angel/scoop-bucket
 PuzzleSolver_for_JamesHoi.json,bright-angel/scoop-bucket
