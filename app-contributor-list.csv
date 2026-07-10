@@ -1975,6 +1975,7 @@ godot.json,ScoopInstaller/Extras
 sc1.json,ScoopInstaller/Extras
 materialgram.json,ScoopInstaller/Extras
 mdloader.json,ScoopInstaller/Extras
+openwhispr.json,ScoopInstaller/Extras
 slic3r.json,ScoopInstaller/Extras
 eclipse-jee.json,ScoopInstaller/Extras
 pipp.json,ScoopInstaller/Extras
@@ -9033,7 +9034,7 @@ xenia_borger.json,borger/scoop-emulators
 mednafen_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
-ppsspp-dev_borger.json,borger/scoop-emulators
+ppsspp-dev.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
@@ -12107,6 +12108,7 @@ powercolorls.json,brian6932/dank-scoop
 special-k-np.json,brian6932/dank-scoop
 jointbilateral.json,brian6932/dank-scoop
 catbox.json,brian6932/dank-scoop
+zipdetails-pl.json,brian6932/dank-scoop
 streamlink-nightly-lean.json,brian6932/dank-scoop
 technorino.json,brian6932/dank-scoop
 bgutil-ytdlp-pot-provider.json,brian6932/dank-scoop
@@ -12389,6 +12391,7 @@ pdu.json,aliesbelik/poldi
 ldapx.json,aliesbelik/poldi
 slumber.json,aliesbelik/poldi
 hq.json,aliesbelik/poldi
+climp.json,aliesbelik/poldi
 dcv.json,aliesbelik/poldi
 leaf_aliesbelik.json,aliesbelik/poldi
 oq.json,aliesbelik/poldi
@@ -14426,6 +14429,7 @@ iobit-unlocker-aoks.json,AntonOks/scoop-aoks
 task-aoks.json,AntonOks/scoop-aoks
 taskctl-aoks.json,AntonOks/scoop-aoks
 xpipe-aoks.json,AntonOks/scoop-aoks
+linux-writer-aoks.json,AntonOks/scoop-aoks
 VictoriaMetrics-cluster-aoks.json,AntonOks/scoop-aoks
 wcurl-aoks.json,AntonOks/scoop-aoks
 agebox-aoks.json,AntonOks/scoop-aoks
@@ -15890,7 +15894,7 @@ pocketbase_LaelLuo.json,LaelLuo/scoop
 workbuddy_LaelLuo.json,LaelLuo/scoop
 feishu_LaelLuo.json,LaelLuo/scoop
 autoglm_LaelLuo.json,LaelLuo/scoop
-autoclaw_LaelLuo.json,LaelLuo/scoop
+autoclaw.json,LaelLuo/scoop
 codex-rust.json,LaelLuo/scoop
 zedis_LaelLuo.json,LaelLuo/scoop
 lm-studio_LaelLuo.json,LaelLuo/scoop
