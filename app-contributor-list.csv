@@ -2102,7 +2102,7 @@ obs-plugin-droidcam.json,ScoopInstaller/Extras
 real.json,ScoopInstaller/Extras
 wifi-manager.json,ScoopInstaller/Extras
 screen-saver-control.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 godot-version-manager.json,ScoopInstaller/Extras
 vcredist2012.json,ScoopInstaller/Extras
 clustalw.json,ScoopInstaller/Extras
@@ -8615,7 +8615,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -9009,7 +9009,7 @@ shadps4-dev_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 goldeneye-recomp.json,borger/scoop-emulators
 eden_borger.json,borger/scoop-emulators
-eden-nightly.json,borger/scoop-emulators
+eden-nightly_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 dolphin-dev.json,borger/scoop-emulators
 bsnes-mt_borger.json,borger/scoop-emulators
@@ -9215,6 +9215,7 @@ pyxis.json,ViCrack/scoop-bucket
 filezilla_ViCrack.json,ViCrack/scoop-bucket
 trilium-cn.json,ViCrack/scoop-bucket
 equationtoolsgui_ViCrack.json,ViCrack/scoop-bucket
+codex-app-manager.json,ViCrack/scoop-bucket
 cemuhook-webgyro.json,kiennq/scoop-misc
 joyshockmapper.json,kiennq/scoop-misc
 ryusak.json,kiennq/scoop-misc
@@ -9789,7 +9790,7 @@ charm.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
 soft-serve.json,charmbracelet/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 freeze.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
 mods_charmbracelet.json,charmbracelet/scoop-bucket
@@ -10116,7 +10117,6 @@ nu_DoveBoy.json,DoveBoy/Apps
 deoldify-net.json,DoveBoy/Apps
 cmder-full_DoveBoy.json,DoveBoy/Apps
 easy-context-menu_DoveBoy.json,DoveBoy/Apps
-chromium_DoveBoy.json,DoveBoy/Apps
 explorerpatcher.json,DoveBoy/Apps
 revokemsgpatcher_DoveBoy.json,DoveBoy/Apps
 nvm-completion.json,DoveBoy/Apps
@@ -10885,6 +10885,7 @@ tianruoocr-cl.json,hu3rror/scoop-muggle
 nanarun_hu3rror.json,hu3rror/scoop-muggle
 simpread-synchelper.json,hu3rror/scoop-muggle
 cdnlookup.json,hu3rror/scoop-muggle
+mihomo-v3.json,hu3rror/scoop-muggle
 sizer_hu3rror.json,hu3rror/scoop-muggle
 ImTip.json,hu3rror/scoop-muggle
 JumpToFolder.json,hu3rror/scoop-muggle
@@ -11461,7 +11462,7 @@ librime.json,amorphobia/siku
 double-finder.json,amorphobia/siku
 revokemsgpatcher_amorphobia.json,amorphobia/siku
 posh-cd.json,amorphobia/siku
-mihomo-v3.json,amorphobia/siku
+mihomo-v3_amorphobia.json,amorphobia/siku
 aget-rs.json,amorphobia/siku
 huorong-popblock.json,amorphobia/siku
 tcc_amorphobia.json,amorphobia/siku
@@ -15852,7 +15853,7 @@ mcp-router_LaelLuo.json,LaelLuo/scoop
 codex-flow_LaelLuo.json,LaelLuo/scoop
 virtual-browser_LaelLuo.json,LaelLuo/scoop
 trae_LaelLuo.json,LaelLuo/scoop
-qoder_LaelLuo.json,LaelLuo/scoop
+qoder.json,LaelLuo/scoop
 google-antigravity_LaelLuo.json,LaelLuo/scoop
 anytype_LaelLuo.json,LaelLuo/scoop
 qoderwork.json,LaelLuo/scoop
