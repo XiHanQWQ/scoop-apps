@@ -8615,7 +8615,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -9017,7 +9017,7 @@ mgba_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 azahar_borger.json,borger/scoop-emulators
 visualboyadvance-m.json,borger/scoop-emulators
-duckstation-preview_borger.json,borger/scoop-emulators
+duckstation-preview.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
@@ -9035,13 +9035,13 @@ mesen-s_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
-steam-rom-manager.json,borger/scoop-emulators
+steam-rom-manager_borger.json,borger/scoop-emulators
 shipwright_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
@@ -10212,6 +10212,7 @@ lettura.json,DoveBoy/Apps
 imagemagick_DoveBoy.json,DoveBoy/Apps
 ps-guicompletion.json,DoveBoy/Apps
 7zip-beta_DoveBoy.json,DoveBoy/Apps
+helium_DoveBoy.json,DoveBoy/Apps
 anyportal-portable.json,DoveBoy/Apps
 retrieval-based-voice-conversion-webui.json,DoveBoy/Apps
 downkyi_DoveBoy.json,DoveBoy/Apps
@@ -12250,7 +12251,7 @@ DDMonitor.json,ygguorun/scoop-bucket
 CJK-character-count_ygguorun.json,ygguorun/scoop-bucket
 otfcc_ygguorun.json,ygguorun/scoop-bucket
 jy-srt-tools.json,ygguorun/scoop-bucket
-BaiduNetdisk_ygguorun.json,ygguorun/scoop-bucket
+BaiduNetdisk.json,ygguorun/scoop-bucket
 bililive-go_ygguorun.json,ygguorun/scoop-bucket
 gluttonyFLIF.json,ygguorun/scoop-bucket
 paseo.json,ygguorun/scoop-bucket
@@ -16822,7 +16823,7 @@ dtmf-decoder.json,bright-angel/scoop-bucket
 ENScan_GO.json,bright-angel/scoop-bucket
 chrome-BucketTool.json,bright-angel/scoop-bucket
 fab_bright-angel.json,bright-angel/scoop-bucket
-fscan_bright-angel.json,bright-angel/scoop-bucket
+fscan.json,bright-angel/scoop-bucket
 Tp_Attack_GUI.json,bright-angel/scoop-bucket
 SharpXDecrypt.json,bright-angel/scoop-bucket
 PuzzleSolver_for_JamesHoi.json,bright-angel/scoop-bucket
