@@ -2102,7 +2102,7 @@ obs-plugin-droidcam.json,ScoopInstaller/Extras
 real.json,ScoopInstaller/Extras
 wifi-manager.json,ScoopInstaller/Extras
 screen-saver-control.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 godot-version-manager.json,ScoopInstaller/Extras
 vcredist2012.json,ScoopInstaller/Extras
 clustalw.json,ScoopInstaller/Extras
@@ -9035,13 +9035,13 @@ mesen-s_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
-steam-rom-manager_borger.json,borger/scoop-emulators
+steam-rom-manager.json,borger/scoop-emulators
 shipwright_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
@@ -9790,7 +9790,7 @@ charm.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
 soft-serve.json,charmbracelet/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 freeze.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
 mods_charmbracelet.json,charmbracelet/scoop-bucket
@@ -10885,7 +10885,6 @@ tianruoocr-cl.json,hu3rror/scoop-muggle
 nanarun_hu3rror.json,hu3rror/scoop-muggle
 simpread-synchelper.json,hu3rror/scoop-muggle
 cdnlookup.json,hu3rror/scoop-muggle
-mihomo-v3.json,hu3rror/scoop-muggle
 sizer_hu3rror.json,hu3rror/scoop-muggle
 ImTip.json,hu3rror/scoop-muggle
 JumpToFolder.json,hu3rror/scoop-muggle
@@ -11462,7 +11461,7 @@ librime.json,amorphobia/siku
 double-finder.json,amorphobia/siku
 revokemsgpatcher_amorphobia.json,amorphobia/siku
 posh-cd.json,amorphobia/siku
-mihomo-v3_amorphobia.json,amorphobia/siku
+mihomo-v3.json,amorphobia/siku
 aget-rs.json,amorphobia/siku
 huorong-popblock.json,amorphobia/siku
 tcc_amorphobia.json,amorphobia/siku
@@ -11706,7 +11705,7 @@ itunes-old.json,WinApps-share/WinApps-bucket
 honeyview-np.json,WinApps-share/WinApps-bucket
 pdfgear_WinApps-share.json,WinApps-share/WinApps-bucket
 jianying.json,WinApps-share/WinApps-bucket
-edge_WinApps-share.json,WinApps-share/WinApps-bucket
+edge.json,WinApps-share/WinApps-bucket
 apifox_WinApps-share.json,WinApps-share/WinApps-bucket
 openscreen.json,WinApps-share/WinApps-bucket
 piclist.json,WinApps-share/WinApps-bucket
@@ -15857,6 +15856,7 @@ qoder.json,LaelLuo/scoop
 google-antigravity_LaelLuo.json,LaelLuo/scoop
 anytype_LaelLuo.json,LaelLuo/scoop
 qoderwork.json,LaelLuo/scoop
+droid_LaelLuo.json,LaelLuo/scoop
 crossdesk_LaelLuo.json,LaelLuo/scoop
 utools_LaelLuo.json,LaelLuo/scoop
 aionui_LaelLuo.json,LaelLuo/scoop
@@ -15868,6 +15868,7 @@ workbuddy_LaelLuo.json,LaelLuo/scoop
 feishu_LaelLuo.json,LaelLuo/scoop
 autoglm_LaelLuo.json,LaelLuo/scoop
 autoclaw_LaelLuo.json,LaelLuo/scoop
+codex-rust.json,LaelLuo/scoop
 zedis_LaelLuo.json,LaelLuo/scoop
 lm-studio_LaelLuo.json,LaelLuo/scoop
 douyin-ide_LaelLuo.json,LaelLuo/scoop
