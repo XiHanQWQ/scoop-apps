@@ -4243,7 +4243,7 @@ subrenamer.json,Scoopforge/Extras-CN
 quarkclouddrive.json,Scoopforge/Extras-CN
 vlc-cn.json,Scoopforge/Extras-CN
 douyin.json,Scoopforge/Extras-CN
-baidunetdisk.json,Scoopforge/Extras-CN
+baidunetdisk_Scoopforge.json,Scoopforge/Extras-CN
 m3u8-downloader.json,Scoopforge/Extras-CN
 tts-vue-next.json,Scoopforge/Extras-CN
 retain-pdf.json,Scoopforge/Extras-CN
@@ -9018,7 +9018,7 @@ mgba_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 azahar_borger.json,borger/scoop-emulators
 visualboyadvance-m.json,borger/scoop-emulators
-duckstation-preview_borger.json,borger/scoop-emulators
+duckstation-preview.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
@@ -11949,6 +11949,7 @@ EquationToolsGUI_kengwang.json,kengwang/scoop-ctftools-bucket
 cyberchef_kengwang.json,kengwang/scoop-ctftools-bucket
 singbox-ui.json,noql-net/scoop
 amnezia.json,noql-net/scoop
+proxifyre.json,noql-net/scoop
 clash-verge-rev_noql-net.json,noql-net/scoop
 xray-knife.json,noql-net/scoop
 hysteria_noql-net.json,noql-net/scoop
@@ -12992,7 +12993,7 @@ prom-lite.json,seumsc/scoop-seu
 firetools.json,seumsc/scoop-seu
 qcad.json,seumsc/scoop-seu
 lltskb.json,seumsc/scoop-seu
-proxifyre.json,seumsc/scoop-seu
+proxifyre_seumsc.json,seumsc/scoop-seu
 gamutvision.json,seumsc/scoop-seu
 optiscaler-client.json,seumsc/scoop-seu
 npcap_seumsc.json,seumsc/scoop-seu
@@ -14757,7 +14758,7 @@ multipass_HUMORCE.json,HUMORCE/nuke
 telegram_HUMORCE.json,HUMORCE/nuke
 slam.json,HUMORCE/nuke
 xenos.json,HUMORCE/nuke
-ruffle-nightly.json,HUMORCE/nuke
+ruffle-nightly_HUMORCE.json,HUMORCE/nuke
 fiddler-classic.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 hkbtest.json,HUMORCE/nuke
