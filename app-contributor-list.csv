@@ -1464,7 +1464,7 @@ php-xdebug.json,ScoopInstaller/Extras
 cascadeur.json,ScoopInstaller/Extras
 github.json,ScoopInstaller/Extras
 upsource.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 keepass-plugin-keetheme.json,ScoopInstaller/Extras
 xl-converter.json,ScoopInstaller/Extras
 palemoon.json,ScoopInstaller/Extras
@@ -3602,6 +3602,7 @@ winlibs-mingw-ucrt.json,chawyehsu/dorado
 anchor-cli.json,chawyehsu/dorado
 orwell-dev-cpp-no-compiler.json,chawyehsu/dorado
 zap.json,chawyehsu/dorado
+electerm_chawyehsu.json,chawyehsu/dorado
 wasm-pack.json,chawyehsu/dorado
 opentrace_chawyehsu.json,chawyehsu/dorado
 nbtexplorer.json,chawyehsu/dorado
@@ -9018,7 +9019,7 @@ mgba_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 azahar_borger.json,borger/scoop-emulators
 visualboyadvance-m.json,borger/scoop-emulators
-duckstation-preview.json,borger/scoop-emulators
+duckstation-preview_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
@@ -9042,7 +9043,7 @@ duckstation_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
-steam-rom-manager_borger.json,borger/scoop-emulators
+steam-rom-manager.json,borger/scoop-emulators
 shipwright_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
