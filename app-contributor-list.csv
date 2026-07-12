@@ -1464,7 +1464,7 @@ php-xdebug.json,ScoopInstaller/Extras
 cascadeur.json,ScoopInstaller/Extras
 github.json,ScoopInstaller/Extras
 upsource.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 keepass-plugin-keetheme.json,ScoopInstaller/Extras
 xl-converter.json,ScoopInstaller/Extras
 palemoon.json,ScoopInstaller/Extras
@@ -9036,7 +9036,7 @@ mesen-s_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
@@ -9089,7 +9089,7 @@ curl-impersonate.json,ViCrack/scoop-bucket
 xxl-job-attack.json,ViCrack/scoop-bucket
 wub.json,ViCrack/scoop-bucket
 rebuild-shell-icon-cache.json,ViCrack/scoop-bucket
-apifox_ViCrack.json,ViCrack/scoop-bucket
+apifox.json,ViCrack/scoop-bucket
 MonitorOff.json,ViCrack/scoop-bucket
 mitan_ViCrack.json,ViCrack/scoop-bucket
 wechatdatabackup.json,ViCrack/scoop-bucket
@@ -9543,7 +9543,6 @@ go-cn_akirco.json,akirco/aki-apps
 rufus_akirco.json,akirco/aki-apps
 tokei_akirco.json,akirco/aki-apps
 gow_akirco.json,akirco/aki-apps
-bin_akirco.json,akirco/aki-apps
 vim_akirco.json,akirco/aki-apps
 googlechrome_akirco.json,akirco/aki-apps
 bun_akirco.json,akirco/aki-apps
@@ -12504,7 +12503,6 @@ flamelens_aliesbelik.json,aliesbelik/poldi
 ov_aliesbelik.json,aliesbelik/poldi
 restfox_aliesbelik.json,aliesbelik/poldi
 sqlc_aliesbelik.json,aliesbelik/poldi
-ttdl_aliesbelik.json,aliesbelik/poldi
 curlie_aliesbelik.json,aliesbelik/poldi
 eget_aliesbelik.json,aliesbelik/poldi
 lazyssh_aliesbelik.json,aliesbelik/poldi
@@ -14587,7 +14585,7 @@ multipass_HUMORCE.json,HUMORCE/nuke
 telegram_HUMORCE.json,HUMORCE/nuke
 slam.json,HUMORCE/nuke
 xenos.json,HUMORCE/nuke
-ruffle-nightly.json,HUMORCE/nuke
+ruffle-nightly_HUMORCE.json,HUMORCE/nuke
 fiddler-classic.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 hkbtest.json,HUMORCE/nuke
