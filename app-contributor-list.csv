@@ -2175,6 +2175,7 @@ rabbitmq.json,ScoopInstaller/Extras
 webtorrent.json,ScoopInstaller/Extras
 sdl2-image.json,ScoopInstaller/Extras
 coretemp.json,ScoopInstaller/Extras
+catime.json,ScoopInstaller/Extras
 pdfsam-visual.json,ScoopInstaller/Extras
 antigravity.json,ScoopInstaller/Extras
 saturn.json,ScoopInstaller/Extras
@@ -8616,7 +8617,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -9000,7 +9001,7 @@ smoothie.json,couleur-tweak-tips/utils
 mouse-tester-fork.json,couleur-tweak-tips/utils
 usbtreeview_couleur-tweak-tips.json,couleur-tweak-tips/utils
 MediaDownloader.json,couleur-tweak-tips/utils
-snes9x-dev.json,borger/scoop-emulators
+snes9x-dev_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 2ship2harkinian.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
@@ -9431,7 +9432,7 @@ officetoolplus.json,akirco/aki-apps
 oh-my-posh_akirco.json,akirco/aki-apps
 netcat_akirco.json,akirco/aki-apps
 cyberduck_akirco.json,akirco/aki-apps
-miniconda3_akirco.json,akirco/aki-apps
+miniconda3.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
 lf_akirco.json,akirco/aki-apps
 wsc.json,akirco/aki-apps
@@ -10576,6 +10577,7 @@ pikapika.json,DoveBoy/Apps
 bottom_DoveBoy.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
 github-hosts.json,DoveBoy/Apps
+mpv-git_DoveBoy.json,DoveBoy/Apps
 ventoy_DoveBoy.json,DoveBoy/Apps
 zephyr-portable.json,DoveBoy/Apps
 ddu.json,DoveBoy/Apps
@@ -12205,7 +12207,7 @@ NatTypeTester_ygguorun.json,ygguorun/scoop-bucket
 git-repo-clean_ygguorun.json,ygguorun/scoop-bucket
 inxunoffice.json,ygguorun/scoop-bucket
 Reso.json,ygguorun/scoop-bucket
-Catime.json,ygguorun/scoop-bucket
+Catime_ygguorun.json,ygguorun/scoop-bucket
 RustDesk_ygguorun.json,ygguorun/scoop-bucket
 MajsoulPaipuAnalyzer.json,ygguorun/scoop-bucket
 ShadowsocksR.json,ygguorun/scoop-bucket
@@ -13108,7 +13110,7 @@ baidunetdisk_TianXiaTech.json,TianXiaTech/scoop-txt
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
 neohtop_TianXiaTech.json,TianXiaTech/scoop-txt
 kugou.json,TianXiaTech/scoop-txt
-paseo_TianXiaTech.json,TianXiaTech/scoop-txt
+paseo.json,TianXiaTech/scoop-txt
 aliyundrive_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
 codexPlusPlus.json,TianXiaTech/scoop-txt
