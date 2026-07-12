@@ -3602,7 +3602,6 @@ winlibs-mingw-ucrt.json,chawyehsu/dorado
 anchor-cli.json,chawyehsu/dorado
 orwell-dev-cpp-no-compiler.json,chawyehsu/dorado
 zap.json,chawyehsu/dorado
-electerm_chawyehsu.json,chawyehsu/dorado
 wasm-pack.json,chawyehsu/dorado
 opentrace_chawyehsu.json,chawyehsu/dorado
 nbtexplorer.json,chawyehsu/dorado
@@ -9035,7 +9034,7 @@ xenia_borger.json,borger/scoop-emulators
 mednafen_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
-ppsspp-dev.json,borger/scoop-emulators
+ppsspp-dev_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
@@ -10271,6 +10270,7 @@ localsqueeze.json,DoveBoy/Apps
 alisthelper-portable.json,DoveBoy/Apps
 psgithub_DoveBoy.json,DoveBoy/Apps
 gns3.json,DoveBoy/Apps
+fluxdown.json,DoveBoy/Apps
 wechatrealfriends.json,DoveBoy/Apps
 quicklook_DoveBoy.json,DoveBoy/Apps
 picturecleaner.json,DoveBoy/Apps
@@ -10285,6 +10285,7 @@ clashn.json,DoveBoy/Apps
 winget_DoveBoy.json,DoveBoy/Apps
 navidrome-portable.json,DoveBoy/Apps
 bilibilidown_DoveBoy.json,DoveBoy/Apps
+sumatrapdfplus.json,DoveBoy/Apps
 openoffice_DoveBoy.json,DoveBoy/Apps
 saber_DoveBoy.json,DoveBoy/Apps
 gallery-dl_DoveBoy.json,DoveBoy/Apps
@@ -14586,7 +14587,7 @@ multipass_HUMORCE.json,HUMORCE/nuke
 telegram_HUMORCE.json,HUMORCE/nuke
 slam.json,HUMORCE/nuke
 xenos.json,HUMORCE/nuke
-ruffle-nightly_HUMORCE.json,HUMORCE/nuke
+ruffle-nightly.json,HUMORCE/nuke
 fiddler-classic.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 hkbtest.json,HUMORCE/nuke
