@@ -9011,7 +9011,7 @@ shadps4-dev_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 goldeneye-recomp.json,borger/scoop-emulators
 eden_borger.json,borger/scoop-emulators
-eden-nightly_borger.json,borger/scoop-emulators
+eden-nightly.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 dolphin-dev.json,borger/scoop-emulators
 bsnes-mt_borger.json,borger/scoop-emulators
@@ -9037,7 +9037,7 @@ mesen-s_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
@@ -9053,7 +9053,7 @@ xemu-dev_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 bsnes-nightly.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
-vita3k_borger.json,borger/scoop-emulators
+vita3k.json,borger/scoop-emulators
 spaghettikart.json,borger/scoop-emulators
 gopher64_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
@@ -15893,7 +15893,7 @@ utools_LaelLuo.json,LaelLuo/scoop
 aionui_LaelLuo.json,LaelLuo/scoop
 pnpm_LaelLuo.json,LaelLuo/scoop
 figma_LaelLuo.json,LaelLuo/scoop
-github-stars-manager_LaelLuo.json,LaelLuo/scoop
+github-stars-manager.json,LaelLuo/scoop
 pocketbase_LaelLuo.json,LaelLuo/scoop
 workbuddy_LaelLuo.json,LaelLuo/scoop
 feishu_LaelLuo.json,LaelLuo/scoop
