@@ -9000,7 +9000,7 @@ smoothie.json,couleur-tweak-tips/utils
 mouse-tester-fork.json,couleur-tweak-tips/utils
 usbtreeview_couleur-tweak-tips.json,couleur-tweak-tips/utils
 MediaDownloader.json,couleur-tweak-tips/utils
-snes9x-dev_borger.json,borger/scoop-emulators
+snes9x-dev.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 2ship2harkinian.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
@@ -9036,7 +9036,7 @@ mesen-s_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
@@ -10089,7 +10089,7 @@ magpie_DoveBoy.json,DoveBoy/Apps
 nano_DoveBoy.json,DoveBoy/Apps
 pikatorrent.json,DoveBoy/Apps
 fancontrol-net10.0-portable.json,DoveBoy/Apps
-v2rayn.json,DoveBoy/Apps
+v2rayn_DoveBoy.json,DoveBoy/Apps
 b0pass.json,DoveBoy/Apps
 tcping_DoveBoy.json,DoveBoy/Apps
 escrcpy-portable.json,DoveBoy/Apps
@@ -14959,7 +14959,7 @@ miktex_maboloshi.json,maboloshi/scoop-private
 notepadnext_maboloshi.json,maboloshi/scoop-private
 guoheview.json,maboloshi/scoop-private
 chatgpt-next-web_maboloshi.json,maboloshi/scoop-private
-hok.json,maboloshi/scoop-private
+hok_maboloshi.json,maboloshi/scoop-private
 sublime-text.json,maboloshi/scoop-private
 n-m3u8dl-cli_maboloshi.json,maboloshi/scoop-private
 FileLocatorPro.json,maboloshi/scoop-private
