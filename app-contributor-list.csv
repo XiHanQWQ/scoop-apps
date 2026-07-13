@@ -8619,7 +8619,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -9021,7 +9021,7 @@ mgba_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 azahar_borger.json,borger/scoop-emulators
 visualboyadvance-m.json,borger/scoop-emulators
-duckstation-preview_borger.json,borger/scoop-emulators
+duckstation-preview.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
@@ -10243,6 +10243,7 @@ maple-file.json,DoveBoy/Apps
 psreadline_DoveBoy.json,DoveBoy/Apps
 xx-net_DoveBoy.json,DoveBoy/Apps
 pydebloatx.json,DoveBoy/Apps
+qalculate_DoveBoy.json,DoveBoy/Apps
 xx-net-win7.json,DoveBoy/Apps
 uad.json,DoveBoy/Apps
 syncthing_DoveBoy.json,DoveBoy/Apps
@@ -14644,7 +14645,7 @@ beyondcompare5-zh.json,maboloshi/scoop-private
 startallback.json,maboloshi/scoop-private
 dingtalk.json,maboloshi/scoop-private
 ima-copilot_maboloshi.json,maboloshi/scoop-private
-doubao_maboloshi.json,maboloshi/scoop-private
+doubao.json,maboloshi/scoop-private
 clickmonitorddc-cn.json,maboloshi/scoop-private
 PowerShell_maboloshi.json,maboloshi/scoop-private
 clash-for-windows-cn_maboloshi.json,maboloshi/scoop-private
