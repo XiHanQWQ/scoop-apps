@@ -8617,7 +8617,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -9011,7 +9011,7 @@ shadps4-dev_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 goldeneye-recomp.json,borger/scoop-emulators
 eden_borger.json,borger/scoop-emulators
-eden-nightly.json,borger/scoop-emulators
+eden-nightly_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 dolphin-dev.json,borger/scoop-emulators
 bsnes-mt_borger.json,borger/scoop-emulators
@@ -9037,7 +9037,7 @@ mesen-s_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
@@ -9053,7 +9053,7 @@ xemu-dev_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 bsnes-nightly.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 spaghettikart.json,borger/scoop-emulators
 gopher64_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
@@ -9544,6 +9544,7 @@ go-cn_akirco.json,akirco/aki-apps
 rufus_akirco.json,akirco/aki-apps
 tokei_akirco.json,akirco/aki-apps
 gow_akirco.json,akirco/aki-apps
+bin_akirco.json,akirco/aki-apps
 vim_akirco.json,akirco/aki-apps
 googlechrome_akirco.json,akirco/aki-apps
 bun_akirco.json,akirco/aki-apps
@@ -10317,6 +10318,7 @@ moekoemusic.json,DoveBoy/Apps
 go-music-dl.json,DoveBoy/Apps
 escrcpy_DoveBoy.json,DoveBoy/Apps
 ungoogled-chromium_DoveBoy.json,DoveBoy/Apps
+altersend-portable.json,DoveBoy/Apps
 runastool_DoveBoy.json,DoveBoy/Apps
 wx-channels-download.json,DoveBoy/Apps
 baidupcs-go_DoveBoy.json,DoveBoy/Apps
@@ -10504,6 +10506,7 @@ audio-share-gui.json,DoveBoy/Apps
 hok_DoveBoy.json,DoveBoy/Apps
 restart-explorer_DoveBoy.json,DoveBoy/Apps
 gping_DoveBoy.json,DoveBoy/Apps
+altersend.json,DoveBoy/Apps
 wxdatviewerautoexportrust.json,DoveBoy/Apps
 adb_DoveBoy.json,DoveBoy/Apps
 lsx.json,DoveBoy/Apps
@@ -10597,7 +10600,7 @@ crystaldiskinfo-kureikei.json,DoveBoy/Apps
 opensearcher_DoveBoy.json,DoveBoy/Apps
 dua_DoveBoy.json,DoveBoy/Apps
 clash-nyanpasu_DoveBoy.json,DoveBoy/Apps
-sandboxie-plus_DoveBoy.json,DoveBoy/Apps
+sandboxie-plus.json,DoveBoy/Apps
 python-tab-completion.json,DoveBoy/Apps
 ydl-ui_DoveBoy.json,DoveBoy/Apps
 mycomputermanager.json,DoveBoy/Apps
@@ -13714,6 +13717,7 @@ opencomic.json,cc713/ownscoop
 LyX_cc713.json,cc713/ownscoop
 gitg.json,cc713/ownscoop
 mkvcleaver.json,natecohen/scoop-av
+eac3to-updated-libs.json,natecohen/scoop-av
 svt-vp9.json,natecohen/scoop-av
 aom.json,natecohen/scoop-av
 svt-av1.json,natecohen/scoop-av
@@ -13729,6 +13733,7 @@ delaycut.json,natecohen/scoop-av
 rav1e.json,natecohen/scoop-av
 subrip.json,natecohen/scoop-av
 avsmeter.json,natecohen/scoop-av
+ass2bdnxml.json,natecohen/scoop-av
 avsinfotool.json,natecohen/scoop-av
 av1an-nightly.json,natecohen/scoop-av
 pingo.json,natecohen/scoop-av
@@ -13740,8 +13745,8 @@ aegisub_natecohen.json,natecohen/scoop-av
 dovi_tool.json,natecohen/scoop-av
 avs2yuv.json,natecohen/scoop-av
 dgdemux_natecohen.json,natecohen/scoop-av
-eac3to-updated-libs.json,natecohen/scoop-av
 pgcdemux.json,natecohen/scoop-av
+eac3to_natecohen.json,natecohen/scoop-av
 mis2x264.json,natecohen/scoop-av
 hdr10plus_tool.json,natecohen/scoop-av
 rav1e-weekly.json,natecohen/scoop-av
@@ -13750,11 +13755,14 @@ hlg-tools.json,natecohen/scoop-av
 nvencc.json,natecohen/scoop-av
 pinga.json,natecohen/scoop-av
 chaptereditor.json,natecohen/scoop-av
+super-cli.json,natecohen/scoop-av
 flac-frontend.json,natecohen/scoop-av
 ffbitrateviewer.json,natecohen/scoop-av
 sushinet.json,natecohen/scoop-av
 fdkaac.json,natecohen/scoop-av
 virtualdub2_natecohen.json,natecohen/scoop-av
+yuview.json,natecohen/scoop-av
+bdinfo-rs.json,natecohen/scoop-av
 avspmod_natecohen.json,natecohen/scoop-av
 dgdecnv.json,natecohen/scoop-av
 typstfmt.json,typst-community/scoop-bucket
@@ -14586,7 +14594,7 @@ multipass_HUMORCE.json,HUMORCE/nuke
 telegram_HUMORCE.json,HUMORCE/nuke
 slam.json,HUMORCE/nuke
 xenos.json,HUMORCE/nuke
-ruffle-nightly_HUMORCE.json,HUMORCE/nuke
+ruffle-nightly.json,HUMORCE/nuke
 fiddler-classic.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 hkbtest.json,HUMORCE/nuke
@@ -14802,6 +14810,7 @@ fio-aoks.json,AntonOks/scoop-aoks
 kubectl-crossplane-aoks.json,AntonOks/scoop-aoks
 talosctl-aoks.json,AntonOks/scoop-aoks
 IntelliJIDEA-aoks.json,AntonOks/scoop-aoks
+winscript-aoks.json,AntonOks/scoop-aoks
 incus-aoks.json,AntonOks/scoop-aoks
 xcaddy-aoks.json,AntonOks/scoop-aoks
 kopiaUI-aoks.json,AntonOks/scoop-aoks
@@ -15950,7 +15959,7 @@ tiny-rdm.json,windedge/ladle-bucket
 ganttproject.json,windedge/ladle-bucket
 markflowy_windedge.json,windedge/ladle-bucket
 gotify-tray.json,windedge/ladle-bucket
-forgecode_windedge.json,windedge/ladle-bucket
+forgecode.json,windedge/ladle-bucket
 herdr.json,windedge/ladle-bucket
 coraldesk.json,windedge/ladle-bucket
 ki.json,windedge/ladle-bucket
