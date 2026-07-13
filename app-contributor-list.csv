@@ -1464,7 +1464,7 @@ php-xdebug.json,ScoopInstaller/Extras
 cascadeur.json,ScoopInstaller/Extras
 github.json,ScoopInstaller/Extras
 upsource.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 keepass-plugin-keetheme.json,ScoopInstaller/Extras
 xl-converter.json,ScoopInstaller/Extras
 palemoon.json,ScoopInstaller/Extras
@@ -3603,6 +3603,7 @@ winlibs-mingw-ucrt.json,chawyehsu/dorado
 anchor-cli.json,chawyehsu/dorado
 orwell-dev-cpp-no-compiler.json,chawyehsu/dorado
 zap.json,chawyehsu/dorado
+electerm_chawyehsu.json,chawyehsu/dorado
 wasm-pack.json,chawyehsu/dorado
 opentrace_chawyehsu.json,chawyehsu/dorado
 nbtexplorer.json,chawyehsu/dorado
@@ -9090,7 +9091,7 @@ curl-impersonate.json,ViCrack/scoop-bucket
 xxl-job-attack.json,ViCrack/scoop-bucket
 wub.json,ViCrack/scoop-bucket
 rebuild-shell-icon-cache.json,ViCrack/scoop-bucket
-apifox.json,ViCrack/scoop-bucket
+apifox_ViCrack.json,ViCrack/scoop-bucket
 MonitorOff.json,ViCrack/scoop-bucket
 mitan_ViCrack.json,ViCrack/scoop-bucket
 wechatdatabackup.json,ViCrack/scoop-bucket
@@ -9544,7 +9545,6 @@ go-cn_akirco.json,akirco/aki-apps
 rufus_akirco.json,akirco/aki-apps
 tokei_akirco.json,akirco/aki-apps
 gow_akirco.json,akirco/aki-apps
-bin_akirco.json,akirco/aki-apps
 vim_akirco.json,akirco/aki-apps
 googlechrome_akirco.json,akirco/aki-apps
 bun_akirco.json,akirco/aki-apps
@@ -10551,7 +10551,7 @@ xhs-downloader_DoveBoy.json,DoveBoy/Apps
 winhance.json,DoveBoy/Apps
 shadowsocks_DoveBoy.json,DoveBoy/Apps
 everything-lite_DoveBoy.json,DoveBoy/Apps
-karing.json,DoveBoy/Apps
+karing_DoveBoy.json,DoveBoy/Apps
 speedtest-cli_DoveBoy.json,DoveBoy/Apps
 joplin-pre_DoveBoy.json,DoveBoy/Apps
 waveterm_DoveBoy.json,DoveBoy/Apps
@@ -10787,6 +10787,7 @@ b23downloader_hu3rror.json,hu3rror/scoop-muggle
 fehviewer.json,hu3rror/scoop-muggle
 chatbox_hu3rror.json,hu3rror/scoop-muggle
 calibre-cjk.json,hu3rror/scoop-muggle
+mihomo_hu3rror.json,hu3rror/scoop-muggle
 chromium-chrupd.json,hu3rror/scoop-muggle
 oh-my-posh_hu3rror.json,hu3rror/scoop-muggle
 scapple.json,hu3rror/scoop-muggle
@@ -10895,7 +10896,6 @@ cloudmusic-green.json,hu3rror/scoop-muggle
 chatall_hu3rror.json,hu3rror/scoop-muggle
 jpegview-fork_hu3rror.json,hu3rror/scoop-muggle
 pot-desktop_hu3rror.json,hu3rror/scoop-muggle
-mihomo_hu3rror.json,hu3rror/scoop-muggle
 neeview_hu3rror.json,hu3rror/scoop-muggle
 chk-hashtool.json,hu3rror/scoop-muggle
 baidupcs-go_hu3rror.json,hu3rror/scoop-muggle
@@ -14594,7 +14594,7 @@ multipass_HUMORCE.json,HUMORCE/nuke
 telegram_HUMORCE.json,HUMORCE/nuke
 slam.json,HUMORCE/nuke
 xenos.json,HUMORCE/nuke
-ruffle-nightly.json,HUMORCE/nuke
+ruffle-nightly_HUMORCE.json,HUMORCE/nuke
 fiddler-classic.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 hkbtest.json,HUMORCE/nuke
@@ -15919,7 +15919,7 @@ capcut_LaelLuo.json,LaelLuo/scoop
 codebuddy.json,LaelLuo/scoop
 bun_LaelLuo.json,LaelLuo/scoop
 wechat_LaelLuo.json,LaelLuo/scoop
-cursor_LaelLuo.json,LaelLuo/scoop
+cursor.json,LaelLuo/scoop
 easytshark_LaelLuo.json,LaelLuo/scoop
 llama-cpp-sycl.json,windedge/ladle-bucket
 askimo.json,windedge/ladle-bucket
@@ -15959,7 +15959,7 @@ tiny-rdm.json,windedge/ladle-bucket
 ganttproject.json,windedge/ladle-bucket
 markflowy_windedge.json,windedge/ladle-bucket
 gotify-tray.json,windedge/ladle-bucket
-forgecode.json,windedge/ladle-bucket
+forgecode_windedge.json,windedge/ladle-bucket
 herdr.json,windedge/ladle-bucket
 coraldesk.json,windedge/ladle-bucket
 ki.json,windedge/ladle-bucket
@@ -16144,7 +16144,7 @@ r-4.1.0.json,ShuguangSun/sgs-scoop-bucket
 docsim.json,ShuguangSun/sgs-scoop-bucket
 emacs-mplscorwin.json,ShuguangSun/sgs-scoop-bucket
 cherry-studio-1.2.2.json,ShuguangSun/sgs-scoop-bucket
-r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+r-devel.json,ShuguangSun/sgs-scoop-bucket
 sumatrapdf.json,ShuguangSun/sgs-scoop-bucket
 heapdump_tool.json,bright-angel/scoop-bucket
 sm234_decrypt_gui.json,bright-angel/scoop-bucket
