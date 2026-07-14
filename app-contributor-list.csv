@@ -8467,7 +8467,7 @@ Milkup.json,dodorz/scoop
 rains.json,dodorz/scoop
 ModifyProfile.json,dodorz/scoop
 BlueJ-with-JDK.json,dodorz/scoop
-Trae.json,dodorz/scoop
+Trae_dodorz.json,dodorz/scoop
 YoudaoDict.json,dodorz/scoop
 MADPlay.json,dodorz/scoop
 IECache.json,dodorz/scoop
@@ -9041,12 +9041,12 @@ mesen_borger.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
-rpcs3_borger.json,borger/scoop-emulators
+rpcs3.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 shipwright_borger.json,borger/scoop-emulators
-xenia-canary_borger.json,borger/scoop-emulators
+xenia-canary.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
@@ -10580,6 +10580,7 @@ pikapika.json,DoveBoy/Apps
 bottom_DoveBoy.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
 github-hosts.json,DoveBoy/Apps
+mpv-git_DoveBoy.json,DoveBoy/Apps
 ventoy_DoveBoy.json,DoveBoy/Apps
 zephyr-portable.json,DoveBoy/Apps
 ddu.json,DoveBoy/Apps
@@ -14609,7 +14610,6 @@ raidrive-aoks.json,AntonOks/scoop-aoks
 kopia-aoks.json,AntonOks/scoop-aoks
 superproductivity-aoks.json,AntonOks/scoop-aoks
 filezilla-aoks.json,AntonOks/scoop-aoks
-xournalpp-aoks.json,AntonOks/scoop-aoks
 fast-data-transfer-aoks.json,AntonOks/scoop-aoks
 sandboxie-plus-aoks.json,AntonOks/scoop-aoks
 openrefine-aoks.json,AntonOks/scoop-aoks
@@ -15904,7 +15904,7 @@ pnpm_LaelLuo.json,LaelLuo/scoop
 figma_LaelLuo.json,LaelLuo/scoop
 github-stars-manager.json,LaelLuo/scoop
 pocketbase_LaelLuo.json,LaelLuo/scoop
-workbuddy_LaelLuo.json,LaelLuo/scoop
+workbuddy.json,LaelLuo/scoop
 feishu_LaelLuo.json,LaelLuo/scoop
 autoglm_LaelLuo.json,LaelLuo/scoop
 autoclaw.json,LaelLuo/scoop
@@ -15913,7 +15913,7 @@ codex-rust.json,LaelLuo/scoop
 zedis_LaelLuo.json,LaelLuo/scoop
 lm-studio_LaelLuo.json,LaelLuo/scoop
 douyin-ide_LaelLuo.json,LaelLuo/scoop
-trae-cn_LaelLuo.json,LaelLuo/scoop
+trae-cn.json,LaelLuo/scoop
 oomol_LaelLuo.json,LaelLuo/scoop
 yuanbao_LaelLuo.json,LaelLuo/scoop
 capcut_LaelLuo.json,LaelLuo/scoop
