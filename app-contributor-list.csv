@@ -3604,7 +3604,6 @@ winlibs-mingw-ucrt.json,chawyehsu/dorado
 anchor-cli.json,chawyehsu/dorado
 orwell-dev-cpp-no-compiler.json,chawyehsu/dorado
 zap.json,chawyehsu/dorado
-electerm_chawyehsu.json,chawyehsu/dorado
 wasm-pack.json,chawyehsu/dorado
 opentrace_chawyehsu.json,chawyehsu/dorado
 nbtexplorer.json,chawyehsu/dorado
@@ -8619,7 +8618,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -9013,7 +9012,7 @@ shadps4-dev_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 goldeneye-recomp.json,borger/scoop-emulators
 eden_borger.json,borger/scoop-emulators
-eden-nightly.json,borger/scoop-emulators
+eden-nightly_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 dolphin-dev.json,borger/scoop-emulators
 bsnes-mt_borger.json,borger/scoop-emulators
@@ -9037,9 +9036,9 @@ xenia_borger.json,borger/scoop-emulators
 mednafen_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
-ppsspp-dev.json,borger/scoop-emulators
+ppsspp-dev_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
@@ -14906,7 +14905,7 @@ multipass_HUMORCE.json,HUMORCE/nuke
 telegram_HUMORCE.json,HUMORCE/nuke
 slam.json,HUMORCE/nuke
 xenos.json,HUMORCE/nuke
-ruffle-nightly_HUMORCE.json,HUMORCE/nuke
+ruffle-nightly.json,HUMORCE/nuke
 fiddler-classic.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 hkbtest.json,HUMORCE/nuke
@@ -15881,7 +15880,7 @@ ccpocket.json,LaelLuo/scoop
 qq-nt_LaelLuo.json,LaelLuo/scoop
 claude_LaelLuo.json,LaelLuo/scoop
 cherry-studio_LaelLuo.json,LaelLuo/scoop
-kiro_LaelLuo.json,LaelLuo/scoop
+kiro.json,LaelLuo/scoop
 zcode_LaelLuo.json,LaelLuo/scoop
 oh-my-pi_LaelLuo.json,LaelLuo/scoop
 codekanban.json,LaelLuo/scoop
