@@ -1,13 +1,14 @@
 {
-    "version": "2026.08.0-daily-34",
+    "version": "2026.06.0-242",
     "description": "An IDE for R with console, syntax-highlighting, editor that supports direct code execution, as well as tools for plotting, history, debugging and workspace management.",
-    "homepage": "https://www.rstudio.com/",
+    "homepage": "https://posit.co/products/open-source/rstudio/",
     "license": "AGPL-3.0-only",
+    "notes": "For 32bit, please install 'versions/rstudio11",
     "depends": "r",
     "architecture": {
         "64bit": {
-            "url": "https://s3.amazonaws.com/rstudio-ide-build/electron/windows/RStudio-2026.08.0-daily-34.exe#/dl.7z",
-            "hash": "6136ce4407bc8f2104704f139f74935c7cab219fc4364db24e318c77bd3b59d0",
+            "url": "https://s3.amazonaws.com/rstudio-desktop/electron/windows/RStudio-2026.06.0-242.exe#/dl.7z",
+            "hash": "09aab92c230f77f05f0d98b293405c27f81bd5ca2865e85ccc9378256a5eb9ed",
             "post_install": [
                 "Remove-Item \"$dir\\`$*\" -Recurse",
                 "if (!(Test-Path \"$env:Appdata\\RStudio\")) {",
@@ -28,21 +29,21 @@
     "shortcuts": [
         [
             "rstudio.exe",
-            "RStudio Daily"
+            "RStudio"
         ]
     ],
     "checkver": {
-        "url": "https://dailies.rstudio.com/rstudio/latest/index.json",
-        "jsonpath": "$.products.electron.platforms.windows.filename",
-        "regex": "RStudio-([\\w.-]+).exe"
+        "url": "https://www.rstudio.com/wp-content/downloads.json",
+        "jsonpath": "$.rstudio.open_source.stable.desktop.installer.windows.basename",
+        "regex": "RStudio-([\\d.-]+).exe"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://s3.amazonaws.com/rstudio-ide-build/electron/windows/RStudio-$version.exe#/dl.7z",
+                "url": "https://s3.amazonaws.com/rstudio-desktop/electron/windows/RStudio-$version.exe#/dl.7z",
                 "hash": {
-                    "url": "https://dailies.rstudio.com/rstudio/latest/index.json",
-                    "jsonpath": "$.products.electron.platforms.windows.sha256"
+                    "url": "https://www.rstudio.com/wp-content/downloads.json",
+                    "jsonpath": "$.rstudio.open_source.stable.desktop.installer.windows.sha256"
                 }
             }
         }
