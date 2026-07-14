@@ -8467,7 +8467,7 @@ Milkup.json,dodorz/scoop
 rains.json,dodorz/scoop
 ModifyProfile.json,dodorz/scoop
 BlueJ-with-JDK.json,dodorz/scoop
-Trae_dodorz.json,dodorz/scoop
+Trae.json,dodorz/scoop
 YoudaoDict.json,dodorz/scoop
 MADPlay.json,dodorz/scoop
 IECache.json,dodorz/scoop
@@ -14609,6 +14609,7 @@ raidrive-aoks.json,AntonOks/scoop-aoks
 kopia-aoks.json,AntonOks/scoop-aoks
 superproductivity-aoks.json,AntonOks/scoop-aoks
 filezilla-aoks.json,AntonOks/scoop-aoks
+xournalpp-aoks.json,AntonOks/scoop-aoks
 fast-data-transfer-aoks.json,AntonOks/scoop-aoks
 sandboxie-plus-aoks.json,AntonOks/scoop-aoks
 openrefine-aoks.json,AntonOks/scoop-aoks
@@ -14617,7 +14618,6 @@ fio-aoks.json,AntonOks/scoop-aoks
 kubectl-crossplane-aoks.json,AntonOks/scoop-aoks
 talosctl-aoks.json,AntonOks/scoop-aoks
 IntelliJIDEA-aoks.json,AntonOks/scoop-aoks
-winscript-aoks.json,AntonOks/scoop-aoks
 incus-aoks.json,AntonOks/scoop-aoks
 xcaddy-aoks.json,AntonOks/scoop-aoks
 kopiaUI-aoks.json,AntonOks/scoop-aoks
@@ -15908,6 +15908,7 @@ workbuddy_LaelLuo.json,LaelLuo/scoop
 feishu_LaelLuo.json,LaelLuo/scoop
 autoglm_LaelLuo.json,LaelLuo/scoop
 autoclaw.json,LaelLuo/scoop
+moonbit.json,LaelLuo/scoop
 codex-rust.json,LaelLuo/scoop
 zedis_LaelLuo.json,LaelLuo/scoop
 lm-studio_LaelLuo.json,LaelLuo/scoop
@@ -16671,7 +16672,7 @@ ShiroExp_Y5neKO.json,bright-angel/scoop-bucket
 ctf-wscan.json,bright-angel/scoop-bucket
 LiqunKit.json,bright-angel/scoop-bucket
 0x7eTeamTools.json,bright-angel/scoop-bucket
-tencent-meeting_bright-angel.json,bright-angel/scoop-bucket
+tencent-meeting.json,bright-angel/scoop-bucket
 UsbKeyboardDataHacker.json,bright-angel/scoop-bucket
 burp-AutoRepeater.json,bright-angel/scoop-bucket
 dddd_trainer.json,bright-angel/scoop-bucket
