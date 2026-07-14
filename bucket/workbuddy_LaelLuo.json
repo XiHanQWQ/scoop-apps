@@ -1,30 +1,37 @@
 {
-    "version": "0.41.0",
-    "description": "Manage all your terminals and AI coding tools (Claude Code / Codex) from one unified page.",
-    "homepage": "https://github.com/fy0/CodeKanban",
-    "license": "Apache-2.0",
+    "version": "5.2.6.33159827",
+    "description": "腾讯云代码助手推出的 AI Agent 办公工具，可自主规划并交付多模态复杂任务结果。",
+    "homepage": "https://www.codebuddy.cn/work/",
+    "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/fy0/CodeKanban/releases/download/v0.41.0/CodeKanban-windows-amd64.zip",
-            "hash": "7af5e2cb9235b6cdaed7b1a5f9a506bb6bdc02949dd486652241edf07c3ae9ae"
+            "url": "https://download.codebuddy.cn/workbuddy/saas/win32-x64-user/WorkBuddy-win32-x64-user-5.2.6.33159827-8ee6bc11.exe",
+            "hash": "9b933abdcfeca4323d9aa1061cfd885d449e950a754c3b05c229bd5a04099436"
         }
     },
+    "innosetup": true,
+    "extract_dir": "{code_GetDestDir}",
     "bin": [
         [
-            "CodeKanban.exe",
-            "codekanban",
-            "--home-data"
+            "bin\\workbuddy.cmd",
+            "workbuddy"
         ]
     ],
-    "persist": "data",
+    "shortcuts": [
+        [
+            "WorkBuddy.exe",
+            "WorkBuddy"
+        ]
+    ],
     "checkver": {
-        "github": "https://github.com/fy0/CodeKanban",
-        "regex": "releases/tag/v(?<version>[\\d.]+)"
+        "url": "https://www.codebuddy.cn/v2/update?platform=workbuddy-win32-x64-user",
+        "jsonpath": "$.url",
+        "regex": "(?<url>.*WorkBuddy-win32-x64-user-(?<version>[\\d.]+)-.*\\.exe)"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/fy0/CodeKanban/releases/download/v$version/CodeKanban-windows-amd64.zip"
+                "url": "$matchUrl"
             }
         }
     },
@@ -166,7 +173,8 @@
         "}",
         "#endregion",
         "Invoke-PortableMappings -Action Install -Context @{ Dir = $dir; PersistDir = $persist_dir } -Mappings @(",
-        "    @{ Label = 'home-data'; Source = 'UserProfile/.codekanban'; Target = \"$persist_dir/home\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' }",
+        "    @{ Label = 'roaming'; Source = 'AppData/WorkBuddy'; Target = \"$persist_dir/roaming\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' },",
+        "    @{ Label = 'home-config'; Source = 'UserProfile/.workbuddy'; Target = \"$persist_dir/home\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' }",
         ") -Log:$true"
     ],
     "pre_uninstall": [
@@ -307,7 +315,8 @@
         "}",
         "#endregion",
         "Invoke-PortableMappings -Action Uninstall -Context @{ Dir = $dir; PersistDir = $persist_dir } -Mappings @(",
-        "    @{ Label = 'home-data'; Source = 'UserProfile/.codekanban'; Target = \"$persist_dir/home\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' }",
+        "    @{ Label = 'roaming'; Source = 'AppData/WorkBuddy'; Target = \"$persist_dir/roaming\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' },",
+        "    @{ Label = 'home-config'; Source = 'UserProfile/.workbuddy'; Target = \"$persist_dir/home\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' }",
         ") -Log:$true"
     ]
 }
