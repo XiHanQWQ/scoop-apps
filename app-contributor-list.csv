@@ -1808,7 +1808,7 @@ processing.json,ScoopInstaller/Extras
 wxhexeditor.json,ScoopInstaller/Extras
 dosbox-staging.json,ScoopInstaller/Extras
 uninstall-tool.json,ScoopInstaller/Extras
-vscode.json,ScoopInstaller/Extras
+vscode_ScoopInstaller.json,ScoopInstaller/Extras
 nheko.json,ScoopInstaller/Extras
 npiperelay.json,ScoopInstaller/Extras
 dz6.json,ScoopInstaller/Extras
@@ -4418,6 +4418,7 @@ bzflag.json,Calinou/scoop-games
 betacraft-launcher-v2.json,Calinou/scoop-games
 megamek.json,Calinou/scoop-games
 pcsx2.json,Calinou/scoop-games
+gale.json,Calinou/scoop-games
 angband-dev.json,Calinou/scoop-games
 cataclysm-dda-tiles-experimental.json,Calinou/scoop-games
 cdogs-sdl.json,Calinou/scoop-games
@@ -7731,7 +7732,7 @@ rsvg-convert.json,cderv/r-bucket
 r-release.json,cderv/r-bucket
 beads_cderv.json,cderv/r-bucket
 tinytex-min.json,cderv/r-bucket
-rstudio-preview_cderv.json,cderv/r-bucket
+rstudio-preview.json,cderv/r-bucket
 rstudio-daily-electron.json,cderv/r-bucket
 rtk_cderv.json,cderv/r-bucket
 ollama_cderv.json,cderv/r-bucket
@@ -8620,7 +8621,7 @@ Umi-OCR-Rapid.json,dodorz/scoop
 ChatGLM.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 pho.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 KeePassX.json,dodorz/scoop
 QQMusic_dodorz.json,dodorz/scoop
 Snaptext.json,dodorz/scoop
@@ -9014,7 +9015,7 @@ shadps4-dev_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 goldeneye-recomp.json,borger/scoop-emulators
 eden_borger.json,borger/scoop-emulators
-eden-nightly.json,borger/scoop-emulators
+eden-nightly_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 dolphin-dev.json,borger/scoop-emulators
 bsnes-mt_borger.json,borger/scoop-emulators
@@ -9038,7 +9039,7 @@ xenia_borger.json,borger/scoop-emulators
 mednafen_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
-ppsspp-dev.json,borger/scoop-emulators
+ppsspp-dev_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 pcsx2-dev.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
@@ -9049,7 +9050,7 @@ retroarch-nightly_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 shipwright_borger.json,borger/scoop-emulators
 xenia-canary.json,borger/scoop-emulators
-redream-dev_borger.json,borger/scoop-emulators
+redream-dev.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
 xemu-dev_borger.json,borger/scoop-emulators
@@ -9384,14 +9385,13 @@ hwmonitor_akirco.json,akirco/aki-apps
 crush.json,akirco/aki-apps
 spotube_akirco.json,akirco/aki-apps
 cpu-z_akirco.json,akirco/aki-apps
-jianyingpro.json,akirco/aki-apps
+jianyingpro_akirco.json,akirco/aki-apps
 biyi_akirco.json,akirco/aki-apps
 hub_akirco.json,akirco/aki-apps
 unzip_akirco.json,akirco/aki-apps
 aria2_akirco.json,akirco/aki-apps
 poppler_akirco.json,akirco/aki-apps
 win32-openssh.json,akirco/aki-apps
-bilibili-livehime.json,akirco/aki-apps
 vcredist2012_akirco.json,akirco/aki-apps
 windows-terminal-quake_akirco.json,akirco/aki-apps
 obs-studio_akirco.json,akirco/aki-apps
@@ -9530,7 +9530,7 @@ which_akirco.json,akirco/aki-apps
 qt-creator_akirco.json,akirco/aki-apps
 baidudisk.json,akirco/aki-apps
 scoop-completion_akirco.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 oxipng_akirco.json,akirco/aki-apps
 memo.json,akirco/aki-apps
 simple-live.json,akirco/aki-apps
@@ -10016,7 +10016,7 @@ varia_DoveBoy.json,DoveBoy/Apps
 videofusion.json,DoveBoy/Apps
 vidbee.json,DoveBoy/Apps
 windows-manage-tool.json,DoveBoy/Apps
-cudatext_DoveBoy.json,DoveBoy/Apps
+cudatext.json,DoveBoy/Apps
 cheat-engine_DoveBoy.json,DoveBoy/Apps
 onlyoffice-desktopeditors_DoveBoy.json,DoveBoy/Apps
 gnupg-np_DoveBoy.json,DoveBoy/Apps
@@ -10670,7 +10670,6 @@ idcard-generator.json,DoveBoy/Apps
 p2p.json,DoveBoy/Apps
 horsemd.json,DoveBoy/Apps
 wechat_DoveBoy.json,DoveBoy/Apps
-forkgram_DoveBoy.json,DoveBoy/Apps
 biu.json,DoveBoy/Apps
 vutronmusic.json,DoveBoy/Apps
 vivetool_DoveBoy.json,DoveBoy/Apps
@@ -12458,6 +12457,7 @@ hunk_aliesbelik.json,aliesbelik/poldi
 pingy.json,aliesbelik/poldi
 cq_aliesbelik.json,aliesbelik/poldi
 kubectl-explore.json,aliesbelik/poldi
+parm.json,aliesbelik/poldi
 fast.json,aliesbelik/poldi
 cfspeedtest.json,aliesbelik/poldi
 yatto.json,aliesbelik/poldi
@@ -13689,7 +13689,7 @@ animeko_cc713.json,cc713/ownscoop
 nekoray.json,cc713/ownscoop
 goldendict-ng.json,cc713/ownscoop
 foobox-cn.json,cc713/ownscoop
-rstudio_cc713.json,cc713/ownscoop
+rstudio.json,cc713/ownscoop
 Java-RPG-Maker-MV-Decrypter.json,cc713/ownscoop
 Weasel_cc713.json,cc713/ownscoop
 git-cola_cc713.json,cc713/ownscoop
@@ -14908,7 +14908,7 @@ multipass_HUMORCE.json,HUMORCE/nuke
 telegram_HUMORCE.json,HUMORCE/nuke
 slam.json,HUMORCE/nuke
 xenos.json,HUMORCE/nuke
-ruffle-nightly_HUMORCE.json,HUMORCE/nuke
+ruffle-nightly.json,HUMORCE/nuke
 fiddler-classic.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 hkbtest.json,HUMORCE/nuke
@@ -16033,7 +16033,7 @@ difftastic_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 jabref.json,ShuguangSun/sgs-scoop-bucket
 languagetool-java_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 pdf-xchange-editor_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-rstudio.json,ShuguangSun/sgs-scoop-bucket
+rstudio_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 cherry-studio-1.0.6.json,ShuguangSun/sgs-scoop-bucket
 cascadiacode-pl_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 openjdk13_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
