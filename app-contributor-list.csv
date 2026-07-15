@@ -6478,7 +6478,7 @@ kwmusic.json,scoopcn/scoopcn
 kugou.json,scoopcn/scoopcn
 xt800agent.json,scoopcn/scoopcn
 sunlogin.json,scoopcn/scoopcn
-feishu_scoopcn.json,scoopcn/scoopcn
+feishu.json,scoopcn/scoopcn
 wechat-devtools.json,scoopcn/scoopcn
 tim_scoopcn.json,scoopcn/scoopcn
 procexp.json,scoopcn/scoopcn
@@ -9090,7 +9090,7 @@ bluelife-host-editor.json,ViCrack/scoop-bucket
 observerward.json,ViCrack/scoop-bucket
 quake_rs_ViCrack.json,ViCrack/scoop-bucket
 wechatbaktool.json,ViCrack/scoop-bucket
-afrog.json,ViCrack/scoop-bucket
+afrog_ViCrack.json,ViCrack/scoop-bucket
 struts2vulsscantools.json,ViCrack/scoop-bucket
 curl-impersonate.json,ViCrack/scoop-bucket
 xxl-job-attack.json,ViCrack/scoop-bucket
@@ -9459,7 +9459,7 @@ xsv_akirco.json,akirco/aki-apps
 powertoys_akirco.json,akirco/aki-apps
 vcredist2019.json,akirco/aki-apps
 telegram_akirco.json,akirco/aki-apps
-feishu.json,akirco/aki-apps
+feishu_akirco.json,akirco/aki-apps
 geekuninstaller_akirco.json,akirco/aki-apps
 Qoder_akirco.json,akirco/aki-apps
 netch_akirco.json,akirco/aki-apps
@@ -10585,6 +10585,7 @@ pikapika.json,DoveBoy/Apps
 bottom_DoveBoy.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
 github-hosts.json,DoveBoy/Apps
+mpv-git_DoveBoy.json,DoveBoy/Apps
 ventoy_DoveBoy.json,DoveBoy/Apps
 zephyr-portable.json,DoveBoy/Apps
 ddu.json,DoveBoy/Apps
@@ -10787,7 +10788,7 @@ applicationinspector.json,wzv5/ScoopBucket
 besttrace_wzv5.json,wzv5/ScoopBucket
 winscp_wzv5.json,wzv5/ScoopBucket
 python-doc.json,wzv5/ScoopBucket
-qqlive.json,wzv5/ScoopBucket
+qqlive_wzv5.json,wzv5/ScoopBucket
 aliyundrive_wzv5.json,wzv5/ScoopBucket
 utools_wzv5.json,wzv5/ScoopBucket
 regex-tool.json,wzv5/ScoopBucket
@@ -13671,7 +13672,7 @@ mpv-lazy_cc713.json,cc713/ownscoop
 scribus-dev_cc713.json,cc713/ownscoop
 bililive-go_cc713.json,cc713/ownscoop
 lx-music_cc713.json,cc713/ownscoop
-gitextensions.json,cc713/ownscoop
+gitextensions_cc713.json,cc713/ownscoop
 qpdf_cc713.json,cc713/ownscoop
 manuskript_cc713.json,cc713/ownscoop
 GARbro-Mod.json,cc713/ownscoop
