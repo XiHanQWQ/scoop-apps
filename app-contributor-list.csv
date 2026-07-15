@@ -2103,7 +2103,7 @@ obs-plugin-droidcam.json,ScoopInstaller/Extras
 real.json,ScoopInstaller/Extras
 wifi-manager.json,ScoopInstaller/Extras
 screen-saver-control.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 godot-version-manager.json,ScoopInstaller/Extras
 vcredist2012.json,ScoopInstaller/Extras
 clustalw.json,ScoopInstaller/Extras
@@ -3605,6 +3605,7 @@ winlibs-mingw-ucrt.json,chawyehsu/dorado
 anchor-cli.json,chawyehsu/dorado
 orwell-dev-cpp-no-compiler.json,chawyehsu/dorado
 zap.json,chawyehsu/dorado
+electerm_chawyehsu.json,chawyehsu/dorado
 wasm-pack.json,chawyehsu/dorado
 opentrace_chawyehsu.json,chawyehsu/dorado
 nbtexplorer.json,chawyehsu/dorado
@@ -7732,7 +7733,7 @@ rsvg-convert.json,cderv/r-bucket
 r-release.json,cderv/r-bucket
 beads_cderv.json,cderv/r-bucket
 tinytex-min.json,cderv/r-bucket
-rstudio-preview.json,cderv/r-bucket
+rstudio-preview_cderv.json,cderv/r-bucket
 rstudio-daily-electron.json,cderv/r-bucket
 rtk_cderv.json,cderv/r-bucket
 ollama_cderv.json,cderv/r-bucket
@@ -9017,7 +9018,7 @@ goldeneye-recomp.json,borger/scoop-emulators
 eden_borger.json,borger/scoop-emulators
 eden-nightly_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
-dolphin-dev.json,borger/scoop-emulators
+dolphin-dev_borger.json,borger/scoop-emulators
 bsnes-mt_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
@@ -9041,7 +9042,7 @@ mesen-s_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
@@ -9050,7 +9051,7 @@ retroarch-nightly_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 shipwright_borger.json,borger/scoop-emulators
 xenia-canary.json,borger/scoop-emulators
-redream-dev.json,borger/scoop-emulators
+redream-dev_borger.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
 xemu-dev_borger.json,borger/scoop-emulators
@@ -13689,7 +13690,7 @@ animeko_cc713.json,cc713/ownscoop
 nekoray.json,cc713/ownscoop
 goldendict-ng.json,cc713/ownscoop
 foobox-cn.json,cc713/ownscoop
-rstudio.json,cc713/ownscoop
+rstudio_cc713.json,cc713/ownscoop
 Java-RPG-Maker-MV-Decrypter.json,cc713/ownscoop
 Weasel_cc713.json,cc713/ownscoop
 git-cola_cc713.json,cc713/ownscoop
@@ -14908,7 +14909,7 @@ multipass_HUMORCE.json,HUMORCE/nuke
 telegram_HUMORCE.json,HUMORCE/nuke
 slam.json,HUMORCE/nuke
 xenos.json,HUMORCE/nuke
-ruffle-nightly.json,HUMORCE/nuke
+ruffle-nightly_HUMORCE.json,HUMORCE/nuke
 fiddler-classic.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 hkbtest.json,HUMORCE/nuke
@@ -16342,7 +16343,7 @@ CodeReviewTools.json,bright-angel/scoop-bucket
 girsh.json,bright-angel/scoop-bucket
 Frchannel.json,bright-angel/scoop-bucket
 AppInfoScanner.json,bright-angel/scoop-bucket
-MDUT_bright-angel.json,bright-angel/scoop-bucket
+MDUT.json,bright-angel/scoop-bucket
 MP3Steno.json,bright-angel/scoop-bucket
 scan4all_bright-angel.json,bright-angel/scoop-bucket
 JWTPyCrack.json,bright-angel/scoop-bucket
@@ -16799,7 +16800,7 @@ substitution_cipher_solver.json,bright-angel/scoop-bucket
 Sharp-dumpkey.json,bright-angel/scoop-bucket
 PotatoTool.json,bright-angel/scoop-bucket
 GetMail.json,bright-angel/scoop-bucket
-openjdk_bright-angel.json,bright-angel/scoop-bucket
+openjdk.json,bright-angel/scoop-bucket
 dahuaExploitGUI.json,bright-angel/scoop-bucket
 f5.json,bright-angel/scoop-bucket
 burp-CaptchaDos.json,bright-angel/scoop-bucket
