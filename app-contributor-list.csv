@@ -2218,7 +2218,7 @@ freemove.json,ScoopInstaller/Extras
 launchy.json,ScoopInstaller/Extras
 shotcut.json,ScoopInstaller/Extras
 iris.json,ScoopInstaller/Extras
-g-helper_ScoopInstaller.json,ScoopInstaller/Extras
+g-helper.json,ScoopInstaller/Extras
 mps.json,ScoopInstaller/Extras
 filelight.json,ScoopInstaller/Extras
 firewallappblocker.json,ScoopInstaller/Extras
@@ -8073,6 +8073,7 @@ Nimbalyst.json,dodorz/scoop
 Lingoes.json,dodorz/scoop
 WinMemoryCleaner_dodorz.json,dodorz/scoop
 RainlendarLite.json,dodorz/scoop
+DevinDesktop.json,dodorz/scoop
 CAJViewer.json,dodorz/scoop
 SoftMakerFreeOffice.json,dodorz/scoop
 LMStudio_dodorz.json,dodorz/scoop
@@ -9050,7 +9051,7 @@ redream_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 shipwright_borger.json,borger/scoop-emulators
-xenia-canary.json,borger/scoop-emulators
+xenia-canary_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
@@ -9089,7 +9090,7 @@ bluelife-host-editor.json,ViCrack/scoop-bucket
 observerward.json,ViCrack/scoop-bucket
 quake_rs_ViCrack.json,ViCrack/scoop-bucket
 wechatbaktool.json,ViCrack/scoop-bucket
-afrog_ViCrack.json,ViCrack/scoop-bucket
+afrog.json,ViCrack/scoop-bucket
 struts2vulsscantools.json,ViCrack/scoop-bucket
 curl-impersonate.json,ViCrack/scoop-bucket
 xxl-job-attack.json,ViCrack/scoop-bucket
@@ -9458,7 +9459,7 @@ xsv_akirco.json,akirco/aki-apps
 powertoys_akirco.json,akirco/aki-apps
 vcredist2019.json,akirco/aki-apps
 telegram_akirco.json,akirco/aki-apps
-feishu_akirco.json,akirco/aki-apps
+feishu.json,akirco/aki-apps
 geekuninstaller_akirco.json,akirco/aki-apps
 Qoder_akirco.json,akirco/aki-apps
 netch_akirco.json,akirco/aki-apps
