@@ -2837,6 +2837,7 @@ kryptor.json,ScoopInstaller/Extras
 sfk.json,ScoopInstaller/Extras
 calibre-normal.json,ScoopInstaller/Extras
 xournalpp.json,ScoopInstaller/Extras
+videosubfinder.json,ScoopInstaller/Extras
 persepolis.json,ScoopInstaller/Extras
 didder.json,ScoopInstaller/Extras
 ditto.json,ScoopInstaller/Extras
@@ -9006,7 +9007,7 @@ smoothie.json,couleur-tweak-tips/utils
 autogpuaffinity.json,couleur-tweak-tips/utils
 hotkey-resolution-changer.json,couleur-tweak-tips/utils
 mouse-tester.json,couleur-tweak-tips/utils
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 xenia-canary.json,borger/scoop-emulators
 xemu-dev_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
@@ -9032,7 +9033,7 @@ ares_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 shadps4-dev_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
-eden-nightly_borger.json,borger/scoop-emulators
+eden-nightly.json,borger/scoop-emulators
 gopher64_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 2ship2harkinian.json,borger/scoop-emulators
@@ -9126,7 +9127,7 @@ weflow.json,ViCrack/scoop-bucket
 java-chains.json,ViCrack/scoop-bucket
 upterm.json,ViCrack/scoop-bucket
 bluelife-keyfreeze.json,ViCrack/scoop-bucket
-dnsx.json,ViCrack/scoop-bucket
+dnsx_ViCrack.json,ViCrack/scoop-bucket
 confuserex-cli.json,ViCrack/scoop-bucket
 TscanPlus_ViCrack.json,ViCrack/scoop-bucket
 ztasker.json,ViCrack/scoop-bucket
@@ -9414,7 +9415,7 @@ s_akirco.json,akirco/aki-apps
 nexusfont_akirco.json,akirco/aki-apps
 musicfox.json,akirco/aki-apps
 rclone-browser_akirco.json,akirco/aki-apps
-github.json,akirco/aki-apps
+github_akirco.json,akirco/aki-apps
 vcredist2015.json,akirco/aki-apps
 figlet_akirco.json,akirco/aki-apps
 selenium_akirco.json,akirco/aki-apps
@@ -13196,7 +13197,7 @@ librescore.json,seumsc/scoop-seu
 optiscaler-client.json,seumsc/scoop-seu
 mhc2-dev.json,seumsc/scoop-seu
 hmcl-dev.json,seumsc/scoop-seu
-videosubfinder.json,seumsc/scoop-seu
+videosubfinder_seumsc.json,seumsc/scoop-seu
 uefitool_seumsc.json,seumsc/scoop-seu
 pfsextractor.json,seumsc/scoop-seu
 steamcommunity-302.json,seumsc/scoop-seu
@@ -15818,6 +15819,7 @@ oraclejdk8_ChinLong.json,ChinLong/scoop-customize
 seanime-desktop.json,Rinkerbel/scooped
 shiru.json,Rinkerbel/scooped
 migu.json,Rinkerbel/scooped
+steamtokendumper.json,Rinkerbel/scooped
 sharex-hdr.json,Rinkerbel/scooped
 autobrr.json,Rinkerbel/scooped
 seanime-server.json,Rinkerbel/scooped
@@ -15836,7 +15838,6 @@ totoro.json,Rinkerbel/scooped
 seanime-denshi-canary.json,Rinkerbel/scooped
 shokoserver.json,Rinkerbel/scooped
 toru.json,Rinkerbel/scooped
-steamtokendumper.json,Rinkerbel/scooped
 utools_LaelLuo.json,LaelLuo/scoop
 wechatdevtools_LaelLuo.json,LaelLuo/scoop
 easytshark.json,LaelLuo/scoop
@@ -15897,7 +15898,7 @@ codebuddy.json,LaelLuo/scoop
 capcut_LaelLuo.json,LaelLuo/scoop
 trae-cn.json,LaelLuo/scoop
 codekanban.json,LaelLuo/scoop
-open-pencil_LaelLuo.json,LaelLuo/scoop
+open-pencil.json,LaelLuo/scoop
 oomol_LaelLuo.json,LaelLuo/scoop
 qoder.json,LaelLuo/scoop
 moonbit.json,LaelLuo/scoop
