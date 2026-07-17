@@ -9010,7 +9010,7 @@ smoothie.json,couleur-tweak-tips/utils
 autogpuaffinity.json,couleur-tweak-tips/utils
 hotkey-resolution-changer.json,couleur-tweak-tips/utils
 mouse-tester.json,couleur-tweak-tips/utils
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
 xemu-dev_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
@@ -10623,7 +10623,6 @@ biliup-rs.json,DoveBoy/Apps
 wx-channels-download.json,DoveBoy/Apps
 pmas.json,DoveBoy/Apps
 piliplus-portable.json,DoveBoy/Apps
-chromium_DoveBoy.json,DoveBoy/Apps
 webcam-on-off_DoveBoy.json,DoveBoy/Apps
 regjump_DoveBoy.json,DoveBoy/Apps
 mediacreationtool-bat.json,DoveBoy/Apps
@@ -15904,7 +15903,7 @@ trae-cn.json,LaelLuo/scoop
 codekanban.json,LaelLuo/scoop
 open-pencil.json,LaelLuo/scoop
 oomol_LaelLuo.json,LaelLuo/scoop
-qoder_LaelLuo.json,LaelLuo/scoop
+qoder.json,LaelLuo/scoop
 moonbit.json,LaelLuo/scoop
 droid_LaelLuo.json,LaelLuo/scoop
 google-antigravity_LaelLuo.json,LaelLuo/scoop
