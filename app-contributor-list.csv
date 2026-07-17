@@ -7716,11 +7716,13 @@ mq.json,cderv/r-bucket
 q2.json,cderv/r-bucket
 r-release.json,cderv/r-bucket
 rig.json,cderv/r-bucket
+cairn.json,cderv/r-bucket
 mq-dbg.json,cderv/r-bucket
 github-mcp-server.json,cderv/r-bucket
 just-lsp.json,cderv/r-bucket
 chrome-headless-shell.json,cderv/r-bucket
 ggsql.json,cderv/r-bucket
+entracte.json,cderv/r-bucket
 rsvg-convert-miyako.json,cderv/r-bucket
 rstudio-2023.12.json,cderv/r-bucket
 rstudio-2026.01.json,cderv/r-bucket
@@ -9047,7 +9049,7 @@ dolphin_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
-mgba-dev.json,borger/scoop-emulators
+mgba-dev_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
@@ -15895,7 +15897,7 @@ trae_LaelLuo.json,LaelLuo/scoop
 wechat_LaelLuo.json,LaelLuo/scoop
 workbuddy_LaelLuo.json,LaelLuo/scoop
 codebuddy.json,LaelLuo/scoop
-capcut_LaelLuo.json,LaelLuo/scoop
+capcut.json,LaelLuo/scoop
 trae-cn.json,LaelLuo/scoop
 codekanban.json,LaelLuo/scoop
 open-pencil.json,LaelLuo/scoop

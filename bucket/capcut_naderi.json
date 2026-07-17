@@ -1,45 +1,11 @@
 {
-    "version": "4.1.11.55",
-    "description": "Free messaging and calling app by Tencent",
-    "homepage": "https://www.wechat.com/",
-    "license": {
-        "identifier": "Proprietary",
-        "url": "https://www.wechat.com/en/service_terms.html"
-    },
-    "architecture": {
-        "64bit": {
-            "url": "https://github.com/cscnk52/wechat-windows-versions/releases/download/v4.1.11.55/weixin_4.1.11.55.exe#/dl.7z",
-            "hash": "c3032fedf2e4025bf7ef87504fd98e46d0fd6db4e5e82ea3d1d0b70e85143cd0"
-        }
-    },
-    "installer": {
-        "script": [
-            "Expand-7zipArchive \"$dir\\install.7z\" \"$dir\" -Removal",
-            "Remove-Item \"$dir\\`$*\", \"$dir\\Uninst*\" -Force -Recurse",
-            "$reg_path = \"HKCU:Software\\Tencent\\Weixin\"",
-            "if (!(Test-Path \"$reg_path\")) {",
-            "    New-Item -Path \"$reg_path\" -Type Directory -Force | Out-Null",
-            "}",
-            "New-ItemProperty -Path $reg_path -Name \"InstallPath\" -Value \"$dir\" -Force | Out-Null"
-        ]
-    },
-    "shortcuts": [
-        [
-            "Weixin.exe",
-            "WeChat"
-        ]
-    ],
-    "persist": "xwechat_files",
-    "checkver": {
-        "github": "https://github.com/cscnk52/wechat-windows-versions"
-    },
-    "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": "https://github.com/cscnk52/wechat-windows-versions/releases/download/v$version/weixin_$version.exe#/dl.7z"
-            }
-        }
-    },
+    "version": "8.9.1.3802",
+    "description": "All-in-one video editing application produced by ByteDance",
+    "homepage": "https://www.capcut.com/",
+    "license": "Proprietary",
+    "url": "https://sf16-web-tos-buz.capcutstatic.com/obj/capcut-web-buz-sg/packages/CapCut_8_9_1_3802_capcutpc_0_creatortool.exe#/capcut.7z",
+    "hash": "4d748434e2bf29b5792c7b5e83224ab13bb718f16c0eb063ba055bfebc186978",
+    "extract_dir": "JYPacket/8.9.1.3802",
     "post_install": [
         "#region scoop-portable-profile",
         "# Portable profile helpers for Scoop manifests.",
@@ -178,7 +144,8 @@
         "}",
         "#endregion",
         "Invoke-PortableMappings -Action Install -Context @{ Dir = $dir; PersistDir = $persist_dir } -Mappings @(",
-        "    @{ Label = 'xwechat-roaming'; Source = 'AppData/Tencent/xwechat'; Target = \"$persist_dir/roaming\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' }",
+        "    @{ Label = 'local'; Source = 'LocalAppData/CapCut'; Target = \"$persist_dir/local\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' },",
+        "    @{ Label = 'bytedance-local'; Source = 'LocalAppData/Bytedance/CapCut'; Target = \"$persist_dir/bytedance-capcut\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' }",
         ") -Log:$true"
     ],
     "pre_uninstall": [
@@ -319,7 +286,24 @@
         "}",
         "#endregion",
         "Invoke-PortableMappings -Action Uninstall -Context @{ Dir = $dir; PersistDir = $persist_dir } -Mappings @(",
-        "    @{ Label = 'xwechat-roaming'; Source = 'AppData/Tencent/xwechat'; Target = \"$persist_dir/roaming\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' }",
+        "    @{ Label = 'local'; Source = 'LocalAppData/CapCut'; Target = \"$persist_dir/local\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' },",
+        "    @{ Label = 'bytedance-local'; Source = 'LocalAppData/Bytedance/CapCut'; Target = \"$persist_dir/bytedance-capcut\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' }",
         ") -Log:$true"
-    ]
+    ],
+    "shortcuts": [
+        [
+            "CapCut.exe",
+            "CapCut"
+        ]
+    ],
+    "checkver": {
+        "url": "https://editor-api-sg.capcut.com/service/settings/v3/?app=1&aid=562354&device_platform=windows&from_aid=562354&from_channel=capcutpc_0",
+        "jsonpath": "$.data.settings.installer_downloader_config.url",
+        "regex": "(?<url>[^\\\"]*CapCut_(?<major>[\\d]+)_(?<minor>[\\d]+)_(?<patch>[\\d]+)_(?<build>[\\d]+)_capcutpc_0_creatortool\\.exe)",
+        "replace": "${major}.${minor}.${patch}.${build}"
+    },
+    "autoupdate": {
+        "url": "$matchUrl#/capcut.7z",
+        "extract_dir": "JYPacket/$version"
+    }
 }
