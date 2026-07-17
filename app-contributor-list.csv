@@ -9023,7 +9023,7 @@ steam-rom-manager_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 starship_borger.json,borger/scoop-emulators
-ppsspp-dev.json,borger/scoop-emulators
+ppsspp-dev_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
@@ -9033,7 +9033,7 @@ ares_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 shadps4-dev_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
-eden-nightly.json,borger/scoop-emulators
+eden-nightly_borger.json,borger/scoop-emulators
 gopher64_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 2ship2harkinian.json,borger/scoop-emulators
@@ -10511,7 +10511,7 @@ opensearcher-win7.json,DoveBoy/Apps
 nextai-translator_DoveBoy.json,DoveBoy/Apps
 fetch-github-hosts.json,DoveBoy/Apps
 quardcrt.json,DoveBoy/Apps
-dandanplay.json,DoveBoy/Apps
+dandanplay_DoveBoy.json,DoveBoy/Apps
 xiaochao.json,DoveBoy/Apps
 mihomo_DoveBoy.json,DoveBoy/Apps
 dreamcreator-portable.json,DoveBoy/Apps
@@ -13144,7 +13144,7 @@ youwee.json,TianXiaTech/scoop-txt
 imewlconverter_TianXiaTech.json,TianXiaTech/scoop-txt
 aliyundrive_TianXiaTech.json,TianXiaTech/scoop-txt
 Noi_TianXiaTech.json,TianXiaTech/scoop-txt
-paseo_TianXiaTech.json,TianXiaTech/scoop-txt
+paseo.json,TianXiaTech/scoop-txt
 recordly.json,TianXiaTech/scoop-txt
 writingTools.json,TianXiaTech/scoop-txt
 clash-dotnet.json,seumsc/scoop-seu
@@ -15105,7 +15105,7 @@ xpdf-tools-LSP-latin2.json,HUMORCE/nuke
 errorlookup.json,HUMORCE/nuke
 steam-authenticator.json,HUMORCE/nuke
 xpdf-tools-LSP_HUMORCE.json,HUMORCE/nuke
-ruffle-nightly_HUMORCE.json,HUMORCE/nuke
+ruffle-nightly.json,HUMORCE/nuke
 fiddler-classic-addon-cookietag.json,HUMORCE/nuke
 goreplay_HUMORCE.json,HUMORCE/nuke
 jenkins_HUMORCE.json,HUMORCE/nuke
