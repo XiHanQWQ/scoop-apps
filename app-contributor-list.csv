@@ -9311,7 +9311,7 @@ which_akirco.json,akirco/aki-apps
 electerm_akirco.json,akirco/aki-apps
 poetry_akirco.json,akirco/aki-apps
 windows-terminal-quake_akirco.json,akirco/aki-apps
-doubao.json,akirco/aki-apps
+doubao_akirco.json,akirco/aki-apps
 fleet.json,akirco/aki-apps
 youtube-dl-gui_akirco.json,akirco/aki-apps
 sox_akirco.json,akirco/aki-apps
@@ -10048,6 +10048,7 @@ clash-rev-compatible.json,DoveBoy/Apps
 litespeedtest.json,DoveBoy/Apps
 iobit-unlocker_DoveBoy.json,DoveBoy/Apps
 shadowsocks-rust_DoveBoy.json,DoveBoy/Apps
+emeditor_DoveBoy.json,DoveBoy/Apps
 xray_DoveBoy.json,DoveBoy/Apps
 clashtui_DoveBoy.json,DoveBoy/Apps
 v2raya.json,DoveBoy/Apps
@@ -13144,7 +13145,7 @@ youwee.json,TianXiaTech/scoop-txt
 imewlconverter_TianXiaTech.json,TianXiaTech/scoop-txt
 aliyundrive_TianXiaTech.json,TianXiaTech/scoop-txt
 Noi_TianXiaTech.json,TianXiaTech/scoop-txt
-paseo.json,TianXiaTech/scoop-txt
+paseo_TianXiaTech.json,TianXiaTech/scoop-txt
 recordly.json,TianXiaTech/scoop-txt
 writingTools.json,TianXiaTech/scoop-txt
 clash-dotnet.json,seumsc/scoop-seu
@@ -13201,7 +13202,7 @@ videosubfinder_seumsc.json,seumsc/scoop-seu
 uefitool_seumsc.json,seumsc/scoop-seu
 pfsextractor.json,seumsc/scoop-seu
 steamcommunity-302.json,seumsc/scoop-seu
-kook_seumsc.json,seumsc/scoop-seu
+kook.json,seumsc/scoop-seu
 renpy-translator.json,seumsc/scoop-seu
 dpeaklim.json,seumsc/scoop-seu
 qcadcam.json,seumsc/scoop-seu
@@ -15105,7 +15106,7 @@ xpdf-tools-LSP-latin2.json,HUMORCE/nuke
 errorlookup.json,HUMORCE/nuke
 steam-authenticator.json,HUMORCE/nuke
 xpdf-tools-LSP_HUMORCE.json,HUMORCE/nuke
-ruffle-nightly.json,HUMORCE/nuke
+ruffle-nightly_HUMORCE.json,HUMORCE/nuke
 fiddler-classic-addon-cookietag.json,HUMORCE/nuke
 goreplay_HUMORCE.json,HUMORCE/nuke
 jenkins_HUMORCE.json,HUMORCE/nuke
@@ -15900,7 +15901,7 @@ trae-cn.json,LaelLuo/scoop
 codekanban.json,LaelLuo/scoop
 open-pencil.json,LaelLuo/scoop
 oomol_LaelLuo.json,LaelLuo/scoop
-qoder.json,LaelLuo/scoop
+qoder_LaelLuo.json,LaelLuo/scoop
 moonbit.json,LaelLuo/scoop
 droid_LaelLuo.json,LaelLuo/scoop
 google-antigravity_LaelLuo.json,LaelLuo/scoop
@@ -15981,7 +15982,7 @@ busybox_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 r-4.3.0.json,ShuguangSun/sgs-scoop-bucket
 rstudio_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 hledger_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+r-devel.json,ShuguangSun/sgs-scoop-bucket
 mupdf_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 cmake_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 defineEditor.json,ShuguangSun/sgs-scoop-bucket
