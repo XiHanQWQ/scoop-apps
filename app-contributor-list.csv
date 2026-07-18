@@ -1653,7 +1653,7 @@ universal-ctags.json,ScoopInstaller/Extras
 netbeans.json,ScoopInstaller/Extras
 gog-galaxy-plugin-downloader.json,ScoopInstaller/Extras
 gitahead.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 ocenaudio.json,ScoopInstaller/Extras
 sdl2-mixer.json,ScoopInstaller/Extras
 throne.json,ScoopInstaller/Extras
@@ -9030,7 +9030,7 @@ ppsspp-dev_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
-dolphin-dev_borger.json,borger/scoop-emulators
+dolphin-dev.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
@@ -9940,7 +9940,7 @@ clash-mini.json,DoveBoy/Apps
 restart-explorer_DoveBoy.json,DoveBoy/Apps
 imagemagick-lean_DoveBoy.json,DoveBoy/Apps
 varia-portable.json,DoveBoy/Apps
-winget-preview_DoveBoy.json,DoveBoy/Apps
+winget-preview.json,DoveBoy/Apps
 zettlr_DoveBoy.json,DoveBoy/Apps
 qtunblockneteasemusic.json,DoveBoy/Apps
 delta_DoveBoy.json,DoveBoy/Apps
@@ -10435,7 +10435,6 @@ text-generation-webui.json,DoveBoy/Apps
 tiny11builder.json,DoveBoy/Apps
 iris.json,DoveBoy/Apps
 joplin-pre_DoveBoy.json,DoveBoy/Apps
-helium_DoveBoy.json,DoveBoy/Apps
 cudatext.json,DoveBoy/Apps
 crosspaste.json,DoveBoy/Apps
 modernflyouts_DoveBoy.json,DoveBoy/Apps
@@ -10664,6 +10663,7 @@ quarkpantool.json,DoveBoy/Apps
 waifu2x-ncnn-vulkan_DoveBoy.json,DoveBoy/Apps
 opensearcher_DoveBoy.json,DoveBoy/Apps
 anto.json,DoveBoy/Apps
+forkgram_DoveBoy.json,DoveBoy/Apps
 procs_DoveBoy.json,DoveBoy/Apps
 trafficmonitor_DoveBoy.json,DoveBoy/Apps
 scrcpy_DoveBoy.json,DoveBoy/Apps
@@ -11141,7 +11141,6 @@ xion-audio-player.json,naderi/scoop-bucket
 ocam_naderi.json,naderi/scoop-bucket
 dogecoin-core.json,naderi/scoop-bucket
 mitec-network-scanner.json,naderi/scoop-bucket
-gemini-cli.json,naderi/scoop-bucket
 yt-spammer-purge.json,naderi/scoop-bucket
 font-source-sans.json,naderi/scoop-bucket
 phiola.json,naderi/scoop-bucket
@@ -11476,7 +11475,6 @@ xdm_naderi.json,naderi/scoop-bucket
 xpdf-reader.json,naderi/scoop-bucket
 unrar_naderi.json,naderi/scoop-bucket
 windjview_naderi.json,naderi/scoop-bucket
-encrypto.json,naderi/scoop-bucket
 avidemux-portable_naderi.json,naderi/scoop-bucket
 tracy_naderi.json,naderi/scoop-bucket
 hiddify-next.json,naderi/scoop-bucket
@@ -12147,7 +12145,6 @@ teevolution-mouse-drive.json,brian6932/dank-scoop
 twitch-hls-client-uri-protocol.json,brian6932/dank-scoop
 itunes-lean.json,brian6932/dank-scoop
 accentcolorizer.json,brian6932/dank-scoop
-filepilot_brian6932.json,brian6932/dank-scoop
 streamsave.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
 dandere2x.json,brian6932/dank-scoop
@@ -15899,7 +15896,7 @@ trae_LaelLuo.json,LaelLuo/scoop
 wechat_LaelLuo.json,LaelLuo/scoop
 workbuddy_LaelLuo.json,LaelLuo/scoop
 codebuddy.json,LaelLuo/scoop
-capcut.json,LaelLuo/scoop
+capcut_LaelLuo.json,LaelLuo/scoop
 trae-cn.json,LaelLuo/scoop
 codekanban.json,LaelLuo/scoop
 open-pencil.json,LaelLuo/scoop
