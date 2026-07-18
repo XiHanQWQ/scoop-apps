@@ -9016,7 +9016,7 @@ xemu-dev_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
-rpcs3_borger.json,borger/scoop-emulators
+rpcs3.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 bsnes-nightly.json,borger/scoop-emulators
 mednafen_borger.json,borger/scoop-emulators
@@ -9026,7 +9026,7 @@ steam-rom-manager_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 starship_borger.json,borger/scoop-emulators
-ppsspp-dev_borger.json,borger/scoop-emulators
+ppsspp-dev.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
@@ -9314,7 +9314,7 @@ which_akirco.json,akirco/aki-apps
 electerm_akirco.json,akirco/aki-apps
 poetry_akirco.json,akirco/aki-apps
 windows-terminal-quake_akirco.json,akirco/aki-apps
-doubao_akirco.json,akirco/aki-apps
+doubao.json,akirco/aki-apps
 fleet.json,akirco/aki-apps
 youtube-dl-gui_akirco.json,akirco/aki-apps
 sox_akirco.json,akirco/aki-apps
@@ -13779,7 +13779,7 @@ clash-verge-rev_maboloshi.json,maboloshi/scoop-private
 sarasa-gothic-sc-excerpt.json,maboloshi/scoop-private
 FileLocatorPro.json,maboloshi/scoop-private
 wechat_maboloshi.json,maboloshi/scoop-private
-doubao.json,maboloshi/scoop-private
+doubao_maboloshi.json,maboloshi/scoop-private
 guoheview.json,maboloshi/scoop-private
 n-m3u8dl-cli_maboloshi.json,maboloshi/scoop-private
 we-meet_maboloshi.json,maboloshi/scoop-private
@@ -14826,6 +14826,7 @@ cudatext-aoks.json,AntonOks/scoop-aoks
 seaweedFS-aoks.json,AntonOks/scoop-aoks
 everything_cli-aoks.json,AntonOks/scoop-aoks
 hfs3-aoks.json,AntonOks/scoop-aoks
+microsoft-coreutils-aoks.json,AntonOks/scoop-aoks
 folderscanultra-aoks.json,AntonOks/scoop-aoks
 qtemu-aoks.json,AntonOks/scoop-aoks
 sendtokindle-aoks.json,AntonOks/scoop-aoks
