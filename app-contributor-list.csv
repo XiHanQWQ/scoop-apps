@@ -6517,7 +6517,7 @@ musicbee-np.json,ScoopInstaller/Nonportable
 virtualbox-with-extension-pack-np.json,ScoopInstaller/Nonportable
 icaros-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 mactype-np_ScoopInstaller.json,ScoopInstaller/Nonportable
-teracopy-np_ScoopInstaller.json,ScoopInstaller/Nonportable
+teracopy-np.json,ScoopInstaller/Nonportable
 google-japanese-input-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 bluestacks4-np.json,ScoopInstaller/Nonportable
 office-365-apps-minimal-np_ScoopInstaller.json,ScoopInstaller/Nonportable
@@ -8197,7 +8197,7 @@ Astroterm.json,dodorz/scoop
 Graviton.json,dodorz/scoop
 NanoEmacsWin.json,dodorz/scoop
 CoolPDFReader.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 jmacs-static.json,dodorz/scoop
 rains.json,dodorz/scoop
 CzkawkaGUI.json,dodorz/scoop
@@ -9035,7 +9035,7 @@ sameboy_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 shadps4-dev_borger.json,borger/scoop-emulators
-snes9x-dev.json,borger/scoop-emulators
+snes9x-dev_borger.json,borger/scoop-emulators
 eden-nightly_borger.json,borger/scoop-emulators
 gopher64_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
@@ -9183,7 +9183,7 @@ decrypttools.json,ViCrack/scoop-bucket
 winasar.json,ViCrack/scoop-bucket
 dbx_ViCrack.json,ViCrack/scoop-bucket
 cherry-studio_ViCrack.json,ViCrack/scoop-bucket
-apifox_ViCrack.json,ViCrack/scoop-bucket
+apifox.json,ViCrack/scoop-bucket
 cyberapi.json,ViCrack/scoop-bucket
 siyuan.json,ViCrack/scoop-bucket
 certimate.json,ViCrack/scoop-bucket
@@ -10051,7 +10051,6 @@ clash-rev-compatible.json,DoveBoy/Apps
 litespeedtest.json,DoveBoy/Apps
 iobit-unlocker_DoveBoy.json,DoveBoy/Apps
 shadowsocks-rust_DoveBoy.json,DoveBoy/Apps
-emeditor_DoveBoy.json,DoveBoy/Apps
 xray_DoveBoy.json,DoveBoy/Apps
 clashtui_DoveBoy.json,DoveBoy/Apps
 v2raya.json,DoveBoy/Apps
@@ -10436,6 +10435,7 @@ text-generation-webui.json,DoveBoy/Apps
 tiny11builder.json,DoveBoy/Apps
 iris.json,DoveBoy/Apps
 joplin-pre_DoveBoy.json,DoveBoy/Apps
+helium_DoveBoy.json,DoveBoy/Apps
 cudatext.json,DoveBoy/Apps
 crosspaste.json,DoveBoy/Apps
 modernflyouts_DoveBoy.json,DoveBoy/Apps
@@ -15985,7 +15985,7 @@ busybox_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 r-4.3.0.json,ShuguangSun/sgs-scoop-bucket
 rstudio_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 hledger_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-r-devel.json,ShuguangSun/sgs-scoop-bucket
+r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 mupdf_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 cmake_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 defineEditor.json,ShuguangSun/sgs-scoop-bucket
