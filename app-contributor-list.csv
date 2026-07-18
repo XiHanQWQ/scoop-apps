@@ -9035,7 +9035,7 @@ sameboy_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 shadps4-dev_borger.json,borger/scoop-emulators
-snes9x-dev_borger.json,borger/scoop-emulators
+snes9x-dev.json,borger/scoop-emulators
 eden-nightly_borger.json,borger/scoop-emulators
 gopher64_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
@@ -9940,7 +9940,7 @@ clash-mini.json,DoveBoy/Apps
 restart-explorer_DoveBoy.json,DoveBoy/Apps
 imagemagick-lean_DoveBoy.json,DoveBoy/Apps
 varia-portable.json,DoveBoy/Apps
-winget-preview.json,DoveBoy/Apps
+winget-preview_DoveBoy.json,DoveBoy/Apps
 zettlr_DoveBoy.json,DoveBoy/Apps
 qtunblockneteasemusic.json,DoveBoy/Apps
 delta_DoveBoy.json,DoveBoy/Apps
@@ -10051,6 +10051,7 @@ clash-rev-compatible.json,DoveBoy/Apps
 litespeedtest.json,DoveBoy/Apps
 iobit-unlocker_DoveBoy.json,DoveBoy/Apps
 shadowsocks-rust_DoveBoy.json,DoveBoy/Apps
+emeditor_DoveBoy.json,DoveBoy/Apps
 xray_DoveBoy.json,DoveBoy/Apps
 clashtui_DoveBoy.json,DoveBoy/Apps
 v2raya.json,DoveBoy/Apps
@@ -10720,6 +10721,7 @@ neovim-nightly_hu3rror.json,hu3rror/scoop-muggle
 xanmod-WSL2-x64v4.json,hu3rror/scoop-muggle
 chromium-dev-avx2-nosync.json,hu3rror/scoop-muggle
 calibre-normal-cjk-patch.json,hu3rror/scoop-muggle
+bilibili-manga-downloader_hu3rror.json,hu3rror/scoop-muggle
 xanmod-WSL2-lts-x64v2.json,hu3rror/scoop-muggle
 animation-garden.json,hu3rror/scoop-muggle
 foobar2000-foobox-en-pack.json,hu3rror/scoop-muggle
@@ -10732,6 +10734,7 @@ telegram-beta.json,hu3rror/scoop-muggle
 fehviewer.json,hu3rror/scoop-muggle
 xanmod-WSL2-lts-x64v4.json,hu3rror/scoop-muggle
 hitomi-downloader_hu3rror.json,hu3rror/scoop-muggle
+163MusicLyrics-pro-6.5.json,hu3rror/scoop-muggle
 calibre-cjk.json,hu3rror/scoop-muggle
 xanmod-WSL2-x64v3.json,hu3rror/scoop-muggle
 winsw-mihomo-service.json,hu3rror/scoop-muggle
@@ -10745,6 +10748,7 @@ ungoogled-chromium-portable.json,hu3rror/scoop-muggle
 exa.json,hu3rror/scoop-muggle
 xanmod-WSL2-skylake.json,hu3rror/scoop-muggle
 logseq-legacy.json,hu3rror/scoop-muggle
+163MusicLyrics-lite-6.5.json,hu3rror/scoop-muggle
 nvidia-profile-inspector-pre.json,hu3rror/scoop-muggle
 run-hidden-console.json,hu3rror/scoop-muggle
 opentrace_hu3rror.json,hu3rror/scoop-muggle
@@ -10820,7 +10824,6 @@ chatall_hu3rror.json,hu3rror/scoop-muggle
 logseq-nightly_hu3rror.json,hu3rror/scoop-muggle
 thunders.json,hu3rror/scoop-muggle
 anx-reader_hu3rror.json,hu3rror/scoop-muggle
-bilibili-manga-downloader_hu3rror.json,hu3rror/scoop-muggle
 acttools.json,hu3rror/scoop-muggle
 cdnlookup.json,hu3rror/scoop-muggle
 scoop-backup-KNOXDEV_hu3rror.json,hu3rror/scoop-muggle
@@ -10854,7 +10857,6 @@ mosdns_hu3rror.json,hu3rror/scoop-muggle
 clipboard-online.json,hu3rror/scoop-muggle
 ilyrics.json,hu3rror/scoop-muggle
 smartsystemmenu_hu3rror.json,hu3rror/scoop-muggle
-163MusicLyrics-pro-6.5.json,hu3rror/scoop-muggle
 mpv-lazy_hu3rror.json,hu3rror/scoop-muggle
 cherry-studio_hu3rror.json,hu3rror/scoop-muggle
 mpv-handler.json,hu3rror/scoop-muggle
@@ -10907,7 +10909,6 @@ ImTip.json,hu3rror/scoop-muggle
 tsftool.json,hu3rror/scoop-muggle
 rimage-next.json,hu3rror/scoop-muggle
 vcredist-aio_hu3rror.json,hu3rror/scoop-muggle
-163MusicLyrics-lite-6.5.json,hu3rror/scoop-muggle
 nvidia-profile-inspector-revamped.json,hu3rror/scoop-muggle
 qemu-img.json,hu3rror/scoop-muggle
 webstorm_zhoujin7.json,zhoujin7/tomato
@@ -14856,7 +14857,7 @@ xpdf-tools-LSP-latin2.json,HUMORCE/nuke
 errorlookup.json,HUMORCE/nuke
 steam-authenticator.json,HUMORCE/nuke
 xpdf-tools-LSP_HUMORCE.json,HUMORCE/nuke
-ruffle-nightly.json,HUMORCE/nuke
+ruffle-nightly_HUMORCE.json,HUMORCE/nuke
 fiddler-classic-addon-cookietag.json,HUMORCE/nuke
 goreplay_HUMORCE.json,HUMORCE/nuke
 jenkins_HUMORCE.json,HUMORCE/nuke
@@ -15984,7 +15985,7 @@ busybox_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 r-4.3.0.json,ShuguangSun/sgs-scoop-bucket
 rstudio_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 hledger_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+r-devel.json,ShuguangSun/sgs-scoop-bucket
 mupdf_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 cmake_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 defineEditor.json,ShuguangSun/sgs-scoop-bucket
