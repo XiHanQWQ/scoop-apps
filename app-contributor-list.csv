@@ -10680,7 +10680,7 @@ clashrauto_DoveBoy.json,DoveBoy/Apps
 clash-rev-compatible-go120.json,DoveBoy/Apps
 video-srt-windows-with-ffmpeg.json,DoveBoy/Apps
 etcher-portable.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 ytplayer.json,DoveBoy/Apps
 jarkviewer_DoveBoy.json,DoveBoy/Apps
 r3nzskin.json,DoveBoy/Apps
@@ -13054,7 +13054,7 @@ videosubfinder_seumsc.json,seumsc/scoop-seu
 uefitool_seumsc.json,seumsc/scoop-seu
 pfsextractor.json,seumsc/scoop-seu
 steamcommunity-302.json,seumsc/scoop-seu
-kook.json,seumsc/scoop-seu
+kook_seumsc.json,seumsc/scoop-seu
 renpy-translator.json,seumsc/scoop-seu
 dpeaklim.json,seumsc/scoop-seu
 qcadcam.json,seumsc/scoop-seu
@@ -14856,7 +14856,7 @@ xpdf-tools-LSP-latin2.json,HUMORCE/nuke
 errorlookup.json,HUMORCE/nuke
 steam-authenticator.json,HUMORCE/nuke
 xpdf-tools-LSP_HUMORCE.json,HUMORCE/nuke
-ruffle-nightly_HUMORCE.json,HUMORCE/nuke
+ruffle-nightly.json,HUMORCE/nuke
 fiddler-classic-addon-cookietag.json,HUMORCE/nuke
 goreplay_HUMORCE.json,HUMORCE/nuke
 jenkins_HUMORCE.json,HUMORCE/nuke
