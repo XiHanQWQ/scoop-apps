@@ -8197,7 +8197,7 @@ Astroterm.json,dodorz/scoop
 Graviton.json,dodorz/scoop
 NanoEmacsWin.json,dodorz/scoop
 CoolPDFReader.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 jmacs-static.json,dodorz/scoop
 rains.json,dodorz/scoop
 CzkawkaGUI.json,dodorz/scoop
@@ -9016,7 +9016,7 @@ xemu-dev_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
-rpcs3.json,borger/scoop-emulators
+rpcs3_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 bsnes-nightly.json,borger/scoop-emulators
 mednafen_borger.json,borger/scoop-emulators
@@ -9050,7 +9050,7 @@ dolphin_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
-mgba-dev_borger.json,borger/scoop-emulators
+mgba-dev.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
@@ -15015,7 +15015,7 @@ xpdf-tools-LSP-latin2.json,HUMORCE/nuke
 errorlookup.json,HUMORCE/nuke
 steam-authenticator.json,HUMORCE/nuke
 xpdf-tools-LSP_HUMORCE.json,HUMORCE/nuke
-ruffle-nightly_HUMORCE.json,HUMORCE/nuke
+ruffle-nightly.json,HUMORCE/nuke
 fiddler-classic-addon-cookietag.json,HUMORCE/nuke
 goreplay_HUMORCE.json,HUMORCE/nuke
 jenkins_HUMORCE.json,HUMORCE/nuke
