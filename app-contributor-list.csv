@@ -9059,7 +9059,7 @@ cemu_borger.json,borger/scoop-emulators
 goldeneye-recomp.json,borger/scoop-emulators
 visualboyadvance-m.json,borger/scoop-emulators
 spaghettikart.json,borger/scoop-emulators
-duckstation-preview_borger.json,borger/scoop-emulators
+duckstation-preview.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
@@ -10514,7 +10514,7 @@ opensearcher-win7.json,DoveBoy/Apps
 nextai-translator_DoveBoy.json,DoveBoy/Apps
 fetch-github-hosts.json,DoveBoy/Apps
 quardcrt.json,DoveBoy/Apps
-dandanplay_DoveBoy.json,DoveBoy/Apps
+dandanplay.json,DoveBoy/Apps
 xiaochao.json,DoveBoy/Apps
 mihomo_DoveBoy.json,DoveBoy/Apps
 dreamcreator-portable.json,DoveBoy/Apps
