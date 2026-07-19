@@ -1653,7 +1653,7 @@ universal-ctags.json,ScoopInstaller/Extras
 netbeans.json,ScoopInstaller/Extras
 gog-galaxy-plugin-downloader.json,ScoopInstaller/Extras
 gitahead.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 ocenaudio.json,ScoopInstaller/Extras
 sdl2-mixer.json,ScoopInstaller/Extras
 throne.json,ScoopInstaller/Extras
@@ -9026,7 +9026,7 @@ steam-rom-manager_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 starship_borger.json,borger/scoop-emulators
-ppsspp-dev.json,borger/scoop-emulators
+ppsspp-dev_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
@@ -9050,7 +9050,7 @@ dolphin_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
-mgba-dev.json,borger/scoop-emulators
+mgba-dev_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
@@ -15015,7 +15015,7 @@ xpdf-tools-LSP-latin2.json,HUMORCE/nuke
 errorlookup.json,HUMORCE/nuke
 steam-authenticator.json,HUMORCE/nuke
 xpdf-tools-LSP_HUMORCE.json,HUMORCE/nuke
-ruffle-nightly.json,HUMORCE/nuke
+ruffle-nightly_HUMORCE.json,HUMORCE/nuke
 fiddler-classic-addon-cookietag.json,HUMORCE/nuke
 goreplay_HUMORCE.json,HUMORCE/nuke
 jenkins_HUMORCE.json,HUMORCE/nuke
