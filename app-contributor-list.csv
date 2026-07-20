@@ -6497,10 +6497,12 @@ zerotier-np.json,ScoopInstaller/Nonportable
 devtoys-np.json,ScoopInstaller/Nonportable
 powertoys-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 burp-suite-pro-np.json,ScoopInstaller/Nonportable
+k-lite-codec-pack-standard-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 qttabbar-np.json,ScoopInstaller/Nonportable
 vokoscreenng-np.json,ScoopInstaller/Nonportable
 spotx-np.json,ScoopInstaller/Nonportable
 files-preview-np.json,ScoopInstaller/Nonportable
+k-lite-codec-pack-basic-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 nvidia-display-driver-dch-with-3d-vision-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 office-365-apps-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 file-converter-np.json,ScoopInstaller/Nonportable
@@ -6571,6 +6573,7 @@ winbtrfs-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 nodejs-np.json,ScoopInstaller/Nonportable
 glasswire-np.json,ScoopInstaller/Nonportable
 tunnelbear-np.json,ScoopInstaller/Nonportable
+k-lite-codec-pack-mega-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 nvidia-display-driver-with-3d-vision-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 equalizer-apo-np.json,ScoopInstaller/Nonportable
 peace-np.json,ScoopInstaller/Nonportable
@@ -6592,6 +6595,7 @@ pgadmin4-np.json,ScoopInstaller/Nonportable
 files-np.json,ScoopInstaller/Nonportable
 notepads-np.json,ScoopInstaller/Nonportable
 vpnc-front-end-np_ScoopInstaller.json,ScoopInstaller/Nonportable
+k-lite-codec-pack-full-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 translucenttb-np.json,ScoopInstaller/Nonportable
 stevedore-np.json,ScoopInstaller/Nonportable
 resilio-sync-np.json,ScoopInstaller/Nonportable
@@ -9013,7 +9017,7 @@ hotkey-resolution-changer.json,couleur-tweak-tips/utils
 mouse-tester.json,couleur-tweak-tips/utils
 pcsx2-dev_borger.json,borger/scoop-emulators
 xenia-canary.json,borger/scoop-emulators
-xemu-dev_borger.json,borger/scoop-emulators
+xemu-dev.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
@@ -9791,7 +9795,7 @@ vhs_charmbracelet.json,charmbracelet/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
 freeze.json,charmbracelet/scoop-bucket
 mods_charmbracelet.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
@@ -13042,7 +13046,7 @@ ffmpegFreeUI_TianXiaTech.json,TianXiaTech/scoop-txt
 neohtop_TianXiaTech.json,TianXiaTech/scoop-txt
 miru-app.json,TianXiaTech/scoop-txt
 winsw-alpha.json,TianXiaTech/scoop-txt
-mgtv.json,TianXiaTech/scoop-txt
+mgtv_TianXiaTech.json,TianXiaTech/scoop-txt
 yuque_TianXiaTech.json,TianXiaTech/scoop-txt
 blinko.json,TianXiaTech/scoop-txt
 jianyingpro_TianXiaTech.json,TianXiaTech/scoop-txt
