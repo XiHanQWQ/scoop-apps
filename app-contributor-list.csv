@@ -9016,7 +9016,7 @@ xemu-dev_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
-rpcs3_borger.json,borger/scoop-emulators
+rpcs3.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 bsnes-nightly.json,borger/scoop-emulators
 mednafen_borger.json,borger/scoop-emulators
@@ -9026,7 +9026,7 @@ steam-rom-manager_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 starship_borger.json,borger/scoop-emulators
-ppsspp-dev_borger.json,borger/scoop-emulators
+ppsspp-dev.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
@@ -9343,6 +9343,7 @@ nano_akirco.json,akirco/aki-apps
 xh_akirco.json,akirco/aki-apps
 cowsay_akirco.json,akirco/aki-apps
 pwsh_akirco.json,akirco/aki-apps
+pigma.json,akirco/aki-apps
 aya.json,akirco/aki-apps
 typora_akirco.json,akirco/aki-apps
 wechat-work.json,akirco/aki-apps
@@ -11401,7 +11402,6 @@ xdm_naderi.json,naderi/scoop-bucket
 xpdf-reader.json,naderi/scoop-bucket
 unrar_naderi.json,naderi/scoop-bucket
 windjview_naderi.json,naderi/scoop-bucket
-encrypto_naderi.json,naderi/scoop-bucket
 avidemux-portable_naderi.json,naderi/scoop-bucket
 tracy_naderi.json,naderi/scoop-bucket
 hiddify-next.json,naderi/scoop-bucket
@@ -13678,7 +13678,7 @@ CascadiaMono-NF-Mono_maboloshi.json,maboloshi/scoop-private
 notepadnext_maboloshi.json,maboloshi/scoop-private
 everything-alpha_maboloshi.json,maboloshi/scoop-private
 clickmonitorddc-cn.json,maboloshi/scoop-private
-ima-copilot_maboloshi.json,maboloshi/scoop-private
+ima-copilot.json,maboloshi/scoop-private
 beyondcompare5-zh.json,maboloshi/scoop-private
 clip.json,maboloshi/scoop-private
 monitorian_maboloshi.json,maboloshi/scoop-private
