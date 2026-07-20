@@ -8197,7 +8197,7 @@ Astroterm.json,dodorz/scoop
 Graviton.json,dodorz/scoop
 NanoEmacsWin.json,dodorz/scoop
 CoolPDFReader.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 jmacs-static.json,dodorz/scoop
 rains.json,dodorz/scoop
 CzkawkaGUI.json,dodorz/scoop
@@ -9026,17 +9026,17 @@ steam-rom-manager_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 starship_borger.json,borger/scoop-emulators
-ppsspp-dev.json,borger/scoop-emulators
+ppsspp-dev_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
-dolphin-dev_borger.json,borger/scoop-emulators
+dolphin-dev.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 shadps4-dev_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
-eden-nightly.json,borger/scoop-emulators
+eden-nightly_borger.json,borger/scoop-emulators
 gopher64_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 2ship2harkinian.json,borger/scoop-emulators
@@ -10514,7 +10514,7 @@ opensearcher-win7.json,DoveBoy/Apps
 nextai-translator_DoveBoy.json,DoveBoy/Apps
 fetch-github-hosts.json,DoveBoy/Apps
 quardcrt.json,DoveBoy/Apps
-dandanplay.json,DoveBoy/Apps
+dandanplay_DoveBoy.json,DoveBoy/Apps
 xiaochao.json,DoveBoy/Apps
 mihomo_DoveBoy.json,DoveBoy/Apps
 dreamcreator-portable.json,DoveBoy/Apps
@@ -10876,6 +10876,7 @@ qaac_hu3rror.json,hu3rror/scoop-muggle
 uup-download-wizard-converter.json,hu3rror/scoop-muggle
 imewlconverter.json,hu3rror/scoop-muggle
 kopiaui_hu3rror.json,hu3rror/scoop-muggle
+firefox-developer-zh-cn_hu3rror.json,hu3rror/scoop-muggle
 tiddlydesktop-prerelease.json,hu3rror/scoop-muggle
 steamplusplus-legacy.json,hu3rror/scoop-muggle
 MiSans.json,hu3rror/scoop-muggle
@@ -12354,7 +12355,6 @@ godap.json,aliesbelik/poldi
 dblab.json,aliesbelik/poldi
 hmm.json,aliesbelik/poldi
 dlm.json,aliesbelik/poldi
-hunk_aliesbelik.json,aliesbelik/poldi
 kubewall.json,aliesbelik/poldi
 pingy.json,aliesbelik/poldi
 gocloc.json,aliesbelik/poldi
@@ -12403,6 +12403,7 @@ werf-v2.json,aliesbelik/poldi
 updo.json,aliesbelik/poldi
 clobbr-cli.json,aliesbelik/poldi
 gocker.json,aliesbelik/poldi
+octoscan.json,aliesbelik/poldi
 kafta.json,aliesbelik/poldi
 ck-cli.json,aliesbelik/poldi
 flog.json,aliesbelik/poldi
@@ -12419,6 +12420,7 @@ mqtt-cli_aliesbelik.json,aliesbelik/poldi
 ov_aliesbelik.json,aliesbelik/poldi
 jnv_aliesbelik.json,aliesbelik/poldi
 lazyssh_aliesbelik.json,aliesbelik/poldi
+hunk_aliesbelik.json,aliesbelik/poldi
 dnsproxy_aliesbelik.json,aliesbelik/poldi
 bandwhich_aliesbelik.json,aliesbelik/poldi
 trdsql_aliesbelik.json,aliesbelik/poldi
@@ -15188,8 +15190,9 @@ mame_Deide.json,Deide/deide-bucket
 xenia_Deide.json,Deide/deide-bucket
 ppsspp_Deide.json,Deide/deide-bucket
 epsxe.json,Deide/deide-bucket
-mindustry_Deide.json,Deide/deide-bucket
+mindustry.json,Deide/deide-bucket
 zelda-oot-ultraship.json,Deide/deide-bucket
+mise_Deide.json,Deide/deide-bucket
 project64.json,Deide/deide-bucket
 ripcord_Deide.json,Deide/deide-bucket
 snes9x_Deide.json,Deide/deide-bucket
@@ -15901,7 +15904,7 @@ qq-nt_LaelLuo.json,LaelLuo/scoop
 cherry-studio_LaelLuo.json,LaelLuo/scoop
 autoclaw.json,LaelLuo/scoop
 zedis_LaelLuo.json,LaelLuo/scoop
-codex-flow_LaelLuo.json,LaelLuo/scoop
+codex-flow.json,LaelLuo/scoop
 claude_LaelLuo.json,LaelLuo/scoop
 pnpm_LaelLuo.json,LaelLuo/scoop
 oh-my-pi_LaelLuo.json,LaelLuo/scoop
