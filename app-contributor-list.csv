@@ -8197,7 +8197,7 @@ Astroterm.json,dodorz/scoop
 Graviton.json,dodorz/scoop
 NanoEmacsWin.json,dodorz/scoop
 CoolPDFReader.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 jmacs-static.json,dodorz/scoop
 rains.json,dodorz/scoop
 CzkawkaGUI.json,dodorz/scoop
@@ -9030,7 +9030,7 @@ ppsspp-dev_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
-dolphin-dev.json,borger/scoop-emulators
+dolphin-dev_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
@@ -9183,7 +9183,7 @@ decrypttools.json,ViCrack/scoop-bucket
 winasar.json,ViCrack/scoop-bucket
 dbx_ViCrack.json,ViCrack/scoop-bucket
 cherry-studio_ViCrack.json,ViCrack/scoop-bucket
-apifox.json,ViCrack/scoop-bucket
+apifox_ViCrack.json,ViCrack/scoop-bucket
 cyberapi.json,ViCrack/scoop-bucket
 siyuan.json,ViCrack/scoop-bucket
 certimate.json,ViCrack/scoop-bucket
@@ -11658,7 +11658,7 @@ dmm-fast-launcher.json,Small-Ku/turbo-bucket
 sarasa-super-ttc.json,Small-Ku/turbo-bucket
 orbolay.json,Small-Ku/turbo-bucket
 yae-achievement.json,Small-Ku/turbo-bucket
-starward_Small-Ku.json,Small-Ku/turbo-bucket
+starward.json,Small-Ku/turbo-bucket
 jxl-winthumb.json,Small-Ku/turbo-bucket
 zluda3-lshqqytiger.json,Small-Ku/turbo-bucket
 exiftool_Small-Ku.json,Small-Ku/turbo-bucket
@@ -15190,7 +15190,7 @@ mame_Deide.json,Deide/deide-bucket
 xenia_Deide.json,Deide/deide-bucket
 ppsspp_Deide.json,Deide/deide-bucket
 epsxe.json,Deide/deide-bucket
-mindustry.json,Deide/deide-bucket
+mindustry_Deide.json,Deide/deide-bucket
 zelda-oot-ultraship.json,Deide/deide-bucket
 mise_Deide.json,Deide/deide-bucket
 project64.json,Deide/deide-bucket
@@ -16004,7 +16004,7 @@ busybox_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 r-4.3.0.json,ShuguangSun/sgs-scoop-bucket
 rstudio_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 hledger_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+r-devel.json,ShuguangSun/sgs-scoop-bucket
 mupdf_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 cmake_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 defineEditor.json,ShuguangSun/sgs-scoop-bucket
