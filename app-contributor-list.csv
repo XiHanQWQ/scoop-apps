@@ -4527,7 +4527,7 @@ dolphin.json,Calinou/scoop-games
 ps3-system-software.json,Calinou/scoop-games
 pkhex.json,Calinou/scoop-games
 modbreeze.json,Calinou/scoop-games
-starward_Calinou.json,Calinou/scoop-games
+starward.json,Calinou/scoop-games
 mekhq.json,Calinou/scoop-games
 crafty-controller.json,Calinou/scoop-games
 tmaze.json,Calinou/scoop-games
@@ -11401,6 +11401,7 @@ xdm_naderi.json,naderi/scoop-bucket
 xpdf-reader.json,naderi/scoop-bucket
 unrar_naderi.json,naderi/scoop-bucket
 windjview_naderi.json,naderi/scoop-bucket
+encrypto_naderi.json,naderi/scoop-bucket
 avidemux-portable_naderi.json,naderi/scoop-bucket
 tracy_naderi.json,naderi/scoop-bucket
 hiddify-next.json,naderi/scoop-bucket
@@ -11658,7 +11659,7 @@ dmm-fast-launcher.json,Small-Ku/turbo-bucket
 sarasa-super-ttc.json,Small-Ku/turbo-bucket
 orbolay.json,Small-Ku/turbo-bucket
 yae-achievement.json,Small-Ku/turbo-bucket
-starward.json,Small-Ku/turbo-bucket
+starward_Small-Ku.json,Small-Ku/turbo-bucket
 jxl-winthumb.json,Small-Ku/turbo-bucket
 zluda3-lshqqytiger.json,Small-Ku/turbo-bucket
 exiftool_Small-Ku.json,Small-Ku/turbo-bucket
@@ -11718,6 +11719,7 @@ motrix_WinApps-share.json,WinApps-share/WinApps-bucket
 gui-for-clash_WinApps-share.json,WinApps-share/WinApps-bucket
 pdfqfz_WinApps-share.json,WinApps-share/WinApps-bucket
 n-m3u8dl-cli_WinApps-share.json,WinApps-share/WinApps-bucket
+capcut_WinApps-share.json,WinApps-share/WinApps-bucket
 vmware.json,WinApps-share/WinApps-bucket
 reqable-np.json,WinApps-share/WinApps-bucket
 telegram-np.json,WinApps-share/WinApps-bucket
@@ -16004,7 +16006,7 @@ busybox_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 r-4.3.0.json,ShuguangSun/sgs-scoop-bucket
 rstudio_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 hledger_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-r-devel.json,ShuguangSun/sgs-scoop-bucket
+r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 mupdf_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 cmake_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 defineEditor.json,ShuguangSun/sgs-scoop-bucket
