@@ -10472,7 +10472,7 @@ hgrep.json,DoveBoy/Apps
 bilibilidown_DoveBoy.json,DoveBoy/Apps
 buzz_DoveBoy.json,DoveBoy/Apps
 clash-nyanpasu-portable.json,DoveBoy/Apps
-karing_DoveBoy.json,DoveBoy/Apps
+karing.json,DoveBoy/Apps
 clash-rev-go120.json,DoveBoy/Apps
 text-grab_DoveBoy.json,DoveBoy/Apps
 posh-git_DoveBoy.json,DoveBoy/Apps
@@ -15973,7 +15973,7 @@ busybox_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 r-4.3.0.json,ShuguangSun/sgs-scoop-bucket
 rstudio_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 hledger_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-r-devel.json,ShuguangSun/sgs-scoop-bucket
+r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 mupdf_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 cmake_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 defineEditor.json,ShuguangSun/sgs-scoop-bucket
