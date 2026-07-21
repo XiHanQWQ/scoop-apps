@@ -3744,7 +3744,7 @@ nomeiryoui_chawyehsu.json,chawyehsu/dorado
 rcon-cli.json,chawyehsu/dorado
 real-esrgan.json,chawyehsu/dorado
 pstools.json,chawyehsu/dorado
-podman-desktop_chawyehsu.json,chawyehsu/dorado
+podman-desktop.json,chawyehsu/dorado
 dingtalk.json,chawyehsu/dorado
 liko-12.json,chawyehsu/dorado
 pincat.json,chawyehsu/dorado
@@ -4527,7 +4527,7 @@ dolphin.json,Calinou/scoop-games
 ps3-system-software.json,Calinou/scoop-games
 pkhex.json,Calinou/scoop-games
 modbreeze.json,Calinou/scoop-games
-starward.json,Calinou/scoop-games
+starward_Calinou.json,Calinou/scoop-games
 mekhq.json,Calinou/scoop-games
 crafty-controller.json,Calinou/scoop-games
 tmaze.json,Calinou/scoop-games
@@ -6497,12 +6497,10 @@ zerotier-np.json,ScoopInstaller/Nonportable
 devtoys-np.json,ScoopInstaller/Nonportable
 powertoys-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 burp-suite-pro-np.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-standard-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 qttabbar-np.json,ScoopInstaller/Nonportable
 vokoscreenng-np.json,ScoopInstaller/Nonportable
 spotx-np.json,ScoopInstaller/Nonportable
 files-preview-np.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-basic-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 nvidia-display-driver-dch-with-3d-vision-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 office-365-apps-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 file-converter-np.json,ScoopInstaller/Nonportable
@@ -6573,7 +6571,6 @@ winbtrfs-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 nodejs-np.json,ScoopInstaller/Nonportable
 glasswire-np.json,ScoopInstaller/Nonportable
 tunnelbear-np.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-mega-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 nvidia-display-driver-with-3d-vision-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 equalizer-apo-np.json,ScoopInstaller/Nonportable
 peace-np.json,ScoopInstaller/Nonportable
@@ -6595,7 +6592,6 @@ pgadmin4-np.json,ScoopInstaller/Nonportable
 files-np.json,ScoopInstaller/Nonportable
 notepads-np.json,ScoopInstaller/Nonportable
 vpnc-front-end-np_ScoopInstaller.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-full-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 translucenttb-np.json,ScoopInstaller/Nonportable
 stevedore-np.json,ScoopInstaller/Nonportable
 resilio-sync-np.json,ScoopInstaller/Nonportable
@@ -8202,7 +8198,7 @@ Astroterm.json,dodorz/scoop
 Graviton.json,dodorz/scoop
 NanoEmacsWin.json,dodorz/scoop
 CoolPDFReader.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 jmacs-static.json,dodorz/scoop
 rains.json,dodorz/scoop
 CzkawkaGUI.json,dodorz/scoop
@@ -9017,7 +9013,7 @@ hotkey-resolution-changer.json,couleur-tweak-tips/utils
 mouse-tester.json,couleur-tweak-tips/utils
 pcsx2-dev_borger.json,borger/scoop-emulators
 xenia-canary.json,borger/scoop-emulators
-xemu-dev.json,borger/scoop-emulators
+xemu-dev_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
@@ -9031,11 +9027,11 @@ steam-rom-manager_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 starship_borger.json,borger/scoop-emulators
-ppsspp-dev.json,borger/scoop-emulators
+ppsspp-dev_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
-dolphin-dev_borger.json,borger/scoop-emulators
+dolphin-dev.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
@@ -10874,6 +10870,7 @@ dopamine-legacy.json,hu3rror/scoop-muggle
 goldendict-ng_hu3rror.json,hu3rror/scoop-muggle
 cheat-engine_hu3rror.json,hu3rror/scoop-muggle
 neovim_hu3rror.json,hu3rror/scoop-muggle
+testmem5.json,hu3rror/scoop-muggle
 supergrate.json,hu3rror/scoop-muggle
 roadkil-disk-image.json,hu3rror/scoop-muggle
 totalcmd-mod.json,hu3rror/scoop-muggle
@@ -12164,7 +12161,7 @@ npcap-np.json,brian6932/dank-scoop
 auto-mode.json,brian6932/dank-scoop
 abaddon.json,brian6932/dank-scoop
 eisa01-mpv-scripts.json,brian6932/dank-scoop
-testmem5.json,brian6932/dank-scoop
+testmem5_brian6932.json,brian6932/dank-scoop
 jpeg2png.json,brian6932/dank-scoop
 KryptorGUI.json,brian6932/dank-scoop
 polling-rate-viewer.json,brian6932/dank-scoop
