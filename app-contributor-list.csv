@@ -3610,6 +3610,7 @@ geth_chawyehsu.json,chawyehsu/dorado
 sunvox.json,chawyehsu/dorado
 copytranslator_chawyehsu.json,chawyehsu/dorado
 perfectworldarena.json,chawyehsu/dorado
+electerm_chawyehsu.json,chawyehsu/dorado
 wox-nightly.json,chawyehsu/dorado
 milton_chawyehsu.json,chawyehsu/dorado
 capcut.json,chawyehsu/dorado
@@ -3744,7 +3745,7 @@ nomeiryoui_chawyehsu.json,chawyehsu/dorado
 rcon-cli.json,chawyehsu/dorado
 real-esrgan.json,chawyehsu/dorado
 pstools.json,chawyehsu/dorado
-podman-desktop.json,chawyehsu/dorado
+podman-desktop_chawyehsu.json,chawyehsu/dorado
 dingtalk.json,chawyehsu/dorado
 liko-12.json,chawyehsu/dorado
 pincat.json,chawyehsu/dorado
@@ -9031,7 +9032,7 @@ ppsspp-dev_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
-dolphin-dev.json,borger/scoop-emulators
+dolphin-dev_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
@@ -9791,7 +9792,7 @@ vhs_charmbracelet.json,charmbracelet/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
 freeze.json,charmbracelet/scoop-bucket
 mods_charmbracelet.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 confettysh.json,charmbracelet/scoop-bucket
 sequin.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
@@ -9850,6 +9851,7 @@ CascadiaMono.json,everyx/scoop-bucket
 gost_everyx.json,everyx/scoop-bucket
 clash_everyx.json,everyx/scoop-bucket
 r3play.json,DoveBoy/Apps
+cloudreve-beta.json,DoveBoy/Apps
 clash-for-windows-np_DoveBoy.json,DoveBoy/Apps
 clash-chinese-patch.json,DoveBoy/Apps
 kcleaner_DoveBoy.json,DoveBoy/Apps
@@ -9941,13 +9943,13 @@ easy-context-menu_DoveBoy.json,DoveBoy/Apps
 clash-mini.json,DoveBoy/Apps
 restart-explorer_DoveBoy.json,DoveBoy/Apps
 imagemagick-lean_DoveBoy.json,DoveBoy/Apps
+colortxt.json,DoveBoy/Apps
 varia-portable.json,DoveBoy/Apps
 winget-preview.json,DoveBoy/Apps
 zettlr_DoveBoy.json,DoveBoy/Apps
 qtunblockneteasemusic.json,DoveBoy/Apps
 delta_DoveBoy.json,DoveBoy/Apps
 reqable_DoveBoy.json,DoveBoy/Apps
-cloudreve-beta.json,DoveBoy/Apps
 clash-verge-rev_DoveBoy.json,DoveBoy/Apps
 crystaldiskinfo-shizuku-edition_DoveBoy.json,DoveBoy/Apps
 aliyunpan_DoveBoy.json,DoveBoy/Apps
@@ -10756,6 +10758,7 @@ opentrace_hu3rror.json,hu3rror/scoop-muggle
 universal-watermark-disabler.json,hu3rror/scoop-muggle
 heynote_hu3rror.json,hu3rror/scoop-muggle
 locale-remulator_hu3rror.json,hu3rror/scoop-muggle
+venera-next.json,hu3rror/scoop-muggle
 open-video-downloader.json,hu3rror/scoop-muggle
 RyuSAK_hu3rror.json,hu3rror/scoop-muggle
 picgo_hu3rror.json,hu3rror/scoop-muggle
@@ -10789,7 +10792,7 @@ qaac-qtfiles.json,hu3rror/scoop-muggle
 chk-hashtool.json,hu3rror/scoop-muggle
 geminicommit-cli.json,hu3rror/scoop-muggle
 watt-toolkit.json,hu3rror/scoop-muggle
-sizer_hu3rror.json,hu3rror/scoop-muggle
+sizer.json,hu3rror/scoop-muggle
 NsEmuTools.json,hu3rror/scoop-muggle
 caesium_hu3rror.json,hu3rror/scoop-muggle
 gluttonyPNG.json,hu3rror/scoop-muggle
@@ -10837,6 +10840,7 @@ dlss-swapper_hu3rror.json,hu3rror/scoop-muggle
 nanarun_hu3rror.json,hu3rror/scoop-muggle
 tianruoocr-cl.json,hu3rror/scoop-muggle
 goclashz.json,hu3rror/scoop-muggle
+sf6-cm-tray-mod.json,hu3rror/scoop-muggle
 lx-music-desktop_hu3rror.json,hu3rror/scoop-muggle
 dota2_ahk.json,hu3rror/scoop-muggle
 game-cheats-manager_hu3rror.json,hu3rror/scoop-muggle
@@ -11638,7 +11642,7 @@ kondo_Small-Ku.json,Small-Ku/turbo-bucket
 packwiz.json,Small-Ku/turbo-bucket
 maaend_Small-Ku.json,Small-Ku/turbo-bucket
 natural-voice-sapi-adapter.json,Small-Ku/turbo-bucket
-ruffle_Small-Ku.json,Small-Ku/turbo-bucket
+ruffle.json,Small-Ku/turbo-bucket
 equilotl-cli.json,Small-Ku/turbo-bucket
 cutty.json,Small-Ku/turbo-bucket
 vencord-installer_Small-Ku.json,Small-Ku/turbo-bucket
@@ -12353,6 +12357,7 @@ vscli.json,aliesbelik/poldi
 schemacheck.json,aliesbelik/poldi
 filebrowser_aliesbelik.json,aliesbelik/poldi
 jwt-ui.json,aliesbelik/poldi
+payk.json,aliesbelik/poldi
 vi-mongo.json,aliesbelik/poldi
 godu.json,aliesbelik/poldi
 godap.json,aliesbelik/poldi
@@ -15968,7 +15973,7 @@ busybox_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 r-4.3.0.json,ShuguangSun/sgs-scoop-bucket
 rstudio_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 hledger_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+r-devel.json,ShuguangSun/sgs-scoop-bucket
 mupdf_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 cmake_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 defineEditor.json,ShuguangSun/sgs-scoop-bucket
