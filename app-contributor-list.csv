@@ -6515,7 +6515,7 @@ winfsp-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 winrar-np.json,ScoopInstaller/Nonportable
 scilab-np.json,ScoopInstaller/Nonportable
 musicbee-np.json,ScoopInstaller/Nonportable
-virtualbox-with-extension-pack-np.json,ScoopInstaller/Nonportable
+virtualbox-with-extension-pack-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 icaros-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 mactype-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 teracopy-np.json,ScoopInstaller/Nonportable
@@ -6523,7 +6523,7 @@ google-japanese-input-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 bluestacks4-np.json,ScoopInstaller/Nonportable
 office-365-apps-minimal-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 voicemeeter-np.json,ScoopInstaller/Nonportable
-virtualbox-np.json,ScoopInstaller/Nonportable
+virtualbox-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 workman-p-uk-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 lavfilters-np.json,ScoopInstaller/Nonportable
 lantern-np.json,ScoopInstaller/Nonportable
@@ -8199,7 +8199,7 @@ Astroterm.json,dodorz/scoop
 Graviton.json,dodorz/scoop
 NanoEmacsWin.json,dodorz/scoop
 CoolPDFReader.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 jmacs-static.json,dodorz/scoop
 rains.json,dodorz/scoop
 CzkawkaGUI.json,dodorz/scoop
@@ -9052,7 +9052,7 @@ dolphin_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
-mgba-dev_borger.json,borger/scoop-emulators
+mgba-dev.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
@@ -9061,7 +9061,7 @@ cemu_borger.json,borger/scoop-emulators
 goldeneye-recomp.json,borger/scoop-emulators
 visualboyadvance-m.json,borger/scoop-emulators
 spaghettikart.json,borger/scoop-emulators
-duckstation-preview_borger.json,borger/scoop-emulators
+duckstation-preview.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
@@ -11779,7 +11779,7 @@ notepad3_WinApps-share.json,WinApps-share/WinApps-bucket
 handbrake_WinApps-share.json,WinApps-share/WinApps-bucket
 wgestures_WinApps-share.json,WinApps-share/WinApps-bucket
 twinkle-tray_WinApps-share.json,WinApps-share/WinApps-bucket
-notepad--_WinApps-share.json,WinApps-share/WinApps-bucket
+notepad--.json,WinApps-share/WinApps-bucket
 keyviz_WinApps-share.json,WinApps-share/WinApps-bucket
 wsa-pacman_WinApps-share.json,WinApps-share/WinApps-bucket
 google-chrome.json,WinApps-share/WinApps-bucket
@@ -13037,7 +13037,7 @@ whisper-cpp-cublas-1180.json,TianXiaTech/scoop-txt
 winsw_TianXiaTech.json,TianXiaTech/scoop-txt
 codexPlusPlus.json,TianXiaTech/scoop-txt
 youku.json,TianXiaTech/scoop-txt
-baidunetdisk_TianXiaTech.json,TianXiaTech/scoop-txt
+baidunetdisk.json,TianXiaTech/scoop-txt
 whisper-cpp_TianXiaTech.json,TianXiaTech/scoop-txt
 cursor_TianXiaTech.json,TianXiaTech/scoop-txt
 wpsofficecn.json,TianXiaTech/scoop-txt
