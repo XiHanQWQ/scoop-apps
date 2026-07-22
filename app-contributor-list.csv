@@ -8200,7 +8200,7 @@ Astroterm.json,dodorz/scoop
 Graviton.json,dodorz/scoop
 NanoEmacsWin.json,dodorz/scoop
 CoolPDFReader.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 jmacs-static.json,dodorz/scoop
 rains.json,dodorz/scoop
 CzkawkaGUI.json,dodorz/scoop
@@ -9013,7 +9013,7 @@ smoothie.json,couleur-tweak-tips/utils
 autogpuaffinity.json,couleur-tweak-tips/utils
 hotkey-resolution-changer.json,couleur-tweak-tips/utils
 mouse-tester.json,couleur-tweak-tips/utils
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 xenia-canary.json,borger/scoop-emulators
 xemu-dev_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
@@ -10668,6 +10668,7 @@ quarkpantool.json,DoveBoy/Apps
 waifu2x-ncnn-vulkan_DoveBoy.json,DoveBoy/Apps
 opensearcher_DoveBoy.json,DoveBoy/Apps
 anto.json,DoveBoy/Apps
+forkgram_DoveBoy.json,DoveBoy/Apps
 procs_DoveBoy.json,DoveBoy/Apps
 trafficmonitor_DoveBoy.json,DoveBoy/Apps
 scrcpy_DoveBoy.json,DoveBoy/Apps
