@@ -9039,7 +9039,7 @@ mednafen-dev_borger.json,borger/scoop-emulators
 shadps4-dev_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 shipwright_borger.json,borger/scoop-emulators
-dolphin-dev.json,borger/scoop-emulators
+dolphin-dev_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
@@ -9171,6 +9171,7 @@ rshell.json,ViCrack/scoop-bucket
 maye.json,ViCrack/scoop-bucket
 newfiletime_ViCrack.json,ViCrack/scoop-bucket
 wechatbaktool.json,ViCrack/scoop-bucket
+liveagent.json,ViCrack/scoop-bucket
 decrypttools.json,ViCrack/scoop-bucket
 frpc-desktop.json,ViCrack/scoop-bucket
 quake_rs_ViCrack.json,ViCrack/scoop-bucket
@@ -11012,7 +11013,7 @@ nattypetester_wzv5.json,wzv5/ScoopBucket
 volumelock.json,wzv5/ScoopBucket
 python-doc.json,wzv5/ScoopBucket
 xnview_wzv5.json,wzv5/ScoopBucket
-kazumi_wzv5.json,wzv5/ScoopBucket
+kazumi.json,wzv5/ScoopBucket
 aliyundrive_wzv5.json,wzv5/ScoopBucket
 sni.json,wzv5/ScoopBucket
 evernote.json,wzv5/ScoopBucket
@@ -14795,7 +14796,7 @@ qbittorrent_HUMORCE.json,HUMORCE/nuke
 bandizip-classic.json,HUMORCE/nuke
 ungoogled-chromium_HUMORCE.json,HUMORCE/nuke
 archisteamfarm_HUMORCE.json,HUMORCE/nuke
-ruffle-nightly.json,HUMORCE/nuke
+ruffle-nightly_HUMORCE.json,HUMORCE/nuke
 sdcc-snapshot-x86_64.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP_HUMORCE.json,HUMORCE/nuke
@@ -16033,7 +16034,7 @@ emacs-kiennq-ucrt-mps.json,ShuguangSun/sgs-scoop-bucket
 defineEditor.json,ShuguangSun/sgs-scoop-bucket
 julia_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 FiraCode_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+r-devel.json,ShuguangSun/sgs-scoop-bucket
 llvm_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 rtools45.json,ShuguangSun/sgs-scoop-bucket
 r-4.4.0.json,ShuguangSun/sgs-scoop-bucket
@@ -16661,6 +16662,7 @@ kobackupdec.json,bright-angel/scoop-bucket
 Advanced-SQL-Cheatsheet.json,bright-angel/scoop-bucket
 FinalShell-Decoder.json,bright-angel/scoop-bucket
 burp-captcha-killer-modified.json,bright-angel/scoop-bucket
+chrome-antidebug-breaker-mcp.json,bright-angel/scoop-bucket
 DecodeSomeJSPWebshell.json,bright-angel/scoop-bucket
 captcha-killer-modified.json,bright-angel/scoop-bucket
 phpggc_bright-angel.json,bright-angel/scoop-bucket
