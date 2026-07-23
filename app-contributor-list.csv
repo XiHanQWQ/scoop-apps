@@ -9014,7 +9014,7 @@ autogpuaffinity.json,couleur-tweak-tips/utils
 hotkey-resolution-changer.json,couleur-tweak-tips/utils
 mouse-tester.json,couleur-tweak-tips/utils
 pcsx2-dev_borger.json,borger/scoop-emulators
-xenia-canary.json,borger/scoop-emulators
+xenia-canary_borger.json,borger/scoop-emulators
 xemu-dev_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
@@ -10197,6 +10197,7 @@ sumatrapdfplus.json,DoveBoy/Apps
 ccleaner_DoveBoy.json,DoveBoy/Apps
 waveterm_DoveBoy.json,DoveBoy/Apps
 linkandroid.json,DoveBoy/Apps
+mpv-git_DoveBoy.json,DoveBoy/Apps
 clash-party_DoveBoy.json,DoveBoy/Apps
 qr_DoveBoy.json,DoveBoy/Apps
 reduce-memory_DoveBoy.json,DoveBoy/Apps
@@ -10441,7 +10442,6 @@ text-generation-webui.json,DoveBoy/Apps
 tiny11builder.json,DoveBoy/Apps
 iris.json,DoveBoy/Apps
 joplin-pre_DoveBoy.json,DoveBoy/Apps
-helium_DoveBoy.json,DoveBoy/Apps
 cudatext_DoveBoy.json,DoveBoy/Apps
 crosspaste.json,DoveBoy/Apps
 modernflyouts_DoveBoy.json,DoveBoy/Apps
@@ -10714,6 +10714,7 @@ readest_EFLKumo.json,EFLKumo/jam
 zed_EFLKumo.json,EFLKumo/jam
 element_EFLKumo.json,EFLKumo/jam
 signal_EFLKumo.json,EFLKumo/jam
+schema.json,hu3rror/scoop-muggle
 animation-garden-dev.json,hu3rror/scoop-muggle
 pixeval_hu3rror.json,hu3rror/scoop-muggle
 tuya_hu3rror.json,hu3rror/scoop-muggle
@@ -11632,6 +11633,7 @@ dnSpyEx-nightly.json,NyaMisty/scoop_bucket_misty
 mort.json,Small-Ku/turbo-bucket
 codebuff.json,Small-Ku/turbo-bucket
 otfcc.json,Small-Ku/turbo-bucket
+jxrlib.json,Small-Ku/turbo-bucket
 equilotl.json,Small-Ku/turbo-bucket
 antigravity-manager.json,Small-Ku/turbo-bucket
 gemini-cli.json,Small-Ku/turbo-bucket
@@ -12795,7 +12797,7 @@ asimov-telegram-module.json,asimov-platform/scoop-bucket
 asimov-ethereum-module.json,asimov-platform/scoop-bucket
 asimov-brightdata-module.json,asimov-platform/scoop-bucket
 asimov-gemini-module.json,asimov-platform/scoop-bucket
-schema.json,batkiz/backit
+schema_batkiz.json,batkiz/backit
 bitvise-ssh-client_batkiz.json,batkiz/backit
 apple-music-electron.json,batkiz/backit
 deno_batkiz.json,batkiz/backit
@@ -13126,7 +13128,6 @@ staxrip_starise.json,starise/Scoop-Confetti
 winbox4.json,starise/Scoop-Confetti
 soundkeeper.json,starise/Scoop-Confetti
 lossless-audio-checker.json,starise/Scoop-Confetti
-jxrlib.json,starise/Scoop-Confetti
 hasher_starise.json,starise/Scoop-Confetti
 4k-videodownloader.json,starise/Scoop-Confetti
 randpass.json,starise/Scoop-Confetti
@@ -15915,7 +15916,7 @@ reqable_LaelLuo.json,LaelLuo/scoop
 mcp-router_LaelLuo.json,LaelLuo/scoop
 trae_LaelLuo.json,LaelLuo/scoop
 wechat_LaelLuo.json,LaelLuo/scoop
-workbuddy_LaelLuo.json,LaelLuo/scoop
+workbuddy.json,LaelLuo/scoop
 codebuddy.json,LaelLuo/scoop
 capcut_LaelLuo.json,LaelLuo/scoop
 trae-cn.json,LaelLuo/scoop
