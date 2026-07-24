@@ -6557,6 +6557,7 @@ open-shell-np.json,ScoopInstaller/Nonportable
 voicemeeter-potato-np.json,ScoopInstaller/Nonportable
 nvidia-display-driver-with-3d-vision-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 ditto-np.json,ScoopInstaller/Nonportable
+sql-server-management-studio-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 burp-suite-community-np.json,ScoopInstaller/Nonportable
 qttabbar-indiff-np.json,ScoopInstaller/Nonportable
 voicemeeter-np.json,ScoopInstaller/Nonportable
@@ -8333,7 +8334,7 @@ MasterSeeker.json,dodorz/scoop
 TweakPower.json,dodorz/scoop
 Acreom.json,dodorz/scoop
 Markra.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 CleanUp.json,dodorz/scoop
 Shorten.json,dodorz/scoop
 AdguardHome_dodorz.json,dodorz/scoop
@@ -9015,7 +9016,7 @@ blur.json,couleur-tweak-tips/utils
 discordcompressor.json,couleur-tweak-tips/utils
 smoothie.json,couleur-tweak-tips/utils
 icat.json,couleur-tweak-tips/utils
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 shadps4_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
@@ -9034,7 +9035,7 @@ duckstation-preview_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
-ppsspp-dev.json,borger/scoop-emulators
+ppsspp-dev_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
@@ -9186,7 +9187,7 @@ cpuz-cn.json,ViCrack/scoop-bucket
 java-echo-generator-release.json,ViCrack/scoop-bucket
 bluelife-host-editor.json,ViCrack/scoop-bucket
 caesium.json,ViCrack/scoop-bucket
-yakit_ViCrack.json,ViCrack/scoop-bucket
+yakit.json,ViCrack/scoop-bucket
 afrog_ViCrack.json,ViCrack/scoop-bucket
 git-repo-clean.json,ViCrack/scoop-bucket
 fastgithub.json,ViCrack/scoop-bucket
@@ -10135,6 +10136,7 @@ deskreen_DoveBoy.json,DoveBoy/Apps
 escrcpy-portable.json,DoveBoy/Apps
 ximalaya-downloader.json,DoveBoy/Apps
 binggpt.json,DoveBoy/Apps
+mpv-git_DoveBoy.json,DoveBoy/Apps
 tmall-miao.json,DoveBoy/Apps
 watttoolkit-beta.json,DoveBoy/Apps
 network-profile-name-changer_DoveBoy.json,DoveBoy/Apps
@@ -10567,7 +10569,6 @@ stable-diffusion-webui.json,DoveBoy/Apps
 crystaldiskinfo-aoi-edition_DoveBoy.json,DoveBoy/Apps
 jellyfin-media-player_DoveBoy.json,DoveBoy/Apps
 tabby_DoveBoy.json,DoveBoy/Apps
-libreoffice_DoveBoy.json,DoveBoy/Apps
 everything-beta_DoveBoy.json,DoveBoy/Apps
 dnsjumper_DoveBoy.json,DoveBoy/Apps
 pixivbiu.json,DoveBoy/Apps
