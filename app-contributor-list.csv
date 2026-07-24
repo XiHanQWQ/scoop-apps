@@ -7737,6 +7737,7 @@ rstudio-2023.09.json,cderv/r-bucket
 chezmoi-modify-manager.json,cderv/r-bucket
 rstudio-2023.03.json,cderv/r-bucket
 rstudio-1.2.json,cderv/r-bucket
+ir.json,cderv/r-bucket
 rv_cderv.json,cderv/r-bucket
 beads-rust.json,cderv/r-bucket
 rstudio-preview_cderv.json,cderv/r-bucket
@@ -9023,7 +9024,7 @@ fceux.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
-xenia-canary.json,borger/scoop-emulators
+xenia-canary_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
 spaghettikart.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
@@ -9033,7 +9034,7 @@ duckstation-preview_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
-ppsspp-dev_borger.json,borger/scoop-emulators
+ppsspp-dev.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
@@ -10566,6 +10567,7 @@ stable-diffusion-webui.json,DoveBoy/Apps
 crystaldiskinfo-aoi-edition_DoveBoy.json,DoveBoy/Apps
 jellyfin-media-player_DoveBoy.json,DoveBoy/Apps
 tabby_DoveBoy.json,DoveBoy/Apps
+libreoffice_DoveBoy.json,DoveBoy/Apps
 everything-beta_DoveBoy.json,DoveBoy/Apps
 dnsjumper_DoveBoy.json,DoveBoy/Apps
 pixivbiu.json,DoveBoy/Apps
@@ -11109,6 +11111,7 @@ local-wp.json,naderi/scoop-bucket
 font-tanha.json,naderi/scoop-bucket
 beautysearch.json,naderi/scoop-bucket
 markdown-edit.json,naderi/scoop-bucket
+encrypto.json,naderi/scoop-bucket
 wise-disk-cleaner.json,naderi/scoop-bucket
 faster-whisper-standalone.json,naderi/scoop-bucket
 leomoon-jalalitray.json,naderi/scoop-bucket
@@ -15908,7 +15911,7 @@ codebuddy.json,LaelLuo/scoop
 codex-flow.json,LaelLuo/scoop
 feishu_LaelLuo.json,LaelLuo/scoop
 moonbit.json,LaelLuo/scoop
-workbuddy.json,LaelLuo/scoop
+workbuddy_LaelLuo.json,LaelLuo/scoop
 kiro_LaelLuo.json,LaelLuo/scoop
 crossdesk_LaelLuo.json,LaelLuo/scoop
 diskgenius-zh.json,LaelLuo/scoop
