@@ -1315,7 +1315,7 @@ tlaplus-toolbox.json,ScoopInstaller/Extras
 neoray.json,ScoopInstaller/Extras
 antares.json,ScoopInstaller/Extras
 paraview.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 screenoff.json,ScoopInstaller/Extras
 kibana.json,ScoopInstaller/Extras
 ollama-full.json,ScoopInstaller/Extras
@@ -9030,7 +9030,7 @@ project64-dev_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
 duckstation-preview_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
@@ -9040,7 +9040,7 @@ mednafen-dev_borger.json,borger/scoop-emulators
 shadps4-dev_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 shipwright_borger.json,borger/scoop-emulators
-dolphin-dev.json,borger/scoop-emulators
+dolphin-dev_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
@@ -9992,7 +9992,6 @@ opentrace_DoveBoy.json,DoveBoy/Apps
 sing-box_DoveBoy.json,DoveBoy/Apps
 typora-dev_DoveBoy.json,DoveBoy/Apps
 czkawka_DoveBoy.json,DoveBoy/Apps
-forkgram_DoveBoy.json,DoveBoy/Apps
 gping_DoveBoy.json,DoveBoy/Apps
 handbrake_DoveBoy.json,DoveBoy/Apps
 buzz_DoveBoy.json,DoveBoy/Apps
@@ -10786,7 +10785,6 @@ Python37_zhoujin7.json,zhoujin7/tomato
 idea-ultimate_zhoujin7.json,zhoujin7/tomato
 YAPA2_zhoujin7.json,zhoujin7/tomato
 ainiee_hu3rror.json,hu3rror/scoop-muggle
-simpread-synchelper.json,hu3rror/scoop-muggle
 emby_carnival.json,hu3rror/scoop-muggle
 scoop-backup-KNOXDEV_hu3rror.json,hu3rror/scoop-muggle
 nhse.json,hu3rror/scoop-muggle
@@ -10799,6 +10797,7 @@ yomikiru.json,hu3rror/scoop-muggle
 qaac-qtfiles.json,hu3rror/scoop-muggle
 keepassxc_hu3rror.json,hu3rror/scoop-muggle
 k2pdfopt.json,hu3rror/scoop-muggle
+dopamine.json,hu3rror/scoop-muggle
 jpegview-fork_hu3rror.json,hu3rror/scoop-muggle
 JumpToFolder.json,hu3rror/scoop-muggle
 animeko-alpha.json,hu3rror/scoop-muggle
@@ -10872,7 +10871,6 @@ qbldx-mod.json,hu3rror/scoop-muggle
 rimage-next.json,hu3rror/scoop-muggle
 space-cli.json,hu3rror/scoop-muggle
 auto-unlocker_hu3rror.json,hu3rror/scoop-muggle
-vysor.json,hu3rror/scoop-muggle
 qemu-img.json,hu3rror/scoop-muggle
 totalcmd-mod.json,hu3rror/scoop-muggle
 dota2_realblood.json,hu3rror/scoop-muggle
@@ -10946,12 +10944,12 @@ q_hu3rror.json,hu3rror/scoop-muggle
 picgo_hu3rror.json,hu3rror/scoop-muggle
 usbeam-hosts-editor_hu3rror.json,hu3rror/scoop-muggle
 dlss-swapper_hu3rror.json,hu3rror/scoop-muggle
-dopamine-preview.json,hu3rror/scoop-muggle
 watt-toolkit.json,hu3rror/scoop-muggle
 neovim_hu3rror.json,hu3rror/scoop-muggle
 animeko_hu3rror.json,hu3rror/scoop-muggle
 mpv-lazy_hu3rror.json,hu3rror/scoop-muggle
 schema.json,hu3rror/scoop-muggle
+simpread-synchelper.json,hu3rror/scoop-muggle
 systeminformer-nightly_hu3rror.json,hu3rror/scoop-muggle
 xanmod-WSL2-x64v2.json,hu3rror/scoop-muggle
 calibre-normal-cjk.json,hu3rror/scoop-muggle
@@ -10992,6 +10990,7 @@ xanmod-WSL2-lts-x64v2.json,hu3rror/scoop-muggle
 calibre-cjk.json,hu3rror/scoop-muggle
 telegram-beta.json,hu3rror/scoop-muggle
 tuya_hu3rror.json,hu3rror/scoop-muggle
+dopamine-preview.json,hu3rror/scoop-muggle
 oh-my-posh_hu3rror.json,hu3rror/scoop-muggle
 besttrace_wzv5.json,wzv5/ScoopBucket
 openjdk-doc.json,wzv5/ScoopBucket
@@ -10999,7 +10998,7 @@ winsw_wzv5.json,wzv5/ScoopBucket
 zabbix-agent.json,wzv5/ScoopBucket
 nodejs-bin.json,wzv5/ScoopBucket
 winobjex64.json,wzv5/ScoopBucket
-qqlive.json,wzv5/ScoopBucket
+qqlive_wzv5.json,wzv5/ScoopBucket
 gost_wzv5.json,wzv5/ScoopBucket
 pyembed-downloader.json,wzv5/ScoopBucket
 python_wzv5.json,wzv5/ScoopBucket
@@ -13260,6 +13259,7 @@ HeroicGamesLauncher.json,Darkatse/Scoop-Darkatse
 Poe.json,Darkatse/Scoop-Darkatse
 MicrobenchmarksGui.json,Darkatse/Scoop-Darkatse
 Movie_Data_Capture.json,Darkatse/Scoop-Darkatse
+TauriTavern-debug.json,Darkatse/Scoop-Darkatse
 Cinebench2026.json,Darkatse/Scoop-Darkatse
 vesta_Darkatse.json,Darkatse/Scoop-Darkatse
 MaaAssistantArknights.json,Darkatse/Scoop-Darkatse
@@ -13270,6 +13270,7 @@ LinpackXtreme.json,Darkatse/Scoop-Darkatse
 RevokeMsgPatcher_Darkatse.json,Darkatse/Scoop-Darkatse
 Brook-GUI.json,Darkatse/Scoop-Darkatse
 Movie_Data_Capture_GUI.json,Darkatse/Scoop-Darkatse
+TauriTavern.json,Darkatse/Scoop-Darkatse
 ZXPInstaller.json,Darkatse/Scoop-Darkatse
 ToastFish.json,Darkatse/Scoop-Darkatse
 HammerPDF.json,Darkatse/Scoop-Darkatse
@@ -14805,7 +14806,7 @@ qbittorrent_HUMORCE.json,HUMORCE/nuke
 bandizip-classic.json,HUMORCE/nuke
 ungoogled-chromium_HUMORCE.json,HUMORCE/nuke
 archisteamfarm_HUMORCE.json,HUMORCE/nuke
-ruffle-nightly.json,HUMORCE/nuke
+ruffle-nightly_HUMORCE.json,HUMORCE/nuke
 sdcc-snapshot-x86_64.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP_HUMORCE.json,HUMORCE/nuke
@@ -15907,7 +15908,7 @@ codebuddy.json,LaelLuo/scoop
 codex-flow.json,LaelLuo/scoop
 feishu_LaelLuo.json,LaelLuo/scoop
 moonbit.json,LaelLuo/scoop
-workbuddy_LaelLuo.json,LaelLuo/scoop
+workbuddy.json,LaelLuo/scoop
 kiro_LaelLuo.json,LaelLuo/scoop
 crossdesk_LaelLuo.json,LaelLuo/scoop
 diskgenius-zh.json,LaelLuo/scoop
@@ -17088,7 +17089,6 @@ zap.json,windedge/ladle-bucket
 tahoma2d_windedge.json,windedge/ladle-bucket
 tiny-rdm.json,windedge/ladle-bucket
 askimo.json,windedge/ladle-bucket
-jvms_windedge.json,windedge/ladle-bucket
 amidst_The-Simples.json,The-Simples/scoop-minecraft
 chorus.json,The-Simples/scoop-minecraft
 packsquash.json,The-Simples/scoop-minecraft
