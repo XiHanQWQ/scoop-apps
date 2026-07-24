@@ -9044,7 +9044,7 @@ pcsx2-dev_borger.json,borger/scoop-emulators
 shadps4_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
-eden-nightly_borger.json,borger/scoop-emulators
+eden-nightly.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
@@ -9794,7 +9794,7 @@ portqry_wangzq.json,wangzq/scoop-bucket
 physdiskwrite.json,wangzq/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
 vhs_charmbracelet.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
 markscribe.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
@@ -10143,7 +10143,6 @@ unblockneteasemusic.json,DoveBoy/Apps
 windowscleaner.json,DoveBoy/Apps
 scoop-backup-knoxdev.json,DoveBoy/Apps
 ofgb-with-runtime.json,DoveBoy/Apps
-chromium_DoveBoy.json,DoveBoy/Apps
 nvm-tab-completion.json,DoveBoy/Apps
 freefilesync_DoveBoy.json,DoveBoy/Apps
 gns3.json,DoveBoy/Apps
@@ -10434,7 +10433,6 @@ screenbroadcaster-net8.json,DoveBoy/Apps
 cmwtat-digital-edition.json,DoveBoy/Apps
 fzf_DoveBoy.json,DoveBoy/Apps
 alisthelper_DoveBoy.json,DoveBoy/Apps
-gridplayer_DoveBoy.json,DoveBoy/Apps
 m3u8d-ui.json,DoveBoy/Apps
 pytranscriber.json,DoveBoy/Apps
 droppoint-portable_DoveBoy.json,DoveBoy/Apps
@@ -10726,7 +10724,7 @@ emby_carnival.json,hu3rror/scoop-muggle
 scoop-backup-KNOXDEV_hu3rror.json,hu3rror/scoop-muggle
 nhse.json,hu3rror/scoop-muggle
 newrain-duplicate-photo-finder.json,hu3rror/scoop-muggle
-firefox-developer-zh-cn_hu3rror.json,hu3rror/scoop-muggle
+firefox-developer-zh-cn.json,hu3rror/scoop-muggle
 tianruoocr_hu3rror.json,hu3rror/scoop-muggle
 acttools.json,hu3rror/scoop-muggle
 bootice_hu3rror.json,hu3rror/scoop-muggle
@@ -11641,7 +11639,7 @@ EasyLPAC.json,NyaMisty/scoop_bucket_misty
 rizin-nightly.json,NyaMisty/scoop_bucket_misty
 equilotl.json,Small-Ku/turbo-bucket
 vencord-installer_Small-Ku.json,Small-Ku/turbo-bucket
-maaend.json,Small-Ku/turbo-bucket
+maaend_Small-Ku.json,Small-Ku/turbo-bucket
 cli-proxy-api.json,Small-Ku/turbo-bucket
 source-han-serif-vf-ttc.json,Small-Ku/turbo-bucket
 freebuff.json,Small-Ku/turbo-bucket
