@@ -9059,7 +9059,7 @@ duckstation-preview_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
-ppsspp-dev.json,borger/scoop-emulators
+ppsspp-dev_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
@@ -9794,7 +9794,7 @@ portqry_wangzq.json,wangzq/scoop-bucket
 physdiskwrite.json,wangzq/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
 vhs_charmbracelet.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
 markscribe.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
@@ -10035,7 +10035,7 @@ splayer.json,DoveBoy/Apps
 proxypin_DoveBoy.json,DoveBoy/Apps
 apprhyme.json,DoveBoy/Apps
 folo_DoveBoy.json,DoveBoy/Apps
-obs-studio-pre.json,DoveBoy/Apps
+obs-studio-pre_DoveBoy.json,DoveBoy/Apps
 dua_DoveBoy.json,DoveBoy/Apps
 linkandroid.json,DoveBoy/Apps
 xray_DoveBoy.json,DoveBoy/Apps
@@ -10476,7 +10476,6 @@ mobilecontrolguru.json,DoveBoy/Apps
 hok_DoveBoy.json,DoveBoy/Apps
 hyper-beta.json,DoveBoy/Apps
 v2ray-rules-dat-git.json,DoveBoy/Apps
-obs-studio_DoveBoy.json,DoveBoy/Apps
 idcard-generator.json,DoveBoy/Apps
 esearch_DoveBoy.json,DoveBoy/Apps
 ungoogled-chromium_DoveBoy.json,DoveBoy/Apps
@@ -14900,7 +14899,7 @@ qbittorrent_HUMORCE.json,HUMORCE/nuke
 bandizip-classic.json,HUMORCE/nuke
 ungoogled-chromium_HUMORCE.json,HUMORCE/nuke
 archisteamfarm_HUMORCE.json,HUMORCE/nuke
-ruffle-nightly.json,HUMORCE/nuke
+ruffle-nightly_HUMORCE.json,HUMORCE/nuke
 sdcc-snapshot-x86_64.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP_HUMORCE.json,HUMORCE/nuke
