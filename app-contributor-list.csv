@@ -8334,7 +8334,7 @@ MasterSeeker.json,dodorz/scoop
 TweakPower.json,dodorz/scoop
 Acreom.json,dodorz/scoop
 Markra.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 CleanUp.json,dodorz/scoop
 Shorten.json,dodorz/scoop
 AdguardHome_dodorz.json,dodorz/scoop
@@ -9044,7 +9044,7 @@ pcsx2-dev_borger.json,borger/scoop-emulators
 shadps4_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
-eden-nightly.json,borger/scoop-emulators
+eden-nightly_borger.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
@@ -10476,6 +10476,7 @@ mobilecontrolguru.json,DoveBoy/Apps
 hok_DoveBoy.json,DoveBoy/Apps
 hyper-beta.json,DoveBoy/Apps
 v2ray-rules-dat-git.json,DoveBoy/Apps
+obs-studio_DoveBoy.json,DoveBoy/Apps
 idcard-generator.json,DoveBoy/Apps
 esearch_DoveBoy.json,DoveBoy/Apps
 ungoogled-chromium_DoveBoy.json,DoveBoy/Apps
@@ -10724,7 +10725,7 @@ emby_carnival.json,hu3rror/scoop-muggle
 scoop-backup-KNOXDEV_hu3rror.json,hu3rror/scoop-muggle
 nhse.json,hu3rror/scoop-muggle
 newrain-duplicate-photo-finder.json,hu3rror/scoop-muggle
-firefox-developer-zh-cn.json,hu3rror/scoop-muggle
+firefox-developer-zh-cn_hu3rror.json,hu3rror/scoop-muggle
 tianruoocr_hu3rror.json,hu3rror/scoop-muggle
 acttools.json,hu3rror/scoop-muggle
 bootice_hu3rror.json,hu3rror/scoop-muggle
@@ -11111,7 +11112,6 @@ local-wp.json,naderi/scoop-bucket
 font-tanha.json,naderi/scoop-bucket
 beautysearch.json,naderi/scoop-bucket
 markdown-edit.json,naderi/scoop-bucket
-encrypto.json,naderi/scoop-bucket
 wise-disk-cleaner.json,naderi/scoop-bucket
 faster-whisper-standalone.json,naderi/scoop-bucket
 leomoon-jalalitray.json,naderi/scoop-bucket
@@ -14900,7 +14900,7 @@ qbittorrent_HUMORCE.json,HUMORCE/nuke
 bandizip-classic.json,HUMORCE/nuke
 ungoogled-chromium_HUMORCE.json,HUMORCE/nuke
 archisteamfarm_HUMORCE.json,HUMORCE/nuke
-ruffle-nightly_HUMORCE.json,HUMORCE/nuke
+ruffle-nightly.json,HUMORCE/nuke
 sdcc-snapshot-x86_64.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP_HUMORCE.json,HUMORCE/nuke
@@ -17055,7 +17055,7 @@ rtk_windedge.json,windedge/ladle-bucket
 coraldesk.json,windedge/ladle-bucket
 termora.json,windedge/ladle-bucket
 mindolph.json,windedge/ladle-bucket
-forgecode_windedge.json,windedge/ladle-bucket
+forgecode.json,windedge/ladle-bucket
 heimer.json,windedge/ladle-bucket
 scia-reto.json,windedge/ladle-bucket
 httpie-desktop.json,windedge/ladle-bucket
