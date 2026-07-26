@@ -1315,7 +1315,7 @@ tlaplus-toolbox.json,ScoopInstaller/Extras
 neoray.json,ScoopInstaller/Extras
 antares.json,ScoopInstaller/Extras
 paraview.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 screenoff.json,ScoopInstaller/Extras
 kibana.json,ScoopInstaller/Extras
 ollama-full.json,ScoopInstaller/Extras
@@ -9020,7 +9020,7 @@ pcsx2-dev_borger.json,borger/scoop-emulators
 shadps4_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
-eden-nightly_borger.json,borger/scoop-emulators
+eden-nightly.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
@@ -9032,7 +9032,7 @@ project64-dev_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
 duckstation-preview_borger.json,borger/scoop-emulators
-vita3k_borger.json,borger/scoop-emulators
+vita3k.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 ppsspp-dev.json,borger/scoop-emulators
@@ -10136,6 +10136,7 @@ deskreen_DoveBoy.json,DoveBoy/Apps
 escrcpy-portable.json,DoveBoy/Apps
 ximalaya-downloader.json,DoveBoy/Apps
 binggpt.json,DoveBoy/Apps
+mpv-git_DoveBoy.json,DoveBoy/Apps
 tmall-miao.json,DoveBoy/Apps
 watttoolkit-beta.json,DoveBoy/Apps
 network-profile-name-changer_DoveBoy.json,DoveBoy/Apps
@@ -12036,7 +12037,7 @@ bgutil-ytdlp-pot-provider.json,brian6932/dank-scoop
 dankerino-portable.json,brian6932/dank-scoop
 unified-remote-server.json,brian6932/dank-scoop
 apngasm-gui.json,brian6932/dank-scoop
-tgpt_brian6932.json,brian6932/dank-scoop
+tgpt.json,brian6932/dank-scoop
 xxd-rs.json,brian6932/dank-scoop
 chatterino7.json,brian6932/dank-scoop
 mtpmount.json,brian6932/dank-scoop
@@ -14868,6 +14869,7 @@ rdiff-backup-aoks.json,AntonOks/scoop-aoks
 edit-aoks.json,AntonOks/scoop-aoks
 vcpkg-aoks.json,AntonOks/scoop-aoks
 k0sctl-aoks.json,AntonOks/scoop-aoks
+crush-aoks.json,AntonOks/scoop-aoks
 tortoisegit-aoks.json,AntonOks/scoop-aoks
 readeck-aoks.json,AntonOks/scoop-aoks
 IntelliJIDEA.Community-aoks.json,AntonOks/scoop-aoks
