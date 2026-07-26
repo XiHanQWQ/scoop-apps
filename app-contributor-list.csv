@@ -10136,6 +10136,7 @@ deskreen_DoveBoy.json,DoveBoy/Apps
 escrcpy-portable.json,DoveBoy/Apps
 ximalaya-downloader.json,DoveBoy/Apps
 binggpt.json,DoveBoy/Apps
+mpv-git_DoveBoy.json,DoveBoy/Apps
 tmall-miao.json,DoveBoy/Apps
 watttoolkit-beta.json,DoveBoy/Apps
 network-profile-name-changer_DoveBoy.json,DoveBoy/Apps
@@ -10790,6 +10791,7 @@ venera-next.json,hu3rror/scoop-muggle
 cherry-studio_hu3rror.json,hu3rror/scoop-muggle
 run-hidden-console.json,hu3rror/scoop-muggle
 goldendict-ng_hu3rror.json,hu3rror/scoop-muggle
+rclone-ui_hu3rror.json,hu3rror/scoop-muggle
 ImTip.json,hu3rror/scoop-muggle
 manhuagui-downloader.json,hu3rror/scoop-muggle
 uup-download-wizard-converter.json,hu3rror/scoop-muggle
@@ -11581,7 +11583,7 @@ yahei-fira-icon-hybrid.json,amorphobia/siku
 mihomosh.json,amorphobia/siku
 ipatool_amorphobia.json,amorphobia/siku
 sound-keeper.json,amorphobia/siku
-filebrowser_amorphobia.json,amorphobia/siku
+filebrowser.json,amorphobia/siku
 rains_amorphobia.json,amorphobia/siku
 setacl-studio.json,amorphobia/siku
 setacl.json,amorphobia/siku
