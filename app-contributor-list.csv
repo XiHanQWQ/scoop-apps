@@ -9040,11 +9040,11 @@ emacs-lsp-booster.json,kiennq/scoop-misc
 cemu-x.json,kiennq/scoop-misc
 joyshockmapper.json,kiennq/scoop-misc
 cemuhook-webgyro.json,kiennq/scoop-misc
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 shadps4_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
-eden-nightly.json,borger/scoop-emulators
+eden-nightly_borger.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
@@ -10565,7 +10565,6 @@ monit.json,DoveBoy/Apps
 bilibilidown_DoveBoy.json,DoveBoy/Apps
 pilinara.json,DoveBoy/Apps
 stable-diffusion-webui.json,DoveBoy/Apps
-crystaldiskinfo-aoi-edition.json,DoveBoy/Apps
 jellyfin-media-player_DoveBoy.json,DoveBoy/Apps
 tabby_DoveBoy.json,DoveBoy/Apps
 everything-beta_DoveBoy.json,DoveBoy/Apps
@@ -10624,7 +10623,7 @@ grep_DoveBoy.json,DoveBoy/Apps
 unigetui_DoveBoy.json,DoveBoy/Apps
 nyaterm.json,DoveBoy/Apps
 compactgui.json,DoveBoy/Apps
-crystaldiskinfo-shizuku-edition.json,DoveBoy/Apps
+crystaldiskinfo-shizuku-edition_DoveBoy.json,DoveBoy/Apps
 animeko_DoveBoy.json,DoveBoy/Apps
 mpv-lazy.json,DoveBoy/Apps
 zyfun.json,DoveBoy/Apps
@@ -11582,7 +11581,7 @@ yahei-fira-icon-hybrid.json,amorphobia/siku
 mihomosh.json,amorphobia/siku
 ipatool_amorphobia.json,amorphobia/siku
 sound-keeper.json,amorphobia/siku
-filebrowser.json,amorphobia/siku
+filebrowser_amorphobia.json,amorphobia/siku
 rains_amorphobia.json,amorphobia/siku
 setacl-studio.json,amorphobia/siku
 setacl.json,amorphobia/siku
@@ -14535,6 +14534,7 @@ uftp-aoks.json,AntonOks/scoop-aoks
 ticker-aoks.json,AntonOks/scoop-aoks
 everything-aoks.json,AntonOks/scoop-aoks
 RDCMan-aoks.json,AntonOks/scoop-aoks
+winscript-aoks.json,AntonOks/scoop-aoks
 iobit-unlocker-aoks.json,AntonOks/scoop-aoks
 graphviz-aoks.json,AntonOks/scoop-aoks
 miniserve-aoks.json,AntonOks/scoop-aoks
@@ -14808,7 +14808,7 @@ qbittorrent_HUMORCE.json,HUMORCE/nuke
 bandizip-classic.json,HUMORCE/nuke
 ungoogled-chromium_HUMORCE.json,HUMORCE/nuke
 archisteamfarm_HUMORCE.json,HUMORCE/nuke
-ruffle-nightly_HUMORCE.json,HUMORCE/nuke
+ruffle-nightly.json,HUMORCE/nuke
 sdcc-snapshot-x86_64.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP_HUMORCE.json,HUMORCE/nuke
