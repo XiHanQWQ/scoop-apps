@@ -1442,7 +1442,7 @@ aptakube.json,ScoopInstaller/Extras
 caesium-image-compressor.json,ScoopInstaller/Extras
 keynavish.json,ScoopInstaller/Extras
 avidemux.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 ec2-api-tools.json,ScoopInstaller/Extras
 runcat.json,ScoopInstaller/Extras
 wecom.json,ScoopInstaller/Extras
@@ -2765,6 +2765,7 @@ texteditoranywhere.json,ScoopInstaller/Extras
 otvdm.json,ScoopInstaller/Extras
 aider-desk.json,ScoopInstaller/Extras
 xnview.json,ScoopInstaller/Extras
+ente-photos.json,ScoopInstaller/Extras
 x64dbg.json,ScoopInstaller/Extras
 waterfox.json,ScoopInstaller/Extras
 ddu.json,ScoopInstaller/Extras
@@ -8334,7 +8335,7 @@ MasterSeeker.json,dodorz/scoop
 TweakPower.json,dodorz/scoop
 Acreom.json,dodorz/scoop
 Markra.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 CleanUp.json,dodorz/scoop
 Shorten.json,dodorz/scoop
 AdguardHome_dodorz.json,dodorz/scoop
@@ -9020,7 +9021,7 @@ pcsx2-dev_borger.json,borger/scoop-emulators
 shadps4_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
-eden-nightly.json,borger/scoop-emulators
+eden-nightly_borger.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
@@ -9032,7 +9033,7 @@ project64-dev_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
 duckstation-preview_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 ppsspp-dev.json,borger/scoop-emulators
@@ -9963,6 +9964,7 @@ rubick_DoveBoy.json,DoveBoy/Apps
 twinkle-tray_DoveBoy.json,DoveBoy/Apps
 fancontrol-net10.0.json,DoveBoy/Apps
 registry-key-jumper_DoveBoy.json,DoveBoy/Apps
+electerm_DoveBoy.json,DoveBoy/Apps
 splayer-beta.json,DoveBoy/Apps
 r3playx.json,DoveBoy/Apps
 fancontrol-net10.0-portable.json,DoveBoy/Apps
@@ -10136,7 +10138,6 @@ deskreen_DoveBoy.json,DoveBoy/Apps
 escrcpy-portable.json,DoveBoy/Apps
 ximalaya-downloader.json,DoveBoy/Apps
 binggpt.json,DoveBoy/Apps
-mpv-git_DoveBoy.json,DoveBoy/Apps
 tmall-miao.json,DoveBoy/Apps
 watttoolkit-beta.json,DoveBoy/Apps
 network-profile-name-changer_DoveBoy.json,DoveBoy/Apps
@@ -11117,7 +11118,7 @@ yahei-fira-icon-hybrid.json,amorphobia/siku
 mihomosh.json,amorphobia/siku
 ipatool_amorphobia.json,amorphobia/siku
 sound-keeper.json,amorphobia/siku
-filebrowser.json,amorphobia/siku
+filebrowser_amorphobia.json,amorphobia/siku
 rains_amorphobia.json,amorphobia/siku
 setacl-studio.json,amorphobia/siku
 setacl.json,amorphobia/siku
@@ -12037,7 +12038,7 @@ bgutil-ytdlp-pot-provider.json,brian6932/dank-scoop
 dankerino-portable.json,brian6932/dank-scoop
 unified-remote-server.json,brian6932/dank-scoop
 apngasm-gui.json,brian6932/dank-scoop
-tgpt.json,brian6932/dank-scoop
+tgpt_brian6932.json,brian6932/dank-scoop
 xxd-rs.json,brian6932/dank-scoop
 chatterino7.json,brian6932/dank-scoop
 mtpmount.json,brian6932/dank-scoop
@@ -14543,7 +14544,7 @@ officecodepro.json,KnotUntied/scoop-fonts
 notosanscjk.json,KnotUntied/scoop-fonts
 iosevka-ss08.json,KnotUntied/scoop-fonts
 cascadiamono-pl-italic-static.json,KnotUntied/scoop-fonts
-iosevka.json,KnotUntied/scoop-fonts
+iosevka_KnotUntied.json,KnotUntied/scoop-fonts
 dejavusansmono.json,KnotUntied/scoop-fonts
 tinos.json,KnotUntied/scoop-fonts
 montserrat-alternates.json,KnotUntied/scoop-fonts
@@ -15063,7 +15064,7 @@ qbittorrent_HUMORCE.json,HUMORCE/nuke
 bandizip-classic.json,HUMORCE/nuke
 ungoogled-chromium_HUMORCE.json,HUMORCE/nuke
 archisteamfarm_HUMORCE.json,HUMORCE/nuke
-ruffle-nightly_HUMORCE.json,HUMORCE/nuke
+ruffle-nightly.json,HUMORCE/nuke
 sdcc-snapshot-x86_64.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP_HUMORCE.json,HUMORCE/nuke
