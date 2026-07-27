@@ -9041,7 +9041,7 @@ emacs-lsp-booster.json,kiennq/scoop-misc
 cemu-x.json,kiennq/scoop-misc
 joyshockmapper.json,kiennq/scoop-misc
 cemuhook-webgyro.json,kiennq/scoop-misc
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 shadps4_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
@@ -9520,7 +9520,7 @@ biyi_akirco.json,akirco/aki-apps
 macchina_akirco.json,akirco/aki-apps
 fiddler_akirco.json,akirco/aki-apps
 xmind_akirco.json,akirco/aki-apps
-Qoder.json,akirco/aki-apps
+Qoder_akirco.json,akirco/aki-apps
 officetoolplus.json,akirco/aki-apps
 clashrauto.json,akirco/aki-apps
 memreduct_akirco.json,akirco/aki-apps
@@ -9953,6 +9953,7 @@ imfile.json,DoveBoy/Apps
 lanzouyun-disk.json,DoveBoy/Apps
 http-downloader_DoveBoy.json,DoveBoy/Apps
 openlist_DoveBoy.json,DoveBoy/Apps
+picpick_DoveBoy.json,DoveBoy/Apps
 tinypng.json,DoveBoy/Apps
 note-gen.json,DoveBoy/Apps
 throne_DoveBoy.json,DoveBoy/Apps
@@ -10724,7 +10725,7 @@ emby_carnival.json,hu3rror/scoop-muggle
 scoop-backup-KNOXDEV_hu3rror.json,hu3rror/scoop-muggle
 nhse.json,hu3rror/scoop-muggle
 newrain-duplicate-photo-finder.json,hu3rror/scoop-muggle
-firefox-developer-zh-cn_hu3rror.json,hu3rror/scoop-muggle
+firefox-developer-zh-cn.json,hu3rror/scoop-muggle
 opensteamtool-gui-py.json,hu3rror/scoop-muggle
 tianruoocr_hu3rror.json,hu3rror/scoop-muggle
 acttools.json,hu3rror/scoop-muggle
@@ -11118,7 +11119,7 @@ yahei-fira-icon-hybrid.json,amorphobia/siku
 mihomosh.json,amorphobia/siku
 ipatool_amorphobia.json,amorphobia/siku
 sound-keeper.json,amorphobia/siku
-filebrowser_amorphobia.json,amorphobia/siku
+filebrowser.json,amorphobia/siku
 rains_amorphobia.json,amorphobia/siku
 setacl-studio.json,amorphobia/siku
 setacl.json,amorphobia/siku
@@ -13737,7 +13738,7 @@ beyondcompare5-zh.json,maboloshi/scoop-private
 cmirror.json,maboloshi/scoop-private
 CascadiaMono-NF-Mono_maboloshi.json,maboloshi/scoop-private
 sublime-merge_maboloshi.json,maboloshi/scoop-private
-ima-copilot.json,maboloshi/scoop-private
+ima-copilot_maboloshi.json,maboloshi/scoop-private
 n-m3u8dl-cli_maboloshi.json,maboloshi/scoop-private
 weixin.json,maboloshi/scoop-private
 clickmonitorddc-cn.json,maboloshi/scoop-private
@@ -15887,7 +15888,7 @@ lm-studio.json,LaelLuo/scoop
 cursor_LaelLuo.json,LaelLuo/scoop
 mcp-router.json,LaelLuo/scoop
 puro.json,LaelLuo/scoop
-qoder_LaelLuo.json,LaelLuo/scoop
+qoder.json,LaelLuo/scoop
 cunzhi.json,LaelLuo/scoop
 codebuddy.json,LaelLuo/scoop
 codex-flow.json,LaelLuo/scoop

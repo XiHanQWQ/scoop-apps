@@ -1,31 +1,50 @@
 {
-    "version": "17.1.6",
-    "description": "终端优先的 AI 编码代理，内置文件编辑、搜索、浏览器、子代理与会话能力",
-    "homepage": "https://omp.sh/",
-    "license": "MIT",
+    "version": "1.18.2",
+    "description": "Qoder - The Agentic Coding Platform，AI 驱动的智能编程平台，专为真实软件开发而设计",
+    "homepage": "https://qoder.com/",
+    "license": {
+        "identifier": "Proprietary",
+        "url": "https://qoder.com/product-service"
+    },
+    "notes": [
+        "Qoder 是一个 AI 驱动的智能编程平台，主要功能：",
+        "- 智能代码生成和补全",
+        "- AI 驱动的代码重构和优化",
+        "- 智能调试和错误修复",
+        "- 项目级别的代码理解和分析",
+        "- 多语言支持和跨平台开发",
+        "",
+        "数据目录：",
+        "- 用户数据：%APPDATA%\\Qoder -> persist/qoder/roaming",
+        "- 扩展配置：~\\.qoder -> persist/qoder/home/config",
+        "",
+        "首次使用可能需要登录账号以获得完整功能。"
+    ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/can1357/oh-my-pi/releases/download/v17.1.6/omp-windows-x64.exe",
-            "hash": "db592226179ace1123e9a7f04ae1cf899ebc2d7026aefd40a0657a2689ff0242"
+            "url": "https://qoder-ide.oss-accelerate.aliyuncs.com/release/1.18.2/QoderUserSetup-x64.exe",
+            "hash": "1c3b0b9ccabe9d41eafa5ec241a1308b80af71823255349c5f0cceb5834b4a08"
         }
     },
-    "bin": [
+    "innosetup": true,
+    "extract_dir": "{code_GetDestDir}",
+    "shortcuts": [
         [
-            "omp-windows-x64.exe",
-            "omp"
+            "Qoder.exe",
+            "Qoder"
         ]
     ],
-    "notes": [
-        "OMP 在 Windows 上完整使用通常需要 bash shell。建议安装 git 以提供 Git Bash。",
-        "如果未自动识别 bash，可在 ~/.omp/agent/settings.json 中设置 shellPath。"
-    ],
+    "persist": "data",
     "checkver": {
-        "github": "https://github.com/can1357/oh-my-pi"
+        "url": "https://center.qoder.sh/algo/api/update/win32-x64-user/stable/0.0.0",
+        "jsonpath": "$.url",
+        "regex": "(?<url>.*release/(?<version>[\\d.]+)/QoderUserSetup-x64\\.exe)",
+        "replace": "${version}"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/can1357/oh-my-pi/releases/download/v$version/omp-windows-x64.exe"
+                "url": "$matchUrl"
             }
         }
     },
@@ -167,7 +186,8 @@
         "}",
         "#endregion",
         "Invoke-PortableMappings -Action Install -Context @{ Dir = $dir; PersistDir = $persist_dir } -Mappings @(",
-        "    @{ Label = 'home-omp'; Source = 'UserProfile/.omp'; Target = \"$persist_dir/home/.omp\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' }",
+        "    @{ Label = 'roaming'; Source = 'AppData/Qoder'; Target = \"$persist_dir/roaming\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' },",
+        "    @{ Label = 'home-config'; Source = 'UserProfile/.qoder'; Target = \"$persist_dir/home/config\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' }",
         ") -Log:$true"
     ],
     "pre_uninstall": [
@@ -308,7 +328,8 @@
         "}",
         "#endregion",
         "Invoke-PortableMappings -Action Uninstall -Context @{ Dir = $dir; PersistDir = $persist_dir } -Mappings @(",
-        "    @{ Label = 'home-omp'; Source = 'UserProfile/.omp'; Target = \"$persist_dir/home/.omp\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' }",
+        "    @{ Label = 'roaming'; Source = 'AppData/Qoder'; Target = \"$persist_dir/roaming\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' },",
+        "    @{ Label = 'home-config'; Source = 'UserProfile/.qoder'; Target = \"$persist_dir/home/config\"; Strategy = 'symlink'; EnsureTarget = $true; TargetType = 'directory' }",
         ") -Log:$true"
     ]
 }
