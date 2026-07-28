@@ -4662,6 +4662,7 @@ cro-mag-rally.json,Calinou/scoop-games
 openmw.json,Calinou/scoop-games
 itch.json,Calinou/scoop-games
 battlenet.json,Calinou/scoop-games
+psv-system-software.json,Calinou/scoop-games
 steam-art-manager.json,Calinou/scoop-games
 golly.json,Calinou/scoop-games
 fishstrap.json,Calinou/scoop-games
@@ -10538,6 +10539,7 @@ letrecovery.json,DoveBoy/Apps
 bbk-cli_DoveBoy.json,DoveBoy/Apps
 clash-rev-compatible.json,DoveBoy/Apps
 clash-nyanpasu-portable.json,DoveBoy/Apps
+winmerge_DoveBoy.json,DoveBoy/Apps
 gitalias.json,DoveBoy/Apps
 anyportal-portable.json,DoveBoy/Apps
 bookget.json,DoveBoy/Apps
@@ -13714,7 +13716,7 @@ git-cola_cc713.json,cc713/ownscoop
 Weasel_cc713.json,cc713/ownscoop
 gitextensions_cc713.json,cc713/ownscoop
 foobox-cn.json,cc713/ownscoop
-thunderbird-zh-cn_cc713.json,cc713/ownscoop
+thunderbird-zh-cn.json,cc713/ownscoop
 firefox-zh-CN_cc713.json,cc713/ownscoop
 kiwix-tools.json,cc713/ownscoop
 NeeView_cc713.json,cc713/ownscoop

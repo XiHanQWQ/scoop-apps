@@ -17,12 +17,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-0d999c08c410357cfc8df30f46f853d39d915b0b/rpcs3-v0.0.41-19648-0d999c08_win64_msvc.7z",
-            "hash": "e7f84c014ea5228ca143da73925014236885397486f87b04aff6b368a26266e2"
+            "url": "https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-b778355c680f7f796fc6133bd84ba01d5834ceb0/rpcs3-v0.0.41-19650-b778355c_win64_msvc.7z",
+            "hash": "ebfc6a8e046f8ab4493c61aa0b77c2acd201d549b389b8a1d40c45c9f4881ef9"
         },
         "arm64": {
-            "url": "https://github.com/RPCS3/rpcs3-binaries-win-arm64/releases/download/build-0d999c08c410357cfc8df30f46f853d39d915b0b/rpcs3-v0.0.41-19648-0d999c08_win64_aarch64_clang.7z",
-            "hash": "1589f3bdf6e23db47bfa33b957997e67954f2c470680636bf5275f7da2f2ffd1"
+            "url": "https://github.com/RPCS3/rpcs3-binaries-win-arm64/releases/download/build-b778355c680f7f796fc6133bd84ba01d5834ceb0/rpcs3-v0.0.41-19650-b778355c_win64_aarch64_clang.7z",
+            "hash": "ae50f5d52f88648217ea68fb79cb28291b9b02e51332666991fbe3ba12ba7bfb"
         }
     },
     "pre_install": [
