@@ -9041,7 +9041,7 @@ emacs-lsp-booster.json,kiennq/scoop-misc
 cemu-x.json,kiennq/scoop-misc
 joyshockmapper.json,kiennq/scoop-misc
 cemuhook-webgyro.json,kiennq/scoop-misc
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 shadps4_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
@@ -9060,7 +9060,7 @@ duckstation-preview_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
-ppsspp-dev.json,borger/scoop-emulators
+ppsspp-dev_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
@@ -9073,7 +9073,7 @@ ppsspp_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
-redream-dev.json,borger/scoop-emulators
+redream-dev_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
@@ -9192,7 +9192,7 @@ rad_ViCrack.json,ViCrack/scoop-bucket
 shiroexploit.json,ViCrack/scoop-bucket
 chatlab.json,ViCrack/scoop-bucket
 simple-dnscrypt.json,ViCrack/scoop-bucket
-apifox_ViCrack.json,ViCrack/scoop-bucket
+apifox.json,ViCrack/scoop-bucket
 fvuln_ViCrack.json,ViCrack/scoop-bucket
 curl-impersonate.json,ViCrack/scoop-bucket
 rshell.json,ViCrack/scoop-bucket
@@ -10355,6 +10355,7 @@ chatbox_DoveBoy.json,DoveBoy/Apps
 musicfreedesktop.json,DoveBoy/Apps
 zoomit_DoveBoy.json,DoveBoy/Apps
 etcher-portable.json,DoveBoy/Apps
+sfsu.json,DoveBoy/Apps
 horsemd.json,DoveBoy/Apps
 text-generation-webui.json,DoveBoy/Apps
 deeplx_DoveBoy.json,DoveBoy/Apps
@@ -12574,6 +12575,7 @@ blast.json,aliesbelik/poldi
 claws.json,aliesbelik/poldi
 prom2json.json,aliesbelik/poldi
 klog.json,aliesbelik/poldi
+pinata.json,aliesbelik/poldi
 dcv.json,aliesbelik/poldi
 hey.json,aliesbelik/poldi
 mado.json,aliesbelik/poldi
@@ -12692,6 +12694,7 @@ stirlingpdf.json,Scoopforge/Extras-Plus
 wisecare365.json,Scoopforge/Extras-Plus
 comfyui.json,Scoopforge/Extras-Plus
 catime_Scoopforge.json,Scoopforge/Extras-Plus
+open-design.json,Scoopforge/Extras-Plus
 musicat.json,Scoopforge/Extras-Plus
 voov-meeting.json,Scoopforge/Extras-Plus
 tropy.json,Scoopforge/Extras-Plus
