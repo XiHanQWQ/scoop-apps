@@ -9044,7 +9044,7 @@ emacs-lsp-booster.json,kiennq/scoop-misc
 cemu-x.json,kiennq/scoop-misc
 joyshockmapper.json,kiennq/scoop-misc
 cemuhook-webgyro.json,kiennq/scoop-misc
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 shadps4_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
@@ -10140,7 +10140,6 @@ deskreen_DoveBoy.json,DoveBoy/Apps
 escrcpy-portable.json,DoveBoy/Apps
 ximalaya-downloader.json,DoveBoy/Apps
 binggpt.json,DoveBoy/Apps
-mpv-git_DoveBoy.json,DoveBoy/Apps
 tmall-miao.json,DoveBoy/Apps
 watttoolkit-beta.json,DoveBoy/Apps
 network-profile-name-changer_DoveBoy.json,DoveBoy/Apps
@@ -10728,7 +10727,7 @@ emby_carnival.json,hu3rror/scoop-muggle
 scoop-backup-KNOXDEV_hu3rror.json,hu3rror/scoop-muggle
 nhse.json,hu3rror/scoop-muggle
 newrain-duplicate-photo-finder.json,hu3rror/scoop-muggle
-firefox-developer-zh-cn_hu3rror.json,hu3rror/scoop-muggle
+firefox-developer-zh-cn.json,hu3rror/scoop-muggle
 opensteamtool-gui-py.json,hu3rror/scoop-muggle
 tianruoocr_hu3rror.json,hu3rror/scoop-muggle
 acttools.json,hu3rror/scoop-muggle
