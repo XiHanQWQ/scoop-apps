@@ -2684,7 +2684,7 @@ apk-editor-studio.json,ScoopInstaller/Extras
 mellowplayer.json,ScoopInstaller/Extras
 bforartists.json,ScoopInstaller/Extras
 cefflashbrowser.json,ScoopInstaller/Extras
-jetbrains-toolbox_ScoopInstaller.json,ScoopInstaller/Extras
+jetbrains-toolbox.json,ScoopInstaller/Extras
 quiterss.json,ScoopInstaller/Extras
 floorp.json,ScoopInstaller/Extras
 gmic-qt.json,ScoopInstaller/Extras
@@ -2824,7 +2824,7 @@ richcopy.json,ScoopInstaller/Extras
 mongodb-compass.json,ScoopInstaller/Extras
 metrogit.json,ScoopInstaller/Extras
 meshroom.json,ScoopInstaller/Extras
-vscode_ScoopInstaller.json,ScoopInstaller/Extras
+vscode.json,ScoopInstaller/Extras
 stunnel.json,ScoopInstaller/Extras
 everything-powertoys.json,ScoopInstaller/Extras
 sioyek.json,ScoopInstaller/Extras
@@ -6489,7 +6489,7 @@ sunlogin.json,scoopcn/scoopcn
 kwmusic.json,scoopcn/scoopcn
 kugou.json,scoopcn/scoopcn
 dingtalk.json,scoopcn/scoopcn
-feishu_scoopcn.json,scoopcn/scoopcn
+feishu.json,scoopcn/scoopcn
 wps.json,scoopcn/scoopcn
 unity3d.json,scoopcn/scoopcn
 ynote.json,scoopcn/scoopcn
@@ -9059,7 +9059,7 @@ spaghettikart.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
-duckstation-preview_borger.json,borger/scoop-emulators
+duckstation-preview.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
@@ -9470,7 +9470,7 @@ jetbrains-toolbox_akirco.json,akirco/aki-apps
 format-factory.json,akirco/aki-apps
 dingtalk_akirco.json,akirco/aki-apps
 you-get_akirco.json,akirco/aki-apps
-feishu.json,akirco/aki-apps
+feishu_akirco.json,akirco/aki-apps
 directory-predictor.json,akirco/aki-apps
 sudo_akirco.json,akirco/aki-apps
 diskgenius_akirco.json,akirco/aki-apps
@@ -11212,6 +11212,7 @@ cwtch.json,naderi/scoop-bucket
 winsetview.json,naderi/scoop-bucket
 varia_naderi.json,naderi/scoop-bucket
 caffeinated.json,naderi/scoop-bucket
+nexusimage_naderi.json,naderi/scoop-bucket
 opentrace_naderi.json,naderi/scoop-bucket
 caret-beta_naderi.json,naderi/scoop-bucket
 epicgames.json,naderi/scoop-bucket
@@ -11270,6 +11271,7 @@ qilin.json,naderi/scoop-bucket
 ucalendar-portable.json,naderi/scoop-bucket
 gyroflow_naderi.json,naderi/scoop-bucket
 texworks-portable.json,naderi/scoop-bucket
+nexusfile_naderi.json,naderi/scoop-bucket
 unicsved_naderi.json,naderi/scoop-bucket
 foxmail_naderi.json,naderi/scoop-bucket
 easytag_naderi.json,naderi/scoop-bucket
