@@ -8338,7 +8338,7 @@ MasterSeeker.json,dodorz/scoop
 TweakPower.json,dodorz/scoop
 Acreom.json,dodorz/scoop
 Markra.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 CleanUp.json,dodorz/scoop
 Shorten.json,dodorz/scoop
 AdguardHome_dodorz.json,dodorz/scoop
@@ -9207,7 +9207,7 @@ decrypttools.json,ViCrack/scoop-bucket
 frpc-desktop.json,ViCrack/scoop-bucket
 quake_rs_ViCrack.json,ViCrack/scoop-bucket
 codex-app-manager.json,ViCrack/scoop-bucket
-dbx.json,ViCrack/scoop-bucket
+dbx_ViCrack.json,ViCrack/scoop-bucket
 filezilla_ViCrack.json,ViCrack/scoop-bucket
 glider.json,ViCrack/scoop-bucket
 naabu_ViCrack.json,ViCrack/scoop-bucket
@@ -9470,7 +9470,7 @@ jetbrains-toolbox_akirco.json,akirco/aki-apps
 format-factory.json,akirco/aki-apps
 dingtalk_akirco.json,akirco/aki-apps
 you-get_akirco.json,akirco/aki-apps
-feishu_akirco.json,akirco/aki-apps
+feishu.json,akirco/aki-apps
 directory-predictor.json,akirco/aki-apps
 sudo_akirco.json,akirco/aki-apps
 diskgenius_akirco.json,akirco/aki-apps
@@ -12443,6 +12443,7 @@ godap.json,aliesbelik/poldi
 zns.json,aliesbelik/poldi
 netfetch.json,aliesbelik/poldi
 pict.json,aliesbelik/poldi
+pinact.json,aliesbelik/poldi
 query-json.json,aliesbelik/poldi
 fm.json,aliesbelik/poldi
 gomi.json,aliesbelik/poldi
