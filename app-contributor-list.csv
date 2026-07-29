@@ -3432,6 +3432,7 @@ protobuf.json,ScoopInstaller/Extras
 unigetui.json,ScoopInstaller/Extras
 cockpit-tools.json,ScoopInstaller/Extras
 falcon-sql-client.json,ScoopInstaller/Extras
+haruna.json,ScoopInstaller/Extras
 compactgui_ScoopInstaller.json,ScoopInstaller/Extras
 lockhunter_ScoopInstaller.json,ScoopInstaller/Extras
 fsresizer.json,ScoopInstaller/Extras
@@ -4261,7 +4262,7 @@ ting-de.json,Scoopforge/Extras-CN
 douyin.json,Scoopforge/Extras-CN
 msys2-cn_Scoopforge.json,Scoopforge/Extras-CN
 lceda.json,Scoopforge/Extras-CN
-baidunetdisk.json,Scoopforge/Extras-CN
+baidunetdisk_Scoopforge.json,Scoopforge/Extras-CN
 evplayer.json,Scoopforge/Extras-CN
 baidupcs-go.json,Scoopforge/Extras-CN
 ting-es.json,Scoopforge/Extras-CN
@@ -9062,7 +9063,7 @@ duckstation-preview_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
-ppsspp-dev.json,borger/scoop-emulators
+ppsspp-dev_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
@@ -9206,7 +9207,7 @@ decrypttools.json,ViCrack/scoop-bucket
 frpc-desktop.json,ViCrack/scoop-bucket
 quake_rs_ViCrack.json,ViCrack/scoop-bucket
 codex-app-manager.json,ViCrack/scoop-bucket
-dbx_ViCrack.json,ViCrack/scoop-bucket
+dbx.json,ViCrack/scoop-bucket
 filezilla_ViCrack.json,ViCrack/scoop-bucket
 glider.json,ViCrack/scoop-bucket
 naabu_ViCrack.json,ViCrack/scoop-bucket
@@ -11004,7 +11005,7 @@ winsw_wzv5.json,wzv5/ScoopBucket
 zabbix-agent.json,wzv5/ScoopBucket
 nodejs-bin.json,wzv5/ScoopBucket
 winobjex64.json,wzv5/ScoopBucket
-qqlive_wzv5.json,wzv5/ScoopBucket
+qqlive.json,wzv5/ScoopBucket
 gost_wzv5.json,wzv5/ScoopBucket
 pyembed-downloader.json,wzv5/ScoopBucket
 python_wzv5.json,wzv5/ScoopBucket
@@ -14639,7 +14640,7 @@ qbittorrent_HUMORCE.json,HUMORCE/nuke
 bandizip-classic.json,HUMORCE/nuke
 ungoogled-chromium_HUMORCE.json,HUMORCE/nuke
 archisteamfarm_HUMORCE.json,HUMORCE/nuke
-ruffle-nightly.json,HUMORCE/nuke
+ruffle-nightly_HUMORCE.json,HUMORCE/nuke
 sdcc-snapshot-x86_64.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP_HUMORCE.json,HUMORCE/nuke
@@ -16037,7 +16038,7 @@ r-4.1.1.json,ShuguangSun/sgs-scoop-bucket
 cherry-studio-1.1.5.json,ShuguangSun/sgs-scoop-bucket
 rtools42_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 r-4.5.0.json,ShuguangSun/sgs-scoop-bucket
-emacs_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+emacs.json,ShuguangSun/sgs-scoop-bucket
 nodejs_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 msys2_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 tree-sitter_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
@@ -16126,7 +16127,6 @@ emacs-lsp-booster_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 emacs-nodeps.json,ShuguangSun/sgs-scoop-bucket
 r-4.5.3.json,ShuguangSun/sgs-scoop-bucket
 mononoki_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-micromamba-cn.json,ShuguangSun/sgs-scoop-bucket
 busybox_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 jabref57.json,ShuguangSun/sgs-scoop-bucket
 rstudio_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
