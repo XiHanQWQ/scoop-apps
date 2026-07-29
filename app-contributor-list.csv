@@ -4312,6 +4312,7 @@ cockpit-tools_Scoopforge.json,Scoopforge/Extras-CN
 edrawmax.json,Scoopforge/Extras-CN
 pcsx2-dev.json,Calinou/scoop-games
 starrail-copilot.json,Calinou/scoop-games
+wowup-cf.json,Calinou/scoop-games
 tesseract-game.json,Calinou/scoop-games
 shadps4.json,Calinou/scoop-games
 adom.json,Calinou/scoop-games
@@ -8336,7 +8337,7 @@ MasterSeeker.json,dodorz/scoop
 TweakPower.json,dodorz/scoop
 Acreom.json,dodorz/scoop
 Markra.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 CleanUp.json,dodorz/scoop
 Shorten.json,dodorz/scoop
 AdguardHome_dodorz.json,dodorz/scoop
@@ -9042,7 +9043,7 @@ emacs-lsp-booster.json,kiennq/scoop-misc
 cemu-x.json,kiennq/scoop-misc
 joyshockmapper.json,kiennq/scoop-misc
 cemuhook-webgyro.json,kiennq/scoop-misc
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 shadps4_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
@@ -9061,7 +9062,7 @@ duckstation-preview_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
-ppsspp-dev_borger.json,borger/scoop-emulators
+ppsspp-dev.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
@@ -9422,7 +9423,7 @@ n-m3u8dl-cli_akirco.json,akirco/aki-apps
 shellcheck_akirco.json,akirco/aki-apps
 aria2_akirco.json,akirco/aki-apps
 lepton_akirco.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 selenium_akirco.json,akirco/aki-apps
 wttop_akirco.json,akirco/aki-apps
 ollama_akirco.json,akirco/aki-apps
@@ -9500,7 +9501,6 @@ obs-studio_akirco.json,akirco/aki-apps
 simple-live.json,akirco/aki-apps
 windsurf_akirco.json,akirco/aki-apps
 cmake_akirco.json,akirco/aki-apps
-bilibili-livehime.json,akirco/aki-apps
 nexusfont_akirco.json,akirco/aki-apps
 instaloader.json,akirco/aki-apps
 php_akirco.json,akirco/aki-apps
@@ -10539,7 +10539,6 @@ letrecovery.json,DoveBoy/Apps
 bbk-cli_DoveBoy.json,DoveBoy/Apps
 clash-rev-compatible.json,DoveBoy/Apps
 clash-nyanpasu-portable.json,DoveBoy/Apps
-winmerge_DoveBoy.json,DoveBoy/Apps
 gitalias.json,DoveBoy/Apps
 anyportal-portable.json,DoveBoy/Apps
 bookget.json,DoveBoy/Apps
@@ -13716,7 +13715,7 @@ git-cola_cc713.json,cc713/ownscoop
 Weasel_cc713.json,cc713/ownscoop
 gitextensions_cc713.json,cc713/ownscoop
 foobox-cn.json,cc713/ownscoop
-thunderbird-zh-cn.json,cc713/ownscoop
+thunderbird-zh-cn_cc713.json,cc713/ownscoop
 firefox-zh-CN_cc713.json,cc713/ownscoop
 kiwix-tools.json,cc713/ownscoop
 NeeView_cc713.json,cc713/ownscoop
@@ -14640,7 +14639,7 @@ qbittorrent_HUMORCE.json,HUMORCE/nuke
 bandizip-classic.json,HUMORCE/nuke
 ungoogled-chromium_HUMORCE.json,HUMORCE/nuke
 archisteamfarm_HUMORCE.json,HUMORCE/nuke
-ruffle-nightly_HUMORCE.json,HUMORCE/nuke
+ruffle-nightly.json,HUMORCE/nuke
 sdcc-snapshot-x86_64.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP_HUMORCE.json,HUMORCE/nuke
