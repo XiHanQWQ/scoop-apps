@@ -9049,12 +9049,12 @@ pcsx2-dev_borger.json,borger/scoop-emulators
 shadps4_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
-eden-nightly_borger.json,borger/scoop-emulators
+eden-nightly.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
-rpcs3.json,borger/scoop-emulators
-xenia-canary.json,borger/scoop-emulators
+rpcs3_borger.json,borger/scoop-emulators
+xenia-canary_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
 spaghettikart.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
@@ -9068,7 +9068,7 @@ ppsspp-dev.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
-shadps4-dev.json,borger/scoop-emulators
+shadps4-dev_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 shipwright_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
@@ -16177,7 +16177,7 @@ phantomjs_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 foobar2000-encoders_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 xleak_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 ark_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-micromamba_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+micromamba.json,ShuguangSun/sgs-scoop-bucket
 r_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 r-4.6.1.json,ShuguangSun/sgs-scoop-bucket
 sioyek_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
