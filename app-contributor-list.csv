@@ -2345,7 +2345,7 @@ onionshare.json,ScoopInstaller/Extras
 processing4.json,ScoopInstaller/Extras
 diagram-designer.json,ScoopInstaller/Extras
 winmemorycleaner.json,ScoopInstaller/Extras
-g-helper_ScoopInstaller.json,ScoopInstaller/Extras
+g-helper.json,ScoopInstaller/Extras
 sqlitestudio.json,ScoopInstaller/Extras
 stranslate.json,ScoopInstaller/Extras
 fred-tv.json,ScoopInstaller/Extras
@@ -9064,7 +9064,7 @@ duckstation-preview_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
-ppsspp-dev_borger.json,borger/scoop-emulators
+ppsspp-dev.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
@@ -9089,7 +9089,7 @@ redream_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
 mednafen_borger.json,borger/scoop-emulators
 2ship2harkinian.json,borger/scoop-emulators
-mgba-dev_borger.json,borger/scoop-emulators
+mgba-dev.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 azahar_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
@@ -9229,7 +9229,7 @@ hyacinth.json,ViCrack/scoop-bucket
 cyberapi.json,ViCrack/scoop-bucket
 scan4all_ViCrack.json,ViCrack/scoop-bucket
 jar-analyzer_ViCrack.json,ViCrack/scoop-bucket
-feishurevokemsgpatcher_ViCrack.json,ViCrack/scoop-bucket
+feishurevokemsgpatcher.json,ViCrack/scoop-bucket
 chmac.json,ViCrack/scoop-bucket
 treesize_ViCrack.json,ViCrack/scoop-bucket
 pyxis.json,ViCrack/scoop-bucket
@@ -9961,6 +9961,7 @@ tinypng.json,DoveBoy/Apps
 note-gen.json,DoveBoy/Apps
 throne_DoveBoy.json,DoveBoy/Apps
 douyu.json,DoveBoy/Apps
+markamd.json,DoveBoy/Apps
 hysteria_DoveBoy.json,DoveBoy/Apps
 glow_DoveBoy.json,DoveBoy/Apps
 ultimatevocalremovergui.json,DoveBoy/Apps
@@ -16040,7 +16041,7 @@ emacs-kiennq-ucrt-mps.json,ShuguangSun/sgs-scoop-bucket
 defineEditor.json,ShuguangSun/sgs-scoop-bucket
 julia_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 FiraCode_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-r-devel.json,ShuguangSun/sgs-scoop-bucket
+r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 llvm_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 rtools45.json,ShuguangSun/sgs-scoop-bucket
 r-4.4.0.json,ShuguangSun/sgs-scoop-bucket
