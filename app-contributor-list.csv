@@ -1442,7 +1442,7 @@ aptakube.json,ScoopInstaller/Extras
 caesium-image-compressor.json,ScoopInstaller/Extras
 keynavish.json,ScoopInstaller/Extras
 avidemux.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 ec2-api-tools.json,ScoopInstaller/Extras
 runcat.json,ScoopInstaller/Extras
 wecom.json,ScoopInstaller/Extras
@@ -3553,6 +3553,7 @@ belautils.json,chawyehsu/dorado
 gowall.json,chawyehsu/dorado
 electron-cash_chawyehsu.json,chawyehsu/dorado
 isaac-save-installer.json,chawyehsu/dorado
+electerm_chawyehsu.json,chawyehsu/dorado
 bililiverecorder.json,chawyehsu/dorado
 tgpt.json,chawyehsu/dorado
 bilibili.json,chawyehsu/dorado
@@ -7810,7 +7811,7 @@ wsl-ubuntu1604.json,KNOXDEV/wsl
 wsl-fedora.json,KNOXDEV/wsl
 acmekit.json,echoiron/echo-scoop
 ksoftmgr.json,echoiron/echo-scoop
-typora.json,echoiron/echo-scoop
+typora_echoiron.json,echoiron/echo-scoop
 mobaxterm_echoiron.json,echoiron/echo-scoop
 goodsync.json,echoiron/echo-scoop
 notepad4_echoiron.json,echoiron/echo-scoop
@@ -10386,7 +10387,7 @@ scoop-search-shilangyu.json,DoveBoy/Apps
 ccleaner_DoveBoy.json,DoveBoy/Apps
 clash-rev.json,DoveBoy/Apps
 nattypetester.json,DoveBoy/Apps
-v2rayn.json,DoveBoy/Apps
+v2rayn_DoveBoy.json,DoveBoy/Apps
 flclash_DoveBoy.json,DoveBoy/Apps
 littletips.json,DoveBoy/Apps
 clickrun.json,DoveBoy/Apps
@@ -10635,6 +10636,7 @@ compactgui.json,DoveBoy/Apps
 crystaldiskinfo-shizuku-edition_DoveBoy.json,DoveBoy/Apps
 animeko_DoveBoy.json,DoveBoy/Apps
 mpv-lazy.json,DoveBoy/Apps
+solomd_DoveBoy.json,DoveBoy/Apps
 zyfun.json,DoveBoy/Apps
 kopia-ui-portable.json,DoveBoy/Apps
 volta-tab-completion.json,DoveBoy/Apps
@@ -14651,7 +14653,7 @@ qbittorrent_HUMORCE.json,HUMORCE/nuke
 bandizip-classic.json,HUMORCE/nuke
 ungoogled-chromium_HUMORCE.json,HUMORCE/nuke
 archisteamfarm_HUMORCE.json,HUMORCE/nuke
-ruffle-nightly.json,HUMORCE/nuke
+ruffle-nightly_HUMORCE.json,HUMORCE/nuke
 sdcc-snapshot-x86_64.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP_HUMORCE.json,HUMORCE/nuke
@@ -16139,7 +16141,7 @@ emacs-kiennq-ucrt-mps.json,ShuguangSun/sgs-scoop-bucket
 defineEditor.json,ShuguangSun/sgs-scoop-bucket
 julia_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 FiraCode_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+r-devel.json,ShuguangSun/sgs-scoop-bucket
 llvm_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 rtools45.json,ShuguangSun/sgs-scoop-bucket
 r-4.4.0.json,ShuguangSun/sgs-scoop-bucket
