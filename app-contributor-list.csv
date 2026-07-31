@@ -2345,7 +2345,7 @@ onionshare.json,ScoopInstaller/Extras
 processing4.json,ScoopInstaller/Extras
 diagram-designer.json,ScoopInstaller/Extras
 winmemorycleaner.json,ScoopInstaller/Extras
-g-helper.json,ScoopInstaller/Extras
+g-helper_ScoopInstaller.json,ScoopInstaller/Extras
 sqlitestudio.json,ScoopInstaller/Extras
 stranslate.json,ScoopInstaller/Extras
 fred-tv.json,ScoopInstaller/Extras
@@ -4252,7 +4252,7 @@ revoke-msg-patcher.json,Scoopforge/Extras-CN
 obs-studio-cn.json,Scoopforge/Extras-CN
 qqmusic.json,Scoopforge/Extras-CN
 julia-cn.json,Scoopforge/Extras-CN
-lceda-pro.json,Scoopforge/Extras-CN
+lceda-pro_Scoopforge.json,Scoopforge/Extras-CN
 clash-mi.json,Scoopforge/Extras-CN
 goldendict-ng.json,Scoopforge/Extras-CN
 frhelper.json,Scoopforge/Extras-CN
@@ -4558,7 +4558,7 @@ dgvoodoo2.json,Calinou/scoop-games
 unrealmodloader.json,Calinou/scoop-games
 ark-smart-breeding.json,Calinou/scoop-games
 nanosaur.json,Calinou/scoop-games
-hmcl.json,Calinou/scoop-games
+hmcl_Calinou.json,Calinou/scoop-games
 rvgl.json,Calinou/scoop-games
 perfect-dark.json,Calinou/scoop-games
 kindandfair.json,Calinou/scoop-games
@@ -8339,7 +8339,7 @@ MasterSeeker.json,dodorz/scoop
 TweakPower.json,dodorz/scoop
 Acreom.json,dodorz/scoop
 Markra.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 CleanUp.json,dodorz/scoop
 Shorten.json,dodorz/scoop
 AdguardHome_dodorz.json,dodorz/scoop
@@ -9049,7 +9049,7 @@ pcsx2-dev_borger.json,borger/scoop-emulators
 shadps4_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
-eden-nightly.json,borger/scoop-emulators
+eden-nightly_borger.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
@@ -9064,7 +9064,7 @@ duckstation-preview_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
-ppsspp-dev.json,borger/scoop-emulators
+ppsspp-dev_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
@@ -11168,6 +11168,7 @@ tracy_naderi.json,naderi/scoop-bucket
 converter-now.json,naderi/scoop-bucket
 mitec-network-meter.json,naderi/scoop-bucket
 exif-pilot.json,naderi/scoop-bucket
+orca-agent-ide.json,naderi/scoop-bucket
 proxsign.json,naderi/scoop-bucket
 mitec-xml-viewer.json,naderi/scoop-bucket
 dogecoin-core.json,naderi/scoop-bucket
@@ -14650,7 +14651,7 @@ qbittorrent_HUMORCE.json,HUMORCE/nuke
 bandizip-classic.json,HUMORCE/nuke
 ungoogled-chromium_HUMORCE.json,HUMORCE/nuke
 archisteamfarm_HUMORCE.json,HUMORCE/nuke
-ruffle-nightly_HUMORCE.json,HUMORCE/nuke
+ruffle-nightly.json,HUMORCE/nuke
 sdcc-snapshot-x86_64.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP_HUMORCE.json,HUMORCE/nuke
@@ -16177,7 +16178,7 @@ phantomjs_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 foobar2000-encoders_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 xleak_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 ark_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-micromamba.json,ShuguangSun/sgs-scoop-bucket
+micromamba_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 r_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 r-4.6.1.json,ShuguangSun/sgs-scoop-bucket
 sioyek_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
