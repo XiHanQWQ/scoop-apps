@@ -8340,7 +8340,7 @@ MasterSeeker.json,dodorz/scoop
 TweakPower.json,dodorz/scoop
 Acreom.json,dodorz/scoop
 Markra.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 CleanUp.json,dodorz/scoop
 Shorten.json,dodorz/scoop
 AdguardHome_dodorz.json,dodorz/scoop
@@ -9054,7 +9054,7 @@ eden-nightly_borger.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
-rpcs3.json,borger/scoop-emulators
+rpcs3_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
 spaghettikart.json,borger/scoop-emulators
@@ -9069,7 +9069,7 @@ ppsspp-dev_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
-shadps4-dev.json,borger/scoop-emulators
+shadps4-dev_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 shipwright_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
@@ -9217,7 +9217,7 @@ cpuz-cn.json,ViCrack/scoop-bucket
 java-echo-generator-release.json,ViCrack/scoop-bucket
 bluelife-host-editor.json,ViCrack/scoop-bucket
 caesium.json,ViCrack/scoop-bucket
-yakit_ViCrack.json,ViCrack/scoop-bucket
+yakit.json,ViCrack/scoop-bucket
 afrog_ViCrack.json,ViCrack/scoop-bucket
 git-repo-clean.json,ViCrack/scoop-bucket
 fastgithub.json,ViCrack/scoop-bucket
@@ -10559,7 +10559,6 @@ typora-plugin.json,DoveBoy/Apps
 ghostdownloader3.json,DoveBoy/Apps
 calctus.json,DoveBoy/Apps
 pastebarapp-portable.json,DoveBoy/Apps
-imageglass_DoveBoy.json,DoveBoy/Apps
 qr_DoveBoy.json,DoveBoy/Apps
 chromedriver_DoveBoy.json,DoveBoy/Apps
 officetoolplus_DoveBoy.json,DoveBoy/Apps
