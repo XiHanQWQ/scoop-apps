@@ -9054,7 +9054,7 @@ eden-nightly_borger.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
-rpcs3_borger.json,borger/scoop-emulators
+rpcs3.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
 spaghettikart.json,borger/scoop-emulators
@@ -9069,7 +9069,7 @@ ppsspp-dev_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
-shadps4-dev_borger.json,borger/scoop-emulators
+shadps4-dev.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 shipwright_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
@@ -9504,6 +9504,7 @@ obs-studio_akirco.json,akirco/aki-apps
 simple-live.json,akirco/aki-apps
 windsurf_akirco.json,akirco/aki-apps
 cmake_akirco.json,akirco/aki-apps
+bilibili-livehime.json,akirco/aki-apps
 nexusfont_akirco.json,akirco/aki-apps
 instaloader.json,akirco/aki-apps
 php_akirco.json,akirco/aki-apps
@@ -9998,6 +9999,7 @@ xiadown.json,DoveBoy/Apps
 lynmusic.json,DoveBoy/Apps
 ytplayer.json,DoveBoy/Apps
 opentrace_DoveBoy.json,DoveBoy/Apps
+srcbox-portable.json,DoveBoy/Apps
 sing-box_DoveBoy.json,DoveBoy/Apps
 typora-dev_DoveBoy.json,DoveBoy/Apps
 czkawka_DoveBoy.json,DoveBoy/Apps
@@ -10124,6 +10126,7 @@ droppoint.json,DoveBoy/Apps
 jenny.json,DoveBoy/Apps
 neteaseuu.json,DoveBoy/Apps
 douyin-downloader.json,DoveBoy/Apps
+husi.json,DoveBoy/Apps
 winupdateminitool.json,DoveBoy/Apps
 min_DoveBoy.json,DoveBoy/Apps
 scoop-search-multisource.json,DoveBoy/Apps
@@ -10203,6 +10206,7 @@ psscripttools.json,DoveBoy/Apps
 anyportal.json,DoveBoy/Apps
 restart-explorer_DoveBoy.json,DoveBoy/Apps
 fix-print-spooler_DoveBoy.json,DoveBoy/Apps
+srcbox.json,DoveBoy/Apps
 python-tab-completion.json,DoveBoy/Apps
 winget_DoveBoy.json,DoveBoy/Apps
 gopeed-web.json,DoveBoy/Apps
@@ -10321,6 +10325,7 @@ go-music-dl.json,DoveBoy/Apps
 mycomputermanager.json,DoveBoy/Apps
 piliplus.json,DoveBoy/Apps
 flclash-portable.json,DoveBoy/Apps
+cctvvideodownloader.json,DoveBoy/Apps
 modernflyouts_DoveBoy.json,DoveBoy/Apps
 nekoray_DoveBoy.json,DoveBoy/Apps
 curl_DoveBoy.json,DoveBoy/Apps
@@ -10416,6 +10421,7 @@ sudo_DoveBoy.json,DoveBoy/Apps
 diskgenius_DoveBoy.json,DoveBoy/Apps
 binggpt-portable.json,DoveBoy/Apps
 tiktokdownloader.json,DoveBoy/Apps
+aria2-next.json,DoveBoy/Apps
 wechatrealfriends.json,DoveBoy/Apps
 music-you.json,DoveBoy/Apps
 spotx.json,DoveBoy/Apps
@@ -10553,6 +10559,7 @@ typora-plugin.json,DoveBoy/Apps
 ghostdownloader3.json,DoveBoy/Apps
 calctus.json,DoveBoy/Apps
 pastebarapp-portable.json,DoveBoy/Apps
+imageglass_DoveBoy.json,DoveBoy/Apps
 qr_DoveBoy.json,DoveBoy/Apps
 chromedriver_DoveBoy.json,DoveBoy/Apps
 officetoolplus_DoveBoy.json,DoveBoy/Apps
@@ -10575,6 +10582,7 @@ monit.json,DoveBoy/Apps
 bilibilidown_DoveBoy.json,DoveBoy/Apps
 pilinara.json,DoveBoy/Apps
 stable-diffusion-webui.json,DoveBoy/Apps
+husi-pre.json,DoveBoy/Apps
 jellyfin-media-player_DoveBoy.json,DoveBoy/Apps
 tabby_DoveBoy.json,DoveBoy/Apps
 everything-beta_DoveBoy.json,DoveBoy/Apps
@@ -10582,6 +10590,7 @@ dnsjumper_DoveBoy.json,DoveBoy/Apps
 pixivbiu.json,DoveBoy/Apps
 easy-context-menu_DoveBoy.json,DoveBoy/Apps
 ventoy_DoveBoy.json,DoveBoy/Apps
+cctvvideodownloader-cli.json,DoveBoy/Apps
 lively_DoveBoy.json,DoveBoy/Apps
 wpsoffice-cn.json,DoveBoy/Apps
 biu-portable.json,DoveBoy/Apps
@@ -16141,7 +16150,7 @@ emacs-kiennq-ucrt-mps.json,ShuguangSun/sgs-scoop-bucket
 defineEditor.json,ShuguangSun/sgs-scoop-bucket
 julia_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 FiraCode_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-r-devel.json,ShuguangSun/sgs-scoop-bucket
+r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 llvm_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 rtools45.json,ShuguangSun/sgs-scoop-bucket
 r-4.4.0.json,ShuguangSun/sgs-scoop-bucket
