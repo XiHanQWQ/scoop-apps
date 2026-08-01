@@ -8896,7 +8896,7 @@ electrem.json,hermanjustnu/scoop-emulators
 retroarch_hermanjustnu.json,hermanjustnu/scoop-emulators
 snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
 cxbx-reloaded_hermanjustnu.json,hermanjustnu/scoop-emulators
-redream-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+redream-dev.json,hermanjustnu/scoop-emulators
 virtualjaguar.json,hermanjustnu/scoop-emulators
 vice-sdl2.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -9053,7 +9053,7 @@ emacs-lsp-booster.json,kiennq/scoop-misc
 cemu-x.json,kiennq/scoop-misc
 joyshockmapper.json,kiennq/scoop-misc
 cemuhook-webgyro.json,kiennq/scoop-misc
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 shadps4_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
@@ -9085,7 +9085,7 @@ ppsspp_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
-redream-dev.json,borger/scoop-emulators
+redream-dev_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
@@ -10042,6 +10042,7 @@ mocreak.json,DoveBoy/Apps
 uad.json,DoveBoy/Apps
 flut-renamer.json,DoveBoy/Apps
 onlyoffice-desktopeditors_DoveBoy.json,DoveBoy/Apps
+shotcut_DoveBoy.json,DoveBoy/Apps
 yt-dlp_DoveBoy.json,DoveBoy/Apps
 clash-party-portable.json,DoveBoy/Apps
 freecontrol.json,DoveBoy/Apps
@@ -11542,7 +11543,7 @@ filebrowser_amorphobia.json,amorphobia/siku
 rains_amorphobia.json,amorphobia/siku
 setacl-studio.json,amorphobia/siku
 setacl.json,amorphobia/siku
-plain-craft-launcher_amorphobia.json,amorphobia/siku
+plain-craft-launcher.json,amorphobia/siku
 tally-marks.json,amorphobia/siku
 arturo_amorphobia.json,amorphobia/siku
 treeline.json,amorphobia/siku
