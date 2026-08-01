@@ -1442,7 +1442,7 @@ aptakube.json,ScoopInstaller/Extras
 caesium-image-compressor.json,ScoopInstaller/Extras
 keynavish.json,ScoopInstaller/Extras
 avidemux.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 ec2-api-tools.json,ScoopInstaller/Extras
 runcat.json,ScoopInstaller/Extras
 wecom.json,ScoopInstaller/Extras
@@ -8160,6 +8160,7 @@ ExcelCompare.json,dodorz/scoop
 SciTE_dodorz.json,dodorz/scoop
 JiduScan_dodorz.json,dodorz/scoop
 AnytxtSearcher-np.json,dodorz/scoop
+tty7.json,dodorz/scoop
 Notepad4_zh-Hans-AVX2.json,dodorz/scoop
 SquirrelShell.json,dodorz/scoop
 Vibe.json,dodorz/scoop
@@ -8339,7 +8340,7 @@ MasterSeeker.json,dodorz/scoop
 TweakPower.json,dodorz/scoop
 Acreom.json,dodorz/scoop
 Markra.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 CleanUp.json,dodorz/scoop
 Shorten.json,dodorz/scoop
 AdguardHome_dodorz.json,dodorz/scoop
@@ -8767,6 +8768,7 @@ TomBoy-NG_dodorz.json,dodorz/scoop
 ZGrapher.json,dodorz/scoop
 EncryptCare.json,dodorz/scoop
 Quicker_dodorz.json,dodorz/scoop
+Termy.json,dodorz/scoop
 Clash_dodorz.json,dodorz/scoop
 tim_dodorz.json,dodorz/scoop
 md5-f2ko.json,dodorz/scoop
@@ -9045,7 +9047,7 @@ emacs-lsp-booster.json,kiennq/scoop-misc
 cemu-x.json,kiennq/scoop-misc
 joyshockmapper.json,kiennq/scoop-misc
 cemuhook-webgyro.json,kiennq/scoop-misc
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 shadps4_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
@@ -9053,7 +9055,7 @@ eden-nightly_borger.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
-rpcs3_borger.json,borger/scoop-emulators
+rpcs3.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
 spaghettikart.json,borger/scoop-emulators
@@ -9093,7 +9095,7 @@ mgba-dev_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 azahar_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
-xemu-dev_borger.json,borger/scoop-emulators
+xemu-dev.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
 gopher64_borger.json,borger/scoop-emulators
@@ -9799,7 +9801,7 @@ portqry_wangzq.json,wangzq/scoop-bucket
 physdiskwrite.json,wangzq/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
 vhs_charmbracelet.json,charmbracelet/scoop-bucket
-crush.json,charmbracelet/scoop-bucket
+crush_charmbracelet.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
 markscribe.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
@@ -10034,6 +10036,7 @@ mocreak.json,DoveBoy/Apps
 uad.json,DoveBoy/Apps
 flut-renamer.json,DoveBoy/Apps
 onlyoffice-desktopeditors_DoveBoy.json,DoveBoy/Apps
+shotcut.json,DoveBoy/Apps
 yt-dlp_DoveBoy.json,DoveBoy/Apps
 clash-party-portable.json,DoveBoy/Apps
 freecontrol.json,DoveBoy/Apps
@@ -12863,7 +12866,7 @@ git-who.json,batkiz/backit
 dev-toys-cli.json,batkiz/backit
 tinytex-min_batkiz.json,batkiz/backit
 drep.json,batkiz/backit
-tty7.json,batkiz/backit
+tty7_batkiz.json,batkiz/backit
 markra_batkiz.json,batkiz/backit
 embarcadero-dev-cpp.json,batkiz/backit
 git-branch-stash.json,batkiz/backit
@@ -13032,24 +13035,6 @@ wezterm-grapao-original-style.json,ocodo/wezterm-alt-windows-icon-builds
 wezterm-grapao-green.json,ocodo/wezterm-alt-windows-icon-builds
 wezterm-grapao-base.json,ocodo/wezterm-alt-windows-icon-builds
 wezterm-gf3-ultrabrite.json,ocodo/wezterm-alt-windows-icon-builds
-qtpass_zirnc.json,zirnc/peach
-qownnotes_zirnc.json,zirnc/peach
-toggl_zirnc.json,zirnc/peach
-drawio.json,zirnc/peach
-lemon_zirnc.json,zirnc/peach
-vivetool_zirnc.json,zirnc/peach
-caret_zirnc.json,zirnc/peach
-swifty.json,zirnc/peach
-translatium.json,zirnc/peach
-parsify.json,zirnc/peach
-mongood.json,zirnc/peach
-lite_zirnc.json,zirnc/peach
-runjs_zirnc.json,zirnc/peach
-notepanda.json,zirnc/peach
-switch.json,zirnc/peach
-apkstudio.json,zirnc/peach
-tencent-edu.json,zirnc/peach
-kanmail.json,zirnc/peach
 leanify.json,seumsc/scoop-seu
 pfsextractor.json,seumsc/scoop-seu
 kook_seumsc.json,seumsc/scoop-seu
@@ -14569,7 +14554,7 @@ qbittorrent_HUMORCE.json,HUMORCE/nuke
 bandizip-classic.json,HUMORCE/nuke
 ungoogled-chromium_HUMORCE.json,HUMORCE/nuke
 archisteamfarm_HUMORCE.json,HUMORCE/nuke
-ruffle-nightly.json,HUMORCE/nuke
+ruffle-nightly_HUMORCE.json,HUMORCE/nuke
 sdcc-snapshot-x86_64.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP_HUMORCE.json,HUMORCE/nuke
@@ -16053,7 +16038,7 @@ emacs-kiennq-ucrt-mps.json,ShuguangSun/sgs-scoop-bucket
 defineEditor.json,ShuguangSun/sgs-scoop-bucket
 julia_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 FiraCode_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+r-devel.json,ShuguangSun/sgs-scoop-bucket
 llvm_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 rtools45.json,ShuguangSun/sgs-scoop-bucket
 r-4.4.0.json,ShuguangSun/sgs-scoop-bucket
@@ -17172,7 +17157,7 @@ rtk_windedge.json,windedge/ladle-bucket
 coraldesk.json,windedge/ladle-bucket
 termora.json,windedge/ladle-bucket
 mindolph.json,windedge/ladle-bucket
-forgecode.json,windedge/ladle-bucket
+forgecode_windedge.json,windedge/ladle-bucket
 heimer.json,windedge/ladle-bucket
 scia-reto.json,windedge/ladle-bucket
 httpie-desktop.json,windedge/ladle-bucket
