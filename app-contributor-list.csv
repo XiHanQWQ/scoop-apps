@@ -2200,6 +2200,7 @@ emule.json,ScoopInstaller/Extras
 superslicer.json,ScoopInstaller/Extras
 zeebe-modeler.json,ScoopInstaller/Extras
 flashboot.json,ScoopInstaller/Extras
+proxelar.json,ScoopInstaller/Extras
 goland.json,ScoopInstaller/Extras
 gpxsee.json,ScoopInstaller/Extras
 identme.json,ScoopInstaller/Extras
@@ -2693,6 +2694,7 @@ patheditor.json,ScoopInstaller/Extras
 boot-clj.json,ScoopInstaller/Extras
 clustalx.json,ScoopInstaller/Extras
 emule-community.json,ScoopInstaller/Extras
+tura.json,ScoopInstaller/Extras
 meshlab.json,ScoopInstaller/Extras
 scooper.json,ScoopInstaller/Extras
 goneovim.json,ScoopInstaller/Extras
@@ -3023,6 +3025,7 @@ mupdf.json,ScoopInstaller/Extras
 xmlnotepad.json,ScoopInstaller/Extras
 kicad.json,ScoopInstaller/Extras
 torrent-file-editor.json,ScoopInstaller/Extras
+ipe.json,ScoopInstaller/Extras
 robocopy-gui.json,ScoopInstaller/Extras
 logstalgia.json,ScoopInstaller/Extras
 ludusavi.json,ScoopInstaller/Extras
@@ -7916,7 +7919,7 @@ XSearch.json,dodorz/scoop
 cjoe-static.json,dodorz/scoop
 Wave-Terminal_dodorz.json,dodorz/scoop
 Squoosh-Desktop.json,dodorz/scoop
-Ipe.json,dodorz/scoop
+Ipe_dodorz.json,dodorz/scoop
 QoderWork.json,dodorz/scoop
 MarkDownEditor.json,dodorz/scoop
 Mindbox.json,dodorz/scoop
@@ -8088,6 +8091,7 @@ AESCrypt-CLI.json,dodorz/scoop
 Dissenter.json,dodorz/scoop
 mpg123-dynamic.json,dodorz/scoop
 OpenLiveWriter.json,dodorz/scoop
+MPUI.json,dodorz/scoop
 Oatmeal.json,dodorz/scoop
 NSMusicS.json,dodorz/scoop
 TextLocator.json,dodorz/scoop
@@ -8595,6 +8599,7 @@ TorchBrowser.json,dodorz/scoop
 CoolPlayer.json,dodorz/scoop
 AESCrypt.json,dodorz/scoop
 Falkon_dodorz.json,dodorz/scoop
+CwRsync_dodorz.json,dodorz/scoop
 Notepad4_HD.json,dodorz/scoop
 ProcessKO.json,dodorz/scoop
 TextFilter.json,dodorz/scoop
@@ -8631,6 +8636,7 @@ Rusl.json,dodorz/scoop
 KeyTone.json,dodorz/scoop
 WinGPG.json,dodorz/scoop
 AlephNote.json,dodorz/scoop
+glogg_dodorz.json,dodorz/scoop
 Kawa.json,dodorz/scoop
 PasteEx_dodorz.json,dodorz/scoop
 Capture2Text-zh-cn.json,dodorz/scoop
@@ -8723,6 +8729,7 @@ dawn.json,dodorz/scoop
 imgcat.json,dodorz/scoop
 DrJava.json,dodorz/scoop
 pwsh-fxdepWinDesk.json,dodorz/scoop
+EverEdit_dodorz.json,dodorz/scoop
 PyCmd.json,dodorz/scoop
 jot.json,dodorz/scoop
 Keybase.json,dodorz/scoop
@@ -8785,7 +8792,6 @@ TencentMeeting_dodorz.json,dodorz/scoop
 smagit.json,dodorz/scoop
 FriCAS_dodorz.json,dodorz/scoop
 FreeZIPPasswordRecovery.json,dodorz/scoop
-MPUI.json,dodorz/scoop
 GlazeWM-np_dodorz.json,dodorz/scoop
 gpg_dodorz.json,dodorz/scoop
 GaiaSky.json,dodorz/scoop
@@ -9062,11 +9068,11 @@ spaghettikart.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
-duckstation-preview.json,borger/scoop-emulators
+duckstation-preview_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
-ppsspp-dev_borger.json,borger/scoop-emulators
+ppsspp-dev.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
@@ -10003,7 +10009,6 @@ srcbox-portable.json,DoveBoy/Apps
 sing-box_DoveBoy.json,DoveBoy/Apps
 typora-dev_DoveBoy.json,DoveBoy/Apps
 czkawka_DoveBoy.json,DoveBoy/Apps
-forkgram_DoveBoy.json,DoveBoy/Apps
 gping_DoveBoy.json,DoveBoy/Apps
 handbrake_DoveBoy.json,DoveBoy/Apps
 buzz_DoveBoy.json,DoveBoy/Apps
@@ -11023,7 +11028,7 @@ winsw_wzv5.json,wzv5/ScoopBucket
 zabbix-agent.json,wzv5/ScoopBucket
 nodejs-bin.json,wzv5/ScoopBucket
 winobjex64.json,wzv5/ScoopBucket
-qqlive.json,wzv5/ScoopBucket
+qqlive_wzv5.json,wzv5/ScoopBucket
 gost_wzv5.json,wzv5/ScoopBucket
 pyembed-downloader.json,wzv5/ScoopBucket
 python_wzv5.json,wzv5/ScoopBucket
@@ -11043,7 +11048,7 @@ nattypetester_wzv5.json,wzv5/ScoopBucket
 volumelock.json,wzv5/ScoopBucket
 python-doc.json,wzv5/ScoopBucket
 xnview_wzv5.json,wzv5/ScoopBucket
-kazumi_wzv5.json,wzv5/ScoopBucket
+kazumi.json,wzv5/ScoopBucket
 aliyundrive_wzv5.json,wzv5/ScoopBucket
 sni.json,wzv5/ScoopBucket
 evernote.json,wzv5/ScoopBucket
@@ -11669,7 +11674,7 @@ maaend_Small-Ku.json,Small-Ku/turbo-bucket
 cli-proxy-api.json,Small-Ku/turbo-bucket
 source-han-serif-vf-ttc.json,Small-Ku/turbo-bucket
 freebuff.json,Small-Ku/turbo-bucket
-qoder-cli_Small-Ku.json,Small-Ku/turbo-bucket
+qoder-cli.json,Small-Ku/turbo-bucket
 gemini-cli.json,Small-Ku/turbo-bucket
 notepad4_Small-Ku.json,Small-Ku/turbo-bucket
 natural-voice-sapi-adapter.json,Small-Ku/turbo-bucket
