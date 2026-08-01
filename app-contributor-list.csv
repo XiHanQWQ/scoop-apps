@@ -3553,7 +3553,6 @@ belautils.json,chawyehsu/dorado
 gowall.json,chawyehsu/dorado
 electron-cash_chawyehsu.json,chawyehsu/dorado
 isaac-save-installer.json,chawyehsu/dorado
-electerm_chawyehsu.json,chawyehsu/dorado
 bililiverecorder.json,chawyehsu/dorado
 tgpt.json,chawyehsu/dorado
 bilibili.json,chawyehsu/dorado
@@ -8340,7 +8339,7 @@ MasterSeeker.json,dodorz/scoop
 TweakPower.json,dodorz/scoop
 Acreom.json,dodorz/scoop
 Markra.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 CleanUp.json,dodorz/scoop
 Shorten.json,dodorz/scoop
 AdguardHome_dodorz.json,dodorz/scoop
@@ -8889,7 +8888,7 @@ electrem.json,hermanjustnu/scoop-emulators
 retroarch_hermanjustnu.json,hermanjustnu/scoop-emulators
 snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
 cxbx-reloaded_hermanjustnu.json,hermanjustnu/scoop-emulators
-redream-dev.json,hermanjustnu/scoop-emulators
+redream-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 virtualjaguar.json,hermanjustnu/scoop-emulators
 vice-sdl2.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -9046,15 +9045,15 @@ emacs-lsp-booster.json,kiennq/scoop-misc
 cemu-x.json,kiennq/scoop-misc
 joyshockmapper.json,kiennq/scoop-misc
 cemuhook-webgyro.json,kiennq/scoop-misc
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 shadps4_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
-eden-nightly.json,borger/scoop-emulators
+eden-nightly_borger.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
-rpcs3.json,borger/scoop-emulators
+rpcs3_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
 spaghettikart.json,borger/scoop-emulators
@@ -9065,7 +9064,7 @@ duckstation-preview_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
-ppsspp-dev.json,borger/scoop-emulators
+ppsspp-dev_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
@@ -9078,7 +9077,7 @@ ppsspp_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
-redream-dev.json,borger/scoop-emulators
+redream-dev_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
@@ -9089,7 +9088,6 @@ starship_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
 mednafen_borger.json,borger/scoop-emulators
-banjo-recompiled.json,borger/scoop-emulators
 2ship2harkinian.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
@@ -9505,7 +9503,6 @@ obs-studio_akirco.json,akirco/aki-apps
 simple-live.json,akirco/aki-apps
 windsurf_akirco.json,akirco/aki-apps
 cmake_akirco.json,akirco/aki-apps
-bilibili-livehime.json,akirco/aki-apps
 nexusfont_akirco.json,akirco/aki-apps
 instaloader.json,akirco/aki-apps
 php_akirco.json,akirco/aki-apps
@@ -9802,7 +9799,7 @@ portqry_wangzq.json,wangzq/scoop-bucket
 physdiskwrite.json,wangzq/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
 vhs_charmbracelet.json,charmbracelet/scoop-bucket
-crush_charmbracelet.json,charmbracelet/scoop-bucket
+crush.json,charmbracelet/scoop-bucket
 skate.json,charmbracelet/scoop-bucket
 markscribe.json,charmbracelet/scoop-bucket
 charm.json,charmbracelet/scoop-bucket
@@ -10743,7 +10740,7 @@ emby_carnival.json,hu3rror/scoop-muggle
 scoop-backup-KNOXDEV_hu3rror.json,hu3rror/scoop-muggle
 nhse.json,hu3rror/scoop-muggle
 newrain-duplicate-photo-finder.json,hu3rror/scoop-muggle
-firefox-developer-zh-cn.json,hu3rror/scoop-muggle
+firefox-developer-zh-cn_hu3rror.json,hu3rror/scoop-muggle
 opensteamtool-gui-py.json,hu3rror/scoop-muggle
 tianruoocr_hu3rror.json,hu3rror/scoop-muggle
 acttools.json,hu3rror/scoop-muggle
@@ -14572,7 +14569,7 @@ qbittorrent_HUMORCE.json,HUMORCE/nuke
 bandizip-classic.json,HUMORCE/nuke
 ungoogled-chromium_HUMORCE.json,HUMORCE/nuke
 archisteamfarm_HUMORCE.json,HUMORCE/nuke
-ruffle-nightly_HUMORCE.json,HUMORCE/nuke
+ruffle-nightly.json,HUMORCE/nuke
 sdcc-snapshot-x86_64.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP_HUMORCE.json,HUMORCE/nuke
@@ -17175,7 +17172,7 @@ rtk_windedge.json,windedge/ladle-bucket
 coraldesk.json,windedge/ladle-bucket
 termora.json,windedge/ladle-bucket
 mindolph.json,windedge/ladle-bucket
-forgecode_windedge.json,windedge/ladle-bucket
+forgecode.json,windedge/ladle-bucket
 heimer.json,windedge/ladle-bucket
 scia-reto.json,windedge/ladle-bucket
 httpie-desktop.json,windedge/ladle-bucket
