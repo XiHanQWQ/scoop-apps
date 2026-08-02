@@ -9031,7 +9031,7 @@ blur.json,couleur-tweak-tips/utils
 discordcompressor.json,couleur-tweak-tips/utils
 smoothie.json,couleur-tweak-tips/utils
 icat.json,couleur-tweak-tips/utils
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 shadps4_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
@@ -9047,7 +9047,7 @@ project64-dev_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
 duckstation-preview_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
@@ -9194,7 +9194,7 @@ vscan.json,ViCrack/scoop-bucket
 ksubdomain_ViCrack.json,ViCrack/scoop-bucket
 fapro.json,ViCrack/scoop-bucket
 BowPad.json,ViCrack/scoop-bucket
-oxideterm.json,ViCrack/scoop-bucket
+oxideterm_ViCrack.json,ViCrack/scoop-bucket
 siyuan.json,ViCrack/scoop-bucket
 behinder_ViCrack.json,ViCrack/scoop-bucket
 ja.json,ViCrack/scoop-bucket
@@ -9403,7 +9403,6 @@ powertoys_akirco.json,akirco/aki-apps
 xidel_akirco.json,akirco/aki-apps
 handbrake-cli_akirco.json,akirco/aki-apps
 memo.json,akirco/aki-apps
-bin_akirco.json,akirco/aki-apps
 gsudo_akirco.json,akirco/aki-apps
 png2jpeg_akirco.json,akirco/aki-apps
 raylink.json,akirco/aki-apps
