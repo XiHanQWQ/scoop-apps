@@ -8644,6 +8644,7 @@ WinGPG.json,dodorz/scoop
 AlephNote.json,dodorz/scoop
 glogg_dodorz.json,dodorz/scoop
 Kawa.json,dodorz/scoop
+TheSemwareEditor.json,dodorz/scoop
 PasteEx_dodorz.json,dodorz/scoop
 Capture2Text-zh-cn.json,dodorz/scoop
 BaiduCDP.json,dodorz/scoop
@@ -8834,7 +8835,6 @@ EverythingToolbar_dodorz.json,dodorz/scoop
 AiPai.json,dodorz/scoop
 Mendeley_dodorz.json,dodorz/scoop
 OracleJDK11.json,dodorz/scoop
-TheSemwareEditor.json,dodorz/scoop
 BitKeeper.json,dodorz/scoop
 PDFSplitandMerge.json,dodorz/scoop
 Fotor.json,dodorz/scoop
@@ -14923,7 +14923,7 @@ qbittorrent_HUMORCE.json,HUMORCE/nuke
 bandizip-classic.json,HUMORCE/nuke
 ungoogled-chromium_HUMORCE.json,HUMORCE/nuke
 archisteamfarm_HUMORCE.json,HUMORCE/nuke
-ruffle-nightly.json,HUMORCE/nuke
+ruffle-nightly_HUMORCE.json,HUMORCE/nuke
 sdcc-snapshot-x86_64.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP_HUMORCE.json,HUMORCE/nuke
@@ -16109,7 +16109,7 @@ emacs-kiennq-ucrt-mps.json,ShuguangSun/sgs-scoop-bucket
 defineEditor.json,ShuguangSun/sgs-scoop-bucket
 julia_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 FiraCode_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+r-devel.json,ShuguangSun/sgs-scoop-bucket
 llvm_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 rtools45.json,ShuguangSun/sgs-scoop-bucket
 r-4.4.0.json,ShuguangSun/sgs-scoop-bucket
