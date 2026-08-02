@@ -8232,6 +8232,7 @@ Iridium.json,dodorz/scoop
 Go_dodorz.json,dodorz/scoop
 QQPlayer_dodorz.json,dodorz/scoop
 DismPlusPlus_dodorz.json,dodorz/scoop
+aacDECdrop.json,dodorz/scoop
 Tabby_dodorz.json,dodorz/scoop
 ColorStormPro.json,dodorz/scoop
 NetView.json,dodorz/scoop
@@ -8256,6 +8257,7 @@ DTaskManager.json,dodorz/scoop
 DocFetcher.json,dodorz/scoop
 epr.json,dodorz/scoop
 WriteMonkey3.json,dodorz/scoop
+pb.json,dodorz/scoop
 LightAlloy.json,dodorz/scoop
 RimageGUI.json,dodorz/scoop
 SMPlayer_dodorz.json,dodorz/scoop
@@ -8324,6 +8326,7 @@ KISSPlayer.json,dodorz/scoop
 XDM.json,dodorz/scoop
 NetPWAge.json,dodorz/scoop
 Notepad4-AVX512.json,dodorz/scoop
+VeryCapture.json,dodorz/scoop
 Python-embed.json,dodorz/scoop
 wkhtmltox.json,dodorz/scoop
 TextGO.json,dodorz/scoop
@@ -8346,7 +8349,7 @@ MasterSeeker.json,dodorz/scoop
 TweakPower.json,dodorz/scoop
 Acreom.json,dodorz/scoop
 Markra.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 CleanUp.json,dodorz/scoop
 Shorten.json,dodorz/scoop
 AdguardHome_dodorz.json,dodorz/scoop
@@ -8407,6 +8410,7 @@ edge-TTS-record.json,dodorz/scoop
 ima.copilot.json,dodorz/scoop
 TopMost2.json,dodorz/scoop
 MinerU.json,dodorz/scoop
+FastRawViewer.json,dodorz/scoop
 OSFMount.json,dodorz/scoop
 TidGi.json,dodorz/scoop
 LaTeXDraw.json,dodorz/scoop
@@ -8475,6 +8479,7 @@ jsonui.json,dodorz/scoop
 dgPDFCombiner.json,dodorz/scoop
 Notation.json,dodorz/scoop
 UpSnap.json,dodorz/scoop
+Scheme48.json,dodorz/scoop
 WizNote.json,dodorz/scoop
 Dexpot.json,dodorz/scoop
 md5sums.json,dodorz/scoop
@@ -8685,6 +8690,7 @@ MADPlay.json,dodorz/scoop
 Chord.json,dodorz/scoop
 HitomiDownloader.json,dodorz/scoop
 lanzou.json,dodorz/scoop
+QtPass.json,dodorz/scoop
 Regshot.json,dodorz/scoop
 Waveloom.json,dodorz/scoop
 UniversalViewerPro.json,dodorz/scoop
@@ -8800,13 +8806,11 @@ AtlantisNovaLite.json,dodorz/scoop
 FreeRARPasswordRecovery.json,dodorz/scoop
 ShowMyPC.json,dodorz/scoop
 RunJS.json,dodorz/scoop
-aacDECdrop.json,dodorz/scoop
 MindMaster.json,dodorz/scoop
 Citrio.json,dodorz/scoop
 OpenHashTab.json,dodorz/scoop
 PolarisOffice.json,dodorz/scoop
 wcurl_dodorz.json,dodorz/scoop
-pb.json,dodorz/scoop
 GPT4All.json,dodorz/scoop
 FormatFactory.json,dodorz/scoop
 Acme-SAC.json,dodorz/scoop
@@ -8820,7 +8824,6 @@ DataLab.json,dodorz/scoop
 AstroNvim.json,dodorz/scoop
 EXIFRename.json,dodorz/scoop
 Plume.json,dodorz/scoop
-Scheme48.json,dodorz/scoop
 AlomWareToolbox.json,dodorz/scoop
 VeraCrypt.json,dodorz/scoop
 AirplayReceiver.json,dodorz/scoop
@@ -8835,7 +8838,6 @@ TheSemwareEditor.json,dodorz/scoop
 BitKeeper.json,dodorz/scoop
 PDFSplitandMerge.json,dodorz/scoop
 Fotor.json,dodorz/scoop
-QtPass_dodorz.json,dodorz/scoop
 OneQuick.json,dodorz/scoop
 Evernote_dodorz.json,dodorz/scoop
 GaaihoReader.json,dodorz/scoop
@@ -8896,7 +8898,7 @@ electrem.json,hermanjustnu/scoop-emulators
 retroarch_hermanjustnu.json,hermanjustnu/scoop-emulators
 snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
 cxbx-reloaded_hermanjustnu.json,hermanjustnu/scoop-emulators
-redream-dev.json,hermanjustnu/scoop-emulators
+redream-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 virtualjaguar.json,hermanjustnu/scoop-emulators
 vice-sdl2.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -9053,7 +9055,7 @@ emacs-lsp-booster.json,kiennq/scoop-misc
 cemu-x.json,kiennq/scoop-misc
 joyshockmapper.json,kiennq/scoop-misc
 cemuhook-webgyro.json,kiennq/scoop-misc
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 shadps4_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
@@ -9182,7 +9184,7 @@ MonitorOff.json,ViCrack/scoop-bucket
 woodpecker_ViCrack.json,ViCrack/scoop-bucket
 cherry-studio_ViCrack.json,ViCrack/scoop-bucket
 sublinkpro.json,ViCrack/scoop-bucket
-verycapture.json,ViCrack/scoop-bucket
+verycapture_ViCrack.json,ViCrack/scoop-bucket
 dddd_ViCrack.json,ViCrack/scoop-bucket
 revokemsgpatcher_ViCrack.json,ViCrack/scoop-bucket
 mootool.json,ViCrack/scoop-bucket
@@ -10042,7 +10044,6 @@ mocreak.json,DoveBoy/Apps
 uad.json,DoveBoy/Apps
 flut-renamer.json,DoveBoy/Apps
 onlyoffice-desktopeditors_DoveBoy.json,DoveBoy/Apps
-shotcut_DoveBoy.json,DoveBoy/Apps
 yt-dlp_DoveBoy.json,DoveBoy/Apps
 clash-party-portable.json,DoveBoy/Apps
 freecontrol.json,DoveBoy/Apps
@@ -11543,7 +11544,7 @@ filebrowser_amorphobia.json,amorphobia/siku
 rains_amorphobia.json,amorphobia/siku
 setacl-studio.json,amorphobia/siku
 setacl.json,amorphobia/siku
-plain-craft-launcher.json,amorphobia/siku
+plain-craft-launcher_amorphobia.json,amorphobia/siku
 tally-marks.json,amorphobia/siku
 arturo_amorphobia.json,amorphobia/siku
 treeline.json,amorphobia/siku
@@ -12709,6 +12710,7 @@ linkandroid_Scoopforge.json,Scoopforge/Extras-Plus
 dingtalk-en.json,Scoopforge/Extras-Plus
 comfyui-manager.json,Scoopforge/Extras-Plus
 bananas.json,Scoopforge/Extras-Plus
+money-printer-turbo.json,Scoopforge/Extras-Plus
 alexandria.json,Scoopforge/Extras-Plus
 filecentipede.json,Scoopforge/Extras-Plus
 next-ai-drawio.json,Scoopforge/Extras-Plus
@@ -14921,7 +14923,7 @@ qbittorrent_HUMORCE.json,HUMORCE/nuke
 bandizip-classic.json,HUMORCE/nuke
 ungoogled-chromium_HUMORCE.json,HUMORCE/nuke
 archisteamfarm_HUMORCE.json,HUMORCE/nuke
-ruffle-nightly_HUMORCE.json,HUMORCE/nuke
+ruffle-nightly.json,HUMORCE/nuke
 sdcc-snapshot-x86_64.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP_HUMORCE.json,HUMORCE/nuke
@@ -16593,7 +16595,7 @@ Packer-Fuzzer.json,bright-angel/scoop-bucket
 sqlmap-flux.json,bright-angel/scoop-bucket
 Sublist3r.json,bright-angel/scoop-bucket
 webfinder-next.json,bright-angel/scoop-bucket
-verycapture.json,bright-angel/scoop-bucket
+verycapture_bright-angel.json,bright-angel/scoop-bucket
 MDUT-Extend.json,bright-angel/scoop-bucket
 dddd_bright-angel.json,bright-angel/scoop-bucket
 ChatBox_bright-angel.json,bright-angel/scoop-bucket
