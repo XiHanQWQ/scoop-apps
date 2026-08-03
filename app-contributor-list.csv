@@ -339,6 +339,7 @@ BrutalityExtractor.json,Weidows-projects/scoop-3rd
 SourceTree.json,Weidows-projects/scoop-3rd
 defender-control.json,Weidows-projects/scoop-3rd
 Archive-password-cracker.json,Weidows-projects/scoop-3rd
+bili-music.json,Weidows-projects/scoop-3rd
 uv-portable-cn.json,Weidows-projects/scoop-3rd
 Cursor.json,Weidows-projects/scoop-3rd
 gtk-runtime.json,Weidows-projects/scoop-3rd
@@ -8137,6 +8138,7 @@ DocFormat.json,dodorz/scoop
 ClipX.json,dodorz/scoop
 Listary_dodorz.json,dodorz/scoop
 CreaWriter.json,dodorz/scoop
+Cindy.json,dodorz/scoop
 Jarte.json,dodorz/scoop
 Nomad.NET.json,dodorz/scoop
 Dev-Cpp.json,dodorz/scoop
@@ -8144,6 +8146,7 @@ Q10.json,dodorz/scoop
 cht.sh.json,dodorz/scoop
 doxx.json,dodorz/scoop
 sK1.json,dodorz/scoop
+OpenScienceDesktop.json,dodorz/scoop
 NetSpeed.json,dodorz/scoop
 clawPDF-np.json,dodorz/scoop
 Pass4Win.json,dodorz/scoop
@@ -8202,6 +8205,7 @@ MP4Tools.json,dodorz/scoop
 ViDown.json,dodorz/scoop
 Notepad4_dodorz.json,dodorz/scoop
 HackMD.json,dodorz/scoop
+CindyCN.json,dodorz/scoop
 WinSW_dodorz.json,dodorz/scoop
 MiniHex.json,dodorz/scoop
 icdiff.json,dodorz/scoop
@@ -8250,6 +8254,7 @@ zot.json,dodorz/scoop
 FotoSketcher.json,dodorz/scoop
 yWriter.json,dodorz/scoop
 Eudic_dodorz.json,dodorz/scoop
+OpenScience.json,dodorz/scoop
 YoudaoDict.json,dodorz/scoop
 HBuilderX_dodorz.json,dodorz/scoop
 Qute.json,dodorz/scoop
@@ -8898,7 +8903,7 @@ electrem.json,hermanjustnu/scoop-emulators
 retroarch_hermanjustnu.json,hermanjustnu/scoop-emulators
 snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
 cxbx-reloaded_hermanjustnu.json,hermanjustnu/scoop-emulators
-redream-dev.json,hermanjustnu/scoop-emulators
+redream-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 virtualjaguar.json,hermanjustnu/scoop-emulators
 vice-sdl2.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -9063,7 +9068,7 @@ ppsspp_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
-redream-dev.json,borger/scoop-emulators
+redream-dev_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
@@ -14656,7 +14661,7 @@ qbittorrent_HUMORCE.json,HUMORCE/nuke
 bandizip-classic.json,HUMORCE/nuke
 ungoogled-chromium_HUMORCE.json,HUMORCE/nuke
 archisteamfarm_HUMORCE.json,HUMORCE/nuke
-ruffle-nightly.json,HUMORCE/nuke
+ruffle-nightly_HUMORCE.json,HUMORCE/nuke
 sdcc-snapshot-x86_64.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP_HUMORCE.json,HUMORCE/nuke
@@ -16049,7 +16054,7 @@ emacs-kiennq-ucrt-mps.json,ShuguangSun/sgs-scoop-bucket
 defineEditor.json,ShuguangSun/sgs-scoop-bucket
 julia_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 FiraCode_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+r-devel.json,ShuguangSun/sgs-scoop-bucket
 llvm_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 rtools45.json,ShuguangSun/sgs-scoop-bucket
 r-4.4.0.json,ShuguangSun/sgs-scoop-bucket
