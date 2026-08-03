@@ -9045,7 +9045,7 @@ eden-nightly_borger.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
-rpcs3.json,borger/scoop-emulators
+rpcs3_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
 spaghettikart.json,borger/scoop-emulators
@@ -9056,7 +9056,7 @@ duckstation-preview_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
-ppsspp-dev.json,borger/scoop-emulators
+ppsspp-dev_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
@@ -9069,7 +9069,7 @@ ppsspp_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
-redream-dev.json,borger/scoop-emulators
+redream-dev_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
@@ -9085,7 +9085,7 @@ mgba-dev_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 azahar_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
-xemu-dev.json,borger/scoop-emulators
+xemu-dev_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
 gopher64_borger.json,borger/scoop-emulators
@@ -9245,7 +9245,7 @@ hyacinth.json,ViCrack/scoop-bucket
 cyberapi.json,ViCrack/scoop-bucket
 scan4all_ViCrack.json,ViCrack/scoop-bucket
 jar-analyzer_ViCrack.json,ViCrack/scoop-bucket
-feishurevokemsgpatcher.json,ViCrack/scoop-bucket
+feishurevokemsgpatcher_ViCrack.json,ViCrack/scoop-bucket
 chmac.json,ViCrack/scoop-bucket
 treesize_ViCrack.json,ViCrack/scoop-bucket
 pyxis.json,ViCrack/scoop-bucket
@@ -10161,6 +10161,7 @@ deskreen_DoveBoy.json,DoveBoy/Apps
 escrcpy-portable.json,DoveBoy/Apps
 ximalaya-downloader.json,DoveBoy/Apps
 binggpt.json,DoveBoy/Apps
+mpv-git_DoveBoy.json,DoveBoy/Apps
 tmall-miao.json,DoveBoy/Apps
 watttoolkit-beta.json,DoveBoy/Apps
 network-profile-name-changer_DoveBoy.json,DoveBoy/Apps
@@ -10566,6 +10567,7 @@ openbbterminal.json,DoveBoy/Apps
 letrecovery.json,DoveBoy/Apps
 bbk-cli_DoveBoy.json,DoveBoy/Apps
 clash-rev-compatible.json,DoveBoy/Apps
+fiddler_DoveBoy.json,DoveBoy/Apps
 clash-nyanpasu-portable.json,DoveBoy/Apps
 winmerge_DoveBoy.json,DoveBoy/Apps
 gitalias.json,DoveBoy/Apps
@@ -12512,6 +12514,7 @@ sqluv.json,aliesbelik/poldi
 gossl.json,aliesbelik/poldi
 ente-cli.json,aliesbelik/poldi
 hloader.json,aliesbelik/poldi
+pik.json,aliesbelik/poldi
 ghs.json,aliesbelik/poldi
 hf.json,aliesbelik/poldi
 hgrep_aliesbelik.json,aliesbelik/poldi
@@ -13874,7 +13877,7 @@ beyondcompare5-zh.json,maboloshi/scoop-private
 cmirror.json,maboloshi/scoop-private
 CascadiaMono-NF-Mono_maboloshi.json,maboloshi/scoop-private
 sublime-merge.json,maboloshi/scoop-private
-ima-copilot_maboloshi.json,maboloshi/scoop-private
+ima-copilot.json,maboloshi/scoop-private
 n-m3u8dl-cli_maboloshi.json,maboloshi/scoop-private
 weixin.json,maboloshi/scoop-private
 clickmonitorddc-cn.json,maboloshi/scoop-private
