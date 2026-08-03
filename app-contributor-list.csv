@@ -2439,7 +2439,7 @@ arduino.json,ScoopInstaller/Extras
 iographica.json,ScoopInstaller/Extras
 mkvmergebatcher.json,ScoopInstaller/Extras
 tts-voice-wizard.json,ScoopInstaller/Extras
-waifu2x-extension-gui.json,ScoopInstaller/Extras
+waifu2x-extension-gui_ScoopInstaller.json,ScoopInstaller/Extras
 q-dir.json,ScoopInstaller/Extras
 opennbs.json,ScoopInstaller/Extras
 wsltty.json,ScoopInstaller/Extras
@@ -8349,7 +8349,7 @@ MasterSeeker.json,dodorz/scoop
 TweakPower.json,dodorz/scoop
 Acreom.json,dodorz/scoop
 Markra.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 CleanUp.json,dodorz/scoop
 Shorten.json,dodorz/scoop
 AdguardHome_dodorz.json,dodorz/scoop
@@ -8898,7 +8898,7 @@ electrem.json,hermanjustnu/scoop-emulators
 retroarch_hermanjustnu.json,hermanjustnu/scoop-emulators
 snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
 cxbx-reloaded_hermanjustnu.json,hermanjustnu/scoop-emulators
-redream-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+redream-dev.json,hermanjustnu/scoop-emulators
 virtualjaguar.json,hermanjustnu/scoop-emulators
 vice-sdl2.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
@@ -9063,7 +9063,7 @@ ppsspp_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
-redream-dev_borger.json,borger/scoop-emulators
+redream-dev.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
@@ -11412,7 +11412,7 @@ win-gpg.json,naderi/scoop-bucket
 win-bash_naderi.json,naderi/scoop-bucket
 wise-registry-cleaner.json,naderi/scoop-bucket
 xnview-classic-full.json,naderi/scoop-bucket
-nuclear.json,naderi/scoop-bucket
+nuclear_naderi.json,naderi/scoop-bucket
 edge-portable-dev.json,naderi/scoop-bucket
 encfs.json,naderi/scoop-bucket
 iconview_naderi.json,naderi/scoop-bucket
@@ -13090,6 +13090,7 @@ UsbEAm-Hosts-Editor.json,Darkatse/Scoop-Darkatse
 Clash-Verge.json,Darkatse/Scoop-Darkatse
 ZenTimings.json,Darkatse/Scoop-Darkatse
 Termius_Darkatse.json,Darkatse/Scoop-Darkatse
+TauriTavern-canary.json,Darkatse/Scoop-Darkatse
 steamcommunity-302.json,Darkatse/Scoop-Darkatse
 Genshin-Wish-Export.json,Darkatse/Scoop-Darkatse
 YogaDNS.json,Darkatse/Scoop-Darkatse
@@ -14655,7 +14656,7 @@ qbittorrent_HUMORCE.json,HUMORCE/nuke
 bandizip-classic.json,HUMORCE/nuke
 ungoogled-chromium_HUMORCE.json,HUMORCE/nuke
 archisteamfarm_HUMORCE.json,HUMORCE/nuke
-ruffle-nightly_HUMORCE.json,HUMORCE/nuke
+ruffle-nightly.json,HUMORCE/nuke
 sdcc-snapshot-x86_64.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP_HUMORCE.json,HUMORCE/nuke
@@ -17065,7 +17066,7 @@ claurst.json,windedge/ladle-bucket
 llama-cpp-ipex-llm-npu.json,windedge/ladle-bucket
 dyad_windedge.json,windedge/ladle-bucket
 godot-kotlin-jvm.json,windedge/ladle-bucket
-mdview_windedge.json,windedge/ladle-bucket
+mdview.json,windedge/ladle-bucket
 seabird.json,windedge/ladle-bucket
 glaxnimate.json,windedge/ladle-bucket
 orca-ade.json,windedge/ladle-bucket
