@@ -1,36 +1,36 @@
 {
-    "version": "1.20.4-866-g698fb7e39d",
-    "description": "Sony PlayStation Portable (PSP) emulator. Development build",
+    "version": "1.20.4-879-g3eeae2d89a",
+    "description": "Sony PlayStation Portable (PSP) emulator",
     "homepage": "https://www.ppsspp.org",
     "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://builds.ppsspp.org/builds/v1.20.4-866-g698fb7e39d/ppsspp_win_v1.20.4-866-g698fb7e39d.zip",
-            "hash": "85bec65ef38a5a4c0d654fe5ce98ba9ce1c0a0bea6920b477c7860491e5fe95f",
+            "url": "https://builds.ppsspp.org/builds/v1.20.4-879-g3eeae2d89a/ppsspp_win_v1.20.4-879-g3eeae2d89a.zip",
+            "hash": "4b03b3dde19930860852e9ab81f3dac86dc0e8166f041b9674cc298fcf73fd38",
             "shortcuts": [
                 [
                     "PPSSPPWindows64.exe",
-                    "PPSSPP (Development)"
+                    "Sony PlayStation Portable [psp][ppsspp] (dev)"
                 ]
             ]
         },
         "32bit": {
-            "url": "https://builds.ppsspp.org/builds/v1.20.4-866-g698fb7e39d/ppsspp_win_v1.20.4-866-g698fb7e39d.zip",
-            "hash": "85bec65ef38a5a4c0d654fe5ce98ba9ce1c0a0bea6920b477c7860491e5fe95f",
+            "url": "https://builds.ppsspp.org/builds/v1.20.4-879-g3eeae2d89a/ppsspp_win_v1.20.4-879-g3eeae2d89a.zip",
+            "hash": "4b03b3dde19930860852e9ab81f3dac86dc0e8166f041b9674cc298fcf73fd38",
             "shortcuts": [
                 [
                     "PPSSPPWindows.exe",
-                    "PPSSPP (Development)"
+                    "Sony PlayStation Portable [psp][ppsspp] (dev)"
                 ]
             ]
         },
         "arm64": {
-            "url": "https://builds.ppsspp.org/builds/v1.20.4-866-g698fb7e39d/PPSSPPWindowsARM64_v1.20.4-866-g698fb7e39d.zip",
-            "hash": "c3f0303c9a00b6a95c477521194caee81a797ccbfe734931ddb29dfb4a1e189f",
+            "url": "https://builds.ppsspp.org/builds/v1.20.4-879-g3eeae2d89a/PPSSPPWindowsARM64_v1.20.4-879-g3eeae2d89a.zip",
+            "hash": "b0136bbb0760226a73c5c15457d34781b94e5ced1fe7f16f11f1982f99096728",
             "shortcuts": [
                 [
                     "PPSSPPWindowsARM64.exe",
-                    "PPSSPP (Development)"
+                    "Sony PlayStation Portable [psp][ppsspp] (dev)"
                 ]
             ]
         }

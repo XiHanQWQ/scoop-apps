@@ -9063,10 +9063,10 @@ cemu-x.json,kiennq/scoop-misc
 joyshockmapper.json,kiennq/scoop-misc
 cemuhook-webgyro.json,kiennq/scoop-misc
 pcsx2-dev_borger.json,borger/scoop-emulators
-shadps4_borger.json,borger/scoop-emulators
+shadps4.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
-eden-nightly.json,borger/scoop-emulators
+eden-nightly_borger.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
@@ -9081,7 +9081,7 @@ duckstation-preview_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
-ppsspp-dev_borger.json,borger/scoop-emulators
+ppsspp-dev.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
@@ -9094,7 +9094,7 @@ ppsspp_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
-redream-dev.json,borger/scoop-emulators
+redream-dev_borger.json,borger/scoop-emulators
 sm64coopdx_borger.json,borger/scoop-emulators
 rmg_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
@@ -9106,7 +9106,7 @@ redream_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
 mednafen_borger.json,borger/scoop-emulators
 2ship2harkinian.json,borger/scoop-emulators
-mgba-dev_borger.json,borger/scoop-emulators
+mgba-dev.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 azahar_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
@@ -10140,7 +10140,7 @@ wx-channels-download.json,DoveBoy/Apps
 upscayl_DoveBoy.json,DoveBoy/Apps
 droppoint.json,DoveBoy/Apps
 jenny.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 douyin-downloader.json,DoveBoy/Apps
 husi.json,DoveBoy/Apps
 winupdateminitool.json,DoveBoy/Apps
@@ -10759,7 +10759,7 @@ emby_carnival.json,hu3rror/scoop-muggle
 scoop-backup-KNOXDEV_hu3rror.json,hu3rror/scoop-muggle
 nhse.json,hu3rror/scoop-muggle
 newrain-duplicate-photo-finder.json,hu3rror/scoop-muggle
-firefox-developer-zh-cn.json,hu3rror/scoop-muggle
+firefox-developer-zh-cn_hu3rror.json,hu3rror/scoop-muggle
 opensteamtool-gui-py.json,hu3rror/scoop-muggle
 tianruoocr_hu3rror.json,hu3rror/scoop-muggle
 acttools.json,hu3rror/scoop-muggle
@@ -11914,7 +11914,7 @@ altserver.json,WinApps-share/WinApps-bucket
 dbeaver_WinApps-share.json,WinApps-share/WinApps-bucket
 autodarkmode-np.json,WinApps-share/WinApps-bucket
 windows-terminal_WinApps-share.json,WinApps-share/WinApps-bucket
-everything-toolbar_WinApps-share.json,WinApps-share/WinApps-bucket
+everything-toolbar.json,WinApps-share/WinApps-bucket
 whynot-win11.json,WinApps-share/WinApps-bucket
 ppduck3.json,WinApps-share/WinApps-bucket
 peazip_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -14573,7 +14573,7 @@ qbittorrent_HUMORCE.json,HUMORCE/nuke
 bandizip-classic.json,HUMORCE/nuke
 ungoogled-chromium_HUMORCE.json,HUMORCE/nuke
 archisteamfarm_HUMORCE.json,HUMORCE/nuke
-ruffle-nightly_HUMORCE.json,HUMORCE/nuke
+ruffle-nightly.json,HUMORCE/nuke
 sdcc-snapshot-x86_64.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP_HUMORCE.json,HUMORCE/nuke
