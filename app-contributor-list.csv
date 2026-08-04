@@ -1317,7 +1317,7 @@ tlaplus-toolbox.json,ScoopInstaller/Extras
 neoray.json,ScoopInstaller/Extras
 antares.json,ScoopInstaller/Extras
 paraview.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 screenoff.json,ScoopInstaller/Extras
 kibana.json,ScoopInstaller/Extras
 ollama-full.json,ScoopInstaller/Extras
@@ -9067,7 +9067,7 @@ pcsx2-dev_borger.json,borger/scoop-emulators
 shadps4.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
-eden-nightly_borger.json,borger/scoop-emulators
+eden-nightly.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
@@ -9078,7 +9078,7 @@ spaghettikart.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
-duckstation-preview.json,borger/scoop-emulators
+duckstation-preview_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
@@ -9246,7 +9246,7 @@ jyso_ViCrack.json,ViCrack/scoop-bucket
 hyacinth.json,ViCrack/scoop-bucket
 cyberapi.json,ViCrack/scoop-bucket
 scan4all_ViCrack.json,ViCrack/scoop-bucket
-jar-analyzer.json,ViCrack/scoop-bucket
+jar-analyzer_ViCrack.json,ViCrack/scoop-bucket
 feishurevokemsgpatcher_ViCrack.json,ViCrack/scoop-bucket
 chmac.json,ViCrack/scoop-bucket
 treesize_ViCrack.json,ViCrack/scoop-bucket
@@ -11770,7 +11770,7 @@ keyviz_WinApps-share.json,WinApps-share/WinApps-bucket
 wepe_WinApps-share.json,WinApps-share/WinApps-bucket
 trollrestore.json,WinApps-share/WinApps-bucket
 clean-my-wechat.json,WinApps-share/WinApps-bucket
-xterminal_WinApps-share.json,WinApps-share/WinApps-bucket
+xterminal.json,WinApps-share/WinApps-bucket
 rustdesk_WinApps-share.json,WinApps-share/WinApps-bucket
 carnac_WinApps-share.json,WinApps-share/WinApps-bucket
 bbdown_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -13744,7 +13744,7 @@ git-cola_cc713.json,cc713/ownscoop
 Weasel_cc713.json,cc713/ownscoop
 gitextensions_cc713.json,cc713/ownscoop
 foobox-cn.json,cc713/ownscoop
-thunderbird-zh-cn_cc713.json,cc713/ownscoop
+thunderbird-zh-cn.json,cc713/ownscoop
 firefox-zh-CN_cc713.json,cc713/ownscoop
 kiwix-tools.json,cc713/ownscoop
 NeeView_cc713.json,cc713/ownscoop
