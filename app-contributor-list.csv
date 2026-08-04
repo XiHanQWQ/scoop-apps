@@ -339,6 +339,7 @@ BrutalityExtractor.json,Weidows-projects/scoop-3rd
 SourceTree.json,Weidows-projects/scoop-3rd
 defender-control.json,Weidows-projects/scoop-3rd
 Archive-password-cracker.json,Weidows-projects/scoop-3rd
+FFmpegThumbnails.json,Weidows-projects/scoop-3rd
 bili-music.json,Weidows-projects/scoop-3rd
 uv-portable-cn.json,Weidows-projects/scoop-3rd
 Cursor.json,Weidows-projects/scoop-3rd
@@ -1316,7 +1317,7 @@ tlaplus-toolbox.json,ScoopInstaller/Extras
 neoray.json,ScoopInstaller/Extras
 antares.json,ScoopInstaller/Extras
 paraview.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 screenoff.json,ScoopInstaller/Extras
 kibana.json,ScoopInstaller/Extras
 ollama-full.json,ScoopInstaller/Extras
@@ -3550,6 +3551,7 @@ cargo-zigbuild.json,chawyehsu/dorado
 musicbrainz-picard.json,chawyehsu/dorado
 folder2iso-cli.json,chawyehsu/dorado
 bitcoincore.json,chawyehsu/dorado
+pinact.json,chawyehsu/dorado
 texlive.json,chawyehsu/dorado
 bbdown_chawyehsu.json,chawyehsu/dorado
 dotnet-install.json,chawyehsu/dorado
@@ -3711,7 +3713,6 @@ devpod.json,chawyehsu/dorado
 pixi_chawyehsu.json,chawyehsu/dorado
 micromamba.json,chawyehsu/dorado
 r_chawyehsu.json,chawyehsu/dorado
-pincat.json,chawyehsu/dorado
 pasteex.json,chawyehsu/dorado
 wayback.json,chawyehsu/dorado
 swift_chawyehsu.json,chawyehsu/dorado
@@ -9070,7 +9071,7 @@ eden-nightly_borger.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
-rpcs3.json,borger/scoop-emulators
+rpcs3_borger.json,borger/scoop-emulators
 xenia-canary.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
 spaghettikart.json,borger/scoop-emulators
@@ -9081,7 +9082,7 @@ duckstation-preview_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
-ppsspp-dev.json,borger/scoop-emulators
+ppsspp-dev_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
@@ -10548,6 +10549,7 @@ ttime.json,DoveBoy/Apps
 omniget.json,DoveBoy/Apps
 aictionary.json,DoveBoy/Apps
 showkeyboard-node.json,DoveBoy/Apps
+diskbutler.json,DoveBoy/Apps
 mihomo_DoveBoy.json,DoveBoy/Apps
 unblockneteasemusic-git.json,DoveBoy/Apps
 karing.json,DoveBoy/Apps
@@ -10657,11 +10659,12 @@ neovim_DoveBoy.json,DoveBoy/Apps
 grep_DoveBoy.json,DoveBoy/Apps
 unigetui_DoveBoy.json,DoveBoy/Apps
 nyaterm.json,DoveBoy/Apps
+idm-activation-script-chinese.json,DoveBoy/Apps
 compactgui.json,DoveBoy/Apps
 crystaldiskinfo-shizuku-edition_DoveBoy.json,DoveBoy/Apps
 animeko_DoveBoy.json,DoveBoy/Apps
 mpv-lazy.json,DoveBoy/Apps
-solomd_DoveBoy.json,DoveBoy/Apps
+solomd.json,DoveBoy/Apps
 zyfun.json,DoveBoy/Apps
 kopia-ui-portable.json,DoveBoy/Apps
 volta-tab-completion.json,DoveBoy/Apps
@@ -12479,7 +12482,7 @@ godap.json,aliesbelik/poldi
 zns.json,aliesbelik/poldi
 netfetch.json,aliesbelik/poldi
 pict.json,aliesbelik/poldi
-pinact.json,aliesbelik/poldi
+pinact_aliesbelik.json,aliesbelik/poldi
 query-json.json,aliesbelik/poldi
 fm.json,aliesbelik/poldi
 gomi.json,aliesbelik/poldi
@@ -14573,7 +14576,7 @@ qbittorrent_HUMORCE.json,HUMORCE/nuke
 bandizip-classic.json,HUMORCE/nuke
 ungoogled-chromium_HUMORCE.json,HUMORCE/nuke
 archisteamfarm_HUMORCE.json,HUMORCE/nuke
-ruffle-nightly.json,HUMORCE/nuke
+ruffle-nightly_HUMORCE.json,HUMORCE/nuke
 sdcc-snapshot-x86_64.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP_HUMORCE.json,HUMORCE/nuke
