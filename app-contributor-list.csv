@@ -2688,7 +2688,7 @@ apk-editor-studio.json,ScoopInstaller/Extras
 mellowplayer.json,ScoopInstaller/Extras
 bforartists.json,ScoopInstaller/Extras
 cefflashbrowser.json,ScoopInstaller/Extras
-jetbrains-toolbox.json,ScoopInstaller/Extras
+jetbrains-toolbox_ScoopInstaller.json,ScoopInstaller/Extras
 quiterss.json,ScoopInstaller/Extras
 floorp.json,ScoopInstaller/Extras
 gmic-qt.json,ScoopInstaller/Extras
@@ -3646,7 +3646,7 @@ mubu.json,chawyehsu/dorado
 capcut.json,chawyehsu/dorado
 intellij-idea-ce.json,chawyehsu/dorado
 ttplayer.json,chawyehsu/dorado
-wechatwork_chawyehsu.json,chawyehsu/dorado
+wechatwork.json,chawyehsu/dorado
 winlibs-mingw-msvcrt.json,chawyehsu/dorado
 pixcall.json,chawyehsu/dorado
 lassie.json,chawyehsu/dorado
@@ -8356,7 +8356,7 @@ MasterSeeker.json,dodorz/scoop
 TweakPower.json,dodorz/scoop
 Acreom.json,dodorz/scoop
 Markra.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 CleanUp.json,dodorz/scoop
 Shorten.json,dodorz/scoop
 AdguardHome_dodorz.json,dodorz/scoop
@@ -9067,7 +9067,7 @@ pcsx2-dev_borger.json,borger/scoop-emulators
 shadps4.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
-eden-nightly.json,borger/scoop-emulators
+eden-nightly_borger.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
@@ -9082,7 +9082,7 @@ duckstation-preview_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
-ppsspp-dev_borger.json,borger/scoop-emulators
+ppsspp-dev.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
@@ -9202,6 +9202,7 @@ vscan.json,ViCrack/scoop-bucket
 ksubdomain_ViCrack.json,ViCrack/scoop-bucket
 fapro.json,ViCrack/scoop-bucket
 BowPad.json,ViCrack/scoop-bucket
+codey.json,ViCrack/scoop-bucket
 oxideterm_ViCrack.json,ViCrack/scoop-bucket
 siyuan.json,ViCrack/scoop-bucket
 behinder_ViCrack.json,ViCrack/scoop-bucket
@@ -9443,7 +9444,7 @@ n-m3u8dl-cli_akirco.json,akirco/aki-apps
 shellcheck_akirco.json,akirco/aki-apps
 aria2_akirco.json,akirco/aki-apps
 lepton_akirco.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 selenium_akirco.json,akirco/aki-apps
 wttop_akirco.json,akirco/aki-apps
 ollama_akirco.json,akirco/aki-apps
@@ -9521,7 +9522,6 @@ obs-studio_akirco.json,akirco/aki-apps
 simple-live.json,akirco/aki-apps
 windsurf_akirco.json,akirco/aki-apps
 cmake_akirco.json,akirco/aki-apps
-bilibili-livehime.json,akirco/aki-apps
 nexusfont_akirco.json,akirco/aki-apps
 instaloader.json,akirco/aki-apps
 php_akirco.json,akirco/aki-apps
@@ -10386,7 +10386,7 @@ zoomit_DoveBoy.json,DoveBoy/Apps
 etcher-portable.json,DoveBoy/Apps
 horsemd.json,DoveBoy/Apps
 text-generation-webui.json,DoveBoy/Apps
-deeplx.json,DoveBoy/Apps
+deeplx_DoveBoy.json,DoveBoy/Apps
 p2p.json,DoveBoy/Apps
 powertoys-np_DoveBoy.json,DoveBoy/Apps
 vimtutor_DoveBoy.json,DoveBoy/Apps
@@ -13744,7 +13744,7 @@ git-cola_cc713.json,cc713/ownscoop
 Weasel_cc713.json,cc713/ownscoop
 gitextensions_cc713.json,cc713/ownscoop
 foobox-cn.json,cc713/ownscoop
-thunderbird-zh-cn.json,cc713/ownscoop
+thunderbird-zh-cn_cc713.json,cc713/ownscoop
 firefox-zh-CN_cc713.json,cc713/ownscoop
 kiwix-tools.json,cc713/ownscoop
 NeeView_cc713.json,cc713/ownscoop
@@ -14936,7 +14936,7 @@ qbittorrent_HUMORCE.json,HUMORCE/nuke
 bandizip-classic.json,HUMORCE/nuke
 ungoogled-chromium_HUMORCE.json,HUMORCE/nuke
 archisteamfarm_HUMORCE.json,HUMORCE/nuke
-ruffle-nightly_HUMORCE.json,HUMORCE/nuke
+ruffle-nightly.json,HUMORCE/nuke
 sdcc-snapshot-x86_64.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP_HUMORCE.json,HUMORCE/nuke
