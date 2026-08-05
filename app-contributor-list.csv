@@ -9068,7 +9068,7 @@ pcsx2-dev_borger.json,borger/scoop-emulators
 shadps4.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
-eden-nightly_borger.json,borger/scoop-emulators
+eden-nightly.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
@@ -9083,7 +9083,7 @@ duckstation-preview_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
-ppsspp-dev.json,borger/scoop-emulators
+ppsspp-dev_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
@@ -9138,7 +9138,7 @@ z0scan.json,ViCrack/scoop-bucket
 RegConverter.json,ViCrack/scoop-bucket
 postcat.json,ViCrack/scoop-bucket
 xjavafxtool.json,ViCrack/scoop-bucket
-subfinder.json,ViCrack/scoop-bucket
+subfinder_ViCrack.json,ViCrack/scoop-bucket
 windynamicdesktop_ViCrack.json,ViCrack/scoop-bucket
 gowitness.json,ViCrack/scoop-bucket
 AdGuardHome_ViCrack.json,ViCrack/scoop-bucket
@@ -9167,7 +9167,7 @@ siyuan-ce.json,ViCrack/scoop-bucket
 serializationdumper.json,ViCrack/scoop-bucket
 xray_ViCrack.json,ViCrack/scoop-bucket
 wechatdatabackup.json,ViCrack/scoop-bucket
-katana.json,ViCrack/scoop-bucket
+katana_ViCrack.json,ViCrack/scoop-bucket
 filemenutools.json,ViCrack/scoop-bucket
 speedy.json,ViCrack/scoop-bucket
 observerward.json,ViCrack/scoop-bucket
@@ -10172,6 +10172,7 @@ unblockneteasemusic.json,DoveBoy/Apps
 windowscleaner.json,DoveBoy/Apps
 scoop-backup-knoxdev.json,DoveBoy/Apps
 ofgb-with-runtime.json,DoveBoy/Apps
+chromium_DoveBoy.json,DoveBoy/Apps
 nvm-tab-completion.json,DoveBoy/Apps
 freefilesync_DoveBoy.json,DoveBoy/Apps
 gns3.json,DoveBoy/Apps
@@ -10764,7 +10765,7 @@ emby_carnival.json,hu3rror/scoop-muggle
 scoop-backup-KNOXDEV_hu3rror.json,hu3rror/scoop-muggle
 nhse.json,hu3rror/scoop-muggle
 newrain-duplicate-photo-finder.json,hu3rror/scoop-muggle
-firefox-developer-zh-cn_hu3rror.json,hu3rror/scoop-muggle
+firefox-developer-zh-cn.json,hu3rror/scoop-muggle
 opensteamtool-gui-py.json,hu3rror/scoop-muggle
 tianruoocr_hu3rror.json,hu3rror/scoop-muggle
 acttools.json,hu3rror/scoop-muggle
@@ -11866,7 +11867,7 @@ telegram_WinApps-share.json,WinApps-share/WinApps-bucket
 vlc_WinApps-share.json,WinApps-share/WinApps-bucket
 hibituninstaller_WinApps-share.json,WinApps-share/WinApps-bucket
 clash-for-windows_WinApps-share.json,WinApps-share/WinApps-bucket
-cursor.json,WinApps-share/WinApps-bucket
+cursor_WinApps-share.json,WinApps-share/WinApps-bucket
 cpuz-np.json,WinApps-share/WinApps-bucket
 spleeter-gui.json,WinApps-share/WinApps-bucket
 clash.net_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -13641,7 +13642,7 @@ LNE-LINK.json,AkariiinMKII/Scoop4kariiin
 vs_BuildTools.json,AkariiinMKII/Scoop4kariiin
 monitorian.json,aoisummer/scoop-bucket
 lz4_aoisummer.json,aoisummer/scoop-bucket
-firefox-developer-zh-cn.json,aoisummer/scoop-bucket
+firefox-developer-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 autoruns_aoisummer.json,aoisummer/scoop-bucket
 firefox-esr-zh-cn.json,aoisummer/scoop-bucket
 sakura-launcher-gui.json,aoisummer/scoop-bucket
@@ -16189,7 +16190,7 @@ emacs-pretest_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 openjdk15_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 MicrosoftYaHeiMono_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 cmake_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-python313.json,ShuguangSun/sgs-scoop-bucket
+python313_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 mupdf_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 cherry-studio-portable.json,ShuguangSun/sgs-scoop-bucket
 robotoslab.json,ShuguangSun/sgs-scoop-bucket
