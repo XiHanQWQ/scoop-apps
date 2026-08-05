@@ -358,6 +358,7 @@ WSABuild.json,Weidows-projects/scoop-3rd
 VirtualDesktop.json,Weidows-projects/scoop-3rd
 thief.json,Weidows-projects/scoop-3rd
 Waifu2x-Extension-GUI.json,Weidows-projects/scoop-3rd
+apate.json,Weidows-projects/scoop-3rd
 sshpass_Weidows-projects.json,Weidows-projects/scoop-3rd
 fuck-u-code.json,Weidows-projects/scoop-3rd
 tiantian-workbench.json,Weidows-projects/scoop-3rd
@@ -2829,7 +2830,7 @@ richcopy.json,ScoopInstaller/Extras
 mongodb-compass.json,ScoopInstaller/Extras
 metrogit.json,ScoopInstaller/Extras
 meshroom.json,ScoopInstaller/Extras
-vscode_ScoopInstaller.json,ScoopInstaller/Extras
+vscode.json,ScoopInstaller/Extras
 stunnel.json,ScoopInstaller/Extras
 everything-powertoys.json,ScoopInstaller/Extras
 sioyek.json,ScoopInstaller/Extras
@@ -8288,7 +8289,7 @@ NaotuMini.json,dodorz/scoop
 nvPY.json,dodorz/scoop
 UnrealCommander.json,dodorz/scoop
 PixPin_dodorz.json,dodorz/scoop
-Notepad--.json,dodorz/scoop
+Notepad--_dodorz.json,dodorz/scoop
 F4Menu.json,dodorz/scoop
 OpenCC_dodorz.json,dodorz/scoop
 Nimbalyst.json,dodorz/scoop
@@ -8356,7 +8357,7 @@ MasterSeeker.json,dodorz/scoop
 TweakPower.json,dodorz/scoop
 Acreom.json,dodorz/scoop
 Markra.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 CleanUp.json,dodorz/scoop
 Shorten.json,dodorz/scoop
 AdguardHome_dodorz.json,dodorz/scoop
@@ -9078,7 +9079,7 @@ spaghettikart.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
-duckstation-preview_borger.json,borger/scoop-emulators
+duckstation-preview.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
@@ -10897,7 +10898,7 @@ win11-classic-context-menu.json,hu3rror/scoop-muggle
 venera-next.json,hu3rror/scoop-muggle
 cherry-studio_hu3rror.json,hu3rror/scoop-muggle
 run-hidden-console.json,hu3rror/scoop-muggle
-goldendict-ng_hu3rror.json,hu3rror/scoop-muggle
+goldendict-ng.json,hu3rror/scoop-muggle
 rclone-ui_hu3rror.json,hu3rror/scoop-muggle
 ImTip.json,hu3rror/scoop-muggle
 manhuagui-downloader.json,hu3rror/scoop-muggle
@@ -11269,7 +11270,6 @@ local-wp.json,naderi/scoop-bucket
 font-tanha.json,naderi/scoop-bucket
 beautysearch.json,naderi/scoop-bucket
 markdown-edit.json,naderi/scoop-bucket
-encrypto_naderi.json,naderi/scoop-bucket
 wise-disk-cleaner.json,naderi/scoop-bucket
 faster-whisper-standalone.json,naderi/scoop-bucket
 leomoon-jalalitray.json,naderi/scoop-bucket
@@ -11764,7 +11764,7 @@ bandizip_WinApps-share.json,WinApps-share/WinApps-bucket
 picview_WinApps-share.json,WinApps-share/WinApps-bucket
 n-m3u8dl-re.json,WinApps-share/WinApps-bucket
 musicfree-np.json,WinApps-share/WinApps-bucket
-notepad--_WinApps-share.json,WinApps-share/WinApps-bucket
+notepad--.json,WinApps-share/WinApps-bucket
 bongocat_WinApps-share.json,WinApps-share/WinApps-bucket
 cpuz.json,WinApps-share/WinApps-bucket
 keyviz_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -11918,7 +11918,7 @@ altserver.json,WinApps-share/WinApps-bucket
 dbeaver_WinApps-share.json,WinApps-share/WinApps-bucket
 autodarkmode-np.json,WinApps-share/WinApps-bucket
 windows-terminal_WinApps-share.json,WinApps-share/WinApps-bucket
-everything-toolbar.json,WinApps-share/WinApps-bucket
+everything-toolbar_WinApps-share.json,WinApps-share/WinApps-bucket
 whynot-win11.json,WinApps-share/WinApps-bucket
 ppduck3.json,WinApps-share/WinApps-bucket
 peazip_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -13730,7 +13730,7 @@ aaru.json,cc713/ownscoop
 MusicFreeDesktop_cc713.json,cc713/ownscoop
 qimgv_cc713.json,cc713/ownscoop
 OpenHashTab_cc713.json,cc713/ownscoop
-goldendict-ng.json,cc713/ownscoop
+goldendict-ng_cc713.json,cc713/ownscoop
 aegisub-arch.json,cc713/ownscoop
 dnSpyEx_cc713.json,cc713/ownscoop
 nomacs.json,cc713/ownscoop
@@ -17011,7 +17011,7 @@ claurst.json,windedge/ladle-bucket
 llama-cpp-ipex-llm-npu.json,windedge/ladle-bucket
 dyad_windedge.json,windedge/ladle-bucket
 godot-kotlin-jvm.json,windedge/ladle-bucket
-mdview.json,windedge/ladle-bucket
+mdview_windedge.json,windedge/ladle-bucket
 seabird.json,windedge/ladle-bucket
 glaxnimate.json,windedge/ladle-bucket
 orca-ade.json,windedge/ladle-bucket
