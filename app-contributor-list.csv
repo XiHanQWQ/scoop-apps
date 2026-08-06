@@ -9077,7 +9077,7 @@ rpcs3_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
 spaghettikart.json,borger/scoop-emulators
-project64-dev_borger.json,borger/scoop-emulators
+project64-dev.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
 duckstation-preview.json,borger/scoop-emulators
@@ -9109,7 +9109,7 @@ redream_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
 mednafen_borger.json,borger/scoop-emulators
 2ship2harkinian.json,borger/scoop-emulators
-mgba-dev.json,borger/scoop-emulators
+mgba-dev_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 azahar_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
@@ -10388,7 +10388,7 @@ zoomit_DoveBoy.json,DoveBoy/Apps
 etcher-portable.json,DoveBoy/Apps
 horsemd.json,DoveBoy/Apps
 text-generation-webui.json,DoveBoy/Apps
-deeplx.json,DoveBoy/Apps
+deeplx_DoveBoy.json,DoveBoy/Apps
 p2p.json,DoveBoy/Apps
 powertoys-np_DoveBoy.json,DoveBoy/Apps
 vimtutor_DoveBoy.json,DoveBoy/Apps
@@ -13188,7 +13188,7 @@ chatbox_TianXiaTech.json,TianXiaTech/scoop-txt
 zyplayer.json,TianXiaTech/scoop-txt
 leanify.json,seumsc/scoop-seu
 pfsextractor.json,seumsc/scoop-seu
-kook_seumsc.json,seumsc/scoop-seu
+kook.json,seumsc/scoop-seu
 cpachecker.json,seumsc/scoop-seu
 winipbroadcast.json,seumsc/scoop-seu
 fiddler-everywhere.json,seumsc/scoop-seu
