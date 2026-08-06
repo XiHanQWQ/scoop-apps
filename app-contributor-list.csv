@@ -1446,7 +1446,7 @@ aptakube.json,ScoopInstaller/Extras
 caesium-image-compressor.json,ScoopInstaller/Extras
 keynavish.json,ScoopInstaller/Extras
 avidemux.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 ec2-api-tools.json,ScoopInstaller/Extras
 runcat.json,ScoopInstaller/Extras
 wecom.json,ScoopInstaller/Extras
@@ -9990,7 +9990,6 @@ rubick_DoveBoy.json,DoveBoy/Apps
 twinkle-tray_DoveBoy.json,DoveBoy/Apps
 fancontrol-net10.0.json,DoveBoy/Apps
 registry-key-jumper_DoveBoy.json,DoveBoy/Apps
-electerm_DoveBoy.json,DoveBoy/Apps
 splayer-beta.json,DoveBoy/Apps
 r3playx.json,DoveBoy/Apps
 fancontrol-net10.0-portable.json,DoveBoy/Apps
@@ -10389,7 +10388,7 @@ zoomit_DoveBoy.json,DoveBoy/Apps
 etcher-portable.json,DoveBoy/Apps
 horsemd.json,DoveBoy/Apps
 text-generation-webui.json,DoveBoy/Apps
-deeplx_DoveBoy.json,DoveBoy/Apps
+deeplx.json,DoveBoy/Apps
 p2p.json,DoveBoy/Apps
 powertoys-np_DoveBoy.json,DoveBoy/Apps
 vimtutor_DoveBoy.json,DoveBoy/Apps
@@ -11773,7 +11772,7 @@ keyviz_WinApps-share.json,WinApps-share/WinApps-bucket
 wepe_WinApps-share.json,WinApps-share/WinApps-bucket
 trollrestore.json,WinApps-share/WinApps-bucket
 clean-my-wechat.json,WinApps-share/WinApps-bucket
-xterminal.json,WinApps-share/WinApps-bucket
+xterminal_WinApps-share.json,WinApps-share/WinApps-bucket
 rustdesk_WinApps-share.json,WinApps-share/WinApps-bucket
 carnac_WinApps-share.json,WinApps-share/WinApps-bucket
 bbdown_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -14939,7 +14938,7 @@ qbittorrent_HUMORCE.json,HUMORCE/nuke
 bandizip-classic.json,HUMORCE/nuke
 ungoogled-chromium_HUMORCE.json,HUMORCE/nuke
 archisteamfarm_HUMORCE.json,HUMORCE/nuke
-ruffle-nightly.json,HUMORCE/nuke
+ruffle-nightly_HUMORCE.json,HUMORCE/nuke
 sdcc-snapshot-x86_64.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP_HUMORCE.json,HUMORCE/nuke
