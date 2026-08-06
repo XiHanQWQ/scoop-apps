@@ -1200,6 +1200,7 @@ quickviewer.json,ScoopInstaller/Extras
 manifold-viewer.json,ScoopInstaller/Extras
 amule.json,ScoopInstaller/Extras
 clumsy.json,ScoopInstaller/Extras
+lmstudio-bionic.json,ScoopInstaller/Extras
 nwjs.json,ScoopInstaller/Extras
 soundswitch.json,ScoopInstaller/Extras
 s3browser.json,ScoopInstaller/Extras
@@ -1445,7 +1446,7 @@ aptakube.json,ScoopInstaller/Extras
 caesium-image-compressor.json,ScoopInstaller/Extras
 keynavish.json,ScoopInstaller/Extras
 avidemux.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 ec2-api-tools.json,ScoopInstaller/Extras
 runcat.json,ScoopInstaller/Extras
 wecom.json,ScoopInstaller/Extras
@@ -2830,7 +2831,7 @@ richcopy.json,ScoopInstaller/Extras
 mongodb-compass.json,ScoopInstaller/Extras
 metrogit.json,ScoopInstaller/Extras
 meshroom.json,ScoopInstaller/Extras
-vscode.json,ScoopInstaller/Extras
+vscode_ScoopInstaller.json,ScoopInstaller/Extras
 stunnel.json,ScoopInstaller/Extras
 everything-powertoys.json,ScoopInstaller/Extras
 sioyek.json,ScoopInstaller/Extras
@@ -8357,7 +8358,7 @@ MasterSeeker.json,dodorz/scoop
 TweakPower.json,dodorz/scoop
 Acreom.json,dodorz/scoop
 Markra.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 CleanUp.json,dodorz/scoop
 Shorten.json,dodorz/scoop
 AdguardHome_dodorz.json,dodorz/scoop
@@ -9068,7 +9069,7 @@ pcsx2-dev_borger.json,borger/scoop-emulators
 shadps4.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
-eden-nightly.json,borger/scoop-emulators
+eden-nightly_borger.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
@@ -9344,7 +9345,7 @@ cosbrowser_akirco.json,akirco/aki-apps
 winfetch_akirco.json,akirco/aki-apps
 rainbow_akirco.json,akirco/aki-apps
 crush.json,akirco/aki-apps
-dvm.json,akirco/aki-apps
+dvm_akirco.json,akirco/aki-apps
 yt-dlp_akirco.json,akirco/aki-apps
 123pan.json,akirco/aki-apps
 android-sdk_akirco.json,akirco/aki-apps
@@ -9989,6 +9990,7 @@ rubick_DoveBoy.json,DoveBoy/Apps
 twinkle-tray_DoveBoy.json,DoveBoy/Apps
 fancontrol-net10.0.json,DoveBoy/Apps
 registry-key-jumper_DoveBoy.json,DoveBoy/Apps
+electerm_DoveBoy.json,DoveBoy/Apps
 splayer-beta.json,DoveBoy/Apps
 r3playx.json,DoveBoy/Apps
 fancontrol-net10.0-portable.json,DoveBoy/Apps
@@ -10172,7 +10174,6 @@ unblockneteasemusic.json,DoveBoy/Apps
 windowscleaner.json,DoveBoy/Apps
 scoop-backup-knoxdev.json,DoveBoy/Apps
 ofgb-with-runtime.json,DoveBoy/Apps
-chromium_DoveBoy.json,DoveBoy/Apps
 nvm-tab-completion.json,DoveBoy/Apps
 freefilesync_DoveBoy.json,DoveBoy/Apps
 gns3.json,DoveBoy/Apps
@@ -10765,7 +10766,7 @@ emby_carnival.json,hu3rror/scoop-muggle
 scoop-backup-KNOXDEV_hu3rror.json,hu3rror/scoop-muggle
 nhse.json,hu3rror/scoop-muggle
 newrain-duplicate-photo-finder.json,hu3rror/scoop-muggle
-firefox-developer-zh-cn.json,hu3rror/scoop-muggle
+firefox-developer-zh-cn_hu3rror.json,hu3rror/scoop-muggle
 opensteamtool-gui-py.json,hu3rror/scoop-muggle
 tianruoocr_hu3rror.json,hu3rror/scoop-muggle
 acttools.json,hu3rror/scoop-muggle
@@ -14938,7 +14939,7 @@ qbittorrent_HUMORCE.json,HUMORCE/nuke
 bandizip-classic.json,HUMORCE/nuke
 ungoogled-chromium_HUMORCE.json,HUMORCE/nuke
 archisteamfarm_HUMORCE.json,HUMORCE/nuke
-ruffle-nightly_HUMORCE.json,HUMORCE/nuke
+ruffle-nightly.json,HUMORCE/nuke
 sdcc-snapshot-x86_64.json,HUMORCE/nuke
 sdcc_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP_HUMORCE.json,HUMORCE/nuke
