@@ -8358,7 +8358,7 @@ MasterSeeker.json,dodorz/scoop
 TweakPower.json,dodorz/scoop
 Acreom.json,dodorz/scoop
 Markra.json,dodorz/scoop
-Alma_dodorz.json,dodorz/scoop
+Alma.json,dodorz/scoop
 CleanUp.json,dodorz/scoop
 Shorten.json,dodorz/scoop
 AdguardHome_dodorz.json,dodorz/scoop
@@ -9080,11 +9080,11 @@ spaghettikart.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
-duckstation-preview_borger.json,borger/scoop-emulators
+duckstation-preview.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
-ppsspp-dev_borger.json,borger/scoop-emulators
+ppsspp-dev.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
@@ -9109,7 +9109,7 @@ redream_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
 mednafen_borger.json,borger/scoop-emulators
 2ship2harkinian.json,borger/scoop-emulators
-mgba-dev_borger.json,borger/scoop-emulators
+mgba-dev.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 azahar_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
@@ -9462,7 +9462,7 @@ dyad_akirco.json,akirco/aki-apps
 yq_akirco.json,akirco/aki-apps
 pikpak.json,akirco/aki-apps
 wavpack_akirco.json,akirco/aki-apps
-telegram.json,akirco/aki-apps
+telegram_akirco.json,akirco/aki-apps
 shim_akirco.json,akirco/aki-apps
 tomcat8_akirco.json,akirco/aki-apps
 cursor_akirco.json,akirco/aki-apps
@@ -11749,6 +11749,7 @@ yae-achievement.json,Small-Ku/turbo-bucket
 yap-edge.json,Small-Ku/turbo-bucket
 stardb-exporter.json,Small-Ku/turbo-bucket
 psst-edge.json,Small-Ku/turbo-bucket
+mipcmanager-patch-gui.json,Small-Ku/turbo-bucket
 sarasa-super-ttc.json,Small-Ku/turbo-bucket
 orbolay.json,Small-Ku/turbo-bucket
 process-lasso-edge.json,Small-Ku/turbo-bucket
@@ -11756,6 +11757,7 @@ rare-edge.json,Small-Ku/turbo-bucket
 magpie-edge.json,Small-Ku/turbo-bucket
 pilinara_Small-Ku.json,Small-Ku/turbo-bucket
 jxrlib.json,Small-Ku/turbo-bucket
+mipcmanager-patch-cli.json,Small-Ku/turbo-bucket
 reshade-addon-dll.json,Small-Ku/turbo-bucket
 biome_Small-Ku.json,Small-Ku/turbo-bucket
 ocauxiliarytools_WinApps-share.json,WinApps-share/WinApps-bucket
@@ -11867,7 +11869,7 @@ telegram_WinApps-share.json,WinApps-share/WinApps-bucket
 vlc_WinApps-share.json,WinApps-share/WinApps-bucket
 hibituninstaller_WinApps-share.json,WinApps-share/WinApps-bucket
 clash-for-windows_WinApps-share.json,WinApps-share/WinApps-bucket
-cursor_WinApps-share.json,WinApps-share/WinApps-bucket
+cursor.json,WinApps-share/WinApps-bucket
 cpuz-np.json,WinApps-share/WinApps-bucket
 spleeter-gui.json,WinApps-share/WinApps-bucket
 clash.net_WinApps-share.json,WinApps-share/WinApps-bucket
