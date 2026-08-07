@@ -2290,6 +2290,7 @@ vial.json,ScoopInstaller/Extras
 gonavi.json,ScoopInstaller/Extras
 atom.json,ScoopInstaller/Extras
 hiddify.json,ScoopInstaller/Extras
+oxideterm.json,ScoopInstaller/Extras
 gedit.json,ScoopInstaller/Extras
 babelpad.json,ScoopInstaller/Extras
 git-aliases.json,ScoopInstaller/Extras
@@ -2964,6 +2965,7 @@ obs-studio.json,ScoopInstaller/Extras
 thorium.json,ScoopInstaller/Extras
 uiforetw.json,ScoopInstaller/Extras
 esearch.json,ScoopInstaller/Extras
+mkv-muxing-batch-gui.json,ScoopInstaller/Extras
 ungoogled-chromium.json,ScoopInstaller/Extras
 iptvnator.json,ScoopInstaller/Extras
 plakar.json,ScoopInstaller/Extras
@@ -5525,9 +5527,11 @@ sbt013.json,ScoopInstaller/Versions
 php56-xdebug.json,ScoopInstaller/Versions
 duplicati-canary.json,ScoopInstaller/Versions
 aurora-rgb.json,ScoopInstaller/Versions
+herdr-preview.json,ScoopInstaller/Versions
 cuda11.5.json,ScoopInstaller/Versions
 go116.json,ScoopInstaller/Versions
 php54-xdebug.json,ScoopInstaller/Versions
+unity-cli-beta.json,ScoopInstaller/Versions
 tinymediamanager3.json,ScoopInstaller/Versions
 go119.json,ScoopInstaller/Versions
 windowsdesktop-runtime-10.0.json,ScoopInstaller/Versions
@@ -8358,7 +8362,7 @@ MasterSeeker.json,dodorz/scoop
 TweakPower.json,dodorz/scoop
 Acreom.json,dodorz/scoop
 Markra.json,dodorz/scoop
-Alma.json,dodorz/scoop
+Alma_dodorz.json,dodorz/scoop
 CleanUp.json,dodorz/scoop
 Shorten.json,dodorz/scoop
 AdguardHome_dodorz.json,dodorz/scoop
@@ -8754,7 +8758,7 @@ Keybase.json,dodorz/scoop
 TraeWork.json,dodorz/scoop
 CyberShredder.json,dodorz/scoop
 1by1.json,dodorz/scoop
-OxideTerm.json,dodorz/scoop
+OxideTerm_dodorz.json,dodorz/scoop
 voidImageViewer.json,dodorz/scoop
 jump.json,dodorz/scoop
 Notable_dodorz.json,dodorz/scoop
@@ -9077,14 +9081,14 @@ rpcs3_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
 zelda64recomp_borger.json,borger/scoop-emulators
 spaghettikart.json,borger/scoop-emulators
-project64-dev.json,borger/scoop-emulators
+project64-dev_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
-duckstation-preview.json,borger/scoop-emulators
+duckstation-preview_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
-ppsspp-dev.json,borger/scoop-emulators
+ppsspp-dev_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
@@ -9945,6 +9949,7 @@ rustdesk_DoveBoy.json,DoveBoy/Apps
 whisper.json,DoveBoy/Apps
 bililive-tools.json,DoveBoy/Apps
 cleanmywechat.json,DoveBoy/Apps
+calibre_DoveBoy.json,DoveBoy/Apps
 clash-rev-go120.json,DoveBoy/Apps
 yank-note.json,DoveBoy/Apps
 resizem.json,DoveBoy/Apps
@@ -10129,6 +10134,7 @@ algermusicplayer.json,DoveBoy/Apps
 iris.json,DoveBoy/Apps
 anto.json,DoveBoy/Apps
 ffmpeg_DoveBoy.json,DoveBoy/Apps
+calibre-normal_DoveBoy.json,DoveBoy/Apps
 fd_DoveBoy.json,DoveBoy/Apps
 final2x.json,DoveBoy/Apps
 min-portable.json,DoveBoy/Apps
@@ -10555,7 +10561,7 @@ showkeyboard-node.json,DoveBoy/Apps
 diskbutler.json,DoveBoy/Apps
 mihomo_DoveBoy.json,DoveBoy/Apps
 unblockneteasemusic-git.json,DoveBoy/Apps
-karing.json,DoveBoy/Apps
+karing_DoveBoy.json,DoveBoy/Apps
 bilineo.json,DoveBoy/Apps
 xcmusic.json,DoveBoy/Apps
 umi-ocr-paddle_DoveBoy.json,DoveBoy/Apps
@@ -11069,7 +11075,7 @@ sni.json,wzv5/ScoopBucket
 evernote.json,wzv5/ScoopBucket
 php_wzv5.json,wzv5/ScoopBucket
 utools_wzv5.json,wzv5/ScoopBucket
-pspad_wzv5.json,wzv5/ScoopBucket
+pspad.json,wzv5/ScoopBucket
 lx-music-desktop_wzv5.json,wzv5/ScoopBucket
 python-doc-zh-cn.json,wzv5/ScoopBucket
 neteasemusic_wzv5.json,wzv5/ScoopBucket
@@ -11746,6 +11752,7 @@ starward-edge.json,Small-Ku/turbo-bucket
 equilotl-cli.json,Small-Ku/turbo-bucket
 ruffle-nightly_Small-Ku.json,Small-Ku/turbo-bucket
 yae-achievement.json,Small-Ku/turbo-bucket
+ja-netfilter.json,Small-Ku/turbo-bucket
 yap-edge.json,Small-Ku/turbo-bucket
 stardb-exporter.json,Small-Ku/turbo-bucket
 psst-edge.json,Small-Ku/turbo-bucket
@@ -12288,6 +12295,7 @@ worsttrace.json,ygguorun/scoop-bucket
 TextLocator_ygguorun.json,ygguorun/scoop-bucket
 ShanaEncoder.json,ygguorun/scoop-bucket
 ttfname3.json,ygguorun/scoop-bucket
+uu-remote.json,ygguorun/scoop-bucket
 sonixd_ygguorun.json,ygguorun/scoop-bucket
 DDMonitor.json,ygguorun/scoop-bucket
 163MusicLyrics_ygguorun.json,ygguorun/scoop-bucket
@@ -13188,7 +13196,7 @@ chatbox_TianXiaTech.json,TianXiaTech/scoop-txt
 zyplayer.json,TianXiaTech/scoop-txt
 leanify.json,seumsc/scoop-seu
 pfsextractor.json,seumsc/scoop-seu
-kook.json,seumsc/scoop-seu
+kook_seumsc.json,seumsc/scoop-seu
 cpachecker.json,seumsc/scoop-seu
 winipbroadcast.json,seumsc/scoop-seu
 fiddler-everywhere.json,seumsc/scoop-seu
@@ -15980,7 +15988,7 @@ dns-jumper.json,ChinLong/scoop-customize
 oraclejdk8_ChinLong.json,ChinLong/scoop-customize
 wsl-terminal_ChinLong.json,ChinLong/scoop-customize
 utools_ChinLong.json,ChinLong/scoop-customize
-ja-netfilter.json,ChinLong/scoop-customize
+ja-netfilter_ChinLong.json,ChinLong/scoop-customize
 lx-music_ChinLong.json,ChinLong/scoop-customize
 nsis-3.0a1.json,NSIS-Dev/scoop-nsis
 nsis-2.16.json,NSIS-Dev/scoop-nsis
