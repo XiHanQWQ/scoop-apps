@@ -1,10 +1,10 @@
 {
-    "version": "1.8",
+    "version": "1.8.4",
     "homepage": "https://altstore.io/",
     "description": "A home for apps that push the boundaries of iOS. No jailbreak required.",
     "license": "AGPL-3.0",
-    "url": "https://cdn.altstore.io/file/altstore/altserver-windows/1_8.msi#/altserver.msi",
-    "hash": "944186a28493b628a7702c514155140d530dfadc31f4279033ae576f1403cd5f",
+    "url": "https://cdn.altstore.io/file/altstore/altserver-windows/1_8_4.msi#/altserver.msi",
+    "hash": "882df794d5d718f4ac75f741cd63acf61915b2266a27c2fc3a9767be8fc984e2",
     "installer": {
         "script": [
             "if ([Environment]::OSVersion.Version.Major -ne \"10\") {",

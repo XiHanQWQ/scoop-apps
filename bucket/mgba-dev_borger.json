@@ -1,5 +1,5 @@
 {
-    "version": "9155-20261008",
+    "version": "9187-20261120",
     "description": "Nintendo Game Boy Advance emulator",
     "homepage": "https://mgba.io/",
     "license": {
@@ -8,14 +8,14 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://s3.amazonaws.com/mgba/build/mGBA-build-2026-10-08-win64-9155-143adf5aa2a60c6036810b0cd72445e13d74b0e6.7z",
-            "hash": "b691a23b1df2c7e7642d717e7cb21d53cb7784887cf82ec2007290a1cf100f6e",
-            "extract_dir": "mGBA-build-2026-10-08-win64-9155-143adf5aa2a60c6036810b0cd72445e13d74b0e6"
+            "url": "https://s3.amazonaws.com/mgba/build/mGBA-build-2026-11-20-win64-9187-e6c17152dec0caaebd8a4b949c96a24d56debf44.7z",
+            "hash": "f4fbe69e9f4e559e67f724ba67f4d2625fbcbdb66a51a217bdceae5bbff57c66",
+            "extract_dir": "mGBA-build-2026-11-20-win64-9187-e6c17152dec0caaebd8a4b949c96a24d56debf44"
         },
         "32bit": {
-            "url": "https://s3.amazonaws.com/mgba/build/mGBA-build-2026-10-08-win32-9155-143adf5aa2a60c6036810b0cd72445e13d74b0e6.7z",
-            "hash": "204229ec033d763bdec70ee96c68abc84628b8056168cd7c1ec2b15bd30d0481",
-            "extract_dir": "mGBA-build-2026-10-08-win32-9155-143adf5aa2a60c6036810b0cd72445e13d74b0e6"
+            "url": "https://s3.amazonaws.com/mgba/build/mGBA-build-2026-11-20-win32-9187-e6c17152dec0caaebd8a4b949c96a24d56debf44.7z",
+            "hash": "8d4b759522dcfd50f84e041ba885f51b72c7f07165eb4b7b0ad6998d105180a9",
+            "extract_dir": "mGBA-build-2026-11-20-win32-9187-e6c17152dec0caaebd8a4b949c96a24d56debf44"
         }
     },
     "pre_install": [
@@ -35,16 +35,6 @@
         "   Add-Content \"$dir\\config.ini\" 'gbc.bios=bios/gbc_bios.bin'",
         "   Add-Content \"$dir\\config.ini\" 'sgb.bios=bios/sgb_bios.bin'",
         "}"
-    ],
-    "bin": [
-        [
-            "mGBA.exe",
-            "mgba-dev"
-        ],
-        [
-            "mgba-sdl.exe",
-            "mgba-sdl-dev"
-        ]
     ],
     "shortcuts": [
         [

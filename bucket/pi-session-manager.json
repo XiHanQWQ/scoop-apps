@@ -1,12 +1,12 @@
 {
-    "version": "0.8.9",
+    "version": "0.9.2",
     "description": "Pi Session Manager helps organize and manage development and AI session workflows.",
     "homepage": "https://github.com/Dwsy/pi-session-manager",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Dwsy/pi-session-manager/releases/download/v0.8.9/pi-session-cli-windows-x64.exe#/pi-session-cli.exe",
-            "hash": "117cff6a45406f5101cf73802c6f741b3eb1eba1ca7bbb82946b87e33360c02e"
+            "url": "https://github.com/Dwsy/pi-session-manager/releases/download/v0.9.2/pi-session-cli-windows-x64.exe#/pi-session-cli.exe",
+            "hash": "09f62e34cac3dd2c8085978d1af3b056d10721482d79b0631530b5778af52eb5"
         }
     },
     "bin": "pi-session-cli.exe",

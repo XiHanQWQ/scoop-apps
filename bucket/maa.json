@@ -1,12 +1,12 @@
 {
-    "version": "6.19.0",
+    "version": "6.22.0",
     "description": "A one-click tool for the daily tasks of Arknights, supporting all clients",
     "homepage": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
     "license": "AGPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights/releases/download/v6.19.0/MAA-v6.19.0-win-x64.zip",
-            "hash": "51463ce5cbcb37b85c1e3a5bd3fb11d7a33f4607a2c65578b96297366629b73a"
+            "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights/releases/download/v6.22.0/MAA-v6.22.0-win-x64.zip",
+            "hash": "197e3b4c35f56ca75e3fc7cf0a6dfd5467f8aace613bd44626448cf6f8b4756c"
         }
     },
     "bin": [

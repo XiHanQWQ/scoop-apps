@@ -9,7 +9,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/modstart-lib/linkandroid/releases/download/vsnapshot/LinkAndroid-snapshot-win-setup-x64.exe#/dl.7z",
-            "hash": "06320a62bbc0188cc5fc0b5bfe234954c0662dd94fb4c9e360ba5dcd47e85355",
+            "hash": "83b055fb0347ec2a88ccb8bbc782d74f5770d05107705630c81d4d9d65c8c137",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
                 "Remove-Item \"$dir\\`$*\" -Force -Recurse"
@@ -17,7 +17,7 @@
         },
         "arm64": {
             "url": "https://github.com/modstart-lib/linkandroid/releases/download/vsnapshot/LinkAndroid-snapshot-win-setup-arm64.exe#/dl.7z",
-            "hash": "b8a87233f016cf09cb9dce43a2c4fc133f7c992c50d36d75b78e6931a46764bc",
+            "hash": "42b6ad46dbb45093bdb95a6958b8cda16876353f77c62e235a6205f00be24e50",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-arm64.7z\" \"$dir\"",
                 "Remove-Item \"$dir\\`$*\" -Force -Recurse"

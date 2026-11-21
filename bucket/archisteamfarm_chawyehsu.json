@@ -1,16 +1,16 @@
 {
     "homepage": "https://github.com/JustArchiNET/ArchiSteamFarm",
     "description": "Idling Steam cards from multiple accounts simultaneously.",
-    "version": "6.3.10.5",
+    "version": "6.3.11.7",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/6.3.10.5/ASF-win-x64.zip",
-            "hash": "sha512:50fed28456544c8420d547a1e79d5391eeaa1805673ba613e1ca87f4c04de129b3ec809d0fcc3fde84a6eec9c33956a07e485db9a4cc165456e5f696c32753c2"
+            "url": "https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/6.3.11.7/ASF-win-x64.zip",
+            "hash": "sha512:95d8b91c944fd7c47e6dae71d89b65ee81cb219689fd67fe91da665297b7da32ee567c8ebb96b7b7a653b2ea43ed62e8d176b53d0f7e078309443802d2bd7167"
         },
         "arm64": {
-            "url": "https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/6.3.10.5/ASF-win-arm64.zip",
-            "hash": "sha512:003b0e5371b1817df3578b95587780da5e572ec4d5ce45ca5df110dbd82097e912e1b407d1d581d0c4b6fed003e7aa8ae82d6fd5b6012c72cbbbc541add37f53"
+            "url": "https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/6.3.11.7/ASF-win-arm64.zip",
+            "hash": "sha512:d84fb4a1bbac11e2790e836081fe8fd8da24406291b1b2eec0ab8e49751d8f0fc96c05d99097dfee809d836943de5caf9015638cf902c30f9e9b3d6df5adc147"
         }
     },
     "shortcuts": [

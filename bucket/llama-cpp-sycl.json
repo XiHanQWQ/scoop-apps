@@ -1,12 +1,12 @@
 {
-    "version": "b11146",
+    "version": "b12556",
     "description": "LLM inference in C/C++ (SYCL-enabled)",
     "homepage": "https://github.com/ggml-org/llama.cpp",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ggml-org/llama.cpp/releases/download/b11146/llama-b11146-bin-win-sycl-x64.zip",
-            "hash": "0f46d3d776785e86bcb1a5803de14d46ab10263379ee26f527b73608f15dd200"
+            "url": "https://github.com/ggml-org/llama.cpp/releases/download/b12556/llama-b12556-bin-win-sycl-x64.zip",
+            "hash": "c00a0b72482b63f7782c803dac2d97842fd9208a7bc9171a43a9fc6e8b2539e2"
         }
     },
     "bin": [
@@ -80,9 +80,8 @@
         ]
     ],
     "checkver": {
-        "github": "https://github.com/ggml-org/llama.cpp",
-        "regex": "/releases/tag/b([\\d]+)",
-        "replace": "b${1}"
+        "url": "https://api.github.com/repos/ggml-org/llama.cpp/releases?per_page=100",
+        "regex": "/download/(b\\d+)/llama-\\1-bin-win-sycl-x64\\.zip"
     },
     "autoupdate": {
         "architecture": {

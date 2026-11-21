@@ -1,22 +1,26 @@
 {
-    "version": "1.0.1",
+    "version": "2.6.0",
     "description": "在PC上控制Android设备",
-    "homepage": "https://github.com/pdone/FreeControl2",
+    "homepage": "https://fc.awaw.cc/",
     "license": {
         "identifier": "MIT license",
-        "url": "https://github.com/pdone/FreeControl2#MIT-1-ov-file"
+        "url": "https://github.com/pdone/FreeControl#MIT-1-ov-file"
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/pdone/FreeControl2/releases/download/v1.0.1/FreeControl2_1.0.1.exe#/FreeControl2.exe",
-            "hash": "fc9e4ecbd43f08b2934be48be95370d72fd68bbbef69af5b9a569daf64969860"
+            "url": "https://github.com/pdone/FreeControl/releases/download/v2.6.0/FreeControl_2.6.0_windows_x64.exe#/FreeControl.exe",
+            "hash": "67b751b45cec3162a4ead49b6cdbe081144ced7a6423a9a7098f743a529693de"
+        },
+        "arm64": {
+            "url": "https://github.com/pdone/FreeControl/releases/download/v2.6.0/FreeControl_2.6.0_windows_arm64.exe#/FreeControl.exe",
+            "hash": "4429afb4bfd5f8d3644b7277246248b17697c07d089695c567d32c1ce5bb3f9a"
         }
     },
     "installer": {
         "script": [
             "# handle runtime cache",
             "Import-Module $(Join-Path $(Find-BucketDirectory -Root -Name apps) scripts/AppsUtils.psm1)",
-            "Mount-ExternalRuntimeData -Source \"$persist_dir\\appdata\" -Target \"$env:LOCALAPPDATA\\com.freecontrol2\"",
+            "Mount-ExternalRuntimeData -Source \"$persist_dir\\appdata\" -Target \"$env:LOCALAPPDATA\\com.freecontrol\"",
             "Mount-ExternalRuntimeData -Source \"$persist_dir\\userdata\" -Target \"$env:APPDATA\\FreeControl2\"",
             "Remove-Module -Name AppsUtils"
         ]
@@ -24,27 +28,30 @@
     "uninstaller": {
         "script": [
             "Import-Module $(Join-Path $(Find-BucketDirectory -Root -Name apps) scripts/AppsUtils.psm1)",
-            "Dismount-ExternalRuntimeData -Target \"$env:LOCALAPPDATA\\com.freecontrol2\"",
+            "Dismount-ExternalRuntimeData -Target \"$env:LOCALAPPDATA\\com.freecontrol\"",
             "Dismount-ExternalRuntimeData -Target \"$env:APPDATA\\FreeControl2\"",
             "Remove-Module -Name AppsUtils"
         ]
     },
-    "bin": "FreeControl2.exe",
+    "bin": "FreeControl.exe",
     "shortcuts": [
         [
-            "FreeControl2.exe",
-            "FreeControl2"
+            "FreeControl.exe",
+            "FreeControl"
         ]
     ],
     "checkver": {
-        "github": "https://api.github.com/repos/pdone/FreeControl2/releases",
+        "github": "https://api.github.com/repos/pdone/FreeControl/releases",
         "jp": "$[0].tag_name",
         "regex": "v([\\d.]+)"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/pdone/FreeControl2/releases/download/v$version/FreeControl2_$version.exe#/FreeControl2.exe"
+                "url": "https://github.com/pdone/FreeControl/releases/download/v$version/FreeControl_$version_windows_x64.exe#/FreeControl.exe"
+            },
+            "arm64": {
+                "url": "https://github.com/pdone/FreeControl/releases/download/v$version/FreeControl_$version_windows_arm64.exe#/FreeControl.exe"
             }
         }
     }

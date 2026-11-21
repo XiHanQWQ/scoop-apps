@@ -1,12 +1,12 @@
 {
-    "version": "3.8.0",
+    "version": "4.1.2",
     "description": "Fast, lightweight Markdown and Mermaid viewer.",
     "homepage": "https://tinta.cc",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/oipoistar/tinta/releases/download/v3.8.0/tinta.exe",
-            "hash": "ce7f28afe37c882d16abfc68b2b1f4a78fa2798cb45f9c4eee82280fd48c7e60"
+            "url": "https://github.com/oipoistar/tinta/releases/download/v4.1.2/tinta.exe",
+            "hash": "f4d54a79ea97ace9459a4538a4dcbf6029a1448aa5b80f8e2b9ac07a74db2c32"
         }
     },
     "bin": "tinta.exe",

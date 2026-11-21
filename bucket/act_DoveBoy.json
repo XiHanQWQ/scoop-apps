@@ -1,20 +1,20 @@
 {
-    "version": "0.2.89",
+    "version": "0.2.98",
     "description": "Local Github actions runner.",
     "homepage": "https://github.com/nektos/act/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nektos/act/releases/download/v0.2.89/act_Windows_x86_64.zip",
-            "hash": "0f8cf866ad7e32421a219fc551a0a0ea5d12ead464de12ebfeafd334a5973b50"
+            "url": "https://github.com/nektos/act/releases/download/v0.2.98/act_Windows_x86_64.zip",
+            "hash": "d0d868ee2b33bb710f4df82d69345ce3a10d2f9fc7bbee9522bf36a15779ada0"
         },
         "32bit": {
-            "url": "https://github.com/nektos/act/releases/download/v0.2.89/act_Windows_i386.zip",
-            "hash": "69fcbc38e7fb41c62bf568e77a13a146c26719c402b07be857488aca59c4232b"
+            "url": "https://github.com/nektos/act/releases/download/v0.2.98/act_Windows_i386.zip",
+            "hash": "8f24a6e7e6de4fc448060e7821db39723fd0205c3bb2382812ad7143f398c8b0"
         },
         "arm64": {
-            "url": "https://github.com/nektos/act/releases/download/v0.2.89/act_Windows_arm64.zip",
-            "hash": "bb8121d304c3a78ba172cc45b789fd2555e7638a15b0da12d7057319159409d7"
+            "url": "https://github.com/nektos/act/releases/download/v0.2.98/act_Windows_arm64.zip",
+            "hash": "c67cd28ccd1c9a9238614306a8f49c2037b7df7aa01b5d890ad671d43cbdc503"
         }
     },
     "bin": "act.exe",

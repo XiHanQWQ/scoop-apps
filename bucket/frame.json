@@ -1,12 +1,12 @@
 {
-    "version": "0.33.1",
+    "version": "0.35.0",
     "description": "Fast FFmpeg GUI",
     "homepage": "https://github.com/66HEX/frame",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/66HEX/frame/releases/download/0.33.1/Frame-x86_64.exe#/dl.7z",
-            "hash": "18dd7a727b7bb777943d3c0d3c7d4928cc9b634ac86a936b5fa236906023a68a"
+            "url": "https://github.com/66HEX/frame/releases/download/0.35.0/Frame-x86_64.exe#/dl.7z",
+            "hash": "cb7167298b9acf9d3d7f3450a50ca259efba72045ccb1e7ddcd1d2317ea02dcd"
         }
     },
     "shortcuts": [

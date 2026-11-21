@@ -1,18 +1,18 @@
 {
-    "version": "11.4.0.860",
+    "version": "12.0.1.963",
     "description": "Clean junks of Browsers, remove junk and useless files of Windows and Defragment your disk.",
     "homepage": "https://www.wisecleaner.com/wise-disk-cleaner.html",
     "license": "Freeware",
     "architecture": {
         "64bit": {
-            "url": "http://downloads.wisecleaner.com/soft/WDCFree_11.4.0.860.zip",
-            "hash": "dc86a95353f183dc79e76623255fc52cd6e9201be979158fa21fba81c8503105",
-            "extract_dir": "WDCFree_11.4.0.860\\WDCFree_11.4.0.860(x64)"
+            "url": "http://downloads.wisecleaner.com/soft/WDCFree_12.0.1.963.zip",
+            "hash": "fb6579d89145c0f0d060bad925256a99ffc80985df351a430c1437eabb343471",
+            "extract_dir": "WDCFree_12.0.1.963\\WDCFree_12.0.1.963(x64)"
         },
         "32bit": {
-            "url": "http://downloads.wisecleaner.com/soft/WDCFree_11.4.0.860.zip",
-            "hash": "dc86a95353f183dc79e76623255fc52cd6e9201be979158fa21fba81c8503105",
-            "extract_dir": "WDCFree_11.4.0.860\\WDCFree_11.4.0.860(x86)"
+            "url": "http://downloads.wisecleaner.com/soft/WDCFree_12.0.1.963.zip",
+            "hash": "fb6579d89145c0f0d060bad925256a99ffc80985df351a430c1437eabb343471",
+            "extract_dir": "WDCFree_12.0.1.963\\WDCFree_12.0.1.963(x86)"
         }
     },
     "shortcuts": [

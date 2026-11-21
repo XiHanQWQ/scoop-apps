@@ -1,5 +1,5 @@
 {
-    "version": "2.0.3",
+    "version": "2.0.5",
     "description": "Another Mihomo GUI.",
     "homepage": "https://mihomo.party/",
     "license": {
@@ -8,24 +8,24 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.3/clash-party-windows-2.0.3-x64-setup.exe#/dl.7z",
-            "hash": "bcb3f642124aa85574d47c5242c15803d0eefbaf0240f545ded31c70a1e0c3db",
+            "url": "https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.5/clash-party-windows-2.0.5-x64-setup.exe#/dl.7z",
+            "hash": "f496eb22f3af1f65e99b447b25d287d3e95d31e7838c4d6e3c3475b41f79c48c",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
                 "Remove-Item \"$dir\\`$*\" -Force -Recurse"
             ]
         },
         "32bit": {
-            "url": "https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.3/clash-party-windows-2.0.3-ia32-setup.exe#/dl.7z",
-            "hash": "5c107b6f51ee2b4cd8cfc7c60088a4a1b9fe995340809d56fc7119e6d59c7339",
+            "url": "https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.5/clash-party-windows-2.0.5-ia32-setup.exe#/dl.7z",
+            "hash": "1f396b5f9c1e98706c3672fefe643b083447453dbac8f636e128726f2a2bc908",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-32.7z\" \"$dir\"",
                 "Remove-Item \"$dir\\`$*\" -Force -Recurse"
             ]
         },
         "arm64": {
-            "url": "https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.3/clash-party-windows-2.0.3-arm64-setup.exe#/dl.7z",
-            "hash": "cc1f978668debb08c71422642d9ea7562b0929a5c3cc59350ac3f48af96a3d4d",
+            "url": "https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.5/clash-party-windows-2.0.5-arm64-setup.exe#/dl.7z",
+            "hash": "168fe8c774aeb850d57a57522d2e47ce56976cc671d87031a62929153f6f333c",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-arm64.7z\" \"$dir\"",
                 "Remove-Item \"$dir\\`$*\" -Force -Recurse"

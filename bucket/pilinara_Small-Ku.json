@@ -1,10 +1,10 @@
 {
-	"version": "2.1.5.1",
+	"version": "2.2.0",
 	"description": "An open-source, cross-platform Bilibili client featuring video playback, live streaming, and danmaku support.",
 	"homepage": "https://github.com/Starfallan/PiliNara",
 	"license": "GPL-3.0-only",
-	"url": "https://github.com/Starfallan/PiliNara/releases/download/2.1.5.1/PiliNara_windows_2.1.5%2B5966_x64_portable.zip",
-	"hash": "2e8f25eb0ae5aeb20c19b38b3a53136c419d39dd65bf8eb8b3f4b2554deb0873",
+	"url": "https://github.com/Starfallan/PiliNara/releases/download/2.2.0/PiliNara_windows_2.2.0%2B6231_x64_NewLibmpv_beta_portable.zip",
+	"hash": "a2eb1839da11e07a8cf631a1aaa53422fdcc8bc3d086601033851db57fc55085",
 	"extract_dir": "PiliNara-Win",
 	"shortcuts": [["pilinara.exe", "PiliNara"]],
 	"checkver": {

@@ -1,10 +1,10 @@
 {
     "homepage": "https://github.com/PowerShell/PowerShell",
     "description": "Cross-platform automation and configuration tool/framework, known as Powershell Core, that works well with existing tools and is optimized for dealing with structured data.",
-    "version": "7.6.7",
+    "version": "7.7.0",
     "license": "MIT",
-    "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.7/PowerShell-7.6.7-win-fxdependentWinDesktop.zip",
-    "hash": "87edad652adb342f3811c96815697f4fa0aa599da436b5b731dce3e8f8780821",
+    "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.7.0/PowerShell-7.7.0-win-fxdependentWinDesktop.zip",
+    "hash": "f9eedc5da570347f2c9e3e7bafb34596b2d695f5ad29120d0d98d86e363596f0",
     "bin": "pwsh.exe",
     "shortcuts": [
         [

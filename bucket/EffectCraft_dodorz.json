@@ -1,23 +1,23 @@
 {
-    "version": "0.9.2",
+    "version": "0.22.0",
     "description": "Open-source motion graphics and visual effects, built in pure Rust.",
     "homepage": "https://getartcraft.com/apps/effectcraft",
     "license": "MIT OR Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/storytold/effectcraft/releases/download/v0.9.2/effectcraft-0.9.2-windows-x64-portable.zip",
-            "hash": "1f6fbb3a348f1b12b15faa3bc2c78a079414f07454cc1402208793486e79bee4",
-            "extract_dir": "effectcraft-0.9.2-windows-x64-portable"
+            "url": "https://github.com/storytold/effectcraft/releases/download/v0.22.0/effectcraft-0.22.0-windows-x64-portable.zip",
+            "hash": "a690c870390d7ff673b8443acf620c79662e47d37541fbb0c4fd6988850ca188",
+            "extract_dir": "effectcraft-0.22.0-windows-x64-portable"
         },
         "32bit": {
-            "url": "https://github.com/storytold/effectcraft/releases/download/v0.9.2/effectcraft-0.9.2-windows-x86-portable.zip",
-            "hash": "59777f4a6e8f4d3a70ff9d7edc7f09f79376f9ae96dae747578470ecc0ef0dd4",
-            "extract_dir": "effectcraft-0.9.2-windows-x86-portable"
+            "url": "https://github.com/storytold/effectcraft/releases/download/v0.22.0/effectcraft-0.22.0-windows-x86-portable.zip",
+            "hash": "c297497baa046070efc3e391354652982cc4bf28c59e977d7820ed0bab84e1f3",
+            "extract_dir": "effectcraft-0.22.0-windows-x86-portable"
         },
         "arm64": {
-            "url": "https://github.com/storytold/effectcraft/releases/download/v0.9.2/effectcraft-0.9.2-windows-arm64-portable.zip",
-            "hash": "2dede4e9aac41d989544e0f1e61c9c61c29dd65d15282ae18d5de5b56da5486c",
-            "extract_dir": "effectcraft-0.9.2-windows-arm64-portable"
+            "url": "https://github.com/storytold/effectcraft/releases/download/v0.22.0/effectcraft-0.22.0-windows-arm64-portable.zip",
+            "hash": "481588906a898ebd23117bc4e2a9969f9e94dc2f771b7836f994ac04c737bc1d",
+            "extract_dir": "effectcraft-0.22.0-windows-arm64-portable"
         }
     },
     "bin": [

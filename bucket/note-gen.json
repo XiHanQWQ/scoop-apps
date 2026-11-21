@@ -1,5 +1,5 @@
 {
-    "version": "0.38.2",
+    "version": "0.39.2",
     "description": "A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.",
     "homepage": "https://notegen.top/",
     "license": {
@@ -8,11 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/codexu/note-gen/releases/download/note-gen-v0.38.2/NoteGen_0.38.2_x64-setup.exe#/dl.7z",
-            "hash": "885428ec15657a1a17d6f16203d543401a949dedfe5181e4866e7c81ea98af9c",
+            "url": "https://github.com/codexu/note-gen/releases/download/note-gen-v0.39.2/NoteGen_0.39.2_x64_en-US.msi",
+            "hash": "eda5504c3bd327fb552c8ec248d9d5f7f53102276ff96ae169de002b07180045",
             "pre_install": "Remove-Item \"$dir\\`$*\", \"$dir\\icons\", \"$dir\\uninst*\" -Force -Recurse"
         }
     },
+    "extract_dir": "PFiles\\NoteGen",
     "installer": {
         "script": [
             "# handle runtime cache",
@@ -50,11 +51,8 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/codexu/note-gen/releases/download/note-gen-v$version/NoteGen_$version_x64-setup.exe#/dl.7z"
+                "url": "https://github.com/codexu/note-gen/releases/download/note-gen-v$version/NoteGen_$version_x64_en-US.msi"
             }
-        },
-        "hash": {
-            "url": "$baseurl/latest.json"
         }
     }
 }

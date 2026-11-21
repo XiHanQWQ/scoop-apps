@@ -1,20 +1,20 @@
 {
-    "version": "0.7.7",
+    "version": "0.7.9",
     "description": "Desktop Companion for Hermes Agent",
     "homepage": "https://github.com/fathah/hermes-desktop",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7-setup.exe",
-            "hash": "03c10cb7ec7ec0756b7e0e21a6b7f7d81d90d91ef3c8fd64b9d5fdc04912a37e",
+            "url": "https://github.com/fathah/hermes-desktop/releases/download/v0.7.9/hermes-desktop-0.7.9-setup.exe",
+            "hash": "78f338fe7f340bc9ac24ffc0363e264dfcd48364c6be646feacec37f78744dfe",
             "installer": {
-                "script": "7z x $original_dir/`$PLUGINSDIR/app-64.7z -o\"$original_dir\""
+                "script": "7z x $original_dir/PLUGINSDIR/app-64.7z -o\"$original_dir\""
             }
         }
     },
     "extract_dir": "$PLUGINSDIR",
     "extract_to": "PLUGINSDIR",
-    "post_install": "Remove-Item -RECURSE $original_dir/`$PLUGINSDIR",
+    "post_install": "Remove-Item -RECURSE $original_dir/PLUGINSDIR",
     "shortcuts": [
         [
             "hermes-agent.exe",

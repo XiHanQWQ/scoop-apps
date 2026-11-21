@@ -1,5 +1,5 @@
 {
-    "version": "5.6.283",
+    "version": "5.6.287",
     "description": "A full-featured, no-code, open-source game development software.",
     "homepage": "https://gdevelop.io",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/4ian/GDevelop/releases/download/v5.6.283/GDevelop-5-Setup-5.6.283.exe#/dl.7z",
-            "hash": "sha512:af0a1399705e4061f6a96d207585a549590c707e5034ca7b7733a65c81594fbf0c4fc16bb9d056261706ecfd0953fbebf05d725d3e8c174d823c6c167fdd77ec"
+            "url": "https://github.com/4ian/GDevelop/releases/download/v5.6.287/GDevelop-5-Setup-5.6.287.exe#/dl.7z",
+            "hash": "sha512:bcab60baf48bf78d8af05b8ef97ebe0e25f6fbe1d580bcb5f6b6091f60e8c5856516096cdc9605342b98d592e9988eb47a090aa84002991fe5ac048a98a4d3f0"
         }
     },
     "pre_install": [

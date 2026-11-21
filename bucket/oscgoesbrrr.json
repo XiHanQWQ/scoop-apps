@@ -1,12 +1,12 @@
 {
-    "version": "2.1.30",
+    "version": "2.1.39",
     "description": "Make haptics in real life go BRRR from VRChat",
     "homepage": "https://osc.toys/",
     "license": "CC-BY-NC-SA-4.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/OscToys/OscGoesBrrr/releases/download/v2.1.30/OscGoesBrrr-windows-setup-2.1.30.exe#/dl.7z",
-            "hash": "9ebab919a3149200e1991a2dea4115552810802e89ef1c1ad80e3a8375de1211"
+            "url": "https://github.com/OscToys/OscGoesBrrr/releases/download/v2.1.39/OscGoesBrrr-windows-setup-2.1.39.exe#/dl.7z",
+            "hash": "8dd9077b7cb17210593504aff555541ed27764c9e1707552ad98d8fc628b5ee0"
         }
     },
     "extract_dir": "$PLUGINSDIR",

@@ -1,20 +1,20 @@
 {
-    "version": "10.0.6",
+    "version": "10.0.8",
     "description": "Open-source reference management software to manage bibliographic data and related research materials.",
     "homepage": "https://www.zotero.org/",
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://download.zotero.org/client/release/10.0.6/Zotero-10.0.6_win-x64.zip",
-            "hash": "264b8337b9b412d2b22c369e3885a9bb9331c56b7b46b77e90347d745b6cc132"
+            "url": "https://download.zotero.org/client/release/10.0.8/Zotero-10.0.8_win-x64.zip",
+            "hash": "d0fe0d8df98870a7388106e81fea4e8da945ccf7af1e89d8f2182902cda282d1"
         },
         "32bit": {
-            "url": "https://download.zotero.org/client/release/10.0.6/Zotero-10.0.6_win32.zip",
-            "hash": "5a65a13a94139c0cc0d0bb529c89bc9226f4d9cf61f2516433e29849c382a56d"
+            "url": "https://download.zotero.org/client/release/10.0.8/Zotero-10.0.8_win32.zip",
+            "hash": "77d28715916a61c4ba40db82c7e7d562e6fdf322fd2ad50530f6a8362f7ba5c2"
         },
         "arm64": {
-            "url": "https://download.zotero.org/client/release/10.0.6/Zotero-10.0.6_win-arm64.zip",
-            "hash": "e5e174bd34de614fdab03f05a1d7d876716095e469becfb1dc3860f78b846e2b"
+            "url": "https://download.zotero.org/client/release/10.0.8/Zotero-10.0.8_win-arm64.zip",
+            "hash": "fc34518887453e3627860fc4d4d6abd3aff2a317f24fccd7816e90e460cbec8c"
         }
     },
     "pre_install": [

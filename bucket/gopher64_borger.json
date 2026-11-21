@@ -1,5 +1,5 @@
 {
-    "version": "1.1.40",
+    "version": "1.2.2",
     "description": "Nintendo 64 emulator",
     "homepage": "https://github.com/gopher64/gopher64",
     "license": "GPL-3.0",
@@ -9,8 +9,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gopher64/gopher64/releases/download/v1.1.40/gopher64-windows-x86_64.exe",
-            "hash": "c9569f0830b970399686430cccf0229641b9df4323a2b4da9774b48f870ca942"
+            "url": "https://github.com/gopher64/gopher64/releases/download/v1.2.2/gopher64-windows-x86_64.exe",
+            "hash": "539e12d139abd7e0b5cc8b78016c0cefb3aec5eaefdcfc501d66b5a30b03ba70"
         }
     },
     "pre_install": [
@@ -39,12 +39,6 @@
         "}"
     ],
     "post_install": "New-item \"$dir\\portable.txt\" -ItemType File | Out-Null",
-    "bin": [
-        [
-            "gopher64-windows-x86_64.exe",
-            "gopher64"
-        ]
-    ],
     "shortcuts": [
         [
             "gopher64-windows-x86_64.exe",

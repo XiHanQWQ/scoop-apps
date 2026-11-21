@@ -1,12 +1,12 @@
 {
-    "version": "3.1.0",
+    "version": "3.2.2",
     "description": "Desktop tool for managing Codex accounts, usage monitoring, account switching, and local API proxying.",
     "homepage": "https://github.com/170-carry/codex-tools",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/170-carry/codex-tools/releases/download/v3.1.0/Codex.Tools_3.1.0_x64-setup.exe#/dl.7z",
-            "hash": "685db85e67f8081f74ad64460436e43d6d55ad86aff4fbde274de8e3f5c2c73e"
+            "url": "https://github.com/170-carry/codex-tools/releases/download/v3.2.2/Codex.Tools_3.2.2_x64-setup.exe#/dl.7z",
+            "hash": "5704a8d04c61de6d263d7187487c2736a036531d31f443f2af1424f08799cf2c"
         }
     },
     "pre_install": "Remove-Item \"$dir\\`$PLUGINSDIR\" -Recurse -Force",

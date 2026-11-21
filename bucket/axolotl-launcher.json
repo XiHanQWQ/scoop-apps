@@ -1,5 +1,5 @@
 {
-    "version": "1.9.8",
+    "version": "1.11.1",
     "description": "Free and open-source Minecraft Java Edition launcher with Modrinth and CurseForge integration",
     "homepage": "https://axlmc.org",
     "license": "GPL-3.0-only",
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Mystic-Stars/Axolotl/releases/download/v1.9.8/Axolotl_Launcher_1.9.8_x64_portable.zip",
-            "hash": "66a6fa0b56b025c7a45b521ce4f621d0ea4e3b2708ccb682b29e7a1345b2a710"
+            "url": "https://github.com/Mystic-Stars/Axolotl/releases/download/v1.11.1/Axolotl_Launcher_1.11.1_x64_portable.zip",
+            "hash": "953752dc5d6a0381236578b919607ded28eb6d502066160c4b1dfc03650692fb"
         }
     },
     "extract_dir": "Axolotl",

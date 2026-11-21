@@ -1,5 +1,5 @@
 {
-	"version": "4.1.0",
+	"version": "4.3.1",
 	"description": "Tiny alternative Discord client with a smaller footprint, themes and plugins, multi-profile, and more!",
 	"homepage": "https://github.com/SpikeHD/Orbolay",
 	"license": {
@@ -8,8 +8,8 @@
 	},
 	"architecture": {
 		"64bit": {
-			"url": "https://github.com/SpikeHD/Orbolay/releases/download/v4.1.0/orbolay-x86_64-pc-windows-msvc.exe#/orbolay.exe",
-			"hash": "63519789e5c6ff4b751870b231368014a81e7752392a00ea1138e98c9a1521b1"
+			"url": "https://github.com/SpikeHD/Orbolay/releases/download/v4.3.1/orbolay-x86_64-pc-windows-msvc.exe#/orbolay.exe",
+			"hash": "2ca6d75e5f3f4c08a9fbcae73360850508571649322e003e897867a4f7ead08e"
 		}
 	},
 	"checkver": {

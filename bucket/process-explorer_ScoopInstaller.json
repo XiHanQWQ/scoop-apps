@@ -1,5 +1,5 @@
 {
-    "version": "17.14",
+    "version": "17.21",
     "description": "Find out what files, registry keys and other objects processes have open, which DLLs they have loaded, and more.",
     "homepage": "https://learn.microsoft.com/sysinternals/downloads/process-explorer",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://learn.microsoft.com/sysinternals/license-terms"
     },
     "url": "https://download.sysinternals.com/files/ProcessExplorer.zip",
-    "hash": "746770d3f54326dd7da16c2b2815803ab131f348cba24a91cb6a38cfd2f7073f",
+    "hash": "22551d0181dde6cb6af1bc134a190d867d883673f9c35c33039e4e8f9ac75df1",
     "architecture": {
         "64bit": {
             "bin": [

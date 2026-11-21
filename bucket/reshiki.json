@@ -1,18 +1,18 @@
 {
-    "version": "0.11.0",
+    "version": "0.16.0",
     "description": "Molecular drawing workspace for chemical structures, reaction schemes, and figures.",
     "homepage": "https://reshiki.com/",
     "license": "MIT|Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Ameyanagi/ReShiki/releases/download/v0.11.0/reshiki-0.11.0-windows-x64.zip",
-            "hash": "ca6d918dabfa413f6a78487c720fab509830872565a2fc569f3011867e78f096",
-            "extract_dir": "reshiki-0.11.0-windows-x64"
+            "url": "https://github.com/Ameyanagi/ReShiki/releases/download/v0.16.0/reshiki-0.16.0-windows-x64.zip",
+            "hash": "105f1b4f0bc2783972bcbd0910276343bed35ca9acad3617ff161a8e5b3ebf31",
+            "extract_dir": "reshiki-0.16.0-windows-x64"
         },
         "arm64": {
-            "url": "https://github.com/Ameyanagi/ReShiki/releases/download/v0.11.0/reshiki-0.11.0-windows-arm64.zip",
-            "hash": "245c65e31b99a440527db6211d9c362be0bdfac2ec304ceee3c3572c24a98cce",
-            "extract_dir": "reshiki-0.11.0-windows-arm64"
+            "url": "https://github.com/Ameyanagi/ReShiki/releases/download/v0.16.0/reshiki-0.16.0-windows-arm64.zip",
+            "hash": "07b7d46987bbe067b1d9556d95e95a18d374f06b7f9d5f83bba4c9642a84af50",
+            "extract_dir": "reshiki-0.16.0-windows-arm64"
         }
     },
     "bin": "reshiki.exe",

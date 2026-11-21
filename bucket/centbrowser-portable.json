@@ -1,16 +1,16 @@
 {
-    "version": "5.2.1168.83",
+    "version": "5.3.1184.31",
     "description": "The Most Feature Rich Chromium",
     "license": "GPL",
     "notes": "Based on the prominent web browser project - Chromium, Cent Browser inherits all its advantages.",
     "architecture": {
         "64bit": {
-            "url": "http://static.centbrowser.com/win_stable/5.2.1168.83/centbrowser_5.2.1168.83_x64_portable.exe#/dl.7z",
-            "hash": "b7e13cd0002c3550bbbd7306c3d6cbc99e2532255ea9b4cab4f099d8f0a81bde"
+            "url": "http://static.centbrowser.com/win_stable/5.3.1184.31/centbrowser_5.3.1184.31_x64_portable.exe#/dl.7z",
+            "hash": "017abc223af2700a3e780e1166d1277fff9068bec8c7a4c4933a1edfde08581e"
         },
         "32bit": {
-            "url": "http://static.centbrowser.com/win_stable/5.2.1168.83/centbrowser_5.2.1168.83_portable.exe#/dl.zip",
-            "hash": "005c7e33c0eef3866841128c8f9478f86f0464b0a5b1ab38378b98b8da30f873"
+            "url": "http://static.centbrowser.com/win_stable/5.3.1184.31/centbrowser_5.3.1184.31_portable.exe#/dl.zip",
+            "hash": "0b920091f05de9605c3ef2378a5fe3d558755ff107415076852371be2284d32f"
         }
     },
     "shortcuts": [

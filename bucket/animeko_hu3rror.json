@@ -1,12 +1,12 @@
 {
-    "version": "6.3.0",
+    "version": "6.4.1",
     "description": "One-stop online barrage drama tracking platform",
     "homepage": "https://github.com/open-ani/animeko",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/open-ani/animeko/releases/download/v6.3.0/ani-6.3.0-windows-x86_64.zip",
-            "hash": "947e0d4e2085c4a29b1e3226fff4db6b4388e284ace70ed188cff437333aae6b",
+            "url": "https://github.com/open-ani/animeko/releases/download/v6.4.1/ani-6.4.1-windows-x86_64.zip",
+            "hash": "57620c8a1690141214771b5502eda77be44ef98dee4983a6d505e053275cc9f4",
             "extract_dir": "Ani"
         }
     },
@@ -30,12 +30,16 @@
         ]
     ],
     "post_install": [
-        ". \"$(Find-BucketDirectory -Root -Name (coalesce $bucket 'muggle'))/scripts/persist-external.ps1\"",
-        "Invoke-PersistExternalInstall -Manifest $manifest -PersistDir $persist_dir -Dir $dir"
+        "$helper = (Resolve-Path \"$bucketsdir/*/scripts/persist-external.ps1\" -ErrorAction SilentlyContinue | Select-Object -First 1).Path",
+        "if (!$helper) { throw 'persist_external: persist-external.ps1 not found under scripts/ in any bucket' }",
+        ". $helper",
+        "Invoke-PersistExternalInstall"
     ],
     "pre_uninstall": [
-        ". \"$(Find-BucketDirectory -Root -Name (coalesce $bucket 'muggle'))/scripts/persist-external.ps1\"",
-        "Invoke-PersistExternalUninstall -Manifest $manifest -Dir $dir"
+        "$helper = (Resolve-Path \"$bucketsdir/*/scripts/persist-external.ps1\" -ErrorAction SilentlyContinue | Select-Object -First 1).Path",
+        "if (!$helper) { throw 'persist_external: persist-external.ps1 not found under scripts/ in any bucket' }",
+        ". $helper",
+        "Invoke-PersistExternalUninstall"
     ],
     "checkver": "github",
     "autoupdate": {

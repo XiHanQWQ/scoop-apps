@@ -1,5 +1,5 @@
 {
-    "version": "8.1.22",
+    "version": "8.6.18",
     "description": "The Next-Gen Collaboration Suite",
     "homepage": "https://www.larksuite.com/",
     "license": {
@@ -9,12 +9,12 @@
     "notes": "Runtime data are stored in '%APPDATA%\\LarkInternational', and are not persisted by Scoop.",
     "architecture": {
         "32bit": {
-            "url": "https://sf16-sg.larksuitecdn.com/obj/lark-version-sg/20c98136/Lark-win32_ia32-8.1.22-signed.exe#/dl.7z",
-            "hash": "md5:7cf3b8eae33d85cb57fe6a27e2a199e0"
+            "url": "https://sf16-sg.larksuitecdn.com/obj/lark-version-sg/a1ee4d22/Lark-win32_ia32-8.6.18-signed.exe#/dl.7z",
+            "hash": "md5:003bca3a81c5b74416aad5539df91a39"
         },
         "64bit": {
-            "url": "https://sf16-sg.larksuitecdn.com/obj/lark-version-sg/eb36dfa6/Lark-win32_x64-8.1.22-signed.exe#/dl.7z",
-            "hash": "md5:67001316415c4fb46a3c31576e0f75e9"
+            "url": "https://sf16-sg.larksuitecdn.com/obj/lark-version-sg/8c7db980/Lark-win32_x64-8.6.18-signed.exe#/dl.7z",
+            "hash": "md5:c92208ea0603a479658d68011e2fe18c"
         }
     },
     "extract_to": "app",

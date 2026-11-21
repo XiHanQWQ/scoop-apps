@@ -1,17 +1,17 @@
 {
-    "version": "0.107.79",
+    "version": "1.0.0",
     "description": "AdGuardHome. Network-wide ads & trackers blocking DNS server",
     "homepage": "https://github.com/AdguardTeam/AdGuardHome",
     "notes": "Running as a service: AdGuardHome -s install (https://adguard-dns.io/kb/zh-CN/adguard-home/getting-started/#service)",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.79/AdGuardHome_windows_amd64.zip",
-            "hash": "e42294dc26b2c0d8f4576a91f09aa5129ffdfb7b647026fac77f0abac9acffce"
+            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v1.0.0/AdGuardHome_windows_amd64.zip",
+            "hash": "538f3863db11a054087e8b31eb7417a2c4b09a4cb689e29d59a49105dad45521"
         },
         "32bit": {
-            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.79/AdGuardHome_windows_386.zip",
-            "hash": "19ffa4c7583e13e7818b472079a79bf1c81ccb40be3a91fe96e4da056bfe9238"
+            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v1.0.0/AdGuardHome_windows_386.zip",
+            "hash": "a8cdec83f2d0c5bf9e1c1ea0875c862f39834b05ea2b7900c04a378deb5ac57f"
         }
     },
     "pre_install": "if (!(Test-Path \"$persist_dir\\AdGuardHome.yaml\")) { New-Item \"$dir\\AdGuardHome.yaml\" | Out-Null }",

@@ -1,8 +1,8 @@
 {
-    "version": "1.78",
+    "version": "1.80",
     "extract_dir": "YgoMaster",
-    "url": "https://github.com/pixeltris/YgoMaster/releases/download/v1.78/YgoMaster-v1.78.zip",
-    "hash": "a563f06ee3c5456c8d33cdd57ca1c32f6e5bfb2b3f7eb37913365b27f215ead9",
+    "url": "https://github.com/pixeltris/YgoMaster/releases/download/v1.80/YgoMaster-v1.80.zip",
+    "hash": "ec620f7c56a41f2d660a0566fc194b7bdd253574400b0c1920237d71dc5f5d54",
     "bin": "",
     "homepage": "https://github.com/pixeltris/YgoMaster",
     "license": "MIT",

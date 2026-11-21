@@ -1,5 +1,5 @@
 {
-    "version": "202610010540",
+    "version": "202611140923",
     "description": "一款免费开源的 Windows 系统重装工具",
     "homepage": "https://github.com/NORMAL-EX/LetRecovery",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/NORMAL-EX/LetRecovery/releases/download/2026.10.1/LetRecovery.7z",
-            "hash": "febf1cb18e9eaf0c6f4256a12ff5e4131b57fa0402012af4665d25348cddc04f"
+            "url": "https://github.com/NORMAL-EX/LetRecovery/releases/download/2026.11.14/LetRecovery.7z",
+            "hash": "90b117476ab7f3898914c8ad042463c5a0c1219736bd6c91551c89223187f768"
         }
     },
     "bin": "LetRecovery.exe",

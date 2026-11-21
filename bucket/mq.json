@@ -1,10 +1,10 @@
 {
-    "version": "0.9.3",
+    "version": "0.10.2",
     "description": "jq-like CLI for Markdown processing",
     "homepage": "https://mqlang.org/",
     "license": "MIT",
-    "url": "https://github.com/harehare/mq/releases/download/v0.9.3/mq-x86_64-pc-windows-msvc.exe#/mq.exe",
-    "hash": "a20dba033047c7af5bdfaf57d57f2f63e5c0a8fcc37be2b6b7020365f887533e",
+    "url": "https://github.com/harehare/mq/releases/download/v0.10.2/mq-x86_64-pc-windows-msvc.exe#/mq.exe",
+    "hash": "f0087fe659975131f962851e7bab21861b8797d678231b612888dccc07124082",
     "bin": "mq.exe",
     "suggest": {
         "TUI": "r-bucket/mq-tui",

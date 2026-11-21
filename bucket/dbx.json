@@ -1,5 +1,5 @@
 {
-    "version": "0.6.43",
+    "version": "0.6.72",
     "description": "Lightweight, cross-platform database client",
     "homepage": "https://dbxio.com",
     "license": "Apache-2.0",
@@ -9,12 +9,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/t8y2/dbx/releases/download/v0.6.43/DBX_0.6.43_x64-portable.zip",
-            "hash": "8edaeba53a64fa41d92cfe4c988371fc7b3264d3a35d996a0a443799ead469a3"
+            "url": "https://github.com/t8y2/dbx/releases/download/v0.6.72/DBX_0.6.72_x64-portable.zip",
+            "hash": "e1fa98463fa89b647f9358ed944d6e1924cee9b2c754c54926de443f722b50a9"
         },
         "arm64": {
-            "url": "https://github.com/t8y2/dbx/releases/download/v0.6.43/DBX_0.6.43_arm64-portable.zip",
-            "hash": "bb4079ecf6fc92760aa3619b45d903cfdfdb865827c53019a0274a9613aaef1a"
+            "url": "https://github.com/t8y2/dbx/releases/download/v0.6.72/DBX_0.6.72_arm64-portable.zip",
+            "hash": "e6a7392e51c587931be91741d39f1d282dde31b09d7b2b36676d107d27383bc5"
         }
     },
     "shortcuts": [
@@ -28,15 +28,16 @@
     },
     "persist": "data",
     "checkver": {
-        "github": "https://github.com/t8y2/dbx"
+        "github": "https://github.com/t8y2/dbx",
+        "regex": "(?<tag>v(?<version>[\\d.]+)(?:-beta\\.\\d{8}\\.\\d+)?)"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/t8y2/dbx/releases/download/v$version/DBX_$version_x64-portable.zip"
+                "url": "https://github.com/t8y2/dbx/releases/download/$matchTag/DBX_$version_x64-portable.zip"
             },
             "arm64": {
-                "url": "https://github.com/t8y2/dbx/releases/download/v$version/DBX_$version_arm64-portable.zip"
+                "url": "https://github.com/t8y2/dbx/releases/download/$matchTag/DBX_$version_arm64-portable.zip"
             }
         }
     }

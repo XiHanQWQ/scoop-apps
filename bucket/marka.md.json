@@ -1,12 +1,12 @@
 {
-    "version": "1.7.7",
+    "version": "1.7.11",
     "description": "A local-first markdown editor with live preview, reading mode, diagrams, themes, and context bundles",
     "homepage": "https://markamd.vercel.app",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mattenarle10/markamd/releases/download/v1.7.7/marka.md_1.7.7_x64-setup.exe#/dl.7z",
-            "hash": "707711e98f0d723d3606ca247be29c1648fc1536e5f222249805bef9db42b8e2"
+            "url": "https://github.com/mattenarle10/markamd/releases/download/v1.7.11/marka.md_1.7.11_x64-setup.exe#/dl.7z",
+            "hash": "839c8d2dce5370f886b58f87410a7e5bba384dca293f856c4921ac98db3d6033"
         }
     },
     "innosetup": true,

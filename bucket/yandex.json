@@ -1,16 +1,16 @@
 {
-    "version": "26.8.3.1016",
+    "version": "26.11.0.2030",
     "description": "Fast, secure, and free web browser, built for the modern web.",
     "homepage": "https://browser.yandex.com",
     "license": "Freeware",
     "architecture": {
         "64bit": {
             "url": "https://browser.yandex.com/download/?full=1#/dl.7z",
-            "hash": "49273db184dc8142a95bd13c7b16352a9a4688d61add83396646224bd5d8a2a7"
+            "hash": "8ccbfd4f3ca99ef0318e48d93854e4d90037e2f0af98707757e643e69fcc45cd"
         },
         "32bit": {
             "url": "https://browser.yandex.com/download/?full=1&bitness=32#/dl.7z",
-            "hash": "9d55e52b13a387dc6d9d18ea8eaf1f0b98c6e1364c7ef3602bd2e6299715c509"
+            "hash": "8e76e2196988b6d15ff41bf8f2ba3ddeaebb4571d3faf14e1526257508c38c1d"
         }
     },
     "installer": {

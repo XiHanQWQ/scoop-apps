@@ -1,5 +1,5 @@
 {
-    "version": "2.192.7",
+    "version": "2.193.1",
     "description": "Half-Life Advanced Effects (HLAE) is a tool to enrich Source (mainly CS:GO) engine-based movie making",
     "homepage": "https://github.com/advancedfx/advancedfx",
     "license": "MIT",
@@ -7,8 +7,8 @@
         "FFMPEG feature": "ffmpeg"
     },
     "notes": "Check $dir\\ffmpeg\\readme.advancedfx.txt for using the new FFMPEG feature.",
-    "url": "https://github.com/advancedfx/advancedfx/releases/download/v2.192.7/hlae_2_192_7.zip",
-    "hash": "c0e84832a14170718cb3bfa760144b42beb8dee62b95390e1602f61e1b990e62",
+    "url": "https://github.com/advancedfx/advancedfx/releases/download/v2.193.1/hlae_2_193_1.zip",
+    "hash": "1d07333fa34aca23c9f994d77010591e60bf93e176debdf511a854fd6902c99e",
     "bin": "HLAE.exe",
     "shortcuts": [
         [

@@ -1,16 +1,16 @@
 {
-    "version": "0.11.0",
+    "version": "2.7.2",
     "description": "Moonshot AI coding agent CLI",
     "homepage": "https://github.com/MoonshotAI/kimi-code",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://code.kimi.com/kimi-code/0.11.0/kimi-code-win32-x64.exe#/kimi-code.exe",
-            "hash": "1a89f180a6e30c058244c690af531f5e1bf00755e59b7086e58d6fa8f8d5ecba"
+            "url": "https://code.kimi.com/kimi-code/binaries/2.7.2/kimi-code-win32-x64.exe#/kimi-code.exe",
+            "hash": "d976d17f1ef722fb7cc04532a4ec32dd26eabce1cc27cc77900d783312ed8a04"
         },
         "arm64": {
-            "url": "https://code.kimi.com/kimi-code/0.11.0/kimi-code-win32-arm64.exe#/kimi-code.exe",
-            "hash": "768116422d4a3cb72fdcbb78f5f5bbf6b7d379388ba0d3985aa05aa9d31a2ae5"
+            "url": "https://code.kimi.com/kimi-code/binaries/2.7.2/kimi-code-win32-arm64.exe#/kimi-code.exe",
+            "hash": "2d124773dccb7852314921e224fbb2d7262d97b4868f08a51e7a817a9d2e4453"
         }
     },
     "bin": "kimi-code.exe",
@@ -21,16 +21,16 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://code.kimi.com/kimi-code/$version/kimi-code-win32-x64.exe#/kimi-code.exe",
+                "url": "https://code.kimi.com/kimi-code/binaries/$version/kimi-code-win32-x64.exe#/kimi-code.exe",
                 "hash": {
-                    "url": "https://code.kimi.com/kimi-code/$version/manifest.json",
+                    "url": "https://code.kimi.com/kimi-code/binaries/$version/manifest.json",
                     "jsonpath": "$.platforms['win32-x64'].checksum"
                 }
             },
             "arm64": {
-                "url": "https://code.kimi.com/kimi-code/$version/kimi-code-win32-arm64.exe#/kimi-code.exe",
+                "url": "https://code.kimi.com/kimi-code/binaries/$version/kimi-code-win32-arm64.exe#/kimi-code.exe",
                 "hash": {
-                    "url": "https://code.kimi.com/kimi-code/$version/manifest.json",
+                    "url": "https://code.kimi.com/kimi-code/binaries/$version/manifest.json",
                     "jsonpath": "$.platforms['win32-arm64'].checksum"
                 }
             }

@@ -1,12 +1,12 @@
 {
     "homepage": "https://www.dandanplay.com/",
     "description": "A local video player with danmu.",
-    "version": "18.2.4.0",
+    "version": "18.3.0.1115",
     "license": "Unknown",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kaedei/dandanplay/releases/download/windows-18.2.4.0/dandanplay-x64_18.2.4.zip",
-            "hash": "f2febf1c6a35458f11afa30d23a4b99ab2537cd534999773c68510bbce832b2a",
+            "url": "https://github.com/kaedei/dandanplay/releases/download/windows-18.3.0.1115/dandanplay-x64_18.3.0.zip",
+            "hash": "bd8d48e232536e09300de1f7c45a281873d43a03b216407dae27c9701c823340",
             "extract_dir": "dandanplay-x64"
         }
     },

@@ -1,9 +1,9 @@
 {
-    "version": "1.4.4.10",
+    "version": "1.4.5.2",
     "description": "cppcryptfs is based on the design of gocryptfs, an encrypted overlay filesystem written in Go.",
     "homepage": "https://github.com/bailey27/cppcryptfs/",
-    "url": "https://github.com/bailey27/cppcryptfs/releases/download/v1.4.4.10/cppcryptfs.exe",
-    "hash": "7046905c50e72670606aa1a91a53605baa2a349f2572f2d322968a4d382201be",
+    "url": "https://github.com/bailey27/cppcryptfs/releases/download/v1.4.5.2/cppcryptfs.exe",
+    "hash": "e8721d8ad7f6c1c9c4b07442adf3a309e3e65516e1e9c579e1840817d4974b1f",
     "shortcuts": [
         [
             "cppcryptfs.exe",

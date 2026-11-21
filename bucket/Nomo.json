@@ -1,12 +1,12 @@
 {
-    "version": "0.5.6",
+    "version": "0.7.3",
     "description": "Local-first, Markdown-first desktop editor with WYSIWYG semantic editing, source mode, and large TXT/JSON file support",
     "homepage": "https://nomo-md.github.io/",
     "license": "AGPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nomo-md/nomo/releases/download/v0.5.6/Nomo_0.5.6_x64.zip",
-            "hash": "0ca1678706bb959e577ea500393c1954a1cb8bb6ae32954f023315214816b9f6"
+            "url": "https://github.com/nomo-md/nomo/releases/download/v0.7.3/Nomo_0.7.3_x64.zip",
+            "hash": "3985509d2aad3f451be6f9248d16d35d731ef58d207ab2a000d0371f3a751ccc"
         }
     },
     "extract_dir": "Nomo",

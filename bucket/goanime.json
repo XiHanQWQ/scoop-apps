@@ -1,10 +1,10 @@
 {
-    "version": "1.8.7",
+    "version": "2.0.1",
     "description": "A CLI tool to browse, play, and download anime in pt-br (Portuguese)",
     "homepage": "https://github.com/alvarorichard/GoAnime",
     "license": "MIT",
-    "url": "https://github.com/alvarorichard/GoAnime/releases/download/v1.8.7/goanime-windows-amd64.zip",
-    "hash": "bdd19b6c660bd07cff5fc143a4559e4a5a488a2467a8b7becd86a621af53d4d8",
+    "url": "https://github.com/alvarorichard/GoAnime/releases/download/v2.0.1/goanime-windows-amd64.zip",
+    "hash": "04deea9bebeed0d1d2ee6e0dbd930769886ab1f9cc0e560a6444354a4f6e5f3b",
     "suggest": {
         "mpv": "extras/mpv",
         "yt-dlp": "main/yt-dlp"

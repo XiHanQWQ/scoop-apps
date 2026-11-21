@@ -1,23 +1,23 @@
 {
-    "version": "0.9.2",
+    "version": "0.24.1",
     "description": "Motion graphics and visual effects; an open-source, clean-room reimplementation of Adobe After Effects, rebuilt in pure Rust",
     "homepage": "https://getartcraft.com/apps/effectcraft",
     "license": "MIT|Apache-2.0",
+    "notes": [
+        "Portable settings are now persisted in '$persist_dir\\EffectCraftData'.",
+        "Existing settings from earlier installations or user-profile folders are not migrated automatically.",
+        "If settings appear reset, close the app and copy your existing settings into the persistent folder, keeping a backup."
+    ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/storytold/effectcraft/releases/download/v0.9.2/effectcraft-0.9.2-windows-x64-portable.zip",
-            "hash": "1f6fbb3a348f1b12b15faa3bc2c78a079414f07454cc1402208793486e79bee4",
-            "extract_dir": "effectcraft-0.9.2-windows-x64-portable"
-        },
-        "32bit": {
-            "url": "https://github.com/storytold/effectcraft/releases/download/v0.9.2/effectcraft-0.9.2-windows-x86-portable.zip",
-            "hash": "59777f4a6e8f4d3a70ff9d7edc7f09f79376f9ae96dae747578470ecc0ef0dd4",
-            "extract_dir": "effectcraft-0.9.2-windows-x86-portable"
+            "url": "https://github.com/storytold/effectcraft/releases/download/v0.24.1/effectcraft-0.24.1-windows-x64-portable.zip",
+            "hash": "707bb7480783904e153fd71fd43ffaaf806fbbaa7f803090c2d32f5d920bd996",
+            "extract_dir": "effectcraft-0.24.1-windows-x64-portable"
         },
         "arm64": {
-            "url": "https://github.com/storytold/effectcraft/releases/download/v0.9.2/effectcraft-0.9.2-windows-arm64-portable.zip",
-            "hash": "2dede4e9aac41d989544e0f1e61c9c61c29dd65d15282ae18d5de5b56da5486c",
-            "extract_dir": "effectcraft-0.9.2-windows-arm64-portable"
+            "url": "https://github.com/storytold/effectcraft/releases/download/v0.24.1/effectcraft-0.24.1-windows-arm64-portable.zip",
+            "hash": "b4eadf1d19f55cf69aa6ec6076ad754b3ff6bf6210f32811cff40a573b068041",
+            "extract_dir": "effectcraft-0.24.1-windows-arm64-portable"
         }
     },
     "bin": "effectcraft-cli.exe",
@@ -27,6 +27,7 @@
             "EffectCraft"
         ]
     ],
+    "persist": "EffectCraftData",
     "checkver": {
         "github": "https://github.com/storytold/effectcraft"
     },
@@ -35,10 +36,6 @@
             "64bit": {
                 "url": "https://github.com/storytold/effectcraft/releases/download/v$version/effectcraft-$version-windows-x64-portable.zip",
                 "extract_dir": "effectcraft-$version-windows-x64-portable"
-            },
-            "32bit": {
-                "url": "https://github.com/storytold/effectcraft/releases/download/v$version/effectcraft-$version-windows-x86-portable.zip",
-                "extract_dir": "effectcraft-$version-windows-x86-portable"
             },
             "arm64": {
                 "url": "https://github.com/storytold/effectcraft/releases/download/v$version/effectcraft-$version-windows-arm64-portable.zip",

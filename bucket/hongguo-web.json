@@ -1,5 +1,5 @@
 {
-    "version": "1.0.4",
+    "version": "1.3.3",
     "description": "一个基于java的网页版红果播放器，支持多平台",
     "homepage": "https://github.com/sunnysky123/hongguo-web",
     "license": {
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/sunnysky123/hongguo-web/releases/download/v1.0.4/hongguo-web-1.0.4-Windows-x64.zip",
-            "hash": "24bf98a66aa869487f6f344dfeffd76f0e272ca4a20b5579d654cf5e4f6e5896"
+            "url": "https://github.com/sunnysky123/hongguo-web/releases/download/v1.3.3/hongguo-web-1.3.3-Windows-x64.zip",
+            "hash": "bbd88e59127bf63474128325b63a5d1311787e67c0ec71f4f9de3b77ebe682d3"
         },
         "arm64": {
-            "url": "https://github.com/sunnysky123/hongguo-web/releases/download/v1.0.4/hongguo-web-1.0.4-Windows-arm.zip",
-            "hash": "30a63f36829a5e1235a0fc14b4a85ef1c879fe78b9afad027654337abd127884"
+            "url": "https://github.com/sunnysky123/hongguo-web/releases/download/v1.3.3/hongguo-web-1.3.3-Windows-arm.zip",
+            "hash": "1c77304a493ce93c7a3bc12019a55143d38fe88ca64f7d7e58cd230a13100845"
         }
     },
     "bin": [

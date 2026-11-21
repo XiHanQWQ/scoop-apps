@@ -1,5 +1,5 @@
 {
-    "version": "3000.11.3",
+    "version": "3000.14.30821",
     "description": "Official terminal CLI for the Devin agent by Cognition.",
     "homepage": "https://cli.devin.ai",
     "license": {
@@ -9,12 +9,12 @@
     "notes": "The official installer runs 'devin setup' after installing to configure shell integration. If you need that, run it once from the installed binary.",
     "architecture": {
         "64bit": {
-            "url": "https://static.devin.ai/cli/3000.11.3/devin-3000.11.3-x86_64-pc-windows.zip",
-            "hash": "dded69a40dc54012612eda47e0935f2fb394b97cd38cb4d7d84b1e1d71c5f7ea"
+            "url": "https://static.devin.ai/cli/3000.14.30821/devin-3000.14.30821-x86_64-pc-windows.zip",
+            "hash": "23e723a68f4bebe4c5f57f42e0f9d8b069c91407d62584afefa05e246c51cf4d"
         },
         "arm64": {
-            "url": "https://static.devin.ai/cli/3000.11.3/devin-3000.11.3-aarch64-pc-windows.zip",
-            "hash": "923843438df5956fc7222d5644e3dc995fdb8b347f2dc19c51d1c78c6331d830"
+            "url": "https://static.devin.ai/cli/3000.14.30821/devin-3000.14.30821-aarch64-pc-windows.zip",
+            "hash": "94a412821542021d5472c23ba167b9fd283e1e39852455647a8998312f0b9c72"
         }
     },
     "bin": "bin\\devin.exe",

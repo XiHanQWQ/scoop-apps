@@ -1,20 +1,20 @@
 {
-    "version": "7.3.1",
+    "version": "7.4.4",
     "description": "A messaging app with a focus on speed and security",
     "homepage": "https://telegram.org",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/telegramdesktop/tdesktop/releases/download/v7.3.1/td-setup-win-x64-7.3.1.exe",
-            "hash": "d5534936dcb8913c250b9e0bc14ee438feaf9ce3b5e076ba771b4211645acc81"
+            "url": "https://github.com/telegramdesktop/tdesktop/releases/download/v7.4.4/td-setup-win-x64-7.4.4.exe",
+            "hash": "5e19f664bb01fafe8e5cece28ed976a4cf667e05e12d5b363536be74bc7689d7"
         },
         "32bit": {
-            "url": "https://github.com/telegramdesktop/tdesktop/releases/download/v7.3.1/td-setup-win-x86-7.3.1.exe",
-            "hash": "38d20cc339674ef37009aadb47734bb5ddd80c46381fd0e11b81c9bd9b7f3c0c"
+            "url": "https://github.com/telegramdesktop/tdesktop/releases/download/v7.4.4/td-setup-win-x86-7.4.4.exe",
+            "hash": "07d2bc434b685c0ce4e7df10b5f3f440640274e62d06d5f77181855ed03e2fd9"
         },
         "arm64": {
-            "url": "https://github.com/telegramdesktop/tdesktop/releases/download/v7.3.1/td-setup-win-arm-7.3.1.exe",
-            "hash": "5ec57b9181141d50c7e1216d83e47aa34c8c110c54efb574b8938d14f8b04449"
+            "url": "https://github.com/telegramdesktop/tdesktop/releases/download/v7.4.4/td-setup-win-arm-7.4.4.exe",
+            "hash": "4e1b50724f90963c46c93fc78a0ebd42e183a9baf4fbbbe85d0e0845e69b18db"
         }
     },
     "innosetup": true,

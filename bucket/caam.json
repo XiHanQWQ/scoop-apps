@@ -1,12 +1,12 @@
 {
-  "version": "0.1.23",
+  "version": "0.1.25",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Dicklesworthstone/coding_agent_account_manager/releases/download/v0.1.23/caam_0.1.23_windows_amd64.zip",
+      "url": "https://github.com/Dicklesworthstone/coding_agent_account_manager/releases/download/v0.1.25/caam_0.1.25_windows_amd64.zip",
       "bin": [
         "caam.exe"
       ],
-      "hash": "74cebf11f5479fc38ebff053417b9ed4b258af2fa0d738a36db857ff1d64fc87"
+      "hash": "46a8bd610720bbb82973f6b60382fc93fec7df382909e75dcb23da439ab0b0bb"
     }
   },
   "homepage": "https://github.com/Dicklesworthstone/coding_agent_account_manager",

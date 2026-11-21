@@ -1,5 +1,5 @@
 {
-    "version": "25.0.4.1",
+    "version": "25.0.5.1",
     "description": "High-performance, embeddable, polyglot Virtual Machine for JVM-langs (Java, Scala, Kotlin), JavaScript/NodeJS, Python, Ruby, R, and LLVM-langs (C, C++, Rust)",
     "homepage": "https://www.graalvm.org/",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gds.oracle.com/download/graal/25/archive/graalvm-jdk-25.0.4.1_windows-x64_bin.zip",
-            "hash": "d6770c2acb1edf7b0ba835a684bc89715f348b3cf8cba0bcb3a4384dc384e6b7"
+            "url": "https://gds.oracle.com/download/graal/25/archive/graalvm-jdk-25.0.5.1_windows-x64_bin.zip",
+            "hash": "e3ed10a3106602ee3b8add1929f5ad6001577ab0e118f27cf9442f9d02eb1827"
         }
     },
     "extract_to": "tmp",

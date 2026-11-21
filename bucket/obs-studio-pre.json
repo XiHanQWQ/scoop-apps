@@ -1,12 +1,12 @@
 {
-    "version": "33.0.0-rc1",
+    "version": "33.0.2",
     "description": "Video recording and live streaming software",
     "homepage": "https://obsproject.com",
     "license": "GPL-2.0-only",
     "architecture": {
         "arm64": {
-            "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.0-rc1/OBS-Studio-33.0.0-rc1-Windows-arm64.zip",
-            "hash": "7205f9c3acb048c167c7fc38b2c3efd11d534f0f42242caa496a036785471a3c",
+            "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.2/OBS-Studio-33.0.2-Windows-arm64.zip",
+            "hash": "c78bf62681e2a46179b60f7a53c37273698ee546f3c9210fe25f14906b7d1ef8",
             "shortcuts": [
                 [
                     "bin\\64bit\\obs64.exe",
@@ -15,8 +15,8 @@
             ]
         },
         "64bit": {
-            "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.0-rc1/OBS-Studio-33.0.0-rc1-Windows-x64.zip",
-            "hash": "2934bda03b5288378ca32a51dfe1003d4a557531a6af2ba105d7671d7557ad1f",
+            "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.2/OBS-Studio-33.0.2-Windows-x64.zip",
+            "hash": "fcfdb3e4568e45c519ac2171905f76edd0ce9777aea9d0b09dc33a1fc76948c5",
             "shortcuts": [
                 [
                     "bin\\64bit\\obs64.exe",

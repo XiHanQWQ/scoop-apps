@@ -1,5 +1,5 @@
 {
-    "version": "2.6.3",
+    "version": "2.8.0",
     "description": "Accessible Netease Music | 易用的网易云音乐客户端",
     "homepage": "https://yt.chenz.cloud/",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ChenZ2000/YTPlayer/releases/download/v2.6.3/YTPlayer-2.6.3.zip",
-            "hash": "460d907e2b32aca50b2b49e4f6aca9b0e848f98621d3f25c0f4da0752372ccca"
+            "url": "https://github.com/ChenZ2000/YTPlayer/releases/download/v2.8.0/YTPlayer-2.8.0.zip",
+            "hash": "097190f8edd0de6cf772535a363731df3ba89339e79eceaaa8902e48f81b0f3e"
         }
     },
     "installer": {

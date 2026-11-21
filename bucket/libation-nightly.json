@@ -1,12 +1,12 @@
 {
-    "version": "14.2.2",
+    "version": "14.2.5",
     "description": "Audible audiobook manager",
     "homepage": "https://github.com/rmcrackan/Libation/",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/rmcrackan/Libation/releases/download/v14.2.2/Libation.14.2.2-windows-chardonnay-x64.zip",
-            "hash": "59bc186fe1e3feabed0cbdc527bfb68f3e5e34129de08702e3297e32879dc14d"
+            "url": "https://github.com/rmcrackan/Libation/releases/download/v14.2.5/Libation.14.2.5-windows-chardonnay-x64.zip",
+            "hash": "f1d16acb044c026c2c2f2c029ee5bd8577795e1fa89df08f0f4f5da29e76d705"
         }
     },
     "pre_install": [

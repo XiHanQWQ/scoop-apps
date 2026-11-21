@@ -1,10 +1,10 @@
 {
-    "version": "2026.10.0-297",
+    "version": "2026.11.1-4",
     "description": "Positron, a next-generation data science IDE.",
     "homepage": "https://github.com/posit-dev/positron",
     "license": "Elastic-2.0",
-    "url": "https://cdn.posit.co/positron/releases/win/x86_64/Positron-2026.10.0-297-UserSetup-x64.exe",
-    "hash": "40a97f7e498cd2bcf8579728896586509515a6b5b9cec88b6315eb08ba66f6e9",
+    "url": "https://cdn.posit.co/positron/releases/win/x86_64/Positron-2026.11.1-4-UserSetup-x64.exe",
+    "hash": "98a9ced6352000103b3779c9d74aebdee28bc2c6666a51460184185d888a1eea",
     "installer": {
         "args": [
             "/VERYSILENT",

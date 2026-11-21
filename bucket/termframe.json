@@ -1,16 +1,16 @@
 {
-    "version": "0.8.8",
+    "version": "0.10.2",
     "description": "Terminal output SVG screenshot tool",
     "homepage": "https://github.com/pamburus/termframe",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/pamburus/termframe/releases/download/v0.8.8/termframe-windows.zip",
-            "hash": "42b3888cf0e688553cddf30d6c9c8a9b0420d693e8eb66da8e354c54ea38f278"
+            "url": "https://github.com/pamburus/termframe/releases/download/v0.10.2/termframe-windows.zip",
+            "hash": "b980a0df5d8c39c9d0fb7a752a92ef1b0145ce8e0e209b0b7a2d2ca232513e25"
         },
         "arm64": {
-            "url": "https://github.com/pamburus/termframe/releases/download/v0.8.8/termframe-windows-arm64.zip",
-            "hash": "4dee36907087fa2fc17577c8c1cf040b620ab52fca80f887dd414b674f164c22"
+            "url": "https://github.com/pamburus/termframe/releases/download/v0.10.2/termframe-windows-arm64.zip",
+            "hash": "1678e2362f9b6ada62766f7e267a6656a3a4801d2a04193e76246f26fe902918"
         }
     },
     "bin": "termframe.exe",

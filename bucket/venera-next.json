@@ -1,13 +1,13 @@
 {
-    "version": "1.17.0",
+    "version": "1.18.3",
     "description": "A cross-platform manga reader that supports local manga and online manga sources, available on Android, iOS, Windows, Linux, and macOS platforms",
     "homepage": "https://github.com/CyrilPeng/Venera-Next",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/CyrilPeng/Venera-Next/releases/download/v1.17.0/VeneraNext-1.17.0-windows.zip",
-            "hash": "7a8a129b53b6b3266d58c488f8a515ab9a58bd6ee4ad90b79fe435d18aa287e4",
-            "extract_dir": "VeneraNext-1.17.0-windows"
+            "url": "https://github.com/CyrilPeng/Venera-Next/releases/download/v1.18.3/VeneraNext-1.18.3-windows.zip",
+            "hash": "24a5c27a8d40d0d9c46db47713170ec0d6fb179e63fd5ea8173974d6b0d1e3f1",
+            "extract_dir": "VeneraNext-1.18.3-windows"
         }
     },
     "shortcuts": [
@@ -29,12 +29,16 @@
         ]
     ],
     "post_install": [
-        ". \"$(Find-BucketDirectory -Root -Name (coalesce $bucket 'muggle'))/scripts/persist-external.ps1\"",
-        "Invoke-PersistExternalInstall -Manifest $manifest -PersistDir $persist_dir -Dir $dir"
+        "$helper = (Resolve-Path \"$bucketsdir/*/scripts/persist-external.ps1\" -ErrorAction SilentlyContinue | Select-Object -First 1).Path",
+        "if (!$helper) { throw 'persist_external: persist-external.ps1 not found under scripts/ in any bucket' }",
+        ". $helper",
+        "Invoke-PersistExternalInstall"
     ],
     "pre_uninstall": [
-        ". \"$(Find-BucketDirectory -Root -Name (coalesce $bucket 'muggle'))/scripts/persist-external.ps1\"",
-        "Invoke-PersistExternalUninstall -Manifest $manifest -Dir $dir"
+        "$helper = (Resolve-Path \"$bucketsdir/*/scripts/persist-external.ps1\" -ErrorAction SilentlyContinue | Select-Object -First 1).Path",
+        "if (!$helper) { throw 'persist_external: persist-external.ps1 not found under scripts/ in any bucket' }",
+        ". $helper",
+        "Invoke-PersistExternalUninstall"
     ],
     "checkver": "github",
     "autoupdate": {

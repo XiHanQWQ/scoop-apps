@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.duckstation.org/",
-    "version": "0.1-11894",
+    "version": "0.1-12442",
     "description": "Sony Playstation emulator",
     "license": {
         "identifier": "CC-BY-NC-ND-4.0",
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/stenzek/duckstation/releases/download/v0.1-11894/duckstation-windows-x64-release.zip",
-            "hash": "5ba3b9624b3073d3398c2cb8185ba3a014ff9e84f9c486627e0e8aa56371d352",
+            "url": "https://github.com/stenzek/duckstation/releases/download/v0.1-12442/duckstation-windows-x64-release.zip",
+            "hash": "b55d1cf45bdb6d0326a9083cf787ca7d6386dff6c837f6d3b8713f48af2a02b7",
             "bin": [
                 [
                     "duckstation-qt-x64-ReleaseLTCG.exe",

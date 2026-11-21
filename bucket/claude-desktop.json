@@ -1,16 +1,16 @@
 {
-    "version": "1.49585.0",
+    "version": "4.29.0",
     "description": "Claude Desktop",
     "homepage": "https://claude.ai",
     "license": "Proprietary",
     "architecture": {
         "64bit": {
             "url": "https://api.anthropic.com/api/desktop/win32/x64/msix/latest/redirect#/dl.zip",
-            "hash": "d8514a1356b334852c665d98ed778db53df78ad38e136a8c142bdbe020b68a74"
+            "hash": "4625eaa902e05c81d35d247423ae24a2a1c30e60cae9b355c07264998a89e453"
         },
         "arm64": {
             "url": "https://api.anthropic.com/api/desktop/win32/arm64/msix/latest/redirect#/dl.zip",
-            "hash": "3d56e881383a8bf948be77e810bac9e685b79d91ec7bb85177f0908c47b4f44f"
+            "hash": "16acdc98901f03d01c8f0ba219d7570668d949e01654c13cbac3bbd4bd61e3e7"
         }
     },
     "shortcuts": [

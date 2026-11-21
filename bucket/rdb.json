@@ -1,16 +1,16 @@
 {
-    "version": "0.48.2",
+    "version": "0.50.1",
     "description": "A fast and lightweight database client and GUI viewer built with Rust and Slint",
     "homepage": "https://github.com/suiflex/rdb",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/suiflex/rdb/releases/download/v0.48.2/rdb-x86_64-pc-windows-msvc.zip",
-            "hash": "b7124b394046d11d0aa3a804967cc1461cdd0a3b7989a274a01ff148f05e1699"
+            "url": "https://github.com/suiflex/rdb/releases/download/v0.50.1/rdb-x86_64-pc-windows-msvc.zip",
+            "hash": "ab479b76c07a468c1c38343e756ca726f0f35b81940597ba536adb1903d1733a"
         },
         "arm64": {
-            "url": "https://github.com/suiflex/rdb/releases/download/v0.48.2/rdb-aarch64-pc-windows-msvc.zip",
-            "hash": "65e01f538887f8d055784024755a071771dab93a4569456646263c4ad3b832e5"
+            "url": "https://github.com/suiflex/rdb/releases/download/v0.50.1/rdb-aarch64-pc-windows-msvc.zip",
+            "hash": "5b32a6e60818e81ae5e1ef9b0f17fe45a0cfc3baf4bc09b5874fbfc8952ae9df"
         }
     },
     "bin": "rdb.exe",

@@ -1,10 +1,10 @@
 {
     "homepage": "https://www.dcloud.io/hbuilderx.html",
-    "version": "5.31.2026093020-alpha",
+    "version": "5.37.2026112003-alpha",
     "license": "Freeware",
     "extract_dir": "HBuilderX",
-    "url": "https://download1.dcloud.net.cn/download/HBuilderX.5.31.2026093020-alpha.zip",
-    "hash": "0e8017b6a0695a3befed1b7523bffa1735aae73a8703c2d02a05f64bdad50b7e",
+    "url": "https://download1.dcloud.net.cn/download/HBuilderX.5.37.2026112003-alpha.zip",
+    "hash": "47fc04ce98bbd67fe64230485714d497f23a12f86683658b4205b778d512cfa7",
     "bin": [
         [
             "HBuilderX.exe",

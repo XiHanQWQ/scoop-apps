@@ -1,0 +1,36 @@
+{
+    "version": "0.20.0",
+    "description": "A shared workspace for running and collaborating with AI coding agents across machines.",
+    "homepage": "https://github.com/yet-another-ai/deskfleet",
+    "license": "Apache-2.0",
+    "notes": "Use 'scoop update deskfleet' to upgrade the Scoop installation.",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/yet-another-ai/deskfleet/releases/download/v0.20.0/deskfleet-0.20.0-win-x64.exe#/dl.7z",
+            "hash": "sha512:c94be876f780543d4621f8dcde4fa1771196abe38cd7da622f73bb816d0c4c14563800a4b0d517d3dce9cf62823209fc4ac92ca609be7daf502f3c5619bbfed0"
+        }
+    },
+    "pre_install": [
+        "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
+        "Remove-Item -LiteralPath \"$dir\\`$PLUGINSDIR\", \"$dir\\`$R0\" -Force -Recurse -ErrorAction Ignore"
+    ],
+    "bin": "deskfleet.exe",
+    "shortcuts": [
+        [
+            "deskfleet.exe",
+            "DeskFleet"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/yet-another-ai/deskfleet/releases/download/v$version/deskfleet-$version-win-x64.exe#/dl.7z"
+            }
+        },
+        "hash": {
+            "url": "https://github.com/yet-another-ai/deskfleet/releases/download/v$version/latest.yml",
+            "regex": "(?m)^sha512:[ \\t]+$base64"
+        }
+    }
+}

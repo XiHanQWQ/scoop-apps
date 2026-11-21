@@ -1,20 +1,20 @@
 {
     "##": " see also https://github.com/ScoopInstaller/Extras/blob/master/bucket/xpipe.json",
-    "version": "24.6",
+    "version": "24.12",
     "description": "A connection hub and remote file manager to access your entire server infrastructure from your local desktop",
     "homepage": "https://xpipe.io/",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/xpipe-io/xpipe/releases/download/24.6/xpipe-portable-windows-x86_64.zip",
-            "hash": "1e76f9d211f80eb42772b0cdfedd8e171dfb816babb45af27c7856b155479a47"
+            "url": "https://github.com/xpipe-io/xpipe/releases/download/24.12/xpipe-portable-windows-x86_64.zip",
+            "hash": "6b1725de09985bb63d6bd9240a5547698353dca2fed7862636f5c738a79561e0"
         },
         "arm64": {
-            "url": "https://github.com/xpipe-io/xpipe/releases/download/24.6/xpipe-portable-windows-arm64.zip",
-            "hash": "4a7247b172be337c7ca2ba3dcbf932cefbf18e26d379ce9f26d457bae5a54484"
+            "url": "https://github.com/xpipe-io/xpipe/releases/download/24.12/xpipe-portable-windows-arm64.zip",
+            "hash": "1b21b17929b4b8c00ccc0906046f8e5747a1a96faab94eb569e103f88fb466ce"
         }
     },
-    "extract_dir": "xpipe-24.6",
+    "extract_dir": "xpipe-24.12",
     "bin": "xpipe.exe",
     "shortcuts": [
         [

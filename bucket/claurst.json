@@ -1,12 +1,12 @@
 {
-    "version": "0.1.8",
+    "version": "0.2.1",
     "description": "Open-source, multi-provider terminal programming agent built in Rust",
     "homepage": "https://github.com/Kuberwastaken/claurst",
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Kuberwastaken/claurst/releases/download/v0.1.8/claurst-windows-x86_64.zip",
-            "hash": "b60a8904e0019e7e41c1e844ea7dbe11d812cd7d4df395add94ef05a3273066f"
+            "url": "https://github.com/Kuberwastaken/claurst/releases/download/v0.2.1/claurst-windows-x86_64.zip",
+            "hash": "82b1b76f1643647dbe994adb15cc2b74c277a03a508d95144cfb674f4b658ed5"
         }
     },
     "bin": [

@@ -1,25 +1,26 @@
 {
-    "version": "0.7.1",
+    "version": "0.21.1",
     "description": "Photo library and raw development; an open-source, clean-room reimplementation of Adobe Lightroom, rebuilt in pure Rust",
     "homepage": "https://getartcraft.com/apps/lightcraft",
     "license": "MIT|Apache-2.0",
+    "notes": [
+        "Portable settings are now persisted in '$persist_dir\\LightCraftData'.",
+        "Existing settings from earlier installations or user-profile folders are not migrated automatically.",
+        "If settings appear reset, close the app and copy your existing settings into the persistent folder, keeping a backup."
+    ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/storytold/lightcraft/releases/download/v0.7.1/lightcraft-0.7.1-windows-x64-portable.zip",
-            "hash": "07916edd78bd847c411e755faebe0cd199edcf49efb67357083dd2e36f7dbbda",
-            "extract_dir": "lightcraft-0.7.1-windows-x64-portable"
-        },
-        "32bit": {
-            "url": "https://github.com/storytold/lightcraft/releases/download/v0.7.1/lightcraft-0.7.1-windows-x86-portable.zip",
-            "hash": "0339fb7e5d6c99767e3693a55946fa959c5c07bb1ed69fb757ebbe20105fb955",
-            "extract_dir": "lightcraft-0.7.1-windows-x86-portable"
+            "url": "https://github.com/storytold/lightcraft/releases/download/v0.21.1/lightcraft-0.21.1-windows-x64-portable.zip",
+            "hash": "c2f195a4611bd7a314675c090b71e46e14001a232ba825edd5b6ea0ea7f616da",
+            "extract_dir": "lightcraft-0.21.1-windows-x64-portable"
         },
         "arm64": {
-            "url": "https://github.com/storytold/lightcraft/releases/download/v0.7.1/lightcraft-0.7.1-windows-arm64-portable.zip",
-            "hash": "636e911dc4278cfd984495e6dd2f186d815169674ae55e1feaf310d662c42117",
-            "extract_dir": "lightcraft-0.7.1-windows-arm64-portable"
+            "url": "https://github.com/storytold/lightcraft/releases/download/v0.21.1/lightcraft-0.21.1-windows-arm64-portable.zip",
+            "hash": "ba7af25ccb555f72747c5b52c57518e57c45e846de19267a3633acabc8d5976f",
+            "extract_dir": "lightcraft-0.21.1-windows-arm64-portable"
         }
     },
+    "pre_install": "if (!(Test-Path \"$dir\\portable.txt\")) { Set-Content \"$dir\\portable.txt\" '' -Encoding Ascii }",
     "bin": "lightcraft-cli.exe",
     "shortcuts": [
         [
@@ -27,6 +28,7 @@
             "LightCraft"
         ]
     ],
+    "persist": "LightCraftData",
     "checkver": {
         "github": "https://github.com/storytold/lightcraft"
     },
@@ -35,10 +37,6 @@
             "64bit": {
                 "url": "https://github.com/storytold/lightcraft/releases/download/v$version/lightcraft-$version-windows-x64-portable.zip",
                 "extract_dir": "lightcraft-$version-windows-x64-portable"
-            },
-            "32bit": {
-                "url": "https://github.com/storytold/lightcraft/releases/download/v$version/lightcraft-$version-windows-x86-portable.zip",
-                "extract_dir": "lightcraft-$version-windows-x86-portable"
             },
             "arm64": {
                 "url": "https://github.com/storytold/lightcraft/releases/download/v$version/lightcraft-$version-windows-arm64-portable.zip",

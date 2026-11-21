@@ -1,10 +1,10 @@
 {
-    "version": "4.4",
+    "version": "4.4.0.2",
     "homepage": "https://thingsboard.io/",
     "description": "Open-source IoT Platform.Device management, data collection, processing and visualization for your IoT solution.",
     "license": "Apache-2.0",
-    "url": "https://github.com/thingsboard/thingsboard/releases/download/v4.4/thingsboard-windows-4.4.zip",
-    "hash": "6edb2fca6c6b87b635b02f6c3969550b90d88c2aec5e760937382d5e498ac42c",
+    "url": "https://github.com/thingsboard/thingsboard/releases/download/v4.4.0.2/thingsboard-windows-4.4.0.2.zip",
+    "hash": "0a03dba456d9a8c79a6630fa1b55d45683b9027f94e77cd02b42abb6b3707608",
     "depends": "java/temurin17-jre",
     "extract_dir": "thingsboard",
     "installer": {

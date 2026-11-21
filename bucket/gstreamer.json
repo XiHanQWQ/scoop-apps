@@ -1,0 +1,62 @@
+{
+    "version": "1.28.9",
+    "description": "Open-source library for constructing graphs of media-handling components.",
+    "homepage": "https://gstreamer.freedesktop.org",
+    "license": "LGPL-2.1-only",
+    "notes": [
+        "GSTREAMER_1_0_ROOT_MSVC_(X86, X86_64, ARM64), GST_PLUGIN_PATH and PKG_CONFIG_PATH are set for the user.",
+        "Reopen the terminal, then run 'gst-inspect-1.0 --version' to check the install."
+    ],
+    "architecture": {
+        "32bit": {
+            "url": "https://gstreamer.freedesktop.org/data/pkg/windows/1.28.9/msvc/gstreamer-1.0-msvc-x86-1.28.9.exe",
+            "hash": "66f01382822a208774b7cf555515ec55f26658ebfa12c461d4512ff31c0643a7",
+            "env_set": {
+                "GSTREAMER_1_0_ROOT_MSVC_X86": "$dir",
+                "GST_PLUGIN_PATH": "$dir\\lib\\gstreamer-1.0",
+                "PKG_CONFIG_PATH": "$dir\\lib\\pkgconfig;$dir\\lib\\gstreamer-1.0\\pkgconfig"
+            }
+        },
+        "64bit": {
+            "url": "https://gstreamer.freedesktop.org/data/pkg/windows/1.28.9/msvc/gstreamer-1.0-msvc-x86_64-1.28.9.exe",
+            "hash": "ce4008705e8c6fe92803535b82fb3d6551e183f438e6ef26682ac4d0aca61076",
+            "env_set": {
+                "GSTREAMER_1_0_ROOT_MSVC_X86_64": "$dir",
+                "GST_PLUGIN_PATH": "$dir\\lib\\gstreamer-1.0",
+                "PKG_CONFIG_PATH": "$dir\\lib\\pkgconfig;$dir\\lib\\gstreamer-1.0\\pkgconfig"
+            }
+        },
+        "arm64": {
+            "url": "https://gstreamer.freedesktop.org/data/pkg/windows/1.28.9/msvc/gstreamer-1.0-msvc-arm64-1.28.9.exe",
+            "hash": "53cc68ab3cd2b19af93acd0d197790ee1fd5a9f5e200afa2a48ca40fa4ae029a",
+            "env_set": {
+                "GSTREAMER_1_0_ROOT_MSVC_ARM64": "$dir",
+                "GST_PLUGIN_PATH": "$dir\\lib\\gstreamer-1.0",
+                "PKG_CONFIG_PATH": "$dir\\lib\\pkgconfig;$dir\\lib\\gstreamer-1.0\\pkgconfig"
+            }
+        }
+    },
+    "innosetup": true,
+    "env_add_path": "bin",
+    "checkver": {
+        "url": "https://gstreamer.freedesktop.org/data/pkg/windows/",
+        "regex": "href=\"(?<version>1\\.\\d*[02468]\\.\\d+)/\"",
+        "reverse": true
+    },
+    "autoupdate": {
+        "architecture": {
+            "32bit": {
+                "url": "https://gstreamer.freedesktop.org/data/pkg/windows/$version/msvc/gstreamer-1.0-msvc-x86-$version.exe"
+            },
+            "64bit": {
+                "url": "https://gstreamer.freedesktop.org/data/pkg/windows/$version/msvc/gstreamer-1.0-msvc-x86_64-$version.exe"
+            },
+            "arm64": {
+                "url": "https://gstreamer.freedesktop.org/data/pkg/windows/$version/msvc/gstreamer-1.0-msvc-arm64-$version.exe"
+            }
+        },
+        "hash": {
+            "url": "$url.sha256sum"
+        }
+    }
+}

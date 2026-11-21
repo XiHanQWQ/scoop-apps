@@ -1,10 +1,10 @@
 {
-    "version": "3.2.6.0",
+    "version": "3.3.1.0",
     "description": "The official client for 123 cloud dirve service",
     "homepage": "https://www.123pan.com/",
     "license": "Proprietary",
-    "url": "https://app.123957.com/pc-pro/windows/326/123pan_3.2.6.exe#/dl.7z",
-    "hash": "47cea5e782c1f8ca421e0ef8dd70a53a86b915f9a83b459de2f34cf634b93141",
+    "url": "https://app.123957.com/pc-pro/windows/331/123pan_3.3.1.exe#/dl.7z",
+    "hash": "6ae0b99e02de7673f1e34fcc9d3e74153a46b011e87771a9d86def6ae5a90c9e",
     "shortcuts": [
         [
             "123pan.exe",

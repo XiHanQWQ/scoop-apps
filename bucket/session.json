@@ -1,12 +1,12 @@
 {
-    "version": "1.18.2",
+    "version": "1.18.5",
     "description": "End-to-end encrypted messenger",
     "homepage": "https://getsession.org",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/session-foundation/session-desktop/releases/download/v1.18.2/session-desktop-win-x64-1.18.2.exe#/dl.7z",
-            "hash": "sha512:f7667704d0e15a48bc313ec8426312bf464baf2c5a9d549611366f70ba5fb04be44688db5b4c33d5ca2fb40598c122313b89f7cb1403d5a04580c5e1f1873f9d",
+            "url": "https://github.com/session-foundation/session-desktop/releases/download/v1.18.5/session-desktop-win-x64-1.18.5.exe#/dl.7z",
+            "hash": "sha512:833b6c8f3aa91db6bdd73b7eed045d960be5b98a01e001fc338a885f8cee0778a72e34d8f1186ddb22f4c6efbaf43035790e37b8edd7ac4c63f0ce5a3d0cc677",
             "installer": {
                 "script": [
                     "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",

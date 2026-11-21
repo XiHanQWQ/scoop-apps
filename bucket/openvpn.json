@@ -1,6 +1,6 @@
 {
     "##": "Renaming .msi to .msi_ to avoid auto extraction",
-    "version": "2.7.8-I001",
+    "version": "2.7.9-I002",
     "description": "A flexible virtual private network (VPN) solution to secure data communications.",
     "homepage": "https://openvpn.net",
     "license": "GPL-2.0-only",
@@ -12,16 +12,16 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://swupdate.openvpn.org/community/releases/OpenVPN-2.7.8-I001-amd64.msi#/setup.msi_",
-            "hash": "1ea61a3056905b90607d4b0f084c04e5cf3043e07cf192d9cd44b0474f29cc49"
+            "url": "https://swupdate.openvpn.org/community/releases/OpenVPN-2.7.9-I002-amd64.msi#/setup.msi_",
+            "hash": "d050efadc6cabc4e304eb810dd7fedfc54b859d34730ab9cdcb22d61eb86ab7a"
         },
         "32bit": {
-            "url": "https://swupdate.openvpn.org/community/releases/OpenVPN-2.7.8-I001-x86.msi#/setup.msi_",
-            "hash": "aa71b4d0d5b5c384879fdd1efacf9363d01022c962386384cce7be270aed8eb5"
+            "url": "https://swupdate.openvpn.org/community/releases/OpenVPN-2.7.9-I002-x86.msi#/setup.msi_",
+            "hash": "dd6ee2c11b460761c83b69f4d203ba5666cdf9c45fd91a4e30e427d7033c19d8"
         },
         "arm64": {
-            "url": "https://swupdate.openvpn.org/community/releases/OpenVPN-2.7.8-I001-arm64.msi#/setup.msi_",
-            "hash": "6fc0e8899cc5275ee297fb837bc84aa2bc49f8ef96d7ad93ee3fee1e7163a25c"
+            "url": "https://swupdate.openvpn.org/community/releases/OpenVPN-2.7.9-I002-arm64.msi#/setup.msi_",
+            "hash": "8bd057b45358161477438936a0160a17ad596d0069c96b3ede66f5004b0fb7d2"
         }
     },
     "pre_install": [

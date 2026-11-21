@@ -1,23 +1,23 @@
 {
-    "version": "0.7.1",
+    "version": "0.20.1",
     "description": "Page layout and publishing; an open-source, clean-room reimplementation of Adobe InDesign, rebuilt in pure Rust",
     "homepage": "https://getartcraft.com/apps/designcraft",
     "license": "MIT|Apache-2.0",
+    "notes": [
+        "Portable settings are now persisted in '$persist_dir\\DesignCraftData'.",
+        "Existing settings from earlier installations or user-profile folders are not migrated automatically.",
+        "If settings appear reset, close the app and copy your existing settings into the persistent folder, keeping a backup."
+    ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/storytold/designcraft/releases/download/v0.7.1/designcraft-0.7.1-windows-x64-portable.zip",
-            "hash": "b3db17ac0fc6e1db54d60c5491b5c1d6874459e2867495eaa74b5a8c56e59077",
-            "extract_dir": "designcraft-0.7.1-windows-x64-portable"
-        },
-        "32bit": {
-            "url": "https://github.com/storytold/designcraft/releases/download/v0.7.1/designcraft-0.7.1-windows-x86-portable.zip",
-            "hash": "9219ee03756be3a1f25576cdf213934f8e65c4f9bea343f2ea87864b99960fc8",
-            "extract_dir": "designcraft-0.7.1-windows-x86-portable"
+            "url": "https://github.com/storytold/designcraft/releases/download/v0.20.1/designcraft-0.20.1-windows-x64-portable.zip",
+            "hash": "178bd5ed8c518dfd85ed1677857c57a812d816c5ca552aa546cd55e0cab8c1ac",
+            "extract_dir": "designcraft-0.20.1-windows-x64-portable"
         },
         "arm64": {
-            "url": "https://github.com/storytold/designcraft/releases/download/v0.7.1/designcraft-0.7.1-windows-arm64-portable.zip",
-            "hash": "ae6d0a1d0ebed74ea74f4a20d8137b2749f5a0635c5766a97908ca081cd6820d",
-            "extract_dir": "designcraft-0.7.1-windows-arm64-portable"
+            "url": "https://github.com/storytold/designcraft/releases/download/v0.20.1/designcraft-0.20.1-windows-arm64-portable.zip",
+            "hash": "cf108db85a3dcad655805372a8679475ea6b0b6cf4a4a28ac729e7764881e507",
+            "extract_dir": "designcraft-0.20.1-windows-arm64-portable"
         }
     },
     "bin": "designcraft-cli.exe",
@@ -27,6 +27,7 @@
             "DesignCraft"
         ]
     ],
+    "persist": "DesignCraftData",
     "checkver": {
         "github": "https://github.com/storytold/designcraft"
     },
@@ -35,10 +36,6 @@
             "64bit": {
                 "url": "https://github.com/storytold/designcraft/releases/download/v$version/designcraft-$version-windows-x64-portable.zip",
                 "extract_dir": "designcraft-$version-windows-x64-portable"
-            },
-            "32bit": {
-                "url": "https://github.com/storytold/designcraft/releases/download/v$version/designcraft-$version-windows-x86-portable.zip",
-                "extract_dir": "designcraft-$version-windows-x86-portable"
             },
             "arm64": {
                 "url": "https://github.com/storytold/designcraft/releases/download/v$version/designcraft-$version-windows-arm64-portable.zip",

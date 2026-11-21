@@ -1,5 +1,5 @@
 {
-    "version": "1.1.8",
+    "version": "2.1.0",
     "description": "Safety-first disk cleaner and disk space analyzer for macOS and Windows, with duplicate file finder, large file cleanup, app uninstaller, and startup manager",
     "homepage": "https://mangodisk.app/",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/harry0703/MangoDisk/releases/download/v1.1.8/MangoDisk-1.1.8-windows-cli.exe#/MangoDiskcli.exe",
-            "hash": "91ce6098df6dcb901b176ffa456be8fa2690ba9278a618464c71da79e9b62b8c"
+            "url": "https://github.com/harry0703/MangoDisk/releases/download/v2.1.0/MangoDisk-2.1.0-windows-cli.exe#/MangoDiskcli.exe",
+            "hash": "ef4d685d7966d4bd7ea6ab5698569bada6678af0263210d47d2e1551900f715a"
         }
     },
     "bin": "MangoDiskcli.exe",

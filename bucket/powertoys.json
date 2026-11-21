@@ -1,5 +1,5 @@
 {
-    "version": "0.102.2851.0",
+    "version": "0.103.3151.0",
     "description": "A set of utilities for power users to tune and streamline their Windows experience for greater productivity.",
     "homepage": "https://github.com/microsoft/PowerToys",
     "license": "MIT",
@@ -12,12 +12,12 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/microsoft/PowerToys/releases/download/v0.102.2851.0/PowerToysUserSetup-0.102.2851.0-x64.exe",
-            "hash": "e8de59db7799d707d3d6ea7a3a5f82f4d22ba35261b6965a4a268853951553b6"
+            "url": "https://github.com/microsoft/PowerToys/releases/download/v0.103.3151/PowerToysUserSetup-0.103.3151.0-x64.exe",
+            "hash": "cb663fa04b2aaacede19cb35013545417a372a16d96a720c8352b411358692ab"
         },
         "arm64": {
-            "url": "https://github.com/microsoft/PowerToys/releases/download/v0.102.2851.0/PowerToysUserSetup-0.102.2851.0-arm64.exe",
-            "hash": "2c4ba043d8cc741d7a462f7d343fe46089e7cafe3029be06dcc9626633490a46"
+            "url": "https://github.com/microsoft/PowerToys/releases/download/v0.103.3151/PowerToysUserSetup-0.103.3151.0-arm64.exe",
+            "hash": "0a80468c6dc7955add69bb48af5eff1bf1e15dcfae92a5ea44f47039491c0d46"
         }
     },
     "installer": {
@@ -82,19 +82,19 @@
     "checkver": {
         "github": "https://api.github.com/repos/microsoft/PowerToys/releases",
         "jsonpath": "$[0].assets[*].browser_download_url",
-        "regex": "/releases/download/(?<tag>[\\w.]+)/PowerToysUserSetup-([\\d.]+)-x64\\.exe"
+        "regex": "/releases/download/(?<tag>[^/]+)/PowerToysUserSetup-([\\d.]+)-x64\\.exe"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/microsoft/PowerToys/releases/download/v$version/PowerToysUserSetup-$version-x64.exe"
+                "url": "https://github.com/microsoft/PowerToys/releases/download/$matchTag/PowerToysUserSetup-$version-x64.exe"
             },
             "arm64": {
-                "url": "https://github.com/microsoft/PowerToys/releases/download/v$version/PowerToysUserSetup-$version-arm64.exe"
+                "url": "https://github.com/microsoft/PowerToys/releases/download/$matchTag/PowerToysUserSetup-$version-arm64.exe"
             }
         },
         "hash": {
-            "url": "https://github.com/microsoft/PowerToys/releases/tag/v$version",
+            "url": "https://github.com/microsoft/PowerToys/releases/tag/$matchTag",
             "regex": "(?sm)$basename.*?>$sha256<"
         }
     }

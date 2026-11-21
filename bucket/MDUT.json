@@ -1,11 +1,11 @@
 {
-    "version": "3.1.1",
+    "version": "3.3.2",
     "license": "AGPL-3.0",
     "description": "MDUT - Multiple Database Utilization Tools",
     "homepage": "https://github.com/SafeGroceryStore/MDUT",
     "checkver": "github",
-    "url": "https://github.com/SafeGroceryStore/MDUT/releases/download/v3.1.1/v3.1.1_Multiple_Database_Utilization_Tools_windows_amd64.zip",
-    "hash": "f2e1258ca277aafa97851213084ea2d2d9c08e4dc4659c0c9d7851d1f24e4fbb",
+    "url": "https://github.com/SafeGroceryStore/MDUT/releases/download/v3.3.2/v3.3.2_Multiple_Database_Utilization_Tools_windows_amd64.zip",
+    "hash": "77a49babd113be112ec9203c43eff623392b7c1fa7f2cdc45948f7199f3aa63c",
     "autoupdate": {
         "url": "https://github.com/SafeGroceryStore/MDUT/releases/download/v$version/v$version_Multiple_Database_Utilization_Tools_windows_amd64.zip",
         "bin": [

@@ -1,12 +1,12 @@
 {
-    "version": "1.2.9",
+    "version": "1.2.14",
     "description": "One-click installer for Big Walk VR and Titanfall 2 VR",
     "homepage": "https://github.com/CircuitLord/CircuitLordVRModInstaller",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/CircuitLord/CircuitLordVRModInstaller/releases/download/v1.2.9/CircuitLordVRModInstaller.exe",
-            "hash": "d3d7a03aa42e7877acb9cf61164101b1bc2883219eb4c6a855bf3071f430540c"
+            "url": "https://github.com/CircuitLord/CircuitLordVRModInstaller/releases/download/v1.2.14/CircuitLordVRModInstaller.exe",
+            "hash": "cf00edc26291f1f5df024cb3937a1b03fb58de553feb4617a8739109146b0a26"
         }
     },
     "shortcuts": [

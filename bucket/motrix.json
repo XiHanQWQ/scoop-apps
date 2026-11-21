@@ -1,18 +1,26 @@
 {
-    "version": "1.8.19",
+    "version": "2.4.5",
     "description": "A full-featured download manager.",
     "homepage": "https://motrix.app",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-Setup-1.8.19.exe#/dl.7z",
-            "hash": "sha512:b8af895ba86f77ed5837b8a65580ec828b45fab647998bc1c82dc82426b857340a4306fc5222a6fb64c0f1c338bb221b90d8f563c7c7aa87d46664722ad56ab9",
-            "pre_install": [
-                "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
-                "Remove-Item \"$dir\\`$*\" -Force -Recurse"
-            ]
+            "url": "https://github.com/agalwood/Motrix/releases/download/v2.4.5/Motrix-2.4.5-win.zip",
+            "hash": "a6122bf5c5ecc54abaed43ba8b11ebb0a9678935ad3621246136922b60585460"
+        },
+        "arm64": {
+            "url": "https://github.com/agalwood/Motrix/releases/download/v2.4.5/Motrix-2.4.5-win-arm64.zip",
+            "hash": "512bc4c1bfc82d1670da0b11098ce728e624d8efc55dcda427dc5bb3d704f204"
         }
     },
+    "post_install": [
+        "# Disable built-in update mechanism to prevent conflicts with Scoop's update management",
+        "$yaml = \"$dir\\resources\\app-update.yml\"",
+        "$content = Get-Content -Path $yaml | Foreach-Object {",
+        "    if ($_.StartsWith('url')) { \"$($_.Replace('url', '# url')) # Disabled by Scoop\" } else { $_ }",
+        "}",
+        "Set-Content $yaml -Value $content -Encoding ascii"
+    ],
     "shortcuts": [
         [
             "Motrix.exe",
@@ -25,11 +33,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/agalwood/Motrix/releases/download/v$version/Motrix-Setup-$version.exe#/dl.7z",
-                "hash": {
-                    "url": "$baseurl/latest.yml",
-                    "regex": "sha512:\\s+$base64"
-                }
+                "url": "https://github.com/agalwood/Motrix/releases/download/v$version/Motrix-$version-win.zip"
+            },
+            "arm64": {
+                "url": "https://github.com/agalwood/Motrix/releases/download/v$version/Motrix-$version-win-arm64.zip"
             }
         }
     }

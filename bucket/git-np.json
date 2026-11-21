@@ -1,5 +1,5 @@
 {
-    "version": "2.56.0.2",
+    "version": "2.56.1",
     "description": "Distributed version control system",
     "homepage": "https://gitforwindows.org",
     "license": "GPL-2.0-only",
@@ -12,12 +12,12 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://mirrors.tuna.tsinghua.edu.cn/github-release/git-for-windows/git/LatestRelease/Git-2.56.0.2-64-bit.exe",
-            "hash": "52188f917b378f00c70ec136bcf090005f30d44fbc4eba0bce759cc6592d60f6"
+            "url": "https://mirrors.tuna.tsinghua.edu.cn/github-release/git-for-windows/git/LatestRelease/Git-2.56.1-64-bit.exe",
+            "hash": "c330c72e10b408cc39994bfefdb63542b0d93d21699325c3e0bd874af8a5a559"
         },
         "arm64": {
-            "url": "https://mirrors.tuna.tsinghua.edu.cn/github-release/git-for-windows/git/LatestRelease/Git-2.56.0.2-arm64.exe",
-            "hash": "b9ced78ce371577dc966f50ae571909d6731e36d31065d35c8efa21544c58bf0"
+            "url": "https://mirrors.tuna.tsinghua.edu.cn/github-release/git-for-windows/git/LatestRelease/Git-2.56.1-arm64.exe",
+            "hash": "6fe770b534a459d1158011e6ec0cd8390a3bcf44e542bee9e9a650310e111234"
         }
     },
     "innosetup": true,

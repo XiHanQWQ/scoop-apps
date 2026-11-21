@@ -1,5 +1,5 @@
 {
-    "version": "2.20.0",
+    "version": "4.0.0",
     "description": "Transport stream muxer for remuxing/muxing elementary streams into MPEG-TS format",
     "homepage": "https://github.com/teaching-droid/tsMuxer",
     "license": {
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/teaching-droid/tsMuxer/releases/download/v2.20.0/tsMuxeR-2.20.0-windows-x64.zip",
-            "hash": "1ef936c1fa6172abace296e878deaaca83fdea9f00256981d6d52c2fe71e7d89"
+            "url": "https://github.com/teaching-droid/tsMuxer/releases/download/v4.0.0/tsMuxeR-4.0.0-windows-x64.zip",
+            "hash": "5d2ccce0a855d7d44b62cf28f35e7942e94558d6ec1cef78ce0bc7fe5ded0eb0"
         },
         "32bit": {
-            "url": "https://github.com/teaching-droid/tsMuxer/releases/download/v2.20.0/tsMuxeR-2.20.0-windows-x86.zip",
-            "hash": "c65552b98d53306c6e707f965d0edb78382e68145c41bd222a84bf58f7e27d04"
+            "url": "https://github.com/teaching-droid/tsMuxer/releases/download/v4.0.0/tsMuxeR-4.0.0-windows-x86.zip",
+            "hash": "bb1e3151e08be85437b3285f5b4fee7c5432367241c769bf14ffba0eee927521"
         }
     },
     "bin": "tsMuxeR.exe",

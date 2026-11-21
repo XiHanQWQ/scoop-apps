@@ -1,5 +1,5 @@
 {
-    "version": "3.3.2",
+    "version": "3.3.4",
     "description": "Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)",
     "homepage": "https://ipinfo.io/",
     "license": {
@@ -8,19 +8,23 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ipinfo/cli/releases/download/ipinfo-3.3.2/ipinfo_3.3.2_windows_amd64.zip",
-            "hash": "4dd90321cf023b941f8b53db4554cb83d8437879e890b9ecb2a7ca492b0556d3"
+            "url": "https://github.com/ipinfo/cli/releases/download/ipinfo-3.3.4/ipinfo_3.3.4_windows_amd64.zip",
+            "hash": "42f97562f6d0a4014b91e2d5ee7903e3fc1aa3b50b7a3268d9bf484882d1082a"
         },
         "32bit": {
-            "url": "https://github.com/ipinfo/cli/releases/download/ipinfo-3.3.2/ipinfo_3.3.2_windows_386.zip",
-            "hash": "b5320d3b92f1075db5a1e0934aea23bcf2700fce4ed6f2256753da158450b4a9"
+            "url": "https://github.com/ipinfo/cli/releases/download/ipinfo-3.3.4/ipinfo_3.3.4_windows_386.zip",
+            "hash": "8e4537b64473c0e84afedea9aee3da03b23faa52922b0399d1811a45cf4352f6"
+        },
+        "arm64": {
+            "url": "https://github.com/ipinfo/cli/releases/download/ipinfo-3.3.4/ipinfo_3.3.4_windows_arm64.zip",
+            "hash": "42d19156d08aef8903c552c6e7253d02ddddb8bcd81193a593d2ac3af2f710da"
         }
     },
     "post_install": "Rename-Item \"$dir\\ipinfo_*.exe\" ipinfo.exe -Force",
     "bin": "ipinfo.exe",
     "checkver": {
         "github": "https://api.github.com/repos/ipinfo/cli/releases",
-        "jp": "$[0].tag_name",
+        "jp": "$[*].tag_name",
         "regex": "ipinfo-([\\d.]+)"
     },
     "autoupdate": {
@@ -30,6 +34,9 @@
             },
             "32bit": {
                 "url": "https://github.com/ipinfo/cli/releases/download/ipinfo-$version/ipinfo_$version_windows_386.zip"
+            },
+            "arm64": {
+                "url": "https://github.com/ipinfo/cli/releases/download/ipinfo-$version/ipinfo_$version_windows_arm64.zip"
             }
         }
     }

@@ -1,5 +1,5 @@
 {
-    "version": "0.105.0",
+    "version": "0.107.0",
     "description": "All-in-one repack for latest Microsoft Visual C++ Redistributable Runtimes, without the original setup bloat payload.",
     "homepage": "https://github.com/abbodi1406/vcredist",
     "license": {
@@ -9,16 +9,16 @@
     "notes": "View command-line options and usage examples by executing: `vcredist-aio.exe /?`",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/abbodi1406/vcredist/releases/download/v0.105.0/VisualCppRedist_AIO_x86_x64.exe#/vcredist-aio.exe",
-            "hash": "6045a79e7120f67ab7ba33e7783a2ee07950fcdb2906d6facf06ddc514b8a529"
+            "url": "https://github.com/abbodi1406/vcredist/releases/download/v0.107.0/VisualCppRedist_AIO_x86_x64.exe#/vcredist-aio.exe",
+            "hash": "1990ebb978d80b7a2abdd76fa6562f5969e39b775dc4a846ca9398a354d27b6b"
         },
         "32bit": {
-            "url": "https://github.com/abbodi1406/vcredist/releases/download/v0.105.0/VisualCppRedist_AIO_x86only.exe#/vcredist-aio.exe",
-            "hash": "15bc592263bc8f4a60db167312fa135340f5cd558acee05a0d85d1b8b577856c"
+            "url": "https://github.com/abbodi1406/vcredist/releases/download/v0.107.0/VisualCppRedist_AIO_x86only.exe#/vcredist-aio.exe",
+            "hash": "22c656cae8243d7a58d4e253e4373d244c2ae7ae5c5c85529aa4d73f7fc180bd"
         },
         "arm64": {
-            "url": "https://github.com/abbodi1406/vcredist/releases/download/v0.105.0/VisualCppRedist_AIO-arm64.exe#/vcredist-aio.exe",
-            "hash": "05d2d3fea6ef2dc0a4fd069208d1e1d1024cd0652e71b7ddbd4c4a33bd3babfb"
+            "url": "https://github.com/abbodi1406/vcredist/releases/download/v0.107.0/VisualCppRedist_AIO-arm64.exe#/vcredist-aio.exe",
+            "hash": "9fe33bc4521fa565dcb87c7cf7bafb8c442c12c6de21df242d0ea57c2af43bd6"
         }
     },
     "installer": {

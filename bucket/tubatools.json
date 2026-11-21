@@ -1,5 +1,5 @@
 {
-    "version": "1.6.4",
+    "version": "1.9.1",
     "description": "图吧工具箱 winUI3 版",
     "homepage": "https://tubawinui3.cn/",
     "license": {
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/luolangaga/tubatools/releases/download/v1.6.4/TubaWinUi3_Setup_1.6.4_x64.exe",
-            "hash": "71d1d318f1f10dbdb0402fbd0cc422fa18321336770afd4356f26ceaefa0e386"
+            "url": "https://github.com/luolangaga/tubatools/releases/download/v1.9.1/TubaWinUi3_Setup_1.9.1_x64.exe",
+            "hash": "d55f0e9f45bbbc5f59baf01e7dd674a888de84d9ac105639b8959647a3cfc5fa"
         },
         "arm64": {
-            "url": "https://github.com/luolangaga/tubatools/releases/download/v1.6.4/TubaWinUi3_Setup_1.6.4_arm64.exe",
-            "hash": "cbf9b3ff26f0dd1238c8be9311251992004787f6c34c6071813c737b47814789"
+            "url": "https://github.com/luolangaga/tubatools/releases/download/v1.9.1/TubaWinUi3_Setup_1.9.1_arm64.exe",
+            "hash": "6a96f28a2d43b0d38928af6f587c1959ec3ccb0f53f5afaa39e24c575708ac29"
         }
     },
     "innosetup": true,

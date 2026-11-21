@@ -1,12 +1,12 @@
 {
-    "version": "0.5.60",
+    "version": "0.5.63",
     "description": "Local-first personal agentic OS and everything app.",
     "homepage": "https://github.com/CoWork-OS/CoWork-OS",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/CoWork-OS/CoWork-OS/releases/download/v0.5.60/CoWork-OS-Setup-0.5.60.exe",
-            "hash": "d1151a88d71e0beb5881387f83954996c65550ca021c9ee56c5cefeebc9e28be",
+            "url": "https://github.com/CoWork-OS/CoWork-OS/releases/download/v0.5.63/CoWork-OS-Setup-0.5.63.exe",
+            "hash": "fe02fabffa0a9765984a1a8ecba522f7911ade10e4929dec6dfb87b6960d22e9",
             "installer": {
                 "script": [
                     "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\" -Removal",

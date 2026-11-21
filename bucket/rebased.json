@@ -1,5 +1,5 @@
 {
-    "version": "1.1.20",
+    "version": "1.1.24",
     "description": "An open-source remake of the short-lived JetBrains git client.",
     "homepage": "https://github.com/DetachHead/rebased",
     "license": {
@@ -12,12 +12,12 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/DetachHead/rebased/releases/download/1.1.20/rebased.win.zip",
-            "hash": "0b6e8940f5caa4e2b0edf33979dabeb19f17b8d49291d559a31c37f5b3ae3cfa"
+            "url": "https://github.com/DetachHead/rebased/releases/download/1.1.24/rebased.win.zip",
+            "hash": "3e480626c34745f9ade7cc43614f4e2357ae8980fb5cc6d2abf96af3c1460dfc"
         },
         "arm64": {
-            "url": "https://github.com/DetachHead/rebased/releases/download/1.1.20/rebased-aarch64.win.zip",
-            "hash": "117381a6534b99185396179407d079a94460792f74c92245e070d4b859b6cb35"
+            "url": "https://github.com/DetachHead/rebased/releases/download/1.1.24/rebased-aarch64.win.zip",
+            "hash": "45f969e6e795d0ec729804011456669d766bad0d09888a3cdc3dc2fa20faa869"
         }
     },
     "extract_to": "IDE",

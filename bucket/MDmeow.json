@@ -1,10 +1,10 @@
 {
-    "version": "1.8.3",
+    "version": "1.8.7",
     "description": "A minimalist, portable WYSIWYG Markdown editor",
     "homepage": "https://mdmeow.zakee.fun",
     "license": "MIT",
-    "url": "https://github.com/zakee039/MDmeow/releases/download/v1.8.3/MDmeow-1.8.3.exe#/MDmeow.exe",
-    "hash": "b7be80da742343d6f42356e6ed03f94059b94662377dd68bae7f31d7085598b8",
+    "url": "https://github.com/zakee039/MDmeow/releases/download/v1.8.7/MDmeow-1.8.7.exe#/MDmeow.exe",
+    "hash": "b5c97827e82fae42c8334e3bd71db396e7ff3146bc15f4bba3bcfe1b8fee1174",
     "bin": [
         [
             "MDmeow.exe",

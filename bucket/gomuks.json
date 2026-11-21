@@ -1,17 +1,33 @@
 {
-    "version": "0.3.1",
-    "description": "A terminal based Matrix client",
-    "homepage": "https://github.com/tulir/gomuks",
+    "version": "0.2611.1",
+    "description": "A Matrix client written in Go",
+    "homepage": "https://gomuks.app",
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tulir/gomuks/releases/download/v0.3.1/gomuks-windows-amd64.exe#/gomuks.exe",
-            "hash": "5f9d36a08707dbd8ac80a8a2efafa18a8d771252f81312798980a5d645ae59cb"
+            "url": "https://github.com/gomuks/gomuks/releases/download/v0.2611.1/gomuks-windows-amd64.exe#/gomuks.exe",
+            "hash": "94945b3bfb450320ad3a1572665b486441b542625cc99190e90faee9747b8207"
         }
     },
     "bin": "gomuks.exe",
-    "checkver": "github",
+    "shortcuts": [
+        [
+            "gomuks.exe",
+            "gomuks"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/gomuks/gomuks"
+    },
     "autoupdate": {
-        "url": "https://github.com/tulir/gomuks/releases/download/v$version/gomuks-windows-amd64.exe#/gomuks.exe"
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/gomuks/gomuks/releases/download/v$version/gomuks-windows-amd64.exe#/gomuks.exe"
+            }
+        },
+        "hash": {
+            "url": "$baseurl/sha256sums.txt",
+            "regex": "$basename.*?([a-f0-9]{64})"
+        }
     }
 }

@@ -1,5 +1,5 @@
 {
-    "version": "32.2.2",
+    "version": "33.0.2",
     "description": "Video recording and live streaming software",
     "homepage": "https://obsproject.com",
     "license": "GPL-2.0-only",
@@ -9,8 +9,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://mirrors.tuna.tsinghua.edu.cn/github-release/obsproject/obs-studio/LatestRelease/OBS-Studio-32.2.2-Windows-x64.zip",
-            "hash": "4d6e40e3ab155f56b30de517380566a206d74b63cdf5ad49aa596924768f97e1",
+            "url": "https://mirrors.tuna.tsinghua.edu.cn/github-release/obsproject/obs-studio/LatestRelease/OBS-Studio-33.0.2-Windows-x64.zip",
+            "hash": "fcfdb3e4568e45c519ac2171905f76edd0ce9777aea9d0b09dc33a1fc76948c5",
             "shortcuts": [
                 [
                     "bin\\64bit\\obs64.exe",
@@ -19,8 +19,8 @@
             ]
         },
         "arm64": {
-            "url": "https://mirrors.tuna.tsinghua.edu.cn/github-release/obsproject/obs-studio/LatestRelease/OBS-Studio-32.2.2-Windows-arm64.zip",
-            "hash": "b16b41c3cf89b8a919738359a46acb25d207ec1e488563139d7c276cfffb0906",
+            "url": "https://mirrors.tuna.tsinghua.edu.cn/github-release/obsproject/obs-studio/LatestRelease/OBS-Studio-33.0.2-Windows-arm64.zip",
+            "hash": "c78bf62681e2a46179b60f7a53c37273698ee546f3c9210fe25f14906b7d1ef8",
             "shortcuts": [
                 [
                     "bin\\64bit\\obs64.exe",

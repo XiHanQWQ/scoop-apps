@@ -1,13 +1,13 @@
 {
-	"version": "v7-preview.15",
+	"version": "v7-preview.21",
 	"description": "CUDA on AMD GPUs.",
 	"homepage": "https://github.com/vosen/ZLUDA",
 	"license": {
 		"identifier": "Apache-2.0",
 		"url": "https://github.com/vosen/ZLUDA/blob/master/LICENSE-APACHE"
 	},
-	"url": "https://github.com/vosen/ZLUDA/releases/download/v7-preview.15/zluda-windows-86ec0a9.zip",
-	"hash": "f880cd55e77bc916892fe57558925214217102c3df6be9150c17fe64abac4499",
+	"url": "https://github.com/vosen/ZLUDA/releases/download/v7-preview.21/zluda-windows-eb89ae3.zip",
+	"hash": "ebb7e53f2c1f45dc70172fde68ceb83115f1817d7709437e6afeff6fa0b43482",
 	"extract_dir": "zluda",
 	"bin": ["zluda.exe", "zluda_precompile.exe", "ptxas.exe"],
 	"checkver": {

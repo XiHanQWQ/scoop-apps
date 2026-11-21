@@ -1,16 +1,16 @@
 {
-    "version": "0.15.8",
+    "version": "0.15.12",
     "homepage": "https://crates.io/crates/typlite",
     "description": "Converts a subset of typst to markdown.",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Myriad-Dreamin/tinymist/releases/download/v0.15.8/typlite-x86_64-pc-windows-msvc.zip",
-            "hash": "d8b5dbf52b69c4980561fb5cdee64ff73d38bacaf21c8be66f89127ef954ac84"
+            "url": "https://github.com/Myriad-Dreamin/tinymist/releases/download/v0.15.12/typlite-x86_64-pc-windows-msvc.zip",
+            "hash": "66f2aba364752bc215bac596852fd2c0d533fd1e6c0118f38795c57dcc262e85"
         },
         "arm64": {
-            "url": "https://github.com/Myriad-Dreamin/tinymist/releases/download/v0.15.8/typlite-aarch64-pc-windows-msvc.zip",
-            "hash": "41bc17950b54a5f4c903d6a3c05303cc3a87826e227f84f46172a6062ac4ca77"
+            "url": "https://github.com/Myriad-Dreamin/tinymist/releases/download/v0.15.12/typlite-aarch64-pc-windows-msvc.zip",
+            "hash": "2ed269c538727adff67785706377ab9b4d97d71eed290888324fcec350b5abb0"
         }
     },
     "bin": "typlite.exe",

@@ -1,10 +1,10 @@
 {
-    "version": "2.32.4",
+    "version": "2.36.10",
     "description": "LLM client by douyin",
     "homepage": "https://doubao.com",
     "license": "Proprietary",
-    "url": "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao_pc/2.32.4/Doubao_installer_2.32.4.exe",
-    "hash": "4d7d2e855c6815e9b24a0230dc435f16033da27d9b1457d46cd63d0178432668",
+    "url": "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao_pc/2.36.10/Doubao_installer_2.36.10.exe",
+    "hash": "fbdd34b3ad65e53103f2512e4c6096ecf45672cc92262220985b94e494fccd9d",
     "installer": {
         "script": "Expand-7zipArchive -Path \"$dir\\Doubao_installer_$version.exe\" -DestinationPath \"$dir\" -Removal"
     },

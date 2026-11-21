@@ -1,12 +1,12 @@
 {
-    "version": "5.11.1",
+    "version": "5.11.4",
     "description": "A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",
     "homepage": "https://github.com/SaladDay/cc-switch-cli",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/SaladDay/cc-switch-cli/releases/download/v5.11.1/cc-switch-cli-v5.11.1-windows-x64.zip",
-            "hash": "540cb8fb3adb859bfb9a8dc7ea481f8122f90ab94325ba60d79169a7f0108c07"
+            "url": "https://github.com/SaladDay/cc-switch-cli/releases/download/v5.11.4/cc-switch-cli-v5.11.4-windows-x64.zip",
+            "hash": "cfafaa7e0070d5f2498c14c427639f3473c6a17eb0fc7e1d1d79d7950421288a"
         }
     },
     "bin": "cc-switch.exe",

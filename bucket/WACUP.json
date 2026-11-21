@@ -1,9 +1,9 @@
 {
-    "version": "1.99.55.25130",
+    "version": "1.99.57.25464",
     "homepage": "https://getwacup.com/",
     "license": "freeware",
-    "url": "https://getwacup.com/preview/WACUP_Preview_v1_99_55_25130_x86.exe#/dl.7z",
-    "hash": "8f8a09b86c33362b61b1fff54af3dcb0a54e386c521416d43718572113ac1898",
+    "url": "https://getwacup.com/preview/WACUP_Preview_v1_99_57_25464_x86.exe#/dl.7z",
+    "hash": "b2f72661c934c732d1a968d0767478aae3a43f1b34bde801970884053c0a6ed6",
     "installer": {
         "script": [
             "Rename-Item \"$dir\\wacup_update.dll\" \"$dir\\winamp.dll\"",

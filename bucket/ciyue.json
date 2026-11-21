@@ -1,5 +1,5 @@
 {
-    "version": "1.23.2",
+    "version": "2.3.0",
     "description": "A simple mdict dictionary with Android/Windows/Linux support",
     "homepage": "https://mumulhl.eu.org/Ciyue/",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mumu-lhl/Ciyue/releases/download/v1.23.2/ciyue-windows.zip",
-            "hash": "078fed5fc07b1922108a32822f8b2ae59c410aba041d0ac3c9bc54ded4217cf7"
+            "url": "https://github.com/mumu-lhl/Ciyue/releases/download/v2.3.0/ciyue-windows.zip",
+            "hash": "ba880d0f1391f8a786143cccadf0b8bd7dc3664891ff1cd796330de5a606d27e"
         }
     },
     "installer": {

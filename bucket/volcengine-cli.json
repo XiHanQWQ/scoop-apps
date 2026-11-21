@@ -1,16 +1,16 @@
 {
-    "version": "1.2.0",
+    "version": "2.0.2",
     "description": "Volcengine CLI — command-line tool for Volcengine OpenAPI (ve). Configure credentials, switch profiles, query and call service APIs.",
     "homepage": "https://github.com/volcengine/volcengine-cli",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/volcengine/volcengine-cli/releases/download/v1.2.0/volcengine-cli_1.2.0_windows_amd64.zip",
-            "hash": "d0a866c515c25bda66d5b69c50edfea7b69abe169f246f6e3438f17d01255921"
+            "url": "https://github.com/volcengine/volcengine-cli/releases/download/v2.0.2/volcengine-cli_2.0.2_windows_amd64.zip",
+            "hash": "4f71c70f0daa37564c2bee64b7dfb88da11deffd9c05e2d1a5959b1de620fc0e"
         },
         "arm64": {
-            "url": "https://github.com/volcengine/volcengine-cli/releases/download/v1.2.0/volcengine-cli_1.2.0_windows_arm64.zip",
-            "hash": "e3fc90dada19277a4ff785710f10d3a62952e7194a47e7ddf61a22af15834a3f"
+            "url": "https://github.com/volcengine/volcengine-cli/releases/download/v2.0.2/volcengine-cli_2.0.2_windows_arm64.zip",
+            "hash": "2bd3cb77d05831fd77e5f485e7da036bedc35533ea53a7e5df842a4d88647eed"
         }
     },
     "bin": "ve.exe",

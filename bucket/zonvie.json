@@ -1,5 +1,5 @@
 {
-    "version": "0.4.1",
+    "version": "0.4.5",
     "description": "A fast, feature-rich Neovim GUI built with Zig.",
     "homepage": "https://github.com/akiyosi/zonvie",
     "license": {
@@ -11,12 +11,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/akiyosi/zonvie/releases/download/v0.4.1/zonvie-v0.4.1-windows-x64.zip",
-            "hash": "72fe001b5e5bb3274ae9431a0e64ac05eb5c21c75efc0979e0d2fdd1e381a0ef"
+            "url": "https://github.com/akiyosi/zonvie/releases/download/v0.4.5/zonvie-v0.4.5-windows-x64.zip",
+            "hash": "5ccdd3e64d29ba8afa5569c6150a54d011f0d2a7dfd7fd37be0e856a556ea738"
         },
         "arm64": {
-            "url": "https://github.com/akiyosi/zonvie/releases/download/v0.4.1/zonvie-v0.4.1-windows-arm64.zip",
-            "hash": "1aa575bb5b63caf1e4c384eab9a70d83ebe90781cca2122c0d8eec66ce854489"
+            "url": "https://github.com/akiyosi/zonvie/releases/download/v0.4.5/zonvie-v0.4.5-windows-arm64.zip",
+            "hash": "9ee6dbad2f262f8a5973078155e9d33a859d9b8f586b84b40e97ee1da321a984"
         }
     },
     "bin": "zonvie.exe",

@@ -1,12 +1,12 @@
 {
-    "version": "6.3.0",
+    "version": "6.4.1",
     "description": "一站式在线弹幕追番平台：全自动 BT + 在线多数据源聚合，离线缓存，Bangumi 收藏同步，弹幕云过滤 ...",
     "homepage": "https://myani.org/",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/open-ani/ani/releases/download/v6.3.0/ani-6.3.0-windows-x86_64.zip",
-            "hash": "947e0d4e2085c4a29b1e3226fff4db6b4388e284ace70ed188cff437333aae6b",
+            "url": "https://github.com/open-ani/ani/releases/download/v6.4.1/ani-6.4.1-windows-x86_64.zip",
+            "hash": "57620c8a1690141214771b5502eda77be44ef98dee4983a6d505e053275cc9f4",
             "extract_dir": "Ani"
         }
     },

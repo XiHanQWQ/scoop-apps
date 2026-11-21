@@ -1,5 +1,5 @@
 {
-    "version": "1.46.64",
+    "version": "1.46.88",
     "description": "Free remote desktop and remote support tool with end-to-end encryption",
     "homepage": "https://www.hoptodesk.com",
     "license": "AGPL-3.0-or-later",
@@ -9,16 +9,16 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://dl.hoptodesk.com/releases/1.46.64/HopToDesk64.exe#/HopToDesk.exe",
-            "hash": "70fe863eb246294c364594f016c3c2f2c5f1b7decce0792c7e0a66fa550775f1"
+            "url": "https://dl.hoptodesk.com/releases/1.46.88/HopToDesk64.exe#/HopToDesk.exe",
+            "hash": "1586f3bc3538a9e7a40c5273bdfe73f50070cffae119ecc725d7e604101fff88"
         },
         "32bit": {
-            "url": "https://dl.hoptodesk.com/releases/1.46.64/HopToDesk.exe#/HopToDesk.exe",
-            "hash": "9cc6897253bca6f0390d4f9c89f384cedfd08b453376a0f4d453504a4b76bce2"
+            "url": "https://dl.hoptodesk.com/releases/1.46.88/HopToDesk.exe#/HopToDesk.exe",
+            "hash": "0a3f6fcd6b096f934ce8af069f76560fe5798e344157c24c9f3d9b9cc34d8629"
         },
         "arm64": {
-            "url": "https://dl.hoptodesk.com/releases/1.46.64/hoptodesk-arm64.exe#/HopToDesk.exe",
-            "hash": "9debe9a4c65574ee98fd51ed5e93cdb023f4507056015e0331692d652a5903d3"
+            "url": "https://dl.hoptodesk.com/releases/1.46.88/hoptodesk-arm64.exe#/HopToDesk.exe",
+            "hash": "afe2db1e4f19735eec7cd109de51f079bdfcd2cc0a14e66ae012186d2fefd48e"
         }
     },
     "bin": "HopToDesk.exe",

@@ -1,16 +1,16 @@
 {
-    "version": "33.0.0-rc1",
+    "version": "33.0.0-rc3",
     "description": "Video recording and live streaming software",
     "homepage": "https://obsproject.com",
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.0-rc1/OBS-Studio-33.0.0-rc1-Windows-x64.zip",
-            "hash": "2934bda03b5288378ca32a51dfe1003d4a557531a6af2ba105d7671d7557ad1f"
+            "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.0-rc3/OBS-Studio-33.0.0-rc3-Windows-x64.zip",
+            "hash": "92db35465aec0f70ab11d033674be724603780620603f87a7c56e95ed990aa28"
         },
         "arm64": {
-            "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.0-rc1/OBS-Studio-33.0.0-rc1-Windows-arm64.zip",
-            "hash": "7205f9c3acb048c167c7fc38b2c3efd11d534f0f42242caa496a036785471a3c"
+            "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.0-rc3/OBS-Studio-33.0.0-rc3-Windows-arm64.zip",
+            "hash": "1d0347968388ad7f187701bfa13e3748211e575bd4332bc4951d8e16e456ad57"
         }
     },
     "pre_install": "if (!(Test-Path \"$persist_dir\\portable_mode.txt\")) { New-Item \"$dir\\portable_mode.txt\" | Out-Null }",

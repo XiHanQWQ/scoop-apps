@@ -1,0 +1,36 @@
+{
+    "version": "0.11.1",
+    "description": "Project management for human + agent teams (CLI)",
+    "homepage": "https://multica.ai",
+    "license": {
+        "identifier": "Apache-2.0",
+        "url": "https://github.com/multica-ai/multica/blob/main/LICENSE"
+    },
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/multica-ai/multica/releases/download/v0.11.1/multica-cli-0.11.1-windows-amd64.zip",
+            "hash": "80a768549296151c17fe2e99a15aad4396eb3e1f779d95b3b25276f9114dd00b"
+        },
+        "arm64": {
+            "url": "https://github.com/multica-ai/multica/releases/download/v0.11.1/multica-cli-0.11.1-windows-arm64.zip",
+            "hash": "fc011ae2c505e55211169c443ad03765ce943f73e14adf137575cc19a9be364e"
+        }
+    },
+    "bin": "multica.exe",
+    "checkver": {
+        "github": "https://github.com/multica-ai/multica"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/multica-ai/multica/releases/download/v$version/multica-cli-$version-windows-amd64.zip"
+            },
+            "arm64": {
+                "url": "https://github.com/multica-ai/multica/releases/download/v$version/multica-cli-$version-windows-arm64.zip"
+            }
+        },
+        "hash": {
+            "url": "$baseurl/checksums.txt"
+        }
+    }
+}

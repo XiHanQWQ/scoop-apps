@@ -1,11 +1,11 @@
 {
-    "version": "121.0.0",
+    "version": "124.0.0",
     "description": "SteelSeries GG. SteelSeries GG helps create better connections with your gear, your people and your game",
     "homepage": "https://steelseries.com/gg/",
     "license": "Propritary",
     "changelog": "https://techblog.steelseries.com/",
     "url": "https://steelseries.com/gg/downloads/gg/latest/windows#/setup.exe",
-    "hash": "2fffd8fe5a22172f6d8c47bdcd79237c097f0691d6c7db531fa4d37e2dc21907",
+    "hash": "01af0c88c8e91fb932f26b2894ac73d1339f0e11903719fdcfd45067a19effc9",
     "pre_download": "Assert-Administrator",
     "installer": {
         "script": [

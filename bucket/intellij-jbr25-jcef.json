@@ -1,18 +1,18 @@
 {
-    "version": "25.0.4.1-b635.72",
+    "version": "25.0.5.0.3-b700.17",
     "homepage": "https://github.com/JetBrains/JetBrainsRuntime",
     "description": "A fork of OpenJDK that supports enhanced class redefinition (DCEVM), features optional JCEF, a framework for embedding Chromium-based browsers, includes a number of improvements in font rendering, keyboards support, windowing/focus subsystems, HiDPI, accessibility, and performance, provides better desktop integration and bugfixes not yet present in OpenJDK.",
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-25.0.4.1-windows-x64-b635.72.tar.gz",
-            "hash": "sha512:84d3a7c486eb8c2b287784bfdc7c11c322fbb22cf49b38e9f56905f99675a4add29d702fbc3416738320b6be68cb773b0510d11562b61de5b9d8a76d0080a118",
-            "extract_dir": "jbr_jcef-25.0.4.1-windows-x64-b635.72"
+            "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-25.0.5.0.3-windows-x64-b700.17.tar.gz",
+            "hash": "sha512:3b0b880c19f1e50de1d7de8ab2548d5a123fe0333a38f142421a9edca10376311b7201dd03d5e18485973880cde58c5e0feed27f8754a7c3fb8ae2fa297513e3",
+            "extract_dir": "jbr_jcef-25.0.5.0.3-windows-x64-b700.17"
         },
         "arm64": {
-            "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-25.0.4.1-windows-aarch64-b635.72.tar.gz",
-            "hash": "sha512:cab7833885b91b82c4cc87488144eb10e109e168f227feb835837a9cdba1f87488556357dbb09de9ab1b1d16d4d09322987147be74a7426167e251a92656eb59",
-            "extract_dir": "jbr_jcef-25.0.4.1-windows-aarch64-b635.72"
+            "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-25.0.5.0.3-windows-aarch64-b700.17.tar.gz",
+            "hash": "sha512:8bc7478828a8852e4f065d21ebd548a2a55ceb5408856a7312533d2295c91eb41d74fd137f5dc94d44730750ea74a5559fac5a555463148170bbeff662f38a3c",
+            "extract_dir": "jbr_jcef-25.0.5.0.3-windows-aarch64-b700.17"
         }
     },
     "env_set": {

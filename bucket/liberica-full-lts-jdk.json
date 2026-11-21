@@ -1,19 +1,19 @@
 {
     "description": "BellSoft Liberica is a 100% open-source Java implementation",
     "homepage": "https://bell-sw.com/java",
-    "version": "25.0.4.1-1",
+    "version": "25.0.5.1-5",
     "license": "GPL-2.0-only WITH Classpath-exception-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.4.1%2B1/bellsoft-jdk25.0.4.1%2B1-windows-amd64-full.zip",
-            "hash": "sha1:7dadf1956cc71655671fa28cd410c8566a07c22e"
+            "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.5.1%2B5/bellsoft-jdk25.0.5.1%2B5-windows-amd64-full.zip",
+            "hash": "sha1:9cdf7635069d1b303444a97700f037f1b7fbd59e"
         },
         "arm64": {
-            "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.4.1%2B1/bellsoft-jdk25.0.4.1%2B1-windows-aarch64-full.zip",
-            "hash": "sha1:cfd10ebc728985ae8fc79cdd3d6db88076338943"
+            "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.5.1%2B5/bellsoft-jdk25.0.5.1%2B5-windows-aarch64-full.zip",
+            "hash": "sha1:a95ac97ec02cdd3b4aa0c702c398830ad56a2810"
         }
     },
-    "extract_dir": "jdk-25.0.4.1-full",
+    "extract_dir": "jdk-25.0.5.1-full",
     "env_add_path": "bin",
     "env_set": {
         "JAVA_HOME": "$dir"

@@ -1,5 +1,5 @@
 {
-    "version": "8.5.11",
+    "version": "8.5.13",
     "description": "PHP, a popular general-purpose scripting language that is especially suited to web development. (version 8.5)",
     "homepage": "https://www.php.net",
     "license": "PHP-3.01",
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://downloads.php.net/~windows/releases/archives/php-8.5.11-Win32-vs17-x64.zip",
-            "hash": "c83d5a1e0d760fb026ce695d8a70a73a4c81ac224b3e5c425406b23a7d53e1de"
+            "url": "https://downloads.php.net/~windows/releases/archives/php-8.5.13-Win32-vs17-x64.zip",
+            "hash": "792fe1553895ee98f9bc3c9d50c539910f7d0066676a6523207ca91429d4d475"
         },
         "32bit": {
-            "url": "https://downloads.php.net/~windows/releases/archives/php-8.5.11-Win32-vs17-x86.zip",
-            "hash": "f137da9dc16de3b6c096ceb1071a54630655af4de2e64f1fbf578cc91ba5bf4d"
+            "url": "https://downloads.php.net/~windows/releases/archives/php-8.5.13-Win32-vs17-x86.zip",
+            "hash": "8d3adfc7411c7b1b8a6d283e0f456e01a70151665ee81c03178c1285efce62c2"
         }
     },
     "pre_install": [
@@ -42,8 +42,8 @@
         ]
     ],
     "checkver": {
-        "url": "https://www.php.net/releases/branches.php",
-        "jsonpath": "$.[?(@.branch == '8.5')].latest"
+        "url": "https://downloads.php.net/~windows/releases/releases.json",
+        "jsonpath": "$['8.5'].version"
     },
     "autoupdate": {
         "architecture": {

@@ -1,5 +1,5 @@
 {
-    "version": "2.1.5.5966",
+    "version": "2.2.0.6231",
     "description": "基于PiliPlus做了一些自用修改",
     "homepage": "https://karing.app/",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Starfallan/PiliNara/releases/download/2.1.5.1/PiliNara_windows_2.1.5+5966_x64_setup.exe",
-            "hash": "761abbaea6e92d09c9f4720c5948babcb3d8d1b4d5bf689379f2f28aa8927942"
+            "url": "https://github.com/Starfallan/PiliNara/releases/download/2.6.2/PiliNara_windows_2.2.0+6231_x64_setup.exe",
+            "hash": "1b12bb938e7de43e9c8151ec2b7db8cf294378c705cee0b35b651d8c5a5dd441"
         }
     },
     "innosetup": true,

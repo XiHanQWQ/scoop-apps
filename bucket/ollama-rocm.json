@@ -1,5 +1,5 @@
 {
-    "version": "0.40.4",
+    "version": "0.40.16",
     "description": "Get up and running with large language models locally, with ROCm support.",
     "homepage": "https://ollama.com/",
     "license": "MIT",
@@ -11,12 +11,12 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://github.com/ollama/ollama/releases/download/v0.40.4/ollama-windows-amd64.zip",
-                "https://github.com/ollama/ollama/releases/download/v0.40.4/ollama-windows-amd64-rocm.zip"
+                "https://github.com/ollama/ollama/releases/download/v0.40.16/ollama-windows-amd64.zip",
+                "https://github.com/ollama/ollama/releases/download/v0.40.16/ollama-windows-amd64-rocm.zip"
             ],
             "hash": [
-                "7485a1172f8527db4342a63521b9342fc466185ff0855da378cc864ecf6354cf",
-                "3098b22bf167767ed7967f8621ba958dda862e88f4c894b9e561bf5b44cfb556"
+                "50fcf5ad54277f2fa5d173ebfc93bcb017adbc0c9ef2314daabc96ca9e6aa64e",
+                "0daf19f77f678a02264b5fa398d6988dece19832ca1682f1f7b8f81450d1f574"
             ]
         }
     },

@@ -1,12 +1,12 @@
 {
-    "version": "1.25.0",
+    "version": "2.2.0",
     "description": "A desktop AI coding assistant for local projects.",
     "homepage": "https://bronya0.github.io/ally-agent/",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Bronya0/ally-agent/releases/download/v1.25.0/Ally-v1.25.0-windows-x64.zip",
-            "hash": "b0ec6bf7071afe539ae50909d1e6759a95400309fd42de71b3eba29970b1e91b"
+            "url": "https://github.com/Bronya0/ally-agent/releases/download/v2.2.0/Ally-v2.2.0-windows-x64.zip",
+            "hash": "7cc3b4fd8870cc8c697912a2642a8ad75e03af8c93748a9076e04cd932cc4bb6"
         }
     },
     "bin": [

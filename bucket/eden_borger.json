@@ -34,11 +34,10 @@
         "   }",
         "}"
     ],
-    "bin": "eden.exe",
     "shortcuts": [
         [
             "eden.exe",
-            "Nintendo Switch [switch][eden]"
+            "Nintendo Switch [nsw][eden]"
         ]
     ],
     "persist": "user",

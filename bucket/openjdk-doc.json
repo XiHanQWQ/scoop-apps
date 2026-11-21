@@ -1,8 +1,8 @@
 {
-    "version": "27.u35-1",
+    "version": "27.0.1.1.u4-1",
     "homepage": "https://openjdk.java.net/",
-    "url": "https://mirrors.tuna.tsinghua.edu.cn/archlinux/extra/os/x86_64/openjdk-doc-27.u35-1-x86_64.pkg.tar.zst",
-    "hash": "8b932eadc2a07a07b73a2503a7b25eb34cf092b8a2bb39d913d25ebb98c63a18",
+    "url": "https://mirrors.tuna.tsinghua.edu.cn/archlinux/extra/os/x86_64/openjdk-doc-27.0.1.1.u4-1-x86_64.pkg.tar.zst",
+    "hash": "569e0a08845f139aff1549be23679e3aee55095f7d1a9def63aa88ab9480bd19",
     "installer": {
         "script": [
             "# Robocopy is too slow!",

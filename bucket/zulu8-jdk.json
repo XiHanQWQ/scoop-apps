@@ -1,21 +1,21 @@
 {
     "description": "Zulu 8 is certified build of OpenJDK 8",
     "homepage": "https://www.azul.com/products/zulu-community/",
-    "version": "8.96.0.205",
+    "version": "8.98.0.201",
     "license": {
         "identifier": "GPL-2.0-only WITH Classpath-exception-2.0",
         "url": "https://www.azulsystems.com/license/zulu_third_party_licenses.html"
     },
     "architecture": {
         "64bit": {
-            "url": "https://cdn.azul.com/zulu/bin/zulu8.96.0.205-ca-jdk8.0.504-win_x64.zip",
-            "hash": "510d00a6814ee576205cdfec7efd0c9f93b066b34bf3f841b8854594dc97476b",
-            "extract_dir": "zulu8.96.0.205-ca-jdk8.0.504-win_x64"
+            "url": "https://cdn.azul.com/zulu/bin/zulu8.98.0.201-ca-jdk8.0.514-win_x64.zip",
+            "hash": "ab833a2af66a80e003dacc97c598eaa8fa1a54c2be441e661ef80214eba99a97",
+            "extract_dir": "zulu8.98.0.201-ca-jdk8.0.514-win_x64"
         },
         "32bit": {
-            "url": "https://cdn.azul.com/zulu/bin/zulu8.96.0.205-ca-jdk8.0.504-win_i686.zip",
-            "hash": "bc8fbc9057c639fb5d83167a09429dedce9243f92bae810fdb04c06bb6045016",
-            "extract_dir": "zulu8.96.0.205-ca-jdk8.0.504-win_i686"
+            "url": "https://cdn.azul.com/zulu/bin/zulu8.98.0.201-ca-jdk8.0.514-win_i686.zip",
+            "hash": "3e5a1b5d32f8a43b88d83d666b6619598ad1df8dac80a5f23de966d05600f69c",
+            "extract_dir": "zulu8.98.0.201-ca-jdk8.0.514-win_i686"
         }
     },
     "env_add_path": "bin",

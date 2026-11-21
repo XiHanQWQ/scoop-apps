@@ -1,15 +1,15 @@
 {
-    "version": "7.4.15",
+    "version": "8.0.0",
     "homepage": "https://www.zabbix.com/",
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://cdn.zabbix.com/zabbix/binaries/stable/7.4/7.4.15/zabbix_agent2-7.4.15-windows-amd64-openssl-static.zip",
-            "hash": "c7dd151f6a517cf1467096d468aa53f73ba42987842f526aa63621528de051f5"
+            "url": "https://cdn.zabbix.com/zabbix/binaries/stable/8.0/8.0.0/zabbix_agent2-8.0.0-windows-amd64-openssl-static.zip",
+            "hash": "a583ae2d2a3f2c7afd29216a00ea6784b05d1dd64b5458d0ab3551170fff5af1"
         },
         "32bit": {
-            "url": "https://cdn.zabbix.com/zabbix/binaries/stable/7.4/7.4.15/zabbix_agent2-7.4.15-windows-i386-openssl-static.zip",
-            "hash": "f113378b3385e38dbf1708b5384f5491ef627df86038a59d835fdc756c37b9d4"
+            "url": "https://cdn.zabbix.com/zabbix/binaries/stable/8.0/8.0.0/zabbix_agent2-8.0.0-windows-i386-openssl-static.zip",
+            "hash": "3112d13273b8dd3b49bc5d9b0f9e7c2becc97eca6629ac957e17a300250487d5"
         }
     },
     "bin": [
